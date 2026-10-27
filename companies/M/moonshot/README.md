@@ -1,0 +1,20 @@
+# Moonshot
+
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 4
+
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+
+## Role profiles by seniority
+
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+|---|---:|---:|---:|---:|---:|---:|
+| AI Engineer | 0 | 0 | 3 | 4 | 4 | 4 |
+
+## AI Engineer
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Explain how you'd sanity-check whether a model actually supports the context length it advertises for your task, before relying on it in production. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-sanity-check-whether-a-model-actually-supports-the-c-77995) |
+| Explain why a model with a 1M-token window can still fail a needle-in-haystack retrieval at 400k tokens, and how you'd measure your effective usable context. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-model-with-a-1m-token-window-can-still-fail-a-needle-in--77916) |
+| How would you explain to a teammate why a reasoning model can be cheaper per correct answer despite higher per-token cost, and when that math flips? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-to-a-teammate-why-a-reasoning-model-can-be-cheap-77967) |
+| Describe how you'd budget and throughput-plan for a long-context (1M-token) use case where a single request can monopolize a GPU. | expertise | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-budget-and-throughput-plan-for-a-long-context-1m-to-86366) |

@@ -1,0 +1,12 @@
+# LTIMindtree — Data Structures & Algorithms
+
+[← back to LTIMindtree](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Average Task Duration per Station | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array Processing, Group-By Aggregation, Hash Map, Prefix/Signed Sum, Simulation | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=average-task-duration-per-station-d1582) |
+| Count Numbers up to a Limit With an Even Digit Sum | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Digit Manipulation, Math, Simulation | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-numbers-up-to-a-limit-with-an-even-digit-sum-d2055) |
+| Counting Idle Machines Within Query Time Windows | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Offline Queries, Sliding Window, Sorting, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-idle-machines-within-query-time-windows-d2568) |
+| Maximum Active Cells Covered by a Sliding Panel | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Greedy, Prefix Sum, Sliding Window, Sorting, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-active-cells-covered-by-a-sliding-panel-d2139) |
+| Reverse the Digits of a Machine Integer | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Digit Processing, Integer Manipulation, Math, Overflow Handling | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reverse-the-digits-of-a-machine-integer-d7) |
+| Subset Sum Closest to a Target | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Bit Manipulation, Bitmask, Dynamic Programming, Meet in the Middle, Sorting, Two Pointers | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=subset-sum-closest-to-a-target-d1671) |

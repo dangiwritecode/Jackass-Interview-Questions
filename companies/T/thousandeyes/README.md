@@ -1,0 +1,50 @@
+# ThousandEyes
+
+**Tier:** Tier 2  |  **Business domain:** Networking/SaaS  |  **Questions:** 22
+
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+
+## Role profiles by seniority
+
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+|---|---:|---:|---:|---:|---:|---:|
+| DevOps | 0 | 0 | 3 | 3 | 1 | 3 |
+| AIOps | 2 | 0 | 3 | 15 | 13 | 16 |
+| Data Structures & Algorithms (all profiles) | 3 | 3 | 3 | 3 | 3 | 3 |
+
+## DevOps
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Explain how you'd debug an intermittent BGP-related reachability issue reported by users in one geography while others are fine. | expertise | SDE-1/2, SDE-2/3 | Computer Networks | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-debug-an-intermittent-bgp-related-reachability-issue-45072) |
+| How would you set up synthetic network monitoring from multiple regions to catch a partial internet routing issue before customers report it? | deep understanding | SDE-1/2, SDE-2/3 | Computer Networks | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-synthetic-network-monitoring-from-multiple-region-45071) |
+| How would you set up cross-region monitoring of your DNS provider and edge itself, so you'd detect a routing-layer outage that health checks on your origin can't see? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-cross-region-monitoring-of-your-dns-provider-and--47613) |
+
+## AIOps
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you decide build-vs-buy for a synthetic-monitoring + real-user-monitoring correlation capability (buy vs build) when you need to fuse synthetic probe failures with RUM and backend anomalies into a single incident signal your ML can reason over? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-synthetic-monitoring-real-user-mo-100047) |
+| How do you decide build-vs-buy for network-performance AIOps specifically (buy ThousandEyes/Kentik vs build on flow logs + your ML) when cross-cloud and last-mile latency diagnosis needs vantage points you can't replicate in-house? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-network-performance-aiops-specifica-100062) |
+| How do you inject packet loss and validate that your network anomaly detection distinguishes it from application-level latency in its root-cause classification? | deep understanding | SDE-1/2, SDE-2/3 | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-inject-packet-loss-and-validate-that-your-network-anomaly-d-93855) |
+| How would you plot the distribution of DNS resolution times to find intermittent networking slowness? | intermediate experience | Fresher | Data Visualization (Matplotlib/Seaborn) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-plot-the-distribution-of-dns-resolution-times-to-find-in-89926) |
+| How would you architect end-to-end synthetic monitoring that probes user journeys across clouds and feeds those results into AIOps SLO models? | deep understanding | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-end-to-end-synthetic-monitoring-that-probes-us-103812) |
+| How would you architect for the case where two clouds have contradictory health signals for the same globally-load-balanced service? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-for-the-case-where-two-clouds-have-contradicto-103837) |
+| How would you design cross-cloud network observability so AIOps can attribute latency to peering transit or a specific interconnect rather than the app? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-cross-cloud-network-observability-so-aiops-can-at-103778) |
+| What's your approach to modeling and alerting on cross-cloud data-transfer and interconnect saturation before it degrades user-facing latency? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-modeling-and-alerting-on-cross-cloud-data-tran-103850) |
+| How do you monitor an anomaly model on network-flow telemetry when a routing or peering change alters baseline traffic distributions? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-an-anomaly-model-on-network-flow-telemetry-when-a-r-95370) |
+| Explain how you'd govern synthetic monitoring and probing across clouds so external-user perspective checks are consistent and your AIOps distinguishes a real outage from a probe-network issue. | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-govern-synthetic-monitoring-and-probing-across-cloud-100866) |
+| How do you govern the observability of network performance between clouds so latency or packet loss on a cross-cloud link is detected and attributed rather than blamed on the wrong service? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-observability-of-network-performance-between-clo-100913) |
+| Describe the trade-offs of an anti-corruption layer per vendor versus a single canonical event schema when integrating five telemetry sources. | expertise | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-trade-offs-of-an-anti-corruption-layer-per-vendor-versus--103251) |
+| How would you design a correlation engine that fuses signals from an APM vendor a log vendor and a network-monitoring vendor into one incident? | expertise | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-correlation-engine-that-fuses-signals-from-an-a-103258) |
+| What is your approach to synthetic testing that continuously validates every vendor integration end to end in production? | deep understanding | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-approach-to-synthetic-testing-that-continuously-validates-103323) |
+| What is your approach to observability for third-party and SaaS dependencies you do not control, and how do you strategize around blind spots? | deep understanding | SDE-2/3, Architect/Principal | Observability Platform Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-approach-to-observability-for-third-party-and-saas-depend-103016) |
+| How would you differentiate a network issue from an application issue during RCA? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Root Cause Analysis (RCA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-differentiate-a-network-issue-from-an-application-issue--90162) |
+
+## Data Structures & Algorithms
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Array of Products Excluding Each Position | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Prefix Product, Prefix Sum, Suffix Product | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=array-of-products-excluding-each-position-d238) |
+| Design a Fixed-Capacity Cache with Least-Recently-Used Eviction | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cache, Design, Doubly Linked List, Hash Table, Linked List, Ordered Map | Phone Screen, DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-fixed-capacity-cache-with-least-recently-used-eviction-d146) |
+| Water Trapped Between Walls | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Monotonic Stack, Prefix/Suffix Maximum, Stack, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=water-trapped-between-walls-d42) |

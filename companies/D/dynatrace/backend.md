@@ -1,0 +1,11 @@
+# Dynatrace — Backend
+
+[← back to Dynatrace](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Your anomaly-detection system pages on-call every time a legitimate batch job spikes spend, and misses a slow $200K/month leak from orphaned resources. Redesign the detection strategy to catch real waste while suppressing expected variance. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-anomaly-detection-system-pages-on-call-every-time-a-legitimate-ba-37022) |
+| Your observability bill (logs, metrics, traces) is now larger than the compute it monitors. Architect a cardinality- and retention-governance strategy that preserves debuggability while cutting the observability spend in half. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-observability-bill-logs-metrics-traces-is-now-larger-than-the-com-37054) |
+| Design the observability signals (metrics, SLIs, alerts) that would let you distinguish 'Redis is slow' from 'the network to Redis is slow' from 'my client pool is exhausted'. | deep understanding | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-observability-signals-metrics-slis-alerts-that-would-let-yo-24709) |
+| How do you measure whether adding Redis actually improved end-to-end latency versus just moving the bottleneck, and what would convince you to remove it? | intermediate experience | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-measure-whether-adding-redis-actually-improved-end-to-end-l-24640) |
+| You're asked to add tracing to Redis calls so you can attribute latency to specific commands per endpoint — how do you instrument this without adding measurable overhead? | intermediate experience | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-add-tracing-to-redis-calls-so-you-can-attribute-latenc-24701) |

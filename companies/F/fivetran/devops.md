@@ -1,0 +1,10 @@
+# Fivetran — DevOps
+
+[← back to Fivetran](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Your nightly Glue job cost tripled after someone bumped DPUs to fix a slow run — how do you profile the job to find whether it's data skew, small-file explosion, or shuffle spill before throwing more DPUs at it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-nightly-glue-job-cost-tripled-after-someone-bumped-dpus-to-fix-a--46132) |
+| What's your approach to migrating analytics/data-warehouse workloads where data gravity and pipeline dependencies make a simple Rehost meaningless? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-migrating-analytics-data-warehouse-workloads-w-56623) |
+| How do you architect an approach to third-party attestation reliance — trusting a vendor's SOC2 report vs independently verifying — so your own auditors accept the inheritance without you having blind faith in a stale report? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-approach-to-third-party-attestation-reliance-t-54046) |
+| A Terraform module is vendored via a Git source ref pinned to a tag, but someone moved the tag to a new commit. What are the reproducibility risks of a mutable module tag, and how do you enforce immutable module versions across 40 root modules? | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-terraform-module-is-vendored-via-a-git-source-ref-pinned-to-a-tag-bu-45625) |

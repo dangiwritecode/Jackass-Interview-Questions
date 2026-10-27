@@ -1,0 +1,17 @@
+# Salt-Security
+
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 1
+
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+
+## Role profiles by seniority
+
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+|---|---:|---:|---:|---:|---:|---:|
+| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
+
+## Fullstack
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you architect the gateway to make 'unknown unknowns' visible: undocumented endpoints, shadow APIs bypassing the gateway, deprecated routes still getting traffic; design the discovery/inventory system and how you drive shadow ingress to zero across a large org. | deep understanding | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-gateway-to-make-unknown-unknowns-visible-undo-39588) |

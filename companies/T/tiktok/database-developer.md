@@ -1,0 +1,10 @@
+# TikTok — Database Developer
+
+[← back to TikTok](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| A bar-raiser probe: you chose eventual consistency for a counter (likes). Now the interviewer adds 'but the counter also gates a paid feature at exactly 1000.' Redesign the exact boundary where the count must become linearizable and how you keep the cheap path for display. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probe-you-chose-eventual-consistency-for-a-counter-likes--112212) |
+| You must support 500 million users with a social graph and a feed. Break down which parts go relational, which go wide-column, which go key-value, and why each subsystem gets a different answer. | expertise | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-support-500-million-users-with-a-social-graph-and-a-feed-brea-114367) |
+| How do you design isolation for a system where the same row is a hot contended counter (likes/views) at web scale? Why is any pessimistic level the wrong tool here? | deep understanding | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-isolation-for-a-system-where-the-same-row-is-a-hot-c-113689) |
+| How would you design read/write splitting for a globally distributed social feed where writes fan out but reads dominate 100:1? | expertise | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-read-write-splitting-for-a-globally-distributed-s-115474) |

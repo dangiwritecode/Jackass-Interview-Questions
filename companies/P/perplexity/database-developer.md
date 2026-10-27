@@ -1,0 +1,10 @@
+# Perplexity — Database Developer
+
+[← back to Perplexity](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How would you architect a RAG/vector-search serving layer on AWS databases where freshness must be seconds and recall must stay high at billions of vectors — interrogate Aurora pgvector versus OpenSearch vector engine versus a dedicated vector store on index-rebuild cost, ANN recall, and operational ownership. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-rag-vector-search-serving-layer-on-aws-datab-111904) |
+| How do you architect a globally distributed vector database for RAG so that a partition can serve slightly-stale nearest-neighbor results (AP) but the metadata filter and access-control check stay authoritative (CP)? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-globally-distributed-vector-database-for-rag-so-111546) |
+| How do you decide the normalization degree for the metadata that governs an AI agent's tool and memory state at scale? | deep understanding | SDE-2/3, Architect/Principal | Normalization & Denormalization | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-normalization-degree-for-the-metadata-that-gover-113411) |
+| What is your architectural stance on denormalizing derived enrichments computed by an LLM versus keeping raw normalized inputs? | deep understanding | SDE-2/3, Architect/Principal | Normalization & Denormalization | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-architectural-stance-on-denormalizing-derived-enrichments-113409) |

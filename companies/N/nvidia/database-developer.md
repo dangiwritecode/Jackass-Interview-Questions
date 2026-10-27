@@ -1,0 +1,10 @@
+# NVIDIA — Database Developer
+
+[← back to NVIDIA](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| A principal peer argues that with modern SDN and redundant fabrics, real partitions are so rare that defaulting everything to CP costs unnecessary availability. Steelman the 'partitions are rare, optimize for the common case' view, then give your reconciled position. | deep understanding | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-argues-that-with-modern-sdn-and-redundant-fabrics-rea-111566) |
+| How do you architect a globally distributed vector database for RAG so that a partition can serve slightly-stale nearest-neighbor results (AP) but the metadata filter and access-control check stay authoritative (CP)? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-globally-distributed-vector-database-for-rag-so-111546) |
+| Explain how Aurora's storage-level replication changes your failover design compared to classic Postgres streaming replication — where does the six-way quorum help and where does it mislead capacity planning? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-aurora-s-storage-level-replication-changes-your-failover-d-115147) |
+| How do you design the data-tier for an AI/vector workload — pgvector on Aurora versus Cosmos DB vector search versus a dedicated vector DB — and what's the strategic bet? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-the-data-tier-for-an-ai-vector-workload-pgvector-on--115237) |

@@ -1,0 +1,11 @@
+# Kong — AIOps
+
+[← back to Kong](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How would you visualize the effect of a rate limit by plotting requests allowed versus requests rejected over time? | intermediate experience | Fresher | Data Visualization (Matplotlib/Seaborn) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-visualize-the-effect-of-a-rate-limit-by-plotting-request-89903) |
+| What is your view on a service mesh or gateway pattern for outbound calls to all monitoring vendors and what does it buy you? | deep understanding | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-view-on-a-service-mesh-or-gateway-pattern-for-outbound-ca-103307) |
+| Explain how you'd forecast a rate-limit / quota-exhaustion incident for an API gateway serving bursty traffic. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Predictive Alerting & Incident Forecasting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-forecast-a-rate-limit-quota-exhaustion-incident-for--97487) |
+| How do you architect the platform so the addition of an inference gateway that centralizes routing/auth/caching scales without becoming the throughput ceiling? Contrast a fat centralized gateway versus a thin sidecar mesh at a million QPS, and defend where the control lives. | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-platform-so-the-addition-of-an-inference-gate-100684) |
+| How would you handle topology for services behind an API gateway where the gateway obscures which backend actually served the request? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-topology-for-services-behind-an-api-gateway-where-97719) |

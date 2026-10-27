@@ -1,0 +1,78 @@
+# Axon
+
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 32
+
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+
+## Role profiles by seniority
+
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+|---|---:|---:|---:|---:|---:|---:|
+| Backend | 0 | 0 | 6 | 8 | 7 | 8 |
+| Fullstack | 0 | 0 | 0 | 2 | 2 | 2 |
+| DevOps | 0 | 0 | 0 | 2 | 2 | 2 |
+| Data Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
+| Database Developer | 0 | 0 | 0 | 10 | 10 | 10 |
+| Data Structures & Algorithms (all profiles) | 8 | 8 | 8 | 8 | 8 | 8 |
+
+## Backend
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| A senior asks you to reason about "CAP for the write path vs read path separately" for a CQRS system. Walk through how the command side and query side can sit on different CAP corners and why that's useful. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-senior-asks-you-to-reason-about-cap-for-the-write-path-vs-read-path--25673) |
+| You're asked to design a CQRS platform where command and query sides may live on different CAP corners. How do you make the resulting read-after-write anomaly a documented, bounded, monitored property rather than an emergent surprise that confuses users? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-design-a-cqrs-platform-where-command-and-query-sides-m-32258) |
+| Your event store needs 'give me the state as of version V' for an aggregate with thousands of events; compare full-log replay against snapshotting and how you pick the snapshot interval. | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-event-store-needs-give-me-the-state-as-of-version-v-for-an-aggreg-21986) |
+| You persist Commands as an event-sourcing log, but replaying six months of events on cold start now takes 40 minutes. How do you introduce periodic snapshots and log compaction without losing auditability or the ability to rebuild from genesis? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-persist-commands-as-an-event-sourcing-log-but-replaying-six-months-22449) |
+| Explain event sourcing and how it differs from storing current state. What are the practical pains (schema evolution of events, snapshotting, replay cost) you take on, and when is it worth it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-event-sourcing-and-how-it-differs-from-storing-current-state-w-28492) |
+| You're deciding whether to model a cross-service invariant as a saga or as event-sourcing with a single aggregate that projects into multiple services. Compare the two at architecture level for a 5-year evolvability and team-autonomy horizon. | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-model-a-cross-service-invariant-as-a-saga-o-34139) |
+| How would you design a resilient event-sourced system to recover from a corrupted projection without downtime? Discuss rebuilds, snapshots, and dual-read cutover. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-resilient-event-sourced-system-to-recover-from--29962) |
+| Your event-sourced aggregate has grown to 200k events and replay is slow; design the snapshotting policy and class boundaries so you snapshot periodically without breaking the ability to replay from event 0 when needed. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-event-sourced-aggregate-has-grown-to-200k-events-and-replay-is-sl-22394) |
+
+## Fullstack
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| You must decide whether the org caches at the read model of a CQRS system or in a separate layer in front of it. How do these two forms of read-optimization overlap, and when is a cache redundant with a well-designed read model? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-whether-the-org-caches-at-the-read-model-of-a-cqrs-sys-38535) |
+| A bar-raiser asks: your enterprise adopted CQRS broadly and now every trivial CRUD screen has read and write models drifting apart. Diagnose where CQRS was over-applied and design the guardrail that keeps it to the contexts that genuinely need it. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-your-enterprise-adopted-cqrs-broadly-and-now-every-t-40726) |
+
+## DevOps
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you decide, at architecture-policy altitude, whether a new bounded context should be event-sourced, given event sourcing's operational complexity at scale, and how do you stop teams cargo-culting it into domains that don't need it? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-at-architecture-policy-altitude-whether-a-new-bounde-52005) |
+| How do you architect a CQRS read-model rebuild so a corrupted or schema-changed read store can be rebuilt from the event log at scale while still serving from the old model, with no consistency gap at cutover — and how do you decide CQRS is worth its eventual-consistency burden at all? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-cqrs-read-model-rebuild-so-a-corrupted-or-schem-52104) |
+
+## Data Engineer
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Describe how you'd integrate MDM with an event-sourced source system — the source has no current-state table, only an event log — how do you build and keep the master current from that? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-integrate-mdm-with-an-event-sourced-source-system-t-127802) |
+| How would you architect erasure in an append-only event-sourced system where the event log is supposed to be immutable and is the source of truth? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-erasure-in-an-append-only-event-sourced-system-127362) |
+
+## Database Developer
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you deal with encryption in a change-data-capture / event-sourcing system where the event log is immutable but must honor GDPR erasure — crypto-shredding vs tombstone vs vault indirection? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-deal-with-encryption-in-a-change-data-capture-event-sourcin-115309) |
+| Describe how you'd design HA for a database backing an event-sourced system. Can you rebuild state from the event log, and how does that change your RPO and standby requirements? | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-ha-for-a-database-backing-an-event-sourced-s-114703) |
+| Walk me through your reference architecture for schema evolution in an event-sourced system where the event log is immutable but projections must be rebuilt. | expertise | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-your-reference-architecture-for-schema-evolution-in-an-114253) |
+| How would you architect fine-grained access on top of an event-sourced system where the source of truth is an immutable append-only log rather than mutable rows? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-fine-grained-access-on-top-of-an-event-sourced-114113) |
+| You're evaluating event sourcing as the org's persistence model for a bounded context. Explain the practical pains at scale (event-schema evolution, snapshotting, replay cost, GDPR/DPDP deletion of immutable events) and the narrow contexts where it beats storing current state. | expertise | SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-event-sourcing-as-the-org-s-persistence-model-for-a--112105) |
+| How do you architect event-sourcing and event replay at enterprise scale so a new read model can rebuild state from the event store, while respecting GDPR right-to-erasure that fundamentally conflicts with an immutable append-only log? Where do crypto-shredding and tombstones fit? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-event-sourcing-and-event-replay-at-enterprise-sca-112583) |
+| Your event-sourced system reconstructs state from a log. How do isolation levels apply (or not) to the projection/read-model builders and where can anomalies sneak in there? | deep understanding | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-event-sourced-system-reconstructs-state-from-a-log-how-do-isolati-113658) |
+| How would you architect analytics for an event-sourced OLTP system where the source of truth is an append-only log — does that change what CDC and OLAP modeling you need versus a mutable-state DB? | expertise | SDE-2/3, Architect/Principal | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-analytics-for-an-event-sourced-oltp-system-whe-113494) |
+| How do you reconcile read/write splitting with a CQRS architecture? Where does replica-based read offload end and a materialized read model begin? | expertise | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reconcile-read-write-splitting-with-a-cqrs-architecture-whe-115467) |
+| How would you design read/write splitting for an event-sourced system where the write model and the read projections have independent lag? | expertise | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-read-write-splitting-for-an-event-sourced-system--115527) |
+
+## Data Structures & Algorithms
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Case-Insensitive Alphanumeric Palindrome Check | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Character Classification, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=case-insensitive-alphanumeric-palindrome-check-d125) |
+| Constant-Time Set with Uniform Random Sampling | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Design, Hash Table, Randomized, Swap-Remove | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=constant-time-set-with-uniform-random-sampling-d380) |
+| Is a String a Valid Interleaving of Two Others | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Memoization, String, Two-Dimensional DP | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=is-a-string-a-valid-interleaving-of-two-others-d97) |
+| Isolated Execution Time of Nested Procedures on a Single Core | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Simulation, Stack, String Parsing | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=isolated-execution-time-of-nested-procedures-on-a-single-core-d621) |
+| Minimum Character Edits to Transform One String into Another | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | 2D DP, Dynamic Programming, Edit Distance, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-character-edits-to-transform-one-string-into-another-d72) |
+| The M Nearest Points to the Origin | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Divide and Conquer, Geometry, Heap (Priority Queue), Math, Quickselect, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-m-nearest-points-to-the-origin-d958) |
+| Transit Network Average Travel Time Tracker | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design, Hash Table, Incremental Aggregation, String | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=transit-network-average-travel-time-tracker-d1343) |
+| Versioned Value Store with Point-in-Time Lookup | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Data Structure, Design, Hash Table, String | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=versioned-value-store-with-point-in-time-lookup-d966) |

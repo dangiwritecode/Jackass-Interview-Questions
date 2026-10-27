@@ -1,0 +1,12 @@
+# Nagarro — Data Structures & Algorithms
+
+[← back to Nagarro](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Build a Last-In-First-Out Container Using Only Queues | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Amortized Analysis, Data Structure Design, Design, Queue, Simulation, Stack | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=build-a-last-in-first-out-container-using-only-queues-d225) |
+| Counting Valid Placements Along Two Parallel Rows | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Combinatorics, Dynamic Programming, Math, Modular Arithmetic | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-valid-placements-along-two-parallel-rows-d2184) |
+| Detect Whether a Singly Linked List Loops Back on Itself | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Fast and Slow Pointers, Floyd Cycle Detection, Hash Table, Linked List, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=detect-whether-a-singly-linked-list-loops-back-on-itself-d141) |
+| Detect Whether Two Strings Are Letter Rearrangements | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Hash Table, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=detect-whether-two-strings-are-letter-rearrangements-d242) |
+| Order a Three-Category Array In Place | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, In-Place Algorithm, Sorting, Three-Way Partition, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=order-a-three-category-array-in-place-d75) |
+| Smallest Output String from a Queue and a Stack Machine | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Monotonic Stack, Simulation, Stack, String, Suffix Minimum | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-output-string-from-a-queue-and-a-stack-machine-d2289) |

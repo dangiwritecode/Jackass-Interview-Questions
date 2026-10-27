@@ -1,0 +1,11 @@
+# PlanetScale — AI Engineer
+
+[← back to PlanetScale](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Compare event-sourcing, snapshot-plus-log, and CRUD-on-Postgres for the state architecture of millions of long-lived resumable agent conversations. Which wins on durability, replay, and read performance at that scale, and where does each bite you? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-event-sourcing-snapshot-plus-log-and-crud-on-postgres-for-the--83057) |
+| How would you decide between provisioned and serverless database capacity for the metadata store of a RAG app that is idle at night but spiky during business hours? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-provisioned-and-serverless-database-capac-77836) |
+| How would you store conversation history so an AI chat app remembers context across sessions in the cloud? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-store-conversation-history-so-an-ai-chat-app-remembers-c-76555) |
+| What is a managed database and would you choose one over self-hosting to store chat history for an AI assistant? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-managed-database-and-would-you-choose-one-over-self-hosting--76496) |
+| What is a security group and how would you use one to allow only your app to reach your managed database? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-security-group-and-how-would-you-use-one-to-allow-only-your--76515) |

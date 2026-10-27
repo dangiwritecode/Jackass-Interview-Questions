@@ -1,0 +1,18 @@
+# NASA
+
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 2
+
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+
+## Role profiles by seniority
+
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+|---|---:|---:|---:|---:|---:|---:|
+| Data Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
+
+## Data Engineer
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you handle the operational risk that a format or codec used in archived data may be unreadable years later? What's your long-term-archival readability strategy? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-operational-risk-that-a-format-or-codec-used-in--126773) |
+| When is tape (physical or virtual) still the right cold tier over Glacier Deep Archive, and how would you defend that to a cloud-first executive? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-is-tape-physical-or-virtual-still-the-right-cold-tier-over-glacie-126798) |

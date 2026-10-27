@@ -1,0 +1,10 @@
+# Plaid — Data Engineer
+
+[← back to Plaid](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you plan capacity for a data platform whose demand is driven by external partners or API consumers you don't control — they run heavy queries against shared data products? Model the uncertainty and design cost-recovery so a noisy partner doesn't silently erode margin. | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-for-a-data-platform-whose-demand-is-driven-by-125411) |
+| A partner API silently started returning stale data cached on their side. How would you design detection for this kind of upstream data-quality drift? | deep understanding | SDE-1/2, SDE-2/3 | Data Pipeline Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-partner-api-silently-started-returning-stale-data-cached-on-their-si-122578) |
+| You're architecting how the enterprise exposes internal data products to external partners as a monetized data-share/API product. How do internal table change-events become externally-safe, versioned, SLA-backed data contracts without leaking internal schema churn and PII, and who owns the partner-facing stability guarantee? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-architecting-how-the-enterprise-exposes-internal-data-products--125679) |
+| How would you design lifecycle policies that respect data-residency and regulatory retention (GDPR/DPDP/HIPAA) while still moving data to the cheapest tier? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-lifecycle-policies-that-respect-data-residency-an-126718) |

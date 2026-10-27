@@ -1,0 +1,11 @@
+# Intercom — Database Developer
+
+[← back to Intercom](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| A composite unique constraint on (tenant_id, slug) is not preventing duplicates in a multi-tenant app. How do you debug NULL tenant_id or collation issues? | intermediate experience | SDE-1, SDE-1/2 | Constraints & Keys (PK/FK) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-composite-unique-constraint-on-tenant-id-slug-is-not-preventing-dupl-109190) |
+| How do you enforce mutual exclusivity between two nullable foreign keys (exactly one of parent_a_id / parent_b_id must be set)? | deep understanding | SDE-1, SDE-1/2 | Constraints & Keys (PK/FK) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-enforce-mutual-exclusivity-between-two-nullable-foreign-key-109221) |
+| How would you design keys and constraints for a soft-delete pattern so that a UNIQUE(email) still allows a new active row after deletion? | deep understanding | SDE-1, SDE-1/2 | Constraints & Keys (PK/FK) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-keys-and-constraints-for-a-soft-delete-pattern-so-109183) |
+| You must migrate a natural key (email) to allow changes without breaking child references. How does introducing a surrogate key plus ON UPDATE strategy help? | deep understanding | SDE-1, SDE-1/2 | Constraints & Keys (PK/FK) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-migrate-a-natural-key-email-to-allow-changes-without-breaking-109181) |
+| You need to migrate FK relationships when merging two tenant databases with overlapping surrogate key ranges. How do you remap keys without collisions? | expertise | SDE-1, SDE-1/2 | Constraints & Keys (PK/FK) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-migrate-fk-relationships-when-merging-two-tenant-databases-109235) |

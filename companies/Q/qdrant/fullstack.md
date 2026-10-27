@@ -1,0 +1,10 @@
+# Qdrant — Fullstack
+
+[← back to Qdrant](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How would you decide whether a RAG retrieval layer is best modeled as a Strategy (swappable retrievers), a Chain (multi-stage rerank), or a Composite (hybrid ensemble), and how does that abstraction choice affect evaluation and A/B rollout? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-a-rag-retrieval-layer-is-best-modeled-as--38457) |
+| You're standardizing a caching Decorator in front of expensive LLM calls. How do you make semantic-cache invalidation safe when prompts differ by whitespace but are semantically identical, without serving a stale answer to a changed context? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standardizing-a-caching-decorator-in-front-of-expensive-llm-cal-38456) |
+| Design a semantic-search-plus-keyword hybrid retrieval system for a large knowledge base where relevance must beat pure keyword — how do you architect the dual index fuse scores keep the vector index in sync with source edits and control the added infra cost? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-semantic-search-plus-keyword-hybrid-retrieval-system-for-a-la-39498) |
+| A vector-search feature's tail latency spikes as the index grows. How do you profile ANN recall-vs-latency trade-offs (HNSW ef, IVF nprobe), and how do you set an org policy so teams don't silently trade recall for speed? | deep understanding | SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vector-search-feature-s-tail-latency-spikes-as-the-index-grows-how-d-39846) |

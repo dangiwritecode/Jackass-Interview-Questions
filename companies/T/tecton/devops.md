@@ -1,0 +1,10 @@
+# Tecton — DevOps
+
+[← back to Tecton](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you plan continuity for an ML/AI platform in production — feature stores, model registries, online inference — so a disaster doesn't silently serve stale or degraded models? | deep understanding | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-continuity-for-an-ml-ai-platform-in-production-feature-57010) |
+| An interviewer asks how you'd govern data that flows into a real-time streaming ML feature store — where the same event is simultaneously a training signal a serving feature and a regulated personal record — how do you apply consent retention and erasure at streaming velocity? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-data-that-flows-into-a-real-time--54093) |
+| How do you handle the RPO of an in-memory feature store that serves ML inference — is stale-but-available better than fresh-but-down, and who decides? | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-rpo-of-an-in-memory-feature-store-that-serves-ml-53630) |
+| How do you set an SLO for an ML feature pipeline where a stale feature silently degrades model output — how do you make feature-freshness a gating SLI that stops serving before quality visibly drops? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-an-slo-for-an-ml-feature-pipeline-where-a-stale-feature-54203) |

@@ -1,0 +1,37 @@
+# Jasper
+
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 15
+
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+
+## Role profiles by seniority
+
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+|---|---:|---:|---:|---:|---:|---:|
+| ML Engineer | 0 | 0 | 1 | 4 | 3 | 4 |
+| AI Engineer | 0 | 0 | 4 | 11 | 10 | 11 |
+
+## ML Engineer
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How would you architect guardrails and safety governance for a fleet of LLM-powered features on AWS — where do Bedrock Guardrails, a central content-moderation service, and per-team policy overrides fit, and how do you enforce a baseline no team can weaken? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-guardrails-and-safety-governance-for-a-fleet-o-68578) |
+| How do you decide between exporting a model to ONNX and serving it with onnxruntime inside FastAPI versus keeping the native PyTorch graph, and what serving trade-offs drive that call? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-exporting-a-model-to-onnx-and-serving-it-wit-62882) |
+| Your inference GPU bill grows linearly with users but revenue doesn't. As principal, how do you architect the platform so unit cost falls as you scale rather than staying flat? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-inference-gpu-bill-grows-linearly-with-users-but-revenue-doesn-t--71101) |
+| You're consolidating 30 LoRA-adapter deployments onto a shared base-model fleet; how do you design tenancy, isolation, and cost attribution for multi-LoRA at org scale? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-consolidating-30-lora-adapter-deployments-onto-a-shared-base-mo-71186) |
+
+## AI Engineer
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you weigh build-vs-buy when a bought GenAI capability's per-inference cost scales with product success (per-generation billing) such that winning in the market punishes you financially — when does that alone justify insourcing the hot path? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-build-vs-buy-when-a-bought-genai-capability-s-per-inf-83769) |
+| How do you build a portfolio-level view ranking every GenAI feature by cost-per-successful-outcome (not cost-per-call), so leadership can kill features that burn tokens without moving a business metric? What defines a 'successful outcome' and how do you meter it? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-portfolio-level-view-ranking-every-genai-feature-by-83364) |
+| Walk me through your strategy for eval when ground-truth labels are impossible to get (open-ended creative writing, brainstorming). How do you make judging meaningful there? | deep understanding | SDE-2/3, Architect/Principal | Evaluation Frameworks (LLM-as-Judge) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-your-strategy-for-eval-when-ground-truth-labels-are-im-85480) |
+| Your inference GPU bill grows linearly with users but revenue doesn't. As principal, what architectural moves make unit cost fall as you scale rather than staying flat, and how do you prove each moves the needle? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-inference-gpu-bill-grows-linearly-with-users-but-revenue-doesn-t--85081) |
+| How do you decide between fine-tuning for style/format/tone control versus using structured output constraints and system prompts on a frontier model? | deep understanding | SDE-2/3, Architect/Principal | LLM Architecture Selection (Build vs Buy vs Fine-tune) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-fine-tuning-for-style-format-tone-control-ve-86252) |
+| A bar-raiser asks you to explain why greedy decoding can degrade or loop on long generations while low-temperature sampling doesn't, and to turn that into a defensible org default for high-stakes long-form generation. | expertise | SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-to-explain-why-greedy-decoding-can-degrade-or-lo-82868) |
+| How would you explain to your team why greedy decoding can loop or degrade on long generations while low-temperature sampling doesn't, and when you'd still choose greedy? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-to-your-team-why-greedy-decoding-can-loop-or-deg-77921) |
+| How would you explain why a model's output token count matters more than input for a long-generation feature, and where you'd invest to reduce it? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-why-a-model-s-output-token-count-matters-more-th-77994) |
+| You're setting policy on maximum generation length org-wide because runaway generations pin KV cache. How do you set the cap without crippling legitimate long-form use cases? | deep understanding | SDE-2/3, Architect/Principal | LLM Serving & KV Cache | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-setting-policy-on-maximum-generation-length-org-wide-because-ru-85395) |
+| How would you decide on temperature top-p and other decoding parameters for a factual question-answering feature versus a creative-writing feature? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-on-temperature-top-p-and-other-decoding-parameter-79538) |
+| Your beam-search generation is too conservative for a paraphrase feature. How would you tune decoding for controlled diversity? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-beam-search-generation-is-too-conservative-for-a-paraphrase-featu-79477) |

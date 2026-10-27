@@ -1,0 +1,10 @@
+# ByteDance — DevOps
+
+[← back to ByteDance](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| Compare workload identity federation (SPIFFE/SPIRE feeding Vault) versus native Vault Kubernetes/JWT auth as your identity foundation across heterogeneous compute. When does SPIFFE earn its complexity? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-workload-identity-federation-spiffe-spire-feeding-vault-versus-54937) |
+| Walk me through what SPIFFE/SPIRE gives you that mesh mTLS alone does not, in a fleet where some workloads run on VMs outside Kubernetes. How does node and workload attestation actually happen for a bare-metal VM? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-what-spiffe-spire-gives-you-that-mesh-mtls-alone-does--47841) |
+| Explain how you'd federate SPIFFE trust domains across clusters and clouds. What are the trade-offs of a single global trust domain versus per-environment domains with bundle exchange? | expertise | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-federate-spiffe-trust-domains-across-clusters-and-cl-56855) |
+| Your SPIRE server is the trust root for the whole platform. How do you make it multi-region HA, and what is your recovery plan if the SPIRE trust bundle or intermediate CA is compromised? | expertise | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-spire-server-is-the-trust-root-for-the-whole-platform-how-do-you--56834) |

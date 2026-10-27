@@ -1,0 +1,10 @@
+# Glean — Data Engineer
+
+[← back to Glean](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you evaluate and roll out an LLM-powered natural-language interface to the catalog ('show me finance tables with revenue that are certified and fresh') — grounding, evaluation, and preventing it from confidently returning wrong assets? | expertise | SDE-2/3, Architect/Principal | Data Catalog & Metadata Engineering | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-and-roll-out-an-llm-powered-natural-language-inter-126611) |
+| You want to bring LLMs into the catalog — auto-generating descriptions, answering 'which table for X', semantic search. Where do LLMs genuinely help, where do they create governance risk, and how do you keep hallucinated metadata out of the system of record? | expertise | SDE-2/3, Architect/Principal | Data Catalog & Metadata Engineering | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-bring-llms-into-the-catalog-auto-generating-descriptions-a-126552) |
+| How would you govern access to embeddings and vector stores derived from sensitive documents, given that embeddings can leak source content and bypass row/column controls entirely? | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-access-to-embeddings-and-vector-stores-derived-fr-126685) |
+| What's your approach to governing access when the consumer is an LLM/RAG pipeline that dynamically pulls from governed tables — how do you prevent prompt-driven access bypass and data leakage into model context? | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-access-when-the-consumer-is-an-llm-r-126645) |

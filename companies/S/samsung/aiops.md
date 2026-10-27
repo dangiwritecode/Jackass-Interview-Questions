@@ -1,0 +1,9 @@
+# Samsung — AIOps
+
+[← back to Samsung](README.md)
+
+| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
+|---|---|---|---|---|---|---|
+| How do you architect drift and quality monitoring for federated/on-device models where raw data never leaves the device, and what aggregate signals suffice? | expertise | SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-drift-and-quality-monitoring-for-federated-on-dev-101223) |
+| How would you architect monitoring for quantized/distilled serving variants at fleet scale so a compressed model's silent divergence from the reference is caught? | expertise | SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-monitoring-for-quantized-distilled-serving-var-101175) |
+| How do you architect the platform so scaling to serve a model at the edge (thousands of POPs or on-device) keeps versioning, A/B, and rollback coherent with the cloud fleet? As a principal, what guarantees genuinely hold across intermittent connectivity, and which ones you can only hope for? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-platform-so-scaling-to-serve-a-model-at-the-e-100711) |
