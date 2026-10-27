@@ -1,6 +1,6 @@
 # Honeycomb.io — AIOps (page 2 of 2)
 
-[← back to Honeycomb.io](README.md)
+[← back to Honeycomb.io](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 2 of 2 · [1](aiops-1.md) · **2**
 

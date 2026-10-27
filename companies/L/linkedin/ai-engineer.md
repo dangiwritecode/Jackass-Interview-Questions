@@ -1,6 +1,6 @@
 # LinkedIn — AI Engineer
 
-[← back to LinkedIn](README.md)
+[← back to LinkedIn](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–406 of 406.
 

@@ -1,6 +1,6 @@
 # LinkedIn — AIOps
 
-[← back to LinkedIn](README.md)
+[← back to LinkedIn](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–712 of 712.
 

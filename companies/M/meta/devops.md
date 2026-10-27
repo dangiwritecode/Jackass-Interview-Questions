@@ -1,6 +1,6 @@
 # Meta — DevOps
 
-[← back to Meta](README.md)
+[← back to Meta](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–481 of 481.
 

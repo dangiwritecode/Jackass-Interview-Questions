@@ -1,6 +1,6 @@
 # Google — Database Developer (page 4 of 5)
 
-[← back to Google](README.md)
+[← back to Google](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Page 4 of 5 · [1](database-developer-1.md) · [2](database-developer-2.md) · [3](database-developer-3.md) · **4** · [5](database-developer-5.md)
 

@@ -1,6 +1,6 @@
 # Astronomer — Data Engineer
 
-[← back to Astronomer](README.md)
+[← back to Astronomer](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Questions 1–502 of 502.
 

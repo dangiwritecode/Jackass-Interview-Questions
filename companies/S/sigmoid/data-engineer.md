@@ -1,6 +1,6 @@
 # Sigmoid — Data Engineer
 
-[← back to Sigmoid](README.md)
+[← back to Sigmoid](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Questions 1–258 of 258.
 

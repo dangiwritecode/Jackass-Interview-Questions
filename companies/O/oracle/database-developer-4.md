@@ -1,6 +1,6 @@
 # Oracle — Database Developer (page 4 of 6)
 
-[← back to Oracle](README.md)
+[← back to Oracle](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Page 4 of 6 · [1](database-developer-1.md) · [2](database-developer-2.md) · [3](database-developer-3.md) · **4** · [5](database-developer-5.md) · [6](database-developer-6.md)
 

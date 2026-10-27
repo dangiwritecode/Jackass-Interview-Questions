@@ -1,6 +1,6 @@
 # Elastic — Fullstack
 
-[← back to Elastic](README.md)
+[← back to Elastic](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–258 of 258.
 

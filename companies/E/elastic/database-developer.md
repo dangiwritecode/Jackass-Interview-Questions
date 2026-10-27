@@ -1,6 +1,6 @@
 # Elastic — Database Developer
 
-[← back to Elastic](README.md)
+[← back to Elastic](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–252 of 252.
 

@@ -1,6 +1,6 @@
 # Atlassian — AI Engineer
 
-[← back to Atlassian](README.md)
+[← back to Atlassian](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–724 of 724.
 

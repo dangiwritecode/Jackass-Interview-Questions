@@ -1,6 +1,6 @@
 # Chainguard — DevOps
 
-[← back to Chainguard](README.md)
+[← back to Chainguard](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–312 of 312.
 

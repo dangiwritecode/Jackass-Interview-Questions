@@ -1,6 +1,6 @@
 # Nagarro — Fullstack
 
-[← back to Nagarro](README.md)
+[← back to Nagarro](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–212 of 212.
 

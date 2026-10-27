@@ -1,6 +1,6 @@
 # Walmart — Data Engineer
 
-[← back to Walmart](README.md)
+[← back to Walmart](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Questions 1–245 of 245.
 

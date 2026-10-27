@@ -1,6 +1,6 @@
 # JPMorgan Chase — AIOps
 
-[← back to JPMorgan Chase](README.md)
+[← back to JPMorgan Chase](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–278 of 278.
 

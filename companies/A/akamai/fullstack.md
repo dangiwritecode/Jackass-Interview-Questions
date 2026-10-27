@@ -1,6 +1,6 @@
 # Akamai — Fullstack
 
-[← back to Akamai](README.md)
+[← back to Akamai](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–403 of 403.
 

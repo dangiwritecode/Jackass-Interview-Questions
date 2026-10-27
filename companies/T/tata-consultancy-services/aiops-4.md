@@ -1,6 +1,6 @@
 # Tata Consultancy Services — AIOps (page 4 of 4)
 
-[← back to Tata Consultancy Services](README.md)
+[← back to Tata Consultancy Services](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 4 of 4 · [1](aiops-1.md) · [2](aiops-2.md) · [3](aiops-3.md) · **4**
 

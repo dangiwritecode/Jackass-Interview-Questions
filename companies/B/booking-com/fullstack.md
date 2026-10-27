@@ -1,6 +1,6 @@
 # Booking.com — Fullstack
 
-[← back to Booking.com](README.md)
+[← back to Booking.com](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–336 of 336.
 

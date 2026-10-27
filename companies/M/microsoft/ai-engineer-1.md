@@ -1,6 +1,6 @@
 # Microsoft — AI Engineer (page 1 of 7)
 
-[← back to Microsoft](README.md)
+[← back to Microsoft](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 1 of 7 · **1** · [2](ai-engineer-2.md) · [3](ai-engineer-3.md) · [4](ai-engineer-4.md) · [5](ai-engineer-5.md) · [6](ai-engineer-6.md) · [7](ai-engineer-7.md)
 

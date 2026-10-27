@@ -1,6 +1,6 @@
 # Google — Fullstack (page 5 of 11)
 
-[← back to Google](README.md)
+[← back to Google](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 5 of 11 · [1](fullstack-1.md) · [2](fullstack-2.md) · [3](fullstack-3.md) · [4](fullstack-4.md) · **5** · [6](fullstack-6.md) · [7](fullstack-7.md) · [8](fullstack-8.md) · [9](fullstack-9.md) · [10](fullstack-10.md) · [11](fullstack-11.md)
 

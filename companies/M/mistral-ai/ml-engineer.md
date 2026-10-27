@@ -1,6 +1,6 @@
 # Mistral AI — ML Engineer
 
-[← back to Mistral AI](README.md)
+[← back to Mistral AI](README.md)  ·  [must do first — 50 questions](ml-engineer-must-do.md)
 
 Questions 1–324 of 324.
 

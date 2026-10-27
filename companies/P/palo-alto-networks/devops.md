@@ -1,6 +1,6 @@
 # Palo Alto Networks — DevOps
 
-[← back to Palo Alto Networks](README.md)
+[← back to Palo Alto Networks](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–324 of 324.
 

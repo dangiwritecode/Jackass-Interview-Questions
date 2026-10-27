@@ -1,6 +1,6 @@
 # Hotstar — Fullstack
 
-[← back to Hotstar](README.md)
+[← back to Hotstar](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–760 of 760.
 

@@ -1,6 +1,6 @@
 # LinkedIn — DevOps
 
-[← back to LinkedIn](README.md)
+[← back to LinkedIn](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–364 of 364.
 

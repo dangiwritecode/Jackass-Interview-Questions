@@ -1,6 +1,6 @@
 # OpenAI — AIOps
 
-[← back to OpenAI](README.md)
+[← back to OpenAI](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–287 of 287.
 

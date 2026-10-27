@@ -1,6 +1,6 @@
 # Snyk — DevOps
 
-[← back to Snyk](README.md)
+[← back to Snyk](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–436 of 436.
 

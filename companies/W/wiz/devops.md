@@ -1,6 +1,6 @@
 # Wiz — DevOps
 
-[← back to Wiz](README.md)
+[← back to Wiz](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–229 of 229.
 

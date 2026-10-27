@@ -1,6 +1,6 @@
 # Elastic — DevOps
 
-[← back to Elastic](README.md)
+[← back to Elastic](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–643 of 643.
 

@@ -1,6 +1,6 @@
 # CRED — Data Engineer (page 2 of 3)
 
-[← back to CRED](README.md)
+[← back to CRED](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Page 2 of 3 · [1](data-engineer-1.md) · **2** · [3](data-engineer-3.md)
 

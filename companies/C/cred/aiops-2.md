@@ -1,6 +1,6 @@
 # CRED — AIOps (page 2 of 3)
 
-[← back to CRED](README.md)
+[← back to CRED](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 2 of 3 · [1](aiops-1.md) · **2** · [3](aiops-3.md)
 

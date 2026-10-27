@@ -1,6 +1,6 @@
 # PhonePe — DevOps (page 6 of 6)
 
-[← back to PhonePe](README.md)
+[← back to PhonePe](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 6 of 6 · [1](devops-1.md) · [2](devops-2.md) · [3](devops-3.md) · [4](devops-4.md) · [5](devops-5.md) · **6**
 

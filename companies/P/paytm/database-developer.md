@@ -1,6 +1,6 @@
 # Paytm — Database Developer
 
-[← back to Paytm](README.md)
+[← back to Paytm](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–219 of 219.
 

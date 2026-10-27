@@ -1,6 +1,6 @@
 # Baseten — AI Engineer
 
-[← back to Baseten](README.md)
+[← back to Baseten](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–553 of 553.
 

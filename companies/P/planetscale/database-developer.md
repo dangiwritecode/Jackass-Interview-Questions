@@ -1,6 +1,6 @@
 # PlanetScale — Database Developer
 
-[← back to PlanetScale](README.md)
+[← back to PlanetScale](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–294 of 294.
 

@@ -1,6 +1,6 @@
 # Confluent — AIOps (page 1 of 4)
 
-[← back to Confluent](README.md)
+[← back to Confluent](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 1 of 4 · **1** · [2](aiops-2.md) · [3](aiops-3.md) · [4](aiops-4.md)
 

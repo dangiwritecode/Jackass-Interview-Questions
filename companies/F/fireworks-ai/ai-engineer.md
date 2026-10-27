@@ -1,6 +1,6 @@
 # Fireworks AI — AI Engineer
 
-[← back to Fireworks AI](README.md)
+[← back to Fireworks AI](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–646 of 646.
 

@@ -1,6 +1,6 @@
 # Bloomberg — Data Structures & Algorithms (page 1 of 2)
 
-[← back to Bloomberg](README.md)
+[← back to Bloomberg](README.md)  ·  [must do first — 50 questions](dsa-must-do.md)
 
 Page 1 of 2 · **1** · [2](dsa-2.md)
 

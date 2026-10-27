@@ -1,6 +1,6 @@
 # SAP — AI Engineer
 
-[← back to SAP](README.md)
+[← back to SAP](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–225 of 225.
 

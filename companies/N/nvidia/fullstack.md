@@ -1,6 +1,6 @@
 # NVIDIA — Fullstack
 
-[← back to NVIDIA](README.md)
+[← back to NVIDIA](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–278 of 278.
 

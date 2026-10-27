@@ -22,12 +22,12 @@ Every question tagged to Nubank is listed, most-asked first, split across pages 
 
 ## Question lists
 
-- **Backend** — 97 questions: [open](backend.md)
-- **Fullstack** — 60 questions: [open](fullstack.md)
-- **DevOps** — 150 questions: [open](devops.md)
-- **AIOps** — 60 questions: [open](aiops.md)
-- **Data Engineer** — 177 questions: [open](data-engineer.md)
-- **Database Developer** — 60 questions: [open](database-developer.md)
-- **ML Engineer** — 115 questions: [open](ml-engineer.md)
-- **AI Engineer** — 60 questions: [open](ai-engineer.md)
-- **Data Structures & Algorithms** — 60 questions: [open](dsa.md)
+- **Backend** — 97 questions: [all questions](backend.md)
+- **Fullstack** — 60 questions: [all questions](fullstack.md)
+- **DevOps** — 150 questions: [all questions](devops.md)
+- **AIOps** — 60 questions: [all questions](aiops.md)
+- **Data Engineer** — 177 questions: [all questions](data-engineer.md)
+- **Database Developer** — 60 questions: [all questions](database-developer.md)
+- **ML Engineer** — 115 questions: [all questions](ml-engineer.md)
+- **AI Engineer** — 60 questions: [all questions](ai-engineer.md)
+- **Data Structures & Algorithms** — 60 questions: [all questions](dsa.md)

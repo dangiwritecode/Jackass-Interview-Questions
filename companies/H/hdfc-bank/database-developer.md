@@ -1,6 +1,6 @@
 # HDFC-Bank — Database Developer
 
-[← back to HDFC-Bank](README.md)
+[← back to HDFC-Bank](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–293 of 293.
 

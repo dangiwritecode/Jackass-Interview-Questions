@@ -1,6 +1,6 @@
 # Datadog — Fullstack (page 3 of 3)
 
-[← back to Datadog](README.md)
+[← back to Datadog](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 3 of 3 · [1](fullstack-1.md) · [2](fullstack-2.md) · **3**
 

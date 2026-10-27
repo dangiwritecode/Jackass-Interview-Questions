@@ -1,6 +1,6 @@
 # Stripe — AIOps
 
-[← back to Stripe](README.md)
+[← back to Stripe](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–794 of 794.
 

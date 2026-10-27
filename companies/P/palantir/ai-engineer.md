@@ -1,6 +1,6 @@
 # Palantir — AI Engineer
 
-[← back to Palantir](README.md)
+[← back to Palantir](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–208 of 208.
 

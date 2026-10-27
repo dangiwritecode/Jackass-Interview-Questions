@@ -1,6 +1,6 @@
 # Oracle — DevOps
 
-[← back to Oracle](README.md)
+[← back to Oracle](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–238 of 238.
 

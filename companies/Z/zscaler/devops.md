@@ -1,6 +1,6 @@
 # Zscaler — DevOps
 
-[← back to Zscaler](README.md)
+[← back to Zscaler](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–204 of 204.
 

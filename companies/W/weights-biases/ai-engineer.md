@@ -1,6 +1,6 @@
 # Weights & Biases — AI Engineer
 
-[← back to Weights & Biases](README.md)
+[← back to Weights & Biases](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–266 of 266.
 

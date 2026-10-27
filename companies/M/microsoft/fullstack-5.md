@@ -1,6 +1,6 @@
 # Microsoft — Fullstack (page 5 of 6)
 
-[← back to Microsoft](README.md)
+[← back to Microsoft](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 5 of 6 · [1](fullstack-1.md) · [2](fullstack-2.md) · [3](fullstack-3.md) · [4](fullstack-4.md) · **5** · [6](fullstack-6.md)
 

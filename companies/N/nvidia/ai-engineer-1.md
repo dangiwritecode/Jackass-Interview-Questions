@@ -1,6 +1,6 @@
 # NVIDIA — AI Engineer (page 1 of 4)
 
-[← back to NVIDIA](README.md)
+[← back to NVIDIA](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 1 of 4 · **1** · [2](ai-engineer-2.md) · [3](ai-engineer-3.md) · [4](ai-engineer-4.md)
 

@@ -1,6 +1,6 @@
 # Elastic — AIOps (page 3 of 4)
 
-[← back to Elastic](README.md)
+[← back to Elastic](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 3 of 4 · [1](aiops-1.md) · [2](aiops-2.md) · **3** · [4](aiops-4.md)
 

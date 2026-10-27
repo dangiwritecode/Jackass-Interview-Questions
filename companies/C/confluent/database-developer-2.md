@@ -1,6 +1,6 @@
 # Confluent — Database Developer (page 2 of 2)
 
-[← back to Confluent](README.md)
+[← back to Confluent](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Page 2 of 2 · [1](database-developer-1.md) · **2**
 

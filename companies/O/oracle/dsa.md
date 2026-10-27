@@ -1,6 +1,6 @@
 # Oracle — Data Structures & Algorithms
 
-[← back to Oracle](README.md)
+[← back to Oracle](README.md)  ·  [must do first — 50 questions](dsa-must-do.md)
 
 Questions 1–274 of 274.
 

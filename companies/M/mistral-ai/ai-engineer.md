@@ -1,6 +1,6 @@
 # Mistral AI — AI Engineer
 
-[← back to Mistral AI](README.md)
+[← back to Mistral AI](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–605 of 605.
 

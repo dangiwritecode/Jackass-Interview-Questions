@@ -1,6 +1,6 @@
 # Apple — Data Structures & Algorithms
 
-[← back to Apple](README.md)
+[← back to Apple](README.md)  ·  [must do first — 50 questions](dsa-must-do.md)
 
 Questions 1–249 of 249.
 

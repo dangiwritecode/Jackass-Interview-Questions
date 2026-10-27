@@ -1,6 +1,6 @@
 # Grafana Labs — DevOps (page 2 of 2)
 
-[← back to Grafana Labs](README.md)
+[← back to Grafana Labs](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 2 of 2 · [1](devops-1.md) · **2**
 

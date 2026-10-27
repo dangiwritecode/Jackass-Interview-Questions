@@ -1,6 +1,6 @@
 # Freshworks — AI Engineer (page 4 of 4)
 
-[← back to Freshworks](README.md)
+[← back to Freshworks](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 4 of 4 · [1](ai-engineer-1.md) · [2](ai-engineer-2.md) · [3](ai-engineer-3.md) · **4**
 

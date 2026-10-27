@@ -1,6 +1,6 @@
 # HDFC-Bank — AI Engineer
 
-[← back to HDFC-Bank](README.md)
+[← back to HDFC-Bank](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–279 of 279.
 

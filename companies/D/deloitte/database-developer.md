@@ -1,6 +1,6 @@
 # Deloitte — Database Developer
 
-[← back to Deloitte](README.md)
+[← back to Deloitte](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–303 of 303.
 

@@ -1,6 +1,6 @@
 # Modal Labs — AI Engineer
 
-[← back to Modal Labs](README.md)
+[← back to Modal Labs](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–310 of 310.
 

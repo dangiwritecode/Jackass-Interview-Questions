@@ -1,6 +1,6 @@
 # Fractal Analytics — Data Engineer
 
-[← back to Fractal Analytics](README.md)
+[← back to Fractal Analytics](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Questions 1–556 of 556.
 

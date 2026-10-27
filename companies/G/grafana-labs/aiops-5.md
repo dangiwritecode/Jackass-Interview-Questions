@@ -1,6 +1,6 @@
 # Grafana Labs — AIOps (page 5 of 8)
 
-[← back to Grafana Labs](README.md)
+[← back to Grafana Labs](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 5 of 8 · [1](aiops-1.md) · [2](aiops-2.md) · [3](aiops-3.md) · [4](aiops-4.md) · **5** · [6](aiops-6.md) · [7](aiops-7.md) · [8](aiops-8.md)
 

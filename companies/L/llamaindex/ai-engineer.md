@@ -1,6 +1,6 @@
 # LlamaIndex — AI Engineer
 
-[← back to LlamaIndex](README.md)
+[← back to LlamaIndex](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–322 of 322.
 

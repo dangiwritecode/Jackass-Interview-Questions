@@ -1,6 +1,6 @@
 # Goldman Sachs — Database Developer
 
-[← back to Goldman Sachs](README.md)
+[← back to Goldman Sachs](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–203 of 203.
 

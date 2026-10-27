@@ -1,6 +1,6 @@
 # GitLab — AIOps
 
-[← back to GitLab](README.md)
+[← back to GitLab](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–227 of 227.
 

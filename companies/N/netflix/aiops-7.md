@@ -1,6 +1,6 @@
 # Netflix — AIOps (page 7 of 8)
 
-[← back to Netflix](README.md)
+[← back to Netflix](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 7 of 8 · [1](aiops-1.md) · [2](aiops-2.md) · [3](aiops-3.md) · [4](aiops-4.md) · [5](aiops-5.md) · [6](aiops-6.md) · **7** · [8](aiops-8.md)
 

@@ -1,6 +1,6 @@
 # Amazon — Database Developer (page 6 of 8)
 
-[← back to Amazon](README.md)
+[← back to Amazon](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Page 6 of 8 · [1](database-developer-1.md) · [2](database-developer-2.md) · [3](database-developer-3.md) · [4](database-developer-4.md) · [5](database-developer-5.md) · **6** · [7](database-developer-7.md) · [8](database-developer-8.md)
 

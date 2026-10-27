@@ -2681,6 +2681,10 @@ A question can be listed against a company three ways, and the **Why It Is Liste
 
 Direct tags are listed first and in full. A role profile with fewer than 60 of them is filled from the domain pool and then the tier pool, ranked by how many employers ask the question. This mirrors how Locus itself broadens a thin filter, and it is why a smaller employer still has a useful list instead of three questions. Nothing is truncated: a role profile shows every question it has, split across numbered pages of 800 when the list is too long for one file to render.
 
+### Must-do lists
+
+A role profile listing more than 200 questions also has a **must-do list** of 50: the ones to work through first. It is ordered by how well evidenced each question is at that company — a researched 2025 or 2026 interview report first, then a direct tag, then the wider pools — and inside each of those, by how many employers ask the question. That count is printed as **Employers Asking**, so the ordering can be checked rather than taken on trust. No more than 5 of the 50 come from any one topic, so the list covers the subject area instead of repeating it.
+
 ### How the Popular list is ordered
 
 By **Job Postings**: the number of openings the SkillMeet job board has carried for that employer. It is a count of real postings, not an editorial pick, so the order says which companies hire the most rather than which are best known. The count is all-time and includes roles that have since closed. Companies with no posting history are not in the Popular list, but they are all in the letter sections.

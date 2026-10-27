@@ -1,6 +1,6 @@
 # Qdrant — Backend
 
-[← back to Qdrant](README.md)
+[← back to Qdrant](README.md)  ·  [must do first — 50 questions](backend-must-do.md)
 
 Questions 1–234 of 234.
 

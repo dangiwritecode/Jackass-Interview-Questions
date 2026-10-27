@@ -1,6 +1,6 @@
 # CoreWeave — AI Engineer
 
-[← back to CoreWeave](README.md)
+[← back to CoreWeave](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–247 of 247.
 

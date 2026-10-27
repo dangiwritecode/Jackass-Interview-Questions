@@ -1,6 +1,6 @@
 # New Relic — AIOps (page 1 of 5)
 
-[← back to New Relic](README.md)
+[← back to New Relic](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 1 of 5 · **1** · [2](aiops-2.md) · [3](aiops-3.md) · [4](aiops-4.md) · [5](aiops-5.md)
 

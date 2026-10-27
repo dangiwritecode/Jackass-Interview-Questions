@@ -1,6 +1,6 @@
 # Cloudflare — Database Developer
 
-[← back to Cloudflare](README.md)
+[← back to Cloudflare](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–397 of 397.
 

@@ -1,6 +1,6 @@
 # Red Hat — AIOps
 
-[← back to Red Hat](README.md)
+[← back to Red Hat](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–282 of 282.
 

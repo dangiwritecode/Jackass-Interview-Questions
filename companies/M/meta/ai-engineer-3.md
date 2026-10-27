@@ -1,6 +1,6 @@
 # Meta — AI Engineer (page 3 of 4)
 
-[← back to Meta](README.md)
+[← back to Meta](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 3 of 4 · [1](ai-engineer-1.md) · [2](ai-engineer-2.md) · **3** · [4](ai-engineer-4.md)
 

@@ -1,6 +1,6 @@
 # Salesforce — DevOps
 
-[← back to Salesforce](README.md)
+[← back to Salesforce](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–401 of 401.
 

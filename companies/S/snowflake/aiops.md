@@ -1,6 +1,6 @@
 # Snowflake — AIOps
 
-[← back to Snowflake](README.md)
+[← back to Snowflake](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–548 of 548.
 

@@ -1,6 +1,6 @@
 # Cisco — DevOps
 
-[← back to Cisco](README.md)
+[← back to Cisco](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–440 of 440.
 

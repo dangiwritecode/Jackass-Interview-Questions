@@ -1,6 +1,6 @@
 # Cohere — AI Engineer (page 2 of 6)
 
-[← back to Cohere](README.md)
+[← back to Cohere](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 2 of 6 · [1](ai-engineer-1.md) · **2** · [3](ai-engineer-3.md) · [4](ai-engineer-4.md) · [5](ai-engineer-5.md) · [6](ai-engineer-6.md)
 

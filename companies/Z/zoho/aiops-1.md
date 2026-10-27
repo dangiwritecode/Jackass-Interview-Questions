@@ -1,6 +1,6 @@
 # Zoho — AIOps (page 1 of 2)
 
-[← back to Zoho](README.md)
+[← back to Zoho](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 1 of 2 · **1** · [2](aiops-2.md)
 

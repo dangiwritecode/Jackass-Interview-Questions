@@ -1,6 +1,6 @@
 # Honeycomb.io — DevOps
 
-[← back to Honeycomb.io](README.md)
+[← back to Honeycomb.io](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–243 of 243.
 

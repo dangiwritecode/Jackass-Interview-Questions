@@ -1,6 +1,6 @@
 # HCLTech — AI Engineer
 
-[← back to HCLTech](README.md)
+[← back to HCLTech](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–265 of 265.
 

@@ -1,6 +1,6 @@
 # Red Hat — DevOps (page 2 of 3)
 
-[← back to Red Hat](README.md)
+[← back to Red Hat](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 2 of 3 · [1](devops-1.md) · **2** · [3](devops-3.md)
 

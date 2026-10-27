@@ -1,6 +1,6 @@
 # Datadog — Database Developer
 
-[← back to Datadog](README.md)
+[← back to Datadog](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–674 of 674.
 

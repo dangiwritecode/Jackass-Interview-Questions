@@ -1,6 +1,6 @@
 # AnyScale — AI Engineer
 
-[← back to AnyScale](README.md)
+[← back to AnyScale](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–438 of 438.
 

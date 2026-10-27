@@ -1,6 +1,6 @@
 # Atlassian — DevOps (page 1 of 2)
 
-[← back to Atlassian](README.md)
+[← back to Atlassian](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 1 of 2 · **1** · [2](devops-2.md)
 

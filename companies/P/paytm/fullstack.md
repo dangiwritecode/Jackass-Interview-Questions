@@ -1,6 +1,6 @@
 # Paytm — Fullstack
 
-[← back to Paytm](README.md)
+[← back to Paytm](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–315 of 315.
 

@@ -1,6 +1,6 @@
 # ThoughtWorks — DevOps
 
-[← back to ThoughtWorks](README.md)
+[← back to ThoughtWorks](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–217 of 217.
 

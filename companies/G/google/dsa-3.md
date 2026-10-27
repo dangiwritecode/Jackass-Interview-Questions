@@ -1,6 +1,6 @@
 # Google — Data Structures & Algorithms (page 3 of 3)
 
-[← back to Google](README.md)
+[← back to Google](README.md)  ·  [must do first — 50 questions](dsa-must-do.md)
 
 Page 3 of 3 · [1](dsa-1.md) · [2](dsa-2.md) · **3**
 

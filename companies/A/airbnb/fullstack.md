@@ -1,6 +1,6 @@
 # Airbnb — Fullstack
 
-[← back to Airbnb](README.md)
+[← back to Airbnb](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–656 of 656.
 

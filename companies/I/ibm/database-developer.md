@@ -1,6 +1,6 @@
 # IBM — Database Developer
 
-[← back to IBM](README.md)
+[← back to IBM](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–530 of 530.
 

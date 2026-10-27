@@ -1,6 +1,6 @@
 # IBM — AIOps
 
-[← back to IBM](README.md)
+[← back to IBM](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–574 of 574.
 

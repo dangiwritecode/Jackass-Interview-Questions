@@ -1,6 +1,6 @@
 # Zerodha — Fullstack (page 1 of 4)
 
-[← back to Zerodha](README.md)
+[← back to Zerodha](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 1 of 4 · **1** · [2](fullstack-2.md) · [3](fullstack-3.md) · [4](fullstack-4.md)
 

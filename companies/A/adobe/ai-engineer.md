@@ -1,6 +1,6 @@
 # Adobe — AI Engineer
 
-[← back to Adobe](README.md)
+[← back to Adobe](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–336 of 336.
 

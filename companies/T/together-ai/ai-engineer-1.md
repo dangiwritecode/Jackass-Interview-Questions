@@ -1,6 +1,6 @@
 # Together AI — AI Engineer (page 1 of 2)
 
-[← back to Together AI](README.md)
+[← back to Together AI](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 1 of 2 · **1** · [2](ai-engineer-2.md)
 

@@ -1,6 +1,6 @@
 # Grafana Labs — Fullstack
 
-[← back to Grafana Labs](README.md)
+[← back to Grafana Labs](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–380 of 380.
 

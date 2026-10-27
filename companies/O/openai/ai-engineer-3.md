@@ -1,6 +1,6 @@
 # OpenAI — AI Engineer (page 3 of 10)
 
-[← back to OpenAI](README.md)
+[← back to OpenAI](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 3 of 10 · [1](ai-engineer-1.md) · [2](ai-engineer-2.md) · **3** · [4](ai-engineer-4.md) · [5](ai-engineer-5.md) · [6](ai-engineer-6.md) · [7](ai-engineer-7.md) · [8](ai-engineer-8.md) · [9](ai-engineer-9.md) · [10](ai-engineer-10.md)
 

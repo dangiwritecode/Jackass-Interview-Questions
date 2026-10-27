@@ -1,6 +1,6 @@
 # GitLab — Fullstack
 
-[← back to GitLab](README.md)
+[← back to GitLab](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–754 of 754.
 

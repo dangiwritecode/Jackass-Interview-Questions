@@ -22,12 +22,12 @@ Every question tagged to Tokopedia is listed, most-asked first, split across pag
 
 ## Question lists
 
-- **Backend** — 60 questions: [open](backend.md)
-- **Fullstack** — 60 questions: [open](fullstack.md)
-- **DevOps** — 60 questions: [open](devops.md)
-- **AIOps** — 60 questions: [open](aiops.md)
-- **Data Engineer** — 60 questions: [open](data-engineer.md)
-- **Database Developer** — 60 questions: [open](database-developer.md)
-- **ML Engineer** — 60 questions: [open](ml-engineer.md)
-- **AI Engineer** — 60 questions: [open](ai-engineer.md)
-- **Data Structures & Algorithms** — 60 questions: [open](dsa.md)
+- **Backend** — 60 questions: [all questions](backend.md)
+- **Fullstack** — 60 questions: [all questions](fullstack.md)
+- **DevOps** — 60 questions: [all questions](devops.md)
+- **AIOps** — 60 questions: [all questions](aiops.md)
+- **Data Engineer** — 60 questions: [all questions](data-engineer.md)
+- **Database Developer** — 60 questions: [all questions](database-developer.md)
+- **ML Engineer** — 60 questions: [all questions](ml-engineer.md)
+- **AI Engineer** — 60 questions: [all questions](ai-engineer.md)
+- **Data Structures & Algorithms** — 60 questions: [all questions](dsa.md)

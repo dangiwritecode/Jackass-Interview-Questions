@@ -1,6 +1,6 @@
 # Shopify — Data Engineer
 
-[← back to Shopify](README.md)
+[← back to Shopify](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Questions 1–235 of 235.
 

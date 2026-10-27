@@ -1,6 +1,6 @@
 # Airbnb — Database Developer
 
-[← back to Airbnb](README.md)
+[← back to Airbnb](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–251 of 251.
 

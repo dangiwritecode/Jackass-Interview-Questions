@@ -1,6 +1,6 @@
 # Salesforce — AIOps
 
-[← back to Salesforce](README.md)
+[← back to Salesforce](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–330 of 330.
 

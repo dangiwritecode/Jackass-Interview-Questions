@@ -1,6 +1,6 @@
 # Zerodha — DevOps (page 3 of 3)
 
-[← back to Zerodha](README.md)
+[← back to Zerodha](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 3 of 3 · [1](devops-1.md) · [2](devops-2.md) · **3**
 

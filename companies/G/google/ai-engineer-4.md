@@ -1,6 +1,6 @@
 # Google — AI Engineer (page 4 of 11)
 
-[← back to Google](README.md)
+[← back to Google](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 4 of 11 · [1](ai-engineer-1.md) · [2](ai-engineer-2.md) · [3](ai-engineer-3.md) · **4** · [5](ai-engineer-5.md) · [6](ai-engineer-6.md) · [7](ai-engineer-7.md) · [8](ai-engineer-8.md) · [9](ai-engineer-9.md) · [10](ai-engineer-10.md) · [11](ai-engineer-11.md)
 

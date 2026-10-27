@@ -1,6 +1,6 @@
 # Hasura — Fullstack
 
-[← back to Hasura](README.md)
+[← back to Hasura](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–220 of 220.
 

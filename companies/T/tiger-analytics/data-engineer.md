@@ -1,6 +1,6 @@
 # Tiger Analytics — Data Engineer
 
-[← back to Tiger Analytics](README.md)
+[← back to Tiger Analytics](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Questions 1–248 of 248.
 

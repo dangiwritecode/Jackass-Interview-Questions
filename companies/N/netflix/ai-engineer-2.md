@@ -1,6 +1,6 @@
 # Netflix — AI Engineer (page 2 of 2)
 
-[← back to Netflix](README.md)
+[← back to Netflix](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 2 of 2 · [1](ai-engineer-1.md) · **2**
 

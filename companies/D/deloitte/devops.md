@@ -1,6 +1,6 @@
 # Deloitte — DevOps
 
-[← back to Deloitte](README.md)
+[← back to Deloitte](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–265 of 265.
 

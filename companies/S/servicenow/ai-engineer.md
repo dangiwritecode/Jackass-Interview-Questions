@@ -1,6 +1,6 @@
 # ServiceNow — AI Engineer
 
-[← back to ServiceNow](README.md)
+[← back to ServiceNow](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–433 of 433.
 

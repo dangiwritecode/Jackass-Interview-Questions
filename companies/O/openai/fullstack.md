@@ -1,6 +1,6 @@
 # OpenAI — Fullstack
 
-[← back to OpenAI](README.md)
+[← back to OpenAI](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–603 of 603.
 

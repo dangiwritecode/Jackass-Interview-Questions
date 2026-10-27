@@ -1,6 +1,6 @@
 # JPMorgan Chase — Database Developer
 
-[← back to JPMorgan Chase](README.md)
+[← back to JPMorgan Chase](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–460 of 460.
 

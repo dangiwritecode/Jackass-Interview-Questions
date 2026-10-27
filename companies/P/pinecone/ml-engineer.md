@@ -1,6 +1,6 @@
 # Pinecone — ML Engineer
 
-[← back to Pinecone](README.md)
+[← back to Pinecone](README.md)  ·  [must do first — 50 questions](ml-engineer-must-do.md)
 
 Questions 1–448 of 448.
 

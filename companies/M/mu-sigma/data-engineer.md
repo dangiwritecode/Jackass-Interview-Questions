@@ -1,6 +1,6 @@
 # Mu Sigma — Data Engineer
 
-[← back to Mu Sigma](README.md)
+[← back to Mu Sigma](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Questions 1–210 of 210.
 

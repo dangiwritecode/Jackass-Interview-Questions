@@ -1,6 +1,6 @@
 # ClickHouse — Database Developer
 
-[← back to ClickHouse](README.md)
+[← back to ClickHouse](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–232 of 232.
 

@@ -1,6 +1,6 @@
 # Netlify — Fullstack
 
-[← back to Netlify](README.md)
+[← back to Netlify](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–257 of 257.
 

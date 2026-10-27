@@ -1,6 +1,6 @@
 # Atlassian — Database Developer
 
-[← back to Atlassian](README.md)
+[← back to Atlassian](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–585 of 585.
 

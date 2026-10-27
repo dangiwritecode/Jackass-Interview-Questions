@@ -1,6 +1,6 @@
 # Amazon — DevOps (page 9 of 11)
 
-[← back to Amazon](README.md)
+[← back to Amazon](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 9 of 11 · [1](devops-1.md) · [2](devops-2.md) · [3](devops-3.md) · [4](devops-4.md) · [5](devops-5.md) · [6](devops-6.md) · [7](devops-7.md) · [8](devops-8.md) · **9** · [10](devops-10.md) · [11](devops-11.md)
 

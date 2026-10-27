@@ -1,6 +1,6 @@
 # Anthropic — AIOps
 
-[← back to Anthropic](README.md)
+[← back to Anthropic](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–298 of 298.
 

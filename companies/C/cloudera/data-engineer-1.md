@@ -1,6 +1,6 @@
 # Cloudera — Data Engineer (page 1 of 2)
 
-[← back to Cloudera](README.md)
+[← back to Cloudera](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Page 1 of 2 · **1** · [2](data-engineer-2.md)
 

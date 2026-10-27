@@ -1,6 +1,6 @@
 # Wipro — AI Engineer (page 1 of 3)
 
-[← back to Wipro](README.md)
+[← back to Wipro](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 1 of 3 · **1** · [2](ai-engineer-2.md) · [3](ai-engineer-3.md)
 

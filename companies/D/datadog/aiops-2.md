@@ -1,6 +1,6 @@
 # Datadog — AIOps (page 2 of 16)
 
-[← back to Datadog](README.md)
+[← back to Datadog](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 2 of 16 · [1](aiops-1.md) · **2** · [3](aiops-3.md) · [4](aiops-4.md) · [5](aiops-5.md) · [6](aiops-6.md) · [7](aiops-7.md) · [8](aiops-8.md) · [9](aiops-9.md) · [10](aiops-10.md) · [11](aiops-11.md) · [12](aiops-12.md) · [13](aiops-13.md) · [14](aiops-14.md) · [15](aiops-15.md) · [16](aiops-16.md)
 

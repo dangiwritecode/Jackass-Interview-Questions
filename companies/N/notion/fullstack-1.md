@@ -1,6 +1,6 @@
 # Notion — Fullstack (page 1 of 2)
 
-[← back to Notion](README.md)
+[← back to Notion](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 1 of 2 · **1** · [2](fullstack-2.md)
 

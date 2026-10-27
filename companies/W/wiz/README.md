@@ -6,6 +6,8 @@ Every question links into the Locus section on SkillMeet, which opens that quest
 
 Every question tagged to Wiz is listed, most-asked first, split across pages of 800. The **Why It Is Listed** column says how each question reaches Wiz: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
+Where a role profile lists more than 200 questions it also has a **must-do list** of 50: the ones to work through first, best-evidenced at Wiz and most widely asked.
+
 ## Role profiles by seniority
 
 | Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
@@ -22,12 +24,12 @@ Every question tagged to Wiz is listed, most-asked first, split across pages of 
 
 ## Question lists
 
-- **Backend** — 60 questions: [open](backend.md)
-- **Fullstack** — 60 questions: [open](fullstack.md)
-- **DevOps** — 229 questions: [open](devops.md)
-- **AIOps** — 60 questions: [open](aiops.md)
-- **Data Engineer** — 60 questions: [open](data-engineer.md)
-- **Database Developer** — 60 questions: [open](database-developer.md)
-- **ML Engineer** — 60 questions: [open](ml-engineer.md)
-- **AI Engineer** — 60 questions: [open](ai-engineer.md)
-- **Data Structures & Algorithms** — 60 questions: [open](dsa.md)
+- **Backend** — 60 questions: [all questions](backend.md)
+- **Fullstack** — 60 questions: [all questions](fullstack.md)
+- **DevOps** — 229 questions: [must do first (50)](devops-must-do.md) · [all questions](devops.md)
+- **AIOps** — 60 questions: [all questions](aiops.md)
+- **Data Engineer** — 60 questions: [all questions](data-engineer.md)
+- **Database Developer** — 60 questions: [all questions](database-developer.md)
+- **ML Engineer** — 60 questions: [all questions](ml-engineer.md)
+- **AI Engineer** — 60 questions: [all questions](ai-engineer.md)
+- **Data Structures & Algorithms** — 60 questions: [all questions](dsa.md)

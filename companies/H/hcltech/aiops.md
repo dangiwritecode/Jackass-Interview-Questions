@@ -1,6 +1,6 @@
 # HCLTech — AIOps
 
-[← back to HCLTech](README.md)
+[← back to HCLTech](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–551 of 551.
 

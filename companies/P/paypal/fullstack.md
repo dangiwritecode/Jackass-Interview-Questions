@@ -1,6 +1,6 @@
 # PayPal — Fullstack
 
-[← back to PayPal](README.md)
+[← back to PayPal](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–220 of 220.
 

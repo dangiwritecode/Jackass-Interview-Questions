@@ -1,6 +1,6 @@
 # Arize — ML Engineer
 
-[← back to Arize](README.md)
+[← back to Arize](README.md)  ·  [must do first — 50 questions](ml-engineer-must-do.md)
 
 Questions 1–288 of 288.
 

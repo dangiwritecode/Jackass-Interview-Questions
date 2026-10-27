@@ -1,6 +1,6 @@
 # Percona — Database Developer
 
-[← back to Percona](README.md)
+[← back to Percona](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–242 of 242.
 

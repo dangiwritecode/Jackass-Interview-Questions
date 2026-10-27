@@ -1,6 +1,6 @@
 # Myntra — Fullstack
 
-[← back to Myntra](README.md)
+[← back to Myntra](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–340 of 340.
 

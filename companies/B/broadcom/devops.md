@@ -1,6 +1,6 @@
 # Broadcom — DevOps
 
-[← back to Broadcom](README.md)
+[← back to Broadcom](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–607 of 607.
 

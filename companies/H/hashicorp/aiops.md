@@ -1,6 +1,6 @@
 # HashiCorp — AIOps
 
-[← back to HashiCorp](README.md)
+[← back to HashiCorp](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–730 of 730.
 

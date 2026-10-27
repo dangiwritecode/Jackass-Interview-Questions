@@ -1,6 +1,6 @@
 # Infosys — Fullstack (page 2 of 5)
 
-[← back to Infosys](README.md)
+[← back to Infosys](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 2 of 5 · [1](fullstack-1.md) · **2** · [3](fullstack-3.md) · [4](fullstack-4.md) · [5](fullstack-5.md)
 

@@ -1,6 +1,6 @@
 # Amazon — Data Engineer (page 7 of 7)
 
-[← back to Amazon](README.md)
+[← back to Amazon](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Page 7 of 7 · [1](data-engineer-1.md) · [2](data-engineer-2.md) · [3](data-engineer-3.md) · [4](data-engineer-4.md) · [5](data-engineer-5.md) · [6](data-engineer-6.md) · **7**
 

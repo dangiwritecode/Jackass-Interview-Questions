@@ -1,6 +1,6 @@
 # Tata Consultancy Services — DevOps (page 4 of 5)
 
-[← back to Tata Consultancy Services](README.md)
+[← back to Tata Consultancy Services](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 4 of 5 · [1](devops-1.md) · [2](devops-2.md) · [3](devops-3.md) · **4** · [5](devops-5.md)
 

@@ -1,6 +1,6 @@
 # Meesho — Fullstack (page 6 of 6)
 
-[← back to Meesho](README.md)
+[← back to Meesho](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 6 of 6 · [1](fullstack-1.md) · [2](fullstack-2.md) · [3](fullstack-3.md) · [4](fullstack-4.md) · [5](fullstack-5.md) · **6**
 

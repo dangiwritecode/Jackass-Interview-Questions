@@ -1,6 +1,6 @@
 # Arize — AI Engineer
 
-[← back to Arize](README.md)
+[← back to Arize](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–259 of 259.
 

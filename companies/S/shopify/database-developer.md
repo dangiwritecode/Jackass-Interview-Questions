@@ -1,6 +1,6 @@
 # Shopify — Database Developer
 
-[← back to Shopify](README.md)
+[← back to Shopify](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–429 of 429.
 

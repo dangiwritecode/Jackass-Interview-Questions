@@ -1,6 +1,6 @@
 # Infosys — DevOps (page 3 of 5)
 
-[← back to Infosys](README.md)
+[← back to Infosys](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 3 of 5 · [1](devops-1.md) · [2](devops-2.md) · **3** · [4](devops-4.md) · [5](devops-5.md)
 

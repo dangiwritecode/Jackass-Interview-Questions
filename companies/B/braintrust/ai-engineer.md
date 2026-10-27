@@ -1,6 +1,6 @@
 # Braintrust — AI Engineer
 
-[← back to Braintrust](README.md)
+[← back to Braintrust](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–279 of 279.
 

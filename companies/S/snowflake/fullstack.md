@@ -1,6 +1,6 @@
 # Snowflake — Fullstack
 
-[← back to Snowflake](README.md)
+[← back to Snowflake](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–653 of 653.
 

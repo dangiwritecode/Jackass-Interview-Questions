@@ -1,6 +1,6 @@
 # Salesforce — Database Developer
 
-[← back to Salesforce](README.md)
+[← back to Salesforce](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–537 of 537.
 

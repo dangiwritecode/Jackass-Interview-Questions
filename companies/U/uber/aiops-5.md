@@ -1,6 +1,6 @@
 # Uber — AIOps (page 5 of 6)
 
-[← back to Uber](README.md)
+[← back to Uber](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 5 of 6 · [1](aiops-1.md) · [2](aiops-2.md) · [3](aiops-3.md) · [4](aiops-4.md) · **5** · [6](aiops-6.md)
 

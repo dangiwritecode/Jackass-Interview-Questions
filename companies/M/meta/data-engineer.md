@@ -1,6 +1,6 @@
 # Meta — Data Engineer
 
-[← back to Meta](README.md)
+[← back to Meta](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Questions 1–409 of 409.
 

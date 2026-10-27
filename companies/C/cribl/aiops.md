@@ -1,6 +1,6 @@
 # Cribl — AIOps
 
-[← back to Cribl](README.md)
+[← back to Cribl](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–225 of 225.
 

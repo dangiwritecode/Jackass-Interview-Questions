@@ -1,6 +1,6 @@
 # Capgemini — Fullstack
 
-[← back to Capgemini](README.md)
+[← back to Capgemini](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–726 of 726.
 

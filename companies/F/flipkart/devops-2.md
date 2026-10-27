@@ -1,6 +1,6 @@
 # Flipkart — DevOps (page 2 of 7)
 
-[← back to Flipkart](README.md)
+[← back to Flipkart](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 2 of 7 · [1](devops-1.md) · **2** · [3](devops-3.md) · [4](devops-4.md) · [5](devops-5.md) · [6](devops-6.md) · [7](devops-7.md)
 

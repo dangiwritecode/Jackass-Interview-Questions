@@ -1,6 +1,6 @@
 # Salesforce — AI Engineer (page 1 of 2)
 
-[← back to Salesforce](README.md)
+[← back to Salesforce](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 1 of 2 · **1** · [2](ai-engineer-2.md)
 

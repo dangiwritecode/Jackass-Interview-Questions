@@ -1,6 +1,6 @@
 # Freshworks — Fullstack (page 6 of 10)
 
-[← back to Freshworks](README.md)
+[← back to Freshworks](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 6 of 10 · [1](fullstack-1.md) · [2](fullstack-2.md) · [3](fullstack-3.md) · [4](fullstack-4.md) · [5](fullstack-5.md) · **6** · [7](fullstack-7.md) · [8](fullstack-8.md) · [9](fullstack-9.md) · [10](fullstack-10.md)
 

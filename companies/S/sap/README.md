@@ -6,6 +6,8 @@ Every question links into the Locus section on SkillMeet, which opens that quest
 
 Every question tagged to SAP is listed, most-asked first, split across pages of 800. The **Why It Is Listed** column says how each question reaches SAP: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
+Where a role profile lists more than 200 questions it also has a **must-do list** of 50: the ones to work through first, best-evidenced at SAP and most widely asked.
+
 ## Role profiles by seniority
 
 | Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
@@ -22,12 +24,12 @@ Every question tagged to SAP is listed, most-asked first, split across pages of 
 
 ## Question lists
 
-- **Backend** — 722 questions: [open](backend.md)
-- **Fullstack** — 409 questions: [open](fullstack.md)
-- **DevOps** — 114 questions: [open](devops.md)
-- **AIOps** — 114 questions: [open](aiops.md)
-- **Data Engineer** — 248 questions: [open](data-engineer.md)
-- **Database Developer** — 1,020 questions: [page 1](database-developer-1.md) · [page 2](database-developer-2.md)
-- **ML Engineer** — 198 questions: [open](ml-engineer.md)
-- **AI Engineer** — 225 questions: [open](ai-engineer.md)
-- **Data Structures & Algorithms** — 60 questions: [open](dsa.md)
+- **Backend** — 722 questions: [must do first (50)](backend-must-do.md) · [all questions](backend.md)
+- **Fullstack** — 409 questions: [must do first (50)](fullstack-must-do.md) · [all questions](fullstack.md)
+- **DevOps** — 114 questions: [all questions](devops.md)
+- **AIOps** — 114 questions: [all questions](aiops.md)
+- **Data Engineer** — 248 questions: [must do first (50)](data-engineer-must-do.md) · [all questions](data-engineer.md)
+- **Database Developer** — 1,020 questions: [must do first (50)](database-developer-must-do.md) · [page 1](database-developer-1.md) · [page 2](database-developer-2.md)
+- **ML Engineer** — 198 questions: [all questions](ml-engineer.md)
+- **AI Engineer** — 225 questions: [must do first (50)](ai-engineer-must-do.md) · [all questions](ai-engineer.md)
+- **Data Structures & Algorithms** — 60 questions: [all questions](dsa.md)

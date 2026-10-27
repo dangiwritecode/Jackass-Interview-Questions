@@ -1,6 +1,6 @@
 # Capgemini — DevOps (page 1 of 3)
 
-[← back to Capgemini](README.md)
+[← back to Capgemini](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 1 of 3 · **1** · [2](devops-2.md) · [3](devops-3.md)
 

@@ -1,6 +1,6 @@
 # Nykaa — Fullstack
 
-[← back to Nykaa](README.md)
+[← back to Nykaa](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–242 of 242.
 

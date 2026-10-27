@@ -1,6 +1,6 @@
 # Dynatrace — AIOps (page 2 of 6)
 
-[← back to Dynatrace](README.md)
+[← back to Dynatrace](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 2 of 6 · [1](aiops-1.md) · **2** · [3](aiops-3.md) · [4](aiops-4.md) · [5](aiops-5.md) · [6](aiops-6.md)
 

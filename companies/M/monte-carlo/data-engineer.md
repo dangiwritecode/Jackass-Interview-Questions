@@ -1,6 +1,6 @@
 # Monte Carlo — Data Engineer
 
-[← back to Monte Carlo](README.md)
+[← back to Monte Carlo](README.md)  ·  [must do first — 50 questions](data-engineer-must-do.md)
 
 Questions 1–396 of 396.
 

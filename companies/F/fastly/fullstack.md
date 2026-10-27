@@ -1,6 +1,6 @@
 # Fastly — Fullstack
 
-[← back to Fastly](README.md)
+[← back to Fastly](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–477 of 477.
 

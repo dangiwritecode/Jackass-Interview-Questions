@@ -1,6 +1,6 @@
 # Linear — Fullstack
 
-[← back to Linear](README.md)
+[← back to Linear](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–296 of 296.
 

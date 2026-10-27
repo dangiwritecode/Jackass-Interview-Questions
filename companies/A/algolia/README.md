@@ -22,12 +22,12 @@ Every question tagged to Algolia is listed, most-asked first, split across pages
 
 ## Question lists
 
-- **Backend** — 187 questions: [open](backend.md)
-- **Fullstack** — 78 questions: [open](fullstack.md)
-- **DevOps** — 60 questions: [open](devops.md)
-- **AIOps** — 60 questions: [open](aiops.md)
-- **Data Engineer** — 60 questions: [open](data-engineer.md)
-- **Database Developer** — 60 questions: [open](database-developer.md)
-- **ML Engineer** — 60 questions: [open](ml-engineer.md)
-- **AI Engineer** — 73 questions: [open](ai-engineer.md)
-- **Data Structures & Algorithms** — 60 questions: [open](dsa.md)
+- **Backend** — 187 questions: [all questions](backend.md)
+- **Fullstack** — 78 questions: [all questions](fullstack.md)
+- **DevOps** — 60 questions: [all questions](devops.md)
+- **AIOps** — 60 questions: [all questions](aiops.md)
+- **Data Engineer** — 60 questions: [all questions](data-engineer.md)
+- **Database Developer** — 60 questions: [all questions](database-developer.md)
+- **ML Engineer** — 60 questions: [all questions](ml-engineer.md)
+- **AI Engineer** — 73 questions: [all questions](ai-engineer.md)
+- **Data Structures & Algorithms** — 60 questions: [all questions](dsa.md)

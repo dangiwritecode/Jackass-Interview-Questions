@@ -1,6 +1,6 @@
 # Sumo Logic — AIOps
 
-[← back to Sumo Logic](README.md)
+[← back to Sumo Logic](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Questions 1–581 of 581.
 

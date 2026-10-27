@@ -1,6 +1,6 @@
 # Spotify — DevOps
 
-[← back to Spotify](README.md)
+[← back to Spotify](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–573 of 573.
 

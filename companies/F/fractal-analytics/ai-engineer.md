@@ -1,6 +1,6 @@
 # Fractal Analytics — AI Engineer
 
-[← back to Fractal Analytics](README.md)
+[← back to Fractal Analytics](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–300 of 300.
 

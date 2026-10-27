@@ -1,6 +1,6 @@
 # Confluent — DevOps (page 2 of 3)
 
-[← back to Confluent](README.md)
+[← back to Confluent](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 2 of 3 · [1](devops-1.md) · **2** · [3](devops-3.md)
 

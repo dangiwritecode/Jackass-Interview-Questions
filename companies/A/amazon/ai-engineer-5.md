@@ -1,6 +1,6 @@
 # Amazon — AI Engineer (page 5 of 7)
 
-[← back to Amazon](README.md)
+[← back to Amazon](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 5 of 7 · [1](ai-engineer-1.md) · [2](ai-engineer-2.md) · [3](ai-engineer-3.md) · [4](ai-engineer-4.md) · **5** · [6](ai-engineer-6.md) · [7](ai-engineer-7.md)
 

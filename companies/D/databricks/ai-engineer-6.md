@@ -1,6 +1,6 @@
 # Databricks — AI Engineer (page 6 of 7)
 
-[← back to Databricks](README.md)
+[← back to Databricks](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 6 of 7 · [1](ai-engineer-1.md) · [2](ai-engineer-2.md) · [3](ai-engineer-3.md) · [4](ai-engineer-4.md) · [5](ai-engineer-5.md) · **6** · [7](ai-engineer-7.md)
 

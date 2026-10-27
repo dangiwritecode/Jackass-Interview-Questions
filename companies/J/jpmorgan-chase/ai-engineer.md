@@ -1,6 +1,6 @@
 # JPMorgan Chase — AI Engineer
 
-[← back to JPMorgan Chase](README.md)
+[← back to JPMorgan Chase](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–378 of 378.
 

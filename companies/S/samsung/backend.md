@@ -1,6 +1,6 @@
 # Samsung — Backend
 
-[← back to Samsung](README.md)
+[← back to Samsung](README.md)  ·  [must do first — 50 questions](backend-must-do.md)
 
 Questions 1–265 of 265.
 

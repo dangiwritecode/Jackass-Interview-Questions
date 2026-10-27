@@ -1,6 +1,6 @@
 # Google — AIOps (page 8 of 9)
 
-[← back to Google](README.md)
+[← back to Google](README.md)  ·  [must do first — 50 questions](aiops-must-do.md)
 
 Page 8 of 9 · [1](aiops-1.md) · [2](aiops-2.md) · [3](aiops-3.md) · [4](aiops-4.md) · [5](aiops-5.md) · [6](aiops-6.md) · [7](aiops-7.md) · **8** · [9](aiops-9.md)
 

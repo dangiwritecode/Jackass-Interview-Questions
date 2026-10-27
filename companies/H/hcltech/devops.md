@@ -1,6 +1,6 @@
 # HCLTech — DevOps
 
-[← back to HCLTech](README.md)
+[← back to HCLTech](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–564 of 564.
 

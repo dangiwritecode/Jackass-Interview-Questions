@@ -1,6 +1,6 @@
 # Vercel — AI Engineer
 
-[← back to Vercel](README.md)
+[← back to Vercel](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–257 of 257.
 

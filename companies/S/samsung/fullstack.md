@@ -1,6 +1,6 @@
 # Samsung — Fullstack
 
-[← back to Samsung](README.md)
+[← back to Samsung](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–257 of 257.
 

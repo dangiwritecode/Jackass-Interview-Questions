@@ -1,6 +1,6 @@
 # Pinterest — ML Engineer
 
-[← back to Pinterest](README.md)
+[← back to Pinterest](README.md)  ·  [must do first — 50 questions](ml-engineer-must-do.md)
 
 Questions 1–680 of 680.
 

@@ -1,6 +1,6 @@
 # SAP — Fullstack
 
-[← back to SAP](README.md)
+[← back to SAP](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–409 of 409.
 

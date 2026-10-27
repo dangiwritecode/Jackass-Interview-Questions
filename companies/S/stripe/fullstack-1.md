@@ -1,6 +1,6 @@
 # Stripe — Fullstack (page 1 of 3)
 
-[← back to Stripe](README.md)
+[← back to Stripe](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 1 of 3 · **1** · [2](fullstack-2.md) · [3](fullstack-3.md)
 

@@ -1,6 +1,6 @@
 # LTIMindtree — Database Developer
 
-[← back to LTIMindtree](README.md)
+[← back to LTIMindtree](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–243 of 243.
 

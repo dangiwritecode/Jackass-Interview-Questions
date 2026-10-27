@@ -1,6 +1,6 @@
 # ThoughtWorks — Fullstack
 
-[← back to ThoughtWorks](README.md)
+[← back to ThoughtWorks](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–247 of 247.
 

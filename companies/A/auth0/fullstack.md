@@ -1,6 +1,6 @@
 # Auth0 — Fullstack
 
-[← back to Auth0](README.md)
+[← back to Auth0](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–252 of 252.
 

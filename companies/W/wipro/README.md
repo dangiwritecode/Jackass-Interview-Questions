@@ -6,6 +6,8 @@ Every question links into the Locus section on SkillMeet, which opens that quest
 
 Every question tagged to Wipro is listed, most-asked first, split across pages of 800. The **Why It Is Listed** column says how each question reaches Wipro: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
+Where a role profile lists more than 200 questions it also has a **must-do list** of 50: the ones to work through first, best-evidenced at Wipro and most widely asked.
+
 ## Role profiles by seniority
 
 | Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
@@ -22,12 +24,12 @@ Every question tagged to Wipro is listed, most-asked first, split across pages o
 
 ## Question lists
 
-- **Backend** — 3,852 questions: [page 1](backend-1.md) · [page 2](backend-2.md) · [page 3](backend-3.md) · [page 4](backend-4.md) · [page 5](backend-5.md)
-- **Fullstack** — 2,378 questions: [page 1](fullstack-1.md) · [page 2](fullstack-2.md) · [page 3](fullstack-3.md)
-- **DevOps** — 3,654 questions: [page 1](devops-1.md) · [page 2](devops-2.md) · [page 3](devops-3.md) · [page 4](devops-4.md) · [page 5](devops-5.md)
-- **AIOps** — 3,103 questions: [page 1](aiops-1.md) · [page 2](aiops-2.md) · [page 3](aiops-3.md) · [page 4](aiops-4.md)
-- **Data Engineer** — 2,498 questions: [page 1](data-engineer-1.md) · [page 2](data-engineer-2.md) · [page 3](data-engineer-3.md) · [page 4](data-engineer-4.md)
-- **Database Developer** — 2,834 questions: [page 1](database-developer-1.md) · [page 2](database-developer-2.md) · [page 3](database-developer-3.md) · [page 4](database-developer-4.md)
-- **ML Engineer** — 2,404 questions: [page 1](ml-engineer-1.md) · [page 2](ml-engineer-2.md) · [page 3](ml-engineer-3.md) · [page 4](ml-engineer-4.md)
-- **AI Engineer** — 2,118 questions: [page 1](ai-engineer-1.md) · [page 2](ai-engineer-2.md) · [page 3](ai-engineer-3.md)
-- **Data Structures & Algorithms** — 60 questions: [open](dsa.md)
+- **Backend** — 3,852 questions: [must do first (50)](backend-must-do.md) · [page 1](backend-1.md) · [page 2](backend-2.md) · [page 3](backend-3.md) · [page 4](backend-4.md) · [page 5](backend-5.md)
+- **Fullstack** — 2,378 questions: [must do first (50)](fullstack-must-do.md) · [page 1](fullstack-1.md) · [page 2](fullstack-2.md) · [page 3](fullstack-3.md)
+- **DevOps** — 3,654 questions: [must do first (50)](devops-must-do.md) · [page 1](devops-1.md) · [page 2](devops-2.md) · [page 3](devops-3.md) · [page 4](devops-4.md) · [page 5](devops-5.md)
+- **AIOps** — 3,103 questions: [must do first (50)](aiops-must-do.md) · [page 1](aiops-1.md) · [page 2](aiops-2.md) · [page 3](aiops-3.md) · [page 4](aiops-4.md)
+- **Data Engineer** — 2,498 questions: [must do first (50)](data-engineer-must-do.md) · [page 1](data-engineer-1.md) · [page 2](data-engineer-2.md) · [page 3](data-engineer-3.md) · [page 4](data-engineer-4.md)
+- **Database Developer** — 2,834 questions: [must do first (50)](database-developer-must-do.md) · [page 1](database-developer-1.md) · [page 2](database-developer-2.md) · [page 3](database-developer-3.md) · [page 4](database-developer-4.md)
+- **ML Engineer** — 2,404 questions: [must do first (50)](ml-engineer-must-do.md) · [page 1](ml-engineer-1.md) · [page 2](ml-engineer-2.md) · [page 3](ml-engineer-3.md) · [page 4](ml-engineer-4.md)
+- **AI Engineer** — 2,118 questions: [must do first (50)](ai-engineer-must-do.md) · [page 1](ai-engineer-1.md) · [page 2](ai-engineer-2.md) · [page 3](ai-engineer-3.md)
+- **Data Structures & Algorithms** — 60 questions: [all questions](dsa.md)

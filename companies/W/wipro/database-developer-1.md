@@ -1,6 +1,6 @@
 # Wipro — Database Developer (page 1 of 4)
 
-[← back to Wipro](README.md)
+[← back to Wipro](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Page 1 of 4 · **1** · [2](database-developer-2.md) · [3](database-developer-3.md) · [4](database-developer-4.md)
 

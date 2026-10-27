@@ -1,6 +1,6 @@
 # Okta — DevOps
 
-[← back to Okta](README.md)
+[← back to Okta](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–317 of 317.
 

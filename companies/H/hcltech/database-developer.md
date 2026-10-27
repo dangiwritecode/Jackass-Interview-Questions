@@ -1,6 +1,6 @@
 # HCLTech — Database Developer
 
-[← back to HCLTech](README.md)
+[← back to HCLTech](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–456 of 456.
 

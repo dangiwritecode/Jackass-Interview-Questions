@@ -1,6 +1,6 @@
 # TikTok — Data Structures & Algorithms
 
-[← back to TikTok](README.md)
+[← back to TikTok](README.md)  ·  [must do first — 50 questions](dsa-must-do.md)
 
 Questions 1–316 of 316.
 

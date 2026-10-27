@@ -1,6 +1,6 @@
 # Flipkart — Fullstack (page 2 of 12)
 
-[← back to Flipkart](README.md)
+[← back to Flipkart](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 2 of 12 · [1](fullstack-1.md) · **2** · [3](fullstack-3.md) · [4](fullstack-4.md) · [5](fullstack-5.md) · [6](fullstack-6.md) · [7](fullstack-7.md) · [8](fullstack-8.md) · [9](fullstack-9.md) · [10](fullstack-10.md) · [11](fullstack-11.md) · [12](fullstack-12.md)
 

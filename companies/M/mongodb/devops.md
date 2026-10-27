@@ -1,6 +1,6 @@
 # MongoDB — DevOps
 
-[← back to MongoDB](README.md)
+[← back to MongoDB](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Questions 1–355 of 355.
 

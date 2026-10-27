@@ -1,6 +1,6 @@
 # Nutanix — Fullstack
 
-[← back to Nutanix](README.md)
+[← back to Nutanix](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–339 of 339.
 

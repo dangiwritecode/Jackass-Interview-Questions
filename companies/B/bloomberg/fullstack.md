@@ -1,6 +1,6 @@
 # Bloomberg — Fullstack
 
-[← back to Bloomberg](README.md)
+[← back to Bloomberg](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–298 of 298.
 

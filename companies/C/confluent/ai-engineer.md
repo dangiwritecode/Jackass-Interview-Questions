@@ -1,6 +1,6 @@
 # Confluent — AI Engineer
 
-[← back to Confluent](README.md)
+[← back to Confluent](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Questions 1–433 of 433.
 

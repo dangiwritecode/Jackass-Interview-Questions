@@ -1,6 +1,6 @@
 # YugabyteDB — Database Developer
 
-[← back to YugabyteDB](README.md)
+[← back to YugabyteDB](README.md)  ·  [must do first — 50 questions](database-developer-must-do.md)
 
 Questions 1–363 of 363.
 

@@ -1,6 +1,6 @@
 # Meta — Fullstack (page 3 of 4)
 
-[← back to Meta](README.md)
+[← back to Meta](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Page 3 of 4 · [1](fullstack-1.md) · [2](fullstack-2.md) · **3** · [4](fullstack-4.md)
 

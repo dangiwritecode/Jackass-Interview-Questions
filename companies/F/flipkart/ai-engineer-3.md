@@ -1,6 +1,6 @@
 # Flipkart — AI Engineer (page 3 of 3)
 
-[← back to Flipkart](README.md)
+[← back to Flipkart](README.md)  ·  [must do first — 50 questions](ai-engineer-must-do.md)
 
 Page 3 of 3 · [1](ai-engineer-1.md) · [2](ai-engineer-2.md) · **3**
 

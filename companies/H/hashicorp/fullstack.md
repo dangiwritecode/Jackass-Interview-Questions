@@ -1,6 +1,6 @@
 # HashiCorp — Fullstack
 
-[← back to HashiCorp](README.md)
+[← back to HashiCorp](README.md)  ·  [must do first — 50 questions](fullstack-must-do.md)
 
 Questions 1–681 of 681.
 

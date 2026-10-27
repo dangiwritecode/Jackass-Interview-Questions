@@ -1,6 +1,6 @@
 # Microsoft — DevOps (page 1 of 5)
 
-[← back to Microsoft](README.md)
+[← back to Microsoft](README.md)  ·  [must do first — 50 questions](devops-must-do.md)
 
 Page 1 of 5 · **1** · [2](devops-2.md) · [3](devops-3.md) · [4](devops-4.md) · [5](devops-5.md)
 
