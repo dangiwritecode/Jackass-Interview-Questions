@@ -1,35 +1,39 @@
 # Goldman Sachs
 
-**Tier:** Tier 1  |  **Business domain:** Fintech  |  **Questions listed:** 1,028  |  **Tagged directly to Goldman Sachs:** 1,001
+**Tier:** Tier 1  |  **Business domain:** Fintech  |  **Questions listed:** 1,091  |  **Tagged directly to Goldman Sachs:** 1,001
 
 Click a question to open it in the Locus section on SkillMeet, which shows that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
 
-Every question tagged to Goldman Sachs is listed, most-asked first, split across pages of 800. Each list says how many of its questions are tagged to Goldman Sachs itself; a role profile with fewer than 60 direct tags is topped up from companies in the same business domain and then from the same tier, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
+Every question tagged to Goldman Sachs is listed, most-asked first, split across pages of 800. Each list says how many of its questions are tagged to Goldman Sachs itself; a thin list is topped up from companies in the same business domain and then from the same tier, ranked by how many employers ask the question — the same order Locus uses when a filter is thin. The top-up floor is 60 for a technical list and 250 for the coding list.
 
 Where a role profile lists more than 200 questions it also has a **must-do list** of 50: the ones to work through first, best-evidenced at Goldman Sachs and most widely asked.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
-|---|---:|---:|---:|---:|---:|---:|
-| Backend | 32 | 32 | 68 | 146 | 103 | 148 |
-| Fullstack | 14 | 14 | 25 | 62 | 45 | 64 |
-| DevOps | 0 | 0 | 3 | 96 | 95 | 96 |
-| AIOps | 0 | 0 | 0 | 64 | 64 | 64 |
-| Data Engineer | 0 | 0 | 7 | 68 | 65 | 68 |
-| Database Developer | 0 | 104 | 104 | 102 | 102 | 203 |
-| ML Engineer | 0 | 0 | 19 | 99 | 84 | 99 |
-| AI Engineer | 0 | 0 | 6 | 99 | 95 | 99 |
-| Data Structures & Algorithms (all profiles) | 187 | 187 | 187 | 187 | 187 | 187 |
+The seniority columns count the technical questions, which are the per-role ones. The DSA column is the shared coding list.
+
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Tech Questions | DSA Questions |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Backend | 32 | 32 | 68 | 146 | 103 | 148 | 250 |
+| Fullstack | 14 | 14 | 25 | 62 | 45 | 64 | 250 |
+| DevOps | 0 | 0 | 3 | 96 | 95 | 96 | 250 |
+| AIOps | 0 | 0 | 0 | 64 | 64 | 64 | 250 |
+| Data Engineer | 0 | 0 | 7 | 68 | 65 | 68 | 250 |
+| Database Developer | 0 | 104 | 104 | 102 | 102 | 203 | 250 |
+| ML Engineer | 0 | 0 | 19 | 99 | 84 | 99 | 250 |
+| AI Engineer | 0 | 0 | 6 | 99 | 95 | 99 | 250 |
 
 ## Question lists
 
-- **Backend** — 148 questions: [all questions](backend.md)
-- **Fullstack** — 64 questions: [all questions](fullstack.md)
-- **DevOps** — 96 questions: [all questions](devops.md)
-- **AIOps** — 64 questions: [all questions](aiops.md)
-- **Data Engineer** — 68 questions: [all questions](data-engineer.md)
-- **Database Developer** — 203 questions: [must do first (50)](database-developer-must-do.md) · [all questions](database-developer.md)
-- **ML Engineer** — 99 questions: [all questions](ml-engineer.md)
-- **AI Engineer** — 99 questions: [all questions](ai-engineer.md)
-- **Data Structures & Algorithms** — 187 questions: [all questions](dsa.md)
+Each role profile carries both banks — the coding questions and the technical questions:
+
+- **Backend** — [Must do 50 DSA](dsa-must-do.md) · [All DSA for role (250)](dsa.md) · [All Tech for role (148)](backend-tech.md)
+- **Fullstack** — [Must do 50 DSA](dsa-must-do.md) · [All DSA for role (250)](dsa.md) · [All Tech for role (64)](fullstack-tech.md)
+- **DevOps** — [Must do 50 DSA](dsa-must-do.md) · [All DSA for role (250)](dsa.md) · [All Tech for role (96)](devops-tech.md)
+- **AIOps** — [Must do 50 DSA](dsa-must-do.md) · [All DSA for role (250)](dsa.md) · [All Tech for role (64)](aiops-tech.md)
+- **Data Engineer** — [Must do 50 DSA](dsa-must-do.md) · [All DSA for role (250)](dsa.md) · [All Tech for role (68)](data-engineer-tech.md)
+- **Database Developer** — [Must do 50 DSA](dsa-must-do.md) · [All DSA for role (250)](dsa.md) · [Must do 50 Tech](database-developer-tech-must-do.md) · [All Tech for role (203)](database-developer-tech.md)
+- **ML Engineer** — [Must do 50 DSA](dsa-must-do.md) · [All DSA for role (250)](dsa.md) · [All Tech for role (99)](ml-engineer-tech.md)
+- **AI Engineer** — [Must do 50 DSA](dsa-must-do.md) · [All DSA for role (250)](dsa.md) · [All Tech for role (99)](ai-engineer-tech.md)
+
+The DSA list is the same under every role profile. All 3,185 coding questions in the bank are tagged to all 8 profiles, so filtering by role does not change which ones apply — the coding round is shared. The technical list is genuinely per role.

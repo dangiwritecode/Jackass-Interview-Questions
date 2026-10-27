@@ -2,7 +2,7 @@
 
 [← back to Apple](README.md)  ·  [must do first — 50 questions](dsa-must-do.md)
 
-Questions 1–249 of 249. All 249 are tagged to Apple in the bank.
+Questions 1–250 of 250. The first 249 are tagged to Apple in the bank. The remaining 1 come from companies in its business domain (Consumer-Hardware) and from Tier 1, ranked by how many employers ask the question.
 
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank |
 |---|---|---|---|---|---|
@@ -255,3 +255,4 @@ Questions 1–249 of 249. All 249 are tagged to Apple in the bank.
 | [Maximum Rows Fully Contained by Chosen Columns](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-rows-fully-contained-by-chosen-columns-d2252) | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Bit Manipulation, Bitmask, Enumeration, Matrix | Online Assessment (OA), DSA/Coding Round, Onsite | DSA |
 | [Minimum Length of a Packed Token String](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-length-of-a-packed-token-string-d805) | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, String, Suffix Processing, Trie | Online Assessment (OA), DSA/Coding Round, Onsite | DSA |
 | [Program Counter Walk Over a Command Strip](https://skillmeet.ai/?tab=locus&view=questions&slug=program-counter-walk-over-a-command-strip-d3161) | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Cycle Detection, Hash Table, Simulation, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA |
+| [Count Connected Land Regions in a Grid Map](https://skillmeet.ai/?tab=locus&view=questions&slug=count-connected-land-regions-in-a-grid-map-d200) | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Connected Components, Depth-First Search, Flood Fill, Matrix, Union Find | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA |

@@ -1,8 +1,8 @@
 # Apple — Data Structures & Algorithms: must-do questions
 
-[← back to Apple](README.md)  ·  [all 249 Data Structures & Algorithms questions](dsa.md)
+[← back to Apple](README.md)  ·  [all 250 Data Structures & Algorithms questions](dsa.md)
 
-The 50 questions to do first, out of the 249 listed for Data Structures & Algorithms at Apple. Click a question to open it in Locus. Ordered by how well evidenced each one is at Apple — a researched 2025/2026 interview report first, then a direct tag, then the wider pools — and inside each of those, by how many employers ask it. **Employers Asking** is that count, so the order is checkable. No more than 5 come from any one topic, so the 50 cover the subject area rather than repeating it.
+The 50 questions to do first, out of the 250 listed for Data Structures & Algorithms at Apple. Click a question to open it in Locus. Ordered by how well evidenced each one is at Apple — a researched 2025/2026 interview report first, then a direct tag, then the wider pools — and inside each of those, by how many employers ask it. **Employers Asking** is that count, so the order is checkable. No more than 5 come from any one topic, so the 50 cover the subject area rather than repeating it.
 
 | # | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Employers Asking | Why It Is A Must Do |
 |---:|---|---|---|---|---|---|---:|---|
