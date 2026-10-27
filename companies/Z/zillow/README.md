@@ -1,50 +1,33 @@
 # Zillow
 
-**Tier:** Tier 1  |  **Business domain:** Real-Estate  |  **Questions:** 22
+**Tier:** Tier 1  |  **Business domain:** Real-Estate  |  **Questions listed:** 540  |  **Tagged directly to Zillow:** 22
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Zillow's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Zillow: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 2 | 2 | 2 |
-| ML Engineer | 1 | 0 | 5 | 19 | 14 | 19 |
-| Data Structures & Algorithms (all profiles) | 1 | 1 | 1 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 45 | 55 | 23 | 60 |
+| DevOps | 31 | 22 | 32 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 10 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 11 | 17 | 18 | 51 | 43 | 60 |
+| ML Engineer | 1 | 0 | 5 | 60 | 55 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a frontend architecture for extreme SEO-sensitive content (marketplace, publisher) at scale — how do you balance SSR/ISR, crawl budget, Core Web Vitals, and dynamic personalization? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-frontend-architecture-for-extreme-seo-sensitive-content-marke-40073) |
-| Design a GraphQL-federation architecture across 30 subgraph teams — how do you handle a slow subgraph in a query the N+1 problem across service boundaries and schema-composition breaking changes without a central bottleneck? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-graphql-federation-architecture-across-30-subgraph-teams-how--39462) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A model passes offline fairness checks but shows disparate impact in production. How do you diagnose whether it's data drift, feedback loops, or deployment context? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-passes-offline-fairness-checks-but-shows-disparate-impact-in-p-71722) |
-| Describe how you'd design a 'right to explanation' and 'right to contest' flow for automated decisions that satisfies both regulators and real users. | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-a-right-to-explanation-and-right-to-contest--71718) |
-| How do you design a fairness-monitoring pipeline that works across dozens of models with different protected attributes, when in many jurisdictions you're legally barred from collecting those attributes directly? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-fairness-monitoring-pipeline-that-works-across-doz-71671) |
-| Walk me through how you'd handle a post-deployment incident where a model was found to systematically disadvantage a protected group — technically and organizationally. | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-handle-a-post-deployment-incident-where-a-mo-71688) |
-| When a fairness constraint and an accuracy target conflict, how do you frame the trade-off for a non-technical exec committee and translate their decision back into a training objective? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-a-fairness-constraint-and-an-accuracy-target-conflict-how-do-you--71696) |
-| How do you decide build-vs-buy for an AutoML/model-search capability (buy a hyperscaler AutoML vs build your own HPO on Optuna/Ray Tune) when democratizing modeling for non-experts is the goal but you'd cede control of the model-quality knobs? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-automl-model-search-capability-b-69808) |
-| How do you decide build-vs-buy for an ML observability + drift/quality monitoring layer (Arize/WhyLabs/Fiddler vs build on your own metrics + evals) when silent model degradation is the failure mode you're actually insuring against? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-ml-observability-drift-quality-m-69777) |
-| How do you handle the sunk-cost fallacy when a 2-year in-house ML platform build is 80% done but SageMaker/Vertex now covers the same ground cheaper — what decision hygiene stops sunk cost and team identity from driving the call? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-sunk-cost-fallacy-when-a-2-year-in-house-ml-plat-69817) |
-| What is your approach to k-anonymity vs l-diversity vs t-closeness when releasing an internal analytics dataset that feeds several ML teams? Where do each fail? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-approach-to-k-anonymity-vs-l-diversity-vs-t-closeness-whe-72585) |
-| How would you set up governance for external data vendors so a vendor's data-quality change or license revocation doesn't blindside your production models? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-governance-for-external-data-vendors-so-a-vendor--72126) |
-| What's your strategy for auditing training data for bias and fairness at org scale, and how do you make it a governance gate rather than a one-off study? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-auditing-training-data-for-bias-and-fairness--72086) |
-| A teammate insists on adding 500 more features to the XGBoost model to boost AUC by 0.3%; how do you evaluate whether that's worth the serving and maintenance cost? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-teammate-insists-on-adding-500-more-features-to-the-xgboost-model-to-65888) |
-| How do you keep an ensemble of Random Forest plus XGBoost models in sync when their feature pipelines evolve at different speeds? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-an-ensemble-of-random-forest-plus-xgboost-models-in-sy-65922) |
-| What's your strategy for reclaiming idle GPU capacity from interactive/notebook workloads across the org, and how do you avoid punishing researchers in the process? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-reclaiming-idle-gpu-capacity-from-interactive-71077) |
-| Design the model-serving platform on Kubernetes for hundreds of models with wildly different traffic. How would you decide between KServe, a homegrown serving layer, and Ray Serve, and handle scale-to-zero without cold-start pain? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-model-serving-platform-on-kubernetes-for-hundreds-of-models-68478) |
-| Would you use classification or regression to predict a house price? Why? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Machine Learning Fundamentals (Supervised/Unsupervised) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=would-you-use-classification-or-regression-to-predict-a-house-price-wh-59045) |
-| How do you pick between reporting mean and median error for a skewed regression target, and how do you communicate the tail? | intermediate experience | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-pick-between-reporting-mean-and-median-error-for-a-skewed-r-65865) |
-| Your model's aggregate RMSE is fine but errors are heteroscedastic across price ranges — how do you evaluate and communicate that? | deep understanding | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-model-s-aggregate-rmse-is-fine-but-errors-are-heteroscedastic-acr-65813) |
-| Explain your approach to model risk for ensemble and stacked systems where no single component is individually material but the composite is. | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-approach-to-model-risk-for-ensemble-and-stacked-systems-w-71803) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| In-Place 90-Degree Clockwise Rotation of a Square Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, In-Place Transformation, Math, Matrix, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-place-90-degree-clockwise-rotation-of-a-square-grid-d48) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

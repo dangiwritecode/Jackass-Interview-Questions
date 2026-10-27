@@ -1,54 +1,33 @@
 # Nomic
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 26
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Nomic:** 26
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Nomic's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Nomic: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 1 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 7 | 9 | 6 | 9 |
-| AI Engineer | 0 | 0 | 11 | 16 | 8 | 16 |
+| Backend | 5 | 5 | 43 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 7 | 60 | 57 | 60 |
+| AI Engineer | 3 | 3 | 14 | 60 | 50 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What are Matryoshka embeddings and how would truncating dimensions let you trade accuracy for speed? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-matryoshka-embeddings-and-how-would-truncating-dimensions-let-12297) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for an embedding model itself (buy OpenAI/Cohere embeddings API vs self-host open embeddings vs fine-tune your own) when retrieval quality, per-embedding cost at billions of docs, and re-embedding-on-model-change all interact? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-embedding-model-itself-buy-opena-69815) |
-| Design a training pipeline that produces Matryoshka embeddings so you can serve 256-dim for candidate generation and 1024-dim for rescoring from one model. | expertise | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-training-pipeline-that-produces-matryoshka-embeddings-so-you--64313) |
-| How would you detect that late chunking would improve retrieval over naive per-chunk embedding for your corpus, and what infra change does adopting it require? | deep understanding | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-that-late-chunking-would-improve-retrieval-over-n-64360) |
-| Walk me through how you'd validate that a dimension-truncated embedding (from a Matryoshka model) is safe for candidate generation before switching production to it. | deep understanding | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-validate-that-a-dimension-truncated-embeddin-64368) |
-| Your embedding model produces vectors you want to shrink for storage. Explain Matryoshka representation learning and how it lets you truncate dimensions without re-embedding. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-embedding-model-produces-vectors-you-want-to-shrink-for-storage-e-63786) |
-| Explain how you'd calibrate similarity scores across two different embedding models so a threshold means the same thing after a model swap. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-calibrate-similarity-scores-across-two-different-emb-64002) |
-| How would you decide between a matryoshka/adaptive-dimension embedding and a fixed-dimension one, and how does that affect your index and cost? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-a-matryoshka-adaptive-dimension-embedding-64007) |
-| How would you set an org-wide policy for embedding dimensionality using Matryoshka representations, so teams can trade recall for storage/latency per use case from a single trained model rather than maintaining many models? | deep understanding | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-an-org-wide-policy-for-embedding-dimensionality-usin-68885) |
-| What is contrastive pretraining vs fine-tuning for embeddings, and when is it worth fine-tuning a retriever rather than using an off-the-shelf model? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-contrastive-pretraining-vs-fine-tuning-for-embeddings-and-when-63992) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you weigh buying an embedding API versus self-hosting open embeddings versus fine-tuning your own, given that a vendor embedding-model change forces a full re-embed of billions of documents you own the cost of? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-buying-an-embedding-api-versus-self-hosting-open-embe-83744) |
-| How would you use Matryoshka embeddings to trade dimension for storage and speed while keeping acceptable recall? | expertise | SDE-1/2, SDE-2/3 | Chunking & Retrieval Strategies | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-matryoshka-embeddings-to-trade-dimension-for-storage-80167) |
-| How would you evaluate whether Matryoshka-truncated 256-dim embeddings are good enough for candidate generation in your agent before full-dim reranking, using your own corpus? | deep understanding | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-whether-matryoshka-truncated-256-dim-embeddings-78556) |
-| How would you validate that a smaller, cheaper embedding model is a safe swap for your agent: what offline benchmark, what shadow test, and what rollback trigger would you require? | deep understanding | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-validate-that-a-smaller-cheaper-embedding-model-is-a-saf-78598) |
-| You want to migrate from a hosted embedding API to a self-hosted open model to cut cost. Walk me through the validation and dual-index rollout so the agent's quality never drops. | deep understanding | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-migrate-from-a-hosted-embedding-api-to-a-self-hosted-open--78588) |
-| What's your approach to evaluating chunking and embedding strategy changes when they ripple across dozens of downstream RAG applications simultaneously? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-evaluating-chunking-and-embedding-strategy-cha-86876) |
-| What's your framework for deciding whether embeddings should be a bought API or a fine-tuned/owned encoder, given they underpin all your RAG at scale? | deep understanding | SDE-2/3, Architect/Principal | LLM Architecture Selection (Build vs Buy vs Fine-tune) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-deciding-whether-embeddings-should-be-a-boug-86312) |
-| Explain the difference between an embedding model and a chat model's internal representations, and why you can't use a chat model's hidden states as embeddings casually. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-an-embedding-model-and-a-chat-model-s-i-77975) |
-| How would you decide the embedding dimension and quantization for your vector store to balance recall against memory cost? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-embedding-dimension-and-quantization-for-your-79576) |
-| Walk me through how you would evaluate whether upgrading your embedding model is worth the cost of re-embedding your entire corpus. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-would-evaluate-whether-upgrading-your-embeddin-79521) |
-| Explain how you would evaluate whether a heavier contextual embedding is worth its serving cost versus cheaper static embeddings for your task. | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-evaluate-whether-a-heavier-contextual-embedding--79488) |
-| How do you decide the number and sampling strategy for negatives when training a sentence-embedding model with contrastive loss? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-number-and-sampling-strategy-for-negatives-when--79456) |
-| How do you decide the pooling and normalization strategy when you must reuse one encoder for both classification and retrieval? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-pooling-and-normalization-strategy-when-you-must-79428) |
-| How would you choose a distance metric and whether to normalize vectors when your embedding model was trained with a specific similarity objective? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-choose-a-distance-metric-and-whether-to-normalize-vector-79433) |
-| Architect the platform so a fine-tuned domain-specific embedding model from one team can plug in without destabilizing the shared query-embedding cache, the shared eval harness, or other tenants' recall. What extension points do you expose and what do you lock down? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-platform-so-a-fine-tuned-domain-specific-embedding-model-82489) |
-| Your embedding provider announces a 90-day deprecation of the model half your indexes depend on. Lead the org's forced-migration: assess blast radius across 30 indexes, sequence re-embedding without saturating the shared inference fleet, and negotiate vendor-risk hedges. | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-embedding-provider-announces-a-90-day-deprecation-of-the-model-ha-82461) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

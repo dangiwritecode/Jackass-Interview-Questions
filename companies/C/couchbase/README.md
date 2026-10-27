@@ -1,32 +1,33 @@
 # Couchbase
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 16
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Couchbase:** 16
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Couchbase's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Couchbase: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Database Developer | 0 | 0 | 0 | 16 | 16 | 16 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 18 | 19 | 50 | 42 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Database Developer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An interviewer asks: your NoSQL document store has no schema so PII can appear in any nested field of any document. How do you architect classification erasure and retention governance when there's no column to attach a policy-tag to — do you enforce a schema-on-write contract or scan-on-read? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-your-nosql-document-store-has-no-schema-so-pii-can-113086) |
-| Explain your approach to encrypting JSON/document columns with nested PII where only some paths are sensitive — do you encrypt sub-fields or the whole document and why? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-approach-to-encrypting-json-document-columns-with-nested--115321) |
-| How would you govern schema drift and undeclared columns appearing in a NoSQL or document store where there is no enforced schema? | deep understanding | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-schema-drift-and-undeclared-columns-appearing-in--114787) |
-| How do you plan capacity for a document store (MongoDB/Couchbase) where document size growth, working-set fit, and oplog window each constrain scale differently? | deep understanding | SDE-2/3, Architect/Principal | Database Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-for-a-document-store-mongodb-couchbase-where--115022) |
-| How do you architect index strategy for a document store (Mongo/DynamoDB-style) where the schema is flexible and different tenants store different shapes, so a single compound index can't serve everyone? What's the governance for per-tenant or sparse indexing at cost? | expertise | SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-index-strategy-for-a-document-store-mongo-dynamod-111707) |
-| In a schemaless document store, how do you enforce and version an evolving implicit schema so downstream analytics doesn't silently break as documents drift? | deep understanding | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-schemaless-document-store-how-do-you-enforce-and-version-an-evolv-114337) |
-| Walk me through migrating from a document model back to a relational model (or vice versa) when the original modeling choice no longer fits the access patterns at scale. | expertise | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-migrating-from-a-document-model-back-to-a-relational-m-114336) |
-| How do you architect access control for a multi-model database (document + relational + search) so one query interface can't be used to sidestep another's permissions? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-access-control-for-a-multi-model-database-documen-114107) |
-| How do you decide when a workload should use a key-value store with secondary indexes versus a document database, given how much their capabilities have converged? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-a-workload-should-use-a-key-value-store-with-se-114418) |
-| How do you evaluate whether to adopt a document database that speaks a SQL-like query layer versus a true relational engine, given how much MongoDB and others have added relational features? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-to-adopt-a-document-database-that-speaks-a-114439) |
-| How would you evaluate a document-database vendor for a content-heavy workload versus modeling documents inside Postgres JSONB? | deep understanding | SDE-2/3, Architect/Principal | Database Vendor & Tooling Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-a-document-database-vendor-for-a-content-heavy--115404) |
-| Explain why a leaderless multi-master database that behaves fine at 3 regions becomes a correctness and operability nightmare at 15. Identify what grows super-linearly (conflict rate, anti-entropy cost, reasoning load) and at what point you'd re-centralize writes behind a consensus group. | expertise | SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-leaderless-multi-master-database-that-behaves-fine-at-3--112062) |
-| Explain how you'd model a geo-distributed document store where documents have a home region but embedded references point to documents in other regions. Do you denormalize, replicate referenced docs, or resolve cross-region at read time? Trace consistency for each. | deep understanding | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-a-geo-distributed-document-store-where-documen-112835) |
-| How do you evaluate whether a multi-model database that claims to serve document graph and relational in one engine actually removes your polyglot complexity or just relocates it? | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-a-multi-model-database-that-claims-to-serv-114552) |
-| What's your reasoning for whether a document store's flexible schema is a genuine benefit or a deferred-cost trap for a domain with evolving contracts? | deep understanding | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-reasoning-for-whether-a-document-store-s-flexible-schema-i-114612) |
-| How would you design read/write splitting for a hybrid estate mixing Postgres, MySQL, and a NoSQL store, where each has different replication semantics? | expertise | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-read-write-splitting-for-a-hybrid-estate-mixing-p-115496) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

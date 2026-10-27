@@ -1,32 +1,33 @@
 # Sendbird
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 4
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Sendbird:** 4
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Sendbird's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Sendbird: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 2 | 2 | 0 | 2 |
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 44 | 59 | 55 | 60 |
+| Fullstack | 17 | 17 | 50 | 56 | 21 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design 'mark all as read up to message X' in a chat backend without touching every message row; how does a per-user watermark or interval structure make it O(1) instead of O(unread)? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-mark-all-as-read-up-to-message-x-in-a-chat-backend-without-touc-22021) |
-| Design a structure for 'has this device seen this push notification' across billions of (device, notification) pairs with a per-notification memory cap; where does a per-notification bitmap win over a hash set? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-structure-for-has-this-device-seen-this-push-notification-acr-21961) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a real-time chat/messaging infrastructure at scale (Stream/SendBird vs building on WebSocket + a broker) where reconnection storms, presence, and history depth make DIY deceptively hard? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-real-time-chat-messaging-infrastr-41101) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect the availability of a globally distributed chat/messaging backend (billions of messages, presence, per-conversation ordering) so you scale writes and fan-out while keeping availability high — and where do you accept eventual consistency versus enforce ordering? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-availability-of-a-globally-distributed-cha-52115) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

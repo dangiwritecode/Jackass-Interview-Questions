@@ -1,93 +1,33 @@
 # Koo
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 47
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Koo:** 43
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Koo's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Koo: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 7 | 7 | 31 | 31 | 12 | 31 |
-| Fullstack | 2 | 2 | 5 | 6 | 2 | 6 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 3 | 0 | 3 | 3 | 0 | 3 |
-| ML Engineer | 1 | 0 | 2 | 2 | 1 | 2 |
-| AI Engineer | 0 | 0 | 2 | 4 | 2 | 4 |
+| Backend | 9 | 9 | 48 | 60 | 39 | 60 |
+| Fullstack | 8 | 8 | 51 | 60 | 21 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 6 | 0 | 23 | 59 | 45 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 2 | 0 | 12 | 59 | 53 | 60 |
+| AI Engineer | 0 | 0 | 31 | 60 | 48 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your JWT "sub" is the internal user id and you leak it in error responses. What are the risks of exposing internal ids in tokens/URLs and how would you use opaque external ids instead? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-jwt-sub-is-the-internal-user-id-and-you-leak-it-in-error-response-26141) |
-| Explain fan-out-on-write versus fan-out-on-read caching for a timeline, and the trade-off for celebrity accounts. | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-fan-out-on-write-versus-fan-out-on-read-caching-for-a-timeline-12918) |
-| A fan-out-on-write feed system explodes for celebrity accounts; explain the hybrid push/pull design and the data structures that decide, per follower, whether to precompute or fetch at read time. | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-fan-out-on-write-feed-system-explodes-for-celebrity-accounts-explain-21962) |
-| Design a de-duplicating 'top trending hashtags' over a firehose with limited memory; what guarantees do Count-Min Sketch and Space-Saving give, and how do you bound overcounting for cold items? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-de-duplicating-top-trending-hashtags-over-a-firehose-with-lim-22008) |
-| Design a comment system that supports nested/threaded replies. How do you model the tree? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-comment-system-that-supports-nested-threaded-replies-how-do-y-8964) |
-| Design a fan-out-on-write vs fan-out-on-read decision for a follower feed at the class level; how do you make the write path pluggable so celebrity accounts can use a different strategy than normal users? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-fan-out-on-write-vs-fan-out-on-read-decision-for-a-follower-f-22350) |
-| A "like" button double-fires from a slow client and creates two rows — how do you design the endpoint and unique constraint so the second call is a safe no-op? | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-like-button-double-fires-from-a-slow-client-and-creates-two-rows-how-24412) |
-| How would you design a dedup + ordering scheme for storing chat messages so a client's optimistic send and the server's canonical order never conflict? | deep understanding | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-dedup-ordering-scheme-for-storing-chat-messages-24394) |
-| How would you design a fan-out-on-write vs fan-out-on-read feed backed by MySQL, and what data model decisions change if a user has millions of followers? | deep understanding | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-fan-out-on-write-vs-fan-out-on-read-feed-backed-24361) |
-| How would you design a schema and query to support "suggested friends" (friends-of-friends with mutual counts) in MySQL, and when does it become infeasible? | deep understanding | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-schema-and-query-to-support-suggested-friends-f-24421) |
-| Design a per-user recent-activity feed (last 200 events) on Redis that supports fast prepend, cheap reads, and automatic trimming — and defend List vs Sorted Set for it. | intermediate experience | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-per-user-recent-activity-feed-last-200-events-on-redis-that-s-24664) |
-| Design a Redis key layout for a notification-fanout system where one publisher event must reach millions of user inboxes — how do you avoid a single giant key and keep per-user reads cheap? | deep understanding | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-redis-key-layout-for-a-notification-fanout-system-where-one-p-24648) |
-| Design a Redis structure to support 'trending topics in the last hour' with efficient inserts and a decaying score — compare a bucketed-ZSET approach vs a rolling window of counters. | expertise | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-redis-structure-to-support-trending-topics-in-the-last-hour-w-24702) |
-| How would you implement a like or upvote counter that must never go below zero in Redis? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-a-like-or-upvote-counter-that-must-never-go-be-12157) |
-| How would you use Redis to implement a 'first writer wins' contention resolver when many clients race to claim a unique username, and how do you handle a claim that later gets released? | intermediate experience | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-redis-to-implement-a-first-writer-wins-contention-re-24678) |
-| How would you decide between a pull-based and a push-based fan-out for a social feed? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-a-pull-based-and-a-push-based-fan-out-for-13049) |
-| How would you design a counter (likes, views) that scales to very high write rates while staying reasonably accurate? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-counter-likes-views-that-scales-to-very-high-wr-13128) |
-| How would you design a presence system (who is online) that scales to millions of connections? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-presence-system-who-is-online-that-scales-to-mi-13141) |
-| How would you handle a celebrity user whose activity overwhelms a single partition? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-a-celebrity-user-whose-activity-overwhelms-a-sing-13071) |
-| A DISTINCT ON query (Postgres) is used to pick the latest row per group. How does it differ semantically from ROW_NUMBER()=1, and what ORDER BY guarantees does it require to be deterministic? | deep understanding | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-distinct-on-query-postgres-is-used-to-pick-the-latest-row-per-group--22140) |
-| Design a fan-out delivery path for group chat messages where a 5000-member group must not stall the sender. Compare fan-out-on-write to member inboxes vs a shared timeline pulled on read. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-fan-out-delivery-path-for-group-chat-messages-where-a-5000-me-22286) |
-| Design a link-preview (URL metadata) service that fetches title/image for pasted links safely. How do you prevent SSRF to internal IPs, cap page size/time, and cache results across users? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-link-preview-url-metadata-service-that-fetches-title-image-fo-22312) |
-| Design storage and query for a follower graph (who-follows-whom) that must answer 'is A following B', 'A's followers', and mutual-follows fast at 500M edges. Relational, wide-column, or graph DB? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-storage-and-query-for-a-follower-graph-who-follows-whom-that-mu-16390) |
-| Design unread-count and read-receipt tracking for a chat app at 10M DAU. Why is per-message read state expensive, and how does a per-conversation last-read watermark cut the cost? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-unread-count-and-read-receipt-tracking-for-a-chat-app-at-10m-da-22287) |
-| How do you reason about the complexity of a chat history load, comparing offset pagination degrading toward O(n) with cursor-based O(log n) seeks, and how deletes/edits complicate the ordering? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-a-chat-history-load-comparin-22118) |
-| How do you reason about the complexity of a distributed counter (likes/views) using sharded counters (O(shards) reads to sum) versus a single row (write contention), balancing read cost against write throughput? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-a-distributed-counter-likes--22099) |
-| How do you reason about the complexity of a fan-out-on-write timeline when a celebrity has millions of followers, turning one post into O(followers) writes, and how a hybrid pull model caps that? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-a-fan-out-on-write-timeline--22122) |
-| How do you reason about the complexity of a fan-out-on-write versus fan-out-on-read timeline/feed design, and how does follower-count skew change the calculus? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-a-fan-out-on-write-versus-fa-16134) |
-| How do you reason about the complexity of an eventual-consistency counter with async aggregation (cheap O(1) writes, deferred O(n) rollup) versus synchronous updates, for a view-count feature under heavy writes? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-an-eventual-consistency-coun-22112) |
-| You're asked to keep a live counter of unique active users; how do you reason about exact O(n)-space sets versus HyperLogLog's near-constant space and justify the accuracy trade-off to product? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-keep-a-live-counter-of-unique-active-users-how-do-you--22070) |
-| You're deciding whether to precompute a denormalized fan-out table (O(followers) writes) or compute a feed on read (O(followees) per request); how does the read/write ratio and skew drive the complexity call? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-precompute-a-denormalized-fan-out-table-o-f-22044) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Architect a feed-ranking-and-delivery system for a professional social network where the same post must reach the right audience with dedup freshness and diversity constraints — how do you split candidate generation ranking and the write/read fan-out at 1B members? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-feed-ranking-and-delivery-system-for-a-professional-social-39506) |
-| A "like" button double-fires from a slow client and creates two rows — how do you design the endpoint and unique constraint so the second call is a safe no-op? | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-like-button-double-fires-from-a-slow-client-and-creates-two-rows-how-24412) |
-| How would you implement a like or upvote counter that must never go below zero in Redis? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-a-like-or-upvote-counter-that-must-never-go-be-12157) |
-| Why can Redis Pub/Sub miss messages for a client that reconnects, and how does that affect a chat UI? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-can-redis-pub-sub-miss-messages-for-a-client-that-reconnects-and-h-12198) |
-| Design storage and query for a follower graph (who-follows-whom) that must answer 'is A following B', 'A's followers', and mutual-follows fast at 500M edges. Relational, wide-column, or graph DB? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-storage-and-query-for-a-follower-graph-who-follows-whom-that-mu-16390) |
-| How do you reason about the complexity of a fan-out-on-write versus fan-out-on-read timeline/feed design, and how does follower-count skew change the calculus? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-a-fan-out-on-write-versus-fa-16134) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you'd design a capacity plan that stays robust to a step-change discontinuity — a viral moment, a competitor's outage sending you their traffic, a regulatory mandate. How do you build 'surge insurance' capacity that's cheap when unused? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-capacity-plan-that-stays-robust-to-a-step-c-52977) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| If asked to design where 'user login sessions' live versus 'monthly active users', how do you split them across OLTP and OLAP? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-asked-to-design-where-user-login-sessions-live-versus-monthly-activ-118829) |
-| If your task is to build a 'weekly signups' report, which system do you pull from and why? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-your-task-is-to-build-a-weekly-signups-report-which-system-do-you-p-118798) |
-| What happens if you forget ORDER BY inside OVER when using ROW_NUMBER()? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-happens-if-you-forget-order-by-inside-over-when-using-row-number-118988) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you measure per-language retrieval quality separately so a strong English metric doesn't hide poor Hindi or Tamil recall in your aggregate numbers? | deep understanding | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-measure-per-language-retrieval-quality-separately-so-a-s-64332) |
-| How would you approach designing a system to rank news-feed posts for a social app? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-approach-designing-a-system-to-rank-news-feed-posts-for--62129) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you evaluate cross-lingual quality parity so an English-first model isn't shipped with a silent 30% quality gap in Hindi or Tamil? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-cross-lingual-quality-parity-so-an-english-first-m-86877) |
-| How do you evaluate safety and toxicity at scale in a way that respects locale and culture, so a globally-deployed model isn't judged by one region's norms? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-safety-and-toxicity-at-scale-in-a-way-that-respect-86855) |
-| A stakeholder wants explainability for why a text was flagged. How would you surface interpretable evidence from a TF-IDF model versus a fine-tuned transformer? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-wants-explainability-for-why-a-text-was-flagged-how-woul-79410) |
-| Explain how you would handle mixed-script tokens where Latin and Devanagari appear in a single word from Indian-language input. | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-handle-mixed-script-tokens-where-latin-and-devan-79470) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

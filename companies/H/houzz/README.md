@@ -1,18 +1,33 @@
 # Houzz
 
-**Tier:** Tier 3  |  **Business domain:** E-commerce/Home-Design  |  **Questions:** 2
+**Tier:** Tier 3  |  **Business domain:** Home-Design / E-commerce  |  **Questions listed:** 540  |  **Tagged directly to Houzz:** 2
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Houzz's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Houzz: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 2 | 2 | 2 | 2 | 2 | 2 |
+| Backend | 3 | 3 | 20 | 59 | 58 | 60 |
+| Fullstack | 19 | 19 | 46 | 55 | 26 | 60 |
+| DevOps | 28 | 20 | 29 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 16 | 60 | 49 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 26 | 60 |
+| Database Developer | 11 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 1 | 1 | 1 | 60 | 59 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Evaluate an Integer Arithmetic Expression with Parentheses | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Expression Evaluation, Math, Parsing, Recursion, Stack, String | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=evaluate-an-integer-arithmetic-expression-with-parentheses-d757) |
-| The N-th Positive Integer That Never Shows the Digit Nine | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Combinatorics, Math, Number Theory, Positional Numeral Systems, Radix / Base Conversion | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-n-th-positive-integer-that-never-shows-the-digit-nine-d645) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

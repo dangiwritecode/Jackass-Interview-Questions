@@ -1,29 +1,33 @@
 # Zenduty
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 13
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Zenduty:** 13
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Zenduty's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Zenduty: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AIOps | 0 | 0 | 13 | 13 | 13 | 13 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 23 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AIOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide when anomaly-model drift warrants a page versus a Slack notice versus a silent log, given on-call is already alert-fatigued? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-anomaly-model-drift-warrants-a-page-versus-a-sl-95372) |
-| How do you monitor a model that predicts alert-storm onset so you can validate its lead time hasn't degraded before a real storm tests it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-a-model-that-predicts-alert-storm-onset-so-you-can--95365) |
-| How do you monitor a model that predicts noisy-alert probability so you can catch when it starts silently dropping a class of newly-important alerts? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-a-model-that-predicts-noisy-alert-probability-so-yo-95398) |
-| How do you monitor a model that predicts time-to-resolution for incidents when team composition and on-call rotations change quarterly? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-a-model-that-predicts-time-to-resolution-for-incide-95343) |
-| How do you monitor an alert-grouping model at scale when incoming alert volume spikes 10x during a major outage — does your drift job survive the storm? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-an-alert-grouping-model-at-scale-when-incoming-aler-95345) |
-| How would you monitor a model that predicts on-call load so you can catch when its estimates diverge from actual paging volume by team? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-a-model-that-predicts-on-call-load-so-you-can-ca-95405) |
-| How would you monitor a model that predicts whether an alert is a duplicate of an open incident, given the definition of 'same incident' is fuzzy? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-a-model-that-predicts-whether-an-alert-is-a-dupl-95385) |
-| How would you monitor a model that predicts whether an alert will self-resolve so on-call can defer, and catch when its self-resolve estimates degrade? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-a-model-that-predicts-whether-an-alert-will-self-95423) |
-| How would you monitor drift in a model that predicts whether to auto-escalate an incident when escalation policies and severity ladders change? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-drift-in-a-model-that-predicts-whether-to-auto-e-95411) |
-| How would you monitor training-serving skew when your incident model is trained on historical Jira data but scores live PagerDuty events with different fields? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-training-serving-skew-when-your-incident-model-i-95362) |
-| How would you monitor whether your alert-correlation model's grouping quality drifts, using something better than just group counts? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-whether-your-alert-correlation-model-s-grouping--95407) |
-| Your model predicts which alerts are actionable. Labels come from whether on-call actually acted. How do you monitor drift given feedback is biased by responder behavior? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-model-predicts-which-alerts-are-actionable-labels-come-from-wheth-95337) |
-| Your noise-reduction model that suppresses duplicate alerts is now suppressing real incidents. How do you monitor for this failure mode before an outage exposes it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-noise-reduction-model-that-suppresses-duplicate-alerts-is-now-sup-95328) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

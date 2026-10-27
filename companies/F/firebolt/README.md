@@ -1,35 +1,33 @@
 # Firebolt
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 13
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Firebolt:** 13
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Firebolt's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Firebolt: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 0 | 12 | 12 | 12 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 32 | 59 | 31 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your data-warehouse spend scales with query volume from self-serve analysts who don't feel the cost. How would you architect governance — query cost limits, materialized-view strategy, workload isolation — that curbs runaway spend without gatekeeping legitimate analysis? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-data-warehouse-spend-scales-with-query-volume-from-self-serve-ana-52955) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A VP wants to replace your hand-tuned Spark ETL fleet with a serverless warehouse (BigQuery/Snowflake) because 'nobody should manage clusters.' Make the honest build-vs-buy case including compute lock-in, per-query cost unpredictability, and where the Spark control you'd lose actually matters for your workloads. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vp-wants-to-replace-your-hand-tuned-spark-etl-fleet-with-a-serverles-125623) |
-| A bar-raiser asks: you route cheap aggregate queries to a small warehouse and heavy queries to a large one to save money, but mis-routing a heavy query to the small warehouse causes spillage and a slow, expensive re-run. How do you build the query-cost-classifier and routing policy that sets the threshold, and keep it calibrated as query patterns drift? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-route-cheap-aggregate-queries-to-a-small-warehou-125976) |
-| A bar-raiser probes: your data-platform cost model comparing two warehouse vendors hinges entirely on the assumed read/write ratio and cache-hit rate. How do you stress-test a multi-year TCO comparison against wrong assumptions before you commit the org to a contract, and what's the regret if the workload mix shifts? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-your-data-platform-cost-model-comparing-two-wareho-126007) |
-| Your Snowflake query-acceleration service and materialized views auto-refresh silently and now cost more than the queries they speed up. How do you govern automatic optimization features that trade transparent, controllable compute for opaque, always-on background spend teams don't see until the bill? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-snowflake-query-acceleration-service-and-materialized-views-auto--125945) |
-| Your warehouse's automatic clustering / re-clustering runs constantly to keep large tables sorted, and the background compute is a hidden top cost line. How do you govern automatic-clustering spend — clustering key choice, selective clustering, disabling on low-query tables — versus the query-speedup it buys? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-warehouse-s-automatic-clustering-re-clustering-runs-constantly-to-125987) |
-| How do you decide when a heavy Gold aggregation should become a materialized view vs a scheduled table vs computed on-read? Give the cost/latency reasoning. | deep understanding | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-a-heavy-gold-aggregation-should-become-a-materi-126257) |
-| How do you keep the medallion's compute cost from exploding when 200 analysts fire ad-hoc Gold queries during business hours? What isolation and caching do you architect? | expertise | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-the-medallion-s-compute-cost-from-exploding-when-200-a-126252) |
-| What's your view on whether the medallion belongs inside a single warehouse (Snowflake) or an open lakehouse, and how do you avoid vendor lock-in at the Gold layer? | expertise | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-view-on-whether-the-medallion-belongs-inside-a-single-ware-126239) |
-| When would you keep Bronze in cheap object storage but Gold in a fast columnar warehouse, and how do you manage the two-tier storage economics at petabyte scale? | expertise | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-keep-bronze-in-cheap-object-storage-but-gold-in-a-fast--126264) |
-| What's your strategy for benchmarking price/performance of the same analytical workload on two clouds fairly — how do you avoid a benchmark that flatters whichever vendor sponsored it? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-benchmarking-price-performance-of-the-same-an-127313) |
-| How do you decide between compute-local NVMe cache tiers, object-store hot tier, and archive for a query engine, and how does the cache-vs-tier boundary shift the economics? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-compute-local-nvme-cache-tiers-object-store--126733) |
-| When a query engine needs to read a table that has files spread across Standard and Glacier, how do you make that transparent, or do you refuse the query? Defend your choice. | deep understanding | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-a-query-engine-needs-to-read-a-table-that-has-files-spread-across-126760) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

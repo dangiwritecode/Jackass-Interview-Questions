@@ -1,33 +1,33 @@
 # Tumult Labs
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Tumult Labs:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Tumult Labs's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Tumult Labs: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 0 | 3 | 3 | 3 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 9 | 59 | 54 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a data-anonymization / differential-privacy platform to unblock analytics on regulated data — where does the compliance risk of building your own de-identification (and being wrong) tip the scale toward buying a certified vendor's guarantees? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-anonymization-differential-p-125877) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a privacy-budget accounting system across streaming and batch DP jobs so a user's cumulative epsilon spend never exceeds policy across all analyses. | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-privacy-budget-accounting-system-across-streaming-and-batch-d-72603) |
-| How would you demonstrate to a regulator that your DP implementation actually achieves the claimed epsilon and isn't undermined by an implementation bug? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-demonstrate-to-a-regulator-that-your-dp-implementation-a-72630) |
-| How would you quantify and manage privacy/re-identification risk from a model that memorizes training data, and what controls mitigate it? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-quantify-and-manage-privacy-re-identification-risk-from--71836) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect differential-privacy budgets as a governed, org-wide resource so multiple teams querying the same sensitive dataset don't collectively blow the privacy guarantee? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-differential-privacy-budgets-as-a-governed-org-wi-86090) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

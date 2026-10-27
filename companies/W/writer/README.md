@@ -1,47 +1,33 @@
 # Writer
 
-**Tier:** Tier 2  |  **Business domain:** AI  |  **Questions:** 25
+**Tier:** Tier 2  |  **Business domain:** AI  |  **Questions listed:** 540  |  **Tagged directly to Writer:** 25
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Writer's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Writer: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 1 | 8 | 7 | 8 |
-| AI Engineer | 0 | 0 | 11 | 17 | 11 | 17 |
+| Backend | 11 | 11 | 48 | 60 | 26 | 60 |
+| Fullstack | 9 | 9 | 38 | 59 | 24 | 60 |
+| DevOps | 0 | 0 | 2 | 60 | 60 | 60 |
+| AIOps | 0 | 0 | 15 | 60 | 60 | 60 |
+| Data Engineer | 4 | 0 | 38 | 60 | 22 | 60 |
+| Database Developer | 13 | 14 | 15 | 54 | 46 | 60 |
+| ML Engineer | 0 | 0 | 1 | 60 | 59 | 60 |
+| AI Engineer | 3 | 3 | 15 | 60 | 52 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A vendor's managed inference API silently swaps the model behind the endpoint and breaks your evals. How does that non-determinism and lack of version pinning change your build-vs-buy calculus toward self-hosting open weights? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-s-managed-inference-api-silently-swaps-the-model-behind-the-e-69783) |
-| How would you architect LoRA/adapter hot-swapping on a shared serving fleet so hundreds of fine-tuned variants ride on one base-model deployment? What's the memory and swap-cost model, and where does it beat dedicated per-model endpoints? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-lora-adapter-hot-swapping-on-a-shared-serving--69321) |
-| Your org must decide whether to fine-tune a model per customer/tenant or serve a single multi-tenant model with adapters (LoRA). How does that choice change your serving capacity and cost, and where does per-tenant fine-tuning become economically unviable? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-must-decide-whether-to-fine-tune-a-model-per-customer-tenant--69320) |
-| Design governance for a model that will be sold as an enterprise product where the customer demands their data was never used to train a shared model — how do you architect and PROVE data-isolation guarantees (per-tenant fine-tunes no cross-training) to their auditors? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-for-a-model-that-will-be-sold-as-an-enterprise-produ-70000) |
-| How would you make a FastAPI LLM proxy endpoint stream tokens while also enforcing per-user token quotas and cost tracking on the fly? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-make-a-fastapi-llm-proxy-endpoint-stream-tokens-while-al-62901) |
-| You're consolidating 30 LoRA-adapter deployments onto a shared base-model fleet; how do you design tenancy, isolation, and cost attribution for multi-LoRA at org scale? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-consolidating-30-lora-adapter-deployments-onto-a-shared-base-mo-71186) |
-| Design a governance approach for prompt and system-prompt changes to LLMs, treating them as model changes subject to risk review. | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-governance-approach-for-prompt-and-system-prompt-changes-to-l-71835) |
-| How do you incorporate adversarial robustness and prompt-injection risk into a model risk assessment for a customer-facing LLM product? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-incorporate-adversarial-robustness-and-prompt-injection-ris-71792) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you weigh build-vs-buy when a bought GenAI capability's per-inference cost scales with product success (per-generation billing) such that winning in the market punishes you financially — when does that alone justify insourcing the hot path? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-build-vs-buy-when-a-bought-genai-capability-s-per-inf-83769) |
-| How do you build a portfolio-level view ranking every GenAI feature by cost-per-successful-outcome (not cost-per-call), so leadership can kill features that burn tokens without moving a business metric? What defines a 'successful outcome' and how do you meter it? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-portfolio-level-view-ranking-every-genai-feature-by-83364) |
-| How do you distinguish, at GenAI-portfolio level, between 'good cost' that scales with value delivered and 'bad cost' — over-long prompts, redundant retrieval, over-sized models on easy tasks — and build reporting that shows leadership the difference instead of a total token number? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-distinguish-at-genai-portfolio-level-between-good-cost-that-83381) |
-| How do you set an org-wide sampling policy for online eval and drift monitoring of GenAI outputs, balancing the cost of judging every response against the risk of missing a quality regression on a rare-but-critical query class? Who owns that sampling budget? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-an-org-wide-sampling-policy-for-online-eval-and-drift-m-83344) |
-| How would you decide the cost-optimal prompt-compression strategy — summarizing conversation history, trimming few-shot examples, or context distillation — that cuts input tokens without dropping the accuracy the feature depends on? Where's the compression-vs-quality break-even? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-cost-optimal-prompt-compression-strategy-summ-83404) |
-| Your org must decide between per-tenant fine-tuning and a single multi-tenant model with LoRA adapters hot-swapped at serving time. How does that choice change your GPU capacity and cost, and at what tenant count and customization depth does per-tenant tuning become unviable? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-must-decide-between-per-tenant-fine-tuning-and-a-single-multi-83366) |
-| How would you design a deploy for a multi-tenant LLM app where each tenant can be pinned to a different prompt or model version, and the shared serving layer stays compatible with all of them? | expertise | SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-deploy-for-a-multi-tenant-llm-app-where-each-te-77678) |
-| You build a multi-hop graph-RAG over an entity-relation graph; how do you bound a traversal so it doesn't explode on high-degree hub nodes, and what structure caps the frontier while preserving the most relevant paths? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-build-a-multi-hop-graph-rag-over-an-entity-relation-graph-how-do-y-76694) |
-| You precompute a hierarchical summary tree over a large document corpus (RAPTOR-style) for retrieval; what tree structure and traversal answers a query at the right abstraction level, and what's the build cost? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-precompute-a-hierarchical-summary-tree-over-a-large-document-corpu-76704) |
-| Your RAG citations must map each returned chunk back to its source document and offset in O(1) after a vector search returns IDs; what structure holds the chunk-to-source mapping and how do you keep it in sync on re-ingest? | intermediate experience | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-rag-citations-must-map-each-returned-chunk-back-to-its-source-doc-76716) |
-| Your RAG must expand a matched chunk to its neighboring chunks for context; why model parent-document-to-child-chunks as a tree or adjacency list, and what's the lookup cost to fetch a window around a hit? | intermediate experience | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-rag-must-expand-a-matched-chunk-to-its-neighboring-chunks-for-con-76753) |
-| A model's output changes when you reorder logically-independent instructions. Explain why order matters mechanistically and how you'd make your prompt order-robust. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-s-output-changes-when-you-reorder-logically-independent-instru-77953) |
-| How would you explain to your team why greedy decoding can loop or degrade on long generations while low-temperature sampling doesn't, and when you'd still choose greedy? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-to-your-team-why-greedy-decoding-can-loop-or-deg-77921) |
-| How would you explain why a model's output token count matters more than input for a long-generation feature, and where you'd invest to reduce it? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-why-a-model-s-output-token-count-matters-more-th-77994) |
-| How would you decide on temperature top-p and other decoding parameters for a factual question-answering feature versus a creative-writing feature? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-on-temperature-top-p-and-other-decoding-parameter-79538) |
-| Your RAG answers are correct but too verbose or off-format; how would you enforce response style and structure reliably? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-rag-answers-are-correct-but-too-verbose-or-off-format-how-would-y-79571) |
-| Your beam-search generation is too conservative for a paraphrase feature. How would you tune decoding for controlled diversity? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-beam-search-generation-is-too-conservative-for-a-paraphrase-featu-79477) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

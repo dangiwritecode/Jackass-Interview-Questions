@@ -1,28 +1,33 @@
 # Cresta
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 12
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Cresta:** 12
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Cresta's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Cresta: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AI Engineer | 0 | 0 | 7 | 12 | 12 | 12 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 10 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AI Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a progressive-autonomy architecture: an agent starts suggest-only, graduates to auto-execute-with-undo, then full autonomy, gated by measured trust. What signals promote or demote autonomy automatically, and what stops gaming of those signals? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-progressive-autonomy-architecture-an-agent-starts-suggest-onl-83085) |
-| How do you architect a human-in-the-loop review path on AWS (Augmented A2I) for high-stakes LLM outputs so low-confidence or policy-flagged generations route to a human before reaching the user — without the review queue becoming a latency or cost bottleneck? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-human-in-the-loop-review-path-on-aws-augmented--82691) |
-| How do you architect production hallucination detection for a customer-facing GenAI feature on AWS — where do groundedness checks against retrieved context uncertainty signals and a fallback-to-safe-answer path live and how do you alert without paging on every low-confidence output? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-production-hallucination-detection-for-a-customer-82650) |
-| How would you architect a confidence-and-uncertainty signal for LLM outputs on AWS so downstream logic (auto-approve versus route-to-human) can act on it — where does the signal come from given raw token probabilities aren't exposed for managed models? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-confidence-and-uncertainty-signal-for-llm-ou-82722) |
-| How do you evaluate whether an agent knows when to stop or escalate to a human, rather than persisting in a failing loop, at production scale? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-an-agent-knows-when-to-stop-or-escalate-to-86865) |
-| A user reports the fine-tuned model is confidently wrong on a class of inputs the base handled fine — walk me through your rollback and root-cause plan. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-user-reports-the-fine-tuned-model-is-confidently-wrong-on-a-class-of-80079) |
-| How would you diagnose whether a plateaued eval metric is bottlenecked by adapter capacity versus data coverage — what two experiments separate them? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-diagnose-whether-a-plateaued-eval-metric-is-bottlenecked-80005) |
-| Your agent's fine-tuned model is great at single tool calls but breaks on multi-step tool chains — what's likely missing in the training distribution? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-agent-s-fine-tuned-model-is-great-at-single-tool-calls-but-breaks-80043) |
-| Your DPO adapter got more concise but also refuses more — how do you tell if the preference data over-penalized helpful long answers? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-dpo-adapter-got-more-concise-but-also-refuses-more-how-do-you-tel-80035) |
-| Your fine-tune improved offline win-rate but production thumbs-up dropped — how do you reconcile the two signals and which do you trust? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-fine-tune-improved-offline-win-rate-but-production-thumbs-up-drop-80024) |
-| Your fine-tune trained on templated data now fails when the real prompts phrase things differently — how do you build robustness to prompt paraphrase? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-fine-tune-trained-on-templated-data-now-fails-when-the-real-promp-80085) |
-| Your instruction-tuned adapter regressed on multi-turn conversations though single-turn improved — how do you trace this to the training data structure? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-instruction-tuned-adapter-regressed-on-multi-turn-conversations-t-80015) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

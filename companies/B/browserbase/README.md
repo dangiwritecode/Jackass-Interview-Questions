@@ -1,21 +1,33 @@
 # Browserbase
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Browserbase:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Browserbase's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Browserbase: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AI Engineer | 0 | 0 | 2 | 5 | 4 | 5 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 32 | 60 | 48 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AI Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An agent needs to browse the web and take actions on real sites (computer-use). Architect the isolation, rate-control, and rollback so a mistake on a live site is contained and reversible. | expertise | SDE-2/3, Architect/Principal | Agentic System Architecture | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-agent-needs-to-browse-the-web-and-take-actions-on-real-sites-comput-87021) |
-| Your agent needs to browse the live web. How do you sandbox the browsing tool so a malicious page can't exfiltrate secrets or trigger unintended actions? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Agentic Workflows | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-agent-needs-to-browse-the-live-web-how-do-you-sandbox-the-browsin-80531) |
-| How do you decide build-vs-buy for a browser/computer-use automation capability inside agents (buy a managed computer-use/agent-browser API vs build your own sandboxed automation) when reliability of DOM interaction and blast radius of an agent acting on live systems are the risks? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-browser-computer-use-automation-c-83804) |
-| A headless-browser tool container in your web-research agent crashes intermittently under Docker but not on a VM. Which Docker default (shm size, seccomp, no-sandbox) would you suspect first and how do you validate it? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-headless-browser-tool-container-in-your-web-research-agent-crashes-i-77488) |
-| Design the architecture for a 'computer-use' agent that drives a real browser to complete tasks, and present the sandboxing, blast-radius, and audit controls you'd require before letting it touch any production system. | expertise | SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-a-computer-use-agent-that-drives-a-real-br-83152) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

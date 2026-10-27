@@ -1,77 +1,33 @@
 # Skyflow
 
-**Tier:** Tier 4  |  **Business domain:** SaaS  |  **Questions:** 31
+**Tier:** Tier 4  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Skyflow:** 31
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Skyflow's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Skyflow: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 1 | 7 | 7 | 7 |
-| DevOps | 0 | 0 | 0 | 2 | 2 | 2 |
-| AIOps | 0 | 0 | 1 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 6 | 9 | 6 | 9 |
-| AI Engineer | 0 | 0 | 10 | 11 | 7 | 11 |
+| Backend | 4 | 4 | 20 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 49 | 56 | 23 | 60 |
+| DevOps | 29 | 21 | 30 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 12 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 45 | 60 | 26 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 6 | 60 | 57 | 60 |
+| AI Engineer | 3 | 3 | 13 | 60 | 54 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're asked to add 'field-level encryption' for PII so even authenticated employees only see decrypted values if authorized. Where do the keys live, and how do authorization and decryption interact per request? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-add-field-level-encryption-for-pii-so-even-authenticat-26219) |
-| Architect a PII tokenization/vault service that serves 500k tokenize/detokenize ops per second across regions — how do you meet latency SLOs while keeping the token vault as the only PCI/PII-in-scope component and surviving its failure? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-pii-tokenization-vault-service-that-serves-500k-tokenize-d-37223) |
-| Design a field-level encryption and key-management architecture for PII/PHI where keys are per-tenant and rotatable — how do you support crypto-shredding key rotation and BYOK/HYOK for enterprise customers without a re-encryption storm? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-field-level-encryption-and-key-management-architecture-for-pi-37234) |
-| Design how tokenization interacts with analytics and joins — if PAN and PII are tokenized how do downstream systems still join and aggregate on those identities (deterministic vs format-preserving tokens) without re-introducing the raw value into scope? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-tokenization-interacts-with-analytics-and-joins-if-pan-and--37305) |
-| How do you architect tenant-scoped encryption keys so that terminating a customer contract or honoring their erasure request is a single key-destruction operation that provably renders all their data unrecoverable everywhere including backups? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-tenant-scoped-encryption-keys-so-that-terminating-37263) |
-| What breaks at 100x in a centralized tokenization vault — throughput ceiling detokenization latency the blast radius of a vault outage or the key-management scaling? Redesign the vault topology (regional shards caching HSM fleet) to hold your SLOs at scale. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-breaks-at-100x-in-a-centralized-tokenization-vault-throughput-cei-37296) |
-| Why not just encrypt everything at rest and call PII handled? Push back on that as a bar-raiser — what compliance obligations does at-rest encryption alone fail to address and how does that shape your real architecture? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-not-just-encrypt-everything-at-rest-and-call-pii-handled-push-back-37251) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An interviewer probes: your design assumes you can enumerate all PII, but a free-text field or an uploaded document may contain anything. How do you architect governance for unstructured and user-generated content where you can't schema-enforce classification? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-design-assumes-you-can-enumerate-all-pii-bu-54081) |
-| How do you architect governance for the moment a critical vendor (say your tokenization or KMS provider) announces end-of-life or a breach — what's your compliance-preserving exit and failover design so you're never one vendor away from a violation you can't remediate in time? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-the-moment-a-critical-vendor-say-y-54088) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle PII and prompt-content sensitivity when you need to log prompts and retrieved context for drift analysis? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-pii-and-prompt-content-sensitivity-when-you-need-to--97883) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you protect PII inside the MDM hub — tokenization, encryption, attribute-level access — while still allowing the matching engine to compare sensitive fields like SSN or Aadhaar? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-protect-pii-inside-the-mdm-hub-tokenization-encryption-attr-127763) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide between column-level access controls in the warehouse vs a dedicated privacy vault for controlling PII access to ML pipelines? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-column-level-access-controls-in-the-warehous-72602) |
-| What is your DR/multi-region strategy for a PII vault such that a regional failover doesn't violate data-residency or expose tokens cross-border? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-dr-multi-region-strategy-for-a-pii-vault-such-that-a-regi-72611) |
-| What's your strategy for tokenization vault scaling and availability when every online feature lookup needs a detokenization call in the critical inference path? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-tokenization-vault-scaling-and-availability-w-72599) |
-| You must never store PII in prompts because it persists in event history and compaction summaries. How do you architect a labeling pipeline that needs sensitive fields without durably persisting them? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-never-store-pii-in-prompts-because-it-persists-in-event-histo-64137) |
-| You must redact PII from prompts before they reach the provider but redaction is imperfect. How do you layer detection, tokenized placeholders, and re-hydration so the model still produces useful output? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-redact-pii-from-prompts-before-they-reach-the-provider-but-re-64160) |
-| You want to replay a production LLM incident deterministically for debugging. What do you record per request (messages, params, model, request-id, raw response) and how do you store it without capturing PII? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-replay-a-production-llm-incident-deterministically-for-deb-64165) |
-| You need to redact PII from prompts before they hit a third-party API but keep enough to debug. Design the field-level redaction and where in the pipeline it runs. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-redact-pii-from-prompts-before-they-hit-a-third-party-api--63833) |
-| Explain how you'd add PII redaction to the request path before it hits the model, and how you avoid redacting so aggressively that you break legitimate prompts. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-add-pii-redaction-to-the-request-path-before-it-hits-64725) |
-| You need to log full prompts and completions for debugging but legal forbids storing PII. How do you design the logging pipeline to satisfy both? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-log-full-prompts-and-completions-for-debugging-but-legal-f-64687) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a data pipeline on AWS to build a fine-tuning dataset from production logs while stripping PII and deduplicating near-identical examples? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-pipeline-on-aws-to-build-a-fine-tuning-dat-77797) |
-| You need to keep PII out of prompts sent to a third-party model API from AWS — how would you architect redaction with Comprehend or a custom step before the model call? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-keep-pii-out-of-prompts-sent-to-a-third-party-model-api-fr-77744) |
-| You're logging full prompts and completions to CloudWatch for debugging and the bill and compliance team both complain — how do you architect selective, sampled, redacted logging? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-logging-full-prompts-and-completions-to-cloudwatch-for-debuggin-77772) |
-| How do you decide build-vs-buy for a PII-detection/redaction service in your prompt and RAG pipelines (buy Presidio-based/cloud DLP vs build classifiers) when a leak of customer PII into a prompt or fine-tune is a compliance incident with legal weight? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-pii-detection-redaction-service-i-83756) |
-| How would you gate a deploy on a PII-leakage check so a prompt or retrieval change can't start surfacing sensitive data in model outputs? | deep understanding | SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-gate-a-deploy-on-a-pii-leakage-check-so-a-prompt-or-retr-77642) |
-| A guardrail's PII detector runs regex plus a large keyword set on every response and blocks the event loop; how do you move the matcher off the hot path and serve from an immutable compiled automaton snapshot? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-guardrail-s-pii-detector-runs-regex-plus-a-large-keyword-set-on-ever-76715) |
-| Describe how you would enforce PII redaction on both inputs and outputs of a LangChain chain before anything reaches the LLM or logs. | deep understanding | SDE-1/2, SDE-2/3 | LangChain | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-enforce-pii-redaction-on-both-inputs-and-output-79772) |
-| Your LLM chatbot leaks PII in some responses; how would you architect a redaction and filtering layer without adding too much latency? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-llm-chatbot-leaks-pii-in-some-responses-how-would-you-architect-a-79513) |
-| A user's prompt may contain PII that flows into your traces. Compare redacting it in the app SDK (before the span is created) versus in the OTel Collector for an LLM pipeline. What does each protect against and miss? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-user-s-prompt-may-contain-pii-that-flows-into-your-traces-compare-re-78829) |
-| On this project, how did you keep PII out of prompts sent to a third-party provider, and what did you do when redaction itself broke the model's ability to answer? | deep understanding | SDE-1/2, SDE-2/3 | Projects (Resume Deep-Dive) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=on-this-project-how-did-you-keep-pii-out-of-prompts-sent-to-a-third-pa-78664) |
-| How would you architect PII redaction in an LLM pipeline so sensitive data never lands in prompts sent to a third-party provider or in your logs? What are the leakage points you'd close? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-pii-redaction-in-an-llm-pipeline-so-sensitive--79065) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

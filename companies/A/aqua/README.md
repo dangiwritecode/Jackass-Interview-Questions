@@ -1,47 +1,33 @@
 # Aqua
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 19
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Aqua:** 17
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Aqua's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Aqua: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 2 | 2 | 0 | 2 |
-| Fullstack | 0 | 0 | 2 | 3 | 1 | 3 |
-| DevOps | 0 | 0 | 10 | 14 | 14 | 14 |
+| Backend | 4 | 4 | 21 | 59 | 55 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 41 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A vulnerability scanner flags 300 CVEs in your alpine image and the team wants zero. How do you triage which matter, and would switching to a minimal/distroless base actually help? | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vulnerability-scanner-flags-300-cves-in-your-alpine-image-and-the-te-19490) |
-| Your image passes a Trivy scan locally but the pipeline fails on the same image. How would you make vulnerability gating consistent and decide which CVEs actually block a release? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-image-passes-a-trivy-scan-locally-but-the-pipeline-fails-on-the-s-19432) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A vulnerability scanner flags 300 CVEs in your alpine image and the team wants zero. How do you triage which matter, and would switching to a minimal/distroless base actually help? | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vulnerability-scanner-flags-300-cves-in-your-alpine-image-and-the-te-19490) |
-| Your image passes a Trivy scan locally but the pipeline fails on the same image. How would you make vulnerability gating consistent and decide which CVEs actually block a release? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-image-passes-a-trivy-scan-locally-but-the-pipeline-fails-on-the-s-19432) |
-| How do you architect against a compromised base container image that ships in thousands of deployments? Walk me through image signing, admission control, provenance, and the runtime detection you fall back on when signing was bypassed. | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-against-a-compromised-base-container-image-that-s-41292) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your EKS pods that use IRSA suddenly get AccessDenied after a cluster change — how do you debug the OIDC provider trust, the service-account annotation, and the token projection to find where the chain broke? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-eks-pods-that-use-irsa-suddenly-get-accessdenied-after-a-cluster--46181) |
-| How would you architect a policy so that every prod-bound container image on Azure is scanned, signed, and admission-controlled, without the security gate becoming a velocity killer? | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-policy-so-that-every-prod-bound-container-im-54607) |
-| Your container scan fails the build on a critical CVE in a base image you can't patch today; how would you decide between blocking, exempting with an expiry, or swapping base images, and how do you make the exemption auditable? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-container-scan-fails-the-build-on-a-critical-cve-in-a-base-image--46065) |
-| How do you configure your CI pipeline to fail a build when a Terraform plan would create an unencrypted RDS instance or a public S3 bucket — which tool would you reach for and where does it sit in the pipeline? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-configure-your-ci-pipeline-to-fail-a-build-when-a-terraform-47929) |
-| How do you generate and store a Software Bill of Materials for each build, and why is SBOM increasingly asked for in vendor security and compliance reviews? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-generate-and-store-a-software-bill-of-materials-for-each-bu-48007) |
-| How do you prevent a Helm chart or Kustomize overlay from accidentally exposing an internal service to the public internet, and detect it if one slips through? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-prevent-a-helm-chart-or-kustomize-overlay-from-accidentally-48019) |
-| How would you design a policy so that any container running in the PCI namespace must have read-only root filesystem, dropped capabilities, and no host networking — and enforce it at admission? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-policy-so-that-any-container-running-in-the-pci-47990) |
-| How would you enforce that container images deployed to prod come only from a scanned, signed source — walk through image signing and admission control in your pipeline. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-enforce-that-container-images-deployed-to-prod-come-only-47941) |
-| Walk me through what a vulnerability management SLA looks like for PCI (critical patched in 30 days) and how you'd operationalize that across a container fleet with a scanner in the pipeline. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-what-a-vulnerability-management-sla-looks-like-for-pci-47953) |
-| How do you scan container images for vulnerabilities, and where in the pipeline do you place the scan so it doesn't slow builds unacceptably? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-scan-container-images-for-vulnerabilities-and-where-in-the--50632) |
-| Architect the enterprise pattern for artifact and container-image lifecycle governance (registries, retention, promotion across environments, vulnerability gating). How do you stop image sprawl and ensure only attested images reach production across 40 clusters? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-enterprise-pattern-for-artifact-and-container-image-life-53473) |
-| Contrast an enterprise-wide standardized base-image/paved-container approach with letting teams build their own Dockerfiles. Where does centralizing base images reduce CVE surface, and where does the forced-upgrade coupling create a hostage situation? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-an-enterprise-wide-standardized-base-image-paved-container-ap-53485) |
-| Design the enterprise pattern for supply-chain security across all builds (SBOM, artifact signing, provenance, admission verification) so a compromised dependency can't reach production. Where does each control live and who owns a failed attestation at 2am? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-pattern-for-supply-chain-security-across-all-bui-53448) |
-| How would you handle image and package supply-chain scanning consistently so a vuln policy blocks deploys on every cloud, not just one? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-image-and-package-supply-chain-scanning-consisten-51189) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

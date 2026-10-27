@@ -1,91 +1,33 @@
 # Delivery Hero
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 39
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Delivery Hero:** 39
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Delivery Hero's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Delivery Hero: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 2 | 6 | 6 | 6 |
-| Fullstack | 0 | 0 | 0 | 6 | 6 | 6 |
-| DevOps | 0 | 0 | 1 | 4 | 3 | 4 |
-| Data Engineer | 0 | 0 | 0 | 11 | 11 | 11 |
-| Database Developer | 0 | 0 | 0 | 4 | 4 | 4 |
-| ML Engineer | 0 | 0 | 2 | 5 | 3 | 5 |
-| AI Engineer | 0 | 0 | 1 | 3 | 2 | 3 |
+| Backend | 4 | 4 | 21 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 46 | 56 | 26 | 60 |
+| DevOps | 30 | 21 | 32 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 33 | 58 | 31 | 60 |
+| Database Developer | 13 | 18 | 19 | 50 | 42 | 60 |
+| ML Engineer | 0 | 0 | 2 | 60 | 58 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 57 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a login system that must work across three regions with data residency rules (EU users' credentials never leave the EU). How does this constrain your token issuance and session store? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-login-system-that-must-work-across-three-regions-with-data-re-26163) |
-| Two staff engineers deadlock in a design review: one insists the new order service must be CP, the other AP. As the deciding architect, how do you run the arbitration so the outcome is principled and both sides feel heard? | deep understanding | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=two-staff-engineers-deadlock-in-a-design-review-one-insists-the-new-or-32208) |
-| You must implement GDPR right-to-erasure across 40 microservices that each hold copies of user data in caches search indexes event logs and cold backups — architect an erasure orchestration that is provably complete and auditable without freezing the platform. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-implement-gdpr-right-to-erasure-across-40-microservices-that--37215) |
-| Your saga orchestrator for a multi-service order flow has compensation logic tangled into each step; how do you redesign the class model so each step declares its own compensating action and the orchestrator stays generic? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-saga-orchestrator-for-a-multi-service-order-flow-has-compensation-22333) |
-| You inherit a platform that grew organically into 40 microservices with unclear ownership and heavy internal coupling. How do you rationalize it into a coherent product surface without a big-bang rewrite? | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-a-platform-that-grew-organically-into-40-microservices-wit-37433) |
-| Your platform adoption is stalled at 30% after a year despite leadership endorsement. Diagnose the likely root causes and lay out how you'd turn adoption around without resorting to a top-down mandate. | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-platform-adoption-is-stalled-at-30-after-a-year-despite-leadershi-37416) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your micro-frontend estate has 12 independently deployed apps loading different React versions at runtime — how do you govern shared dependencies, avoid duplicate framework payloads, and prevent version-skew incidents? | deep understanding | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-micro-frontend-estate-has-12-independently-deployed-apps-loading--40022) |
-| Your org is adopting OCI artifacts to distribute not just images but Helm charts, WASM modules, and policy bundles through one registry. As principal, how would you design the artifact-distribution and provenance model, and what governance stops the registry from becoming an unversioned dumping ground? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-is-adopting-oci-artifacts-to-distribute-not-just-images-but-h-39031) |
-| You inherit a full-stack platform where the same domain concept (e.g. 'order') is modeled differently in the DB, the API, and three frontends. How do you drive a canonical domain model across the stack and pay down the translation debt? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-a-full-stack-platform-where-the-same-domain-concept-e-g-or-41424) |
-| Frame the org-level trade-off between a shared micro-frontend platform and per-team autonomy, specifically through the lens of who owns the cumulative startup cost when 30 teams each add 'just a little' JS. | expertise | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=frame-the-org-level-trade-off-between-a-shared-micro-frontend-platform-40224) |
-| How would you evaluate whether module federation / independently-deployable micro-frontends actually improved anything, given they can regress startup performance? Design the before/after measurement and the kill criteria. | expertise | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-whether-module-federation-independently-deploya-40263) |
-| Your company runs 12 country sites off one platform with wildly different network conditions and regulatory constraints. Design the per-region performance strategy and the single control plane that manages it without 12 forks. | expertise | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-company-runs-12-country-sites-off-one-platform-with-wildly-differ-40235) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a governance program that must satisfy both a US SOC2 auditor's culture of narrative controls and an EU regulator's culture of demonstrable technical measures — where do these two philosophies conflict and how do you build one system that serves both? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-governance-program-that-must-satisfy-both-a-us--54058) |
-| You run Flux and Argo side by side during a migration and both start reconciling the same namespace. How do you scope each controller to avoid a reconcile war, and how would you detect that both are fighting over a resource? | expertise | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-run-flux-and-argo-side-by-side-during-a-migration-and-both-start-r-45619) |
-| How would you architect a food-delivery platform's peak-hour availability across coupled real-time systems (search, dispatch, tracking) so that one saturating subsystem doesn't cascade into the others across many cities at once, and how do you isolate a single city's meltdown? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-food-delivery-platform-s-peak-hour-availabil-52113) |
-| Explain how you'd model a secrets-as-a-service internal platform contract: what's the golden path, what's paved-road self-service, and what stays a manual approval gate? How do you measure adoption? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-a-secrets-as-a-service-internal-platform-contr-54927) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A user's events land in your lake tagged with the ingestion region, but the same person's data arrives from an EU app and a US app under different lawful bases. How do you architect the lakehouse partitioning and row-level policy so a single query respects each row's originating jurisdiction rather than treating the user as one uniform subject? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-user-s-events-land-in-your-lake-tagged-with-the-ingestion-region-but-126068) |
-| Design a data-mesh governance layer where each domain team owns its data products but classification lineage and erasure obligations are enforced as a computational platform capability — how do you make federated governance binding without a central committee becoming the bottleneck every domain routes around? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-data-mesh-governance-layer-where-each-domain-team-owns-its-da-126016) |
-| Design data-residency-aware pipelines for a platform in the EU India and US where EU personal data must stay in-region — how do you shard ingestion storage compute and the shared catalog by jurisdiction without forking the entire data platform per region? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-data-residency-aware-pipelines-for-a-platform-in-the-eu-india-a-126034) |
-| How do you architect governance for a genuinely multi-region-active data platform where the same logical user's events can be ingested and served from any region — preventing residency violations while preserving active-active availability and low ingestion latency? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-a-genuinely-multi-region-active-da-126106) |
-| Your data mesh lets each domain publish data products, but a downstream domain consumes a product not knowing its source data was collected under a consent that has since been revoked. How do you architect consent and lawful-basis to flow WITH a data product across domain handoffs so a consumer can't unknowingly process on an invalid basis? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-data-mesh-lets-each-domain-publish-data-products-but-a-downstream-126057) |
-| A lakehouse partitioning-and-clustering scheme you championed a year ago is now clearly wrong given a data-skew pattern nobody predicted that makes queries scan the whole table. How do you walk the re-partitioning decision back publicly across the teams that adopted it while preserving your credibility for the next data call? | expertise | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-lakehouse-partitioning-and-clustering-scheme-you-championed-a-year-a-126131) |
-| Describe a time you changed the technical direction of a data team you had no authority over — say, from nightly batch loads to a streaming CDC pipeline. What levers did you actually pull, and how did you know it worked? | expertise | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-changed-the-technical-direction-of-a-data-team-you-126119) |
-| In a data mesh where each domain owns its products independently how do you enforce a single consistent DSAR fulfillment SLA without recentralizing ownership? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-data-mesh-where-each-domain-owns-its-products-independently-how-d-127317) |
-| An analytics team complains that a monthly report suddenly takes 6 hours because its data aged into Glacier. How do you debug and prevent this class of problem systemically? | deep understanding | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-analytics-team-complains-that-a-monthly-report-suddenly-takes-6-hou-126719) |
-| How do you build tiering into a self-serve data platform so domain teams get sane defaults but can't accidentally archive data that needs to stay hot? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-tiering-into-a-self-serve-data-platform-so-domain-tea-126757) |
-| In a data-mesh org, who owns lifecycle policy — the platform team or the domain teams — and how do you enforce guardrails without becoming a bottleneck? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-data-mesh-org-who-owns-lifecycle-policy-the-platform-team-or-the--126724) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A regulator invokes GDPR Article 17 right-to-erasure but the record is in immutable append-only ledgers and 90-day backups — design a crypto-shredding scheme that satisfies erasure without rewriting immutable stores. | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-invokes-gdpr-article-17-right-to-erasure-but-the-record-is-115245) |
-| You must support GDPR data-subject-access requests across 40 microservice databases — architect the lineage/catalog so you can locate every copy of a subject's PII within the 30-day SLA. | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-support-gdpr-data-subject-access-requests-across-40-microserv-115254) |
-| What normalization approach do you take for a GDPR-driven system where a single delete must cascade through many denormalized copies? | expertise | SDE-2/3, Architect/Principal | Normalization & Denormalization | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-normalization-approach-do-you-take-for-a-gdpr-driven-system-where-113361) |
-| When designing a data mesh how do you let domains own normalization internally while publishing denormalized data products at the boundary? | expertise | SDE-2/3, Architect/Principal | Normalization & Denormalization | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-designing-a-data-mesh-how-do-you-let-domains-own-normalization-in-113368) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A compliance mandate says EU customer data used for ML training must never leave eu-central and models trained on it can't be served from other regions — how do you enforce this provably at the account, S3-routing, training-job, and serving layers? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-compliance-mandate-says-eu-customer-data-used-for-ml-training-must-n-68604) |
-| How do you architect a DPIA (data-protection-impact-assessment) gate for new ML use cases so it's a fast automated check in the model-onboarding flow rather than a bureaucratic blocker — what does it actually inspect in the training config and data manifest? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-dpia-data-protection-impact-assessment-gate-for-70010) |
-| How do you architect governance for internal ML-engineering analytics (training-run telemetry code-review data experiment logs) so measuring your own ML engineers doesn't become unlawful employee monitoring or a works-council violation under EU law? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-internal-ml-engineering-analytics--70061) |
-| How would you design a forecasting system that must produce forecasts for new regions launched weekly, with no code changes per region? | deep understanding | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-forecasting-system-that-must-produce-forecasts--66400) |
-| Why did you choose a global gradient-boosted model over per-series ARIMA for your forecasting fleet — what trade-offs did that involve? | deep understanding | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-did-you-choose-a-global-gradient-boosted-model-over-per-series-ari-66373) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a platform-level guarantee that a fine-tune trained on EU-resident data can never be served from a non-EU adapter replica, enforced at load time rather than by process? | expertise | SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-platform-level-guarantee-that-a-fine-tune-train-84438) |
-| Why not just let every model pull features directly from the source systems at inference time instead of a feature store, and when is that actually the right call? | deep understanding | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-not-just-let-every-model-pull-features-directly-from-the-source-sy-84340) |
-| Your classifier accuracy dropped only in one region. How would you trace whether it is data, language, or feature-availability driven? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-classifier-accuracy-dropped-only-in-one-region-how-would-you-trac-79457) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

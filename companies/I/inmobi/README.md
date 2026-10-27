@@ -1,100 +1,33 @@
 # InMobi
 
-**Tier:** Tier 3  |  **Business domain:** AdTech  |  **Questions:** 48
+**Tier:** Tier 3  |  **Business domain:** AdTech  |  **Questions listed:** 540  |  **Tagged directly to InMobi:** 47
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. InMobi's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches InMobi: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 6 | 6 | 15 | 15 | 7 | 15 |
-| Fullstack | 2 | 2 | 2 | 5 | 3 | 5 |
-| DevOps | 0 | 0 | 0 | 2 | 2 | 2 |
-| Data Engineer | 1 | 0 | 3 | 5 | 2 | 5 |
-| Database Developer | 0 | 0 | 0 | 5 | 5 | 5 |
-| ML Engineer | 1 | 0 | 10 | 11 | 5 | 11 |
-| Data Structures & Algorithms (all profiles) | 5 | 5 | 5 | 5 | 5 | 5 |
+| Backend | 18 | 18 | 40 | 59 | 41 | 60 |
+| Fullstack | 23 | 23 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 30 | 58 | 44 | 60 |
+| AIOps | 2 | 1 | 21 | 60 | 44 | 60 |
+| Data Engineer | 12 | 3 | 34 | 59 | 29 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 1 | 0 | 26 | 60 | 39 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design a pipeline gate that verifies a new consumer version can still read messages produced by the currently-deployed producer version before allowing the deploy, for a Kafka-based system? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-pipeline-gate-that-verifies-a-new-consumer-vers-26935) |
-| Find the top k frequent words in a document and discuss heap vs bucket-sort approaches. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=find-the-top-k-frequent-words-in-a-document-and-discuss-heap-vs-bucket-8209) |
-| A resolver that fans out to a downstream gRPC service saturates its connection pool under a burst of GraphQL queries. How do you size the pool, add a queue, and decide between shedding load versus queuing at the resolver boundary? | deep understanding | SDE-1/2, SDE-2/3 | GraphQL | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-resolver-that-fans-out-to-a-downstream-grpc-service-saturates-its-co-24033) |
-| Design an ad-serving system that selects and ranks ads within a 100ms budget — how do you architecture candidate retrieval budget-pacing filtering and the auction so the request stays within budget? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-ad-serving-system-that-selects-and-ranks-ads-within-a-100ms--28375) |
-| Design budget pacing for an ad campaign so a daily budget is spent smoothly across the day without overspend — how do you distribute the budget across serving nodes and reconcile spend in near-real-time? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-budget-pacing-for-an-ad-campaign-so-a-daily-budget-is-spent-smo-28376) |
-| Design click/impression event tracking for ads that must dedup fraudulent or double-counted clicks and attribute conversions back to the serving event — how do you correlate events across a long conversion window? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-click-impression-event-tracking-for-ads-that-must-dedup-fraudul-28378) |
-| Design frequency capping in ad serving so a user isn't shown the same ad more than N times in 24h across devices — where do you store the per-user counters and how do you keep the check under a few ms? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-frequency-capping-in-ad-serving-so-a-user-isn-t-shown-the-same--28379) |
-| Design the real-time bidding (RTB) path for an ad exchange that must respond to bid requests in under 80ms at millions of QPS — how do you keep the candidate lookup and scoring hot and handle timeouts gracefully? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-real-time-bidding-rtb-path-for-an-ad-exchange-that-must-res-28377) |
-| Compare storing rate-limit state in Redis versus an embedded in-process store synced via a message bus. For a latency-critical ad-serving path at 500k QPS, which do you pick and what do you give up? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Rate Limiting | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-storing-rate-limit-state-in-redis-versus-an-embedded-in-proces-26030) |
-| How do BITOP AND/OR let you combine bitmaps to answer questions like users active on both days? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-bitop-and-or-let-you-combine-bitmaps-to-answer-questions-like-u-12215) |
-| How would you count unique visitors per hour cheaply and merge multiple HyperLogLogs with PFMERGE? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-count-unique-visitors-per-hour-cheaply-and-merge-multipl-12212) |
-| How would you use SETBIT and BITCOUNT to track daily active users across a 30-day window? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-setbit-and-bitcount-to-track-daily-active-users-acro-12214) |
-| How would you use SINTER, SUNION, and SDIFF to compute audience overlaps in Redis? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-sinter-sunion-and-sdiff-to-compute-audience-overlaps-12163) |
-| What accuracy trade-off does HyperLogLog make and roughly how much memory does it use? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-accuracy-trade-off-does-hyperloglog-make-and-roughly-how-much-mem-12213) |
-| You need to atomically reserve budget from a shared pool across many ad-serving nodes so you never overspend a campaign — design the Redis operation and the reconciliation. | expertise | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-atomically-reserve-budget-from-a-shared-pool-across-many-a-24690) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a real-time bidding / ad-serving decision engine where microsecond latency and per-request cost are the whole game — is there any credible buy option or must this be built? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-real-time-bidding-ad-serving-deci-41085) |
-| How would you design caching for a real-time bidding or ad-serving path where a cached decision that is milliseconds stale still costs money, so you must reconcile sub-millisecond latency with near-zero staleness tolerance? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-caching-for-a-real-time-bidding-or-ad-serving-pat-38562) |
-| Find the top k frequent words in a document and discuss heap vs bucket-sort approaches. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=find-the-top-k-frequent-words-in-a-document-and-discuss-heap-vs-bucket-8209) |
-| Given an array of pixel color values, how would you count occurrences of each color efficiently for a UI histogram? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=given-an-array-of-pixel-color-values-how-would-you-count-occurrences-o-8143) |
-| Explain the architecture for load balancing a real-time bidding or ad-serving path where the whole request must complete in under 100ms including the LB hop. How do you cut LB-added latency and still keep health-based routing? | expertise | SDE-2/3, Architect/Principal | Load Balancing | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-architecture-for-load-balancing-a-real-time-bidding-or-ad--38673) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect DR for a real-time bidding / low-latency ad system where even a few seconds of RTO means direct revenue loss measured per-second? Justify the spend curve. | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-for-a-real-time-bidding-low-latency-ad-system--53668) |
-| How would you architect an ad-serving or real-time-bidding backend that must answer within a tens-of-milliseconds budget at millions of QPS, staying available even when a fraction of scoring nodes are slow, and where you deliberately trade completeness for latency? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-ad-serving-or-real-time-bidding-backend-tha-52116) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance over third-party data sharing and clean rooms — as data leaves your platform to partners or ad-networks how do you enforce and prove consent purpose-limitation and exactly what was shared with whom under what lawful basis? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-over-third-party-data-sharing-and-clea-126062) |
-| You want to run a privacy-sensitive join between two parties' datasets (a bank and a merchant) inside a data clean room so neither sees the other's raw rows. Walk through how you'd architect and PROVE to both parties' auditors that no raw PII crossed the boundary — what does the clean-room's query-restriction differencing-attack protection and audit trail look like? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-run-a-privacy-sensitive-join-between-two-parties-datasets--126111) |
-| If your task is to build a 'weekly signups' report, which system do you pull from and why? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-your-task-is-to-build-a-weekly-signups-report-which-system-do-you-p-118798) |
-| How would you compute a streaming distinct-user count per campaign using approximate sketches like HyperLogLog inside a Flink aggregate? | deep understanding | SDE-1/2, SDE-2/3 | Stream Processing (Apache Flink) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compute-a-streaming-distinct-user-count-per-campaign-usi-121290) |
-| How would you interval-join a stream of clicks with a stream of impressions to compute click-through within a 30-minute window? | deep understanding | SDE-1/2, SDE-2/3 | Stream Processing (Apache Flink) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-interval-join-a-stream-of-clicks-with-a-stream-of-impres-121281) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect caching for a real-time bidding path backed by a low-latency DB where a decision that is milliseconds stale costs money, reconciling sub-millisecond reads with near-zero staleness tolerance? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-real-time-bidding-path-backed-by-111528) |
-| Design the ingestion and storage architecture for an adtech firm processing 10M bid requests/second where 99% of data is discarded within seconds but the 1% kept must be joinable to conversions weeks later. Where does the streaming-hot path diverge from the lake-cold path, and how do you stitch them? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-ingestion-and-storage-architecture-for-an-adtech-firm-proce-112698) |
-| You're standardizing the org on either Parquet or ORC as the physical file format under your table format. Beyond 'both are columnar,' what specific encoding, predicate-pushdown, and nested-type differences would actually change your recommendation for a nested-heavy adtech workload? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standardizing-the-org-on-either-parquet-or-orc-as-the-physical--112654) |
-| How do you govern data sharing with external partners via clean rooms or shares so neither party over-exposes raw data? | expertise | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-data-sharing-with-external-partners-via-clean-rooms--114785) |
-| How would you select a datastore for a real-time bidding / ad-serving system where you have single-digit-millisecond read budgets and enormous write throughput? | expertise | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-select-a-datastore-for-a-real-time-bidding-ad-serving-sy-114378) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how a bandit approach differs from a fixed A/B test for model rollout and when you'd prefer each. | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-a-bandit-approach-differs-from-a-fixed-a-b-test-for-model--67689) |
-| How do you architect governance for cross-org data collaboration in ML — data clean rooms and secure multi-party computation so partners jointly train a model without either exposing raw PII to the other — and prove to regulators no side saw the other's data? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-cross-org-data-collaboration-in-ml-69998) |
-| How do you decide the max_depth and num_boost_round budget for XGBoost when serving cost scales roughly with tree count and depth? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-max-depth-and-num-boost-round-budget-for-xgboost-65919) |
-| How do you handle categorical features with thousands of levels in XGBoost without blowing up memory or leaking target information? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-categorical-features-with-thousands-of-levels-in-xgb-65883) |
-| What's the trade-off between DART booster and standard gbtree in XGBoost, and when would production constraints push you to pick one? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-trade-off-between-dart-booster-and-standard-gbtree-in-xgboo-65945) |
-| How would you decide between online learning and periodic batch retraining for an ads bidding model and what are the operational risks of online learning? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-online-learning-and-periodic-batch-retrai-66694) |
-| Walk me through designing a real-time bidding predictor that must return a bid within a few milliseconds under strict budget constraints. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-designing-a-real-time-bidding-predictor-that-must-retu-66721) |
-| What business and model metrics would you track for an ad click-through-rate prediction system? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-business-and-model-metrics-would-you-track-for-an-ad-click-throug-62103) |
-| Your CTR model's offline AUC improved but online CTR dropped after launch; how do you debug this offline-online disagreement? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-ctr-model-s-offline-auc-improved-but-online-ctr-dropped-after-lau-66677) |
-| How do you evaluate a model whose predictions feed a downstream optimizer (e.g. bidding), where metric alone doesn't capture value? | expertise | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-a-model-whose-predictions-feed-a-downstream-optimi-65825) |
-| How do you calibrate the predicted CTR scores from your ranker, and why does miscalibration matter when you blend them with a bid or price signal? | deep understanding | SDE-1/2, SDE-2/3 | Recommendation Systems | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-calibrate-the-predicted-ctr-scores-from-your-ranker-and-why-66499) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Fewest Growing Jumps to Land Exactly on a Marker | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Greedy, Math, Number Theory, Parity | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-growing-jumps-to-land-exactly-on-a-marker-d739) |
-| Find the Extra Link in a Once-Tree Network | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Cycle Detection, Depth-First Search, Disjoint Set Union, Graph, Union Find | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=find-the-extra-link-in-a-once-tree-network-d669) |
-| Longest Contiguous Block of Servers Within a Power Budget | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search (alternative), Deque, Heap (Priority Queue) (alternative), Monotonic Queue, Sliding Window, Two Pointers | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-contiguous-block-of-servers-within-a-power-budget-d2253) |
-| Longest Well-Formed Bracket Run | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Dynamic Programming, Stack, String, Two Pointers | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-well-formed-bracket-run-d32) |
-| Split a String Into Maximum Independent Segments | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Hash Table, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=split-a-string-into-maximum-independent-segments-d748) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

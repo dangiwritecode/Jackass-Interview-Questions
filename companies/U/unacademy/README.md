@@ -1,102 +1,33 @@
 # Unacademy
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 56
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Unacademy:** 45
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Unacademy's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Unacademy: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 12 | 12 | 13 | 13 | 6 | 16 |
-| Fullstack | 9 | 9 | 9 | 13 | 9 | 16 |
-| Data Engineer | 5 | 0 | 7 | 7 | 2 | 7 |
-| Database Developer | 9 | 10 | 10 | 1 | 1 | 10 |
-| ML Engineer | 2 | 0 | 4 | 4 | 1 | 4 |
-| AI Engineer | 2 | 0 | 3 | 3 | 2 | 3 |
+| Backend | 16 | 16 | 47 | 56 | 47 | 60 |
+| Fullstack | 23 | 23 | 49 | 54 | 24 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 16 | 3 | 43 | 59 | 24 | 60 |
+| Database Developer | 21 | 31 | 32 | 38 | 30 | 60 |
+| ML Engineer | 2 | 0 | 4 | 60 | 57 | 60 |
+| AI Engineer | 5 | 3 | 7 | 60 | 57 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A boy scores 45 out of 60 in a test. What percentage did he score and what is his percentile if he beat 80 of 100 students? | intermediate experience | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-boy-scores-45-out-of-60-in-a-test-what-percentage-did-he-score-and-w-7966) |
-| Complete: DOCTOR relates to HOSPITAL as TEACHER relates to ___ | basic concept | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=complete-doctor-relates-to-hospital-as-teacher-relates-to-7948) |
-| The average age of a class of 20 students is 16 years. If the teacher aged 40 is added what is the new average age? | basic concept | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-average-age-of-a-class-of-20-students-is-16-years-if-the-teacher-a-15876) |
-| For a leaderboard/ranking service, is eventual consistency acceptable? Discuss with CAP. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-leaderboard-ranking-service-is-eventual-consistency-acceptable-d-5294) |
-| Given course prerequisites, determine whether all courses can be finished (cycle detection in a DAG). | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=given-course-prerequisites-determine-whether-all-courses-can-be-finish-8213) |
-| Design a leaderboard that updates live as scores change. Which structure gives fast top-K and rank? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-leaderboard-that-updates-live-as-scores-change-which-structur-8999) |
-| Design a Snake game (not Snake-and-Ladder). Model the snake body food and collision. | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-snake-game-not-snake-and-ladder-model-the-snake-body-food-and-8952) |
-| Design an online multiplayer quiz like Kahoot. Model rooms questions timers and scoring. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-online-multiplayer-quiz-like-kahoot-model-rooms-questions-ti-9003) |
-| In a live-quiz design how do you handle a player disconnecting and rejoining mid-round? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-live-quiz-design-how-do-you-handle-a-player-disconnecting-and-rej-9004) |
-| How would you model a many-to-many relationship, e.g. students and courses, in MongoDB? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | MongoDB | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-many-to-many-relationship-e-g-students-and-cours-4163) |
-| A leaderboard must return a specific user's rank and a page around them for millions of users in low latency; design the schema, index, and query and discuss recompute vs live rank. | expertise | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-leaderboard-must-return-a-specific-user-s-rank-and-a-page-around-the-18136) |
-| How would you prompt a model to grade a free-text answer against a rubric and return per-criterion scores, and how do you keep the grader consistent across runs and reviewers? | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-prompt-a-model-to-grade-a-free-text-answer-against-a-rub-20303) |
-| How would you prompt a model to grade a short free-text answer against a rubric and return per-criterion scores? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-prompt-a-model-to-grade-a-short-free-text-answer-against-15162) |
-| You grade free-text answers against a rubric with an LLM and need consistency across runs and across human reviewers. How do you design the grading prompt and process so scores are reproducible and defensible? | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-grade-free-text-answers-against-a-rubric-with-an-llm-and-need-cons-27616) |
-| How would you design tables for a many-to-many relationship between students and courses? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-tables-for-a-many-to-many-relationship-between-st-371) |
-| A time-based blind SQLi (pg_sleep/SLEEP) is exfiltrating data slowly and evading your error-based detection. Explain the technique and design latency-anomaly detection plus query-timeout controls to catch and cap it. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-time-based-blind-sqli-pg-sleep-sleep-is-exfiltrating-data-slowly-and-19181) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A boy scores 45 out of 60 in a test. What percentage did he score and what is his percentile if he beat 80 of 100 students? | intermediate experience | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-boy-scores-45-out-of-60-in-a-test-what-percentage-did-he-score-and-w-7966) |
-| Complete: DOCTOR relates to HOSPITAL as TEACHER relates to ___ | basic concept | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=complete-doctor-relates-to-hospital-as-teacher-relates-to-7948) |
-| The average age of a class of 20 students is 16 years. If the teacher aged 40 is added what is the new average age? | basic concept | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-average-age-of-a-class-of-20-students-is-16-years-if-the-teacher-a-15876) |
-| How would you serve authenticated private content through CloudFront using signed URLs or signed cookies? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-serve-authenticated-private-content-through-cloudfront-u-14623) |
-| Tell me about a time you had to lead an org through recovering from a botched migration that a prior leader had launched and abandoned halfway. How did you decide whether to finish it, roll it back, or start over? | expertise | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-an-org-through-recovering-from-a--40464) |
-| Tell me about a time you had to lead the org in setting a policy on how much to invest in accessibility and internationalization as architectural foundations versus retrofits. How did you make the case for building it in early? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-in-setting-a-policy-on-ho-40478) |
-| Design an EdTech live-class platform delivering interactive classes to 100K concurrent students with video quizzes and doubt-solving — how do you architect the low-latency AV interactivity and recording so a class survives a regional network blip? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-edtech-live-class-platform-delivering-interactive-classes-to-39495) |
-| Design a leaderboard that updates live as scores change. Which structure gives fast top-K and rank? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-leaderboard-that-updates-live-as-scores-change-which-structur-8999) |
-| Design a Snake game (not Snake-and-Ladder). Model the snake body food and collision. | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-snake-game-not-snake-and-ladder-model-the-snake-body-food-and-8952) |
-| Design an online multiplayer quiz like Kahoot. Model rooms questions timers and scoring. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-online-multiplayer-quiz-like-kahoot-model-rooms-questions-ti-9003) |
-| How do you migrate a monolith while a hiring freeze means you have fewer engineers than the plan assumed — do you narrow slices, extend timeline, or cut the target architecture? | deep understanding | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-migrate-a-monolith-while-a-hiring-freeze-means-you-have-few-40981) |
-| How would you model a many-to-many relationship, e.g. students and courses, in MongoDB? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | MongoDB | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-many-to-many-relationship-e-g-students-and-cours-4163) |
-| A leaderboard must return a specific user's rank and a page around them for millions of users in low latency; design the schema, index, and query and discuss recompute vs live rank. | expertise | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-leaderboard-must-return-a-specific-user-s-rank-and-a-page-around-the-18136) |
-| How would you prompt a model to grade a free-text answer against a rubric and return per-criterion scores, and how do you keep the grader consistent across runs and reviewers? | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-prompt-a-model-to-grade-a-free-text-answer-against-a-rub-20303) |
-| How would you design tables for a many-to-many relationship between students and courses? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-tables-for-a-many-to-many-relationship-between-st-371) |
-| A time-based blind SQLi (pg_sleep/SLEEP) is exfiltrating data slowly and evading your error-based detection. Explain the technique and design latency-anomaly detection plus query-timeout controls to catch and cap it. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-time-based-blind-sqli-pg-sleep-sleep-is-exfiltrating-data-slowly-and-19181) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a star schema for an online course platform tracking lesson completions. | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-star-schema-for-an-online-course-platform-tracking-lesson-com-117196) |
-| How would you model a factless fact table to track daily student attendance and answer who was absent efficiently, and why is coverage tricky there? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-factless-fact-table-to-track-daily-student-atten-121427) |
-| How would you decide, for a given table, whether it belongs in the app database or the analytics warehouse? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-for-a-given-table-whether-it-belongs-in-the-app-d-118847) |
-| If a startup only has one database today, what early sign tells you they may soon need an OLAP system? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-a-startup-only-has-one-database-today-what-early-sign-tells-you-the-118782) |
-| Why might a company be tempted to skip OLAP early on, and what's the trade-off of running analytics on OLTP for too long? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-a-company-be-tempted-to-skip-olap-early-on-and-what-s-the-tr-118864) |
-| Explain a factless fact table and give a warehouse case (e.g. student-course enrollment or promotion coverage) where you'd model events with no measures, and how you query coverage gaps. | intermediate experience | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-a-factless-fact-table-and-give-a-warehouse-case-e-g-student-co-119401) |
-| Write a query to rank students by marks so that ties share the same rank and no numbers are skipped. | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-query-to-rank-students-by-marks-so-that-ties-share-the-same-ra-118974) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Write a query to find the average score per student and identify students below the class average. | deep understanding | Fresher, SDE-1, SDE-1/2 | Aggregate Functions | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-query-to-find-the-average-score-per-student-and-identify-stude-105832) |
-| Design the keys for a students-courses many-to-many enrollment schema. | intermediate experience | Fresher, SDE-1, SDE-1/2 | Constraints & Keys (PK/FK) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-keys-for-a-students-courses-many-to-many-enrollment-schema-105892) |
-| How would you model a star schema for a college tracking student course enrollments? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-star-schema-for-a-college-tracking-student-cours-104812) |
-| Describe how you'd model a course-prerequisite graph and detect/prevent cycles at the schema or query level. | deep understanding | SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-model-a-course-prerequisite-graph-and-detect-preven-109524) |
-| How would you design a schema for a student-course-enrollment system and handle the many-to-many part? | intermediate experience | Fresher, SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-schema-for-a-student-course-enrollment-system-a-106167) |
-| How would you design a schema for an online quiz app with questions options and user attempts? | intermediate experience | Fresher, SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-schema-for-an-online-quiz-app-with-questions-op-106214) |
-| How would you represent a many-to-many relationship between students and clubs where a student can join many clubs? | intermediate experience | Fresher, SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-represent-a-many-to-many-relationship-between-students-a-106229) |
-| In a many-to-many enrollment relationship where would you store the enrollment date? | intermediate experience | Fresher, SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-many-to-many-enrollment-relationship-where-would-you-store-the-en-106185) |
-| Given tables Students and Enrollments write a query to list students not enrolled in any course. | intermediate experience | Fresher, SDE-1, SDE-1/2 | Joins & Subqueries | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=given-tables-students-and-enrollments-write-a-query-to-list-students-n-105679) |
-| Write a query to get each student's name and their highest exam score using a join. | intermediate experience | Fresher, SDE-1, SDE-1/2 | Joins & Subqueries | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-query-to-get-each-student-s-name-and-their-highest-exam-score--105718) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you run an experiment when you can only observe outcomes with a long delay (e.g., a 30-day retention model)? | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-an-experiment-when-you-can-only-observe-outcomes-wit-67725) |
-| Your A/B test on a churn model shows revenue up but retention down. How do you reason about conflicting metrics before making a decision? | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-a-b-test-on-a-churn-model-shows-revenue-up-but-retention-down-how-67686) |
-| You are building a study-buddy agent for students. Name two tools you'd give it and what each tool's parameters would be. | basic concept | Fresher, SDE-1/2, SDE-2/3 | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-building-a-study-buddy-agent-for-students-name-two-tools-you-d-58666) |
-| How would you design a duplicate or near-duplicate question detection system for a Q&A platform? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-duplicate-or-near-duplicate-question-detection--62153) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You want an agent for a students app that can look up a topic and generate a quiz. What two tools would you expose and their parameters? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-an-agent-for-a-students-app-that-can-look-up-a-topic-and-gene-73638) |
-| For a kids' education product, would you tune your moderation filter for precision or recall, and how does that decision propagate through the whole pipeline? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AI Safety & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-kids-education-product-would-you-tune-your-moderation-filter-for-80836) |
-| How would you prompt a model to generate three practice quiz questions from a study paragraph, each with an answer? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-prompt-a-model-to-generate-three-practice-quiz-questions-76646) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

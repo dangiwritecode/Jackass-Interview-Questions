@@ -1,43 +1,33 @@
 # Nuro
 
-**Tier:** Tier 3  |  **Business domain:** Autonomous/Robotics  |  **Questions:** 21
+**Tier:** Tier 3  |  **Business domain:** Robotics / Autonomous  |  **Questions listed:** 540  |  **Tagged directly to Nuro:** 21
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Nuro's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Nuro: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 4 | 8 | 4 | 8 |
-| Data Structures & Algorithms (all profiles) | 13 | 13 | 13 | 13 | 13 | 13 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 21 | 60 | 44 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 23 | 24 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 36 | 60 | 27 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a computer-vision annotation + active-learning loop for an autonomy stack (buy Scale/Encord vs build in-house tooling + labeler ops) when the labeling flywheel is the core moat and per-frame cost scales with fleet miles? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-computer-vision-annotation-active-69799) |
-| How would you design a C++ perception inference pipeline for an AV with a hard per-frame deadline? How do you bound worst-case latency, avoid GC-free stalls (page faults, allocations), and detect when you miss the deadline? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-c-perception-inference-pipeline-for-an-av-with--62847) |
-| You must guarantee no dynamic allocation on a real-time inference path (e.g., an autonomous-vehicle perception loop). How do you enforce and verify it — preallocated pools, an aborting operator new, static analysis — and what STL usage silently allocates? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-guarantee-no-dynamic-allocation-on-a-real-time-inference-path-62846) |
-| An interviewer probes your active-learning loop: the system selects uncertain live samples containing PII for re-labeling and retraining. How do you govern consent and minimization when the model itself chooses which personal data gets collected and re-processed? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-active-learning-loop-the-system-selects-unc-70041) |
-| How would you set up guardrails so an automated XGBoost retraining loop can't silently ship a model trained on corrupted labels? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-guardrails-so-an-automated-xgboost-retraining-loo-65908) |
-| How do you detect and handle out-of-distribution inputs at the FastAPI serving layer before they reach the model, and what do you return when an input is flagged as OOD? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-detect-and-handle-out-of-distribution-inputs-at-the-fastapi-62898) |
-| How do you monitor label quality drift over time so your retraining pipeline isn't quietly amplifying degrading annotation quality? | deep understanding | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-label-quality-drift-over-time-so-your-retraining-pi-72397) |
-| How would you architect a retraining data curation layer that continuously mines hard examples and misclassifications to feed the next retrain? | expertise | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-retraining-data-curation-layer-that-continuo-72417) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Collapse Nested Directory Paths | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Depth-First Search, Prefix Matching, Sorting, String, Trie | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=collapse-nested-directory-paths-d1196) |
-| Colliding Blocks on a Frictionless Rail | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Monotonic Stack, Simulation, Stack | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=colliding-blocks-on-a-frictionless-rail-d720) |
-| Common Segments of Two Sorted Interval Collections | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Intervals, Line Sweep, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=common-segments-of-two-sorted-interval-collections-d971) |
-| Compact Storage and Dot Product of Mostly-Zero Vectors | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Design, Hash Table, Sparse Representation, Two Pointers | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compact-storage-and-dot-product-of-mostly-zero-vectors-d1499) |
-| Counting Signed-Sum Assignments | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | 0-1 Knapsack, Array, Backtracking, Dynamic Programming, Subset Sum | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-signed-sum-assignments-d494) |
-| Most Points Inside a Rotatable Angular View | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Geometry, Math, Sliding Window, Sorting, Two Pointers | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=most-points-inside-a-rotatable-angular-view-d1536) |
-| Mutable Grid with Block Paints and Point Reads | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Amortized Analysis, Array, Design, Matrix, Simulation | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=mutable-grid-with-block-paints-and-point-reads-d1414) |
-| Product of Two Mostly-Zero Matrices | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Math, Matrix, Sparse Data Structures | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=product-of-two-mostly-zero-matrices-d311) |
-| Recovering an Unknown Alphabet Order From a Sorted Word List | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Graph, Hash Table, In-degree, String, Topological Sort | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=recovering-an-unknown-alphabet-order-from-a-sorted-word-list-d269) |
-| Resolve Ratio Queries Over a Web of Known Proportions | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Graph, Hash Table, Shortest Path, String, Union Find | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=resolve-ratio-queries-over-a-web-of-known-proportions-d399) |
-| Reveal a Cell on a Hidden Minefield Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Flood Fill, Matrix, Recursion | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reveal-a-cell-on-a-hidden-minefield-grid-d528) |
-| Shortest Route Across a Field When You May Clear a Limited Number of Barriers | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Dynamic Programming on States, Graph Traversal, Matrix, Shortest Path, State-space Search | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-route-across-a-field-when-you-may-clear-a-limited-number-of-b-d1250) |
-| Weighted Random Index Sampler | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Math, Prefix Sum, Probability, Randomized | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=weighted-random-index-sampler-d527) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,44 +1,33 @@
 # Imply
 
-**Tier:** Tier 5  |  **Business domain:** —  |  **Questions:** 10
+**Tier:** Tier 5  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Imply:** 10
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Imply's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Imply: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 1 | 1 | 1 |
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| AIOps | 0 | 0 | 0 | 2 | 2 | 2 |
-| Data Engineer | 0 | 0 | 1 | 6 | 5 | 6 |
+| Backend | 4 | 4 | 46 | 59 | 57 | 60 |
+| Fullstack | 18 | 18 | 53 | 56 | 18 | 60 |
+| DevOps | 27 | 18 | 28 | 59 | 46 | 60 |
+| AIOps | 2 | 1 | 10 | 60 | 53 | 60 |
+| Data Engineer | 11 | 3 | 50 | 58 | 21 | 60 |
+| Database Developer | 13 | 23 | 24 | 45 | 37 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 2 | 15 | 60 | 51 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your data platform's storage cost is growing 15%/month because nobody deletes anything and lifecycle policies are inconsistent. Architect a data-tiering and retention governance system that reduces spend without violating compliance or breaking analytics. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-data-platform-s-storage-cost-is-growing-15-month-because-nobody-d-37028) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must design the data plane for a real-time analytics product that ingests events and lets users query them with sub-second latency — how do you decide between a streaming OLAP store (Druid/ClickHouse/Pinot) and a warehouse+cache and what does that lock you into? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-design-the-data-plane-for-a-real-time-analytics-product-that--39427) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide when it is finally worth investing in a real-time OLAP tier over the lake versus telling AIOps to tolerate 30-second query latency for another year? | deep understanding | SDE-2/3, Architect/Principal | Observability Data Lake | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-it-is-finally-worth-investing-in-a-real-time-ol-102361) |
-| How would you run a proof-of-concept bake-off to choose the lake's serving engine and what objective criteria stop it from devolving into a vendor beauty contest? | deep understanding | SDE-2/3, Architect/Principal | Observability Data Lake | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-a-proof-of-concept-bake-off-to-choose-the-lake-s-ser-102435) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a real-time OLAP serving engine powering customer-facing analytics (buy Pinot/Druid-managed like StarTree/Imply vs self-run vs ClickHouse Cloud) when sub-second latency at high ingest and high concurrency define the whole product, not the tool? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-real-time-olap-serving-engine-pow-125845) |
-| How do you capacity-plan a large stateful analytical store (Druid, Pinot, ClickHouse) whose capacity is dominated by keeping recent segments in memory for sub-second queries? Where does the memory footprint cap concurrency, and where can you tier to disk without breaking the SLA? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-capacity-plan-a-large-stateful-analytical-store-druid-pinot-125391) |
-| Explain how a Druid bitmap index on a dimension speeds up high-cardinality filters and how roll-up reduces the rows an index must cover. | deep understanding | SDE-1/2, SDE-2/3 | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-a-druid-bitmap-index-on-a-dimension-speeds-up-high-cardina-119819) |
-| Architect the enterprise real-time OLAP tier (Druid/Pinot/ClickHouse/StarRocks) serving user-facing sub-second analytics dashboards for 30 product teams. When is this warranted versus pushing product analytics onto the warehouse, and how do you stop 30 teams each standing up a snowflake cluster? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-enterprise-real-time-olap-tier-druid-pinot-clickhouse-st-125641) |
-| Explain how you'd govern the cost of a real-time analytics store (Pinot, Druid, ClickHouse) where segment replication, retention, and always-hot memory drive spend, versus serving the same queries from a cheaper batch warehouse with higher latency. Where do you draw the freshness-versus-cost line per query class? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-govern-the-cost-of-a-real-time-analytics-store-pinot-125939) |
-| How do you decide between compute-local NVMe cache tiers, object-store hot tier, and archive for a query engine, and how does the cache-vs-tier boundary shift the economics? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-compute-local-nvme-cache-tiers-object-store--126733) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

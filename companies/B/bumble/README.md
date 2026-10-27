@@ -1,45 +1,33 @@
 # Bumble
 
-**Tier:** Tier 2  |  **Business domain:** SaaS  |  **Questions:** 11
+**Tier:** Tier 2  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Bumble:** 8
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Bumble's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Bumble: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 6 | 6 | 2 | 6 |
-| Fullstack | 0 | 0 | 3 | 3 | 0 | 3 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 1 | 1 | 0 | 1 |
+| Backend | 4 | 4 | 25 | 59 | 53 | 60 |
+| Fullstack | 19 | 19 | 51 | 56 | 21 | 60 |
+| DevOps | 29 | 21 | 30 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 1 | 60 | 59 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your login flow issues a session before checking whether the account is disabled/suspended, causing a brief window where suspended users are logged in. How do you order these checks and make suspension take effect instantly? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-login-flow-issues-a-session-before-checking-whether-the-account-i-26176) |
-| How would you cache the results of a graph traversal (like a friends-of-friends query) where the answer is expensive but the graph mutates constantly? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cache-the-results-of-a-graph-traversal-like-a-friends-of-25386) |
-| How do you design an efficient 'suggest people you may know' that ranks by mutual-connection count without recomputing the whole graph, and where do you precompute versus query live? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-efficient-suggest-people-you-may-know-that-ranks--16041) |
-| How would you design a schema and query to support "suggested friends" (friends-of-friends with mutual counts) in MySQL, and when does it become infeasible? | deep understanding | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-schema-and-query-to-support-suggested-friends-f-24421) |
-| How would you implement and query a friends/follows graph with mutual-connection and second-degree lookups in Postgres, and at what scale would you move to a graph store? | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-and-query-a-friends-follows-graph-with-mutual--18211) |
-| A feature computes pairwise similarity across n users and is O(n^2); how do you decide between LSH/approximate methods, blocking/bucketing, and just capping n, given product requirements? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-feature-computes-pairwise-similarity-across-n-users-and-is-o-n-2-how-16172) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you design an efficient 'suggest people you may know' that ranks by mutual-connection count without recomputing the whole graph, and where do you precompute versus query live? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-efficient-suggest-people-you-may-know-that-ranks--16041) |
-| How would you implement and query a friends/follows graph with mutual-connection and second-degree lookups in Postgres, and at what scale would you move to a graph store? | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-and-query-a-friends-follows-graph-with-mutual--18211) |
-| A feature computes pairwise similarity across n users and is O(n^2); how do you decide between LSH/approximate methods, blocking/bucketing, and just capping n, given product requirements? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-feature-computes-pairwise-similarity-across-n-users-and-is-o-n-2-how-16172) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance so that a compliance requirement expressed by legal (e.g. 'processing must have a documented lawful basis') is provably enforced in the runtime data path — describe the full translation chain from legal text to a query-time check. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-so-that-a-compliance-requirement-expre-54044) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you handle network effects in an A/B test for a social-feed ranking model where treatment users influence control users? | expertise | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-network-effects-in-an-a-b-test-for-a-social-feed--67676) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

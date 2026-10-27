@@ -1,33 +1,33 @@
 # Flexport
 
-**Tier:** Tier 2  |  **Business domain:** Logistics  |  **Questions:** 11
+**Tier:** Tier 2  |  **Business domain:** Logistics  |  **Questions listed:** 540  |  **Tagged directly to Flexport:** 11
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Flexport's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Flexport: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Structures & Algorithms (all profiles) | 10 | 10 | 10 | 10 | 10 | 10 |
+| Backend | 22 | 22 | 45 | 50 | 32 | 60 |
+| Fullstack | 32 | 32 | 39 | 47 | 31 | 60 |
+| DevOps | 30 | 21 | 33 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 12 | 5 | 46 | 58 | 34 | 60 |
+| Database Developer | 15 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 3 | 60 | 58 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your strategy for migrating a monolith where a single ORM entity maps to 40 tables — do you strangle at the aggregate boundary or the table boundary first? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-migrating-a-monolith-where-a-single-orm-entit-40974) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| All Letter Strings Spelled by a Keypad Digit Sequence | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Combinatorics, Hash Table, Recursion, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=all-letter-strings-spelled-by-a-keypad-digit-sequence-d17) |
-| Classify a String as an IPv4 Address, an IPv6 Address, or Neither | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Parsing, Simulation, String, String Splitting, Validation | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=classify-a-string-as-an-ipv4-address-an-ipv6-address-or-neither-d468) |
-| Code-Guessing Game Feedback | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Frequency Array, Hash Table, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=code-guessing-game-feedback-d299) |
-| Conflict-Free Interval Reservation System | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Balanced BST, Binary Search, Design, Intervals, Ordered Set | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=conflict-free-interval-reservation-system-d714) |
-| Count Contiguous Subarrays With Product Below a Threshold | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Sliding Window, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-contiguous-subarrays-with-product-below-a-threshold-d698) |
-| Deep Copy of a Connected Undirected Network | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Depth-First Search, Graph, Hash Table, Recursion | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=deep-copy-of-a-connected-undirected-network-d133) |
-| Expand a Nested Repeat-Notation String | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Parsing, Recursion, Stack, String | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=expand-a-nested-repeat-notation-string-d394) |
-| Length of the Longest Strictly Increasing Subsequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Dynamic Programming, Greedy, Patience Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=length-of-the-longest-strictly-increasing-subsequence-d300) |
-| Maximize Points by Spending and Recharging Stamina with Chips | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Sorting, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximize-points-by-spending-and-recharging-stamina-with-chips-d933) |
-| Versioned Value Store with Point-in-Time Lookup | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Data Structure, Design, Hash Table, String | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=versioned-value-store-with-point-in-time-lookup-d966) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

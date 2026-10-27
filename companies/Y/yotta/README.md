@@ -1,48 +1,33 @@
 # Yotta
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 8
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Yotta:** 8
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Yotta's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Yotta: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
-| AI Engineer | 0 | 0 | 0 | 3 | 3 | 3 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 10 | 59 | 54 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your company is expanding into a country requiring in-country data storage but you have no cloud region there. Walk through the architecture options and the cost/latency/compliance trade-offs of each. | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-company-is-expanding-into-a-country-requiring-in-country-data-sto-36675) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you approach a negotiation where regulatory data-residency requirements limit which regions/vendors you can use — shrinking your leverage? | deep understanding | SDE-2/3, Architect/Principal | Vendor & Cloud Cost Negotiation | Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-a-negotiation-where-regulatory-data-residency-requ-56689) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your approach when the 'right' datastore for a workload isn't available in your cloud region or has weak managed support there? How does cloud-provider reality constrain ideal selection? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-when-the-right-datastore-for-a-workload-isn-t-ava-114395) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you plan GPU capacity strategy across reserved, on-demand, and spot capacity for both training and inference of foundation models over a multi-year horizon? | expertise | SDE-2/3, Architect/Principal | Foundation Model Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-gpu-capacity-strategy-across-reserved-on-demand-and-sp-72287) |
-| How would you approach negotiating and architecting for committed-use GPU capacity years ahead when demand and model efficiency are both uncertain? | expertise | SDE-2/3, Architect/Principal | Foundation Model Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-approach-negotiating-and-architecting-for-committed-use--72360) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Present the GPU-fleet economics you'd model to decide between renting inference, buying reserved capacity, and owning hardware for a self-hosted small-model tier serving billions of monthly tokens, and name the irreversible bets. | expertise | SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=present-the-gpu-fleet-economics-you-d-model-to-decide-between-renting--83138) |
-| How would you plan capacity for an Indian-market AI product where GPU availability and data-residency laws push you to local providers? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-plan-capacity-for-an-indian-market-ai-product-where-gpu--86697) |
-| What's your approach to capacity planning when different geographies have wildly different GPU prices and availability? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-capacity-planning-when-different-geographies-h-86696) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

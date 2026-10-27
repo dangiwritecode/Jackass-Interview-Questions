@@ -1,25 +1,33 @@
 # Airbyte
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 507
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 630  |  **Tagged directly to Airbyte:** 507
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Airbyte's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Airbyte: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 10 | 12 | 7 | 12 |
-| Fullstack | 0 | 0 | 0 | 3 | 3 | 3 |
-| Data Engineer | 294 | 0 | 400 | 435 | 61 | 456 |
-| Database Developer | 0 | 8 | 8 | 25 | 25 | 27 |
-| ML Engineer | 1 | 0 | 4 | 4 | 1 | 4 |
-| AI Engineer | 1 | 0 | 3 | 5 | 5 | 5 |
+| Backend | 4 | 4 | 47 | 59 | 52 | 60 |
+| Fullstack | 17 | 17 | 48 | 56 | 23 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 47 | 0 | 118 | 149 | 44 | 150 |
+| Database Developer | 12 | 23 | 24 | 51 | 43 | 60 |
+| ML Engineer | 1 | 0 | 4 | 60 | 57 | 60 |
+| AI Engineer | 4 | 3 | 7 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
 ## Question lists
 
-- [Backend](backend.md) — 12 questions
-- [Fullstack](fullstack.md) — 3 questions
-- [Data Engineer](data-engineer.md) — 456 questions
-- [Database Developer](database-developer.md) — 27 questions
-- [ML Engineer](ml-engineer.md) — 4 questions
-- [AI Engineer](ai-engineer.md) — 5 questions
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 150 questions (top 150 of 456 tagged — open any one in Locus to filter the rest)
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

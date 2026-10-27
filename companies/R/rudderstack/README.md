@@ -1,39 +1,33 @@
 # RudderStack
 
-**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 5
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to RudderStack:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. RudderStack's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches RudderStack: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 1 | 1 | 0 | 1 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
-| AI Engineer | 0 | 0 | 1 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 21 | 59 | 56 | 60 |
+| Fullstack | 19 | 19 | 49 | 56 | 23 | 60 |
+| DevOps | 29 | 21 | 30 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 44 | 60 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must dedupe an at-least-once event stream over a 24h window with strict memory; compare a rotating set of Bloom filters versus a cuckoo filter for supporting deletes and bounding false positives. | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-dedupe-an-at-least-once-event-stream-over-a-24h-window-with-s-21955) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect the governance of consent and lawful-basis for server-side and clickstream data that increasingly bypasses the browser (server-side tagging conversion APIs) — where the old cookie-banner model no longer sees the data flow? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-governance-of-consent-and-lawful-basis-for-se-54074) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a CDP / customer-event pipeline (buy Segment/mParticle vs build on Kafka + your warehouse) when data ownership, PII governance, and per-event pricing are board-level concerns and the event schema is central to every downstream model? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-cdp-customer-event-pipeline-buy-s-125883) |
-| How do you decide build-vs-buy for reverse-ETL / operational-analytics activation (Hightouch/Census vs build sync jobs from warehouse to SaaS) when the warehouse becomes the source of truth for go-to-market tools and sync reliability directly touches revenue systems? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-reverse-etl-operational-analytics-a-125826) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you explain to a skeptical engineer why 'just ask the model to return JSON' is unreliable and when constrained decoding is worth the quality hit? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-to-a-skeptical-engineer-why-just-ask-the-model-t-77932) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

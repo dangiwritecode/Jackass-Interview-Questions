@@ -1,34 +1,33 @@
 # Zebra
 
-**Tier:** Tier 3  |  **Business domain:** Hardware/Industrial  |  **Questions:** 6
+**Tier:** Tier 3  |  **Business domain:** Industrial / Hardware  |  **Questions listed:** 540  |  **Tagged directly to Zebra:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Zebra's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Zebra: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 2 | 2 | 1 | 2 |
-| Fullstack | 1 | 1 | 1 | 3 | 3 | 3 |
-| ML Engineer | 0 | 0 | 1 | 1 | 0 | 1 |
+| Backend | 13 | 13 | 35 | 53 | 47 | 60 |
+| Fullstack | 25 | 25 | 44 | 50 | 23 | 60 |
+| DevOps | 38 | 0 | 38 | 60 | 23 | 60 |
+| AIOps | 2 | 1 | 16 | 60 | 50 | 60 |
+| Data Engineer | 11 | 3 | 35 | 59 | 29 | 60 |
+| Database Developer | 12 | 22 | 23 | 46 | 38 | 60 |
+| ML Engineer | 0 | 0 | 26 | 60 | 34 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a warehouse robot/vacuum-cleaner controller. How do you model the grid movement and obstacles? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-warehouse-robot-vacuum-cleaner-controller-how-do-you-model-th-9018) |
-| How do you design an endpoint that must return within a fixed byte budget for constrained IoT clients, dynamically trimming the representation and signaling truncation without breaking parsers? | deep understanding | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-endpoint-that-must-return-within-a-fixed-byte-bud-23973) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must run Kubernetes at the edge (thousands of retail/IoT sites) with K3s/KubeEdge and intermittent connectivity. How would you architect fleet management, GitOps to disconnected clusters, and local autonomy when the control plane is unreachable for hours, and where does the standard reconcile model break? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-run-kubernetes-at-the-edge-thousands-of-retail-iot-sites-with-39033) |
-| Design a warehouse robot/vacuum-cleaner controller. How do you model the grid movement and obstacles? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-warehouse-robot-vacuum-cleaner-controller-how-do-you-model-th-9018) |
-| Design a zero-trust posture for an IoT/edge fleet of devices you ship to customer premises. They're physically accessible to attackers and rarely updated. How do you bootstrap identity, rotate keys, and revoke a cloned device at scale? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-zero-trust-posture-for-an-iot-edge-fleet-of-devices-you-ship--41307) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your object detector's mAP looks fine but customers complain about missed small objects. How would you break down mAP by object size to confirm and then fix it? | deep understanding | SDE-1/2, SDE-2/3 | Computer Vision Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-object-detector-s-map-looks-fine-but-customers-complain-about-mis-66275) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

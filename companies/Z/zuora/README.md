@@ -1,61 +1,33 @@
 # Zuora
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 27
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Zuora:** 22
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Zuora's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Zuora: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 10 | 13 | 10 | 14 |
-| Fullstack | 0 | 0 | 5 | 8 | 8 | 8 |
-| DevOps | 0 | 0 | 0 | 3 | 3 | 3 |
-| Data Engineer | 0 | 0 | 2 | 2 | 2 | 2 |
+| Backend | 5 | 5 | 46 | 58 | 53 | 60 |
+| Fullstack | 16 | 16 | 50 | 56 | 26 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 29 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you evolve a system from a shared multi-tenant database to a per-tenant database as your biggest customers grow, without downtime for the small tenants? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evolve-a-system-from-a-shared-multi-tenant-database-to-a-19814) |
-| You must guarantee a scheduled billing job runs exactly once across a multi-instance deployment even if two schedulers fire. How do you build that safely? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-guarantee-a-scheduled-billing-job-runs-exactly-once-across-a--19873) |
-| Design a cross-domain B2B invoicing workflow spanning contracts, usage-metering, billing, tax, and revenue-recognition where correctness is audited and errors are financially reported. Where do you place strong consistency vs saga, and how do you make rev-rec provably correct? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-cross-domain-b2b-invoicing-workflow-spanning-contracts-usage--34176) |
-| Where do you put cross-aggregate validation (e.g. 'user can't have two active subscriptions')? Discuss unique constraints, domain services, and eventual-consistency reconciliation. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Domain-Driven Design (DDD) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=where-do-you-put-cross-aggregate-validation-e-g-user-can-t-have-two-ac-29000) |
-| You inherit an org where every team invented its own translation layer to the legacy 'Billing' monolith. Argue whether to standardize on one shared ACL/OHS provided by a platform team, or keep them separate. What are the failure modes of each at 30-team scale? | expertise | SDE-2/3, Architect/Principal | Domain-Driven Design (DDD) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-an-org-where-every-team-invented-its-own-translation-layer-34338) |
-| You're modeling a subscription-billing domain. Which parts are the core domain, which are supporting, which are generic subdomains, and how does that decision change your build-vs-buy calls? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Domain-Driven Design (DDD) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-modeling-a-subscription-billing-domain-which-parts-are-the-core-28967) |
-| Design a subscription-billing engine that computes prorated charges on mid-cycle plan changes and handles dunning for failed renewals — how do you model billing periods invoices and retry schedules? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-subscription-billing-engine-that-computes-prorated-charges-on-28337) |
-| A failed recurring charge triggers dunning; how would you design the retry-and-notify state machine so it's observable, doesn't double-charge, and can be paused for a customer in a dispute? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-failed-recurring-charge-triggers-dunning-how-would-you-design-the-re-16442) |
-| You have to design a subscription-billing engine that supports mid-cycle plan changes with proration; where do you put the proration logic, and how do you keep it unit-testable across timezones and leap days? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-to-design-a-subscription-billing-engine-that-supports-mid-cyc-16441) |
-| Architect the approach to keeping a strong uniqueness invariant (e.g. one active subscription per user) correct when the write path is split across billing, entitlement, and account services. Where does the invariant live and how is it enforced? | expertise | SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-approach-to-keeping-a-strong-uniqueness-invariant-e-g-on-31775) |
-| How would you model a subscription-billing schema (plans, subscriptions, invoices, proration) so mid-cycle upgrades and refunds stay auditable and idempotent? | deep understanding | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-subscription-billing-schema-plans-subscriptions--24367) |
-| How would you model different pricing strategies (flat, tiered, usage-based) so adding a new one needs no if-else changes? | intermediate experience | Fresher, SDE-1 | OOPS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-different-pricing-strategies-flat-tiered-usage-bas-8756) |
-| You need per-tenant data isolation and choose schema-per-tenant; at what tenant count does this break down operationally, and what specifically gets painful (migrations, connections, catalog bloat)? | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-per-tenant-data-isolation-and-choose-schema-per-tenant-at-wha-24459) |
-| You want to enforce that a child row's tenant_id always matches its parent's tenant_id across a foreign key; how would you model a composite foreign key to guarantee tenant integrity and why is this better than trusting the app? | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-enforce-that-a-child-row-s-tenant-id-always-matches-its-pa-24436) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you evolve a system from a shared multi-tenant database to a per-tenant database as your biggest customers grow, without downtime for the small tenants? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evolve-a-system-from-a-shared-multi-tenant-database-to-a-19814) |
-| You must guarantee a scheduled billing job runs exactly once across a multi-instance deployment even if two schedulers fire. How do you build that safely? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-guarantee-a-scheduled-billing-job-runs-exactly-once-across-a--19873) |
-| Design a subscription-billing engine that computes prorated charges on mid-cycle plan changes and handles dunning for failed renewals — how do you model billing periods invoices and retry schedules? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-subscription-billing-engine-that-computes-prorated-charges-on-28337) |
-| A failed recurring charge triggers dunning; how would you design the retry-and-notify state machine so it's observable, doesn't double-charge, and can be paused for a customer in a dispute? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-failed-recurring-charge-triggers-dunning-how-would-you-design-the-re-16442) |
-| You have to design a subscription-billing engine that supports mid-cycle plan changes with proration; where do you put the proration logic, and how do you keep it unit-testable across timezones and leap days? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-to-design-a-subscription-billing-engine-that-supports-mid-cyc-16441) |
-| How do you architect an authorization model that spans your product plane and a separately-owned billing platform, so a compromised billing service can never mint entitlements it was not granted? Name the confused-deputy control. | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-authorization-model-that-spans-your-product-pl-41227) |
-| How do you manage the debt of a payments/billing subsystem where correctness is legally and financially non-negotiable, so 'refactor and hope the tests catch it' is unacceptable? What's your paydown methodology? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-manage-the-debt-of-a-payments-billing-subsystem-where-corre-41488) |
-| Your org's REST APIs have no versioning discipline and clients hard-code undocumented behaviors. As principal, how do you retrofit an API contract and versioning regime to pay down interface debt without a coordinated flag day? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-s-rest-apis-have-no-versioning-discipline-and-clients-hard-co-41422) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect an at-most-once critical scheduled job (nightly billing) that must never double-run even if EventBridge delivers twice or two instances wake simultaneously — walk me through the distributed lock and idempotency and prove it under failover? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-at-most-once-critical-scheduled-job-nightly-bi-52418) |
-| How would you build a capacity model for a multi-tenant SaaS where you must guarantee per-tenant performance isolation but still bin-pack for cost? Walk me through the noisy-neighbor economics and where you'd draw the dedicated-vs-shared line. | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-capacity-model-for-a-multi-tenant-saas-where-you-52932) |
-| How would you architect the availability of a globally distributed rate-limiting/quota service so that regional partitions don't let a user exceed their global quota, while never putting a synchronous cross-region call on the request hot path — what accuracy do you knowingly trade? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-availability-of-a-globally-distributed-rat-52055) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A fact table has semi-additive balance measures being SUMmed across the date dimension in a dashboard. How do you catch and correct this double counting? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Warehousing | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-fact-table-has-semi-additive-balance-measures-being-summed-across-th-121571) |
-| Walk me through how you decided the grain of a fact table for a subscription-billing warehouse and what would break if you picked it too coarse. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Warehousing | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-decided-the-grain-of-a-fact-table-for-a-subscr-121568) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

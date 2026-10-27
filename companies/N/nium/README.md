@@ -1,39 +1,33 @@
 # Nium
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Nium:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Nium's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Nium: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 1 | 1 | 1 |
-| Fullstack | 0 | 0 | 0 | 2 | 2 | 2 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 1 | 1 | 0 | 1 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 7 | 7 | 47 | 59 | 23 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Architect a strategy for when a saga must coordinate with an external partner's system you don't control and that has no compensation API (e.g. a bank rail). How do you get the strongest guarantee possible and design the org's stance on partners without idempotency? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-strategy-for-when-a-saga-must-coordinate-with-an-external--34168) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe a time you had to make a build-vs-partner decision for a capability core to your product but far from your core competency. How did you decide where the line of strategic differentiation actually was? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-make-a-build-vs-partner-decision-for-a-capa-40433) |
-| You must design an idempotent multi-leg fund-transfer API (A debits B credits with a fee) that survives partial failure at any leg — how do you architect the state machine reconciliation and the client contract so retries never move money twice? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-design-an-idempotent-multi-leg-fund-transfer-api-a-debits-b-c-39441) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a compliance posture that can absorb a same-day emergency change to a control framework (e.g. a new PCI DSS 4.0 requirement becoming mandatory) across hundreds of services without a fire drill each time — what makes controls versionable and hot-swappable? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-compliance-posture-that-can-absorb-a-same-day-e-54030) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you monitor feature importance stability over time and why might a sudden reshuffle be an early warning even when accuracy looks fine? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-feature-importance-stability-over-time-and-why-migh-65885) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

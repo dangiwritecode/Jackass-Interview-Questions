@@ -1,44 +1,33 @@
 # ElevenLabs
 
-**Tier:** Tier 2  |  **Business domain:** AI  |  **Questions:** 22
+**Tier:** Tier 2  |  **Business domain:** AI  |  **Questions listed:** 540  |  **Tagged directly to ElevenLabs:** 22
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. ElevenLabs's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches ElevenLabs: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 2 | 6 | 4 | 6 |
-| AI Engineer | 1 | 0 | 6 | 16 | 15 | 16 |
+| Backend | 11 | 11 | 48 | 60 | 26 | 60 |
+| Fullstack | 9 | 9 | 38 | 59 | 24 | 60 |
+| DevOps | 0 | 0 | 2 | 60 | 60 | 60 |
+| AIOps | 0 | 0 | 15 | 60 | 60 | 60 |
+| Data Engineer | 4 | 0 | 38 | 60 | 22 | 60 |
+| Database Developer | 13 | 14 | 15 | 54 | 46 | 60 |
+| ML Engineer | 0 | 0 | 2 | 60 | 58 | 60 |
+| AI Engineer | 4 | 3 | 10 | 60 | 57 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a speech/ASR + TTS capability (buy Deepgram/ElevenLabs/Azure Speech vs fine-tune Whisper/self-host) when per-minute pricing at scale, latency, and accent/domain accuracy on your data define the call? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-speech-asr-tts-capability-buy-dee-69810) |
-| How do you evaluate build-vs-buy when the ML capability's value comes from network effects you can't replicate (e.g. a shared fraud-model consortium or a speech model trained on data volumes only a hyperscaler has) — how do you price the unreplicable-data gap? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-build-vs-buy-when-the-ml-capability-s-value-comes--69805) |
-| How would you protect a FastAPI inference endpoint that is expensive per call from abuse, combining per-key rate limiting with per-key cost quotas tied to model compute? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-protect-a-fastapi-inference-endpoint-that-is-expensive-p-62920) |
-| You're consolidating 30 LoRA-adapter deployments onto a shared base-model fleet; how do you design tenancy, isolation, and cost attribution for multi-LoRA at org scale? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-consolidating-30-lora-adapter-deployments-onto-a-shared-base-mo-71186) |
-| You must architect the platform so adopting a new modality (audio, video, multimodal) is an incremental extension rather than a parallel stack. Which abstractions must you get right early, and where do LLM-only assumptions leak? | expertise | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-the-platform-so-adopting-a-new-modality-audio-video-69413) |
-| Explain how you would serve a text-to-speech-plus-lip-sync avatar model in real time. Where are the latency budgets and how do you split the pipeline? | expertise | SDE-1/2, SDE-2/3 | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-serve-a-text-to-speech-plus-lip-sync-avatar-mode-67105) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you govern a deepfake and impersonation risk surface for a product that offers voice or avatar cloning, balancing legitimate creative use against non-consensual abuse? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-a-deepfake-and-impersonation-risk-surface-for-a-prod-86093) |
-| What is Amazon Polly, and how might a voice assistant on AWS turn an LLM's text answer into speech? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-amazon-polly-and-how-might-a-voice-assistant-on-aws-turn-an-ll-73219) |
-| How do you decide build-vs-buy for a speech stack (ASR + TTS) in a voice-agent product — buy Deepgram/ElevenLabs/Azure Speech vs self-host Whisper/open TTS — when per-minute pricing at scale, latency, and accent/domain accuracy on your data drive the call? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-speech-stack-asr-tts-in-a-voice-a-83762) |
-| How would you architect capacity planning for a voice/multimodal GenAI pipeline where ASR, LLM, and TTS each consume compute and the end-to-end latency budget is tight? How do you size each stage so no cheap stage forces the expensive LLM to sit idle waiting? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-capacity-planning-for-a-voice-multimodal-genai-83390) |
-| How would you design eval for a voice or speech agent at scale where ASR errors, latency, and response quality compound and can't be judged in isolation? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-eval-for-a-voice-or-speech-agent-at-scale-where-a-86919) |
-| Design the latency architecture for a real-time voice agent where STT, LLM reasoning, and TTS must overlap to hit sub-800ms turn latency, and defend where you'd stream partial hypotheses versus wait for finality. | expertise | SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-latency-architecture-for-a-real-time-voice-agent-where-stt--83172) |
-| You're designing a voice assistant; how do you place STT before and TTS after the LLM so end-to-end latency stays under a couple of seconds? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-a-voice-assistant-how-do-you-place-stt-before-and-tts-78476) |
-| A designer keeps committing large model-eval screenshots and sample audio into the GenAI repo, bloating it. How would you introduce Git LFS mid-project, migrate existing binaries, and what breaks for people without LFS installed? | intermediate experience | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-designer-keeps-committing-large-model-eval-screenshots-and-sample-au-77398) |
-| What's the trade-off in capacity terms between real-time voice/streaming inference and batch offline generation for the same fleet? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-trade-off-in-capacity-terms-between-real-time-voice-streami-86658) |
-| A product wants real-time voice with an LLM in the loop. What's your latency budget breakdown across ASR, LLM, and TTS, and where do you claw back milliseconds? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLM Cost & Latency Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-product-wants-real-time-voice-with-an-llm-in-the-loop-what-s-your-la-81564) |
-| How would you architect the cost/latency strategy for a real-time voice agent at scale where ASR, LLM, and TTS all compete for a tight budget, and where do you invest to claw back the most? | expertise | SDE-2/3, Architect/Principal | LLM Cost & Latency Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-cost-latency-strategy-for-a-real-time-voic-85299) |
-| How do you architect guardrails and evals for a voice agent where inputs are noisy ASR transcripts and outputs are TTS — what breaks in the text-first eval model you'd normally reach for? | expertise | SDE-2/3, Architect/Principal | LLM Evaluation & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-guardrails-and-evals-for-a-voice-agent-where-inpu-84778) |
-| How would you evaluate a text-to-speech-plus-avatar pipeline for lip-sync quality automatically, without a human watching every clip? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-a-text-to-speech-plus-avatar-pipeline-for-lip-s-80656) |
-| Interviewer probe: why might late fusion be safer than early fusion when one modality (audio) is frequently missing in production, and how would you validate that choice? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-probe-why-might-late-fusion-be-safer-than-early-fusion-whe-80685) |
-| Interviewer probe: your VP wants a real-time multimodal avatar with speech and lip-sync. As principal how do you assess whether the latency and cost make it viable at your scale before committing a team? | deep understanding | SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-probe-your-vp-wants-a-real-time-multimodal-avatar-with-spe-84697) |
-| Describe how you'd budget for a voice agent where tokens, TTS/STT, and turn latency all compound into a single per-minute cost target. | expertise | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-budget-for-a-voice-agent-where-tokens-tts-stt-and-t-86391) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

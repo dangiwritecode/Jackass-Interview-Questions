@@ -1,25 +1,33 @@
 # StreamSets
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 9
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to StreamSets:** 9
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. StreamSets's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches StreamSets: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Engineer | 0 | 0 | 9 | 9 | 9 | 9 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 43 | 59 | 29 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you would detect and remediate duplicate records introduced by an at-least-once Kafka consumer feeding the lake. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-detect-and-remediate-duplicate-records-introduce-122425) |
-| Explain the trade-offs of storing bronze as raw JSON versus Parquet when the source schema is unstable. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-trade-offs-of-storing-bronze-as-raw-json-versus-parquet-wh-122395) |
-| How do you handle nested and deeply evolving JSON in a lakehouse while keeping queries performant? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-nested-and-deeply-evolving-json-in-a-lakehouse-while-122418) |
-| How do you handle out-of-order events when building a lakehouse table that must reflect the latest state per key? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-out-of-order-events-when-building-a-lakehouse-table--122449) |
-| How do you handle schema evolution when an upstream Kafka producer renames a field mid-stream into your bronze table? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-schema-evolution-when-an-upstream-kafka-producer-ren-122383) |
-| How would you architect ingestion so a schema change in one source does not stall the whole lakehouse pipeline? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-ingestion-so-a-schema-change-in-one-source-doe-122443) |
-| How would you implement CDC from a MySQL source into a Hudi table keeping it near real-time? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-cdc-from-a-mysql-source-into-a-hudi-table-keep-122406) |
-| How would you set up a dead-letter path for records that fail schema validation on ingestion into the lake? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-a-dead-letter-path-for-records-that-fail-schema-v-122386) |
-| Your bronze layer ingests CDC from 200 tables and small files are exploding on S3. What compaction and layout strategy do you put in place? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-bronze-layer-ingests-cdc-from-200-tables-and-small-files-are-expl-122372) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,40 +1,33 @@
 # Cure.fit
 
-**Tier:** Tier 4  |  **Business domain:** HealthTech  |  **Questions:** 6
+**Tier:** Tier 4  |  **Business domain:** HealthTech  |  **Questions listed:** 540  |  **Tagged directly to Cure.fit:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Cure.fit's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Cure.fit: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 1 | 0 | 1 | 2 | 1 | 2 |
-| ML Engineer | 2 | 0 | 2 | 2 | 0 | 2 |
-| Data Structures & Algorithms (all profiles) | 1 | 1 | 1 | 1 | 1 | 1 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 4 | 0 | 21 | 59 | 47 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 3 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're asked to choose the consistency boundary for a healthcare workflow (order lab, run test, publish result, bill) where a wrong result is a patient-safety issue. Where is strong consistency non-negotiable, where is a saga acceptable, and how do you defend that to regulators? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-choose-the-consistency-boundary-for-a-healthcare-workf-34185) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| If a hospital app records each patient visit live, but wants 'average visits per month', which parts are OLTP and OLAP? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-a-hospital-app-records-each-patient-visit-live-but-wants-average-vi-118853) |
-| How would you architect real-time analytics for a healthcare product where late data can't be dropped, the audit trail is legally binding, and PHI can't leak into logs? | expertise | SDE-2/3, Architect/Principal | Real-time Analytics Architecture | Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-real-time-analytics-for-a-healthcare-product-w-127612) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Write a simple Dockerfile that packages a scikit-learn model served with a Flask app. What are the essential instructions? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-simple-dockerfile-that-packages-a-scikit-learn-model-served-wi-57930) |
-| You want to serve a model as a REST API. How do you expose the port your Flask/FastAPI app listens on so requests reach the container? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-serve-a-model-as-a-rest-api-how-do-you-expose-the-port-you-57936) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Minimum Replacements to Equalize All Mirror-Pair Sums | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Difference Array, Hash Table, Line Sweep, Prefix Sum | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-replacements-to-equalize-all-mirror-pair-sums-d1595) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

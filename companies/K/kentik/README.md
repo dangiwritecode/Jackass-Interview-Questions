@@ -1,31 +1,33 @@
 # Kentik
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 9
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Kentik:** 9
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Kentik's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Kentik: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 2 | 2 | 2 |
-| AIOps | 0 | 0 | 3 | 7 | 6 | 7 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 13 | 60 | 56 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a network-observability / flow-log analysis layer (Kentik/ThousandEyes vs building on VPC flow logs + your own analytics) when diagnosing cross-cloud latency incidents is the recurring pain? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-network-observability-flow-log-an-53793) |
-| How do you design a network-cost observability system that attributes cross-cloud transfer charges to the specific service and request path that caused them? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-network-cost-observability-system-that-attributes--55293) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for network-performance AIOps specifically (buy ThousandEyes/Kentik vs build on flow logs + your ML) when cross-cloud and last-mile latency diagnosis needs vantage points you can't replicate in-house? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-network-performance-aiops-specifica-100062) |
-| How do you inject packet loss and validate that your network anomaly detection distinguishes it from application-level latency in its root-cause classification? | deep understanding | SDE-1/2, SDE-2/3 | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-inject-packet-loss-and-validate-that-your-network-anomaly-d-93855) |
-| How would you design cross-cloud network observability so AIOps can attribute latency to peering transit or a specific interconnect rather than the app? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-cross-cloud-network-observability-so-aiops-can-at-103778) |
-| What's your approach to modeling and alerting on cross-cloud data-transfer and interconnect saturation before it degrades user-facing latency? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-modeling-and-alerting-on-cross-cloud-data-tran-103850) |
-| How do you monitor an anomaly model on network-flow telemetry when a routing or peering change alters baseline traffic distributions? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-an-anomaly-model-on-network-flow-telemetry-when-a-r-95370) |
-| Your model suppresses flapping alerts. After a network change, real flapping starts. How do you monitor to catch that suppression is now hiding a genuine problem? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-model-suppresses-flapping-alerts-after-a-network-change-real-flap-95355) |
-| How do you govern the observability of network performance between clouds so latency or packet loss on a cross-cloud link is detected and attributed rather than blamed on the wrong service? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-observability-of-network-performance-between-clo-100913) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,41 +1,33 @@
 # Imgix
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 19
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Imgix:** 15
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Imgix's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Imgix: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 5 | 6 | 6 | 6 |
-| Fullstack | 0 | 0 | 8 | 13 | 13 | 13 |
+| Backend | 4 | 4 | 45 | 59 | 57 | 60 |
+| Fullstack | 16 | 16 | 50 | 56 | 29 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Compare push CDN vs pull CDN. For a photo-sharing app with millions of rarely-accessed images, which model do you choose and how does it affect origin storage and first-byte latency? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-push-cdn-vs-pull-cdn-for-a-photo-sharing-app-with-millions-of--20853) |
-| Frame the decision to move image/video transformation from a commercial CDN feature to a self-hosted transform tier. At what variant cardinality and traffic profile does build beat buy, and how do you model the crossover with real cost curves? | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=frame-the-decision-to-move-image-video-transformation-from-a-commercia-35023) |
-| How would you decide max-age for user avatars that rarely change but occasionally get updated? Compare long TTL + purge-on-update vs short TTL + revalidation for cost and freshness. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-max-age-for-user-avatars-that-rarely-change-but-o-20880) |
-| Your CDN charges per edge-compute invocation and per cache-fill. Model the cost function for an image-transform pipeline and explain how variant explosion (DPR x format x size) can make edge transforms cost more than serving pre-generated variants from origin. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-cdn-charges-per-edge-compute-invocation-and-per-cache-fill-model--29715) |
-| How would you design an image-resize-on-demand service that caches derivatives at the CDN so the origin only computes each size once? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-image-resize-on-demand-service-that-caches-der-27189) |
-| Your app stores user uploads in object storage and you need to serve them fast globally while blocking hotlinking and abuse. How do you combine CDN, signed URLs, and referer checks? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-app-stores-user-uploads-in-object-storage-and-you-need-to-serve-t-27159) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a large-scale image/asset processing + DAM pipeline (Cloudinary/imgix vs bespoke on Lambda/GPU) where per-transform pricing at your traffic vs the ops cost of a build define the crossover? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-large-scale-image-asset-processin-41098) |
-| Compare push CDN vs pull CDN. For a photo-sharing app with millions of rarely-accessed images, which model do you choose and how does it affect origin storage and first-byte latency? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-push-cdn-vs-pull-cdn-for-a-photo-sharing-app-with-millions-of--20853) |
-| Design an on-the-fly image optimization pipeline at the CDN: resizing, format negotiation (AVIF/WebP), and DPR handling. How do you keep the cache from exploding with variants? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-on-the-fly-image-optimization-pipeline-at-the-cdn-resizing-f-20828) |
-| Explain how you'd lazy-load and CDN-cache below-the-fold images with responsive srcset. How does the CDN's on-the-fly resizing coordinate with the browser's image selection? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-lazy-load-and-cdn-cache-below-the-fold-images-with-r-20893) |
-| Explain the Accept and Save-Data headers in the context of CDN image delivery. How would you use client hints to serve the right format/size while keeping cacheability sane? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-accept-and-save-data-headers-in-the-context-of-cdn-image-d-20829) |
-| How would you decide max-age for user avatars that rarely change but occasionally get updated? Compare long TTL + purge-on-update vs short TTL + revalidation for cost and freshness. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-max-age-for-user-avatars-that-rarely-change-but-o-20880) |
-| You want to inject a security header and rewrite image URLs to a WebP variant at the edge. Which edge-compute layer do you pick and what are the pitfalls with modifying cached responses? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-inject-a-security-header-and-rewrite-image-urls-to-a-webp--20827) |
-| You're the tie-breaker on a build-vs-buy call for on-the-fly media transformation. Model the crossover where variant cardinality makes the CDN's per-transform pricing lose to a self-hosted transform tier plus warm object storage, and state the traffic and catalog conditions that flip your recommendation. | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-the-tie-breaker-on-a-build-vs-buy-call-for-on-the-fly-media-tra-39627) |
-| How would you design an image-resize-on-demand service that caches derivatives at the CDN so the origin only computes each size once? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-image-resize-on-demand-service-that-caches-der-27189) |
-| Your app stores user uploads in object storage and you need to serve them fast globally while blocking hotlinking and abuse. How do you combine CDN, signed URLs, and referer checks? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-app-stores-user-uploads-in-object-storage-and-you-need-to-serve-t-27159) |
-| Design a large-scale image/video CDN and transform pipeline that serves on-the-fly resized/reformatted media (WebP/AVIF per device) — how do you architect the transform-on-first-request cache and avoid recomputing the same variant across the fleet? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-large-scale-image-video-cdn-and-transform-pipeline-that-serve-39489) |
-| How do you architect an image pipeline as a shared platform capability — format negotiation, responsive srcset generation, on-the-fly transforms, cache invalidation — so 30 teams stop hand-rolling broken image handling? | deep understanding | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-image-pipeline-as-a-shared-platform-capability-40253) |
-| A near-miss shows an attacker used an SVG uploaded as an avatar rendered via CSS background — no inline SVG, yet it still executed in some browsers. Explain the SVG-in-CSS and content-type-sniffing nuances, and design an upload-serving architecture that neutralizes them fleet-wide. | deep understanding | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-near-miss-shows-an-attacker-used-an-svg-uploaded-as-an-avatar-render-38963) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

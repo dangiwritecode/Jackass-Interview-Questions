@@ -1,31 +1,33 @@
 # LSEG
 
-**Tier:** Tier 2  |  **Business domain:** Fintech/Banking  |  **Questions:** 3
+**Tier:** Tier 2  |  **Business domain:** Banking / Fintech  |  **Questions listed:** 540  |  **Tagged directly to LSEG:** 3
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. LSEG's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches LSEG: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 8 | 7 | 26 | 59 | 44 | 60 |
+| Fullstack | 21 | 21 | 37 | 59 | 37 | 60 |
+| DevOps | 5 | 2 | 17 | 60 | 47 | 60 |
+| AIOps | 2 | 2 | 14 | 60 | 56 | 60 |
+| Data Engineer | 1 | 0 | 1 | 60 | 59 | 60 |
+| Database Developer | 3 | 2 | 2 | 60 | 57 | 60 |
+| ML Engineer | 1 | 0 | 7 | 59 | 55 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you set the availability and correctness strategy for a stock-trading or exchange platform where load spikes at market open, downtime during a crash costs customers real money, and regulators are watching every second of an outage? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-the-availability-and-correctness-strategy-for-a-stoc-52111) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you reconcile aggressive cold-tiering with SLA-bound restore latency for compliance queries, litigation holds, or audit requests? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reconcile-aggressive-cold-tiering-with-sla-bound-restore-la-126720) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A regulator requires proof that once a trade is confirmed it is immutable and totally ordered with all prior trades. Explain how you architect an append-only consensus log as the system of record, and what caveats (leader-term boundaries, uncommitted tail) you must disclose. | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-requires-proof-that-once-a-trade-is-confirmed-it-is-immuta-112203) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

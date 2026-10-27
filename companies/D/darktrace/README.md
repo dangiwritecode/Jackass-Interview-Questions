@@ -1,38 +1,33 @@
 # Darktrace
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 4
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Darktrace:** 4
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Darktrace's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Darktrace: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| AIOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 8 | 60 | 55 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 18 | 19 | 50 | 42 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Threat-model a nation-state adversary who has already achieved persistent, credentialed presence. What in your zero-trust architecture is designed specifically to detect the legitimate-looking lateral movement, and how do you drive dwell time from months to hours? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=threat-model-a-nation-state-adversary-who-has-already-achieved-persist-53961) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What governance patterns protect against a poisoned or adversarial telemetry stream deliberately crafted to mislead your anomaly detection or auto-remediation? | expertise | SDE-2/3, Architect/Principal | AIOps Data Governance & Standardization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-governance-patterns-protect-against-a-poisoned-or-adversarial-tel-103101) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you'd design controls and drills to detect and respond to a slow, low-volume data-exfiltration campaign that stays under per-query rate thresholds for months. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-controls-and-drills-to-detect-and-respond-to--114130) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Present a defense-in-depth architecture for indirect prompt injection where agents routinely ingest untrusted third-party content via tools. Which controls (instruction/data separation, capability gating, provenance, dual-LLM sanitization) do you standardize org-wide and in what order? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=present-a-defense-in-depth-architecture-for-indirect-prompt-injection--83052) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

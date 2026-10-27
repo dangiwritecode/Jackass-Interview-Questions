@@ -1,116 +1,33 @@
 # Agoda
 
-**Tier:** Tier 2  |  **Business domain:** Travel  |  **Questions:** 58
+**Tier:** Tier 2  |  **Business domain:** Travel  |  **Questions listed:** 540  |  **Tagged directly to Agoda:** 58
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Agoda's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Agoda: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 2 | 2 | 6 | 9 | 4 | 9 |
-| Fullstack | 0 | 0 | 0 | 3 | 3 | 3 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 1 | 1 | 0 | 1 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 5 | 5 | 0 | 5 |
-| AI Engineer | 0 | 0 | 1 | 1 | 0 | 1 |
-| Data Structures & Algorithms (all profiles) | 37 | 37 | 37 | 37 | 37 | 37 |
+| Backend | 2 | 2 | 9 | 60 | 53 | 60 |
+| Fullstack | 0 | 0 | 40 | 60 | 38 | 60 |
+| DevOps | 0 | 0 | 5 | 60 | 55 | 60 |
+| AIOps | 3 | 0 | 3 | 60 | 57 | 60 |
+| Data Engineer | 0 | 0 | 11 | 60 | 51 | 60 |
+| Database Developer | 0 | 0 | 0 | 60 | 60 | 60 |
+| ML Engineer | 0 | 0 | 12 | 60 | 50 | 60 |
+| AI Engineer | 1 | 0 | 6 | 60 | 55 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do culture and CultureInfo affect string comparison, parsing, and formatting, and why is that a common bug? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | .NET | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-culture-and-cultureinfo-affect-string-comparison-parsing-and-fo-11357) |
-| How does string comparison work with StringComparison (Ordinal vs InvariantCulture vs CurrentCulture), and why does culture matter for a backend? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-string-comparison-work-with-stringcomparison-ordinal-vs-invar-9748) |
-| Design a multi-region data architecture for a global product with data-residency laws in the EU India and China. How do you keep a coherent analytical view while data physically can't leave certain regions? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-multi-region-data-architecture-for-a-global-product-with-data-36529) |
-| How would you architect data replication and freshness across a global read-heavy warehouse so analysts in every region get fast local queries without exploding storage cost or creating consistency confusion? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-data-replication-and-freshness-across-a-global-36576) |
-| A booking system must answer 'is any sub-range of this resource free' under heavy concurrent booking; how do you prevent double-booking races algorithmically and what structure supports fast free-range queries? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-booking-system-must-answer-is-any-sub-range-of-this-resource-free-un-22010) |
-| Design a cross-domain 'cancel an entire trip' workflow (flights, hotels, cars, insurance, loyalty points) where each domain has different reversibility windows and penalties. How do you architect compensations when some are free, some cost money, and some are irreversible? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-cross-domain-cancel-an-entire-trip-workflow-flights-hotels-ca-34135) |
-| Design a saga for booking a trip: flight + hotel + car, each a separate provider with its own failure modes. Which fails often, and how does that shape your step ordering? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-saga-for-booking-a-trip-flight-hotel-car-each-a-separate-prov-28790) |
-| You're designing keys for a multi-region deployment where each region has its own Redis — how do you decide what's region-local versus globally replicated and how do you reconcile conflicts? | expertise | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-keys-for-a-multi-region-deployment-where-each-region--24641) |
-| You need to migrate a column from storing local timestamps to UTC across historical data where the original timezone is only inferable from a related region column. Walk through the backfill query and how you'd validate no double-conversion occurred. | deep understanding | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-migrate-a-column-from-storing-local-timestamps-to-utc-acro-22155) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must set the policy for how APIs handle timezone, locale, and currency for a platform going multi-country. Why do these 'boring' concerns cause the deepest contractual disputes, what do you make explicit in every response, and how do you retrofit locale-awareness onto APIs that assumed one country? | deep understanding | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-set-the-policy-for-how-apis-handle-timezone-locale-and-curren-40848) |
-| How do you architect a frontend internationalization platform spanning 40 locales including RTL and CJK — bundle strategy, translation pipeline, pseudo-localization CI, and runtime locale negotiation? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-frontend-internationalization-platform-spanning-40046) |
-| How do you handle debt in an internationalization layer that was bolted on late — hardcoded strings, RTL breakage, currency/date assumptions scattered across the stack — right as the company expands to 20 new markets? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-debt-in-an-internationalization-layer-that-was-bolte-41449) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You inherit an org where every team invented its own logging schema so cross-service audit correlation is impossible — lay out a multi-quarter program to converge on a governed audit-event schema without halting feature work or invalidating past evidence. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-an-org-where-every-team-invented-its-own-logging-schema-so-54035) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you use MATCH_RECOGNIZE / CEP to detect a checkout funnel dropout pattern in real time? | deep understanding | SDE-1/2, SDE-2/3 | Stream Processing (Apache Flink) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-match-recognize-cep-to-detect-a-checkout-funnel-drop-121284) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect global time-zone handling in facts so local-time and UTC reporting both stay correct across dozens of markets? | deep understanding | SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-global-time-zone-handling-in-facts-so-local-time--113311) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe how you'd combine experiment results across multiple markets/countries when treatment effects differ by region. | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-combine-experiment-results-across-multiple-markets--67764) |
-| Describe how you'd measure statistical significance for a ratio metric like conversion rate versus a mean metric like session length. | intermediate experience | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-measure-statistical-significance-for-a-ratio-metric-67708) |
-| How would you set up an experiment for a dynamic-pricing model while keeping fairness and avoiding user-visible price discrimination complaints? | expertise | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-an-experiment-for-a-dynamic-pricing-model-while-k-67740) |
-| How would you A/B test replacing a logistic regression scoring model with XGBoost when the business cares mostly about downstream conversion, not AUC? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-a-b-test-replacing-a-logistic-regression-scoring-model-w-65879) |
-| How would you set up a guardrail metric alongside your primary metric so an A/B win doesn't hide a regression? | deep understanding | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-a-guardrail-metric-alongside-your-primary-metric--65778) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain the trade-off between building one big multilingual index vs per-language indices for a global product. | deep understanding | SDE-1/2, SDE-2/3 | Semantic Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-trade-off-between-building-one-big-multilingual-index-vs-p-80463) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Balance Index of an Integer Array | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Prefix Sum, Running Sum, Two-Pointer Reasoning | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=balance-index-of-an-integer-array-d709) |
-| Closest-Value Pairs by Minimum Gap | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Sorting, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=closest-value-pairs-by-minimum-gap-d1166) |
-| Collapse Runs of Exactly K Equal Characters | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Run-Length Encoding, Simulation, Stack, String | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=collapse-runs-of-exactly-k-equal-characters-d1174) |
-| Count Contiguous Subarrays With a Given Sum | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Prefix Sum | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-contiguous-subarrays-with-a-given-sum-d558) |
-| Count Contiguous Subarrays With Product Below a Threshold | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Sliding Window, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-contiguous-subarrays-with-product-below-a-threshold-d698) |
-| Counting Distinct Ways to Reach the Top of a Staircase | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Fibonacci Recurrence, Math, Memoization | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-distinct-ways-to-reach-the-top-of-a-staircase-d70) |
-| Counting Routes Across a Grid with Blocked Cells | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Combinatorics, Dynamic Programming, Grid Traversal, Matrix | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-routes-across-a-grid-with-blocked-cells-d63) |
-| Distance to the Next Greater Value | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Monotonic Stack, Next Greater Element, Stack | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=distance-to-the-next-greater-value-d724) |
-| Encode a Positive Integer as a Roman Numeral | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Hash Table, Math, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=encode-a-positive-integer-as-a-roman-numeral-d12) |
-| Enumerate Every Subset (Power Set) | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Bit Manipulation, Depth-First Search, Recursion | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=enumerate-every-subset-power-set-d78) |
-| Expand a Nested Repeat-Notation String | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Parsing, Recursion, Stack, String | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=expand-a-nested-repeat-notation-string-d394) |
-| Fewest Pieces to Reach an Exact Target | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Dynamic Programming, Unbounded Knapsack | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-pieces-to-reach-an-exact-target-d322) |
-| Generate All Orderings of Distinct Values | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Depth-First Search, Recursion | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=generate-all-orderings-of-distinct-values-d46) |
-| Length of the Longest Strictly Increasing Subsequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Dynamic Programming, Greedy, Patience Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=length-of-the-longest-strictly-increasing-subsequence-d300) |
-| Longest Chain of One-Character Insertions | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | DAG Longest Path, Dynamic Programming, Hash Table, Sorting, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-chain-of-one-character-insertions-d1033) |
-| Maximum Gain from a Single Buy and Later Sell | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Prefix Minimum, Single Pass | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-gain-from-a-single-buy-and-later-sell-d121) |
-| Maximum Sum of a Non-Adjacent Subset | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-sum-of-a-non-adjacent-subset-d198) |
-| Maximum Threats Neutralized Before a Breach | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Ceiling Division, Greedy, Simulation, Sorting | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-threats-neutralized-before-a-breach-d1820) |
-| Maximum Total Gain with Unlimited Buy-Sell Transactions | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Peak-Valley, Single Pass | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-total-gain-with-unlimited-buy-sell-transactions-d122) |
-| Minimum Descending Path Through a Number Pyramid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bottom-up DP, Dynamic Programming, Grid DP | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-descending-path-through-a-number-pyramid-d120) |
-| Minimum Hourly Clearing Rate to Empty Every Stack in Time | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Monotonic Predicate | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-hourly-clearing-rate-to-empty-every-stack-in-time-d860) |
-| Minimum Per-Session Page Limit to Clear a Print Queue | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Greedy, Optimization | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-per-session-page-limit-to-clear-a-print-queue-d996) |
-| Next Greater Value from a Reference Sequence | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Monotonic Stack, Stack | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=next-greater-value-from-a-reference-sequence-d496) |
-| Number Sequence with Divisibility Labels | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Math, Simulation, String | Online Assessment (OA), Phone Screen | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=number-sequence-with-divisibility-labels-d412) |
-| Order a Three-Category Array In Place | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, In-Place Algorithm, Sorting, Three-Way Partition, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=order-a-three-category-array-in-place-d75) |
-| Position of a Bouncing Marker After a Given Time | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Math, Modular Arithmetic, Simulation | Online Assessment (OA), Phone Screen | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=position-of-a-bouncing-marker-after-a-given-time-d2884) |
-| Rearrange So No Two Neighbours Match | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Greedy, Hash Table, Heap (Priority Queue), Sorting, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=rearrange-so-no-two-neighbours-match-d752) |
-| Reorder Values by Ascending Frequency | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Custom Comparator, Hash Table, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reorder-values-by-ascending-frequency-d1559) |
-| Repeated Digit-Square Sum Reaches One | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cycle Detection, Floyd's Tortoise and Hare, Hash Table, Math, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=repeated-digit-square-sum-reaches-one-d202) |
-| Replace Each Value With Its Compressed Rank | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Coordinate Compression, Hash Table, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=replace-each-value-with-its-compressed-rank-d1284) |
-| Reverse Text Within Nested Bracket Groups | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Simulation, Stack, String, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reverse-text-within-nested-bracket-groups-d1157) |
-| Smallest Divisor Keeping a Rounded-Up Sum Within a Limit | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Monotonic Predicate, Search Space Reduction | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-divisor-keeping-a-rounded-up-sum-within-a-limit-d1241) |
-| Smallest String After One Backward Shift on a Substring | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-string-after-one-backward-shift-on-a-substring-d2558) |
-| Sorted Squares of an Ordered Array | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Merge, Sorting, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=sorted-squares-of-an-ordered-array-d962) |
-| Tally Elements in a Nested Compound Formula | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, Parsing, Recursion, Sorting, Stack, String | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tally-elements-in-a-nested-compound-formula-d711) |
-| Triplets That Sum to Zero | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Sorting, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=triplets-that-sum-to-zero-d15) |
-| Typed Text Equivalence with a Delete Key | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Simulation, Stack, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=typed-text-equivalence-with-a-delete-key-d829) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

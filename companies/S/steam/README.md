@@ -1,20 +1,33 @@
 # Steam
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 4
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Steam:** 4
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Steam's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Steam: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 3 | 4 | 3 | 4 |
+| Backend | 5 | 5 | 22 | 59 | 56 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| For a leaderboard/ranking service, is eventual consistency acceptable? Discuss with CAP. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-leaderboard-ranking-service-is-eventual-consistency-acceptable-d-5294) |
-| Argue when a CDN is the wrong tool and a different architecture (regional replication, P2P, client-side caching, ISP peering/PNI) is the right primary strategy. Give a workload where you'd deliberately minimize CDN reliance and why. | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-when-a-cdn-is-the-wrong-tool-and-a-different-architecture-region-35038) |
-| You need to serve a 4GB installer via CDN with resumable downloads. Explain how the origin must support Range and Content-Range, how the CDN caches byte ranges, and what breaks if your origin ignores range requests. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-serve-a-4gb-installer-via-cdn-with-resumable-downloads-exp-29697) |
-| You maintain a leaderboard where scores decay over time; how do you avoid recomputing every entry on each read, and what structure lets you apply a lazy decay factor at query time? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-maintain-a-leaderboard-where-scores-decay-over-time-how-do-you-avo-21975) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

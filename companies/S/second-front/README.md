@@ -1,40 +1,33 @@
 # Second-Front
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 24
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Second-Front:** 24
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Second-Front's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Second-Front: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 24 | 24 | 24 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 28 | 58 | 44 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An engineer wants to use a brand-new managed AI service that isn't FedRAMP-authorized; how do you evaluate whether it can be brought into scope versus rejected? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-engineer-wants-to-use-a-brand-new-managed-ai-service-that-isn-t-fed-56743) |
-| Describe how you'd stand up a FedRAMP-authorized environment on a compressed timeline for a strategic government deal without accumulating dangerous technical/compliance debt. | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-stand-up-a-fedramp-authorized-environment-on-a-comp-56802) |
-| Describe your approach to a FedRAMP inheritance model when you're both a consumer of an authorized IaaS and a provider of a SaaS to downstream agencies. | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-approach-to-a-fedramp-inheritance-model-when-you-re-both-56778) |
-| How do you architect a FedRAMP-aligned identity federation to agency IdPs (PIV/CAC) while keeping your internal workforce identity separate and least-scoped? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-fedramp-aligned-identity-federation-to-agency-i-56811) |
-| How do you architect FedRAMP-compliant multi-cloud so an agency's data-portability requirement doesn't force you to re-authorize the entire stack on each provider? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-fedramp-compliant-multi-cloud-so-an-agency-s-data-56791) |
-| How do you design the boundary between a FedRAMP-authorized production environment and a non-authorized corporate SSO/identity plane without breaking IA controls? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-the-boundary-between-a-fedramp-authorized-production-56781) |
-| How do you ensure your SBOM generation and supply-chain attestation (SLSA/in-toto) actually satisfy FedRAMP's supply-chain risk-management controls rather than just checking a box? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-ensure-your-sbom-generation-and-supply-chain-attestation-sl-56757) |
-| How do you handle the org-design question of who owns compliance controls — platform, security, or product teams — to avoid gaps and duplicated ownership? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-org-design-question-of-who-owns-compliance-contr-56819) |
-| How do you handle the reality that FedRAMP's control baseline lags emerging tech (eBPF, WASM, confidential computing) that you want to adopt for security wins? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-reality-that-fedramp-s-control-baseline-lags-eme-56770) |
-| How would you architect boundary-aware CI/CD so that build artifacts destined for the FedRAMP environment are produced and signed inside an authorized pipeline? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-boundary-aware-ci-cd-so-that-build-artifacts-d-56821) |
-| How would you architect continuous control monitoring (ConMon) to replace the traditional annual FedRAMP assessment cadence with OSCAL-based automated evidence? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-continuous-control-monitoring-conmon-to-replac-56730) |
-| How would you architect cross-account/cross-project blast-radius containment so a single compromised CI credential can't reach the FedRAMP boundary? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-cross-account-cross-project-blast-radius-conta-56772) |
-| How would you argue the risk trade-off to leadership between pursuing FedRAMP High versus staying at Moderate for a new government line of business? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-argue-the-risk-trade-off-to-leadership-between-pursuing--56766) |
-| How would you counter an interviewer's claim that FedRAMP inherently makes you slower, using architecture patterns that decouple compliance from delivery velocity? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-counter-an-interviewer-s-claim-that-fedramp-inherently-m-56805) |
-| How would you evaluate whether to pursue the FedRAMP agency-sponsored path versus the JAB/PMO path, and how does that shape your architecture roadmap? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-whether-to-pursue-the-fedramp-agency-sponsored--56809) |
-| Walk me through governing self-service developer platforms (IDPs like Backstage) so golden paths are compliant-by-default and non-compliant patterns are simply unavailable. | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-governing-self-service-developer-platforms-idps-like-b-56763) |
-| Walk me through reconciling zero-trust architecture (NIST 800-207) with the perimeter-oriented boundary language auditors still expect in an SSP. | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-reconciling-zero-trust-architecture-nist-800-207-with--56776) |
-| What is the trade-off between using a FedRAMP-authorized PaaS abstraction versus building your own control implementations, and when does build-vs-buy flip? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-trade-off-between-using-a-fedramp-authorized-paas-abstract-56752) |
-| What's the trade-off between a single large FedRAMP boundary versus multiple smaller boundaries per product, in terms of audit cost, blast radius, and org agility? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-trade-off-between-a-single-large-fedramp-boundary-versus-mu-56784) |
-| What's the trade-off between using a fully managed FedRAMP-authorized k8s (EKS/GKE) versus self-managing, given control ownership and re-authorization overhead? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-trade-off-between-using-a-fully-managed-fedramp-authorized--56818) |
-| What's your architecture for provably scoping and controlling third-party/vendor network connections (interconnection agreements) into a FedRAMP boundary? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-architecture-for-provably-scoping-and-controlling-third-pa-56796) |
-| What's your position on FedRAMP 20x and its emphasis on Key Security Indicators over narrative documentation, and how would you re-architect a program to align? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-position-on-fedramp-20x-and-its-emphasis-on-key-security-i-56741) |
-| Why would you argue against treating FedRAMP as purely a compliance checkbox owned by a GRC team, and how do you embed it into the platform engineering org's DNA? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-would-you-argue-against-treating-fedramp-as-purely-a-compliance-ch-56746) |
-| You inherited a platform pursuing FedRAMP High but the third-party dependencies are only Moderate-authorized; how do you reconcile the inheritance chain? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherited-a-platform-pursuing-fedramp-high-but-the-third-party-dep-56738) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

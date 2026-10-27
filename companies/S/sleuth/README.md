@@ -1,23 +1,33 @@
 # Sleuth
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 7
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Sleuth:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Sleuth's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Sleuth: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 4 | 7 | 6 | 7 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 16 | 60 | 55 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A stakeholder proposes a scenario with a response measure of 'zero failed deploys, ever.' How do you convert that unrealistic absolute into a measurable change-failure-rate and rollback-time target the pipeline architecture can actually be evaluated against? | intermediate experience | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-proposes-a-scenario-with-a-response-measure-of-zero-fail-53243) |
-| During Phase 1 the platform's business owner presents 'developer productivity' as the top goal but cites a DORA dashboard the SRE lead calls misleading. How do you resolve a disputed baseline before you allow scenario elicitation to proceed? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=during-phase-1-the-platform-s-business-owner-presents-developer-produc-53231) |
-| How do you decide build-vs-buy for a deployment-safety / change-intelligence layer (buy a change-correlation tool that ties deploys to incidents vs build on your CD events + observability) when reducing change-induced incidents is the SRE north star? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-deployment-safety-change-intellig-53810) |
-| How would you build feature-flag change events into your DORA metrics so change-failure-rate and MTTR reflect flag flips, not just deploys? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-feature-flag-change-events-into-your-dora-metrics--47422) |
-| Explain how you'd instrument the developer-experience survey plus system telemetry so you can triangulate real pain instead of just asking. What questions actually predict productivity? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-instrument-the-developer-experience-survey-plus-syst-48212) |
-| How do you measure whether your platform is actually helping? Which DORA metrics would you instrument first for platform teams, and what's a metric that looks good but is gameable? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-measure-whether-your-platform-is-actually-helping-which-dor-48157) |
-| How would you build a feedback loop so platform pain surfaces before it becomes a Slack pile-on? Describe concrete mechanisms you'd instrument. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-feedback-loop-so-platform-pain-surfaces-before-i-48177) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

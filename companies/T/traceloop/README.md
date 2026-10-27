@@ -1,26 +1,33 @@
 # Traceloop
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 10
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Traceloop:** 10
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Traceloop's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Traceloop: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AI Engineer | 0 | 0 | 10 | 10 | 10 | 10 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 39 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AI Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe how you would trace and observe a multi-step agent so you can see which tool call or prompt caused a wrong final answer. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-trace-and-observe-a-multi-step-agent-so-you-can-79523) |
-| A slow response in your agent trace shows an 800ms span with no children. What are the likely causes for that unaccounted time in an LLM pipeline (provider network wait, tokenizer, missing instrumentation, JSON parsing) and how do you add instrumentation to attribute it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-slow-response-in-your-agent-trace-shows-an-800ms-span-with-no-childr-78873) |
-| Explain how you'd design tail-based sampling in the OTel Collector for LLM traces so you keep all errored generations, all traces over the TTFT SLO, all low-judge-score responses, and 1% of the rest. Why do async agent sub-spans complicate the decision buffer? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-tail-based-sampling-in-the-otel-collector-for-78837) |
-| Explain how you'd expose exemplars so an on-call can jump from a spike on your generation-latency histogram straight to the offending LLM trace in Grafana. What has to be wired end to end from your Python service through OTLP? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-expose-exemplars-so-an-on-call-can-jump-from-a-spike-78831) |
-| Explain how you'd measure and cap the overhead your tracing and per-request eval logging add to the LLM inference hot path. What's an acceptable budget in a streaming path, and what would you cut first if profiling says instrumentation is the bottleneck? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-measure-and-cap-the-overhead-your-tracing-and-per-re-78844) |
-| Explain how you'd wire spanmetrics (RED metrics generated from LLM traces) instead of hand-instrumenting per-stage metrics for embed/retrieve/rerank/generate. Where does cardinality explode with model and stage labels, and why might the numbers disagree with directly-emitted metrics? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-wire-spanmetrics-red-metrics-generated-from-llm-trac-78859) |
-| Large prompt/completion payloads on spans blow up your span size and Collector memory. Explain the trade-off between putting full prompts as span attributes, as span events, or offloading them to a separate log/blob store keyed by trace_id. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=large-prompt-completion-payloads-on-spans-blow-up-your-span-size-and-c-78877) |
-| Walk me through the OpenTelemetry GenAI semantic conventions for an LLM call. Which gen_ai.* attributes do you set, and why does putting the full prompt text into gen_ai.prompt as a span attribute get expensive and risky fast? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-the-opentelemetry-genai-semantic-conventions-for-an-ll-78803) |
-| You're standing up observability for a new agentic feature and must choose between OpenLLMetry/Traceloop auto-instrumentation and hand-written spans. When is the auto-instrumentation misleading or insufficient for multi-step agents, and where must you hand-write spans? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standing-up-observability-for-a-new-agentic-feature-and-must-ch-78867) |
-| Your OTel Collector gateway drops 4% of LLM spans under load while the app-side exporter reports success. Where does the loss actually happen for large prompt/completion spans, and which Collector metrics (queue size, refused, dropped) prove it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-otel-collector-gateway-drops-4-of-llm-spans-under-load-while-the--78876) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

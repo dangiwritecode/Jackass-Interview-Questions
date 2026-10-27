@@ -1,28 +1,33 @@
 # Zed
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 12
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Zed:** 12
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Zed's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Zed: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AI Engineer | 12 | 0 | 12 | 12 | 0 | 12 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 15 | 3 | 15 | 60 | 46 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AI Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How can prompt primitives in MCP help create reusable slash-command-style workflows in a host? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-can-prompt-primitives-in-mcp-help-create-reusable-slash-command-st-76075) |
-| How does a user typically add an MCP server to a host application like Claude Desktop? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-a-user-typically-add-an-mcp-server-to-a-host-application-like-76020) |
-| How does MCP support the idea of "bring your own tools" to any compatible AI application? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-mcp-support-the-idea-of-bring-your-own-tools-to-any-compatibl-76080) |
-| How would a GitHub MCP server typically help a coding assistant? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-a-github-mcp-server-typically-help-a-coding-assistant-76051) |
-| How would you test an MCP server locally before connecting it to a real host? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-test-an-mcp-server-locally-before-connecting-it-to-a-rea-76017) |
-| If you run an MCP server over stdio why should you avoid printing arbitrary text to stdout? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-you-run-an-mcp-server-over-stdio-why-should-you-avoid-printing-arbi-76072) |
-| In MCP terminology what is a "host" and can you give an example of one? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-mcp-terminology-what-is-a-host-and-can-you-give-an-example-of-one-75988) |
-| What are MCP "roots" and what problem do they help solve for filesystem-style servers? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-mcp-roots-and-what-problem-do-they-help-solve-for-filesystem--76040) |
-| What goes into an MCP server configuration entry (command args env) in a host config file? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-goes-into-an-mcp-server-configuration-entry-command-args-env-in-a-76021) |
-| What is the MCP Inspector and when would a beginner reach for it? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-mcp-inspector-and-when-would-a-beginner-reach-for-it-76018) |
-| When would you use the stdio transport versus an HTTP-based transport in MCP? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-use-the-stdio-transport-versus-an-http-based-transport--75995) |
-| Which popular AI applications or IDEs support connecting to MCP servers as of 2025-2026? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=which-popular-ai-applications-or-ides-support-connecting-to-mcp-server-76019) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

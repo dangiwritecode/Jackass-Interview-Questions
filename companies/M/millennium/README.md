@@ -1,30 +1,33 @@
 # Millennium
 
-**Tier:** Tier 1  |  **Business domain:** Fintech  |  **Questions:** 8
+**Tier:** Tier 1  |  **Business domain:** Fintech  |  **Questions listed:** 540  |  **Tagged directly to Millennium:** 8
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Millennium's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Millennium: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 1 | 1 | 0 | 1 |
-| Data Structures & Algorithms (all profiles) | 7 | 7 | 7 | 7 | 7 | 7 |
+| Backend | 3 | 3 | 20 | 59 | 58 | 60 |
+| Fullstack | 19 | 19 | 46 | 55 | 22 | 60 |
+| DevOps | 28 | 20 | 28 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 14 | 60 | 52 | 60 |
+| Data Engineer | 13 | 5 | 42 | 58 | 25 | 60 |
+| Database Developer | 11 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 1 | 60 | 59 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you use XGBoost feature interactions (interaction constraints) to encode domain knowledge, and how do you validate they helped? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-xgboost-feature-interactions-interaction-constraints-65938) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Counting Palindromic Substrings | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Expand Around Center, Palindrome, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-palindromic-substrings-d632) |
-| Fast Exponentiation of a Real Base | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bit Manipulation, Divide and Conquer, Math, Recursion | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fast-exponentiation-of-a-real-base-d50) |
-| Fewest Steps to Transform a Display Value | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bit Manipulation, Greedy, Math, Simulation | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-steps-to-transform-a-display-value-d976) |
-| Maximum Gain from a Single Buy and Later Sell | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Prefix Minimum, Single Pass | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-gain-from-a-single-buy-and-later-sell-d121) |
-| Smallest Divisor Keeping a Rounded-Up Sum Within a Limit | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Monotonic Predicate, Search Space Reduction | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-divisor-keeping-a-rounded-up-sum-within-a-limit-d1241) |
-| Split Items Into Two Equal Groups With Minimum Total Difference | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Bitmask Subset Enumeration, Dynamic Programming (subset-sum flavor), Meet in the Middle, Sorting, Subset Sums | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=split-items-into-two-equal-groups-with-minimum-total-difference-d1923) |
-| Validate a String of Nested Brackets | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Map, Stack, String | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=validate-a-string-of-nested-brackets-d20) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

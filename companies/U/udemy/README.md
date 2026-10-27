@@ -1,35 +1,33 @@
 # Udemy
 
-**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 7
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Udemy:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Udemy's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Udemy: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 2 | 2 | 2 | 2 |
-| Fullstack | 1 | 1 | 3 | 4 | 4 | 4 |
-| Database Developer | 0 | 1 | 1 | 0 | 0 | 1 |
+| Backend | 4 | 4 | 21 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 56 | 25 | 60 |
+| DevOps | 29 | 21 | 30 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 22 | 23 | 46 | 38 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An engineer proposes app.use(cors()) with no options to 'unblock the frontend.' As reviewer, explain the exact production risk, then specify the minimal correct config for a credentialed multi-origin setup. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-engineer-proposes-app-use-cors-with-no-options-to-unblock-the-front-19183) |
-| You must expose a public search endpoint. Threat-model it end to end: SQLi in the query, reflected XSS in results, CORS exposure of the JSON, and abuse/rate concerns. Present mitigations prioritized by risk. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-expose-a-public-search-endpoint-threat-model-it-end-to-end-sq-19199) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you serve authenticated private content through CloudFront using signed URLs or signed cookies? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-serve-authenticated-private-content-through-cloudfront-u-14623) |
-| Design an EdTech live-class platform delivering interactive classes to 100K concurrent students with video quizzes and doubt-solving — how do you architect the low-latency AV interactivity and recording so a class survives a regional network blip? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-edtech-live-class-platform-delivering-interactive-classes-to-39495) |
-| An engineer proposes app.use(cors()) with no options to 'unblock the frontend.' As reviewer, explain the exact production risk, then specify the minimal correct config for a credentialed multi-origin setup. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-engineer-proposes-app-use-cors-with-no-options-to-unblock-the-front-19183) |
-| You must expose a public search endpoint. Threat-model it end to end: SQLi in the query, reflected XSS in results, CORS exposure of the JSON, and abuse/rate concerns. Present mitigations prioritized by risk. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-expose-a-public-search-endpoint-threat-model-it-end-to-end-sq-19199) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe how you'd model a course-prerequisite graph and detect/prevent cycles at the schema or query level. | deep understanding | SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-model-a-course-prerequisite-graph-and-detect-preven-109524) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

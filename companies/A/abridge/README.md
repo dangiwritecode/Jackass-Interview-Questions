@@ -1,25 +1,33 @@
 # Abridge
 
-**Tier:** Tier 4  |  **Business domain:** AI  |  **Questions:** 3
+**Tier:** Tier 4  |  **Business domain:** AI  |  **Questions listed:** 540  |  **Tagged directly to Abridge:** 3
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Abridge's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Abridge: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
+| Backend | 11 | 11 | 48 | 60 | 26 | 60 |
+| Fullstack | 9 | 9 | 38 | 59 | 24 | 60 |
+| DevOps | 0 | 0 | 2 | 60 | 60 | 60 |
+| AIOps | 0 | 0 | 15 | 60 | 60 | 60 |
+| Data Engineer | 4 | 0 | 38 | 60 | 22 | 60 |
+| Database Developer | 4 | 5 | 6 | 56 | 55 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 4 | 3 | 8 | 60 | 56 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you evaluate and bound the risk of hallucination in an LLM used for medical or legal summarization, and what's your acceptance threshold? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-and-bound-the-risk-of-hallucination-in-an-llm-u-71826) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design the boundary between what the LLM plans/reasons and what a deterministic policy engine controls for high-value flows (payments, medical, legal), so the model has agency but hard invariants are enforced outside it. Where exactly does that seam sit? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-boundary-between-what-the-llm-plans-reasons-and-what-a-dete-83084) |
-| How do you decide when to abstain-by-design — building models that refuse whole categories of query — vs. answering with heavy caveats, and how do you govern that policy centrally? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-to-abstain-by-design-building-models-that-refus-86075) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

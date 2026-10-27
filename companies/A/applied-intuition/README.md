@@ -1,26 +1,33 @@
 # Applied Intuition
 
-**Tier:** Tier 2  |  **Business domain:** Autonomous  |  **Questions:** 10
+**Tier:** Tier 2  |  **Business domain:** Autonomous  |  **Questions listed:** 540  |  **Tagged directly to Applied Intuition:** 10
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Applied Intuition's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Applied Intuition: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 10 | 10 | 10 | 10 | 10 | 10 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 8 | 60 | 55 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 20 | 21 | 52 | 44 | 60 |
+| ML Engineer | 0 | 0 | 36 | 60 | 27 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Best Empty Plot to Serve Every House | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Graph, Grid Traversal, Matrix, Multi-source BFS | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=best-empty-plot-to-serve-every-house-d317) |
-| Counting Hidden Targets in a Region with a Presence Scanner | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Divide and Conquer, Geometry, Interactive, Quadtree, Recursion | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-hidden-targets-in-a-region-with-a-presence-scanner-d1233) |
-| Design a Fixed-Capacity Ring Buffer | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Circular Buffer, Design, Modular Arithmetic, Queue, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-fixed-capacity-ring-buffer-d607) |
-| Fewest Cells on an Open Path Across a Square Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Graph Traversal, Matrix, Shortest Path | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-cells-on-an-open-path-across-a-square-grid-d1071) |
-| First and Last Occurrence in a Sorted Array | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=first-and-last-occurrence-in-a-sorted-array-d34) |
-| Group Files With Identical Contents | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Grouping, Hash Table, String, String Parsing | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=group-files-with-identical-contents-d599) |
-| Minimal Unique Label Abbreviations | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Hashing, Simulation, Sorting, String, Trie | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimal-unique-label-abbreviations-d526) |
-| Minimum Total Manhattan Distance to a Rendezvous Cell | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Math, Matrix, Median, Sorting, Two Pointers | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-total-manhattan-distance-to-a-rendezvous-cell-d296) |
-| Reveal a Cell on a Hidden Minefield Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Flood Fill, Matrix, Recursion | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reveal-a-cell-on-a-hidden-minefield-grid-d528) |
-| Simultaneous Cellular Automaton Step on a Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bit Manipulation, In-place Update, Matrix, Simulation | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=simultaneous-cellular-automaton-step-on-a-grid-d289) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,46 +1,33 @@
 # Bridgecrew
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 18
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Bridgecrew:** 18
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Bridgecrew's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Bridgecrew: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 1 | 2 | 2 | 2 |
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 8 | 15 | 15 | 15 |
+| Backend | 10 | 10 | 45 | 60 | 33 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 1 | 1 | 14 | 60 | 57 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design an authorization policy test harness that generates adversarial requests (wrong tenant, missing scope, tampered id) and asserts every one is denied, integrated into CI as a gate. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-authorization-policy-test-harness-that-generates-adversarial-26166) |
-| How do you architect cost guardrails as policy-as-code (OPA/SCP/Azure Policy) so that expensive resource types, untagged resources, and out-of-region deployments are blocked or flagged automatically? Where do you set hard-deny versus soft-warn? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-cost-guardrails-as-policy-as-code-opa-scp-azure-p-37051) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a 'shift-left' cost-and-security policy gate in the IaC pipeline (using Config, cfn-guard, or OPA) so violations are caught at PR time — and how do you avoid the gate becoming so noisy teams route around it? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-shift-left-cost-and-security-policy-gate-in-the-39243) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect a shift-left policy-as-code gate (Config, cfn-guard, OPA/Conftest) in the IaC pipeline so cost and security violations are caught at PR time — and keep the gate from becoming so noisy that teams route around it? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-shift-left-policy-as-code-gate-config-cfn-gu-52395) |
-| How do you embed continuity checks into the deployment pipeline so that a change which breaks failover (e.g., a single-AZ resource) is caught before it reaches production? | deep understanding | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-embed-continuity-checks-into-the-deployment-pipeline-so-tha-56990) |
-| How do you configure your CI pipeline to fail a build when a Terraform plan would create an unencrypted RDS instance or a public S3 bucket — which tool would you reach for and where does it sit in the pipeline? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-configure-your-ci-pipeline-to-fail-a-build-when-a-terraform-47929) |
-| How do you scan Terraform state and running infra for PII or secrets accidentally stored in it, and why is Terraform state a compliance blind spot teams forget about? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-scan-terraform-state-and-running-infra-for-pii-or-secrets-a-47980) |
-| An S3 bucket got exposed publicly through a Terraform change that passed review — how do you make that class of mistake impossible in the pipeline going forward? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-s3-bucket-got-exposed-publicly-through-a-terraform-change-that-pass-50650) |
-| Describe how you'd detect drift between your desired security policy (IaC) and the actual live cloud state. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-detect-drift-between-your-desired-security-policy-i-50688) |
-| Explain how you'd approach securing infrastructure as code reviews — what do you look for that a linter can't catch? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-approach-securing-infrastructure-as-code-reviews-wha-50719) |
-| How do you implement policy-as-code for infrastructure, and what policies have you actually enforced in a Terraform pipeline? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-implement-policy-as-code-for-infrastructure-and-what-polici-50647) |
-| How do you scan Terraform/IaC for misconfigurations before apply, and give an example of a misconfig your scan caught that would've been a real breach. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-scan-terraform-iac-for-misconfigurations-before-apply-and-g-50649) |
-| You're deciding whether to adopt Terraform run tasks (pre-plan / post-plan webhooks) for policy and cost checks versus baking them into CI steps. As principal, weigh the coupling to a specific run environment (TFC/TFE) against the portability of CI-native checks, and where run tasks give you an enforcement guarantee CI can't. | deep understanding | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-adopt-terraform-run-tasks-pre-plan-post-pla-53049) |
-| How do you approach organization-wide policy-as-code (OPA/Conftest, Sentinel, Checkov) layered on top of native guardrails? Where does each layer catch what? | expertise | SDE-2/3, Architect/Principal | Landing Zones & Cloud Foundations | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-organization-wide-policy-as-code-opa-conftest-sent-56082) |
-| How would you design a compliance test-harness in CI that fails a build when a Terraform plan would introduce a non-compliant resource before it's ever applied? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-compliance-test-harness-in-ci-that-fails-a-buil-56817) |
-| Explain how you'd enforce that infrastructure changes go through policy checks (OPA/Conftest, Checkov) at plan time so a Terraform change can't silently open a public S3 bucket or a 0.0.0.0/0 security group before it's applied. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-enforce-that-infrastructure-changes-go-through-polic-47925) |
-| Walk me through how you'd architect the trust and verification model for your infrastructure-as-code supply chain so a malicious or mistaken Terraform/module change cannot open a hole in zero-trust posture before it is applied, at plan time and across 200 repos. | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-architect-the-trust-and-verification-model-f-53963) |
-| Static Kubernetes/IaC scanners give you a 'security posture' score and 12,000 flagged findings across the fleet. Why is that number nearly useless for prioritization, and what would you replace it with to drive real platform-debt decisions? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=static-kubernetes-iac-scanners-give-you-a-security-posture-score-and-1-54409) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

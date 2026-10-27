@@ -1,59 +1,33 @@
 # Moj
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 25
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Moj:** 20
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Moj's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Moj: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 15 | 15 | 9 | 15 |
-| Fullstack | 1 | 1 | 6 | 7 | 6 | 7 |
-| Data Engineer | 1 | 0 | 1 | 1 | 0 | 1 |
-| ML Engineer | 0 | 0 | 1 | 2 | 1 | 2 |
+| Backend | 5 | 5 | 48 | 60 | 37 | 60 |
+| Fullstack | 7 | 7 | 51 | 60 | 25 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 4 | 0 | 21 | 59 | 47 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 11 | 59 | 53 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how causal consistency lets a comment thread stay available and correctly ordered under partition, and what metadata (dependencies/versions) you must ship with each write to enforce it. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-causal-consistency-lets-a-comment-thread-stay-available-an-25678) |
-| How would you design a "last seen" / presence service for a chat app that must be highly available under partition but can tolerate being a few seconds stale — and why is CRDT-based state ideal here? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-last-seen-presence-service-for-a-chat-app-that--25701) |
-| Your product wants a "likes" counter that never shows a decreasing number to a returning user even under eventual consistency. Which client-affinity and CRDT choices make that guarantee, and where does it still break? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-product-wants-a-likes-counter-that-never-shows-a-decreasing-numbe-25660) |
-| A fan-out-on-write feed system explodes for celebrity accounts; explain the hybrid push/pull design and the data structures that decide, per follower, whether to precompute or fetch at read time. | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-fan-out-on-write-feed-system-explodes-for-celebrity-accounts-explain-21962) |
-| Design a de-duplicating 'top trending hashtags' over a firehose with limited memory; what guarantees do Count-Min Sketch and Space-Saving give, and how do you bound overcounting for cold items? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-de-duplicating-top-trending-hashtags-over-a-firehose-with-lim-22008) |
-| Design a graph/relationship service (who-follows-whom social graph) in a wide-column store supporting both forward and reverse edge queries at billions of edges — how do you model edges and avoid supernode hotspots? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-graph-relationship-service-who-follows-whom-social-graph-in-a-28423) |
-| Design a top-K/trending computation service (trending hashtags in the last hour) over a firehose — compare count-min-sketch plus a heap vs windowed exact counting on memory accuracy and freshness. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-top-k-trending-computation-service-trending-hashtags-in-the-l-28411) |
-| A "like" button double-fires from a slow client and creates two rows — how do you design the endpoint and unique constraint so the second call is a safe no-op? | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-like-button-double-fires-from-a-slow-client-and-creates-two-rows-how-24412) |
-| How would you design a fan-out-on-write vs fan-out-on-read feed backed by MySQL, and what data model decisions change if a user has millions of followers? | deep understanding | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-fan-out-on-write-vs-fan-out-on-read-feed-backed-24361) |
-| How would you design a schema and query pattern to compute and serve "trending" items over a rolling 24-hour window that updates every few minutes? | deep understanding | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-schema-and-query-pattern-to-compute-and-serve-t-24353) |
-| How would you design a schema and query to support "suggested friends" (friends-of-friends with mutual counts) in MySQL, and when does it become infeasible? | deep understanding | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-schema-and-query-to-support-suggested-friends-f-24421) |
-| Design a simple video streaming setup for short user-recorded clips. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-simple-video-streaming-setup-for-short-user-recorded-clips-8907) |
-| Design a trending/hot-items ranking over a sliding time window that decays old activity. Compare a time-bucketed counter approach vs an exponential decay score — which scales and why? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-trending-hot-items-ranking-over-a-sliding-time-window-that-de-16379) |
-| Design storage and query for a follower graph (who-follows-whom) that must answer 'is A following B', 'A's followers', and mutual-follows fast at 500M edges. Relational, wide-column, or graph DB? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-storage-and-query-for-a-follower-graph-who-follows-whom-that-mu-16390) |
-| Your service does fan-out-on-write for a feed, but a celebrity with 40M followers now stalls the write path for everyone. How would you evolve to a hybrid push-pull model, and what's the read-time cost? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-service-does-fan-out-on-write-for-a-feed-but-a-celebrity-with-40m-16317) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A "like" button double-fires from a slow client and creates two rows — how do you design the endpoint and unique constraint so the second call is a safe no-op? | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-like-button-double-fires-from-a-slow-client-and-creates-two-rows-how-24412) |
-| Design a simple video streaming setup for short user-recorded clips. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-simple-video-streaming-setup-for-short-user-recorded-clips-8907) |
-| Design a trending/hot-items ranking over a sliding time window that decays old activity. Compare a time-bucketed counter approach vs an exponential decay score — which scales and why? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-trending-hot-items-ranking-over-a-sliding-time-window-that-de-16379) |
-| Design an infinite-scroll feed that stays smooth on a low-end Android phone: virtualization, image loading, prefetch, and memory. How do you avoid jank and unbounded memory growth? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-infinite-scroll-feed-that-stays-smooth-on-a-low-end-android--16327) |
-| Design storage and query for a follower graph (who-follows-whom) that must answer 'is A following B', 'A's followers', and mutual-follows fast at 500M edges. Relational, wide-column, or graph DB? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-storage-and-query-for-a-follower-graph-who-follows-whom-that-mu-16390) |
-| Your service does fan-out-on-write for a feed, but a celebrity with 40M followers now stalls the write path for everyone. How would you evolve to a hybrid push-pull model, and what's the read-time cost? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-service-does-fan-out-on-write-for-a-feed-but-a-celebrity-with-40m-16317) |
-| Architect how a global feed product avoids DOM/memory/listener accumulation over multi-hour sessions on low-end devices, and explain the platform-level abstraction that stops every feed team from re-inventing virtualization badly. | expertise | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-how-a-global-feed-product-avoids-dom-memory-listener-accumul-40259) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| If your task is to build a 'weekly signups' report, which system do you pull from and why? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-your-task-is-to-build-a-weekly-signups-report-which-system-do-you-p-118798) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design a shadow-deployment for a new XGBoost ranking model to measure real traffic behavior before switching over? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-shadow-deployment-for-a-new-xgboost-ranking-mod-65899) |
-| Walk me through how you'd design capacity headroom and burst policy so a viral product moment doesn't trigger cascading KV-cache preemption and a latency meltdown. | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-design-capacity-headroom-and-burst-policy-so-71237) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

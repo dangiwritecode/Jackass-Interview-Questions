@@ -1,25 +1,33 @@
 # General Motors
 
-**Tier:** Tier 3  |  **Business domain:** Automotive  |  **Questions:** 9
+**Tier:** Tier 3  |  **Business domain:** Automotive  |  **Questions listed:** 540  |  **Tagged directly to General Motors:** 9
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. General Motors's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches General Motors: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 9 | 9 | 9 | 9 | 9 | 9 |
+| Backend | 5 | 5 | 43 | 59 | 53 | 60 |
+| Fullstack | 17 | 17 | 48 | 56 | 24 | 60 |
+| DevOps | 27 | 19 | 30 | 58 | 44 | 60 |
+| AIOps | 2 | 1 | 18 | 60 | 47 | 60 |
+| Data Engineer | 11 | 3 | 39 | 59 | 28 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 11 | 60 | 49 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Cheapest Right-Down Path Through a Weighted Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Grid Traversal, Matrix, Shortest Path | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cheapest-right-down-path-through-a-weighted-grid-d64) |
-| Compact Storage and Dot Product of Mostly-Zero Vectors | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Design, Hash Table, Sparse Representation, Two Pointers | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compact-storage-and-dot-product-of-mostly-zero-vectors-d1499) |
-| Counting Separate Clusters in a Device Network | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Connected Components, Depth-First Search, Disjoint Set Union, Graph, Union Find | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-separate-clusters-in-a-device-network-d323) |
-| Design a Prefix Dictionary for Words and Prefixes | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design, Hash Table, Prefix Tree, String, Tree, Trie | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-prefix-dictionary-for-words-and-prefixes-d208) |
-| Encode a Binary Tree to a String and Rebuild It | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Breadth-First Search, Depth-First Search, Design, Recursion, Serialization, String, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=encode-a-binary-tree-to-a-string-and-rebuild-it-d297) |
-| Identify the Hidden Codeword with Limited Probes | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Adversarial Search, Array, Game Theory, Greedy Heuristics, Hashing, Interactive, Minimax, String | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=identify-the-hidden-codeword-with-limited-probes-d828) |
-| Operations to Collapse a Binary Number Down to One | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bit Manipulation, Greedy, Math, Simulation, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=operations-to-collapse-a-binary-number-down-to-one-d1350) |
-| Three Non-Overlapping Blocks of Maximum Combined Sum | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Prefix Sum, Sliding Window | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=three-non-overlapping-blocks-of-maximum-combined-sum-d674) |
-| Widest Empty Vertical Strip Between Markers | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Max Gap, Sorting | Online Assessment (OA), Phone Screen | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=widest-empty-vertical-strip-between-markers-d1560) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

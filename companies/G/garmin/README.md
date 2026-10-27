@@ -1,35 +1,33 @@
 # Garmin
 
-**Tier:** Tier 3  |  **Business domain:** GPS/Hardware  |  **Questions:** 7
+**Tier:** Tier 3  |  **Business domain:** Hardware / GPS  |  **Questions listed:** 540  |  **Tagged directly to Garmin:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Garmin's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Garmin: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 2 | 2 | 0 | 2 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Structures & Algorithms (all profiles) | 4 | 4 | 4 | 4 | 4 | 4 |
+| Backend | 12 | 12 | 41 | 53 | 49 | 60 |
+| Fullstack | 24 | 24 | 46 | 50 | 21 | 60 |
+| DevOps | 45 | 0 | 47 | 60 | 15 | 60 |
+| AIOps | 2 | 1 | 21 | 60 | 46 | 60 |
+| Data Engineer | 11 | 3 | 38 | 59 | 29 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 9 | 60 | 51 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain the difference between dynamic-range, full-integer, and float16 TFLite quantization and when each is the right call for an edge deployment. | deep understanding | SDE-1/2, SDE-2/3 | TensorFlow | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-dynamic-range-full-integer-and-float16--65581) |
-| Your TFLite model runs 3x slower than expected on-device. How do you use the TFLite benchmark tool and delegate options (GPU/NNAPI/XNNPACK) to diagnose? | deep understanding | SDE-1/2, SDE-2/3 | TensorFlow | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-tflite-model-runs-3x-slower-than-expected-on-device-how-do-you-us-65636) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you design on-device plus cloud hybrid inference so the same capability degrades gracefully with device and connectivity under a single logical contract? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-on-device-plus-cloud-hybrid-inference-so-the-same-ca-84388) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Cheapest Way to Take Every Item Under a Buy-Two-Get-One-Free Offer | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Sorting | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cheapest-way-to-take-every-item-under-a-buy-two-get-one-free-offer-d2023) |
-| Check Whether an Integer Reads the Same Forwards and Backwards | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Integer Manipulation, Math, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=check-whether-an-integer-reads-the-same-forwards-and-backwards-d9) |
-| Count the Columns of a Character Grid That Are Not Top-to-Bottom Sorted | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Matrix/Grid Traversal, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-the-columns-of-a-character-grid-that-are-not-top-to-bottom-sorte-d929) |
-| Maximum Gain from a Single Buy and Later Sell | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Prefix Minimum, Single Pass | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-gain-from-a-single-buy-and-later-sell-d121) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

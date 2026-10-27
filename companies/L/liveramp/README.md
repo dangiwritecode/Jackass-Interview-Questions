@@ -1,89 +1,33 @@
 # LiveRamp
 
-**Tier:** Tier 3  |  **Business domain:** SaaS/Data  |  **Questions:** 37
+**Tier:** Tier 3  |  **Business domain:** Data / SaaS  |  **Questions listed:** 540  |  **Tagged directly to LiveRamp:** 37
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. LiveRamp's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches LiveRamp: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 0 | 17 | 17 | 17 |
-| Database Developer | 0 | 0 | 0 | 3 | 3 | 3 |
-| ML Engineer | 0 | 0 | 0 | 6 | 6 | 6 |
-| AI Engineer | 0 | 0 | 0 | 4 | 4 | 4 |
-| Data Structures & Algorithms (all profiles) | 5 | 5 | 5 | 5 | 5 | 5 |
+| Backend | 1 | 1 | 15 | 60 | 59 | 60 |
+| Fullstack | 5 | 5 | 40 | 60 | 20 | 60 |
+| DevOps | 1 | 0 | 8 | 60 | 58 | 60 |
+| AIOps | 0 | 0 | 18 | 60 | 49 | 60 |
+| Data Engineer | 7 | 2 | 30 | 60 | 33 | 60 |
+| Database Developer | 3 | 28 | 29 | 33 | 31 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 1 | 1 | 2 | 60 | 59 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect deduplication and identity resolution (stitching a user across devices/sources) as a shared concern in a mesh, so every domain doesn't reinvent it inconsistently? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-deduplication-and-identity-resolution-stitching-a-36596) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must architect governance for cross-account and cross-org resource sharing (AWS RAM shared VPCs marketplace data products) — how do you keep a shared resource from silently pulling a partner org's data into your compliance scope or vice versa? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-governance-for-cross-account-and-cross-org-resource-54083) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you plan capacity for a data platform whose demand is driven by external partners or API consumers you don't control — they run heavy queries against shared data products? Model the uncertainty and design cost-recovery so a noisy partner doesn't silently erode margin. | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-for-a-data-platform-whose-demand-is-driven-by-125411) |
-| Design governance for cross-account and cross-org data sharing (Snowflake data shares Delta Sharing AWS Lake Formation cross-account grants) so a shared dataset can't silently pull a partner org's data into your compliance scope or leak yours into theirs. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-for-cross-account-and-cross-org-data-sharing-snowfla-126105) |
-| How do you architect governance over third-party data sharing and clean rooms — as data leaves your platform to partners or ad-networks how do you enforce and prove consent purpose-limitation and exactly what was shared with whom under what lawful basis? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-over-third-party-data-sharing-and-clea-126062) |
-| You want to run a privacy-sensitive join between two parties' datasets (a bank and a merchant) inside a data clean room so neither sees the other's raw rows. Walk through how you'd architect and PROVE to both parties' auditors that no raw PII crossed the boundary — what does the clean-room's query-restriction differencing-attack protection and audit trail look like? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-run-a-privacy-sensitive-join-between-two-parties-datasets--126111) |
-| How do you architect and govern access for an internal 'data clean room' where two parties compute joint analytics without either seeing the other's raw records? What's the enforcement boundary? | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-and-govern-access-for-an-internal-data-clean-room-126679) |
-| How do you handle governance when data physically lives in a partner's environment (data-sharing-in-place) — you set the policy but they run the compute. Where does trust break down? | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-governance-when-data-physically-lives-in-a-partner-s-126687) |
-| Interviewer probe: 'You have privacy-preserving matching requirements across two companies that legally cannot share raw PII.' How would you resolve entities without exposing the underlying data? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-probe-you-have-privacy-preserving-matching-requirements-ac-127764) |
-| Design cross-cloud data sharing with a partner org where neither side trusts the other's cloud — how do you use clean rooms / Delta Sharing to expose only aggregates? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-cross-cloud-data-sharing-with-a-partner-org-where-neither-side--127290) |
-| CCPA gives consumers a right to opt out of the sale or sharing of personal information; how do you engineer that opt-out to actually gate data leaving your platform to third-party adtech partners? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=ccpa-gives-consumers-a-right-to-opt-out-of-the-sale-or-sharing-of-pers-127320) |
-| CCPA's definition of personal information is broader than PII including household and device data; how does that broader scope change your classification model and tagging taxonomy? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=ccpa-s-definition-of-personal-information-is-broader-than-pii-includin-127350) |
-| How do you architect for cross-device and probabilistic identity matching in a way you can actually defend to a regulator on accuracy and consent? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-for-cross-device-and-probabilistic-identity-match-127376) |
-| How would you deal with a data broker or enrichment source that later turns out to have had no valid consent — how do you quarantine and remediate everything derived from it? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-deal-with-a-data-broker-or-enrichment-source-that-later--127378) |
-| How would you design a privacy-preserving analytics environment using confidential computing or clean rooms so partners can join data without either side seeing raw PII? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-privacy-preserving-analytics-environment-using--127372) |
-| How would you design so an erasure request is honored even for data that has been exported to a partner's environment through a data-sharing feature like Snowflake shares or Delta Sharing? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-so-an-erasure-request-is-honored-even-for-data-th-127406) |
-| How would you handle Global Privacy Control and browser-signal opt-outs so they flow from the edge all the way into your analytics and adtech data flows automatically? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-global-privacy-control-and-browser-signal-opt-out-127374) |
-| How would you propagate deletion and consent changes to sub-processors and third parties who received data exports so the erasure is genuinely end-to-end? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-propagate-deletion-and-consent-changes-to-sub-processors-127346) |
-| Your CDP unifies identities across sources; how do you make sure identity resolution itself doesn't create new personal data that lacks a lawful basis? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-cdp-unifies-identities-across-sources-how-do-you-make-sure-identi-127375) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you'd design a compliant analytics access path that lets data scientists join across encrypted PII columns from two systems without either system exposing raw values. | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-compliant-analytics-access-path-that-lets-d-115340) |
-| How do you architect a data-sharing arrangement with a partner (clean room) so both parties compute on PII without either seeing the other's raw data — GDPR/HIPAA constraints and the crypto used? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-sharing-arrangement-with-a-partner-clean-r-115297) |
-| How would you architect a data clean room so two companies can jointly analyze overlapping customers without either seeing the other's raw rows? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-data-clean-room-so-two-companies-can-jointly-114077) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance for cross-org data collaboration in ML — data clean rooms and secure multi-party computation so partners jointly train a model without either exposing raw PII to the other — and prove to regulators no side saw the other's data? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-cross-org-data-collaboration-in-ml-69998) |
-| How do you evaluate whether a 'privacy-preserving' feature (e.g. hashed emails as join keys) is actually pseudonymous vs still legally personal data? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-a-privacy-preserving-feature-e-g-hashed-em-72633) |
-| How do you handle the case where anonymized data is later re-linked via a new external dataset (mosaic effect)? What controls make your anonymization durable? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-case-where-anonymized-data-is-later-re-linked-vi-72616) |
-| How do you validate that a data-sharing agreement with a partner (clean room) technically prevents them from exfiltrating individual-level data via query abuse? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-a-data-sharing-agreement-with-a-partner-clean-72646) |
-| How would you architect a privacy-preserving identity resolution / entity matching system when you must join across sources without exposing raw identifiers? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-privacy-preserving-identity-resolution-entit-72619) |
-| How would you design cross-border training when a partner in the EU cannot export raw data — clean rooms, secure enclaves, or federated? Compare the trade-offs. | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-cross-border-training-when-a-partner-in-the-eu-ca-72594) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect a privacy-preserving lookalike-audience system so advertisers get useful targeting without you exposing or exporting individual user attributes? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-privacy-preserving-lookalike-audience-system-87250) |
-| How would you architect PII controls for a data-clean-room join with a retail partner so neither side learns the other's non-overlapping customers? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-pii-controls-for-a-data-clean-room-join-with-a-87264) |
-| How would you handle privacy for cross-device identity graphs used in ML — where linking devices to a person is exactly the capability regulators scrutinize? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-privacy-for-cross-device-identity-graphs-used-in--87302) |
-| How would you architect an identity-resolution and entity-dedup layer feeding many downstream models without becoming a single point of failure or inconsistency? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-identity-resolution-and-entity-dedup-layer--84396) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Can Every Build Task Be Completed With Dependencies | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Cycle Detection, Depth-First Search, Graph, In-degree / Kahn's Algorithm, Topological Sort | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-every-build-task-be-completed-with-dependencies-d207) |
-| Latest 24-Hour Clock Time from Four Given Digits | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Brute Force, Enumeration, Permutations, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=latest-24-hour-clock-time-from-four-given-digits-d934) |
-| Longest Run of Two Adjacent Values | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Hash Table, Sliding Window, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-run-of-two-adjacent-values-d586) |
-| Maximum Distinct Kinds When Keeping Half | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Hash Table, Set | Online Assessment (OA), Phone Screen | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-distinct-kinds-when-keeping-half-d570) |
-| Shortest Window to Sort for a Fully Ordered Array | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Monotonic Stack, Prefix Maximum, Sorting, Suffix Minimum, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-window-to-sort-for-a-fully-ordered-array-d573) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

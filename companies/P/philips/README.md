@@ -1,92 +1,33 @@
 # Philips
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 40
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Philips:** 38
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Philips's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Philips: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 2 | 4 | 4 | 4 |
-| Fullstack | 1 | 1 | 2 | 3 | 3 | 3 |
-| DevOps | 0 | 0 | 0 | 2 | 2 | 2 |
-| Data Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| Database Developer | 0 | 0 | 0 | 2 | 2 | 2 |
-| ML Engineer | 0 | 0 | 5 | 20 | 15 | 20 |
-| AI Engineer | 0 | 0 | 0 | 8 | 8 | 8 |
+| Backend | 5 | 5 | 43 | 59 | 57 | 60 |
+| Fullstack | 18 | 18 | 50 | 56 | 23 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 39 | 59 | 28 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 5 | 60 | 55 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're asked to choose the consistency boundary for a healthcare workflow (order lab, run test, publish result, bill) where a wrong result is a patient-safety issue. Where is strong consistency non-negotiable, where is a saga acceptable, and how do you defend that to regulators? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-choose-the-consistency-boundary-for-a-healthcare-workf-34185) |
-| Design a Command-pattern based remote control for smart-home devices. How do you support macros of commands? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-command-pattern-based-remote-control-for-smart-home-devices-h-9038) |
-| How would you design a smart-home command system that supports macros, scheduling, and undo of a macro; the interviewer asks what happens if one command in the macro fails midway—atomicity or best-effort? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-smart-home-command-system-that-supports-macros--16492) |
-| Design an event-driven architecture for a healthcare platform where HL7/FHIR clinical events carry PHI, must be auditable, and where a dropped or reordered event can be a patient-safety issue. What guarantees are non-negotiable and how does that constrain your broker choice? | expertise | SDE-2/3, Architect/Principal | Message Queues & Event-Driven Architecture | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-event-driven-architecture-for-a-healthcare-platform-where-hl-32663) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a Command-pattern based remote control for smart-home devices. How do you support macros of commands? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-command-pattern-based-remote-control-for-smart-home-devices-h-9038) |
-| How would you design a smart-home command system that supports macros, scheduling, and undo of a macro; the interviewer asks what happens if one command in the macro fails midway—atomicity or best-effort? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-smart-home-command-system-that-supports-macros--16492) |
-| How do you migrate a monolith serving a healthcare/regulated workload where every cutover needs a validated change-control artifact — how does that reshape your slice cadence? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-migrate-a-monolith-serving-a-healthcare-regulated-workload--40950) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design compliance for edge/IoT medical-device telemetry that must feed a HIPAA cloud without turning every device into a boundary component? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-compliance-for-edge-iot-medical-device-telemetry--56813) |
-| You're being audited under EU CRA and NIST SSDF simultaneously — how do you design one supply chain evidence system that satisfies both frameworks without duplicating attestation pipelines? | expertise | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-being-audited-under-eu-cra-and-nist-ssdf-simultaneously-how-do--55431) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What is the difference between pseudonymization and anonymization under GDPR and why does that distinction change whether the data still falls in scope for your governance controls? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-pseudonymization-and-anonymization-unde-127326) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design encryption and key management for an edge/IoT healthcare deployment where devices sync ePHI intermittently to a central DB — how do you handle keys on constrained untrusted devices? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-encryption-and-key-management-for-an-edge-iot-healthcare-deploy-115294) |
-| How would you architect analytics for a strongly-regulated healthcare platform where OLTP data has residency constraints but OLAP must aggregate across regions — where does compute physically run? | expertise | SDE-2/3, Architect/Principal | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-analytics-for-a-strongly-regulated-healthcare--113464) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance for models in healthcare where you must handle SaMD/FDA-style validation plus HIPAA on top of ML lifecycle controls? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-models-in-healthcare-where-you-mus-71752) |
-| How do you handle model interpretability requirements for deep/transformer models in regulated domains where 'trust me it works' isn't acceptable? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-model-interpretability-requirements-for-deep-transfo-71727) |
-| How would you design consent and purpose-limitation enforcement so a model trained for purpose A can't silently be repurposed for purpose B at inference time? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-consent-and-purpose-limitation-enforcement-so-a-m-71692) |
-| The EU AI Act classifies one of your recommendation systems as high-risk. What technical controls, documentation artifacts, and platform changes do you put in place to demonstrate conformity? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-eu-ai-act-classifies-one-of-your-recommendation-systems-as-high-ri-71670) |
-| What governance controls do you put around synthetic data generation to prevent leakage of the real data it was derived from and to prevent bias amplification? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-governance-controls-do-you-put-around-synthetic-data-generation-t-71706) |
-| What's your strategy for handling the tension between data-minimization/privacy mandates and the data-hungry nature of fairness auditing and model debugging? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-handling-the-tension-between-data-minimizatio-71684) |
-| An interviewer probes: two jurisdictions' laws conflict — the EU AI Act demands you log all high-risk model decisions while GDPR data-minimization pushes to log less. As principal how do you architect the ML audit-log design that satisfies both without contradiction? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-two-jurisdictions-laws-conflict-the-eu-ai-act-de-70017) |
-| Design an EU-AI-Act risk-classification workflow so every new model is tagged (minimal limited high-risk prohibited) and high-risk models automatically inherit the conformity-assessment logging and human-oversight controls — how do you keep the classification from being gamed to avoid obligations? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-eu-ai-act-risk-classification-workflow-so-every-new-model-is-69979) |
-| How do you architect the evidence trail so an EU-AI-Act conformity assessment for a high-risk model is a continuous artifact — data quality bias human-oversight logs technical documentation — rather than a one-off dossier assembled manually before market launch? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-evidence-trail-so-an-eu-ai-act-conformity-ass-70028) |
-| When fine-tuning a pretrained backbone on a domain far from ImageNet (e.g., medical X-rays), how do you decide how many layers to unfreeze and at what learning rates? | deep understanding | SDE-1/2, SDE-2/3 | Computer Vision Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-fine-tuning-a-pretrained-backbone-on-a-domain-far-from-imagenet-e-66283) |
-| When would you choose Dice loss over cross-entropy for segmentation, and how do you handle class imbalance in pixel-level tasks? | deep understanding | SDE-1/2, SDE-2/3 | Computer Vision Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-choose-dice-loss-over-cross-entropy-for-segmentation-an-66301) |
-| Contrast federated learning vs centralized-with-DP for a healthcare partner network — which do you recommend and what are the org-scale operational costs of each? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-federated-learning-vs-centralized-with-dp-for-a-healthcare-pa-72582) |
-| Describe how you'd design a data-governance strategy that satisfies EU AI Act obligations for high-risk AI systems while keeping global ML teams productive. | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-a-data-governance-strategy-that-satisfies-eu-72106) |
-| How would you architect governance for a healthcare ML platform to satisfy HIPAA while still enabling research teams to iterate on de-identified datasets? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-governance-for-a-healthcare-ml-platform-to-sat-72130) |
-| What governance do you require around anonymization and re-identification risk, given that combining anonymized ML datasets can re-identify individuals? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-governance-do-you-require-around-anonymization-and-re-identificat-72129) |
-| You get a request to explain why a CNN misclassified a specific medical image; what interpretability tools (Grad-CAM, saliency, occlusion) would you use and what are their limits? | deep understanding | SDE-1/2, SDE-2/3 | Deep Learning (Neural Networks/CNN/RNN) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-get-a-request-to-explain-why-a-cnn-misclassified-a-specific-medica-65090) |
-| How do you handle tuning a model where the validation metric has high variance run-to-run because of small data? | deep understanding | SDE-1/2, SDE-2/3 | Hyperparameter Tuning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-tuning-a-model-where-the-validation-metric-has-high--65981) |
-| How do you architect an ML platform to comply with the EU AI Act's high-risk-system requirements without freezing your teams' velocity and which controls do you centralize? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-ml-platform-to-comply-with-the-eu-ai-act-s-hig-70530) |
-| How do you design privacy-preserving ML infrastructure using techniques like differential privacy or federated learning and where does it make sense versus where is it over-engineering? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-privacy-preserving-ml-infrastructure-using-technique-70532) |
-| How would you approach fine-tuning a multimodal model for a medical imaging plus report-generation task with very limited labeled data? | deep understanding | SDE-1/2, SDE-2/3 | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-approach-fine-tuning-a-multimodal-model-for-a-medical-im-67130) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design conformity assessment tooling so that mapping a system to EU AI Act obligations is a query against your platform metadata, not a manual legal exercise per model? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-conformity-assessment-tooling-so-that-mapping-a-s-86061) |
-| How would you govern a clinical or diagnostic model so that model-lifecycle controls, SaMD validation, and post-market surveillance are a single coherent pipeline? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-a-clinical-or-diagnostic-model-so-that-model-life-86076) |
-| How would you architect eval evidence collection to satisfy the EU AI Act's high-risk-system documentation without crushing engineering velocity? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-eval-evidence-collection-to-satisfy-the-eu-ai--86859) |
-| How would you build an eval that quantifies the tail risk of a rare catastrophic output when its base rate is too low to observe in normal sampling? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-an-eval-that-quantifies-the-tail-risk-of-a-rare-ca-86911) |
-| What's your strategy for evaluating models in a regulated domain where the eval itself must be validated and signed off by a compliance function? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-evaluating-models-in-a-regulated-domain-where-86914) |
-| How do you decide the org's stance on human-in-the-loop for high-stakes domains — which query classes must route to a human, and how do you evaluate that the routing guardrail itself is calibrated? | expertise | SDE-2/3, Architect/Principal | LLM Evaluation & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-s-stance-on-human-in-the-loop-for-high-stake-84780) |
-| How do you design an eval governance model that satisfies EU AI Act high-risk obligations and produces the audit artifacts regulators expect, without grinding shipping velocity to a halt? | expertise | SDE-2/3, Architect/Principal | LLM Evaluation & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-eval-governance-model-that-satisfies-eu-ai-act-hi-84732) |
-| Interviewer probe: your org wants to enter a regulated healthcare imaging market with a multimodal model. As architect what data safety validation and liability guardrails would you demand before greenlighting a single deployment? | expertise | SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-probe-your-org-wants-to-enter-a-regulated-healthcare-imagi-84720) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

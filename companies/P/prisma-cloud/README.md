@@ -1,27 +1,33 @@
 # Prisma Cloud
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 11
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Prisma Cloud:** 11
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Prisma Cloud's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Prisma Cloud: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 11 | 11 | 11 | 11 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 42 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your team keeps forgetting to attach WAF to new internet-facing ALBs — how would you enforce it automatically so a new ALB without WAF is either blocked at creation or auto-remediated within minutes? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-team-keeps-forgetting-to-attach-waf-to-new-internet-facing-albs-h-46214) |
-| Your team wants to enforce that no S3 bucket is ever public and every EBS volume is encrypted — how would you implement this as preventive guardrails using SCPs and Config rules with auto-remediation? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-team-wants-to-enforce-that-no-s3-bucket-is-ever-public-and-every--46185) |
-| Explain the difference between a preventive and a detective control in cloud governance, and give a concrete AWS example of each you have actually deployed. | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-a-preventive-and-a-detective-control-in-47931) |
-| How do you continuously monitor for public snapshots, public AMIs, or shared RDS snapshots that could leak data across accounts, and auto-remediate them? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-continuously-monitor-for-public-snapshots-public-amis-or-sh-48021) |
-| How do you handle a situation where a compliance scan is producing so many false positives that engineers ignore it — how do you tune signal-to-noise without hiding real risk? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-situation-where-a-compliance-scan-is-producing-so--48025) |
-| How do you keep an accurate asset inventory of everything in scope for PCI (servers, containers, data stores) so the QSA sees a complete and current picture — what automates it? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-an-accurate-asset-inventory-of-everything-in-scope-for-47994) |
-| How would you implement quarterly firewall/security-group rule reviews as code so that stale or overly-broad rules are flagged automatically for PCI Requirement 1? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-quarterly-firewall-security-group-rule-reviews-47962) |
-| How would you set up AWS Config rules to continuously check that all EBS volumes and S3 buckets are encrypted, and how do you handle the noise when a legitimate non-compliant resource is needed temporarily? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-aws-config-rules-to-continuously-check-that-all-e-47933) |
-| Your on-call gets paged that a public-facing S3 bucket with customer files was just created — how do you detect, auto-remediate, and produce the incident record the compliance team will want? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-on-call-gets-paged-that-a-public-facing-s3-bucket-with-customer-f-47973) |
-| How do you handle security scanning for infrastructure that spans multiple clouds — do you standardize the tooling or accept per-cloud native tools? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-security-scanning-for-infrastructure-that-spans-mult-50722) |
-| How do you use a CSPM (cloud security posture management) tool in practice, and how do you keep it from becoming just another ignored dashboard? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-a-cspm-cloud-security-posture-management-tool-in-practi-50689) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,34 +1,33 @@
 # Bugcrowd
 
-**Tier:** Tier 2  |  **Business domain:** Security  |  **Questions:** 6
+**Tier:** Tier 2  |  **Business domain:** Security  |  **Questions listed:** 540  |  **Tagged directly to Bugcrowd:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Bugcrowd's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Bugcrowd: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 1 | 4 | 4 | 4 |
+| Backend | 0 | 0 | 2 | 60 | 60 | 60 |
+| Fullstack | 6 | 6 | 45 | 60 | 19 | 60 |
+| DevOps | 6 | 4 | 26 | 60 | 51 | 60 |
+| AIOps | 0 | 0 | 5 | 60 | 57 | 60 |
+| Data Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Database Developer | 0 | 0 | 0 | 60 | 60 | 60 |
+| ML Engineer | 0 | 0 | 9 | 60 | 51 | 60 |
+| AI Engineer | 1 | 1 | 10 | 60 | 56 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect a red-team program that continuously attempts XSS/SQLi/CSRF against production behind feature flags, with honeytokens and canary rows, so successful exploitation triggers alerts in seconds? Define the guardrails that keep the red team from causing real harm. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-red-team-program-that-continuously-attempts--38999) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're standing up a bug-bounty and coordinated-disclosure program — how does it integrate into your DevSecOps remediation flow so findings don't die in a triage queue? | deep understanding | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standing-up-a-bug-bounty-and-coordinated-disclosure-program-how-55072) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your approach to building a living red-team eval corpus where discovered jailbreaks automatically become permanent regression tests? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-building-a-living-red-team-eval-corpus-where-d-86857) |
-| Describe how you'd set up a bug-bounty / responsible-disclosure program for jailbreaks. How do you triage, reward, and prevent duplicate reports of the same underlying weakness? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Prompt Injection & Jailbreak Defense | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-set-up-a-bug-bounty-responsible-disclosure-program--81985) |
-| Design a red-team-as-a-service internal function: staffing, automated attack generation, engagement model with product teams, and how findings flow into a shared threat library and CI gates. | expertise | SDE-2/3, Architect/Principal | Prompt Injection & Jailbreak Defense | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-red-team-as-a-service-internal-function-staffing-automated-at-85651) |
-| Design the governance for a bug-bounty program targeting jailbreaks at company scale: scope definition, dedup of the same underlying weakness, reward calibration, and how findings become permanent regression tests. | deep understanding | SDE-2/3, Architect/Principal | Prompt Injection & Jailbreak Defense | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-governance-for-a-bug-bounty-program-targeting-jailbreaks-at-85692) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

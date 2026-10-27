@@ -1,31 +1,33 @@
 # Cloudflare
 
-**Tier:** Tier 1  |  **Business domain:** Cloud/Security  |  **Questions:** 16,010
+**Tier:** Tier 1  |  **Business domain:** Security / Cloud  |  **Questions listed:** 1,240  |  **Tagged directly to Cloudflare:** 14,549
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Cloudflare's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Cloudflare: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1538 | 1537 | 4388 | 7272 | 5109 | 7456 |
-| Fullstack | 521 | 521 | 1509 | 2337 | 1641 | 2466 |
-| DevOps | 305 | 3 | 1532 | 2550 | 1463 | 2550 |
-| AIOps | 56 | 0 | 616 | 1626 | 1212 | 1630 |
+| Backend | 0 | 0 | 8 | 150 | 149 | 150 |
+| Fullstack | 7 | 7 | 111 | 150 | 71 | 150 |
+| DevOps | 7 | 3 | 45 | 150 | 117 | 150 |
+| AIOps | 0 | 0 | 13 | 150 | 141 | 150 |
 | Data Engineer | 1 | 0 | 28 | 130 | 121 | 130 |
-| Database Developer | 0 | 46 | 46 | 359 | 359 | 397 |
-| ML Engineer | 16 | 0 | 196 | 441 | 275 | 445 |
-| AI Engineer | 104 | 1 | 405 | 928 | 734 | 928 |
-| Data Structures & Algorithms (all profiles) | 8 | 8 | 8 | 8 | 8 | 8 |
+| Database Developer | 0 | 0 | 0 | 150 | 150 | 150 |
+| ML Engineer | 0 | 0 | 18 | 150 | 136 | 150 |
+| AI Engineer | 3 | 1 | 23 | 150 | 139 | 150 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
 ## Question lists
 
-- [Backend](backend.md) — 7,456 questions
-- [Fullstack](fullstack.md) — 2,466 questions
-- [DevOps](devops.md) — 2,550 questions
-- [AIOps](aiops.md) — 1,630 questions
+- [Backend](backend.md) — 150 questions (top 150 of 7,456 tagged — open any one in Locus to filter the rest)
+- [Fullstack](fullstack.md) — 150 questions (top 150 of 2,466 tagged — open any one in Locus to filter the rest)
+- [DevOps](devops.md) — 150 questions (top 150 of 2,550 tagged — open any one in Locus to filter the rest)
+- [AIOps](aiops.md) — 150 questions (top 150 of 1,630 tagged — open any one in Locus to filter the rest)
 - [Data Engineer](data-engineer.md) — 130 questions
-- [Database Developer](database-developer.md) — 397 questions
-- [ML Engineer](ml-engineer.md) — 445 questions
-- [AI Engineer](ai-engineer.md) — 928 questions
-- [Data Structures & Algorithms](dsa.md) — 8 questions
+- [Database Developer](database-developer.md) — 150 questions (top 150 of 397 tagged — open any one in Locus to filter the rest)
+- [ML Engineer](ml-engineer.md) — 150 questions (top 150 of 445 tagged — open any one in Locus to filter the rest)
+- [AI Engineer](ai-engineer.md) — 150 questions (top 150 of 928 tagged — open any one in Locus to filter the rest)
+- [Data Structures & Algorithms](dsa.md) — 60 questions

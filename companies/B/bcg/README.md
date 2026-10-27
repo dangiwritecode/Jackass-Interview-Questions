@@ -1,38 +1,33 @@
 # BCG
 
-**Tier:** Tier 1  |  **Business domain:** —  |  **Questions:** 10
+**Tier:** Tier 1  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to BCG:** 10
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. BCG's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches BCG: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 0 | 0 | 0 | 1 |
-| DevOps | 0 | 0 | 0 | 8 | 8 | 8 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 5 | 5 | 18 | 58 | 56 | 60 |
+| Fullstack | 21 | 21 | 46 | 55 | 22 | 60 |
+| DevOps | 31 | 22 | 32 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 10 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 11 | 17 | 18 | 51 | 43 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you estimate the total number of tennis balls that fit inside a school bus and what key assumptions drive the estimate? | expertise | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-estimate-the-total-number-of-tennis-balls-that-fit-insid-15875) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe how you'd communicate a disposition matrix to non-technical executives so they understand why 'most apps aren't Refactor' is the right answer. | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-communicate-a-disposition-matrix-to-non-technical-e-56621) |
-| Explain how you balance speed (datacenter exit deadline) against modernization value when leadership wants both and the two pull opposite directions. | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-balance-speed-datacenter-exit-deadline-against-moderni-56593) |
-| Explain how you'd handle the scenario where cost savings promised in the business case don't materialize post-migration; how do you diagnose and course-correct? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-handle-the-scenario-where-cost-savings-promised-in-t-56625) |
-| How do you handle a workload flagged Retain that Finance later insists must move for datacenter-lease savings; how do you re-run the disposition credibly? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-workload-flagged-retain-that-finance-later-insists-56588) |
-| How do you keep executive sponsors engaged over a 3-year program when early Rehost waves show cost going UP before modernization savings arrive? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-executive-sponsors-engaged-over-a-3-year-program-when--56614) |
-| How do you model total cost of ownership across all six dispositions so the 6 Rs decision is driven by 3-year TCO and risk rather than migration effort alone? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-model-total-cost-of-ownership-across-all-six-dispositions-s-56537) |
-| How do you structure the business case so Finance funds Refactor's higher upfront cost against Rehost's lower cost but higher run rate? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-structure-the-business-case-so-finance-funds-refactor-s-hig-56572) |
-| What metrics distinguish a 'migration complete' claim from a 'value realized' claim, and how do you stop the program from celebrating the former? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-metrics-distinguish-a-migration-complete-claim-from-a-value-reali-56577) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you quantify the ROI of a responsible-AI platform investment to a CFO who sees only cost and no revenue line? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-quantify-the-roi-of-a-responsible-ai-platform-investment-to-86045) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,50 +1,33 @@
 # Spot.io
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 22
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Spot.io:** 22
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Spot.io's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Spot.io: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 4 | 4 | 4 |
-| DevOps | 0 | 0 | 10 | 17 | 16 | 17 |
-| AIOps | 0 | 0 | 1 | 1 | 1 | 1 |
+| Backend | 10 | 10 | 43 | 60 | 34 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 1 | 1 | 16 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 11 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A team argues that spot-instance interruptions cost more in on-call toil and SLA breaches than they save. As the architect, how do you quantify the true fully-loaded cost of spot and decide the right spot-to-on-demand ratio per workload class? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-argues-that-spot-instance-interruptions-cost-more-in-on-call-to-37061) |
-| How do you decide the right level of cost-optimization automation (auto-rightsizing, auto-scheduling, auto-committing) versus human-in-the-loop, given that a bad automated action can cause an outage or strand a commitment? Where do you draw the autonomy boundary? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-right-level-of-cost-optimization-automation-auto-37086) |
-| Your commitment portfolio has a large tranche of RIs expiring in 60 days and the compute footprint has shifted. Walk me through the re-commitment decision process, including how you model regret risk of over- versus under-committing. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-commitment-portfolio-has-a-large-tranche-of-ris-expiring-in-60-da-37099) |
-| Your company runs on 3 clouds after two acquisitions. Design a unified cost-visibility and governance layer across AWS, GCP, and Azure — normalization, tagging reconciliation, and cross-cloud commitment strategy — and tell me what you'd deliberately NOT unify. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-company-runs-on-3-clouds-after-two-acquisitions-design-a-unified--37040) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A scenario tests whether you can cut platform infra cost 35% without breaching any SLO. How do you use ATAM to expose which quality attributes are actually sensitive to the levers (spot, replica downscaling, cache eviction, right-sizing) before you commit? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-tests-whether-you-can-cut-platform-infra-cost-35-without-br-53269) |
-| A tradeoff exists between running everything on spot/preemptible capacity (cost) and on-demand/reserved (predictability). How do you scenario-test the availability-vs-cost tension for stateful and stateless workloads separately, and why do they need different response measures? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-exists-between-running-everything-on-spot-preemptible-capac-53286) |
-| How do you distinguish a sensitivity point from a tradeoff point using a concrete platform example — say the node autoscaler's scale-down aggressiveness — and why is conflating the two the most common analysis error you see in infrastructure reviews? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-distinguish-a-sensitivity-point-from-a-tradeoff-point-using-53239) |
-| How do you treat FinOps as a quality attribute in the utility tree for a platform team? Give a scenario ('absorb a 3x traffic peak while keeping cost-per-request within 1.4x baseline') and the autoscaling, spot-mix, and bin-packing sensitivity points it exposes. | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-treat-finops-as-a-quality-attribute-in-the-utility-tree-for-53230) |
-| A cost review flags that your dev environments run 24/7 — how would you build an automated schedule to stop non-prod EC2/RDS overnight and weekends using EventBridge Scheduler and Lambda, and handle instances that must stay up? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cost-review-flags-that-your-dev-environments-run-24-7-how-would-you--46140) |
-| Your EKS Cluster Autoscaler is slow to add nodes during a spike so pods sit Pending — how would Karpenter improve provisioning latency and bin-packing, and what changes about how you define node requirements? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-eks-cluster-autoscaler-is-slow-to-add-nodes-during-a-spike-so-pod-46208) |
-| Your Spot-backed EKS node group gets a lot of interruptions and stateless pods get disrupted — how do you use the Node Termination Handler, capacity-optimized allocation, and diversified instance types to smooth it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-spot-backed-eks-node-group-gets-a-lot-of-interruptions-and-statel-46173) |
-| Design the enterprise pattern for node-pool and compute strategy across spot, reserved, and on-demand for a fleet with mixed criticality. How do you architect graceful spot-interruption handling so cost savings never risk a payments SLA? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-pattern-for-node-pool-and-compute-strategy-acros-53482) |
-| You use spot instances heavily and a spot-capacity reclaim wave took out a large fraction of your fleet at once. How do you design spot usage with diversification and fallback so a reclaim doesn't cause an outage? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-use-spot-instances-heavily-and-a-spot-capacity-reclaim-wave-took-o-47021) |
-| Your terraform-managed autoscaling min was set to 1 for cost, and when that single instance failed at night there was no redundancy. How do you balance cost and resiliency in capacity floors across environments? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-terraform-managed-autoscaling-min-was-set-to-1-for-cost-and-when--46959) |
-| You're on-call and a spot-instance reclamation cascaded into a capacity incident during a traffic peak — how do you mitigate and what capacity/spot strategy would have absorbed it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-on-call-and-a-spot-instance-reclamation-cascaded-into-a-capacit-47455) |
-| You inherit a cluster where every Deployment uses the default scheduler but critical workloads keep landing on spot nodes. How would you steer them onto on-demand capacity without hard-failing scheduling when on-demand is scarce? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-a-cluster-where-every-deployment-uses-the-default-schedule-45927) |
-| How would you use Karpenter or Cluster Autoscaler with spot instances to cut cost for stateless services while keeping availability during spot interruptions? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-karpenter-or-cluster-autoscaler-with-spot-instances--45343) |
-| How do you handle a scenario where one cloud offers spot/preemptible pricing you want to exploit but your workload can't tolerate the eviction rate? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-scenario-where-one-cloud-offers-spot-preemptible-p-51211) |
-| Your Spot-instance-heavy fleet has variable performance as nodes get reclaimed and rescheduled. How do you profile the reschedule-induced latency and design node pools, PDBs, and warm capacity to keep SLOs stable? | deep understanding | SDE-1/2, SDE-2/3 | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-spot-instance-heavy-fleet-has-variable-performance-as-nodes-get-r-47086) |
-| How do you decide the platform's node-provisioning strategy (Cluster Autoscaler versus Karpenter versus reserved-plus-spot mix) as a fleet-wide default, and how do you balance scheduling latency, cost, and workload-disruption tolerance across heterogeneous teams? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-platform-s-node-provisioning-strategy-cluster-au-54275) |
-| How do you decide, at portfolio altitude, which workloads belong on spot/preemptible capacity for cost and which need on-demand guarantees for availability, and how do you architect graceful reclaim handling so a spot-market crunch can't drop you below a safe floor? | deep understanding | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-at-portfolio-altitude-which-workloads-belong-on-spot-52081) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you monitor drift on a model that predicts optimal autoscaling actions when the cost of a wrong action (over/under-provision) is asymmetric? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-drift-on-a-model-that-predicts-optimal-autoscaling--95386) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,33 +1,33 @@
 # Forgerock
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Forgerock:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Forgerock's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Forgerock: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 2 | 2 | 2 | 2 |
-| DevOps | 0 | 0 | 0 | 2 | 2 | 2 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 44 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design authentication that must interoperate with a legacy LDAP/Active Directory for some tenants and modern OIDC for others, presenting a single login endpoint to the app? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-authentication-that-must-interoperate-with-a-lega-26195) |
-| Your service accepts tokens from a partner IdP via federation. The partner's token includes group claims you map to your roles. How do you handle a partner renaming a group without silently escalating or dropping access? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-service-accepts-tokens-from-a-partner-idp-via-federation-the-part-26214) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you sequence identity provider migration so that neither on-prem nor migrated apps lose authentication during the transition? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-sequence-identity-provider-migration-so-that-neither-on-pre-56616) |
-| Your identity provider is migrating from a legacy SAML setup to OIDC. Design the Vault identity/auth transition so 10000 human and machine identities keep working through the cutover with no downtime. | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-identity-provider-is-migrating-from-a-legacy-saml-setup-to-oidc-d-54953) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design the identity and delegated-authorization architecture where an agent acts on-behalf-of a user across many downstream tools. Compare token-exchange, delegated OAuth, and OBO flows for propagating scoped, short-lived authority the model never sees. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-identity-and-delegated-authorization-architecture-where-an--83053) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

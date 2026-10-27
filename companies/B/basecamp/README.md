@@ -1,63 +1,33 @@
 # Basecamp
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 29
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Basecamp:** 28
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Basecamp's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Basecamp: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 3 | 3 | 6 | 15 | 15 | 15 |
-| Fullstack | 1 | 1 | 1 | 9 | 9 | 9 |
-| DevOps | 0 | 0 | 0 | 2 | 2 | 2 |
-| Database Developer | 0 | 0 | 0 | 3 | 3 | 3 |
+| Backend | 7 | 7 | 41 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 46 | 56 | 26 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You inherit an API where authorization is enforced by an ORM 'default scope' filtering by current user. What silent failure modes does this create for admin queries, joins, and raw SQL, and how do you make it robust? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-an-api-where-authorization-is-enforced-by-an-orm-default-s-26152) |
-| You must add an "owner or same-team member or admin" check to 60 endpoints. How would you express this as a reusable, testable authorization primitive instead of copy-pasted if-statements? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-add-an-owner-or-same-team-member-or-admin-check-to-60-endpoin-26139) |
-| What is a monolith and why might a team keep it instead of moving to microservices? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-monolith-and-why-might-a-team-keep-it-instead-of-moving-to-m-6826) |
-| You need offline-first sync where queued user actions replay on reconnect. Which pattern models the queued actions, and how do you handle conflict resolution, ordering, and deduplication when the same action was partially applied server-side before disconnect? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-offline-first-sync-where-queued-user-actions-replay-on-reconn-22500) |
-| A bar-raiser presses: 'Everyone reaches for sagas for microservices. Give me the strongest argument AGAINST microservices+sagas for this domain and for a modular monolith with local transactions instead.' Defend when the monolith is the principal-level right answer. | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-presses-everyone-reaches-for-sagas-for-microservices-give-34145) |
-| Argue for or against a 'modular monolith with enforced bounded contexts' as the target state for a 150-engineer org, versus microservices per context. What org and operational conditions flip your recommendation? | expertise | SDE-2/3, Architect/Principal | Domain-Driven Design (DDD) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-for-or-against-a-modular-monolith-with-enforced-bounded-contexts-34327) |
-| You have to design resilience for a monolith you can't decompose in the near term. What fault-isolation is even possible inside a single process/deployable, and how do you buy the most resilience per dollar before the eventual decomposition? | deep understanding | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-to-design-resilience-for-a-monolith-you-can-t-decompose-in-th-35276) |
-| An interviewer asks you to quantify the 'microservices tax' for your org (extra latency, infra, cognitive load, coordination cost) and argue at what team-size and domain-complexity threshold the tax stops being worth it. | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-you-to-quantify-the-microservices-tax-for-your-org-31693) |
-| How would you handle a scenario where the interviewer says 'a competitor rewrote from microservices back to a modular monolith and got faster' - defend your architecture strategy, concede where they're right, and articulate when you'd make the same call. | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-a-scenario-where-the-interviewer-says-a-competito-31694) |
-| A bar-raiser final: 'Sell me on keeping the monolith for another 18 months.' Construct the strongest good-faith argument to defer decomposition, then honestly state the one condition that would flip your recommendation. | expertise | SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-final-sell-me-on-keeping-the-monolith-for-another-18-mont-31800) |
-| Give an example where a monolith is clearly the RIGHT choice. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=give-an-example-where-a-monolith-is-clearly-the-right-choice-4815) |
-| How would you design the platform so a modular monolith and extracted services coexist permanently as a deliberate 'macroservices' end-state, rather than treating full decomposition as the only success? Defend not going all the way. | expertise | SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-platform-so-a-modular-monolith-and-extracted--31770) |
-| You said microservices scale better. Why might a well-optimized monolith outperform them for a startup? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-said-microservices-scale-better-why-might-a-well-optimized-monolit-4798) |
-| You're presenting to an architecture review board: justify a decision to NOT split a high-revenue monolith despite executive pressure. What evidence and risk framing wins the room? | expertise | SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-presenting-to-an-architecture-review-board-justify-a-decision-t-31722) |
-| An interviewer pushes back on your microservices design: 'why not keep this a modular monolith and avoid the availability tax of a distributed system entirely?' How would you honestly reason about when the network boundaries help scaling and org velocity versus when they only add failure modes? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-pushes-back-on-your-microservices-design-why-not-keep-t-32204) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle an ATAM where the architecture is a well-run monolith and the pressure to review it comes purely from a 'microservices are modern' bias? How do you keep the analysis honest and defend the monolith if scenarios show it satisfies the drivers? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-an-atam-where-the-architecture-is-a-well-run-monolit-40612) |
-| Tell me about a time you had to influence a company-wide decision by writing rather than by meetings — an org-defining doc that had to persuade people you'd never meet. How did you craft it to travel? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-influence-a-company-wide-decision-by-w-40432) |
-| Tell me about a time you had to lead the org through choosing whether to invest in a green-field rewrite of a system versus incrementally refactoring the existing one. How did you resist the seductive appeal of the rewrite? | expertise | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-through-choosing-whether--40486) |
-| What is a monolith and why might a team keep it instead of moving to microservices? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-monolith-and-why-might-a-team-keep-it-instead-of-moving-to-m-6826) |
-| An interviewer asks you to defend a decision to NOT adopt micro-frontends for a mid-size product despite executive enthusiasm — what evidence and alternative (modular monolith, package boundaries) do you put in the architecture-decision record? | deep understanding | SDE-2/3, Architect/Principal | Micro-frontends | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-you-to-defend-a-decision-to-not-adopt-micro-fronte-40168) |
-| How do you decide whether to strangle the monolith into services or first refactor it into a well-modularized monolith and only then extract — what tips the decision either way? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-to-strangle-the-monolith-into-services-or-fi-41003) |
-| What's your strategy for migrating a monolith where a single ORM entity maps to 40 tables — do you strangle at the aggregate boundary or the table boundary first? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-migrating-a-monolith-where-a-single-orm-entit-40974) |
-| An interviewer pushes: why not keep this a modular monolith and avoid the availability tax of a distributed system entirely? Reason honestly about when network boundaries help scaling and org velocity versus when they only add failure modes. | deep understanding | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-pushes-why-not-keep-this-a-modular-monolith-and-avoid-t-38816) |
-| How do you decide when horizontal scale-out has stopped paying off — coordination, cross-node chatter, or a shared bottleneck means new nodes barely help — and a simpler vertically-scaled design would be more available and cheaper? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-horizontal-scale-out-has-stopped-paying-off-coo-38811) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A bar-raiser asks you to steelman NOT investing in multi-region: when is single-region with excellent backups, fast rebuild automation, and a warm standby actually the more-resilient and more-defensible choice? Argue both sides and give your decision criteria per service. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-to-steelman-not-investing-in-multi-region-when-i-52880) |
-| An interviewer asks you to steelman a modular monolith for a new bounded context inside a microservices org. What concrete team-size, deploy-coupling, and domain-maturity signals would make you recommend starting monolith-first? | deep understanding | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-you-to-steelman-a-modular-monolith-for-a-new-bound-51953) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A probe: why not just use a single very large, very reliable database instance and skip HA complexity entirely? Argue both sides for a mid-size company. | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-probe-why-not-just-use-a-single-very-large-very-reliable-database-in-114699) |
-| What's your framework for deciding when 'good enough and boring' (a proven RDBMS) beats 'technically superior and novel' (a cutting-edge NewSQL) for a business-critical system? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-deciding-when-good-enough-and-boring-a-prove-114383) |
-| What's your position on choosing a database primarily to match the team's existing language/ORM ecosystem versus the workload's needs? When does developer velocity legitimately win? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-position-on-choosing-a-database-primarily-to-match-the-tea-114428) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

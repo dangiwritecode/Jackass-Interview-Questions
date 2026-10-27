@@ -1,49 +1,33 @@
 # Neural Magic
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 27
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Neural Magic:** 27
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Neural Magic's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Neural Magic: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 7 | 10 | 9 | 10 |
-| AI Engineer | 0 | 0 | 3 | 17 | 17 | 17 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 7 | 60 | 59 | 60 |
+| AI Engineer | 3 | 3 | 6 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a model-compression/optimization toolchain (quantization, distillation, pruning) — buy an inference-optimization vendor vs build on TensorRT-LLM/vLLM/GGUF — when squeezing serving cost is worth an ML-systems team's full-time effort? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-model-compression-optimization-to-69801) |
-| How do you decide build-vs-buy for a model-quantization-and-serving path for a memory-constrained inference budget (buy an optimized-serving vendor vs build INT8/FP8 + speculative decoding yourself) when squeezing more requests per GPU is a direct margin lever? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-model-quantization-and-serving-pa-69862) |
-| How would you gate a quantized/distilled model in CI so the compression didn't degrade accuracy beyond an acceptable threshold? | deep understanding | SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-gate-a-quantized-distilled-model-in-ci-so-the-compressio-63553) |
-| Compare AWQ, GPTQ, and SmoothQuant for weight quantization; which would you reach for on an A100 serving fleet and why? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-awq-gptq-and-smoothquant-for-weight-quantization-which-would-y-67977) |
-| What is the difference between per-tensor and per-channel quantization scales, and why does per-channel usually preserve accuracy better? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-per-tensor-and-per-channel-quantization-68030) |
-| What signals would tell you a serving workload is better on CPU or a smaller accelerator than on a GPU, and how would you make that call? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-signals-would-tell-you-a-serving-workload-is-better-on-cpu-or-a-s-68060) |
-| What's the difference between offline (batch) quantization calibration and QAT, and when have you needed QAT for inference? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-difference-between-offline-batch-quantization-calibration-a-68048) |
-| When is INT8 KV-cache quantization worth it, and what quality risk does quantizing the cache carry versus quantizing weights? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-is-int8-kv-cache-quantization-worth-it-and-what-quality-risk-does-68033) |
-| Why might INT4 quantization help memory but not latency for a small batch size, and when does it actually speed things up? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-int4-quantization-help-memory-but-not-latency-for-a-small-ba-67997) |
-| How would you architect model compression (quantization pruning distillation) as a first-class automated stage of the platform rather than a per-model manual effort? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-model-compression-quantization-pruning-distill-70540) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a model-compression/serving-optimization path (buy an optimized-inference vendor vs build INT8/FP8 quantization + speculative decoding + continuous batching yourself) when requests-per-GPU is a direct margin lever? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-model-compression-serving-optimiz-83782) |
-| Explain how you'd decide the org-wide policy on GPU versus CPU inference for smaller GenAI models that could run on either. Many teams default to GPUs out of habit — what framework decides when a model is cheap enough for CPU, and how do you migrate the mislabeled ones? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-decide-the-org-wide-policy-on-gpu-versus-cpu-inferen-83411) |
-| How do you decide the cost-optimal precision for serving — FP16, FP8, or INT4 quantized — across the GenAI serving fleet, given quantization cuts memory and cost but risks quality regressions on some prompt classes? Where does the accuracy risk cap the savings, and who owns that bar? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-cost-optimal-precision-for-serving-fp16-fp8-or-i-83369) |
-| What's your approach to evaluating a distilled or quantized model against its teacher when quality loss is uneven across tasks and slices? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-evaluating-a-distilled-or-quantized-model-agai-86894) |
-| How do you decide the org's position on serving quantized weights with FP16 activations (weight-only) versus full W8A8, given the different accuracy and throughput regimes? | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-s-position-on-serving-quantized-weights-with-85197) |
-| How would you govern the decision to invest in a custom paged-attention variant versus waiting for upstream vLLM to ship it, given your team's kernel-maintenance capacity? | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-the-decision-to-invest-in-a-custom-paged-attentio-85159) |
-| How would you set org policy on whether teams may use Marlin/Machete INT4 kernels versus staying on the default quantized path, balancing peak throughput against maintainability? | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-org-policy-on-whether-teams-may-use-marlin-machete-i-85135) |
-| Walk me through the framework you'd use to decide whether a 15% latency win from a bleeding-edge kernel is worth the on-call and debuggability cost of a non-upstream fork. | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-the-framework-you-d-use-to-decide-whether-a-15-latency-85190) |
-| You serve a quantized (INT8/FP8) model to fit more replicas per GPU. How would you validate on Kubernetes that the quantized Pods hold quality parity before shifting production traffic to them? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-serve-a-quantized-int8-fp8-model-to-fit-more-replicas-per-gpu-how--77531) |
-| How do you evaluate quantization (int8/int4/FP8) as a lever that makes a self-hosted build viable, and what quality-cost trade-offs does it introduce to the decision? | deep understanding | SDE-2/3, Architect/Principal | LLM Architecture Selection (Build vs Buy vs Fine-tune) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-quantization-int8-int4-fp8-as-a-lever-that-makes-a-86291) |
-| Probe: 'quantization gives us 3x throughput' — as architect, how do you govern per-model quantization decisions so nobody silently ships an accuracy regression to save cost? | deep understanding | SDE-2/3, Architect/Principal | LLM Cost & Latency Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=probe-quantization-gives-us-3x-throughput-as-architect-how-do-you-gove-85296) |
-| How would you make model compression via quantization, pruning, and distillation a first-class automated platform stage instead of a per-model manual effort? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-make-model-compression-via-quantization-pruning-and-dist-84387) |
-| How do you monitor a quantized model (after GPTQ/AWQ/TensorRT-LLM conversion) so you catch that the optimization silently degraded output quality while improving throughput? What telemetry catches that trade-off in production? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-a-quantized-model-after-gptq-awq-tensorrt-llm-conve-78857) |
-| Explain the trade-off between quantizing your served model to int8 versus keeping fp16, in terms of cost, latency, and quality. How would you decide it's safe to ship the quantized version? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-trade-off-between-quantizing-your-served-model-to-int8-ver-79024) |
-| Describe how you'd model the effect of quantization (FP8/INT4) on both throughput and quality to justify a budget change to stakeholders. | expertise | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-model-the-effect-of-quantization-fp8-int4-on-both-t-86409) |
-| An interviewer asks: activation outliers in specific attention channels wreck naive quantization; how do you architect an org-standard outlier-aware scheme (SmoothQuant-style) portable across models? | deep understanding | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-activation-outliers-in-specific-attention-channels-84264) |
-| Defend a portfolio quantization strategy (FP8 vs INT8 vs INT4/AWQ vs KV-cache quant) as an org decision balancing attention-sensitive accuracy SLAs, hardware, and maintenance cost. | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=defend-a-portfolio-quantization-strategy-fp8-vs-int8-vs-int4-awq-vs-kv-84262) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

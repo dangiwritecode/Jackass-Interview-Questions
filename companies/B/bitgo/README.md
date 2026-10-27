@@ -1,26 +1,33 @@
 # BitGo
 
-**Tier:** Tier 3  |  **Business domain:** Crypto/Fintech  |  **Questions:** 10
+**Tier:** Tier 3  |  **Business domain:** Fintech / Crypto  |  **Questions listed:** 540  |  **Tagged directly to BitGo:** 10
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. BitGo's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches BitGo: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 10 | 10 | 10 | 10 | 10 | 10 |
+| Backend | 3 | 3 | 20 | 59 | 58 | 60 |
+| Fullstack | 19 | 19 | 46 | 55 | 22 | 60 |
+| DevOps | 28 | 20 | 28 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 14 | 60 | 52 | 60 |
+| Data Engineer | 13 | 5 | 42 | 58 | 25 | 60 |
+| Database Developer | 11 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Can Every Build Task Be Completed With Dependencies | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Cycle Detection, Depth-First Search, Graph, In-degree / Kahn's Algorithm, Topological Sort | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-every-build-task-be-completed-with-dependencies-d207) |
-| Circular Route Starting Depot | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Prefix Sum | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=circular-route-starting-depot-d134) |
-| Column-by-Column (Vertical) Traversal of a Binary Tree | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Breadth-First Search, Depth-First Search, Hash Table, Sorting, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=column-by-column-vertical-traversal-of-a-binary-tree-d972) |
-| Count Contiguous Subarrays With a Given Sum | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Prefix Sum | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-contiguous-subarrays-with-a-given-sum-d558) |
-| Deepest Common Ancestor in a Binary Tree | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Divide and Conquer, Post-order Traversal, Recursion, Tree | Phone Screen, DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=deepest-common-ancestor-in-a-binary-tree-d236) |
-| Do Two Compressions Share an Original Message | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Dynamic Programming, Memoization, Recursion, String, Two Pointers | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=do-two-compressions-share-an-original-message-d1946) |
-| Fewest Transit Lines Between Two Stations | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Graph, Hash Table, Shortest Path | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-transit-lines-between-two-stations-d800) |
-| Largest Axis-Aligned Rectangle Under a Bar Skyline | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Monotonic Stack, Stack | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-axis-aligned-rectangle-under-a-bar-skyline-d84) |
-| Longest Run of Consecutive Integers | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Set, Union Find | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-run-of-consecutive-integers-d128) |
-| Longest Segment With At Most K Distinct Characters | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, Sliding Window, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-segment-with-at-most-k-distinct-characters-d340) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

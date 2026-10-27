@@ -1,23 +1,33 @@
 # Zep
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 7
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Zep:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Zep's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Zep: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AI Engineer | 0 | 0 | 6 | 7 | 7 | 7 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 35 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AI Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe a memory design for a multi-turn agentic RAG assistant that avoids re-retrieving the same context. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Advanced RAG (GraphRAG/Agentic RAG) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-memory-design-for-a-multi-turn-agentic-rag-assistant-that-a-81841) |
-| How do you handle the explosion of intermediate state an agentic RAG loop accumulates over long trajectories? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Advanced RAG (GraphRAG/Agentic RAG) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-explosion-of-intermediate-state-an-agentic-rag-l-81906) |
-| How do you weigh build-vs-buy for a long-term memory / agent-state store (buy a managed agent-memory service vs build on your vector DB + graph + summarization) when memory quality shapes multi-turn agent behavior and switching it later means re-deriving all state? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-build-vs-buy-for-a-long-term-memory-agent-state-store-83803) |
-| How would you decide whether to store conversation history in the prompt versus in an external summarized memory as chats grow long? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-to-store-conversation-history-in-the-prom-79572) |
-| How would you design an agent's memory so it can recall context across a long multi-turn conversation without exceeding the context window? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-agent-s-memory-so-it-can-recall-context-across-79522) |
-| How would you monitor an agent's memory/state store (conversation history, scratchpad) so unbounded context growth that inflates cost and latency over a long session becomes observable? What metric catches a session that never resets? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-an-agent-s-memory-state-store-conversation-histo-78895) |
-| Your agent's memory store grows unbounded and retrieval over it slows down every session. How would you architect memory so it stays relevant and bounded without losing important context? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-agent-s-memory-store-grows-unbounded-and-retrieval-over-it-slows--79021) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

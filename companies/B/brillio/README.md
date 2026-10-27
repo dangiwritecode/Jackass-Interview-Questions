@@ -1,48 +1,33 @@
 # Brillio
 
-**Tier:** Tier 3  |  **Business domain:** IT-Services  |  **Questions:** 32
+**Tier:** Tier 3  |  **Business domain:** IT-Services  |  **Questions listed:** 540  |  **Tagged directly to Brillio:** 32
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Brillio's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Brillio: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Engineer | 32 | 0 | 32 | 32 | 32 | 32 |
+| Backend | 4 | 4 | 46 | 59 | 57 | 60 |
+| Fullstack | 18 | 18 | 54 | 56 | 17 | 60 |
+| DevOps | 27 | 18 | 28 | 59 | 46 | 60 |
+| AIOps | 2 | 1 | 11 | 60 | 52 | 60 |
+| Data Engineer | 42 | 3 | 59 | 58 | 37 | 60 |
+| Database Developer | 13 | 22 | 23 | 46 | 38 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 2 | 15 | 60 | 51 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How can Firehose convert incoming JSON records to Parquet before writing them to S3, and why is that helpful? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-can-firehose-convert-incoming-json-records-to-parquet-before-writi-116376) |
-| How does a window function like ROW_NUMBER() help you keep only the latest record per key in a warehouse query? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-a-window-function-like-row-number-help-you-keep-only-the-late-116424) |
-| How does an Iceberg or Hudi table let you do an UPDATE or DELETE on data stored in S3? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-an-iceberg-or-hudi-table-let-you-do-an-update-or-delete-on-da-116391) |
-| How does Athena charge you for a query, and why does file format and partitioning affect your bill? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-athena-charge-you-for-a-query-and-why-does-file-format-and-pa-116361) |
-| How does Athena use the Glue Data Catalog, and what is the relationship between the two services? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-athena-use-the-glue-data-catalog-and-what-is-the-relationship-116364) |
-| How does the number of output files a Spark job writes depend on partitions, and why does that matter for S3? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-the-number-of-output-files-a-spark-job-writes-depend-on-parti-116421) |
-| How would an MWAA DAG trigger a Glue job and then wait for it to finish before the next task runs? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-an-mwaa-dag-trigger-a-glue-job-and-then-wait-for-it-to-finis-116373) |
-| How would you debug a Glue job that finished 'successfully' but wrote zero rows to the target? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-debug-a-glue-job-that-finished-successfully-but-wrote-ze-116412) |
-| What does the boto3 library do, and how would you use it to list objects in an S3 bucket from Python? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-the-boto3-library-do-and-how-would-you-use-it-to-list-object-116427) |
-| What IAM permissions does a Glue job need to read from one S3 bucket and write to another? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-iam-permissions-does-a-glue-job-need-to-read-from-one-s3-bucket-a-116406) |
-| What is a dead-letter or error path in a pipeline, and where would you store rejected records on AWS? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-dead-letter-or-error-path-in-a-pipeline-and-where-would-you--116409) |
-| What is a fact table versus a dimension table, and which one usually gets partitioned by date in S3? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-fact-table-versus-a-dimension-table-and-which-one-usually-ge-116400) |
-| What is a sort key (SORTKEY) in Redshift and how does it speed up range-filtered queries? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-sort-key-sortkey-in-redshift-and-how-does-it-speed-up-range--116358) |
-| What is a transient (auto-terminating) EMR cluster and why is it cost-effective for batch jobs? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-transient-auto-terminating-emr-cluster-and-why-is-it-cost-ef-116370) |
-| What is a VACUUM and ANALYZE in Redshift and why do you occasionally need to run them? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-vacuum-and-analyze-in-redshift-and-why-do-you-occasionally-n-116436) |
-| What is an AWS Glue workflow, and how does it chain crawlers and jobs together? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-an-aws-glue-workflow-and-how-does-it-chain-crawlers-and-jobs-t-116403) |
-| What is an upsert (merge) and how would you implement one when loading into Redshift? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-an-upsert-merge-and-how-would-you-implement-one-when-loading-i-116397) |
-| What is AWS Glue DataBrew and how does it differ from writing a Glue Spark job by hand? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-aws-glue-databrew-and-how-does-it-differ-from-writing-a-glue-s-116352) |
-| What is AWS Lake Formation in simple terms and what does it add on top of S3 and Glue? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-aws-lake-formation-in-simple-terms-and-what-does-it-add-on-top-116379) |
-| What is data lineage and why is it valuable when someone asks 'where did this number come from'? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-data-lineage-and-why-is-it-valuable-when-someone-asks-where-di-116442) |
-| What is data skew in a Spark or Glue job and why can it make one task run far longer than others? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-data-skew-in-a-spark-or-glue-job-and-why-can-it-make-one-task--116415) |
-| What is eventual consistency versus strong read-after-write consistency in S3, and why does it matter to a pipeline? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-eventual-consistency-versus-strong-read-after-write-consistenc-116430) |
-| What is idempotency in a data pipeline and why does it matter when a Glue job is retried? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-idempotency-in-a-data-pipeline-and-why-does-it-matter-when-a-g-116394) |
-| What is late-arriving data in a streaming pipeline, and why is it a challenge for aggregations? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-late-arriving-data-in-a-streaming-pipeline-and-why-is-it-a-cha-116439) |
-| What is lazy evaluation in Spark, and what is the difference between a transformation and an action? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-lazy-evaluation-in-spark-and-what-is-the-difference-between-a--116418) |
-| What is Snappy compression and why is it commonly used with Parquet files in a data lake? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-snappy-compression-and-why-is-it-commonly-used-with-parquet-fi-116388) |
-| What is SPICE in QuickSight and why would you import data into it instead of querying live? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-spice-in-quicksight-and-why-would-you-import-data-into-it-inst-116382) |
-| What is the difference between a Glue crawler and a Glue ETL job? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-a-glue-crawler-and-a-glue-etl-job-116348) |
-| What is the difference between ETL and ELT, and how does a warehouse like Redshift enable ELT? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-etl-and-elt-and-how-does-a-warehouse-li-116385) |
-| What is the Redshift COPY command and why is it the recommended way to load data from S3? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-redshift-copy-command-and-why-is-it-the-recommended-way-to-116355) |
-| What is the small-files problem in a data lake and why does it slow down Athena or Spark jobs? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-small-files-problem-in-a-data-lake-and-why-does-it-slow-do-116367) |
-| Why is it useful to keep raw ingested data immutable in S3 even after you have processed it? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-it-useful-to-keep-raw-ingested-data-immutable-in-s3-even-after--116433) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,24 +1,33 @@
 # Bluehost
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 8
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Bluehost:** 8
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Bluehost's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Bluehost: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 8 | 0 | 8 | 8 | 0 | 8 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 9 | 1 | 18 | 60 | 49 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How does Nginx differ from Apache HTTP Server at a high level? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-nginx-differ-from-apache-http-server-at-a-high-level-43817) |
-| How would you host multiple websites on a single server using Nginx? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-host-multiple-websites-on-a-single-server-using-nginx-43833) |
-| What does the server_name directive do and how are multiple names or wildcards handled? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-the-server-name-directive-do-and-how-are-multiple-names-or-w-43832) |
-| What is a virtual host and how does it let one server host multiple domains? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-virtual-host-and-how-does-it-let-one-server-host-multiple-do-43869) |
-| What is FastCGI and how does Nginx use fastcgi_pass to serve PHP applications? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-fastcgi-and-how-does-nginx-use-fastcgi-pass-to-serve-php-appli-43893) |
-| What is the difference between the nginx.conf file and files under sites-available and sites-enabled? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-the-nginx-conf-file-and-files-under-sit-43828) |
-| What is the index directive and how does Nginx choose the default file for a directory? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-index-directive-and-how-does-nginx-choose-the-default-file-43840) |
-| What is the role of the listen directive in an Nginx server block? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-role-of-the-listen-directive-in-an-nginx-server-block-43831) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

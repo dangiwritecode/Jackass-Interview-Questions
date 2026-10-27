@@ -1,27 +1,33 @@
 # Harness
 
-**Tier:** Tier 2  |  **Business domain:** SaaS  |  **Questions:** 507
+**Tier:** Tier 2  |  **Business domain:** SaaS  |  **Questions listed:** 720  |  **Tagged directly to Harness:** 506
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Harness's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Harness: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 14 | 21 | 10 | 21 |
-| Fullstack | 0 | 0 | 1 | 15 | 15 | 15 |
-| DevOps | 7 | 0 | 131 | 249 | 176 | 249 |
-| AIOps | 4 | 0 | 148 | 206 | 159 | 207 |
-| ML Engineer | 0 | 0 | 5 | 7 | 2 | 7 |
-| AI Engineer | 0 | 0 | 3 | 7 | 5 | 7 |
-| Data Structures & Algorithms (all profiles) | 1 | 1 | 1 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 28 | 59 | 46 | 60 |
+| Fullstack | 17 | 17 | 39 | 57 | 34 | 60 |
+| DevOps | 0 | 0 | 58 | 150 | 105 | 150 |
+| AIOps | 2 | 0 | 94 | 150 | 135 | 150 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 5 | 60 | 55 | 60 |
+| AI Engineer | 3 | 3 | 6 | 60 | 56 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
 ## Question lists
 
-- [Backend](backend.md) — 21 questions
-- [Fullstack](fullstack.md) — 15 questions
-- [DevOps](devops.md) — 249 questions
-- [AIOps](aiops.md) — 207 questions
-- [ML Engineer](ml-engineer.md) — 7 questions
-- [AI Engineer](ai-engineer.md) — 7 questions
-- [Data Structures & Algorithms](dsa.md) — 1 questions
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 150 questions (top 150 of 249 tagged — open any one in Locus to filter the rest)
+- [AIOps](aiops.md) — 150 questions (top 150 of 207 tagged — open any one in Locus to filter the rest)
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

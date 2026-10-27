@@ -1,51 +1,33 @@
 # AppDynamics
 
-**Tier:** Tier 2  |  **Business domain:** SaaS/Observability  |  **Questions:** 29
+**Tier:** Tier 2  |  **Business domain:** Observability / SaaS  |  **Questions listed:** 540  |  **Tagged directly to AppDynamics:** 29
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. AppDynamics's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches AppDynamics: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AIOps | 19 | 0 | 16 | 23 | 10 | 27 |
-| Data Structures & Algorithms (all profiles) | 2 | 2 | 2 | 2 | 2 | 2 |
+| Backend | 0 | 0 | 6 | 60 | 60 | 60 |
+| Fullstack | 1 | 1 | 37 | 60 | 33 | 60 |
+| DevOps | 1 | 1 | 28 | 60 | 38 | 60 |
+| AIOps | 19 | 0 | 16 | 56 | 43 | 60 |
+| Data Engineer | 0 | 0 | 21 | 60 | 48 | 60 |
+| Database Developer | 0 | 3 | 3 | 57 | 57 | 60 |
+| ML Engineer | 0 | 0 | 14 | 60 | 52 | 60 |
+| AI Engineer | 2 | 0 | 8 | 58 | 52 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AIOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your leadership wants to consolidate five different monitoring tools acquired across business units onto one AWS-centric AIOps stack — how do you plan the multi-year migration without losing historical baselines or leaving blind spots? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-leadership-wants-to-consolidate-five-different-monitoring-tools-a-98734) |
-| How would clustering help you group monitored hosts into tiers such as idle busy and overloaded? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-clustering-help-you-group-monitored-hosts-into-tiers-such-as-89654) |
-| How would you cluster APM transactions by their resource usage to find the most expensive request types? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cluster-apm-transactions-by-their-resource-usage-to-find-89724) |
-| How would you cluster time-series metrics from many servers to find hosts that behave similarly? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cluster-time-series-metrics-from-many-servers-to-find-ho-89631) |
-| What would it mean if all your server-health metrics fall into a single cluster and how would you investigate? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-would-it-mean-if-all-your-server-health-metrics-fall-into-a-singl-89646) |
-| Why might you cluster on error-rate and latency together to define health states of a service? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-you-cluster-on-error-rate-and-latency-together-to-define-hea-89689) |
-| Why should you normalize CPU memory and latency metrics to the same scale before clustering hosts? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-should-you-normalize-cpu-memory-and-latency-metrics-to-the-same-sc-89638) |
-| What is APM (Application Performance Monitoring) and what does it track? | basic concept | Fresher, SDE-1/2, SDE-2/3 | IT Operations & ITSM | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-apm-application-performance-monitoring-and-what-does-it-track-90902) |
-| Design a multi-year strategy to consolidate seven overlapping monitoring tools acquired through M&A without a big-bang cutover. | expertise | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-multi-year-strategy-to-consolidate-seven-overlapping-monitori-103266) |
-| Explain your approach to graceful vendor sunset where you must run old and new automation in parallel for months. | expertise | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-approach-to-graceful-vendor-sunset-where-you-must-run-old-103305) |
-| How do you handle the organizational politics of retiring a beloved incumbent vendor that a powerful business unit refuses to give up? | expertise | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-organizational-politics-of-retiring-a-beloved-in-103338) |
-| Given a 2D array where each row is a host and each column is an hourly metric, how would you get the per-host average with axis? | intermediate experience | Fresher | NumPy | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=given-a-2d-array-where-each-row-is-a-host-and-each-column-is-an-hourly-89133) |
-| Given latency arrays from two services, how would you compare their distributions using mean and standard deviation in NumPy? | intermediate experience | Fresher | NumPy | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=given-latency-arrays-from-two-services-how-would-you-compare-their-dis-89141) |
-| Given latency samples across many hosts, how would you use axis-based aggregation to find the noisiest host by standard deviation? | intermediate experience | Fresher | NumPy | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=given-latency-samples-across-many-hosts-how-would-you-use-axis-based-a-89162) |
-| You have a metrics array with one reading per second; how would you downsample it to per-minute averages using NumPy reshape and mean? | intermediate experience | Fresher | NumPy | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-a-metrics-array-with-one-reading-per-second-how-would-you-dow-89128) |
-| How do you approach the strategic transition from vendor-locked APM to an open, portable observability standard without disrupting live incident response? | expertise | SDE-2/3, Architect/Principal | Observability Platform Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-the-strategic-transition-from-vendor-locked-apm-to-102964) |
-| What is your framework for deprecating a legacy monitoring platform, including the exit runway, data archival, and stakeholder buy-in? | expertise | SDE-2/3, Architect/Principal | Observability Platform Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-framework-for-deprecating-a-legacy-monitoring-platform-in-103014) |
-| What's your plan for migrating from a proprietary agent (e.g. legacy APM) to OTel without a gap in the anomaly-detection training data? | deep understanding | SDE-1/2, SDE-2/3 | OpenTelemetry Instrumentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-plan-for-migrating-from-a-proprietary-agent-e-g-legacy-apm-98517) |
-| What is a synthetic (proactive) check versus real-user monitoring? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-synthetic-proactive-check-versus-real-user-monitoring-91583) |
-| What is an APM tool and how does it complement infrastructure monitoring in ITOM? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-an-apm-tool-and-how-does-it-complement-infrastructure-monitori-91606) |
-| What is the difference between availability and performance monitoring? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-availability-and-performance-monitoring-91577) |
-| What is the difference between infrastructure monitoring and application monitoring, and why do you often need both? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-infrastructure-monitoring-and-applicati-91621) |
-| What kinds of external monitoring tools commonly send events into ServiceNow Event Management? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-kinds-of-external-monitoring-tools-commonly-send-events-into-serv-91555) |
-| What is a service map or dependency graph and how is it built from trace data? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Unified Observability (Logs/Metrics/Traces) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-service-map-or-dependency-graph-and-how-is-it-built-from-tra-90765) |
-| What is Application Performance Monitoring or APM and how does it relate to tracing? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Unified Observability (Logs/Metrics/Traces) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-application-performance-monitoring-or-apm-and-how-does-it-rela-90786) |
-| What is the difference between auto-instrumentation and manual instrumentation? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Unified Observability (Logs/Metrics/Traces) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-auto-instrumentation-and-manual-instrum-90745) |
-| A team refuses to give up a niche APM tool citing a unique capability. How do you validate the claim and decide whether to grant an exception or engineer around it? | deep understanding | SDE-2/3, Architect/Principal | Vendor & Tooling Consolidation Strategy | Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-refuses-to-give-up-a-niche-apm-tool-citing-a-unique-capability--103976) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Fullest Bin by Digit Sum | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bucketing, Counting, Digit Manipulation, Hash Table, Math | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fullest-bin-by-digit-sum-d1659) |
-| Longest Segment With At Most K Distinct Characters | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, Sliding Window, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-segment-with-at-most-k-distinct-characters-d340) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

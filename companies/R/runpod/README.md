@@ -1,67 +1,33 @@
 # Runpod
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 33
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Runpod:** 33
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Runpod's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Runpod: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 1 | 1 | 0 | 1 |
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 7 | 10 | 6 | 10 |
-| AI Engineer | 8 | 0 | 17 | 21 | 18 | 21 |
+| Backend | 4 | 4 | 43 | 59 | 56 | 60 |
+| Fullstack | 17 | 17 | 50 | 56 | 21 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 7 | 60 | 56 | 60 |
+| AI Engineer | 11 | 3 | 20 | 60 | 55 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your GPU-accelerated inference container works on one node and fails on another with driver mismatches. How do CUDA runtime, driver, and the NVIDIA container toolkit layer, and how would you make the image portable? | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-gpu-accelerated-inference-container-works-on-one-node-and-fails-o-26774) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your inference fleet could run cheaper on spot GPUs but a preemption mid-generation ruins user experience. Design the hybrid spot/on-demand GPU serving architecture and the cost-versus-UX policy that governs the mix. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-inference-fleet-could-run-cheaper-on-spot-gpus-but-a-preemption-m-41164) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a model-serving/inference gateway with routing, batching, and multi-model tenancy (buy a managed serving platform vs build on Triton/KServe/Ray Serve) when GPU utilization economics and cold-start dominate cost? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-model-serving-inference-gateway-w-69776) |
-| Explain how you'd set the org policy on when a team may keep a model always-warm on dedicated GPUs versus using a scale-to-zero serverless-GPU offering. Many endpoints run 24/7 out of habit — what framework decides the default and migrates legacy ones? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-set-the-org-policy-on-when-a-team-may-keep-a-model-a-69333) |
-| How do you validate that a GPU-trained XGBoost model produces the same predictions as CPU-trained before promoting it to production? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-a-gpu-trained-xgboost-model-produces-the-same-65901) |
-| How do you decide when to warm a model into GPU memory eagerly versus lazily on first request in FastAPI, given cold-start latency versus idle GPU cost? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-to-warm-a-model-into-gpu-memory-eagerly-versus--62955) |
-| How do you handle model artifacts that are too large to bake into the image so your FastAPI pod pulls them from object storage, and how do you avoid every pod re-downloading gigabytes on scale-up? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-model-artifacts-that-are-too-large-to-bake-into-the--62913) |
-| How do you handle the memory footprint problem when a FastAPI service loading a multi-GB model is run with several Gunicorn workers, and what serving patterns avoid duplicating the model per process? | expertise | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-memory-footprint-problem-when-a-fastapi-service--62889) |
-| Compare PPO and DPO in terms of compute cost, memory footprint, and training stability for a 7B model. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-ppo-and-dpo-in-terms-of-compute-cost-memory-footprint-and-trai-68081) |
-| Explain how you would checkpoint and resume a long RLHF training job across preemptible or spot GPUs. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-checkpoint-and-resume-a-long-rlhf-training-job-a-68095) |
-| Would you host the embedding model yourself on GPU or call a managed API? Walk through the latency, cost, and batching trade-offs for your expected QPS. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=would-you-host-the-embedding-model-yourself-on-gpu-or-call-a-managed-a-63986) |
-| An interviewer probes: why not just autoscale Transformer inference like any stateless service? Explain what makes GPU-backed attention serving fundamentally different. | deep understanding | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-why-not-just-autoscale-transformer-inference-lik-70374) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you keep GPU CI runners cost-effective when evals need real inference but GPUs sit idle between PRs? | deep understanding | SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-keep-gpu-ci-runners-cost-effective-when-evals-need-real--77676) |
-| Your GPU inference image is 12GB and CI takes forever to build and push it; how would you restructure the Dockerfile and CUDA layers to maximize cache reuse and shrink rollout time? | deep understanding | SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-gpu-inference-image-is-12gb-and-ci-takes-forever-to-build-and-pus-77631) |
-| How would you serve an open-source model like Llama in the cloud if you did not want to call a paid API? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-serve-an-open-source-model-like-llama-in-the-cloud-if-yo-76513) |
-| What is a cold start and why is it especially painful for a serverless function that loads a large embedding model? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-cold-start-and-why-is-it-especially-painful-for-a-serverless-76502) |
-| What is a GPU instance in the cloud and how is it different from a normal CPU instance for AI workloads? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-gpu-instance-in-the-cloud-and-how-is-it-different-from-a-nor-76484) |
-| What is a spot instance and why might you use one for a batch embedding job but not for a live chatbot? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-spot-instance-and-why-might-you-use-one-for-a-batch-embeddin-76540) |
-| What is autoscaling and what metric might trigger scaling out an AI service whose bottleneck is GPU utilization? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-autoscaling-and-what-metric-might-trigger-scaling-out-an-ai-se-76519) |
-| Why are cloud GPU instances so much more expensive per hour than regular instances and how does that affect an AI fresher's project budget? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-are-cloud-gpu-instances-so-much-more-expensive-per-hour-than-regul-76485) |
-| Why does the size of your ML model's Docker image matter when deploying an inference service to the cloud? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-does-the-size-of-your-ml-model-s-docker-image-matter-when-deployin-76501) |
-| Why might you use a serverless GPU platform for occasional model inference instead of keeping a GPU instance running all day? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-you-use-a-serverless-gpu-platform-for-occasional-model-infer-76516) |
-| You must fit a fine-tune on 8x24GB consumer GPUs with slow PCIe interconnect. How does the weak interconnect constrain your parallelism choices? | deep understanding | SDE-1/2, SDE-2/3 | Distributed Training (Data/Model Parallelism) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-fit-a-fine-tune-on-8x24gb-consumer-gpus-with-slow-pcie-interc-81086) |
-| How do you estimate the GPU-hour cost of a QLoRA run before launching and set a hard budget kill-switch — what signals trigger the abort? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-estimate-the-gpu-hour-cost-of-a-qlora-run-before-launching--80050) |
-| How do you validate that a paged-optimizer in QLoRA isn't silently thrashing to CPU and slowing your run 3x — what would you profile? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-a-paged-optimizer-in-qlora-isn-t-silently-thr-80014) |
-| How would you decide whether bf16 or fp16 mixed precision is causing your LoRA instability, and what's your fallback if the GPU lacks bf16? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-bf16-or-fp16-mixed-precision-is-causing-y-80066) |
-| You need to fine-tune on 32k-token documents but training OOMs on activations, not weights — walk me through the levers specific to activation memory. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-fine-tune-on-32k-token-documents-but-training-ooms-on-acti-80006) |
-| You must decide whether to self-host an open-weight model on a serverless-GPU platform (scale-to-zero, cold starts) versus a hosted API for a spiky internal tool. Walk me through the crossover where scale-to-zero self-hosting beats per-token API pricing. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-whether-to-self-host-an-open-weight-model-on-a-serverl-83860) |
-| You're evaluating running your own GPU inference on committed capacity versus a serverless per-second GPU provider for bursty AI traffic. Walk me through the utilization profile where committed capacity's lower unit cost beats serverless's pay-per-use, and how you'd hedge the commitment. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-running-your-own-gpu-inference-on-committed-capacity-83910) |
-| How would you decide whether an AI feature belongs on Kubernetes at all versus a serverless GPU platform (Modal/Runpod-style)? What traffic shape and cost profile pushes you each way? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-an-ai-feature-belongs-on-kubernetes-at-al-77584) |
-| You're deciding whether to adopt a serverless GPU inference offering for spiky, low-baseline features across the org versus keeping a reserved fleet. Frame the cold-start, cost-floor, and lock-in trade-off as a decision you'd defend to finance. | deep understanding | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-adopt-a-serverless-gpu-inference-offering-f-83460) |
-| You are told two thirds of GPU spend is idle; how do you architect fleet utilization improvements without teams gaming the metric by holding capacity hostage? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-told-two-thirds-of-gpu-spend-is-idle-how-do-you-architect-flee-84343) |
-| Explain how you'd monitor cold-start latency on a serverless GPU LLM endpoint (weights loading into VRAM) separately from warm latency, and alert only on the metric that matters to users. Why does the Prometheus pull model struggle with ephemeral GPU functions? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-monitor-cold-start-latency-on-a-serverless-gpu-llm-e-78893) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

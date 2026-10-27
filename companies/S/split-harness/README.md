@@ -1,34 +1,33 @@
 # Split-Harness
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 6
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Split-Harness:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Split-Harness's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Split-Harness: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 3 | 4 | 1 | 4 |
-| AI Engineer | 0 | 0 | 1 | 1 | 0 | 1 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 50 | 56 | 21 | 60 |
+| DevOps | 27 | 19 | 35 | 58 | 39 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 5 | 60 | 57 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must decide whether to build a homegrown feature-flag/config service on DynamoDB or adopt AppConfig for org-wide dynamic config — how do you weigh propagation latency, blast-radius of a bad flag, and the operational cost of owning it? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-whether-to-build-a-homegrown-feature-flag-config-servi-39312) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you'd architect a resilient global-config/feature-flag control plane that hundreds of services depend on, so that if it's unreachable, every service still starts and runs on safe local defaults, and a bad global flag can't fan out to the whole fleet. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-architect-a-resilient-global-config-feature-flag-con-52895) |
-| How would you use OpenFeature as a vendor-agnostic abstraction so you can swap flag providers without touching app code, and what does that buy an SRE team operationally? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-openfeature-as-a-vendor-agnostic-abstraction-so-you--47339) |
-| Your flag service is a SaaS vendor and it went down during a regional outage — how do you architect the SDK caching and fallback so your app keeps serving sane defaults? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-flag-service-is-a-saas-vendor-and-it-went-down-during-a-regional--47363) |
-| Your org wants flags to be self-service for developers but SRE-governed for anything touching prod capacity — how do you split permissions and approval flows to balance speed and safety? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-wants-flags-to-be-self-service-for-developers-but-sre-governe-47395) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you would expose a feature-flag or config resource via MCP so agent behavior can be tuned without redeploys. | intermediate experience | SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-expose-a-feature-flag-or-config-resource-via-mcp-80985) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

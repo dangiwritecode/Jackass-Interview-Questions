@@ -1,25 +1,33 @@
 # G42
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 3
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to G42:** 3
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. G42's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches G42: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AIOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 8 | 60 | 55 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AIOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your platform must scale to sovereign/regional isolation where each geography is a near-independent stack for data-residency and regulatory reasons. As a principal, design how you share tooling and models across sovereign boundaries without violating them, and where the isolation forces genuine duplication. | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-platform-must-scale-to-sovereign-regional-isolation-where-each-ge-100680) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you plan spare capacity for a sovereign-AI deployment where you cannot burst to a public cloud during a spike? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-spare-capacity-for-a-sovereign-ai-deployment-where-you-86695) |
-| How would you decide the org's stance on model self-hosting for data-sovereignty markets (India, EU, Middle East) where a local model must serve but frontier quality lives elsewhere? What per-region quality/cost compromise do you standardize? | expertise | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-org-s-stance-on-model-self-hosting-for-data-s-83493) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,71 +1,33 @@
 # Navi
 
-**Tier:** Tier 3  |  **Business domain:** Fintech  |  **Questions:** 37
+**Tier:** Tier 3  |  **Business domain:** Fintech  |  **Questions listed:** 540  |  **Tagged directly to Navi:** 37
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Navi's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Navi: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Database Developer | 0 | 17 | 17 | 0 | 0 | 17 |
-| ML Engineer | 0 | 0 | 11 | 17 | 6 | 17 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Structures & Algorithms (all profiles) | 2 | 2 | 2 | 2 | 2 | 2 |
+| Backend | 3 | 3 | 20 | 59 | 58 | 60 |
+| Fullstack | 19 | 19 | 46 | 55 | 22 | 60 |
+| DevOps | 28 | 20 | 28 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 14 | 60 | 52 | 60 |
+| Data Engineer | 13 | 5 | 42 | 58 | 25 | 60 |
+| Database Developer | 11 | 31 | 32 | 37 | 29 | 60 |
+| ML Engineer | 0 | 0 | 11 | 60 | 49 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Database Developer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A PL/SQL cursor uses a bind variable but the plan is still bad because of bind peeking / skewed data; how does adaptive cursor sharing change your approach? | expertise | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pl-sql-cursor-uses-a-bind-variable-but-the-plan-is-still-bad-because-108514) |
-| A stored function used in a WHERE clause returns different results across rows because it reads mutable session state; why is that a determinism bug and how do you fix it? | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stored-function-used-in-a-where-clause-returns-different-results-acr-108537) |
-| Contrast DBMS_JOB with DBMS_SCHEDULER; why did you migrate legacy jobs and what features (chains, windows, resource plans) drove it? | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-dbms-job-with-dbms-scheduler-why-did-you-migrate-legacy-jobs--108496) |
-| Describe how PLSQL_WARNINGS and compile-time warnings help you catch dead code, unreachable handlers, or IN OUT NOCOPY issues before production. | intermediate experience | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-plsql-warnings-and-compile-time-warnings-help-you-catch-d-108532) |
-| Describe how you use DBMS_LOCK or an application-level lock to serialize a critical section across sessions in PL/SQL, and its pitfalls. | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-use-dbms-lock-or-an-application-level-lock-to-seriali-108464) |
-| Describe how you'd version PL/SQL packages so a schema change and code change deploy atomically with zero-downtime using edition-based redefinition (EBR). | expertise | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-version-pl-sql-packages-so-a-schema-change-and-code-108508) |
-| Explain how conditional compilation ($IF $THEN with PLSQL_CCFLAGS) lets you keep debug instrumentation in code but strip it from the production build. | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-conditional-compilation-if-then-with-plsql-ccflags-lets-yo-108485) |
-| Explain the difference between RAISE and RAISE_APPLICATION_ERROR for propagating a business error to a Java/.NET caller, and which the app team should catch. | intermediate experience | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-raise-and-raise-application-error-for-p-108469) |
-| Explain the SQL-to-PL/SQL context switch cost and give three concrete coding changes you made to reduce context switches in a batch job. | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-sql-to-pl-sql-context-switch-cost-and-give-three-concrete--108447) |
-| Explain the transaction and locking implications of calling COMMIT inside a loop that also holds an open FOR UPDATE cursor. | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-transaction-and-locking-implications-of-calling-commit-ins-108520) |
-| How do you process CLOB/BLOB data in PL/SQL efficiently using DBMS_LOB, and what memory concerns arise reading a multi-GB LOB in a loop? | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-process-clob-blob-data-in-pl-sql-efficiently-using-dbms-lob-108502) |
-| How do you use the RETURNING BULK COLLECT INTO clause with FORALL to capture generated keys from a bulk insert? | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-the-returning-bulk-collect-into-clause-with-forall-to-c-108490) |
-| What is PRAGMA UDF and when would tagging a function with it speed up its use inside a SQL statement? | expertise | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-pragma-udf-and-when-would-tagging-a-function-with-it-speed-up--108452) |
-| When would you make a package AUTHID CURRENT_USER, and how does that change name resolution and privilege checks at runtime? | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-make-a-package-authid-current-user-and-how-does-that-ch-108474) |
-| Your associative array holding lookup data grew unbounded and blew PGA; how do you cap it or move it to a global temporary table instead? | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-associative-array-holding-lookup-data-grew-unbounded-and-blew-pga-108458) |
-| Your dynamic SQL causes hard-parse storms and latch contention on the shared pool; how do bind variables and CURSOR_SHARING relate to the fix? | expertise | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-dynamic-sql-causes-hard-parse-storms-and-latch-contention-on-the--108479) |
-| Your procedure inserts into a table with an unusable global index after a partition op; how do you detect and rebuild it from PL/SQL safely? | deep understanding | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-procedure-inserts-into-a-table-with-an-unusable-global-index-afte-108526) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A regulator requires that any credit-scoring model's decision be explainable and its training data auditable years later — how do you architect model and data lineage on AWS (SageMaker Lineage, Model Cards, immutable dataset snapshots) so this is provable, not reconstructed? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-requires-that-any-credit-scoring-model-s-decision-be-expla-68583) |
-| A regulator wants proof your lending model doesn't discriminate against a protected group and that every decision is auditable — how do you architect the pipeline on AWS so bias reports, feature lineage, and per-prediction explanations are captured as tamper-evident evidence? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-wants-proof-your-lending-model-doesn-t-discriminate-agains-68632) |
-| How would you architect a model-explainability and bias-monitoring layer on AWS with SageMaker Clarify so every high-stakes model produces auditable attribution and fairness reports over time — and stop teams from treating explainability as a one-time launch checkbox? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-model-explainability-and-bias-monitoring-lay-68631) |
-| How do you validate that a Random Forest's predicted probabilities are usable as thresholds in a decisioning system versus needing calibration? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-a-random-forest-s-predicted-probabilities-are-65958) |
-| How would you audit an XGBoost credit model for fairness across protected groups without directly using those attributes as features? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-audit-an-xgboost-credit-model-for-fairness-across-protec-65920) |
-| How would you use monotonic constraints in XGBoost for a credit-risk model, and what validation would you add to prove the constraints hold? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-monotonic-constraints-in-xgboost-for-a-credit-risk-m-65897) |
-| What is your approach to validating models whose ground truth is delayed by months (e.g., credit default, churn), and how do you manage risk in the interim? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-approach-to-validating-models-whose-ground-truth-is-delay-71789) |
-| Explain how you'd compute a confidence interval on a rare-event rate (e.g., a 0.1% error rate) and why the normal approximation fails here. | deep understanding | SDE-1/2, SDE-2/3 | Probability & Statistics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-compute-a-confidence-interval-on-a-rare-event-rate-e-65200) |
-| Explain how you'd measure whether SMOTE-generated minority samples preserve the true conditional distribution and when oversampling hurts calibration. | deep understanding | SDE-1/2, SDE-2/3 | Probability & Statistics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-measure-whether-smote-generated-minority-samples-pre-65248) |
-| How do you estimate uncertainty on a fraud model's precision when the positive class is only 0.3% of traffic? | deep understanding | SDE-1/2, SDE-2/3 | Probability & Statistics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-estimate-uncertainty-on-a-fraud-model-s-precision-when-the--65183) |
-| How does class rebalancing change the predicted probabilities, and how would you recover calibrated posteriors after training on a rebalanced set? | expertise | SDE-1/2, SDE-2/3 | Probability & Statistics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-class-rebalancing-change-the-predicted-probabilities-and-how--65249) |
-| How would you choose a classification threshold to hit a target precision of 95% with a confidence bound, given noisy validation data? | deep understanding | SDE-1/2, SDE-2/3 | Probability & Statistics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-choose-a-classification-threshold-to-hit-a-target-precis-65185) |
-| How would you estimate the false-positive rate of a fraud model under a rare positive class when you can only sample-audit a fraction of alerts? | deep understanding | SDE-1/2, SDE-2/3 | Probability & Statistics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-estimate-the-false-positive-rate-of-a-fraud-model-under--65267) |
-| Under prior probability shift, how do you recalibrate a classifier's outputs without relabeling fresh data? | expertise | SDE-1/2, SDE-2/3 | Probability & Statistics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=under-prior-probability-shift-how-do-you-recalibrate-a-classifier-s-ou-65193) |
-| You compute a population stability index (PSI) of 0.28 on a scoring feature week-over-week. What does that tell you and what is your action threshold? | deep understanding | SDE-1/2, SDE-2/3 | Probability & Statistics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-compute-a-population-stability-index-psi-of-0-28-on-a-scoring-feat-65172) |
-| What is your strategy for retraining when labels arrive with a multi-week delay, such as loan defaults or churn, and the model must still stay current? | expertise | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-for-retraining-when-labels-arrive-with-a-multi-w-72374) |
-| What retraining governance do you enforce for models subject to regulatory fairness constraints, so no retrain silently degrades a protected-group metric? | expertise | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-retraining-governance-do-you-enforce-for-models-subject-to-regula-72385) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your framework for deciding when pseudonymization is legally sufficient versus when you need true anonymization that removes the data from GDPR scope entirely? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-deciding-when-pseudonymization-is-legally-su-87233) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Pair Positions to Minimize the Largest Gap | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Greedy, Sorting, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=pair-positions-to-minimize-the-largest-gap-d2466) |
-| Reaching the Final Cell With Forward Hops | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reaching-the-final-cell-with-forward-hops-d55) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

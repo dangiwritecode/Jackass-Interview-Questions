@@ -1,46 +1,33 @@
 # Mirantis
 
-**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 24
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Mirantis:** 24
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Mirantis's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Mirantis: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 3 | 3 | 3 |
-| DevOps | 19 | 0 | 19 | 21 | 21 | 21 |
+| Backend | 4 | 4 | 21 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 48 | 56 | 24 | 60 |
+| DevOps | 48 | 21 | 49 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must decide the org's node-image and OS strategy: general-purpose distro versus an immutable, minimal, container-optimized OS (Bottlerocket/Talos/Flatcar). Walk through the security, patch-cadence, and debuggability trade-offs, and how you'd migrate 80 clusters without losing the ability to break-glass onto a node. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-the-org-s-node-image-and-os-strategy-general-purpose-d-39045) |
-| You're deciding the org's stance on running the API server and etcd as a managed control plane (control-plane-as-a-service like Kamaji/Hosted Control Planes) to run many lightweight tenant clusters. Walk through the trade-offs versus full clusters, and the failure isolation you gain or lose. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-the-org-s-stance-on-running-the-api-server-and-etcd-as-39054) |
-| You're deciding whether to manage the fleet declaratively with Cluster API (CAPI) or stay on cloud-managed node groups. Walk through the build-vs-buy trade-off for CAPI at 80+ clusters across clouds, the lifecycle guarantees it buys, and the operational tax it adds. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-manage-the-fleet-declaratively-with-cluster-39025) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect a compliance strategy for a fully GitOps-driven fleet where Argo/Flux reconciles thousands of clusters — how do you make the reconciliation loop itself the enforcement point and the evidence source simultaneously? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-compliance-strategy-for-a-fully-gitops-drive-54034) |
-| How do you create a namespace, and how do you tell kubectl to run a command in that namespace? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-create-a-namespace-and-how-do-you-tell-kubectl-to-run-a-com-42333) |
-| How do you set a simple hardcoded environment variable on a container in the Pod spec? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-a-simple-hardcoded-environment-variable-on-a-container--42347) |
-| How do you view cluster events, and why are they useful when a Pod won't start? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-view-cluster-events-and-why-are-they-useful-when-a-pod-won--42392) |
-| How is memory expressed in Kubernetes (Mi vs M, Gi vs G) and why does the difference matter? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-is-memory-expressed-in-kubernetes-mi-vs-m-gi-vs-g-and-why-does-the-42387) |
-| How would another Pod call your Service named 'orders' in the same namespace using just its name? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-another-pod-call-your-service-named-orders-in-the-same-names-42362) |
-| How would you list all the Pods running in a specific namespace using kubectl? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-list-all-the-pods-running-in-a-specific-namespace-using--42325) |
-| If a Pod has two containers, how do you tell kubectl logs which container's logs you want? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-a-pod-has-two-containers-how-do-you-tell-kubectl-logs-which-contain-42342) |
-| What does a Deployment's rolling update do so users don't see downtime, in simple terms? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-a-deployment-s-rolling-update-do-so-users-don-t-see-downtime-42408) |
-| What does a liveness probe do differently from a readiness probe in simple terms? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-a-liveness-probe-do-differently-from-a-readiness-probe-in-si-42382) |
-| What happens if you manually delete a ReplicaSet that a Deployment created? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-happens-if-you-manually-delete-a-replicaset-that-a-deployment-cre-42352) |
-| What is 'kubectl get pods -o wide' good for compared to the plain output? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-kubectl-get-pods-o-wide-good-for-compared-to-the-plain-output-42339) |
-| What is a 'context' in kubectl and how do you switch between multiple clusters? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-context-in-kubectl-and-how-do-you-switch-between-multiple-cl-42320) |
-| What is a 'kubectl port-forward' and how would you use it to test a Pod from your laptop without a Service? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-kubectl-port-forward-and-how-would-you-use-it-to-test-a-pod--42357) |
-| What is a Deployment's selector and why must it match the Pod template's labels? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-deployment-s-selector-and-why-must-it-match-the-pod-template-42367) |
-| What is a kubeconfig file and what three things does it usually contain? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-kubeconfig-file-and-what-three-things-does-it-usually-contai-42403) |
-| What is a mountPath when mounting a volume into a container, and what happens to files already there? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-mountpath-when-mounting-a-volume-into-a-container-and-what-h-42377) |
-| What is the Horizontal Pod Autoscaler in one line, and what metric does it scale on out of the box? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-horizontal-pod-autoscaler-in-one-line-and-what-metric-does-42413) |
-| What is the Kubernetes API server and why is it called the 'front door' of the cluster? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-kubernetes-api-server-and-why-is-it-called-the-front-door--42397) |
-| Why is data in a Secret only base64-encoded and not truly encrypted by default? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-data-in-a-secret-only-base64-encoded-and-not-truly-encrypted-by-42372) |
-| Your org runs 50 EKS clusters across 3 accounts and 4 regions. Design the Kubernetes auth and identity strategy so onboarding a new cluster to Vault is a templated, self-service operation. | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-50-eks-clusters-across-3-accounts-and-4-regions-design-t-54934) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

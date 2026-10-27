@@ -1,71 +1,33 @@
 # Anduril Industries
 
-**Tier:** Tier 2  |  **Business domain:** Defense  |  **Questions:** 43
+**Tier:** Tier 2  |  **Business domain:** Defense  |  **Questions listed:** 540  |  **Tagged directly to Anduril Industries:** 43
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Anduril Industries's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Anduril Industries: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Structures & Algorithms (all profiles) | 41 | 41 | 41 | 41 | 41 | 41 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must run GitOps across regulated air-gapped environments (banking, defense) — how does the architecture change when clusters can't reach the central git host or public registries? | expertise | SDE-2/3, Architect/Principal | GitOps | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-run-gitops-across-regulated-air-gapped-environments-banking-d-54836) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you safely deploy a model where you cannot A/B test because the affected population is tiny or the outcome is high-stakes like safety or fraud? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-safely-deploy-a-model-where-you-cannot-a-b-test-because--84368) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Build a Word from Available Letter Supply | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Frequency Array, Hash Table, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=build-a-word-from-available-letter-supply-d383) |
-| Can Every Build Task Be Completed With Dependencies | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Cycle Detection, Depth-First Search, Graph, In-degree / Kahn's Algorithm, Topological Sort | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-every-build-task-be-completed-with-dependencies-d207) |
-| Check Whether a Binary Tree Is Height-Balanced | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Recursion, Tree | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=check-whether-a-binary-tree-is-height-balanced-d110) |
-| Check Word Order Under a Custom Alphabet | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Comparator, Hash Table, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=check-word-order-under-a-custom-alphabet-d938) |
-| Count Connected Land Regions in a Grid Map | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Connected Components, Depth-First Search, Flood Fill, Matrix, Union Find | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-connected-land-regions-in-a-grid-map-d200) |
-| Count Distinct Land Shapes in a Binary Grid | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Connected Components, Depth-First Search, Flood Fill, Hash Function, Hash Table, Matrix, Union Find | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-distinct-land-shapes-in-a-binary-grid-d679) |
-| Counting Markers Covered by Circular Zones | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Brute Force, Geometry, Math | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-markers-covered-by-circular-zones-d1737) |
-| Counting Palindromic Substrings | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Expand Around Center, Palindrome, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-palindromic-substrings-d632) |
-| Design a Prefix Dictionary for Words and Prefixes | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design, Hash Table, Prefix Tree, String, Tree, Trie | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-prefix-dictionary-for-words-and-prefixes-d208) |
-| Distance to the Next Greater Value | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Monotonic Stack, Next Greater Element, Stack | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=distance-to-the-next-greater-value-d724) |
-| Enumerate All Token Segmentations of a String | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Dynamic Programming, Hash Table, Memoization, Recursion, String, Trie | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=enumerate-all-token-segmentations-of-a-string-d140) |
-| Evaluate a Postfix Arithmetic Expression | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Expression Evaluation, Math, Simulation, Stack | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=evaluate-a-postfix-arithmetic-expression-d150) |
-| Expand a Choice Pattern into All Sorted Words | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Breadth-First Search, Depth-First Search, Enumeration, Recursion, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=expand-a-choice-pattern-into-all-sorted-words-d1067) |
-| Fewest Batches to Clear Same-Type Items | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Greedy, Hash Table, Math | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-batches-to-clear-same-type-items-d2114) |
-| Fewest Cells on an Open Path Across a Square Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Graph Traversal, Matrix, Shortest Path | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-cells-on-an-open-path-across-a-square-grid-d1071) |
-| Fewest Pieces to Cover a Range | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Intervals, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-pieces-to-cover-a-range-d1009) |
-| Fewest Rolls to Finish a Zigzag-Numbered Board with Portals | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Graph, Matrix, Shortest Path | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-rolls-to-finish-a-zigzag-numbered-board-with-portals-d894) |
-| Fill Enclosed Open Regions in a Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Connected Components, Depth-First Search, Flood Fill, Matrix, Union Find | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fill-enclosed-open-regions-in-a-grid-d130) |
-| Group Binary Tree Node Values by Column | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Breadth-First Search, Depth-First Search, Hash Table, Queue, Sorting, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=group-binary-tree-node-values-by-column-d314) |
-| Inorder Listing of a Binary Tree's Values | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Iterative Traversal, Recursion, Stack, Tree | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=inorder-listing-of-a-binary-tree-s-values-d94) |
-| Insert a Value into a Binary Search Tree | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search Tree, Binary Tree, Insertion, Recursion, Tree | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=insert-a-value-into-a-binary-search-tree-d686) |
-| Insert a Value into a Sorted Cyclic Linked List | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Circular Linked List, Linked List, Pointer Manipulation, Two Pointers | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=insert-a-value-into-a-sorted-cyclic-linked-list-d693) |
-| Largest Connected Block of Land in a Binary Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Connected Components, Depth-First Search, Flood Fill, Matrix, Union Find | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-connected-block-of-land-in-a-binary-grid-d680) |
-| Largest Connected Region After Reclaiming One Cell | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Connected Components, Depth-First Search, Flood Fill, Matrix, Union Find | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-connected-region-after-reclaiming-one-cell-d812) |
-| Locate the Repeated Label in a Bounded Sequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Bit Manipulation, Floyd's Cycle Detection, Linked List (implicit), Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=locate-the-repeated-label-in-a-bounded-sequence-d287) |
-| Merge Contact Records That Share an Email | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Connected Components, Depth-First Search, Hash Table, Sorting, String, Union Find | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=merge-contact-records-that-share-an-email-d706) |
-| Minimum Broadcast Radius to Cover All Sensors | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Greedy, Sorting, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-broadcast-radius-to-cover-all-sensors-d475) |
-| Minimum Index Gap Between Two Tokens | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Single-Pass Scan, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-index-gap-between-two-tokens-d243) |
-| Most Points Inside a Rotatable Angular View | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Geometry, Math, Sliding Window, Sorting, Two Pointers | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=most-points-inside-a-rotatable-angular-view-d1536) |
-| Prefix-Based Autocomplete Suggestions | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Heap (Priority Queue), Sorting, String, Trie, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=prefix-based-autocomplete-suggestions-d1228) |
-| Repeated Minimum Gap Queries Between Two Tokens | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Design, Hash Table, Preprocessing, String, Two Pointers | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=repeated-minimum-gap-queries-between-two-tokens-d244) |
-| Reveal a Cell on a Hidden Minefield Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Flood Fill, Matrix, Recursion | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reveal-a-cell-on-a-hidden-minefield-grid-d528) |
-| Running Median of a Number Stream | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Data Stream, Design, Heap (Priority Queue), Sorting, Two Heaps | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=running-median-of-a-number-stream-d295) |
-| Settling a Row of Toppling Rods | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Prefix Sum / Suffix Sum, Simulation, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=settling-a-row-of-toppling-rods-d823) |
-| Shortest Command Sequence to Reach a Target on a Rail | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | BFS, Bit Manipulation, Dynamic Programming, Greedy, Math | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-command-sequence-to-reach-a-target-on-a-rail-d803) |
-| Simultaneous Cellular Automaton Step on a Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bit Manipulation, In-place Update, Matrix, Simulation | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=simultaneous-cellular-automaton-step-on-a-grid-d289) |
-| Straighten a Binary Tree Into a Right-Leaning Chain | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, In-place, Linked List, Morris Traversal, Stack, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=straighten-a-binary-tree-into-a-right-leaning-chain-d114) |
-| Swap-Equivalent Binary Trees | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Recursion, Tree | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=swap-equivalent-binary-trees-d936) |
-| Towers With an Unobstructed Bay View | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Monotonic Stack, Stack, Suffix Maximum | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=towers-with-an-unobstructed-bay-view-d1678) |
-| Valid Completion Order of Dependent Tasks | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Cycle Detection, Depth-First Search, Graph, In-degree Counting, Topological Sort | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=valid-completion-order-of-dependent-tasks-d210) |
-| Versioned Value Store with Point-in-Time Lookup | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Data Structure, Design, Hash Table, String | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=versioned-value-store-with-point-in-time-lookup-d966) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,53 +1,33 @@
 # Setu
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 19
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Setu:** 17
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Setu's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Setu: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 4 | 4 | 4 |
-| Fullstack | 0 | 0 | 0 | 9 | 9 | 9 |
-| DevOps | 0 | 0 | 0 | 4 | 4 | 4 |
-| AI Engineer | 0 | 0 | 1 | 2 | 2 | 2 |
+| Backend | 4 | 4 | 41 | 59 | 57 | 60 |
+| Fullstack | 16 | 16 | 45 | 56 | 26 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 5 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A product org wants a public developer platform (like Stripe's) fronted by your gateway; design the external API-product architecture covering key management, rate tiers, versioning SLAs, sandbox environments, and the org structure needed to support external developers. | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-product-org-wants-a-public-developer-platform-like-stripe-s-fronted--34562) |
-| Design the API-first governance model where the gateway is the single enforcement point for every external and partner integration; how do you handle partner onboarding, per-partner SLAs, sandbox-to-prod promotion, and the org structure to support hundreds of partners? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-api-first-governance-model-where-the-gateway-is-the-single--34575) |
-| You're accountable for the architecture of a system where a downstream partner deprecates an API you depend on with 90 days notice. Walk me through how you'd design the abstraction so such a forced migration is a config change, not a re-architecture. | deep understanding | SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-accountable-for-the-architecture-of-a-system-where-a-downstream-31062) |
-| You're designing a system-of-systems where partner companies integrate via your APIs. How do you architect for partners who are slow, buggy, or malicious, so their behavior can never degrade your core platform? | expertise | SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-a-system-of-systems-where-partner-companies-integrate-31021) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A product org wants a public developer platform (like Stripe's) fronted by your gateway; design the external API-product architecture covering key management, rate tiers, versioning SLAs, sandbox environments, and the org structure needed to support external developers. | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-product-org-wants-a-public-developer-platform-like-stripe-s-fronted--34562) |
-| Design the API-first governance model where the gateway is the single enforcement point for every external and partner integration; how do you handle partner onboarding, per-partner SLAs, sandbox-to-prod promotion, and the org structure to support hundreds of partners? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-api-first-governance-model-where-the-gateway-is-the-single--34575) |
-| You're asked to make the gateway support 'API sandboxing' where external developers hit a stateful mock that mirrors prod contracts; design how the gateway routes sandbox versus prod, keeps mocks in sync with real API changes, and prevents sandbox traffic from touching prod data. | deep understanding | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-make-the-gateway-support-api-sandboxing-where-external-39544) |
-| Your gateway must survive a dependency that's itself the gateway of another org (a critical SaaS partner) going down; design how the edge detects partner-side degradation, fails over or degrades the dependent flows, and communicates a coherent status to your own clients. | deep understanding | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-gateway-must-survive-a-dependency-that-s-itself-the-gateway-of-an-39592) |
-| A partner integration must act on behalf of many of your users. Compare per-user OAuth consent against a single high-privilege partner key on blast radius, revocation, and audit, and design exactly how you contain damage if the partner is breached. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-partner-integration-must-act-on-behalf-of-many-of-your-users-compare-38897) |
-| A principal proposes replacing your bespoke consent screens with a standards-based FAPI 2.0 profile for open-banking-grade security. What does FAPI actually buy you over plain auth-code+PKCE, and what operational and client-compatibility costs does mandating it impose? | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-proposes-replacing-your-bespoke-consent-screens-with-a-sta-38824) |
-| Describe a time you had to lead the org through a decision on whether to accept a proprietary vendor's SDK deep in your product's critical path, weighing velocity today against lock-in and blast radius tomorrow. How did you decide? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-lead-the-org-through-a-decision-on-whether--40507) |
-| Describe a time you had to lead the org's decision on whether to expose a versioned public API and commit to its stability for years, versus keeping it internal and mutable. How did you weigh the commitment? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-lead-the-org-s-decision-on-whether-to-expos-40459) |
-| How do you architect trust for machine-to-machine partner integrations (B2B API federation) where you must accept another company's tokens? Design the boundary so their IdP compromise does not become your breach, and vice versa. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-trust-for-machine-to-machine-partner-integrations-41270) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you plan capacity for a system where the binding constraint is a downstream vendor's rate limit (payment processor, SMS gateway, external API) rather than your own compute? How does an externally-imposed ceiling reshape your scaling and cost story? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-for-a-system-where-the-binding-constraint-is--52988) |
-| Explain how you'd build resilience into a system that integrates dozens of unreliable external partner APIs (banks, carriers, KYC vendors). Design an org-wide integration-gateway pattern with per-partner isolation, breakers, SLA enforcement, and a multi-day-partner-outage exit plan. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-build-resilience-into-a-system-that-integrates-dozen-52897) |
-| How would you architect a public API platform used by tens of thousands of external integrators for evolution and sunset, given you can't force clients to upgrade? Cover versioning strategy, sunset headers, usage discovery, and the politics of a hard deprecation date. | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-public-api-platform-used-by-tens-of-thousand-51980) |
-| Threat-model a design where you federate machine-to-machine trust with dozens of partner companies via OAuth client credentials, so a partner's IdP compromise cannot become your breach and your compromise cannot become theirs. Where do you terminate trust? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=threat-model-a-design-where-you-federate-machine-to-machine-trust-with-54003) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect an eval that measures end-to-end quality of a pipeline where an LLM output feeds a classical model that feeds a business rule engine? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-eval-that-measures-end-to-end-quality-of-a--86899) |
-| Your feature must extract a bounded numeric field the JSON schema can't constrain to a range. Explain where schema enforcement ends and your validation must begin. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-feature-must-extract-a-bounded-numeric-field-the-json-schema-can--77958) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

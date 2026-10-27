@@ -1,26 +1,33 @@
 # HP
 
-**Tier:** Tier 3  |  **Business domain:** Hardware  |  **Questions:** 4
+**Tier:** Tier 3  |  **Business domain:** Hardware  |  **Questions listed:** 540  |  **Tagged directly to HP:** 4
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. HP's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches HP: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 1 | 0 | 1 | 1 | 0 | 1 |
-| Data Structures & Algorithms (all profiles) | 3 | 3 | 3 | 3 | 3 | 3 |
+| Backend | 12 | 12 | 41 | 53 | 49 | 60 |
+| Fullstack | 24 | 24 | 46 | 50 | 21 | 60 |
+| DevOps | 45 | 0 | 47 | 60 | 15 | 60 |
+| AIOps | 2 | 1 | 21 | 60 | 46 | 60 |
+| Data Engineer | 11 | 3 | 38 | 59 | 29 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 9 | 60 | 51 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What is a runlevel and how do systemd targets replace the older SysV runlevel concept? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-runlevel-and-how-do-systemd-targets-replace-the-older-sysv-r-41621) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Fewest Repaints to Get a Run of Dark Panels | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Sliding Window, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-repaints-to-get-a-run-of-dark-panels-d2236) |
-| Maximum Palindrome Length from Available Letters | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Frequency Array, Greedy, Hash Table, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-palindrome-length-from-available-letters-d409) |
-| Minimum Toll to Route a Cart to Its Dock | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Grid Simulation, Math, Prefix Sum | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-toll-to-route-a-cart-to-its-dock-d1969) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

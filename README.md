@@ -5,7 +5,7 @@ Built from the SkillMeet Locus question bank.
 
 - **Companies:** 2,246
 - **Questions in the bank:** 130,998
-- **Company-question entries listed here:** 1,250,371
+- **Question entries listed here:** 1,278,582
 
 ## How the links work
 
@@ -18,6 +18,18 @@ https://skillmeet.ai/?tab=locus&view=questions&slug=<question-slug>
 Opening it takes you to the Locus section on SkillMeet, which looks that question up and shows its answer.
 **Sign in to SkillMeet first** — Locus runs the lookup against your account, so the link needs a signed-in session.
 
+## How questions reach a company
+
+A question can be listed against a company three ways, and the **Why It Is Listed** column always says which:
+
+| Basis | Meaning |
+|---|---|
+| `Asked at <Company>` | The question is tagged to that company in the bank. |
+| `Asked at <Domain> companies` | Tagged to other companies in the same business domain — fintech, SaaS, e-commerce and so on. |
+| `Commonly asked at <Tier> companies` | Tagged widely across companies of the same tier. |
+
+Direct tags are listed first and in full. A role profile with fewer than 60 of them is filled from the domain pool and then the tier pool, ranked by how many employers ask the question. This mirrors how Locus itself broadens a thin filter, and it is why a smaller employer still has a useful list instead of three questions.
+
 ## Column meanings
 
 | Column | Meaning |
@@ -28,6 +40,7 @@ Opening it takes you to the Locus section on SkillMeet, which looks that questio
 | **Tool / Technology** | The subject the question belongs to — the topic for tech questions, the algorithmic techniques for DSA questions. |
 | **Interview Round** | The rounds this question shows up in: Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite, Hiring Manager. |
 | **Question Bank** | `Tech` for concept and system questions, `DSA` for coding problems. |
+| **Why It Is Listed** | Which of the three bases above put this question on this company page. |
 | **Open in Locus** | Deep link that opens this question on SkillMeet. |
 
 ## Layout

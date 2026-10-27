@@ -1,31 +1,33 @@
 # HashedIn
 
-**Tier:** Tier 4  |  **Business domain:** IT-Services  |  **Questions:** 15
+**Tier:** Tier 4  |  **Business domain:** IT-Services  |  **Questions listed:** 540  |  **Tagged directly to HashedIn:** 15
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. HashedIn's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches HashedIn: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 15 | 15 | 15 | 15 | 15 | 15 |
+| Backend | 4 | 4 | 46 | 59 | 57 | 60 |
+| Fullstack | 18 | 18 | 54 | 56 | 17 | 60 |
+| DevOps | 27 | 18 | 28 | 59 | 46 | 60 |
+| AIOps | 2 | 1 | 11 | 60 | 52 | 60 |
+| Data Engineer | 11 | 3 | 53 | 58 | 19 | 60 |
+| Database Developer | 13 | 22 | 23 | 46 | 38 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 2 | 15 | 60 | 51 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Count Integers in a Range Ending With a Fixed Suffix and Digit Ceiling | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Combinatorics, Counting, Digit DP, Dynamic Programming, Math, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-integers-in-a-range-ending-with-a-fixed-suffix-and-digit-ceiling-d2751) |
-| Counting Divisor-Compatible Permutations | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Bit Manipulation, Bitmask, Combinatorics, Depth-First Search, Dynamic Programming, Recursion | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-divisor-compatible-permutations-d525) |
-| Largest Axis-Aligned Window Covering Distinctly Labeled Stations | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Chebyshev Distance, Counting, Geometry, Greedy, Hash Table, Monotonicity | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-axis-aligned-window-covering-distinctly-labeled-stations-d2857) |
-| Largest Product of a Contiguous Block | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Kadane's Algorithm | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-product-of-a-contiguous-block-d152) |
-| Largest Sum of a Contiguous Block | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Divide and Conquer, Dynamic Programming, Kadane's Algorithm | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-sum-of-a-contiguous-block-d53) |
-| Minimum Array Length After Repeated Modulo-and-Merge Operations | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Math, Modular Arithmetic, Number Theory | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-array-length-after-repeated-modulo-and-merge-operations-d2762) |
-| Minimum Character Edits to Transform One String into Another | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | 2D DP, Dynamic Programming, Edit Distance, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-character-edits-to-transform-one-string-into-another-d72) |
-| Minimum Hourly Clearing Rate to Empty Every Stack in Time | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Monotonic Predicate | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-hourly-clearing-rate-to-empty-every-stack-in-time-d860) |
-| Minimum Strides to Reach the Final Tile | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Dynamic Programming, Greedy | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-strides-to-reach-the-final-tile-d45) |
-| Minimum Time to Finish All Tasks With Parallel Workers | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Greedy | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-time-to-finish-all-tasks-with-parallel-workers-d2445) |
-| Minimum Weighted Cost to Align All Markers to One Point | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Greedy, Prefix Sum, Sorting, Weighted Median | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-weighted-cost-to-align-all-markers-to-one-point-d2303) |
-| Optimal Play in the Erase-One XOR Duel | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bit Manipulation, Brainteaser, Game Theory, Math, Parity | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=optimal-play-in-the-erase-one-xor-duel-d795) |
-| Reaching the Final Cell With Forward Hops | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reaching-the-final-cell-with-forward-hops-d55) |
-| Rearrange a Sequence Into Its Next Greater Ordering | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, In-place Modification, Permutations, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=rearrange-a-sequence-into-its-next-greater-ordering-d31) |
-| Structure-Preserving Character Substitution Between Two Words | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bijection Mapping, Hash Table, String, Two-Pointer Traversal | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=structure-preserving-character-substitution-between-two-words-d205) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

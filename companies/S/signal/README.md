@@ -1,77 +1,33 @@
 # Signal
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 31
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Signal:** 31
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Signal's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Signal: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 2 | 2 | 3 | 9 | 8 | 9 |
-| Fullstack | 0 | 0 | 2 | 6 | 5 | 6 |
-| DevOps | 0 | 0 | 0 | 5 | 5 | 5 |
-| Database Developer | 0 | 0 | 0 | 6 | 6 | 6 |
-| ML Engineer | 0 | 0 | 0 | 3 | 3 | 3 |
-| AI Engineer | 0 | 0 | 1 | 2 | 2 | 2 |
+| Backend | 6 | 6 | 42 | 59 | 56 | 60 |
+| Fullstack | 16 | 16 | 47 | 56 | 25 | 60 |
+| DevOps | 27 | 19 | 31 | 58 | 43 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 5 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your board asks whether the company is exposed to the coming 'harvest-now-decrypt-later' quantum threat via long-lived tokens and TLS. As principal, how do you assess and roadmap post-quantum-safe signing/key-exchange for the auth stack over several years? | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-board-asks-whether-the-company-is-exposed-to-the-coming-harvest-n-32738) |
-| For a chat/messaging app, which CAP tradeoff would you make and why? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-chat-messaging-app-which-cap-tradeoff-would-you-make-and-why-5272) |
-| How would you architect data-minimization enforcement at collection time so services physically cannot collect fields they don't have a declared lawful basis for — describe schema governance a privacy-linter in CI and runtime rejection of over-collection. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-data-minimization-enforcement-at-collection-ti-37253) |
-| Sketch a consistency architecture for a chat/messaging platform at billions of messages/day: which guarantees per message ordering, delivery, and read receipts, and where do you deliberately use causal (not total) order to scale? Defend the boundaries. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=sketch-a-consistency-architecture-for-a-chat-messaging-platform-at-bil-33952) |
-| Design 'mark all as read up to message X' in a chat backend without touching every message row; how does a per-user watermark or interval structure make it O(1) instead of O(unread)? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-mark-all-as-read-up-to-message-x-in-a-chat-backend-without-touc-22021) |
-| You're deciding whether to make event encryption end-to-end (producer-to-consumer, opaque to the broker) or terminate at the broker. What threat model justifies each, and how does end-to-end encryption break log compaction, filtering, and schema evolution? | expertise | SDE-2/3, Architect/Principal | Message Queues & Event-Driven Architecture | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-make-event-encryption-end-to-end-producer-t-32640) |
-| How would you architect a globally-distributed chat/messaging backend (billions of messages, presence, ordering per conversation) to scale writes and fan-out while keeping availability high, and where do you accept eventual consistency versus enforce ordering? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-globally-distributed-chat-messaging-backend--32162) |
-| For a chat app, would you shard messages by conversation or by user, and why? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Sharding & Replication | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-chat-app-would-you-shard-messages-by-conversation-or-by-user-and-13429) |
-| Design the architecture and rollout for introducing end-to-end encryption to a messaging product that currently stores plaintext, without losing server-side features (search, moderation, multi-device). What do you have to give up, and how do you phase it? | expertise | SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-and-rollout-for-introducing-end-to-end-encrypt-31071) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a chat UI that must work offline: how do you queue outgoing messages, persist them, and sync when connectivity returns? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-chat-ui-that-must-work-offline-how-do-you-queue-outgoing-mess-21222) |
-| Architect a tiered-storage strategy for a chat/messaging product where the last 30 days is hot and years of history is cold but searchable — how do you move data between tiers transparently and keep a full-history search fast enough? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-tiered-storage-strategy-for-a-chat-messaging-product-where-39472) |
-| Design the architecture for post-quantum readiness across your TLS, signing, and encryption-at-rest surfaces. What is your inventory-first strategy, where do you deploy hybrid schemes, and how do you sequence a decade-long migration? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-post-quantum-readiness-across-your-tls-sig-41311) |
-| You are asked whether client-side encryption (E2E) is worth it for a product feature. Threat-model what it protects against, what it makes impossible (search, server-side processing, sharing), and where you'd draw the architectural line. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-asked-whether-client-side-encryption-e2e-is-worth-it-for-a-pro-41301) |
-| You must design so that even your own platform SREs cannot read customer plaintext, yet can operate and debug the system. Walk me through the operator-access architecture: encryption boundaries, ephemeral scoped access, and dual-control for the exceptions. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-design-so-that-even-your-own-platform-sres-cannot-read-custom-41271) |
-| How would you add end-to-end encryption on top of wss for a chat product, and why is transport TLS not sufficient for that requirement? | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-add-end-to-end-encryption-on-top-of-wss-for-a-chat-produ-18011) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect the availability of a globally distributed chat/messaging backend (billions of messages, presence, per-conversation ordering) so you scale writes and fan-out while keeping availability high — and where do you accept eventual consistency versus enforce ordering? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-availability-of-a-globally-distributed-cha-52115) |
-| Design encryption-as-a-service using Vault transit for 100 apps needing envelope encryption, with key rotation, keyring versioning, and a path to crypto-agility if an algorithm is deprecated. Where's the throughput ceiling? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-encryption-as-a-service-using-vault-transit-for-100-apps-needin-54957) |
-| How would you evaluate and plan for post-quantum readiness in your Vault-based crypto (transit, PKI)? What's your crypto-agility architecture so you can swap algorithms without re-encrypting the world overnight? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-and-plan-for-post-quantum-readiness-in-your-vau-54990) |
-| How do you architect confidential computing (TEEs) into the highest-sensitivity path so it protects against a compromised host and hypervisor, and be honest with me about what it does not protect against and when the operational tax isn't worth it? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-confidential-computing-tees-into-the-highest-sens-53972) |
-| You must architect operator access so your own SREs cannot read customer plaintext yet can still operate and debug the platform. Walk me through the encryption boundaries, ephemeral scoped grants, and dual-control exceptions, and where usability fights security. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-operator-access-so-your-own-sres-cannot-read-custom-53981) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must give a design-review verdict on a proposal to use a globally distributed SQL database as the primary store for a chat app's presence/typing indicators; explain why that's a CAP mismatch and what store you'd mandate instead. | deep understanding | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-give-a-design-review-verdict-on-a-proposal-to-use-a-globally--111577) |
-| Architect a per-user encryption key model for a consumer app so that GDPR erasure = destroy one user's key — how do you handle shared/derived data that references multiple users? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-per-user-encryption-key-model-for-a-consumer-app-so-that-g-115290) |
-| How would you use confidential computing / TEEs (SGX Nitro Enclaves) to keep DEKs and PII off the DBA's reach — what's the residual trust and attestation burden? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-confidential-computing-tees-sgx-nitro-enclaves-to-ke-115263) |
-| What's your migration plan to post-quantum-safe encryption for long-lived PII that must stay confidential for 30+ years — how do you crypto-agility-proof the schema today? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-migration-plan-to-post-quantum-safe-encryption-for-long-li-115271) |
-| Walk me through selecting the datastore for a chat/messaging system with billions of messages, read-your-writes needs, and unbounded history. Which subsystems diverge in their database choice? | expertise | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-selecting-the-datastore-for-a-chat-messaging-system-wi-114419) |
-| Explain how read/write splitting can create hidden write amplification when 'reads' trigger lazy writes (last-seen updates, counters). How do you catch these? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-read-write-splitting-can-create-hidden-write-amplification-115482) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your strategy for handling the tension between data-minimization/privacy mandates and the data-hungry nature of fairness auditing and model debugging? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-handling-the-tension-between-data-minimizatio-71684) |
-| Walk me through how you'd handle a court order / lawful-access request for training data or model outputs while respecting other users' privacy. | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-handle-a-court-order-lawful-access-request-f-72649) |
-| An interviewer challenges: how do you architect confidential inference so even the serving platform operator cannot read Transformer prompts (TEE/enclave trade-offs)? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-how-do-you-architect-confidential-inference--70451) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you govern the tension between wanting rich audit logs and the fact that those logs may themselves contain the sensitive prompts and outputs you're liable for? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-tension-between-wanting-rich-audit-logs-and-the--86042) |
-| Your chat app resends full history every turn and latency grows linearly with conversation length. Walk through how you'd confirm the KV-prefill cost is the culprit and mitigate it. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-chat-app-resends-full-history-every-turn-and-latency-grows-linear-77922) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

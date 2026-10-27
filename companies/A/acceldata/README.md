@@ -1,41 +1,33 @@
 # Acceldata
 
-**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 25
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Acceldata:** 25
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Acceldata's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Acceldata: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Engineer | 0 | 0 | 21 | 25 | 25 | 25 |
+| Backend | 4 | 4 | 21 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 49 | 56 | 23 | 60 |
+| DevOps | 29 | 21 | 30 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 38 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a data-observability platform specifically (Monte Carlo/Datadog Data vs build freshness/volume/schema/lineage monitors on your own) when a silent pipeline break that corrupts a board metric is the failure mode you're insuring against, not a dashboard? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-observability-platform-speci-125834) |
-| How do you decide build-vs-buy for a data-pipeline anomaly-and-incident co-pilot (buy a data-incident tool vs build a RAG assistant over your runbooks, lineage, and past pipeline postmortems) when the value is your private operational knowledge of the data estate, not the model? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-pipeline-anomaly-and-inciden-125884) |
-| How do you decide build-vs-buy for a data-pipeline observability capability when the vendor's models learn 'normal freshness' from history that already contains your chronic Monday-morning late loads — how does that garbage-in label risk push you toward a build where you control training-label hygiene? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-pipeline-observability-capab-125888) |
-| How do you decide build-vs-buy for a data-quality/validation layer on your pipelines — Great Expectations/Soda OSS vs Monte Carlo/Bigeye managed vs bespoke assertions — when trust in every downstream metric and dashboard depends on it and false alarms erode adoption fast? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-quality-validation-layer-on--125821) |
-| An upstream team backfilled six months of data overnight. Which observability signals would fire and how do you avoid paging on an intentional backfill? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-upstream-team-backfilled-six-months-of-data-overnight-which-observa-124479) |
-| Describe how you would build a data health status page that non-technical stakeholders can read. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-build-a-data-health-status-page-that-non-techni-124533) |
-| Explain how you would monitor data-quality for a slowly-degrading source (e.g. a sensor feed getting noisier over months). | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-monitor-data-quality-for-a-slowly-degrading-sour-124559) |
-| Explain how you would set up freshness monitoring that accounts for weekends and holidays when no data is expected. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-set-up-freshness-monitoring-that-accounts-for-we-124521) |
-| Explain how you would track and alert on the age of the newest record versus the newest partition — why can they differ? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-track-and-alert-on-the-age-of-the-newest-record--124529) |
-| How do you decide which tables in a warehouse of 10000 tables deserve observability coverage first? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-which-tables-in-a-warehouse-of-10000-tables-deserve--124489) |
-| How do you measure mean-time-to-detection and mean-time-to-resolution for data incidents and drive them down? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-measure-mean-time-to-detection-and-mean-time-to-resolution--124544) |
-| How do you measure the ROI of a data observability platform to justify the spend to leadership? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-measure-the-roi-of-a-data-observability-platform-to-justify-124512) |
-| How do you validate that your observability tool itself is trustworthy — how do you observe the observer? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-your-observability-tool-itself-is-trustworthy-124552) |
-| How would you compute and monitor a freshness SLA on a table that is populated by an event-driven Kafka consumer with variable arrival rates? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compute-and-monitor-a-freshness-sla-on-a-table-that-is-p-124471) |
-| How would you measure and report data downtime as a KPI for your data platform? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-measure-and-report-data-downtime-as-a-kpi-for-your-data--124482) |
-| How would you prioritize and triage a morning where twenty observability alerts fired at once after an upstream outage? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-prioritize-and-triage-a-morning-where-twenty-observabili-124566) |
-| What are the five pillars of data observability and how would you instrument each for a daily batch pipeline? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-five-pillars-of-data-observability-and-how-would-you-inst-124467) |
-| What is the cost of running full-table anomaly scans on large warehouse tables and how do you make observability cheaper with sampling or metadata? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-cost-of-running-full-table-anomaly-scans-on-large-warehous-124490) |
-| What is the difference between reactive alerting and proactive anomaly detection in observability, and when is each appropriate? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-reactive-alerting-and-proactive-anomaly-124517) |
-| What is your approach to setting dynamic thresholds using rolling windows versus fixed thresholds, and what breaks with each? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-approach-to-setting-dynamic-thresholds-using-rolling-wind-124531) |
-| What is your framework for choosing which observability checks to automate versus which to leave as manual reviews? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-framework-for-choosing-which-observability-checks-to-auto-124557) |
-| What is your strategy for observability in a medallion (bronze/silver/gold) architecture — do checks differ per layer? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-for-observability-in-a-medallion-bronze-silver-g-124523) |
-| What is your strategy for observability in a multi-tenant data platform where one tenant's bad data must not trigger noise for others? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-for-observability-in-a-multi-tenant-data-platfor-124565) |
-| What observability signals would you monitor to catch storage/cost anomalies (e.g. a job writing 10x normal data)? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-observability-signals-would-you-monitor-to-catch-storage-cost-ano-124549) |
-| What role does metadata (query logs, information_schema, access history) play in passive observability without scanning data? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-role-does-metadata-query-logs-information-schema-access-history-p-124505) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

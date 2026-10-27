@@ -1,56 +1,33 @@
 # H2O.ai
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 34
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to H2O.ai:** 34
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. H2O.ai's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches H2O.ai: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AIOps | 7 | 0 | 7 | 11 | 4 | 11 |
-| ML Engineer | 9 | 0 | 19 | 23 | 4 | 23 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 9 | 1 | 20 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 9 | 0 | 19 | 60 | 41 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AIOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Under what conditions would you accept a less accurate but more explainable model for auto-remediation, and how do you quantify the trust premium to justify that to a data-science org optimizing for AUC? | deep understanding | SDE-2/3, Architect/Principal | AI Trust Safety & Explainability in Ops | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=under-what-conditions-would-you-accept-a-less-accurate-but-more-explai-103696) |
-| What faithfulness pitfalls arise when applying SHAP or LIME to high-cardinality correlated telemetry features, and how would you prevent misleading operators with unstable attributions? | expertise | SDE-2/3, Architect/Principal | AI Trust Safety & Explainability in Ops | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-faithfulness-pitfalls-arise-when-applying-shap-or-lime-to-high-ca-103666) |
-| What's the trade-off between using inherently interpretable models (e.g. rule-mined, GAMs) versus post-hoc explanations on black-box models for incident triage, and how does that decision change at org scale? | expertise | SDE-2/3, Architect/Principal | AI Trust Safety & Explainability in Ops | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-trade-off-between-using-inherently-interpretable-models-e-g-103660) |
-| What's your position on counterfactual explanations ('had metric X been below Y, no alert would fire') for ops models — where do they help operators, and where do they mislead about causality? | expertise | SDE-2/3, Architect/Principal | AI Trust Safety & Explainability in Ops | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-position-on-counterfactual-explanations-had-metric-x-been--103673) |
-| How would you cache Python dependencies in a pipeline that builds a telemetry-analysis tool, and why does caching speed it up? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cache-python-dependencies-in-a-pipeline-that-builds-a-te-87967) |
-| What does 'installing dependencies' mean in a pipeline that builds a Python metrics tool, and why is it an early step? | basic concept | Fresher, SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-installing-dependencies-mean-in-a-pipeline-that-builds-a-pyt-88003) |
-| What is a 'nightly build' and why might you rebuild and redeploy an AIOps model artifact on a schedule? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-nightly-build-and-why-might-you-rebuild-and-redeploy-an-aiop-88018) |
-| What is a build artifact in the context of packaging an anomaly-detection model, and where would the pipeline store it? | basic concept | Fresher, SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-build-artifact-in-the-context-of-packaging-an-anomaly-detect-87987) |
-| What is a build step for a Python script that trains a small anomaly-detection model, and what would that step produce? | basic concept | Fresher, SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-build-step-for-a-python-script-that-trains-a-small-anomaly-d-87937) |
-| What is a lockfile, and how does it help make your telemetry-tool builds repeatable in CI? | basic concept | Fresher, SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-lockfile-and-how-does-it-help-make-your-telemetry-tool-build-88020) |
-| Why would you run a pipeline that packages and deploys a small anomaly-detection script on a schedule (like nightly) rather than on every commit? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-would-you-run-a-pipeline-that-packages-and-deploys-a-small-anomaly-87961) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance for a self-serve ML platform where citizen data scientists deploy models without ML platform-team review? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-a-self-serve-ml-platform-where-cit-71729) |
-| How do you handle model interpretability requirements for deep/transformer models in regulated domains where 'trust me it works' isn't acceptable? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-model-interpretability-requirements-for-deep-transfo-71727) |
-| How do you make explainability (SHAP/LIME/attention) trustworthy enough for regulated decisions when the explanations themselves can be unstable or misleading? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-explainability-shap-lime-attention-trustworthy-enough--71680) |
-| How do you decide build-vs-buy for an AutoML/model-search capability (buy a hyperscaler AutoML vs build your own HPO on Optuna/Ray Tune) when democratizing modeling for non-experts is the goal but you'd cede control of the model-quality knobs? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-automl-model-search-capability-b-69808) |
-| An interviewer asks: why did you pick XGBoost over a deep tabular model like TabNet or FT-Transformer for this problem? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-why-did-you-pick-xgboost-over-a-deep-tabular-model-65924) |
-| How would you handle the memory and latency cost of computing SHAP values at scale for millions of daily XGBoost predictions? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-the-memory-and-latency-cost-of-computing-shap-val-65940) |
-| How would you reduce the training cost of a Random Forest that uses 2000 deep trees without meaningfully hurting accuracy? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-reduce-the-training-cost-of-a-random-forest-that-uses-20-65914) |
-| How would you use partial dependence plots to sanity-check an XGBoost model before shipping, and what would a red flag look like? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-partial-dependence-plots-to-sanity-check-an-xgboost--65968) |
-| How would you design a FastAPI endpoint that returns SHAP or feature-attribution explanations alongside a prediction without doubling the serving latency for every request? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-fastapi-endpoint-that-returns-shap-or-feature-a-62908) |
-| How would you expose a model-explainability endpoint in FastAPI that is heavier than the prediction path, and how do you keep it from starving the primary inference traffic? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-expose-a-model-explainability-endpoint-in-fastapi-that-i-62938) |
-| How would you recover an earlier version of a model config after you overwrote it and committed the change three commits ago? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-recover-an-earlier-version-of-a-model-config-after-you-o-57817) |
-| How would you structure commits when building a training pipeline so each stage (load, preprocess, train, evaluate) is a clear checkpoint? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-structure-commits-when-building-a-training-pipeline-so-e-57761) |
-| How would you undo a commit that accidentally deleted your feature-engineering module without losing your other recent work? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-undo-a-commit-that-accidentally-deleted-your-feature-eng-57799) |
-| How would you use a branch to safely refactor a messy training script that a colleague is still using on main? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-a-branch-to-safely-refactor-a-messy-training-script--57774) |
-| How would you use Git branches to try two different model architectures in parallel and compare them? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-git-branches-to-try-two-different-model-architecture-57750) |
-| How would you use git stash when you're mid-experiment and suddenly need to switch to a colleague's urgent data fix? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-git-stash-when-you-re-mid-experiment-and-suddenly-ne-57788) |
-| Two data scientists edited the same notebook cell on different branches. Why is this conflict harder to resolve than a plain Python file? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=two-data-scientists-edited-the-same-notebook-cell-on-different-branche-57741) |
-| What entries would you typically add to a .gitignore file in a Python machine learning project? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-entries-would-you-typically-add-to-a-gitignore-file-in-a-python-m-57736) |
-| Why do Jupyter notebooks produce messy Git diffs, and what makes them hard to review in a pull request? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-do-jupyter-notebooks-produce-messy-git-diffs-and-what-makes-them-h-57729) |
-| How do you avoid the combinatorial blowup when tuning an ensemble of five different base learners? | deep understanding | SDE-1/2, SDE-2/3 | Hyperparameter Tuning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-avoid-the-combinatorial-blowup-when-tuning-an-ensemble-of-f-66008) |
-| How do you tune the ensemble-blending weights as hyperparameters without overfitting the blend to the holdout? | deep understanding | SDE-1/2, SDE-2/3 | Hyperparameter Tuning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-tune-the-ensemble-blending-weights-as-hyperparameters-witho-66056) |
-| How do you evaluate whether an ensemble genuinely beats its best single member or just overfits the validation set? | intermediate experience | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-an-ensemble-genuinely-beats-its-best-singl-65867) |
-| How would you use an LLM to generate candidate feature transformations (feature engineering ideas) from a schema, and what stops it from suggesting leaky or unavailable-at-serving features? | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-an-llm-to-generate-candidate-feature-transformations-63919) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

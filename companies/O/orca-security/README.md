@@ -1,28 +1,33 @@
 # Orca Security
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 12
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Orca Security:** 12
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Orca Security's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Orca Security: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 2 | 12 | 12 | 12 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 30 | 58 | 44 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a cloud security posture management (CSPM) + CNAPP platform (Wiz/Orca/Prisma vs OSS Cloud Custodian/Steampipe + bespoke) across multi-account, multi-cloud, when the vendor sees all your config? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-cloud-security-posture-management-53742) |
-| An interviewer challenges your reliance on tags for governance: 'tags are advisory and teams forget them.' Defend or replace tag-based governance with something stronger — how do you make classification a non-optional property of the resource rather than an afterthought label? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-reliance-on-tags-for-governance-tags-ar-54073) |
-| An interviewer challenges: 'your continuous-control-monitoring dashboard is green but you just had a breach.' Diagnose the class of failure where CCM gives false assurance and how you'd architect controls whose green truly implies safe. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-continuous-control-monitoring-dashboard-54047) |
-| How do you architect the seam between your Terraform/IaC platform and your compliance evidence store so that the state of every control is derived from declared desired-state rather than scraped from runtime — and where does that model break down? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-seam-between-your-terraform-iac-platform-and--54032) |
-| You must architect governance for the reality that your compliance scope is defined by data flows you don't fully know — how do you build a discovery capability that continuously finds NEW undocumented data flows (a rogue export a new integration) before an auditor or attacker does? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-governance-for-the-reality-that-your-compliance-sco-54107) |
-| How do you architect governance for shadow IT and ungoverned cloud accounts that teams spin up outside the platform — detect, absorb, or block, and at what cost? | expertise | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-shadow-it-and-ungoverned-cloud-acc-55113) |
-| How do you handle security scanning for infrastructure that spans multiple clouds — do you standardize the tooling or accept per-cloud native tools? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-security-scanning-for-infrastructure-that-spans-mult-50722) |
-| How do you use a CSPM (cloud security posture management) tool in practice, and how do you keep it from becoming just another ignored dashboard? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-a-cspm-cloud-security-posture-management-tool-in-practi-50689) |
-| How would you build a cloud-agnostic CSPM/CNAPP posture so a single risk policy scores misconfiguration consistently regardless of which cloud a resource lives in? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-cloud-agnostic-cspm-cnapp-posture-so-a-single-ri-55278) |
-| A CSPM tool flags a critical misconfiguration but the owning team disputes it as a false positive. How does your governance process adjudicate and learn from disputes? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cspm-tool-flags-a-critical-misconfiguration-but-the-owning-team-disp-55992) |
-| How would you build a single pane of glass for governance posture across clouds? Build vs buy — when do CSPM tools (Wiz Prisma) suffice and when do you build custom? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-single-pane-of-glass-for-governance-posture-acro-55958) |
-| Walk me through architecting a live query that answers 'what could an attacker reach right now if they compromised service X?' as a maintained graph of identity, network policy, and IAM, and how you keep the graph honest against constant config change. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-architecting-a-live-query-that-answers-what-could-an-a-53977) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

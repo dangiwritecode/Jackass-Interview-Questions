@@ -1,41 +1,33 @@
 # Edgeless Systems
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 7
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Edgeless Systems:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Edgeless Systems's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Edgeless Systems: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 0 | 3 | 3 | 3 |
-| ML Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 50 | 56 | 21 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Regulators require workloads processing PII to run in a confidential-computing enclave. How would you architect confidential containers (Kata + TEE / Confidential Containers project) on Kubernetes fleet-wide, what attestation flow would you require at admission, and where would you accept the performance and operability cost? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=regulators-require-workloads-processing-pii-to-run-in-a-confidential-c-39020) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must architect a compliance approach for confidential-computing workloads (enclaves TEEs) that process PII/PAN where even your own operators can't see the data — how does this change your audit-evidence model when the trust root shifts to attestation hardware? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-a-compliance-approach-for-confidential-computing-wo-54075) |
-| You're establishing how the org runs confidential workloads that must attest before receiving decryption keys. How would you architect the attestation-to-KMS flow with Confidential Containers so a node that fails attestation can never obtain the data key, and what's the operability cost you'd defend? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-establishing-how-the-org-runs-confidential-workloads-that-must--52144) |
-| Your org runs a mesh and is adopting confidential computing (SEV-SNP/TDX enclaves) for sensitive workloads. Architect how mesh identity and mTLS interact with enclave attestation, and whether the sidecar can live outside the enclave without breaking the trust boundary. | expertise | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-a-mesh-and-is-adopting-confidential-computing-sev-snp-td-52716) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design governance for confidential-computing ML where training runs inside TEEs/enclaves so even your operators can't see the data — how does the shift of trust root to attestation hardware change your audit-evidence model and what new failure modes appear? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-for-confidential-computing-ml-where-training-runs-in-70009) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design how the org runs confidential inference for a regulated customer whose prompts must be processed in a TEE. How would you architect confidential containers (Kata + TEE / Confidential Containers) for GPU inference on Kubernetes, what attestation flow would you require at admission, and where would you accept the performance cost? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-org-runs-confidential-inference-for-a-regulated-custome-82602) |
-| How do you architect confidential inference so even the platform operator cannot read Transformer prompts or KV cache, and what TEE/enclave trade-offs hit attention throughput? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-confidential-inference-so-even-the-platform-opera-84294) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

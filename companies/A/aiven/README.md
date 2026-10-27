@@ -1,72 +1,33 @@
 # Aiven
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 38
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Aiven:** 38
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Aiven's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Aiven: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 3 | 3 | 17 | 18 | 16 | 18 |
-| DevOps | 0 | 0 | 4 | 5 | 5 | 5 |
-| Data Engineer | 0 | 0 | 4 | 6 | 6 | 6 |
-| Database Developer | 0 | 7 | 7 | 8 | 8 | 9 |
+| Backend | 7 | 7 | 49 | 59 | 55 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 35 | 58 | 43 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 41 | 59 | 29 | 60 |
+| Database Developer | 12 | 28 | 29 | 46 | 38 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you set the org's doctrine on unclean leader election as a fleet-wide default (durability-first vs availability-first), and design the escape valve that lets a specific business-critical topic flip the choice during a declared incident with proper authorization? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-org-s-doctrine-on-unclean-leader-election-as-a-flee-32301) |
-| A managed Postgres instance shows high replication lag on its read replica only during nightly batch jobs. How do you diagnose whether it's WAL volume, replica IOPS, or long transactions? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-managed-postgres-instance-shows-high-replication-lag-on-its-read-rep-27137) |
-| Explain how you'd move a workload from a single-AZ deployment to multi-AZ with no downtime, including how the database and stateful pieces migrate. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-move-a-workload-from-a-single-az-deployment-to-multi-27161) |
-| Your service intermittently fails to reach a managed database and you suspect DNS caching of a rotated endpoint. How do you confirm and what TTL and resolver behavior would you change? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-service-intermittently-fails-to-reach-a-managed-database-and-you--27143) |
-| Your Terraform plan wants to destroy and recreate a database because of an in-place-unsupported attribute change. How do you avoid data loss and apply it safely? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-terraform-plan-wants-to-destroy-and-recreate-a-database-because-o-27176) |
-| A broker's disk hit 95% and it started throttling. Walk through your immediate mitigation and the longer-term retention or tiered-storage change you'd make. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-broker-s-disk-hit-95-and-it-started-throttling-walk-through-your-imm-24857) |
-| A partition reassignment during a broker addition saturated replication traffic and starved live producers. How do you throttle and stage such a move safely? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-partition-reassignment-during-a-broker-addition-saturated-replicatio-24921) |
-| A partition's leader keeps flapping between two brokers under load. How would you diagnose whether it's ISR churn, GC pauses, or network, and what's your fix? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-partition-s-leader-keeps-flapping-between-two-brokers-under-load-how-24899) |
-| Explain how KRaft changes your operational runbook for controller failover, and what new failure modes the metadata quorum introduces versus ZooKeeper. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-kraft-changes-your-operational-runbook-for-controller-fail-24915) |
-| Explain how you'd bound and observe the tail-latency contribution of GC pauses on Kafka brokers, and what heap and GC choices you'd make for a high-throughput cluster. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-bound-and-observe-the-tail-latency-contribution-of-g-24925) |
-| How do you reason about the memory footprint of a broker under a high partition count, and what happens to failover time as partitions grow into the hundreds of thousands? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-memory-footprint-of-a-broker-under-a-high--24840) |
-| How would you throttle a single misbehaving client that is saturating broker network and causing latency for everyone else, without redeploying that client? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-throttle-a-single-misbehaving-client-that-is-saturating--24888) |
-| Your compacted topic keeps growing despite compaction being enabled. What operational reasons prevent compaction from reclaiming space and how do you fix each? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-compacted-topic-keeps-growing-despite-compaction-being-enabled-wh-24871) |
-| On this project, how did you decide which reads could tolerate a replica lag and which absolutely needed the primary? | deep understanding | SDE-1/2, SDE-2/3 | Projects (Resume Deep-Dive) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=on-this-project-how-did-you-decide-which-reads-could-tolerate-a-replic-28240) |
-| On this project, walk me through how you sized your cache memory and what happened when the hit rate quietly dropped over a month. | deep understanding | SDE-1/2, SDE-2/3 | Projects (Resume Deep-Dive) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=on-this-project-walk-me-through-how-you-sized-your-cache-memory-and-wh-28253) |
-| How do you set operationalMemory or maintenance_work_mem to speed up building an HNSW index in pgvector? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-operationalmemory-or-maintenance-work-mem-to-speed-up-b-12262) |
-| What data type does pgvector add to Postgres, and what are its size limits on dimensions? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-data-type-does-pgvector-add-to-postgres-and-what-are-its-size-lim-12246) |
-| What is the halfvec type in pgvector and when would you use it over the full vector type? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-halfvec-type-in-pgvector-and-when-would-you-use-it-over-th-12250) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You get paged for a Redis-backed session store showing high evictions and login failures — how do you triage a cache-capacity incident and decide between scaling, TTL changes, or failover? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-get-paged-for-a-redis-backed-session-store-showing-high-evictions--47464) |
-| A stateful dependency (Redis) that many services rely on is a hidden single point of failure. How do you make it HA and reduce the correlated blast radius? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stateful-dependency-redis-that-many-services-rely-on-is-a-hidden-sin-45383) |
-| You're migrating self-hosted Kafka to a managed streaming platform across 100 producers and consumers with no message loss. How do you sequence the dual-run and cutover operationally? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-migrating-self-hosted-kafka-to-a-managed-streaming-platform-acr-45417) |
-| Your services share a single Kafka cluster and one team's misconfigured consumer is affecting everyone. How do you enforce multi-tenant isolation and quotas on the broker? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-services-share-a-single-kafka-cluster-and-one-team-s-misconfigure-45369) |
-| How do you handle the debt of a caching/state layer (Redis) that services across the fleet have quietly turned into a system of record, where an eviction causes real data loss? Design the safe unwind under production load. | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-debt-of-a-caching-state-layer-redis-that-service-54364) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how a compatibility check works in a schema registry when a producer registers a new schema version. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-a-compatibility-check-works-in-a-schema-registry-when-a-pr-125135) |
-| How do data contracts fit into a Kafka pipeline that already uses a schema registry with Avro? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-data-contracts-fit-into-a-kafka-pipeline-that-already-uses-a-sc-125075) |
-| What is a dead-letter queue and how does it interact with data contract violations in a stream? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-dead-letter-queue-and-how-does-it-interact-with-data-contrac-125095) |
-| What role does a schema registry play in enforcing contracts and what are its compatibility modes? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-role-does-a-schema-registry-play-in-enforcing-contracts-and-what--125082) |
-| Your Kafka clusters over-provision partitions and set replication factor 3 on topics that could tolerate 2, and retention is 30 days on topics consumed within an hour. Architect the topic-level cost governance — partition count, replication, retention, tiered storage — that teams self-serve without every topic defaulting to maximum durability. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-kafka-clusters-over-provision-partitions-and-set-replication-fact-125925) |
-| Kafka now supports tiered storage to object stores. Walk me through how you'd design retention and tiering so brokers offload cold segments without hurting consumer catch-up throughput. | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=kafka-now-supports-tiered-storage-to-object-stores-walk-me-through-how-126732) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you'd evaluate a vendor's claim of 'five-nines availability with strong consistency across three regions' by asking exactly what happens during a full-region partition, and what marketing language usually hides the CAP trade they actually made. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-evaluate-a-vendor-s-claim-of-five-nines-availability-111576) |
-| You migrated a hot table to a Citus-distributed Postgres cluster; explain how a coordinator-worker partition changes the availability of writes to that table. | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-migrated-a-hot-table-to-a-citus-distributed-postgres-cluster-expla-107435) |
-| You must add a NOT NULL column with a default to a globally replicated table; how could a partition during the schema change leave replicas in inconsistent states? | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-add-a-not-null-column-with-a-default-to-a-globally-replicated-107440) |
-| Describe your build-vs-buy framework for choosing a managed cloud database versus running Postgres on Kubernetes for a 5000-engineer org — what tips the scale and who owns the decision? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-build-vs-buy-framework-for-choosing-a-managed-cloud-data-115151) |
-| Explain hot_standby and how you serve read queries on a PostgreSQL replica while WAL is being replayed. | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Database Replication (Master-Slave) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-hot-standby-and-how-you-serve-read-queries-on-a-postgresql-rep-110480) |
-| Explain the trade-off between having many small replicas versus a few large replicas for read scaling under bursty load. | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Database Replication (Master-Slave) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-trade-off-between-having-many-small-replicas-versus-a-few--110510) |
-| What is the difference between physical (WAL-based) and logical replication in PostgreSQL, and when do you choose logical? | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Database Replication (Master-Slave) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-physical-wal-based-and-logical-replicat-110458) |
-| Your read replica is 40 seconds behind the master during peak traffic. How do you diagnose whether the bottleneck is I/O bound apply or single-threaded replication? | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Database Replication (Master-Slave) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-read-replica-is-40-seconds-behind-the-master-during-peak-traffic--110445) |
-| Your team wants faster recovery than restoring a logical dump; explain how pg_basebackup plus continuous WAL archiving gives you a warm physical replica and PITR, and the storage trade-off versus logical backups. | deep understanding | SDE-1, SDE-1/2 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-team-wants-faster-recovery-than-restoring-a-logical-dump-explain--107135) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

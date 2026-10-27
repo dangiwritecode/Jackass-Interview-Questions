@@ -1,34 +1,33 @@
 # Sigma
 
-**Tier:** Tier 5  |  **Business domain:** —  |  **Questions:** 6
+**Tier:** Tier 5  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Sigma:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Sigma's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Sigma: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 1 | 4 | 3 | 4 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 46 | 59 | 57 | 60 |
+| Fullstack | 18 | 18 | 54 | 56 | 17 | 60 |
+| DevOps | 27 | 18 | 28 | 59 | 46 | 60 |
+| AIOps | 2 | 1 | 12 | 60 | 51 | 60 |
+| Data Engineer | 11 | 3 | 52 | 58 | 19 | 60 |
+| Database Developer | 13 | 22 | 23 | 46 | 38 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 2 | 15 | 60 | 51 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A single tenant's abusive query pattern is silently costing you 8% of your data-warehouse bill. Architect the per-tenant cost-guardrail, throttling, and workload-isolation strategy so one customer can't blow up your COGS. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-single-tenant-s-abusive-query-pattern-is-silently-costing-you-8-of-y-37066) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you align a data-platform strategy with a go-to-market shift from selling analytics dashboards to selling data-sharing and embedded analytics to customers? What bets — secure data sharing, per-tenant isolation, usage metering — does that pivot force, and how do you sequence them? | expertise | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-align-a-data-platform-strategy-with-a-go-to-market-shift-fr-125560) |
-| How do you build a consolidation strategy for BI-and-visualization tooling when teams use three different tools and each maintains its own metric definitions? What's your migration and lock-in-avoidance plan for dashboards and semantic models? | deep understanding | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-consolidation-strategy-for-bi-and-visualization-too-125568) |
-| How do you decide when a semantic layer with governed metric definitions is a strategic platform bet worth building once versus leaving each BI tool to define its own metrics? Where's the tipping point, and how do you sequence adoption without an analyst revolt? | deep understanding | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-a-semantic-layer-with-governed-metric-definitio-125606) |
-| Explain how Snowflake's QUALIFY clause is compiled and why it can avoid an extra subquery scan compared to filtering a window result in an outer WHERE. | intermediate experience | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-snowflake-s-qualify-clause-is-compiled-and-why-it-can-avoi-123174) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your org runs Snowflake and the warehouse auto-suspend/auto-resume is misconfigured so credits burn on idle. How would you capacity-plan warehouse sizing, multi-cluster scaling, and suspend policy to hit a cost-per-query target without hurting concurrency? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-snowflake-and-the-warehouse-auto-suspend-auto-resume-is--112253) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

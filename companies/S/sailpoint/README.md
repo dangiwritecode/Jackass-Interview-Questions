@@ -1,97 +1,33 @@
 # SailPoint
 
-**Tier:** Tier 3  |  **Business domain:** Security  |  **Questions:** 39
+**Tier:** Tier 3  |  **Business domain:** Security  |  **Questions listed:** 540  |  **Tagged directly to SailPoint:** 39
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. SailPoint's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches SailPoint: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 3 | 3 | 3 |
-| Fullstack | 0 | 0 | 0 | 5 | 5 | 5 |
-| DevOps | 0 | 0 | 0 | 8 | 8 | 8 |
-| AIOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 0 | 9 | 9 | 9 |
-| Database Developer | 0 | 0 | 0 | 10 | 10 | 10 |
-| ML Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
+| Backend | 0 | 0 | 1 | 60 | 60 | 60 |
+| Fullstack | 6 | 6 | 42 | 60 | 22 | 60 |
+| DevOps | 6 | 4 | 24 | 60 | 52 | 60 |
+| AIOps | 0 | 0 | 5 | 60 | 57 | 60 |
+| Data Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Database Developer | 0 | 0 | 0 | 60 | 60 | 60 |
+| ML Engineer | 0 | 0 | 9 | 60 | 51 | 60 |
+| AI Engineer | 1 | 1 | 9 | 60 | 56 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A major enterprise customer demands SCIM so deprovisioned employees lose all access within seconds. How does SCIM interplay with your session/token lifetimes, and how do you architect near-instant revocation without polling every IdP constantly? | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-major-enterprise-customer-demands-scim-so-deprovisioned-employees-lo-32761) |
-| You're standardizing identity governance across 300 microservices where entitlements have sprawled. How do you architect a periodic access-recertification and entitlement-review system so it's automated, complete, and doesn't drown managers in rubber-stamping? | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standardizing-identity-governance-across-300-microservices-wher-32730) |
-| How do you design an access-control architecture that produces clean quarterly SOC2 access reviews at 5000 employees — model RBAC/ABAC identity lifecycle joiner-mover-leaver automation and entitlement recertification so reviews are one-click not a spreadsheet nightmare. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-access-control-architecture-that-produces-clean-q-37248) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A large customer demands SCIM so deprovisioned employees lose access within seconds, but your tokens live an hour. As architect, reconcile SCIM's deprovision event with your token/session model to guarantee near-instant revocation without polling every tenant IdP. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-large-customer-demands-scim-so-deprovisioned-employees-lose-access-w-38875) |
-| An auditor asks you to prove a specific former employee could not have accessed customer PII after their offboarding date. Architect the identity, session, and audit design that lets you answer this definitively across all services years later, and quantify the retention cost. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-auditor-asks-you-to-prove-a-specific-former-employee-could-not-have-38907) |
-| You're standing up periodic access recertification across 300 services so managers must re-attest reports' entitlements quarterly. How do you architect this so it's automated and complete but doesn't become rubber-stamping, and how do you auto-detect toxic combinations (SoD violations)? | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standing-up-periodic-access-recertification-across-300-services-38854) |
-| Your org's entitlements have sprawled to the point nobody can answer 'who can access production customer PII'. Design an entitlement-discovery and least-privilege-remediation program that quantifies over-provisioning and safely revokes without breaking legitimate access. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-s-entitlements-have-sprawled-to-the-point-nobody-can-answer-w-38853) |
-| How would you decide whether to model a permission hierarchy as a Composite (tree of roles/groups) or a flat policy set evaluated by a Specification engine, when the org needs both fast checks and human-auditable inheritance? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-to-model-a-permission-hierarchy-as-a-comp-38469) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle IAM and permissions re-architecture during migration so you don't lift-and-shift a flat over-permissioned on-prem access model? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-iam-and-permissions-re-architecture-during-migration-56602) |
-| How do you prevent Repurchase decisions from fragmenting your identity and data governance when each SaaS tool has its own directory and export format? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-prevent-repurchase-decisions-from-fragmenting-your-identity-56564) |
-| How do you sequence identity provider migration so that neither on-prem nor migrated apps lose authentication during the transition? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-sequence-identity-provider-migration-so-that-neither-on-pre-56616) |
-| How do you architect governance for the reality that most PII exposure comes from over-permissioned internal access, not external breach — what does a principled least-privilege-at-scale design look like when thousands of engineers need some data access to do their jobs? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-the-reality-that-most-pii-exposure-54090) |
-| How do you architect the platform's identity and access story so that as the org reorgs quarterly, team-to-resource entitlements re-derive automatically from an authoritative org graph rather than drifting into stale hand-maintained groups? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-platform-s-identity-and-access-story-so-that--54242) |
-| Describe how you'd prove control effectiveness (not just existence) for access reviews, so an auditor sees evidence the review actually caught and remediated something. | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-prove-control-effectiveness-not-just-existence-for--56816) |
-| How do you architect secret access for third-party contractors and vendors who need scoped, time-boxed access without becoming full internal identities? What's the isolation and expiry model? | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-secret-access-for-third-party-contractors-and-ven-54992) |
-| How do you handle the debt of thousands of over-permissioned IAM roles and policies accreted over years, where nobody can safely tighten them because no one knows what actually uses each permission? Design the least-privilege paydown at scale. | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-debt-of-thousands-of-over-permissioned-iam-roles-54335) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your approach to governing data-access certifications and periodic reviews at a scale where thousands of grants exist across the telemetry and AIOps stack? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-data-access-certifications-and-perio-101400) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An interviewer probes: your warehouse grants are a tangle of hundreds of roles accumulated over years so a quarterly access review is a spreadsheet nightmare. As principal how do you re-architect entitlements (ABAC tag-based grants automated recertification) so reviews become tractable and joiner-mover-leaver is automatic? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-warehouse-grants-are-a-tangle-of-hundreds-o-126044) |
-| An exec wants 'AI-powered auto-grant' where an LLM approves access requests. Assess the governance risk and design guardrails so the model can recommend but never unilaterally grant sensitive access. | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-exec-wants-ai-powered-auto-grant-where-an-llm-approves-access-reque-126664) |
-| Describe the trade-offs between attribute synchronization from an HR system (Workday) into your entitlement engine in near-real-time versus batch, and what governance gaps a stale attribute cache opens. | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-trade-offs-between-attribute-synchronization-from-an-hr-s-126643) |
-| Describe your approach to separation-of-duties in a data platform so that no single person can both grant themselves access and delete the audit record of doing so — down to the IAM and pipeline level. | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-approach-to-separation-of-duties-in-a-data-platform-so-t-126661) |
-| Explain how you'd prevent 'access accretion' where employees changing roles keep old data grants forever. Design the joiner-mover-leaver automation and how it ties to the data platform. | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-prevent-access-accretion-where-employees-changing-ro-126684) |
-| How would you design attribute-provenance so that when an access decision denies a user, you can explain exactly which attribute policy and source caused it — critical for both audits and support? | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-attribute-provenance-so-that-when-an-access-decis-126681) |
-| How would you measure and drive down the 'access-governance debt' of a platform — what leading indicators tell you standing privilege and unused grants are accumulating before an auditor finds them? | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-measure-and-drive-down-the-access-governance-debt-of-a-p-126649) |
-| Walk me through designing a data-access-review (recertification) campaign that scales to 100k grants without turning into rubber-stamp approvals that provide no real assurance. | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-designing-a-data-access-review-recertification-campaig-126638) |
-| What are the pitfalls of relying on IAM group membership as your primary data-authorization model when the org grows past a few thousand people and how do you avoid role explosion? | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-pitfalls-of-relying-on-iam-group-membership-as-your-prima-126631) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance so quarterly database-privilege reviews catch privilege creep — a role that accumulated SELECT on PII across years — using entitlement recertification and automatic revocation of unused grants, satisfying SOC2 without a manual GRANT audit per cluster? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-so-quarterly-database-privilege-review-113102) |
-| How do you govern access provisioning at scale so joiners, movers, and leavers get exactly the right data access without a manual ticket bottleneck? | expertise | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-access-provisioning-at-scale-so-joiners-movers-and-l-114798) |
-| Contrast attribute-based access control with role-based access control for a 5000-engineer org and explain the migration path you'd take from an RBAC-sprawl to ABAC. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-attribute-based-access-control-with-role-based-access-control-114058) |
-| Describe how you'd design and prove separation of duties between those who deploy schema changes, those who grant access, and those who read audit logs, at platform scale. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-and-prove-separation-of-duties-between-those-114092) |
-| Describe how you'd measure the effectiveness of your least-privilege program: what metrics would you put on an exec dashboard and what target do you set for each? | deep understanding | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-measure-the-effectiveness-of-your-least-privilege-p-114084) |
-| Explain how you'd design an authorization model where entitlements are derived from HR/identity attributes so a role change or termination automatically reshapes database access. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-an-authorization-model-where-entitlements-are-114118) |
-| Explain your strategy for detecting and killing privilege drift over years across a merged-and-acquired estate with inconsistent role naming and duplicated identities. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-strategy-for-detecting-and-killing-privilege-drift-over-y-114066) |
-| How do you architect a data-access request workflow that ties every grant to a business justification, an approver, an expiry, and automatic revocation, across a 10000-person org? | deep understanding | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-access-request-workflow-that-ties-every-gr-114083) |
-| How do you architect an access-review attestation process that scales to tens of thousands of grants without becoming rubber-stamping by overloaded managers? | deep understanding | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-access-review-attestation-process-that-scales--114067) |
-| How do you architect an authorization system that can express deny rules, hierarchies, and exceptions without becoming an unauditable rules-engine no one understands? | deep understanding | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-authorization-system-that-can-express-deny-rul-114135) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your strategy for governing data-access certifications and periodic access reviews at a scale where thousands of grants exist across the ML platform? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-governing-data-access-certifications-and-peri-72157) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your approach to governing a data-access certification cadence when thousands of retrieval-source grants exist across a sprawling GenAI platform? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-a-data-access-certification-cadence--86819) |
-| How do you architect the ingestion platform so that document-level access permissions from dozens of upstream source systems are continuously synced into the index's ACL metadata, and a permission revocation upstream stops retrieval within seconds? | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-ingestion-platform-so-that-document-level-acc-82977) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

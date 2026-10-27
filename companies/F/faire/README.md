@@ -1,31 +1,33 @@
 # Faire
 
-**Tier:** Tier 2  |  **Business domain:** E-commerce/Marketplace  |  **Questions:** 9
+**Tier:** Tier 2  |  **Business domain:** Marketplace / E-commerce  |  **Questions listed:** 540  |  **Tagged directly to Faire:** 9
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Faire's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Faire: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 2 | 3 | 1 | 3 |
-| Data Structures & Algorithms (all profiles) | 6 | 6 | 6 | 6 | 6 | 6 |
+| Backend | 0 | 0 | 32 | 60 | 39 | 60 |
+| Fullstack | 0 | 0 | 47 | 60 | 36 | 60 |
+| DevOps | 0 | 0 | 1 | 60 | 60 | 60 |
+| AIOps | 3 | 0 | 9 | 60 | 56 | 60 |
+| Data Engineer | 0 | 0 | 9 | 60 | 52 | 60 |
+| Database Developer | 0 | 0 | 0 | 60 | 60 | 60 |
+| ML Engineer | 0 | 0 | 7 | 60 | 53 | 60 |
+| AI Engineer | 0 | 0 | 5 | 60 | 56 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide whether feature preprocessing should live inside the FastAPI service or be pushed into the model artifact itself, and how does that choice affect training-serving skew? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-feature-preprocessing-should-live-inside-the-62911) |
-| How would you implement canary rollout of a new model version in FastAPI where 5% of traffic is scored by the candidate and you auto-roll-back on a live-accuracy or latency regression? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-canary-rollout-of-a-new-model-version-in-fasta-62893) |
-| How do you set retraining triggers for a cold-start-heavy marketplace where new items and users continuously arrive? | deep understanding | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-retraining-triggers-for-a-cold-start-heavy-marketplace--72399) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Longest Ridge in an Elevation Profile | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Enumeration, Monotonic Runs, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-ridge-in-an-elevation-profile-d830) |
-| Maximum of Every Fixed-Length Contiguous Block | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Deque, Heap (Priority Queue), Monotonic Queue, Sliding Window | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-of-every-fixed-length-contiguous-block-d239) |
-| Packetize Text into Numbered Fixed-Capacity Chunks | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Counting, Enumeration, Math, Simulation, String | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=packetize-text-into-numbered-fixed-capacity-chunks-d2323) |
-| Spell a Whole Number in English Words | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Lookup Table, Math, Number Formatting, Recursion, Simulation, String | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=spell-a-whole-number-in-english-words-d273) |
-| Trace a Word Through a Grid of Adjacent Letters | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Depth-First Search, Matrix, Recursion, String | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=trace-a-word-through-a-grid-of-adjacent-letters-d79) |
-| Validate Nested Markup Tags | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Parsing, Simulation, Stack, State Machine, String | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=validate-nested-markup-tags-d583) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

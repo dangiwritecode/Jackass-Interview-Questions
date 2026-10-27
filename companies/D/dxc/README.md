@@ -1,103 +1,33 @@
 # DXC
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 63
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to DXC:** 63
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. DXC's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches DXC: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 2 | 2 | 2 |
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| AIOps | 58 | 0 | 58 | 58 | 0 | 58 |
-| Database Developer | 1 | 1 | 1 | 0 | 0 | 1 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 58 | 0 | 59 | 60 | 2 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 5 | 4 | 5 | 57 | 56 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're designing for an enterprise-arch engagement where the client runs a legacy mainframe of record plus modern microservices. How do you reconcile the mainframe's strong-consistency assumptions with an AP microservice mesh without a big-bang rewrite? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-for-an-enterprise-arch-engagement-where-the-client-ru-32278) |
-| How would you get an enterprise/IT-services org with rigid ITIL change-management to adopt modern blameless-postmortem and error-budget practices without breaking their audit and compliance obligations? | expertise | SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-get-an-enterprise-it-services-org-with-rigid-itil-change-35774) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe a time you had to lead the org through a decision on how to treat a legacy system that generated most of the revenue but that everyone was afraid to touch. How did you build the courage and the plan to modernize it? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-lead-the-org-through-a-decision-on-how-to-t-40457) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Can you name the main modules that make up ServiceNow ITOM? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-you-name-the-main-modules-that-make-up-servicenow-itom-91527) |
-| How does an alert become an incident in ServiceNow, and why is that useful? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-an-alert-become-an-incident-in-servicenow-and-why-is-that-use-91535) |
-| What does CMDB health mean, and what is a completeness or correctness metric? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-cmdb-health-mean-and-what-is-a-completeness-or-correctness-m-91592) |
-| What is a CI class and why does the CMDB organize CIs into different classes? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-ci-class-and-why-does-the-cmdb-organize-cis-into-different-c-91591) |
-| What is a Configuration Item (CI) and can you give a few examples? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-configuration-item-ci-and-can-you-give-a-few-examples-91529) |
-| What is a data source or authoritative source for a CI, and why does it matter? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-data-source-or-authoritative-source-for-a-ci-and-why-does-it-91594) |
-| What is a maintenance window and how should ITOM handle alerts during one? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-maintenance-window-and-how-should-itom-handle-alerts-during--91566) |
-| What is a pattern in ServiceNow Service Mapping, and roughly what does it define? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-pattern-in-servicenow-service-mapping-and-roughly-what-does--91615) |
-| What is a stale CI and why is stale data in the CMDB harmful? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-stale-ci-and-why-is-stale-data-in-the-cmdb-harmful-91593) |
-| What is a subscription or licensing consideration to be aware of when scaling Discovery across many devices? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-subscription-or-licensing-consideration-to-be-aware-of-when--91614) |
-| What is a war room or major incident bridge, and what is ITOM's role in a major incident? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-war-room-or-major-incident-bridge-and-what-is-itom-s-role-in-91600) |
-| What is a workflow in ServiceNow, and how could you use one to respond to an alert automatically? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-workflow-in-servicenow-and-how-could-you-use-one-to-respond--91587) |
-| What is an alert binding to a CI, and why is it important for the alert to be tied to the right CI? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-an-alert-binding-to-a-ci-and-why-is-it-important-for-the-alert-91559) |
-| What is an event rule in ServiceNow Event Management and what can it do? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-an-event-rule-in-servicenow-event-management-and-what-can-it-d-91558) |
-| What is auto-remediation, and can you give an example of a simple auto-remediation action? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-auto-remediation-and-can-you-give-an-example-of-a-simple-auto--91611) |
-| What is CI reconciliation in the CMDB and why can duplicate CIs be a problem? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-ci-reconciliation-in-the-cmdb-and-why-can-duplicate-cis-be-a-p-91567) |
-| What is Event Management in ServiceNow ITOM at a high level? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-event-management-in-servicenow-itom-at-a-high-level-91533) |
-| What is Flow Designer in ServiceNow and how might it help automate operational tasks? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-flow-designer-in-servicenow-and-how-might-it-help-automate-ope-91588) |
-| What is impact analysis and how does ITOM use CI relationships to perform it? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-impact-analysis-and-how-does-itom-use-ci-relationships-to-perf-91554) |
-| What is Orchestration in ServiceNow and how does it support operations? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-orchestration-in-servicenow-and-how-does-it-support-operations-91550) |
-| What is Service Mapping in ServiceNow ITOM and how does it differ from Discovery? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-service-mapping-in-servicenow-itom-and-how-does-it-differ-from-91538) |
-| What is the difference between agentless Discovery and an agent-based approach? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-agentless-discovery-and-an-agent-based--91531) |
-| What is the difference between horizontal discovery and top-down (service) mapping? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-horizontal-discovery-and-top-down-servi-91571) |
-| What is the Identification and Reconciliation Engine (IRE) in ServiceNow, at a high level? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-identification-and-reconciliation-engine-ire-in-servicenow-91568) |
-| What is the role of credentials in Discovery, and why must they be stored securely? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-role-of-credentials-in-discovery-and-why-must-they-be-stor-91573) |
-| What protocols or methods might Discovery use to gather information from servers and devices? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-protocols-or-methods-might-discovery-use-to-gather-information-fr-91570) |
-| Why is having an accurate CMDB important for effective event and incident management? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-having-an-accurate-cmdb-important-for-effective-event-and-incid-91552) |
-| Why is it risky to fully automate remediation without human review in some cases? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-it-risky-to-fully-automate-remediation-without-human-review-in--91612) |
-| Explain the difference between the 'where' and 'search' commands when filtering results. | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-the-where-and-search-commands-when-filt-91348) |
-| How do you filter events by time range in Splunk, both from the UI and within SPL? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-filter-events-by-time-range-in-splunk-both-from-the-ui-and--91342) |
-| How do you join two datasets in Splunk, and why is 'stats' often preferred over the 'join' command? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-join-two-datasets-in-splunk-and-why-is-stats-often-preferre-91381) |
-| How do you troubleshoot a situation where events are not showing up in Splunk after being sent by a forwarder? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-troubleshoot-a-situation-where-events-are-not-showing-up-in-91369) |
-| How would you build a dashboard panel that shows the top 10 hosts by error count over the last 24 hours? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-dashboard-panel-that-shows-the-top-10-hosts-by-e-91372) |
-| How would you monitor disk usage across a fleet of servers using Splunk and alert on high utilization? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-disk-usage-across-a-fleet-of-servers-using-splun-91424) |
-| How would you use the 'rare' command to find the least common values of a field? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-the-rare-command-to-find-the-least-common-values-of--91345) |
-| How would you write an SPL search to find the 95th percentile of response times using the perc function? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-write-an-spl-search-to-find-the-95th-percentile-of-respo-91402) |
-| What are Splunk apps and add-ons, and how do they extend Splunk functionality? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-splunk-apps-and-add-ons-and-how-do-they-extend-splunk-functio-91360) |
-| What are the default fields Splunk assigns to every event (such as host, source, sourcetype, _time)? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-default-fields-splunk-assigns-to-every-event-such-as-host-91337) |
-| What is a data model in Splunk and how does data model acceleration improve search speed? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-data-model-in-splunk-and-how-does-data-model-acceleration-im-91417) |
-| What is a metrics index in Splunk and how does it differ from an events index? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-metrics-index-in-splunk-and-how-does-it-differ-from-an-event-91363) |
-| What is a notable event in Splunk and how is it used during incident triage? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-notable-event-in-splunk-and-how-is-it-used-during-incident-t-91414) |
-| What is a search head cluster and why would an organization use one? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-search-head-cluster-and-why-would-an-organization-use-one-91399) |
-| What is a Splunk event and how does Splunk decide where one event ends and the next begins? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-splunk-event-and-how-does-splunk-decide-where-one-event-ends-91329) |
-| What is a Splunk report and how is it different from an ad-hoc search? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-splunk-report-and-how-is-it-different-from-an-ad-hoc-search-91354) |
-| What is alert fatigue and how can Splunk's grouping or notable events help reduce it? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-alert-fatigue-and-how-can-splunk-s-grouping-or-notable-events--91393) |
-| What is field aliasing in Splunk and why might you alias a field like 'src_ip' to 'source_ip'? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-field-aliasing-in-splunk-and-why-might-you-alias-a-field-like--91384) |
-| What is HTTP Event Collector (HEC) in Splunk and when would you use it to ingest data? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-http-event-collector-hec-in-splunk-and-when-would-you-use-it-t-91396) |
-| What is Splunk ITSI (IT Service Intelligence) and what is a KPI in that context? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-splunk-itsi-it-service-intelligence-and-what-is-a-kpi-in-that--91390) |
-| What is Splunk SOAR and how does it enable automated response to detected incidents? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-splunk-soar-and-how-does-it-enable-automated-response-to-detec-91405) |
-| What is the 'dedup' command and when would you use it to remove duplicate events? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-dedup-command-and-when-would-you-use-it-to-remove-duplicat-91351) |
-| What is the 'lookup' command and how would you use a CSV lookup to map an error code to a description? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-lookup-command-and-how-would-you-use-a-csv-lookup-to-map-a-91357) |
-| What is the 'predict' command in Splunk and how does it forecast time series data? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-predict-command-in-splunk-and-how-does-it-forecast-time-se-91377) |
-| What is the 'streamstats' command and how does it compute running totals or moving values? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-streamstats-command-and-how-does-it-compute-running-totals-91408) |
-| What is the difference between logs, metrics, and traces, and how does Splunk Observability Cloud cover them? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-logs-metrics-and-traces-and-how-does-sp-91411) |
-| What is the difference between Splunk Enterprise, Splunk Cloud, and Splunk Free? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-splunk-enterprise-splunk-cloud-and-splu-91387) |
-| What is the difference between transforming commands and streaming commands in SPL? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-transforming-commands-and-streaming-com-91366) |
-| Why is it best practice to specify index and sourcetype early in a search rather than filtering later? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-it-best-practice-to-specify-index-and-sourcetype-early-in-a-sea-91420) |
-| Write a simple SPL search to find all events in the 'web' index that contain the word 'error'. | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-simple-spl-search-to-find-all-events-in-the-web-index-that-con-91333) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What is the difference between an Oracle instance and an Oracle database? | basic concept | Fresher, SDE-1, SDE-1/2 | Oracle Database | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-an-oracle-instance-and-an-oracle-databa-106241) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a phased strategy for a legacy enterprise (mainframe, SOAP, batch backends) to adopt agentic automation: wrap legacy systems as safe tools, handle their latency and flakiness, and sequence modernization without a big-bang rewrite. | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-phased-strategy-for-a-legacy-enterprise-mainframe-soap-batch--83096) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

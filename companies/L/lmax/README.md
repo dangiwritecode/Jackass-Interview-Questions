@@ -1,27 +1,33 @@
 # LMAX
 
-**Tier:** Tier 1  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 1  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to LMAX:** 4
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. LMAX's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches LMAX: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 4 | 4 | 3 | 4 |
-| Fullstack | 0 | 0 | 1 | 1 | 0 | 1 |
+| Backend | 5 | 5 | 20 | 59 | 56 | 60 |
+| Fullstack | 20 | 20 | 46 | 55 | 22 | 60 |
+| DevOps | 31 | 22 | 32 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 10 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 11 | 17 | 18 | 51 | 43 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how false sharing could be silently halving your throughput on a padded ring buffer, and how you'd confirm it with hardware counters or @Contended. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Multithreading & Concurrency | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-false-sharing-could-be-silently-halving-your-throughput-on-26493) |
-| Explain why a single-writer, many-reader design (like a ring buffer / Disruptor) can beat lock-based queues. | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Multithreading & Concurrency | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-single-writer-many-reader-design-like-a-ring-buffer-disr-14041) |
-| When would you prefer a lock-free queue over a BlockingQueue in a latency-critical ingest path, and what correctness risks do you take on? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Multithreading & Concurrency | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-prefer-a-lock-free-queue-over-a-blockingqueue-in-a-late-26438) |
-| You are reviewing a change that replaces a linked-list-backed queue with an array-backed ring buffer; what complexity and cache-locality arguments would justify or reject it? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-reviewing-a-change-that-replaces-a-linked-list-backed-queue-wi-16151) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You are reviewing a change that replaces a linked-list-backed queue with an array-backed ring buffer; what complexity and cache-locality arguments would justify or reject it? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-reviewing-a-change-that-replaces-a-linked-list-backed-queue-wi-16151) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

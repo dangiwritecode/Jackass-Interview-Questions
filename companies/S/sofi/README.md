@@ -1,29 +1,33 @@
 # SoFi
 
-**Tier:** Tier 3  |  **Business domain:** Fintech  |  **Questions:** 13
+**Tier:** Tier 3  |  **Business domain:** Fintech  |  **Questions listed:** 540  |  **Tagged directly to SoFi:** 13
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. SoFi's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches SoFi: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 13 | 13 | 13 | 13 | 13 | 13 |
+| Backend | 3 | 3 | 20 | 59 | 58 | 60 |
+| Fullstack | 19 | 19 | 46 | 55 | 22 | 60 |
+| DevOps | 28 | 20 | 28 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 14 | 60 | 52 | 60 |
+| Data Engineer | 13 | 5 | 42 | 58 | 25 | 60 |
+| Database Developer | 11 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Colliding Blocks on a Frictionless Rail | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Monotonic Stack, Simulation, Stack | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=colliding-blocks-on-a-frictionless-rail-d720) |
-| Constant-Time Set with Uniform Random Sampling | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Design, Hash Table, Randomized, Swap-Remove | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=constant-time-set-with-uniform-random-sampling-d380) |
-| Earliest Shared Free Window for a Call | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Intervals, Sorting, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=earliest-shared-free-window-for-a-call-d1192) |
-| Fewest Character Replacements to Form an Anagram | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Frequency Array, Hash Table, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-character-replacements-to-form-an-anagram-d1299) |
-| Full Line-Width Text Justification | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Simulation, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=full-line-width-text-justification-d68) |
-| Longest Ridge in an Elevation Profile | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Enumeration, Monotonic Runs, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-ridge-in-an-elevation-profile-d830) |
-| Maximum Batches Producible From a Single Machine | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Feasibility Predicate, Greedy, Math | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-batches-producible-from-a-single-machine-d2643) |
-| Maximum Count of Non-Overlapping Mirror Segments | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Expand Around Center, Greedy, Interval Scheduling, Palindrome, String, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-count-of-non-overlapping-mirror-segments-d2327) |
-| Merge Multiple Sorted Linked Chains into One | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Divide and Conquer, Heap (Priority Queue), K-way Merge, Linked List, Merge Sort | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=merge-multiple-sorted-linked-chains-into-one-d23) |
-| Shortest Single-Letter Transformation Chain | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Graph, Hash Table, Queue, Shortest Path, String | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-single-letter-transformation-chain-d127) |
-| Shortest Subarray Preserving the Peak Frequency | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, First/Last Occurrence Tracking, Hash Table | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-subarray-preserving-the-peak-frequency-d682) |
-| Smallest Covering Window | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Frequency Counting, Hash Table, Sliding Window, String, Two Pointers | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-covering-window-d76) |
-| The K Most Frequently Occurring Values in an Array | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bucket Sort, Counting, Divide and Conquer, Hash Table, Heap (Priority Queue), Quickselect, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-k-most-frequently-occurring-values-in-an-array-d347) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

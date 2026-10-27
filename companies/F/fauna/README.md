@@ -1,56 +1,33 @@
 # Fauna
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 22
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Fauna:** 21
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Fauna's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Fauna: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 2 | 5 | 5 | 5 |
-| Fullstack | 0 | 0 | 1 | 2 | 2 | 2 |
-| DevOps | 0 | 0 | 0 | 2 | 2 | 2 |
-| Database Developer | 0 | 0 | 0 | 13 | 13 | 13 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 50 | 56 | 22 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 20 | 21 | 48 | 40 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design authentication and authorization for a multi-region active-active deployment where a user might log in in region A and make a request served by region B before the session replicates. How do you avoid a spurious 401? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-authentication-and-authorization-for-a-multi-region-active-acti-26229) |
-| How would you architect caching for a platform where an eventual move to serverless/edge compute is on the roadmap, so today's caching decisions do not become blockers when compute goes stateless and ephemeral? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-platform-where-an-eventual-move--31989) |
-| Establish the org policy for state at the edge (edge KV, durable objects, edge DB). Which use cases justify edge state, what consistency guarantees you promise teams, and how do you stop edge state from becoming an ungoverned shadow datastore? | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=establish-the-org-policy-for-state-at-the-edge-edge-kv-durable-objects-35043) |
-| Explain the difference between edge caching and edge compute state. Why is durable state (KV, Durable Objects, edge DB) hard to keep consistent across POPs, and when would you use it? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-edge-caching-and-edge-compute-state-why-20876) |
-| Design the read-path architecture for a system that must serve strongly-consistent reads in one region and cheap eventually-consistent reads globally, letting each caller choose. How do you expose consistency as an API contract without footguns? | expertise | SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-read-path-architecture-for-a-system-that-must-serve-strongl-31005) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You are asked to evaluate whether to adopt an edge-database (data replicated to the edge) instead of an edge cache. Argue how the correctness and invalidation stories differ, and when a replicated edge store beats a cache at the edge. | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-asked-to-evaluate-whether-to-adopt-an-edge-database-data-repli-38582) |
-| Explain the difference between edge caching and edge compute state. Why is durable state (KV, Durable Objects, edge DB) hard to keep consistent across POPs, and when would you use it? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-edge-caching-and-edge-compute-state-why-20876) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you'd capacity-plan a globally-replicated database (e.g. Spanner/CockroachDB) where write capacity is bounded by the slowest region in the quorum. How does that change your instance sizing versus a single-region deployment? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-capacity-plan-a-globally-replicated-database-e-g-spa-52943) |
-| How do you architect a governance model for a genuinely multi-region-active platform where the same logical user's requests can be served from any region — how do you prevent residency violations while preserving active-active availability and low latency? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-governance-model-for-a-genuinely-multi-region-a-54056) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A managed distributed SQL vendor is 30% cheaper than self-hosting today but stores your data in a proprietary storage format with no logical replication out — how do you quantify data-portability lock-in and fold it into the decision? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-managed-distributed-sql-vendor-is-30-cheaper-than-self-hosting-today-112945) |
-| How do you factor a database vendor's financial health and runway (a distributed-SQL startup could die) into buying it as your system-of-record, and what source-code escrow or contingency migration plan do you demand? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-factor-a-database-vendor-s-financial-health-and-runway-a-di-112974) |
-| How do you value the community and ecosystem factor for a database — hiring pool, extension/driver maturity, Stack Overflow depth — and how do you price a thin ecosystem when choosing a newer engine over Postgres/MySQL? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-value-the-community-and-ecosystem-factor-for-a-database-hir-112971) |
-| A skeptical stakeholder says your proposed multi-region active-active database with conflict resolution is over-engineered for the real availability need. Assume they may be right. How do you pressure-test your own replication proposal and reach a shared decision? | expertise | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-skeptical-stakeholder-says-your-proposed-multi-region-active-active--113162) |
-| Describe a time you changed the technical direction of a team you had no authority over — say, from a single monster Postgres to a partitioned or CQRS design. What levers did you actually pull, and how did you know it worked? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-changed-the-technical-direction-of-a-team-you-had--113148) |
-| How do you approach capacity planning for a global, multi-region active-active deployment where cross-region replication and conflict resolution add their own load? | expertise | SDE-2/3, Architect/Principal | Database Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-capacity-planning-for-a-global-multi-region-active-114985) |
-| How do you incorporate the capacity impact of moving to strong consistency or serializable isolation from read-committed — the correctness upgrade that quietly cuts throughput? | expertise | SDE-2/3, Architect/Principal | Database Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-incorporate-the-capacity-impact-of-moving-to-strong-consist-115041) |
-| How would you capacity-plan a serverless/autoscaling database (Aurora Serverless v2, DynamoDB on-demand) where you're planning cost envelopes rather than fixed instances? | deep understanding | SDE-2/3, Architect/Principal | Database Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-capacity-plan-a-serverless-autoscaling-database-aurora-s-114959) |
-| Explain how you'd design HA for a serverless/autoscaling database where compute nodes come and go. How does elastic compute interact with quorum, leader election, and connection stability? | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-ha-for-a-serverless-autoscaling-database-wher-114726) |
-| Explain how you'd handle HA for a database at the edge (hundreds of PoPs) where full quorum is impractical. What consistency and failover model works for edge-replicated data? | expertise | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-handle-ha-for-a-database-at-the-edge-hundreds-of-pop-114735) |
-| How do you evaluate whether your team's move to a serverless database (Neon/Aurora Serverless) changes the isolation and connection-scaling assumptions your transactions were built on? | deep understanding | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-your-team-s-move-to-a-serverless-database--113731) |
-| How do you evaluate a serverless/auto-scaling database (Aurora Serverless DynamoDB) as a way to reduce polyglot ops burden versus the cost and cold-start trade-offs? | deep understanding | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-a-serverless-auto-scaling-database-aurora-serverle-114617) |
-| A team wants read/write splitting but the app runs in serverless functions with ephemeral connections. How do you route reads without exhausting connection limits? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-read-write-splitting-but-the-app-runs-in-serverless-funct-115480) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,20 +1,33 @@
 # Pony.ai
 
-**Tier:** Tier 2  |  **Business domain:** Autonomous/AI  |  **Questions:** 4
+**Tier:** Tier 2  |  **Business domain:** AI / Autonomous  |  **Questions listed:** 540  |  **Tagged directly to Pony.ai:** 4
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Pony.ai's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Pony.ai: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 4 | 4 | 4 | 4 | 4 | 4 |
+| Backend | 11 | 11 | 48 | 60 | 26 | 60 |
+| Fullstack | 9 | 9 | 38 | 59 | 24 | 60 |
+| DevOps | 0 | 0 | 2 | 60 | 60 | 60 |
+| AIOps | 0 | 0 | 15 | 60 | 60 | 60 |
+| Data Engineer | 4 | 0 | 38 | 60 | 22 | 60 |
+| Database Developer | 13 | 17 | 18 | 54 | 46 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 4 | 3 | 10 | 60 | 56 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| K-th Smallest Ratio From a Special Sorted List | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search on Answer, Fractions, Heap (Priority Queue), Sorting, Two Pointers | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=k-th-smallest-ratio-from-a-special-sorted-list-d771) |
-| Maximum Frequency After Limited Increments | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Greedy, Prefix Sum, Sliding Window, Sorting, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-frequency-after-limited-increments-d1746) |
-| Maximum Reward from Non-Overlapping Contracts | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Dynamic Programming, Sorting, Weighted Interval Scheduling | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-reward-from-non-overlapping-contracts-d1198) |
-| Minimum Lateral Shifts Across a Three-Track Corridor | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, State Machine | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-lateral-shifts-across-a-three-track-corridor-d1733) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

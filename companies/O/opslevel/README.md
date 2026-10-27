@@ -1,29 +1,33 @@
 # OpsLevel
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 7
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to OpsLevel:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. OpsLevel's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches OpsLevel: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 2 | 5 | 5 | 5 |
-| AIOps | 0 | 0 | 2 | 2 | 2 | 2 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 33 | 58 | 43 | 60 |
+| AIOps | 2 | 1 | 23 | 60 | 44 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance for platform-provided golden paths so that choosing a non-golden path is not forbidden but carries a visible compliance-debt cost the team must justify — what makes this incentive model work at org scale? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-platform-provided-golden-paths-so--54036) |
-| Explain how you would build a service catalog and ownership model so no service is orphaned and every developer knows who owns what. | deep understanding | SDE-2/3, Architect/Principal | Developer Experience (DevEx) Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-build-a-service-catalog-and-ownership-model-so-n-56401) |
-| Explain how you'd keep the service catalog trustworthy when it relies on hundreds of teams updating metadata. What automation prevents it from rotting? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-keep-the-service-catalog-trustworthy-when-it-relies--48163) |
-| Explain how you'd measure and improve platform adoption when it's stuck at 40%. What data would you pull first, and what's your hypothesis-driven approach to unblocking teams? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-measure-and-improve-platform-adoption-when-it-s-stuc-48182) |
-| How would you architect the platform to keep the developer-portal catalog authoritative when it depends on hundreds of teams keeping metadata fresh — what automation, discovery, and decay-detection makes 'who owns this' resolvable during a 3am incident? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-platform-to-keep-the-developer-portal-cata-54282) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you enrich each topology node with ownership/team metadata and why does that matter for automated incident routing? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-enrich-each-topology-node-with-ownership-team-metadata-a-97678) |
-| When you scale topology mapping across hundreds of teams, how do you enforce consistent service identity/naming so the graph doesn't fragment into duplicate nodes? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-you-scale-topology-mapping-across-hundreds-of-teams-how-do-you-en-97725) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

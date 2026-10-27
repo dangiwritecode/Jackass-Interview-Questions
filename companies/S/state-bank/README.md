@@ -1,39 +1,33 @@
 # State Bank
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 17
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to State Bank:** 17
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. State Bank's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches State Bank: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 15 | 16 | 16 | 16 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 1 | 1 | 21 | 60 | 57 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you strangle a monolith whose 'API' is actually a stored-procedure-heavy database that other apps call directly — is there even a seam to insert a facade? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-strangle-a-monolith-whose-api-is-actually-a-stored-procedur-40952) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An interviewer asks: what's the single biggest hidden cost of hybrid cloud that teams underestimate, and how did you surface it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-what-s-the-single-biggest-hidden-cost-of-hybrid-cl-51186) |
-| Describe how you'd handle stateful storage that must be readable from both on-prem and cloud with acceptable consistency; what CAP trade-offs surface? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-handle-stateful-storage-that-must-be-readable-from--51173) |
-| Describe your approach to a phased data-center exit where some racks stay for three years; how do you keep the hybrid seam maintainable that long? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-approach-to-a-phased-data-center-exit-where-some-racks-s-51196) |
-| Explain how you'd design storage tiering where hot data is in cloud and cold archives stay on-prem, and how lifecycle policies stay in sync. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-storage-tiering-where-hot-data-is-in-cloud-an-51216) |
-| How do you decide which workloads stay on-prem versus move to cloud in a hybrid estate, and what signals tell you a workload was misplaced? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-which-workloads-stay-on-prem-versus-move-to-cloud-in-51141) |
-| How do you handle a hybrid setup where the on-prem side has no autoscaling; what does that constraint force in your cloud-side design? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-hybrid-setup-where-the-on-prem-side-has-no-autosca-51222) |
-| How do you keep a consistent backup and restore strategy when data lives in AWS RDS, Azure SQL, and an on-prem Postgres cluster? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-a-consistent-backup-and-restore-strategy-when-data-liv-51159) |
-| How do you manage OS patching and kernel-level compliance uniformly across on-prem hypervisors and cloud instances? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-manage-os-patching-and-kernel-level-compliance-uniformly-ac-51207) |
-| How would you design a break-glass access procedure that works even if the primary cloud (hosting your IdP) is fully unavailable? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-break-glass-access-procedure-that-works-even-if-51205) |
-| How would you design cross-cloud audit logging so a security team can trace an action end-to-end even when it spans two providers? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-cross-cloud-audit-logging-so-a-security-team-can--51224) |
-| How would you handle a compliance audit that requires proving data never left a specific cloud region while the app is deployed across clouds? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-a-compliance-audit-that-requires-proving-data-nev-51184) |
-| What data-residency and compliance constraints have forced you into a hybrid or specific-region multi-cloud layout, and how did you enforce them technically? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-data-residency-and-compliance-constraints-have-forced-you-into-a--51153) |
-| Why is a 'lift-and-shift then modernize' hybrid strategy risky, and what guardrails do you put so 'modernize' actually happens? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-a-lift-and-shift-then-modernize-hybrid-strategy-risky-and-what--51163) |
-| Why might a company choose hybrid cloud over pure public cloud, and where does that decision usually go wrong in practice? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-a-company-choose-hybrid-cloud-over-pure-public-cloud-and-whe-51133) |
-| Your on-prem identity provider (AD) must authorize cloud console access; how do you design that federation to fail safely if AD is down? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-on-prem-identity-provider-ad-must-authorize-cloud-console-access--51190) |
-| How do you architect reliability targets for a hybrid on-prem-plus-cloud estate where the on-prem side has hard capacity ceilings — can you offer a unified SLA, and how do you budget the fundamentally different failure profiles? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-reliability-targets-for-a-hybrid-on-prem-plus-clo-54142) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

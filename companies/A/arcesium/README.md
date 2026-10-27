@@ -1,28 +1,33 @@
 # Arcesium
 
-**Tier:** Tier 2  |  **Business domain:** Fintech  |  **Questions:** 12
+**Tier:** Tier 2  |  **Business domain:** Fintech  |  **Questions listed:** 540  |  **Tagged directly to Arcesium:** 12
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Arcesium's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Arcesium: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 12 | 12 | 12 | 12 | 12 | 12 |
+| Backend | 3 | 3 | 20 | 59 | 58 | 60 |
+| Fullstack | 19 | 19 | 46 | 55 | 22 | 60 |
+| DevOps | 28 | 20 | 28 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 14 | 60 | 52 | 60 |
+| Data Engineer | 13 | 5 | 42 | 58 | 25 | 60 |
+| Database Developer | 11 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Counting Balanced Rising and Falling Splits | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Combinatorics, Dynamic Programming, Math, Prefix Sum | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-balanced-rising-and-falling-splits-d2939) |
-| Counting People Who Still Remember a Spreading Rumor | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Modular Arithmetic, Prefix Sum, Queue, Simulation, Sliding Window | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-people-who-still-remember-a-spreading-rumor-d2190) |
-| Cycle Length After Linking Two Nodes of a Heap Tree | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Lifting, Binary Tree, Bit Manipulation, Lowest Common Ancestor, Math, Tree | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cycle-length-after-linking-two-nodes-of-a-heap-tree-d2360) |
-| Fewest Swaps to Cluster All Ones in a Circular Sequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Circular Array, Fixed-Size Window, Sliding Window, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-swaps-to-cluster-all-ones-in-a-circular-sequence-d2014) |
-| Largest All-Filled Rectangle in a Binary Grid | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Histogram, Matrix, Monotonic Stack, Stack | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-all-filled-rectangle-in-a-binary-grid-d85) |
-| Longest Contiguous Segment With a Positive Product | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Kadane-style Scan, Prefix/Sign Tracking | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-contiguous-segment-with-a-positive-product-d1496) |
-| Longest Uniform Run After Limited Recoloring | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search (alternative), Counting, Prefix Sum (alternative), Sliding Window, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-uniform-run-after-limited-recoloring-d1913) |
-| Minimum Character Edits to Transform One String into Another | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | 2D DP, Dynamic Programming, Edit Distance, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-character-edits-to-transform-one-string-into-another-d72) |
-| Minimum Peak Load When Servicing Non-Adjacent Stations | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Greedy | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-peak-load-when-servicing-non-adjacent-stations-d2411) |
-| Shortest Single-Letter Transformation Chain | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Graph, Hash Table, Queue, Shortest Path, String | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-single-letter-transformation-chain-d127) |
-| Split Items Into Two Equal Groups With Minimum Total Difference | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Bitmask Subset Enumeration, Dynamic Programming (subset-sum flavor), Meet in the Middle, Sorting, Subset Sums | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=split-items-into-two-equal-groups-with-minimum-total-difference-d1923) |
-| Total Impacts Among Robots on a Rail | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Simulation, Stack, String, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=total-impacts-among-robots-on-a-rail-d2084) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,39 +1,33 @@
 # Otter
 
-**Tier:** Tier 4  |  **Business domain:** SaaS  |  **Questions:** 11
+**Tier:** Tier 4  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Otter:** 11
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Otter's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Otter: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 1 | 2 | 1 | 2 |
-| AI Engineer | 0 | 0 | 3 | 5 | 4 | 5 |
-| Data Structures & Algorithms (all profiles) | 4 | 4 | 4 | 4 | 4 | 4 |
+| Backend | 4 | 4 | 21 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 49 | 56 | 23 | 60 |
+| DevOps | 29 | 21 | 30 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 1 | 60 | 59 | 60 |
+| AI Engineer | 3 | 3 | 6 | 60 | 57 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you evaluate a privacy claim like 'we only train on anonymized data' when free-text fields, images, and voice all carry latent PII? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-a-privacy-claim-like-we-only-train-on-anonymized-d-72600) |
-| You have a speech-plus-transcript model and inference latency spikes when audio clips are long. How would you chunk streaming audio while keeping the text alignment correct? | deep understanding | SDE-1/2, SDE-2/3 | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-a-speech-plus-transcript-model-and-inference-latency-spikes-w-67084) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your framework for evaluating a summarization model at scale when both faithfulness and informativeness matter and improving one hurts the other? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-evaluating-a-summarization-model-at-scale-wh-86906) |
-| Explain why a summarization feature has no single correct answer and how you'd still gate it in CI without brittle exact-match tests. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-summarization-feature-has-no-single-correct-answer-and-h-77971) |
-| How would you evaluate a speech-plus-text meeting-summarization pipeline end-to-end when transcription errors and summary errors compound? What metrics separate the two failure sources? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-a-speech-plus-text-meeting-summarization-pipeli-80642) |
-| Your summarization feature gets high ROUGE but users find summaries useless. How would you build an evaluation that reflects real value? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-summarization-feature-gets-high-rouge-but-users-find-summaries-us-79447) |
-| Design the architecture for cross-modal citation: when an answer is grounded in a chart inside a PDF or a spoken passage in a call recording, how does the platform cite and let a user verify non-text evidence at scale? | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-cross-modal-citation-when-an-answer-is-gro-82947) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Flatten a Nested List up to a Given Depth | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Arrays, Depth-First Search, Nested Data Structures, Recursion | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=flatten-a-nested-list-up-to-a-given-depth-d2475) |
-| Hopper Crossing a Line of Ledges | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Hash Table, Memoization, State-space Search | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=hopper-crossing-a-line-of-ledges-d403) |
-| Segment a String Using a Token Dictionary | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Hash Table, Memoization, Recursion, String, Trie | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=segment-a-string-using-a-token-dictionary-d139) |
-| Water Volume Trapped on a 2D Elevation Grid | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Best-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Matrix | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=water-volume-trapped-on-a-2d-elevation-grid-d407) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

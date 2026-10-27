@@ -1,27 +1,33 @@
 # Lumigo
 
-**Tier:** Tier 5  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 5  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Lumigo:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Lumigo's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Lumigo: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 1 | 1 | 1 |
-| AIOps | 0 | 0 | 2 | 4 | 3 | 4 |
+| Backend | 4 | 4 | 46 | 59 | 57 | 60 |
+| Fullstack | 18 | 18 | 54 | 56 | 17 | 60 |
+| DevOps | 27 | 18 | 28 | 59 | 46 | 60 |
+| AIOps | 1 | 1 | 11 | 60 | 53 | 60 |
+| Data Engineer | 11 | 3 | 54 | 58 | 18 | 60 |
+| Database Developer | 13 | 23 | 24 | 45 | 37 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 2 | 15 | 60 | 51 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect cost visibility for a serverless-heavy estate (Lambda, DynamoDB on-demand, API Gateway, Step Functions) where per-invocation costs are tiny but aggregate is huge and hard to attribute? What's uniquely hard versus VM-based cost tracking? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-cost-visibility-for-a-serverless-heavy-estate-lam-37062) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect observability for serverless functions across clouds where the runtime is opaque and cold-start noise pollutes anomaly detection? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-observability-for-serverless-functions-across-clo-103803) |
-| How would you strategize observability for a serverless-first architecture where cold starts, concurrency limits, and vendor metrics dominate? | deep understanding | SDE-2/3, Architect/Principal | Observability Platform Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-strategize-observability-for-a-serverless-first-architec-103031) |
-| How would you instrument a serverless Lambda function with OTel while keeping cold-start overhead low enough not to skew your latency-based anomaly baselines? | deep understanding | SDE-1/2, SDE-2/3 | OpenTelemetry Instrumentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-instrument-a-serverless-lambda-function-with-otel-while--98432) |
-| You're asked to map dependencies for a serverless (Lambda/Functions) architecture. Why is traditional discovery harder here and what do you rely on instead? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-map-dependencies-for-a-serverless-lambda-functions-arc-97654) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

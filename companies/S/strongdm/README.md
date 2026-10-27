@@ -1,37 +1,33 @@
 # StrongDM
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 9
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to StrongDM:** 9
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. StrongDM's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches StrongDM: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 6 | 6 | 6 |
-| Data Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| Database Developer | 0 | 0 | 0 | 2 | 2 | 2 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for privileged-access + bastion / just-in-time SSH-and-DB access (Teleport/StrongDM/Boundary vs jump-host + custom short-lived certs) when auditability of every production access is a compliance requirement? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-privileged-access-bastion-just-in-t-53761) |
-| How do you architect governance for the reality that most PII exposure comes from over-permissioned internal access, not external breach — what does a principled least-privilege-at-scale design look like when thousands of engineers need some data access to do their jobs? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-the-reality-that-most-pii-exposure-54090) |
-| Describe an architecture where you can prove least-privilege and just-in-time access to production PHI systems is enforced and fully audited across cloud, k8s, and databases. | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-an-architecture-where-you-can-prove-least-privilege-and-just--56751) |
-| How do you architect secret access for third-party contractors and vendors who need scoped, time-boxed access without becoming full internal identities? What's the isolation and expiry model? | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-secret-access-for-third-party-contractors-and-ven-54992) |
-| How do you architect Vault-issued SSH certificates to replace static keys and jump-host sprawl for a 2000-server fleet? Compare signed-cert vs OTP mode operationally and for audit. | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-vault-issued-ssh-certificates-to-replace-static-k-54956) |
-| How do you architect a zero-trust access proxy in front of unmodifiable legacy apps so you can inject identity, enforce policy, and audit access for systems that predate your identity fabric, and be honest about what you fundamentally cannot retrofit? | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-zero-trust-access-proxy-in-front-of-unmodifiabl-54018) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a break-glass and privileged-access model for production data stores holding PII/PAN in a data platform — grant emergency access under incident pressure while every query is recorded time-boxed and auto-reviewed to satisfy PCI Requirement 7 and 10? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-break-glass-and-privileged-access-model-for-pro-126100) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect just-in-time, approval-gated privileged database access for thousands of engineers so that standing access trends toward zero across the whole estate? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-just-in-time-approval-gated-privileged-database-a-114055) |
-| How do you design and defend an access model where humans get ephemeral SSO-brokered access and machines get workload identity, with no long-lived passwords anywhere? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-and-defend-an-access-model-where-humans-get-ephemera-114111) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,32 +1,33 @@
 # Akuna Capital
 
-**Tier:** Tier 2  |  **Business domain:** Fintech/Trading  |  **Questions:** 16
+**Tier:** Tier 2  |  **Business domain:** Trading / Fintech  |  **Questions listed:** 540  |  **Tagged directly to Akuna Capital:** 16
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Akuna Capital's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Akuna Capital: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 16 | 16 | 16 | 16 | 16 | 16 |
+| Backend | 8 | 8 | 53 | 58 | 16 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 16 | 60 |
+| DevOps | 28 | 20 | 30 | 58 | 45 | 60 |
+| AIOps | 3 | 2 | 12 | 60 | 53 | 60 |
+| Data Engineer | 13 | 5 | 42 | 58 | 25 | 60 |
+| Database Developer | 11 | 17 | 18 | 51 | 43 | 60 |
+| ML Engineer | 0 | 0 | 19 | 60 | 41 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Count Distinct GCD Values Over All Subsequences | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, GCD, Math, Number Theory, Sieve/Harmonic Enumeration | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-distinct-gcd-values-over-all-subsequences-d1729) |
-| Counting Valid Symbol Sequences with a Consecutive-Repeat Limit | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Dynamic Programming, Modular Arithmetic, State Machine | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-valid-symbol-sequences-with-a-consecutive-repeat-limit-d1187) |
-| Critical Links in a Relay Network | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Biconnected Component, Bridges, Depth-First Search, Graph, Low-Link Values, Tarjan's Algorithm | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=critical-links-in-a-relay-network-d1159) |
-| Fewest Cable Moves to Connect Every Station | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Connected Components, Depth-First Search, Disjoint Set Union, Graph, Union Find | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-cable-moves-to-connect-every-station-d1273) |
-| Fewest Codes to Purge Half the Log | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Greedy, Hash Table, Heap (Priority Queue), Sorting | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-codes-to-purge-half-the-log-d1290) |
-| Fewest Repeaters to Cover a Cable Segment | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Interval Covering, Jump Game | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-repeaters-to-cover-a-cable-segment-d1279) |
-| Highest-Value Hub Cluster in a Relay Network | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Adjacency List, Array, Graph, Greedy, Heap (Priority Queue), Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=highest-value-hub-cluster-in-a-relay-network-d2349) |
-| Maximum Cargo on a Grid Round Trip | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Grid Paths, Matrix, Memoization, Multi-Agent DP | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-cargo-on-a-grid-round-trip-d726) |
-| Maximum Points From Picking Numbered Tokens | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Dynamic Programming, Hash Table, House Robber Pattern | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-points-from-picking-numbered-tokens-d725) |
-| Maximum Subsequence Sum with a Bounded Index Gap | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Heap (Priority Queue), Monotonic Deque, Queue, Sliding Window Maximum | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-subsequence-sum-with-a-bounded-index-gap-d1369) |
-| Minimum Starting Charge to Complete Every Job | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Exchange Argument, Greedy, Scheduling, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-starting-charge-to-complete-every-job-d1586) |
-| Palindrome-Feasibility Queries on Substrings | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bit Manipulation, Bitmask Parity, Hash Table, Prefix Sum, Range Queries, String | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=palindrome-feasibility-queries-on-substrings-d1145) |
-| Prefix-Weighted Key Totals | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design, Hash Table, Prefix Sum, String, Trie | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=prefix-weighted-key-totals-d662) |
-| Rearrange Letters into Rising and Falling Waves | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bucket Counting, Counting, Counting Sort, Hash Table, String | Online Assessment (OA), Phone Screen | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=rearrange-letters-into-rising-and-falling-waves-d1318) |
-| Time for a Broadcast Signal to Reach Every Node | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Depth-First Search, Dijkstra, Graph, Heap (Priority Queue), Shortest Path | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=time-for-a-broadcast-signal-to-reach-every-node-d728) |
-| Total Insertion Cost of a Sorted Multiset | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Indexed Tree (Fenwick Tree), Binary Search, Divide and Conquer, Merge Sort, Modular Arithmetic, Ordered Set, Order Statistics, Segment Tree | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=total-insertion-cost-of-a-sorted-multiset-d1571) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

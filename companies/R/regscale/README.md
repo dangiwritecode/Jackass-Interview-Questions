@@ -1,25 +1,33 @@
 # RegScale
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 9
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to RegScale:** 9
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. RegScale's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches RegScale: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 9 | 9 | 9 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 1 | 1 | 10 | 60 | 57 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe how you'd implement Plan of Action and Milestones (POA&M) tracking that stays synchronized with your actual vulnerability-management and Jira workflows. | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-implement-plan-of-action-and-milestones-poa-and-m-t-56744) |
-| Design an evidence-collection pipeline that produces machine-readable OSCAL artifacts directly from Terraform state and cloud config, minimizing manual auditor toil. | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-evidence-collection-pipeline-that-produces-machine-readable--56740) |
-| How do you design a control-inheritance graph so that when an upstream provider changes their control implementation, you're automatically notified of downstream impact? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-control-inheritance-graph-so-that-when-an-upstream-56789) |
-| Walk me through how you'd unify audit evidence across HIPAA, FedRAMP, and an ISO 27001 program so control testing is done once and satisfies many. | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-unify-audit-evidence-across-hipaa-fedramp-an-56782) |
-| What is your view on treating the SSP as code (OSCAL in git) with PR-based control changes, and what are the failure modes of that approach at org scale? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-view-on-treating-the-ssp-as-code-oscal-in-git-with-pr-bas-56812) |
-| What's your position on FedRAMP 20x and its emphasis on Key Security Indicators over narrative documentation, and how would you re-architect a program to align? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-position-on-fedramp-20x-and-its-emphasis-on-key-security-i-56741) |
-| What's your position on maintaining a single control catalog abstraction internally versus tracking NIST controls directly, and how does that affect tooling investment? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-position-on-maintaining-a-single-control-catalog-abstracti-56800) |
-| What's your view on using compliance-automation SaaS (Vanta/Drata/RegScale) for a FedRAMP program versus building bespoke tooling, given the boundary implications of the tool itself? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-view-on-using-compliance-automation-saas-vanta-drata-regsc-56788) |
-| You're asked to reduce FedRAMP audit costs by 40% over two years; what architectural investments give the biggest ROI and which are false economies? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-reduce-fedramp-audit-costs-by-40-over-two-years-what-a-56756) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

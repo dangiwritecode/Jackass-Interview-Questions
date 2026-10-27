@@ -1,33 +1,33 @@
 # Huawei
 
-**Tier:** Tier 2  |  **Business domain:** Telecom/Hardware  |  **Questions:** 11
+**Tier:** Tier 2  |  **Business domain:** Hardware / Telecom  |  **Questions listed:** 540  |  **Tagged directly to Huawei:** 11
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Huawei's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Huawei: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Structures & Algorithms (all profiles) | 10 | 10 | 10 | 10 | 10 | 10 |
+| Backend | 24 | 24 | 20 | 47 | 37 | 60 |
+| Fullstack | 19 | 19 | 20 | 47 | 44 | 60 |
+| DevOps | 45 | 0 | 47 | 60 | 15 | 60 |
+| AIOps | 2 | 2 | 7 | 60 | 59 | 60 |
+| Data Engineer | 11 | 5 | 14 | 58 | 46 | 60 |
+| Database Developer | 11 | 28 | 29 | 37 | 31 | 60 |
+| ML Engineer | 0 | 0 | 11 | 60 | 49 | 60 |
+| AI Engineer | 0 | 0 | 13 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AI Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design a capacity plan resilient to a sudden export-control or geopolitical shock that cuts off a GPU supply line? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-capacity-plan-resilient-to-a-sudden-export-cont-86721) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| All Combinations Summing to a Target with Unlimited Reuse | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Combinatorics, Depth-First Search, Pruning, Recursion | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=all-combinations-summing-to-a-target-with-unlimited-reuse-d39) |
-| Arrange Numbers to Form the Largest Value | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Custom Comparator, Greedy, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=arrange-numbers-to-form-the-largest-value-d179) |
-| Distance to the Next Greater Value | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Monotonic Stack, Next Greater Element, Stack | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=distance-to-the-next-greater-value-d724) |
-| Enumerate All Balanced Bracket Sequences | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Combinatorics, Dynamic Programming, Recursion, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=enumerate-all-balanced-bracket-sequences-d22) |
-| Expand a Nested Repeat-Notation String | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Parsing, Recursion, Stack, String | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=expand-a-nested-repeat-notation-string-d394) |
-| Fewest Cells on a Jump-Range Board | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Dynamic Programming, Heap (Priority Queue), Matrix, Monotonic Stack, Shortest Path, Sorted Set, Union Find | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-cells-on-a-jump-range-board-d2467) |
-| Largest All-Filled Rectangle in a Binary Grid | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Histogram, Matrix, Monotonic Stack, Stack | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-all-filled-rectangle-in-a-binary-grid-d85) |
-| Largest Value Reachable From a Row of Binary Switches | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bit Manipulation, Constructive, Counting, Greedy, String | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-value-reachable-from-a-row-of-binary-switches-d1621) |
-| Merge Two Sorted Singly Linked Chains | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Linked List, Merge, Recursion, Sorting, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=merge-two-sorted-singly-linked-chains-d21) |
-| Reach the Target of Twenty-Four | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Floating-Point Comparison, Math, Recursion | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reach-the-target-of-twenty-four-d664) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

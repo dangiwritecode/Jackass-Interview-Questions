@@ -1,31 +1,33 @@
 # Snap Inc.
 
-**Tier:** Tier 2  |  **Business domain:** Social  |  **Questions:** 462
+**Tier:** Tier 2  |  **Business domain:** Social  |  **Questions listed:** 644  |  **Tagged directly to Snap Inc.:** 459
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Snap Inc.'s own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Snap Inc.: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 8 | 8 | 24 | 48 | 45 | 48 |
-| Fullstack | 0 | 0 | 2 | 17 | 17 | 17 |
-| DevOps | 0 | 0 | 0 | 11 | 11 | 11 |
-| AIOps | 0 | 0 | 0 | 6 | 6 | 6 |
-| Data Engineer | 0 | 0 | 3 | 10 | 7 | 10 |
-| Database Developer | 0 | 0 | 0 | 4 | 4 | 4 |
-| ML Engineer | 0 | 0 | 130 | 256 | 136 | 256 |
-| AI Engineer | 0 | 0 | 4 | 36 | 34 | 36 |
+| Backend | 11 | 11 | 27 | 59 | 55 | 60 |
+| Fullstack | 16 | 16 | 38 | 56 | 32 | 60 |
+| DevOps | 27 | 19 | 27 | 58 | 48 | 60 |
+| AIOps | 3 | 2 | 11 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 23 | 60 |
+| Database Developer | 11 | 16 | 17 | 52 | 44 | 60 |
+| ML Engineer | 0 | 0 | 48 | 150 | 102 | 150 |
+| AI Engineer | 0 | 0 | 4 | 60 | 58 | 60 |
 | Data Structures & Algorithms (all profiles) | 74 | 74 | 74 | 74 | 74 | 74 |
 
 ## Question lists
 
-- [Backend](backend.md) — 48 questions
-- [Fullstack](fullstack.md) — 17 questions
-- [DevOps](devops.md) — 11 questions
-- [AIOps](aiops.md) — 6 questions
-- [Data Engineer](data-engineer.md) — 10 questions
-- [Database Developer](database-developer.md) — 4 questions
-- [ML Engineer](ml-engineer.md) — 256 questions
-- [AI Engineer](ai-engineer.md) — 36 questions
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 150 questions (top 150 of 256 tagged — open any one in Locus to filter the rest)
+- [AI Engineer](ai-engineer.md) — 60 questions
 - [Data Structures & Algorithms](dsa.md) — 74 questions

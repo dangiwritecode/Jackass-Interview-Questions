@@ -1,28 +1,33 @@
 # DP World
 
-**Tier:** Tier 3  |  **Business domain:** Logistics  |  **Questions:** 12
+**Tier:** Tier 3  |  **Business domain:** Logistics  |  **Questions listed:** 540  |  **Tagged directly to DP World:** 12
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. DP World's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches DP World: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 12 | 12 | 12 | 12 | 12 | 12 |
+| Backend | 22 | 22 | 47 | 50 | 32 | 60 |
+| Fullstack | 28 | 28 | 41 | 48 | 29 | 60 |
+| DevOps | 27 | 19 | 34 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 10 | 3 | 45 | 59 | 36 | 60 |
+| Database Developer | 14 | 24 | 25 | 44 | 36 | 60 |
+| ML Engineer | 0 | 0 | 3 | 60 | 58 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Cluster Words That Share the Same Letters | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Grouping, Hash Table, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cluster-words-that-share-the-same-letters-d49) |
-| Fewest Monitors to Watch Every Node of a Tree | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Dynamic Programming, Greedy, Recursion, Tree | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-monitors-to-watch-every-node-of-a-tree-d953) |
-| Largest Solid Square in a Binary Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | 2D DP, Array, Dynamic Programming, Matrix | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-solid-square-in-a-binary-grid-d221) |
-| Length of the Longest Window with All Distinct Characters | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, Sliding Window, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=length-of-the-longest-window-with-all-distinct-characters-d3) |
-| Locate a Value in a Rotated Ascending Array | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Divide and Conquer | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=locate-a-value-in-a-rotated-ascending-array-d33) |
-| Locate the Repeated Label in a Bounded Sequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Bit Manipulation, Floyd's Cycle Detection, Linked List (implicit), Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=locate-the-repeated-label-in-a-bounded-sequence-d287) |
-| Longest Substring That Reads the Same Forward and Backward | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Palindrome, String, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-substring-that-reads-the-same-forward-and-backward-d5) |
-| Minimum Group Population From Same-Badge Replies | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Ceiling Division, Counting, Greedy, Hash Table, Math | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-group-population-from-same-badge-replies-d766) |
-| Minimum Markers Covering Every Range Twice | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Interval, Sorting | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-markers-covering-every-range-twice-d742) |
-| Minimum Per-Session Page Limit to Clear a Print Queue | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Greedy, Optimization | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-per-session-page-limit-to-clear-a-print-queue-d996) |
-| Resolve Ratio Queries Over a Web of Known Proportions | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Graph, Hash Table, Shortest Path, String, Union Find | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=resolve-ratio-queries-over-a-web-of-known-proportions-d399) |
-| Smallest Covering Window | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Frequency Counting, Hash Table, Sliding Window, String, Two Pointers | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-covering-window-d76) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

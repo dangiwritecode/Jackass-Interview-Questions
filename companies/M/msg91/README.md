@@ -1,41 +1,33 @@
 # MSG91
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 13
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to MSG91:** 11
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. MSG91's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches MSG91: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 8 | 9 | 8 | 9 |
-| Fullstack | 1 | 1 | 2 | 3 | 3 | 3 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 10 | 10 | 47 | 60 | 37 | 60 |
+| Fullstack | 8 | 8 | 49 | 59 | 23 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An attacker is draining your SMS OTP budget by triggering millions of sends to numbers they control. As architect, design the multi-layer economic defense so this is impossible to weaponize, spanning rate limits, cost caps, provider fallback, and pre-send risk scoring. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-attacker-is-draining-your-sms-otp-budget-by-triggering-millions-of--32780) |
-| How would you architect a rate-limited third-party integration (say an SMS provider capped at 100/sec) so bursts of your traffic never breach their limit? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-rate-limited-third-party-integration-say-an--19855) |
-| How would you protect a GraphQL mutation that triggers an email/SMS send from being abused as a spam amplifier? Consider rate limiting per recipient, per user, and per operation, and where each check lives. | deep understanding | SDE-1/2, SDE-2/3 | GraphQL | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-protect-a-graphql-mutation-that-triggers-an-email-sms-se-24091) |
-| Design an OTP-generation-and-verification service used across products — how do you rate-limit per number resend prevent enumeration and store OTPs securely with short TTL at scale? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-otp-generation-and-verification-service-used-across-products-28402) |
-| Design the priority handling in a notification queue where OTP/transactional messages must never be delayed behind a bulk marketing blast — how do you isolate lanes and prevent priority inversion? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-priority-handling-in-a-notification-queue-where-otp-transac-28354) |
-| Model a class design for rate-limited email/SMS sending with provider fallback and cost-aware routing; how do you keep per-provider limits, choose the cheapest healthy provider, and record delivery outcomes? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=model-a-class-design-for-rate-limited-email-sms-sending-with-provider--22392) |
-| SMS-OTP sends cost real money and abuse can run up a huge bill. Design multi-dimensional limits (per phone, per IP, per account, global spend cap) and the alerting to catch a spend spike fast. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Rate Limiting | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=sms-otp-sends-cost-real-money-and-abuse-can-run-up-a-huge-bill-design--25979) |
-| Design a system to send SMS alerts when an order status changes. | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-to-send-sms-alerts-when-an-order-status-changes-8900) |
-| Design an OTP send-and-verify system hardened against abuse: rate-limit generation per phone and per IP, prevent enumeration, and make verification safe against timing and brute-force attacks. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-otp-send-and-verify-system-hardened-against-abuse-rate-limit-22310) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An attacker is draining your OTP SMS budget by triggering millions of sends to numbers they control. Architect the multi-layer economic defense — per-number and per-account limits, pre-send risk scoring, cost caps, provider fallback — so weaponizing your send path is impossible. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-attacker-is-draining-your-otp-sms-budget-by-triggering-millions-of--38890) |
-| How would you architect a rate-limited third-party integration (say an SMS provider capped at 100/sec) so bursts of your traffic never breach their limit? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-rate-limited-third-party-integration-say-an--19855) |
-| Design a system to send SMS alerts when an order status changes. | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-to-send-sms-alerts-when-an-order-status-changes-8900) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you plan capacity for a system where the binding constraint is a downstream vendor's rate limit (payment processor, SMS gateway, external API) rather than your own compute? How does an externally-imposed ceiling reshape your scaling and cost story? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-for-a-system-where-the-binding-constraint-is--52988) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

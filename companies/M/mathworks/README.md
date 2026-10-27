@@ -1,44 +1,33 @@
 # MathWorks
 
-**Tier:** Tier 2  |  **Business domain:** Scientific-Software  |  **Questions:** 28
+**Tier:** Tier 2  |  **Business domain:** Scientific-Software  |  **Questions listed:** 540  |  **Tagged directly to MathWorks:** 28
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. MathWorks's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches MathWorks: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 28 | 28 | 28 | 28 | 28 | 28 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Cheapest Full Binary Tree Over an Ordered Leaf Sequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Interval DP, Monotonic Stack, Stack | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cheapest-full-binary-tree-over-an-ordered-leaf-sequence-d1103) |
-| Cheapest Pick From Either End of a Line | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Heap (Priority Queue), Simulation, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cheapest-pick-from-either-end-of-a-line-d2317) |
-| Count Distinct Letter-Rearrangements of Every Word in a Sentence | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Combinatorics, Counting, Hash Table, Math, Modular Arithmetic, Number Theory, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-distinct-letter-rearrangements-of-every-word-in-a-sentence-d2365) |
-| Count Subarrays With Exact Minimum and Maximum | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Monotonic Queue, Sliding Window, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-subarrays-with-exact-minimum-and-maximum-d2299) |
-| Counting Divisor-Compatible Permutations | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Bit Manipulation, Bitmask, Combinatorics, Depth-First Search, Dynamic Programming, Recursion | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-divisor-compatible-permutations-d525) |
-| Counting Rotation Sequences That Reach a Target | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Combinatorics, Doubled String Rotations, Dynamic Programming, KMP, Linear Recurrence, Math, Matrix Exponentiation, Modular Arithmetic, String Matching | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-rotation-sequences-that-reach-a-target-d2636) |
-| Counting the Ways a Pattern Appears as a Subsequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Combinatorics, Dynamic Programming, Prefix DP, String, Subsequence Counting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-the-ways-a-pattern-appears-as-a-subsequence-d115) |
-| Decode a Binary Number Stored in a Linked List | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bit Manipulation, Linked List, Math, Number Systems, Traversal | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=decode-a-binary-number-stored-in-a-linked-list-d1247) |
-| Earliest Tick to Drain and Lock Every Counter | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Greedy, Simulation | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=earliest-tick-to-drain-and-lock-every-counter-d2794) |
-| Earliest Tick to Seal Every Gauge with Reset Windows | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Exchange Argument, Greedy, Heap (Priority Queue), Monotonic Predicate | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=earliest-tick-to-seal-every-gauge-with-reset-windows-d2795) |
-| Fewest Monitors to Watch Every Node of a Tree | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Dynamic Programming, Greedy, Recursion, Tree | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-monitors-to-watch-every-node-of-a-tree-d953) |
-| Largest Rising Gap Between an Earlier and a Later Value | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, One Pass, Prefix Minimum, Running Minimum | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-rising-gap-between-an-earlier-and-a-later-value-d1906) |
-| Lexicographically Greatest Substring of a String | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Maximum Suffix, String, Suffix Comparison, Two Pointers | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=lexicographically-greatest-substring-of-a-string-d1132) |
-| Longest Chain of One-Character Insertions | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | DAG Longest Path, Dynamic Programming, Hash Table, Sorting, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-chain-of-one-character-insertions-d1033) |
-| Longest Uniform Block After Limited Repaints | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Hash Table, Sliding Window, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-uniform-block-after-limited-repaints-d424) |
-| Marker Position on a Bouncing Row | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Math, Modular Arithmetic, Simulation | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=marker-position-on-a-bouncing-row-d2433) |
-| Maximum Batches Producible From a Single Machine | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Feasibility Predicate, Greedy, Math | Online Assessment (OA), DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-batches-producible-from-a-single-machine-d2643) |
-| Maximum Revenue from Declining-Price Tokens | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Arithmetic Series, Array, Binary Search, Greedy, Heap (Priority Queue), Math, Modular Arithmetic, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-revenue-from-declining-price-tokens-d1570) |
-| Minimize the Largest Segment Sum When Partitioning an Array | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Dynamic Programming, Greedy, Prefix Sum | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimize-the-largest-segment-sum-when-partitioning-an-array-d410) |
-| Minimum Cost Shopping with Promotional Bundles | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Bitmask, Dynamic Programming, Memoization, Recursion | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-cost-shopping-with-promotional-bundles-d623) |
-| Minimum Edge Reversals to Reach Every Node From Each Start | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Depth-First Search, Dynamic Programming on Trees, Graph, Rerooting Technique, Tree | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-edge-reversals-to-reach-every-node-from-each-start-d2640) |
-| Most Simultaneous Palindromes After Freely Rearranging Letters | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Greedy, Hash Table, Palindrome, Sorting, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=most-simultaneous-palindromes-after-freely-rearranging-letters-d2782) |
-| Reshape a Grid While Preserving Row-Major Order | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Index Mapping, Matrix, Simulation | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reshape-a-grid-while-preserving-row-major-order-d564) |
-| Reverse a Singly Linked List in Consecutive Blocks of Size K | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | In-place Reversal, Linked List, Recursion, Two Pointers | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reverse-a-singly-linked-list-in-consecutive-blocks-of-size-k-d25) |
-| Smallest One-Edit Break of a Mirror Word | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Palindrome, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-one-edit-break-of-a-mirror-word-d1281) |
-| Total Hop Distance from Every Node | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Depth-First Search, Dynamic Programming, Graph, Rerooting, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=total-hop-distance-from-every-node-d819) |
-| Two-Player Tile Removal With Matching-Neighbor Rule | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Game Theory, Greedy, Math, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=two-player-tile-removal-with-matching-neighbor-rule-d1926) |
-| Words Typable From a Single Keyboard Row | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Lookup Table, Set Membership, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=words-typable-from-a-single-keyboard-row-d500) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,28 +1,33 @@
 # Coder
 
-**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 6
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Coder:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Coder's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Coder: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 2 | 2 | 2 |
-| DevOps | 0 | 0 | 0 | 4 | 4 | 4 |
+| Backend | 4 | 4 | 21 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 49 | 56 | 23 | 60 |
+| DevOps | 29 | 21 | 30 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a real-time collaborative code-editing backend (like a browser IDE with multiplayer) — how do you sync a shared filesystem run per-user language servers and keep the container-per-session model cost-bounded at 100K daily sessions? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-real-time-collaborative-code-editing-backend-like-a-browser-i-39434) |
-| Your org runs a code-execution product accepting untrusted user code and needs stronger isolation than seccomp gives. How would you architect gVisor versus Kata versus microVM-per-request, decide the tenancy boundary, and honestly characterize the escape risk you'd sign off on to security leadership? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-a-code-execution-product-accepting-untrusted-user-code-a-39036) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you design a compliance program for a platform that spins ephemeral preview environments per pull request — dozens created and destroyed hourly — so that transient infra doesn't create scope gaps or blind spots the auditor can exploit? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-compliance-program-for-a-platform-that-spins-ephem-54040) |
-| How would you decide whether to invest in a better local dev experience or better remote/cloud dev experience when budget forces one? | deep understanding | SDE-2/3, Architect/Principal | Developer Experience (DevEx) Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-to-invest-in-a-better-local-dev-experienc-56412) |
-| How would you standardize local development environments across polyglot teams to eliminate 'works on my machine' at scale? | deep understanding | SDE-2/3, Architect/Principal | Developer Experience (DevEx) Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-standardize-local-development-environments-across-polygl-56343) |
-| What role do ephemeral and cloud development environments play in your DevEx strategy and what are the FinOps trade-offs? | deep understanding | SDE-2/3, Architect/Principal | Developer Experience (DevEx) Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-role-do-ephemeral-and-cloud-development-environments-play-in-your-56344) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

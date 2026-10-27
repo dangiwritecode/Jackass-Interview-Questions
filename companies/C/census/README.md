@@ -1,51 +1,33 @@
 # Census
 
-**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 23
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Census:** 23
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Census's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Census: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 2 | 2 | 2 |
-| Data Engineer | 0 | 0 | 2 | 19 | 19 | 19 |
-| Database Developer | 0 | 0 | 0 | 2 | 2 | 2 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 49 | 56 | 23 | 60 |
+| DevOps | 29 | 21 | 30 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 31 | 60 | 37 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Reverse ETL is proliferating and now 30 tools sync warehouse data back into operational systems. Is this an anti-pattern or the architecture? How do you govern the operational-analytical boundary? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reverse-etl-is-proliferating-and-now-30-tools-sync-warehouse-data-back-36524) |
-| How do you build a unit-economics model that ties infrastructure cost to a business KPI (cost per active user, per API call, per GB stored) so product managers can reason about margin? What breaks when you try to make that number trustworthy? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-unit-economics-model-that-ties-infrastructure-cost--37023) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A sensitivity point is that end-to-end pipeline latency is dominated by a single downstream reverse-ETL or activation service you do not own. Since you cannot change it, how does ATAM still produce useful findings, and what architectural approaches (batching, async decoupling, cache, degraded-mode publish) do you probe? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-sensitivity-point-is-that-end-to-end-pipeline-latency-is-dominated-b-125492) |
-| How do you decide build-vs-buy for reverse-ETL / operational-analytics activation (Hightouch/Census vs build sync jobs from warehouse to SaaS) when the warehouse becomes the source of truth for go-to-market tools and sync reliability directly touches revenue systems? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-reverse-etl-operational-analytics-a-125826) |
-| How would you architect capacity planning for a reverse-ETL / data-activation layer that syncs warehouse tables back into hundreds of SaaS destinations, where per-row sync cost and destination rate limits, not your own compute, become the binding constraint and cost driver? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-capacity-planning-for-a-reverse-etl-data-activ-125410) |
-| How would you architect the data platform so adopting a new managed data service (a hosted catalog, a reverse-ETL tool, a new warehouse) is never a one-way door into unbounded cost? What does 'reversible by design' with a day-one cost ceiling look like for a data-source or platform decision? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-data-platform-so-adopting-a-new-managed-da-125402) |
-| An interviewer asks how you'd govern data flowing into external SaaS and shadow data pipelines — reverse-ETL to Salesforce exports to Google Sheets a rogue Fivetran connector — so PII doesn't silently leave your compliance boundary through a dozen unsanctioned integrations. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-data-flowing-into-external-saas-a-126063) |
-| How do you make a build-vs-buy recommendation for a reverse-ETL / data-activation layer persuasive to a finance-minded exec and a build-loving data org at the same time, when the two weight cost and control differently? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-a-build-vs-buy-recommendation-for-a-reverse-etl-data-a-126148) |
-| You're asked to support 'reverse ETL' and operational systems consuming warehouse data. How does that change your lineage scope, and how do you catalog the fact that a table feeds a live customer-facing feature? | deep understanding | SDE-2/3, Architect/Principal | Data Catalog & Metadata Engineering | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-support-reverse-etl-and-operational-systems-consuming--126571) |
-| How do you propagate lineage metadata through a reverse-ETL flow that pushes warehouse data back into Salesforce or a CRM? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Governance & Lineage | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-propagate-lineage-metadata-through-a-reverse-etl-flow-that--124642) |
-| How do you decide the degree of denormalization for a fact table when downstream teams span BI, ad-hoc SQL, and reverse-ETL to operational systems? | deep understanding | SDE-2/3, Architect/Principal | Data Modeling Judgment (Kimball/Inmon/Data Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-degree-of-denormalization-for-a-fact-table-when--127653) |
-| What observability do you add around a reverse-ETL sync so a sales team never sees stale data in the CRM? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-observability-do-you-add-around-a-reverse-etl-sync-so-a-sales-tea-124513) |
-| How do you decide whether the platform absorbs reverse-ETL (activating data back into SaaS tools) as a first-class capability or leaves it to product teams — what governance risk does operational data write-back create? | deep understanding | SDE-2/3, Architect/Principal | Data Platform Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-the-platform-absorbs-reverse-etl-activating--126474) |
-| How would you architect quality gates for reverse-ETL flows that push data back into operational systems like Salesforce, where a bad sync corrupts a system of record? | expertise | SDE-2/3, Architect/Principal | Data Quality Framework & SLAs | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-quality-gates-for-reverse-etl-flows-that-push--126966) |
-| Explain how you'd secure the access path for a reverse-ETL flow that pushes governed warehouse data into operational SaaS tools (Salesforce Marketo) where your governance controls no longer apply. | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-secure-the-access-path-for-a-reverse-etl-flow-that-p-126678) |
-| Design the enterprise reverse-ETL architecture that syncs warehouse-derived audiences and scores back into 20 SaaS operational tools. How do you prevent the warehouse becoming an accidental system-of-record, handle each SaaS API's rate limits and eventual consistency, and govern which data may flow out? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-reverse-etl-architecture-that-syncs-warehouse-de-125646) |
-| Your reverse-ETL and CDC pipelines quietly rack up warehouse egress and per-row API charges to downstream SaaS destinations, and it's off the compute bill entirely. How do you extend data-platform FinOps to cover CDC and reverse-ETL row-based costs and attribute them to the activation use case that drove them? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-reverse-etl-and-cdc-pipelines-quietly-rack-up-warehouse-egress-an-125933) |
-| How do you sequence a migration so BI consumers, ML feature pipelines, and reverse-ETL to operational systems all cut over without a coordination freeze that lasts months? | deep understanding | SDE-2/3, Architect/Principal | Lakehouse Migration Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-sequence-a-migration-so-bi-consumers-ml-feature-pipelines-a-126828) |
-| How do you architect the medallion to support both the analytical (OLAP) and the operational/reverse-ETL use case where Gold data must flow back into SaaS tools? | deep understanding | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-medallion-to-support-both-the-analytical-olap-126263) |
-| How do you defend the medallion against 'shadow pipelines' where a team exports Gold to their own database and re-transforms it, breaking your lineage and governance? | expertise | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-defend-the-medallion-against-shadow-pipelines-where-a-team--126313) |
-| How would you build compliance instrumentation into a reverse-ETL flow that pushes warehouse data back into operational SaaS tools where it becomes harder to track? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-compliance-instrumentation-into-a-reverse-etl-flow-127404) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect a 'reverse-ETL' loop where OLAP-computed segments must flow back into the OLTP application safely — what consistency and blast-radius controls do you enforce? | expertise | SDE-2/3, Architect/Principal | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-reverse-etl-loop-where-olap-computed-segment-113475) |
-| Walk me through choosing between Kafka Connect a bespoke sync service and a managed reverse-ETL tool to keep polyglot stores in sync and the failure semantics of each. | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-choosing-between-kafka-connect-a-bespoke-sync-service--114578) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

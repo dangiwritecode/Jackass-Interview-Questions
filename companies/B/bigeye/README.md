@@ -1,59 +1,33 @@
 # Bigeye
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 25
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Bigeye:** 25
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Bigeye's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Bigeye: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 4 | 18 | 18 | 18 |
-| ML Engineer | 0 | 0 | 2 | 5 | 3 | 5 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 22 | 59 | 50 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 11 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect for data observability distinct from data quality? What signals (freshness volume schema distribution lineage) do you instrument first, and how do they change incident response? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-for-data-observability-distinct-from-data-quality-36557) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a data-observability platform specifically (Monte Carlo/Datadog Data vs build freshness/volume/schema/lineage monitors on your own) when a silent pipeline break that corrupts a board metric is the failure mode you're insuring against, not a dashboard? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-observability-platform-speci-125834) |
-| How do you decide build-vs-buy for a data-pipeline observability capability when the vendor's models learn 'normal freshness' from history that already contains your chronic Monday-morning late loads — how does that garbage-in label risk push you toward a build where you control training-label hygiene? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-pipeline-observability-capab-125888) |
-| How do you decide build-vs-buy for a data-quality/validation layer on your pipelines — Great Expectations/Soda OSS vs Monte Carlo/Bigeye managed vs bespoke assertions — when trust in every downstream metric and dashboard depends on it and false alarms erode adoption fast? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-quality-validation-layer-on--125821) |
-| How do you influence the org to invest in a shared data-observability platform — freshness, volume, schema-drift, and lineage-aware alerting — when data quality is everyone's problem and therefore no one's? What ownership and funding model actually works at scale? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-influence-the-org-to-invest-in-a-shared-data-observability--126192) |
-| How would you design statistical anomaly detection for data volume and distribution drift that adapts to genuine business seasonality without an army of engineers hand-tuning thresholds? | expertise | SDE-2/3, Architect/Principal | Data Quality Framework & SLAs | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-statistical-anomaly-detection-for-data-volume-and-126936) |
-| What's your position on build-vs-buy for data observability — when does a Monte Carlo or Bigeye subscription beat building on open-source Great Expectations plus your own metadata store? | expertise | SDE-2/3, Architect/Principal | Data Quality Framework & SLAs | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-position-on-build-vs-buy-for-data-observability-when-does--126929) |
-| Contrast schema-on-write data contracts with data-observability monitoring (freshness/volume/distribution anomaly detection) as the enterprise strategy for trust. Where does each catch failures the other misses, and how do you avoid observability becoming an alert-fatigue firehose that on-call ignores? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-schema-on-write-data-contracts-with-data-observability-monito-125630) |
-| You're standardizing enterprise data quality as a platform capability rather than each team's bespoke asserts. Architect where checks run (in-pipeline gates vs out-of-band monitors), how a failed check quarantines data without silently blocking downstream, and who is paged for a quality breach nobody team fully owns. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standardizing-enterprise-data-quality-as-a-platform-capability--125629) |
-| Your data-observability and quality stack (Great Expectations checks, freshness monitors, column-level profiling) now runs expensive full-table scans on every load and its cost rivals the pipelines it validates. How do you govern data-quality-check cost — sampling, incremental validation, tiering by dataset criticality — without losing the trust signal? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-data-observability-and-quality-stack-great-expectations-checks-fr-125937) |
-| How would you detect and alert on data freshness (data-downtime) for a Kafka-fed warehouse table when the producer silently stops but the pipeline reports healthy? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-and-alert-on-data-freshness-data-downtime-for-a-k-119582) |
-| What monitoring, alerting, and observability do you stand up specifically for the migration period vs steady-state, and what's the first signal that a migrated pipeline is silently wrong? | deep understanding | SDE-2/3, Architect/Principal | Lakehouse Migration Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-monitoring-alerting-and-observability-do-you-stand-up-specificall-126871) |
-| How do you architect quality gates such that a Silver table fails its promotion to Gold automatically when row-count or distribution anomalies breach a threshold? | deep understanding | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-quality-gates-such-that-a-silver-table-fails-its--126287) |
-| How do you instrument observability so you can distinguish 'Gold is wrong because Silver logic broke' from 'Gold is wrong because Bronze got bad source data'? | deep understanding | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-instrument-observability-so-you-can-distinguish-gold-is-wro-126242) |
-| How would you detect and alert on 'a partition arrived but is suspiciously small' — e.g., an upstream export half-completed? What per-partition size-vs-baseline metric catches truncated loads that a row-count-greater-than-zero check misses? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-and-alert-on-a-partition-arrived-but-is-suspiciou-120936) |
-| You're asked to catch 'the pipeline succeeded but produced 10x the normal row count' (a duplicate-load bug). How do you emit a per-run volume metric and alert on deviation from a rolling baseline rather than a fixed threshold? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-catch-the-pipeline-succeeded-but-produced-10x-the-norm-120925) |
-| Your team owns 400 tables and can't hand-write a freshness alert per table. How would you generate freshness SLIs from metadata (expected cadence per table) so alerting scales, and how do you keep the label cardinality of a per-table gauge under control? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-team-owns-400-tables-and-can-t-hand-write-a-freshness-alert-per-t-120883) |
-| How do you build a strategy for an org-wide data-quality scorecard so freshness, completeness, schema-conformance, and duplicate-detection are measured consistently across domains, rather than each team self-reporting a cherry-picked metric? | deep understanding | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-strategy-for-an-org-wide-data-quality-scorecard-so--125595) |
-| How do you incorporate a data-observability and freshness-budget philosophy into your strategy so that pipeline monitoring is roadmapped deliberately, instead of bolted on reactively after a silent freshness regression corrupts an exec dashboard? | expertise | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-incorporate-a-data-observability-and-freshness-budget-philo-125553) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Architect data observability for ML data (distinct from data quality): which signals (freshness, volume, schema, distribution, lineage) do you instrument first so a model team detects a stale or shifted feature before a bad prediction ships? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-data-observability-for-ml-data-distinct-from-data-quality-wh-69722) |
-| What's your approach to detecting PII drift — new sensitive fields appearing in a stream that your classifier wasn't trained to catch? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-detecting-pii-drift-new-sensitive-fields-appea-72647) |
-| How would you set up automated data validation (schema, ranges, nulls) as a gate before an XGBoost training run kicks off? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-automated-data-validation-schema-ranges-nulls-as--65961) |
-| What data-quality signals would make you refuse to retrain an XGBoost model on a given day's data even though the pipeline succeeded? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-data-quality-signals-would-make-you-refuse-to-retrain-an-xgboost--65907) |
-| Describe how you would build automated retraining eligibility checks that block a retrain if upstream data pipelines were partially broken during the window. | deep understanding | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-build-automated-retraining-eligibility-checks-t-72403) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance so that a data-quality regression in an upstream source is caught before it degrades retrieval relevance in production? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-so-that-a-data-quality-regression-in-a-86772) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

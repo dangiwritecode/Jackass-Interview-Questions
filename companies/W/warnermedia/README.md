@@ -1,22 +1,33 @@
 # Warnermedia
 
-**Tier:** Tier 3  |  **Business domain:** Media  |  **Questions:** 6
+**Tier:** Tier 3  |  **Business domain:** Media  |  **Questions listed:** 540  |  **Tagged directly to Warnermedia:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Warnermedia's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Warnermedia: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 6 | 6 | 6 | 6 | 6 | 6 |
+| Backend | 3 | 3 | 21 | 59 | 58 | 60 |
+| Fullstack | 16 | 16 | 46 | 55 | 21 | 60 |
+| DevOps | 28 | 19 | 29 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 18 | 60 | 48 | 60 |
+| Data Engineer | 13 | 5 | 48 | 58 | 13 | 60 |
+| Database Developer | 11 | 18 | 19 | 50 | 42 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Array of Products Excluding Each Position | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Prefix Product, Prefix Sum, Suffix Product | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=array-of-products-excluding-each-position-d238) |
-| Convert a Roman-Style Numeral String to Its Integer Value | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, Math, Simulation, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=convert-a-roman-style-numeral-string-to-its-integer-value-d13) |
-| Iterator Over a Deeply Nested Integer Collection | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Depth-First Search, Design, Iterator, Queue, Recursion, Stack, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=iterator-over-a-deeply-nested-integer-collection-d341) |
-| Merge Multiple Sorted Linked Chains into One | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Divide and Conquer, Heap (Priority Queue), K-way Merge, Linked List, Merge Sort | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=merge-multiple-sorted-linked-chains-into-one-d23) |
-| Simultaneous Cellular Automaton Step on a Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bit Manipulation, In-place Update, Matrix, Simulation | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=simultaneous-cellular-automaton-step-on-a-grid-d289) |
-| Spell a Whole Number in English Words | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Lookup Table, Math, Number Formatting, Recursion, Simulation, String | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=spell-a-whole-number-in-english-words-d273) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

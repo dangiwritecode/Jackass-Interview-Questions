@@ -1,37 +1,33 @@
 # JioMart
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 9
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to JioMart:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. JioMart's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches JioMart: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 3 | 3 | 1 | 1 | 1 | 4 |
-| Fullstack | 3 | 3 | 0 | 1 | 1 | 4 |
-| AI Engineer | 0 | 0 | 1 | 1 | 1 | 1 |
+| Backend | 7 | 7 | 42 | 56 | 54 | 60 |
+| Fullstack | 20 | 20 | 47 | 53 | 21 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 5 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A dishonest dealer claims to sell at cost price but uses a weight of 800 grams instead of 1000. Find his gain percentage. | deep understanding | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dishonest-dealer-claims-to-sell-at-cost-price-but-uses-a-weight-of-8-15827) |
-| A fruit seller buys mangoes at 8 for 100 rupees and sells at 100 rupees for 6. Find the profit or loss percentage. | intermediate experience | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-fruit-seller-buys-mangoes-at-8-for-100-rupees-and-sells-at-100-rupee-15881) |
-| If the price of rice falls by 20 percent a family can buy 5 kg more for 600 rupees. Find the original price per kg. | deep understanding | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-the-price-of-rice-falls-by-20-percent-a-family-can-buy-5-kg-more-fo-15815) |
-| Design how you'd support 'login with phone number' with number portability and reassignment — a recycled phone number must not grant access to the previous owner's account. What checks close this gap? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-you-d-support-login-with-phone-number-with-number-portabili-26218) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A dishonest dealer claims to sell at cost price but uses a weight of 800 grams instead of 1000. Find his gain percentage. | deep understanding | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dishonest-dealer-claims-to-sell-at-cost-price-but-uses-a-weight-of-8-15827) |
-| A fruit seller buys mangoes at 8 for 100 rupees and sells at 100 rupees for 6. Find the profit or loss percentage. | intermediate experience | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-fruit-seller-buys-mangoes-at-8-for-100-rupees-and-sells-at-100-rupee-15881) |
-| If the price of rice falls by 20 percent a family can buy 5 kg more for 600 rupees. Find the original price per kg. | deep understanding | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-the-price-of-rice-falls-by-20-percent-a-family-can-buy-5-kg-more-fo-15815) |
-| Design the frontend architecture for a live-commerce/streaming shopping app — how do you interleave low-latency video, real-time inventory, chat, and one-tap checkout without contention? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-frontend-architecture-for-a-live-commerce-streaming-shoppin-40094) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you decide between raising max_tokens versus asking the model to be terse when answers occasionally truncate, and what does each cost you? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-raising-max-tokens-versus-asking-the-mode-77925) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

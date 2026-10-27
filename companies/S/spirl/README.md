@@ -1,21 +1,33 @@
 # SPIRL
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to SPIRL:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. SPIRL's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches SPIRL: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 5 | 5 | 5 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 31 | 58 | 43 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect the identity story for a hybrid estate where some workloads can be attested by hardware TPM, some by cloud instance identity, and some not at all? Define your tiered-assurance model and how policy consumes the assurance level. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-identity-story-for-a-hybrid-estate-where-some-53950) |
-| How do you decide the granularity of your workload identity: one identity per service, per version, per replica, or per request? Tie the choice explicitly to revocation speed, attestation cost, and blast radius, and defend where you'd stop. | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-granularity-of-your-workload-identity-one-identi-53958) |
-| Walk me through architecting attestation so a workload only receives an identity if it can prove it is running expected code on expected hardware. What does this buy you against a pod-spoofing attacker, and what is the operational cost at 100k workloads? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-architecting-attestation-so-a-workload-only-receives-a-53991) |
-| You are choosing the org-wide standard for how services prove identity: SPIFFE SVIDs, cloud IAM roles, or a shared internal JWT issuer, across a hybrid multi-cloud estate. Compare them at scale and defend the one you'd mandate and the migration path off the others. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-choosing-the-org-wide-standard-for-how-services-prove-identity-54001) |
-| You must choose a trust-domain architecture: one org-wide SPIFFE trust domain vs per-business-unit trust domains with federation. Walk through the blast-radius, delegation, and M&A-flexibility trade-offs, and defend the model you'd commit to for a decade. | expertise | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-choose-a-trust-domain-architecture-one-org-wide-spiffe-trust--52630) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

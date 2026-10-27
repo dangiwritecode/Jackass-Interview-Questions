@@ -1,41 +1,33 @@
 # Acryl Data
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 25
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Acryl Data:** 25
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Acryl Data's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Acryl Data: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Engineer | 0 | 0 | 25 | 25 | 25 | 25 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 10 | 3 | 49 | 59 | 39 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A migration will change a contract for 50 downstream jobs. How do you plan and sequence it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-migration-will-change-a-contract-for-50-downstream-jobs-how-do-you-p-125150) |
-| A producer wants to rename a column that ten downstream jobs depend on. How do you handle it under a contract? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-producer-wants-to-rename-a-column-that-ten-downstream-jobs-depend-on-125073) |
-| Design a deprecation policy for a contract field: how long do you keep it and how do you track usage? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-deprecation-policy-for-a-contract-field-how-long-do-you-keep--125098) |
-| Explain how you would define ownership in a data contract and why ownership matters for on-call. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-define-ownership-in-a-data-contract-and-why-owne-125084) |
-| How do contracts interact with a data catalog and metadata management tooling? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-contracts-interact-with-a-data-catalog-and-metadata-management--125117) |
-| How do lineage and data contracts work together to assess the impact of a proposed change? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-lineage-and-data-contracts-work-together-to-assess-the-impact-o-125097) |
-| How do you avoid the situation where every schema change requires a slow multi-team approval process? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-avoid-the-situation-where-every-schema-change-requires-a-sl-125124) |
-| How do you communicate a planned breaking change to all downstream consumers of a contract? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-communicate-a-planned-breaking-change-to-all-downstream-con-125096) |
-| How do you deal with a bad producer who repeatedly breaks the contract? What organizational levers help? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-deal-with-a-bad-producer-who-repeatedly-breaks-the-contract-125090) |
-| How do you decide the granularity of a contract: per table, per pipeline, or per field? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-granularity-of-a-contract-per-table-per-pipeline-125149) |
-| How do you document a data contract so a new consumer can self-serve without asking the producer team? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-document-a-data-contract-so-a-new-consumer-can-self-serve-w-125142) |
-| How do you handle contracts when the same event is emitted by multiple producer services? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-contracts-when-the-same-event-is-emitted-by-multiple-125146) |
-| How do you keep a data contract and the actual code producing the data from drifting apart over time? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-a-data-contract-and-the-actual-code-producing-the-data-125132) |
-| How would you build a self-service platform where product teams author, publish, and enforce their own contracts? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-self-service-platform-where-product-teams-author-125165) |
-| How would you design a contract registry service and what APIs would it expose? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-contract-registry-service-and-what-apis-would-i-125158) |
-| How would you enforce PII handling rules such as masking or tagging within a data contract? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-enforce-pii-handling-rules-such-as-masking-or-tagging-wi-125118) |
-| How would you handle contracts across team boundaries when producer and consumer are in different departments? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-contracts-across-team-boundaries-when-producer-an-125103) |
-| How would you handle the tension between fast-moving producers and stability-seeking consumers using contracts? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-the-tension-between-fast-moving-producers-and-sta-125162) |
-| How would you model a contract for a wide table with hundreds of columns without it becoming unmaintainable? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-contract-for-a-wide-table-with-hundreds-of-colum-125109) |
-| How would you roll out data contracts incrementally across dozens of pipelines without stalling delivery? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-roll-out-data-contracts-incrementally-across-dozens-of-p-125113) |
-| What is the relationship between a data contract and a data product in a data mesh? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-relationship-between-a-data-contract-and-a-data-product-in-125129) |
-| What is your strategy when a legacy producer cannot be changed to comply with a new contract? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-when-a-legacy-producer-cannot-be-changed-to-comp-125157) |
-| Where should a data contract live: with the producer code, the consumer, or a central registry? Defend your choice. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=where-should-a-data-contract-live-with-the-producer-code-the-consumer--125091) |
-| Who are the producer and consumer in a data contract and what obligations does each side accept? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=who-are-the-producer-and-consumer-in-a-data-contract-and-what-obligati-125068) |
-| You joined a team with 200 tables and zero contracts. Give me your 90-day plan to introduce them. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-joined-a-team-with-200-tables-and-zero-contracts-give-me-your-90-d-125163) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

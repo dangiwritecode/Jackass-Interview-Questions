@@ -1,79 +1,33 @@
 # Nightfall
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 33
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Nightfall:** 33
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Nightfall's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Nightfall: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 2 | 2 | 2 |
-| DevOps | 0 | 0 | 0 | 2 | 2 | 2 |
-| AIOps | 0 | 0 | 1 | 2 | 2 | 2 |
-| Data Engineer | 0 | 0 | 0 | 6 | 6 | 6 |
-| ML Engineer | 0 | 0 | 3 | 8 | 7 | 8 |
-| AI Engineer | 0 | 0 | 10 | 13 | 10 | 13 |
+| Backend | 10 | 10 | 44 | 60 | 33 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 11 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 18 | 59 | 50 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 11 | 59 | 54 | 60 |
+| AI Engineer | 0 | 0 | 40 | 60 | 46 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a data-egress and DLP architecture at the network and API boundary so PII/PAN leaving your platform is detected and blocked in real time — how do you inspect at scale without becoming a latency bottleneck or a privacy problem of its own? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-data-egress-and-dlp-architecture-at-the-network-and-api-bound-37313) |
-| How do you architect governance over third-party SaaS and shadow IT — data flowing into Slack Notion analytics tools — so PII doesn't silently leave your compliance boundary through a dozen unsanctioned integrations? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-over-third-party-saas-and-shadow-it-da-37270) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An interviewer probes: your design assumes you can enumerate all PII, but a free-text field or an uploaded document may contain anything. How do you architect governance for unstructured and user-generated content where you can't schema-enforce classification? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-design-assumes-you-can-enumerate-all-pii-bu-54081) |
-| Present a strategy for preventing sensitive-data leakage into logs, traces, and metrics across hundreds of services — where do you enforce and who owns redaction? | deep understanding | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=present-a-strategy-for-preventing-sensitive-data-leakage-into-logs-tra-55082) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle PII and prompt-content sensitivity when you need to log prompts and retrieved context for drift analysis? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-pii-and-prompt-content-sensitivity-when-you-need-to--97883) |
-| Design the platform's approach to scaling a shared guardrails service (safety, PII, jailbreak) so it fronts every LLM call at millions of QPS without becoming a latency tax teams route around. Where do you cache, where do you run it inline, and where do you accept sampled async checks? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-platform-s-approach-to-scaling-a-shared-guardrails-service--100714) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Post-incident: a data engineer exported a 2M-row PII table from the warehouse to a personal drive. Lead the retro — what egress just-in-time-access and data-access-broker controls would have made it impossible, and how do you prioritize them against analytics velocity and cost? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=post-incident-a-data-engineer-exported-a-2m-row-pii-table-from-the-war-126102) |
-| Your warehouse supports COPY INTO / UNLOAD to arbitrary S3 buckets that analysts use for exports — an ungoverned exfil path around your masking policies. How do you architect governed data-export so an unload of a PII table is scanned classified and either blocked or watermarked before it leaves the warehouse's trust boundary? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-warehouse-supports-copy-into-unload-to-arbitrary-s3-buckets-that--126064) |
-| How do you handle personal data that shows up unexpectedly in free-text fields logs and unstructured blobs that never went through your governed schema? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-personal-data-that-shows-up-unexpectedly-in-free-tex-127338) |
-| How do you prevent shadow copies of personal data proliferating when analysts download extracts to laptops notebooks and personal cloud drives? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-prevent-shadow-copies-of-personal-data-proliferating-when-a-127353) |
-| How do you validate that classification is right — what's your strategy for measuring false negatives where PII goes undetected and slips through governance? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-classification-is-right-what-s-your-strategy--127409) |
-| How would you implement automated data discovery so that newly onboarded datasets get scanned classified and tagged for PII before any downstream job is allowed to consume them? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-automated-data-discovery-so-that-newly-onboard-127349) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you govern the use of customer data in prompts/context windows so PII isn't inadvertently sent to third-party model providers? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-use-of-customer-data-in-prompts-context-windows--71731) |
-| How do you decide build-vs-buy for a PII-detection/redaction ML service in your training and RAG pipelines (buy Presidio/cloud DLP vs build classifiers) when a leak of customer PII into a model or prompt is a compliance incident with legal weight? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-pii-detection-redaction-ml-servic-69838) |
-| What happens if your PII detector has 2% false negatives at 10B records/day — quantify the leakage risk and design the compensating controls. | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-happens-if-your-pii-detector-has-2-false-negatives-at-10b-records-72638) |
-| Why not rely solely on regex/pattern matching for PII detection at scale? What's the failure mode and what layered detection do you standardize on? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-not-rely-solely-on-regex-pattern-matching-for-pii-detection-at-sca-72593) |
-| You must redact PII from prompts before they reach the provider but redaction is imperfect. How do you layer detection, tokenized placeholders, and re-hydration so the model still produces useful output? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-redact-pii-from-prompts-before-they-reach-the-provider-but-re-64160) |
-| You need to redact PII from prompts before they hit a third-party API but keep enough to debug. Design the field-level redaction and where in the pipeline it runs. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-redact-pii-from-prompts-before-they-hit-a-third-party-api--63833) |
-| How would you architect a platform-level guardrail system that centrally enforces safety filters PII redaction and prompt-injection defenses across every LLM feature in the company? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-platform-level-guardrail-system-that-central-70491) |
-| How do you ensure PII and sensitive data are scrubbed from your SFT and preference datasets before training? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-ensure-pii-and-sensitive-data-are-scrubbed-from-your-sft-an-68162) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a PII-detection/redaction service in your prompt and RAG pipelines (buy Presidio-based/cloud DLP vs build classifiers) when a leak of customer PII into a prompt or fine-tune is a compliance incident with legal weight? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-pii-detection-redaction-service-i-83756) |
-| How would you gate a deploy on a PII-leakage check so a prompt or retrieval change can't start surfacing sensitive data in model outputs? | deep understanding | SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-gate-a-deploy-on-a-pii-leakage-check-so-a-prompt-or-retr-77642) |
-| What's your strategy for governing sensitive-data detection in free-text prompts in real time without adding unacceptable latency to the inference path? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-governing-sensitive-data-detection-in-free-te-86775) |
-| You want to guardrail against the agent leaking retrieved PII into its answer. Where in the retrieve-then-generate flow do you apply redaction, and what's the trade-off of redacting before versus after retrieval? | deep understanding | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-guardrail-against-the-agent-leaking-retrieved-pii-into-its-78534) |
-| Your guardrail rejects a query as out-of-scope, but it was actually a valid rephrasing of an in-scope one. How would embeddings help you build a scope classifier that's less brittle than keyword rules? | intermediate experience | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-guardrail-rejects-a-query-as-out-of-scope-but-it-was-actually-a-v-78503) |
-| How would you decide where to run PII redaction so raw sensitive text never reaches the embedding model or the LLM, and prove it in the design? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-where-to-run-pii-redaction-so-raw-sensitive-text--78444) |
-| Your LLM chatbot leaks PII in some responses; how would you architect a redaction and filtering layer without adding too much latency? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-llm-chatbot-leaks-pii-in-some-responses-how-would-you-architect-a-79513) |
-| A user's prompt may contain PII that flows into your traces. Compare redacting it in the app SDK (before the span is created) versus in the OTel Collector for an LLM pipeline. What does each protect against and miss? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-user-s-prompt-may-contain-pii-that-flows-into-your-traces-compare-re-78829) |
-| How would you monitor an LLM output-safety pipeline so you catch NaN-like failure modes — the classifier crashing open (allowing everything) or crashing closed (blocking everything)? What metric proves the guardrail is actually evaluating, not silently bypassed? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-an-llm-output-safety-pipeline-so-you-catch-nan-l-78855) |
-| How would you monitor prompt-injection attempts against your LLM app so security has signal without you shipping user content to a SIEM you don't want? What aggregate metrics from the guardrail layer are safe to expose versus which need redaction? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-prompt-injection-attempts-against-your-llm-app-s-78887) |
-| You want to monitor an LLM guardrail layer (input jailbreak filter + output safety classifier). What metrics distinguish 'correctly blocking unsafe content' from 'over-refusing legitimate requests', and how do you avoid the classifier itself becoming the latency bottleneck? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-monitor-an-llm-guardrail-layer-input-jailbreak-filter-outp-78811) |
-| How would you architect PII redaction in an LLM pipeline so sensitive data never lands in prompts sent to a third-party provider or in your logs? What are the leakage points you'd close? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-pii-redaction-in-an-llm-pipeline-so-sensitive--79065) |
-| An interviewer probes: fine-tuned models sometimes memorize and regurgitate training data via attention; how do you architect PII/IP safeguards and detection across the org's adapter registry? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-fine-tuned-models-sometimes-memorize-and-regurgi-84273) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

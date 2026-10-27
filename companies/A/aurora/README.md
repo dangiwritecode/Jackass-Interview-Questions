@@ -1,60 +1,33 @@
 # Aurora
 
-**Tier:** Tier 2  |  **Business domain:** Autonomous  |  **Questions:** 32
+**Tier:** Tier 2  |  **Business domain:** Autonomous  |  **Questions listed:** 540  |  **Tagged directly to Aurora:** 32
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Aurora's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Aurora: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Database Developer | 0 | 4 | 4 | 13 | 13 | 13 |
-| ML Engineer | 0 | 0 | 4 | 6 | 2 | 6 |
-| Data Structures & Algorithms (all profiles) | 13 | 13 | 13 | 13 | 13 | 13 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 8 | 60 | 55 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 20 | 21 | 52 | 44 | 60 |
+| ML Engineer | 0 | 0 | 36 | 60 | 27 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Database Developer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An interviewer asks: your read replicas lag the primary, so a purge on the primary leaves the deleted user readable on a replica for seconds-to-minutes. Is that a compliance problem for erasure, and how do you architect a replication-lag-aware deletion guarantee? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-your-read-replicas-lag-the-primary-so-a-purge-on-t-113104) |
-| Design governance so quarterly firewall-equivalent reviews of database network access (security-group rules IP allowlists VPC peering to the CDE) are done as code and stale or over-broad rules are auto-flagged for PCI Requirement 1 — how do you keep the rule set from drifting? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-so-quarterly-firewall-equivalent-reviews-of-database-113119) |
-| How do you architect the database-tier network segmentation of a PCI cardholder-data environment so only the payments service can reach the CDE database — using private subnets IAM DB auth and no shared credentials — and prove that isolation to a QSA? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-database-tier-network-segmentation-of-a-pci-c-113064) |
-| How do you influence a team to adopt a more expensive but more durable multi-AZ synchronous-replication design when their own database budget is measured and the durability benefit accrues to the whole product? Who pays and how do you argue it? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-influence-a-team-to-adopt-a-more-expensive-but-more-durable-113214) |
-| You need to influence a database-capacity and reserved-storage spend decision made in a finance/infra meeting you're not invited to. How do you exert influence through pre-reads, allies, and a FinOps partner without being in the room? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-influence-a-database-capacity-and-reserved-storage-spend-d-113226) |
-| You're leading a cross-team push to cut total database and storage spend by 30% across teams whose datastores you don't own. How do you influence teams to change their own indexing, retention, and instance sizing for savings that land in a central P&L? | expertise | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-leading-a-cross-team-push-to-cut-total-database-and-storage-spe-113237) |
-| You run Aurora Global Database with sub-second replication. A VP asks why you still keep independent backups. Defend the RPO layering of replication plus PITR plus immutable snapshots against a corruption-that-replicates scenario. | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-run-aurora-global-database-with-sub-second-replication-a-vp-asks-w-112849) |
-| A team reports intermittent stale reads from a read replica. Is that an isolation-level problem or a replication-lag problem? How do you distinguish them? | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-reports-intermittent-stale-reads-from-a-read-replica-is-that-an-110266) |
-| Explain the concept of 'read-your-writes' consistency and how it can be violated even under a strong isolation level when reads go to a replica. | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-concept-of-read-your-writes-consistency-and-how-it-can-be--110337) |
-| How do you reason about isolation when using a read replica for reads and the primary for writes in the same logical transaction? What guarantees are lost? | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-isolation-when-using-a-read-replica-for-reads--110301) |
-| What does 'monotonic reads' mean and how is it different from the ANSI isolation levels? Why does it matter with async replication? | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-monotonic-reads-mean-and-how-is-it-different-from-the-ansi-i-110302) |
-| What is your position on serving reads from the primary's own replica during backups/vacuum, and how do you keep maintenance windows from skewing read latency? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-position-on-serving-reads-from-the-primary-s-own-replica--115468) |
-| What is your strategy for read/write splitting during a major version upgrade or schema migration where replicas and primary temporarily diverge? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-for-read-write-splitting-during-a-major-version--115477) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a computer-vision annotation + active-learning loop for an autonomy stack (buy Scale/Encord vs build in-house tooling + labeler ops) when the labeling flywheel is the core moat and per-frame cost scales with fleet miles? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-computer-vision-annotation-active-69799) |
-| How would you design a C++ perception inference pipeline for an AV with a hard per-frame deadline? How do you bound worst-case latency, avoid GC-free stalls (page faults, allocations), and detect when you miss the deadline? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-c-perception-inference-pipeline-for-an-av-with--62847) |
-| You must guarantee no dynamic allocation on a real-time inference path (e.g., an autonomous-vehicle perception loop). How do you enforce and verify it — preallocated pools, an aborting operator new, static analysis — and what STL usage silently allocates? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-guarantee-no-dynamic-allocation-on-a-real-time-inference-path-62846) |
-| How would you set up guardrails so an automated XGBoost retraining loop can't silently ship a model trained on corrupted labels? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-guardrails-so-an-automated-xgboost-retraining-loo-65908) |
-| How do you detect and handle out-of-distribution inputs at the FastAPI serving layer before they reach the model, and what do you return when an input is flagged as OOD? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-detect-and-handle-out-of-distribution-inputs-at-the-fastapi-62898) |
-| How would you architect a retraining data curation layer that continuously mines hard examples and misclassifications to feed the next retrain? | expertise | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-retraining-data-curation-layer-that-continuo-72417) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Clear the Row of Colored Beads With the Fewest Inserts | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Depth-First Search, Dynamic Programming, Memoization, Recursion, String | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=clear-the-row-of-colored-beads-with-the-fewest-inserts-d488) |
-| Collect All Dictionary Words Hidden in a Letter Grid | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Depth-First Search, Grid Traversal, Matrix, String, Trie | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=collect-all-dictionary-words-hidden-in-a-letter-grid-d212) |
-| Count Distinct Land Shapes in a Binary Grid | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Connected Components, Depth-First Search, Flood Fill, Hash Function, Hash Table, Matrix, Union Find | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-distinct-land-shapes-in-a-binary-grid-d679) |
-| Counting Connected Clusters After Streaming Activations | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Connected Components, Disjoint Set Union, Dynamic Connectivity, Grid, Hash Table, Union Find | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-connected-clusters-after-streaming-activations-d305) |
-| Design a Fixed-Capacity Cache with Least-Recently-Used Eviction | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cache, Design, Doubly Linked List, Hash Table, Linked List, Ordered Map | Phone Screen, DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-fixed-capacity-cache-with-least-recently-used-eviction-d146) |
-| Iterator Over a Deeply Nested Integer Collection | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Depth-First Search, Design, Iterator, Queue, Recursion, Stack, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=iterator-over-a-deeply-nested-integer-collection-d341) |
-| Longest Path Between Two Nodes in a Binary Tree | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Recursion, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-path-between-two-nodes-in-a-binary-tree-d541) |
-| Maximum of Every Fixed-Length Contiguous Block | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Deque, Heap (Priority Queue), Monotonic Queue, Sliding Window | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-of-every-fixed-length-contiguous-block-d239) |
-| Minimum Concurrent Rooms for Overlapping Bookings | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Heap (Priority Queue), Intervals, Prefix Sum, Sorting, Sweep Line, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-concurrent-rooms-for-overlapping-bookings-d253) |
-| Most Points Inside a Rotatable Angular View | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Geometry, Math, Sliding Window, Sorting, Two Pointers | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=most-points-inside-a-rotatable-angular-view-d1536) |
-| Smaller Angle Between the Hands of an Analog Dial | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Geometry, Math, Simulation | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smaller-angle-between-the-hands-of-an-analog-dial-d1296) |
-| Valid Completion Order of Dependent Tasks | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Cycle Detection, Depth-First Search, Graph, In-degree Counting, Topological Sort | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=valid-completion-order-of-dependent-tasks-d210) |
-| Versioned Array with Checkpoints | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Design, Hash Table, Persistent Data Structure, Versioning | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=versioned-array-with-checkpoints-d1117) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

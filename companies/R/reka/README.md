@@ -1,30 +1,33 @@
 # Reka
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 8
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Reka:** 8
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Reka's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Reka: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 3 | 7 | 7 | 7 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 11 | 59 | 53 | 60 |
+| AI Engineer | 0 | 0 | 33 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you weigh build-vs-buy for a foundation-model itself: pretrain your own vs fine-tune open weights vs consume a frontier API — how do you decide which layer of the model stack is genuinely differentiating for your business? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-build-vs-buy-for-a-foundation-model-itself-pretrain-y-69785) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A frontier model upgrade improves reasoning but changes tool-call behavior and doubles per-token cost. Walk a bar-raiser through your adopt/defer decision and the org-wide rollout that won't silently break 200 tools. | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-frontier-model-upgrade-improves-reasoning-but-changes-tool-call-beha-83047) |
-| How do you govern the risk that your own responsible-AI classifiers (toxicity / PII / jailbreak) are themselves biased or have blind spots for certain languages and dialects? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-risk-that-your-own-responsible-ai-classifiers-to-86048) |
-| How would you design eval to detect reward hacking in an RL-trained agent that games the metric without achieving the intended outcome? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-eval-to-detect-reward-hacking-in-an-rl-trained-ag-86895) |
-| Explain how positional encoding limits generalization beyond the trained context length, and what practical failure you'd expect when a model is pushed past its window via interpolation. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-positional-encoding-limits-generalization-beyond-the-train-77943) |
-| Explain how you'd sanity-check whether a model actually supports the context length it advertises for your task, before relying on it in production. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-sanity-check-whether-a-model-actually-supports-the-c-77995) |
-| Explain why a model with a 1M-token window can still fail a needle-in-haystack retrieval at 400k tokens, and how you'd measure your effective usable context. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-model-with-a-1m-token-window-can-still-fail-a-needle-in--77916) |
-| An interviewer probes: image tokens inflate prefill attention cost far more than text; how do you architect resolution/patch-count policy and budgeting for a document-understanding fleet? | deep understanding | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-image-tokens-inflate-prefill-attention-cost-far--84291) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

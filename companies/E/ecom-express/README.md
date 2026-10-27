@@ -1,35 +1,33 @@
 # Ecom Express
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 7
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Ecom Express:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Ecom Express's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Ecom Express: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 4 | 4 | 3 | 4 |
-| Fullstack | 0 | 0 | 1 | 1 | 1 | 1 |
-| Data Engineer | 0 | 0 | 2 | 2 | 2 | 2 |
+| Backend | 11 | 11 | 47 | 60 | 33 | 60 |
+| Fullstack | 8 | 8 | 48 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 22 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A batch that computes shortest paths between all warehouse pairs is too slow with repeated Dijkstra; when would you switch to Floyd-Warshall or Johnson's algorithm, and how does graph density drive the choice? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-batch-that-computes-shortest-paths-between-all-warehouse-pairs-is-to-21964) |
-| You have an at-least-once event bus. A saga step's handler is not idempotent and got invoked twice, creating two shipments. How do you fix this without a full rewrite? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-an-at-least-once-event-bus-a-saga-step-s-handler-is-not-idemp-28764) |
-| How do you prevent illegal transitions like delivered->placed in your order state machine? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-prevent-illegal-transitions-like-delivered-placed-in-your-o-8975) |
-| Design an event-driven order-status system where a package moves through placed → picked → shipped → delivered across 3 services. How do you keep the status consistent and handle out-of-order events? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-event-driven-order-status-system-where-a-package-moves-throu-16405) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design an event-driven order-status system where a package moves through placed → picked → shipped → delivered across 3 services. How do you keep the status consistent and handle out-of-order events? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-event-driven-order-status-system-where-a-package-moves-throu-16405) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you allocate a shared measure like shipping cost across the line items of an order so it stays additive at both order and line grain? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-allocate-a-shared-measure-like-shipping-cost-across-the-lin-121443) |
-| How do you build an accumulating snapshot fact for order-to-delivery, and how do you make the frequent milestone UPDATEs cheap on a warehouse that dislikes row-level updates? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-an-accumulating-snapshot-fact-for-order-to-delivery-a-121386) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

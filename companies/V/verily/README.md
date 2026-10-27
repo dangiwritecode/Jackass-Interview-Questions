@@ -1,30 +1,33 @@
 # Verily
 
-**Tier:** Tier 2  |  **Business domain:** HealthTech  |  **Questions:** 14
+**Tier:** Tier 2  |  **Business domain:** HealthTech  |  **Questions listed:** 540  |  **Tagged directly to Verily:** 14
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Verily's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Verily: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 14 | 14 | 14 | 14 | 14 | 14 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 14 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 2 | 0 | 2 | 60 | 58 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Cluster Words That Share the Same Letters | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Grouping, Hash Table, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cluster-words-that-share-the-same-letters-d49) |
-| Duplicate Alert Suppression Within a Cooldown Window | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Data Stream, Design, Hash Table, Rate Limiting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=duplicate-alert-suppression-within-a-cooldown-window-d359) |
-| Fewest Leaps to Reach a Target Square on an Unbounded Grid | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Graph, Grid, Queue, Shortest Path, Symmetry | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-leaps-to-reach-a-target-square-on-an-unbounded-grid-d1163) |
-| Fewest Pieces to Cover a Range | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Intervals, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-pieces-to-cover-a-range-d1009) |
-| Find the Element with a Given Rank by Magnitude | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Divide and Conquer, Heap (Priority Queue), Quickselect, Selection Algorithm, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=find-the-element-with-a-given-rank-by-magnitude-d215) |
-| Identify the Hidden Codeword with Limited Probes | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Adversarial Search, Array, Game Theory, Greedy Heuristics, Hashing, Interactive, Minimax, String | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=identify-the-hidden-codeword-with-limited-probes-d828) |
-| Longest Chain of Nesting Rectangles | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Dynamic Programming, Greedy, Longest Increasing Subsequence, Patience Sorting, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-chain-of-nesting-rectangles-d354) |
-| Longest Chain of One-Character Insertions | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | DAG Longest Path, Dynamic Programming, Hash Table, Sorting, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-chain-of-one-character-insertions-d1033) |
-| Products You Can Assemble From Base Materials | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, BFS, Dependency Resolution, Graph, Hash Table, Kahn's Algorithm, String, Topological Sort | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=products-you-can-assemble-from-base-materials-d1996) |
-| Reaching the Final Cell With Forward Hops | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reaching-the-final-cell-with-forward-hops-d55) |
-| Recover the Source Array Behind a Doubled Multiset | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Greedy, Hash Table, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=recover-the-source-array-behind-a-doubled-multiset-d1898) |
-| Repeated Digit-Square Sum Reaches One | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cycle Detection, Floyd's Tortoise and Hare, Hash Table, Math, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=repeated-digit-square-sum-reaches-one-d202) |
-| Smallest Axis-Aligned Rectangle from a Set of Points | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Coordinate Compression, Geometry, Hash Set, Hash Table, Math, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-axis-aligned-rectangle-from-a-set-of-points-d924) |
-| Smallest Rectangle From Grid Points (Any Orientation) | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Geometry, Hash Table, Math, Vectors | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-rectangle-from-grid-points-any-orientation-d948) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

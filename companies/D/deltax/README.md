@@ -1,19 +1,33 @@
 # DeltaX
 
-**Tier:** Tier 4  |  **Business domain:** AdTech  |  **Questions:** 3
+**Tier:** Tier 4  |  **Business domain:** AdTech  |  **Questions listed:** 540  |  **Tagged directly to DeltaX:** 3
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. DeltaX's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches DeltaX: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 3 | 3 | 3 | 3 | 3 | 3 |
+| Backend | 16 | 16 | 40 | 60 | 42 | 60 |
+| Fullstack | 13 | 13 | 50 | 60 | 19 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 4 | 0 | 21 | 59 | 47 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 26 | 60 | 39 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| All Possible Values of a Fully Parenthesized Expression | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Divide and Conquer, Dynamic Programming, Math, Memoization, Recursion, String | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=all-possible-values-of-a-fully-parenthesized-expression-d241) |
-| Convert a Roman-Style Numeral String to Its Integer Value | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, Math, Simulation, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=convert-a-roman-style-numeral-string-to-its-integer-value-d13) |
-| Fewest Transit Lines Between Two Stations | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Graph, Hash Table, Shortest Path | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-transit-lines-between-two-stations-d800) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

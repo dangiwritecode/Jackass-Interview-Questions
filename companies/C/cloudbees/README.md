@@ -1,48 +1,33 @@
 # CloudBees
 
-**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 26
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to CloudBees:** 26
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. CloudBees's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches CloudBees: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 14 | 0 | 18 | 25 | 11 | 25 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 21 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 49 | 56 | 23 | 60 |
+| DevOps | 43 | 21 | 48 | 58 | 29 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your team runs Jenkins on a single EC2 and it's a SPOF — how would you make the CI infrastructure resilient using an ASG of ephemeral agents, EFS-backed home, and a plan for the controller going down? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-team-runs-jenkins-on-a-single-ec2-and-it-s-a-spof-how-would-you-m-46163) |
-| How would you handle continuity when your CI/CD pipeline itself is down during an incident and you need to ship an emergency fix to a failed-over region? | deep understanding | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-continuity-when-your-ci-cd-pipeline-itself-is-dow-56942) |
-| What is the difference between a CI server and a CI runner or agent? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-a-ci-server-and-a-ci-runner-or-agent-42421) |
-| What is the difference between a hosted runner (cloud) and a self-hosted runner, and why pick each? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-a-hosted-runner-cloud-and-a-self-hosted-42493) |
-| Your Jenkins controller is a single point of failure and when it died, no team could deploy during an incident. How do you make the CI/CD control plane resilient and provide a break-glass deploy path when it's down? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-jenkins-controller-is-a-single-point-of-failure-and-when-it-died--46953) |
-| How do you architect Backstage to give platform-level guardrails while letting teams bring their own CI (Jenkins, GitHub Actions, GitLab CI) behind a common interface? | deep understanding | SDE-2/3, Architect/Principal | Internal Developer Platform (Backstage) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-backstage-to-give-platform-level-guardrails-while-55588) |
-| When would you choose folder-scoped controllers or CloudBees per-team masters over one big shared controller and what are the operational costs? | expertise | SDE-1/2, SDE-2/3 | Jenkins | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-choose-folder-scoped-controllers-or-cloudbees-per-team--48275) |
-| Your Jenkins agents are the bottleneck: builds queue for 10 minutes at peak. How do you profile queue wait vs execution time and decide between more agents, ephemeral Kubernetes agents, or splitting the pipeline into parallel stages? | intermediate experience | SDE-1/2, SDE-2/3 | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-jenkins-agents-are-the-bottleneck-builds-queue-for-10-minutes-at--47038) |
-| How do you handle the platform's relationship with the FinOps function — does the platform own unit-economics targets per capability, or merely instrument spend for finance to enforce? Draw the accountability line and defend it. | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-platform-s-relationship-with-the-finops-function-54227) |
-| How would you run a long shell command from Python and stream its output line by line as it runs instead of waiting for it to finish? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-a-long-shell-command-from-python-and-stream-its-outp-41888) |
-| How would you write a Python script that triggers a Jenkins or GitLab CI job via its REST API? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-write-a-python-script-that-triggers-a-jenkins-or-gitlab--41907) |
-| What does sys.exit(1) versus sys.exit(0) mean, and why does the exit code matter in an automation pipeline? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-sys-exit-1-versus-sys-exit-0-mean-and-why-does-the-exit-code-41854) |
-| How does a CI/CD pipeline map onto the stages of the DevOps lifecycle? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-a-ci-cd-pipeline-map-onto-the-stages-of-the-devops-lifecycle-44737) |
-| What does CI stand for and what does it mean at a basic level? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-ci-stand-for-and-what-does-it-mean-at-a-basic-level-44735) |
-| What does the Build stage do and what is produced at the end of it? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-the-build-stage-do-and-what-is-produced-at-the-end-of-it-44728) |
-| What is a 'build failure' and what would you do first when a build breaks? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-build-failure-and-what-would-you-do-first-when-a-build-break-44778) |
-| What is a 'pipeline' in CI/CD, and what are its typical stages? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-pipeline-in-ci-cd-and-what-are-its-typical-stages-44755) |
-| What is meant by 'automation' in DevOps and which lifecycle stages benefit most from it? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-meant-by-automation-in-devops-and-which-lifecycle-stages-benef-44750) |
-| What is the difference between a manual deployment and an automated deployment? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-a-manual-deployment-and-an-automated-de-44802) |
-| What triggers a CI pipeline to run in a typical DevOps workflow? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-triggers-a-ci-pipeline-to-run-in-a-typical-devops-workflow-44756) |
-| Why should a failing test stop the pipeline from deploying to production? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-should-a-failing-test-stop-the-pipeline-from-deploying-to-producti-44777) |
-| Architect the FinOps story for supply chain security: thousands of SBOMs, signatures and rescans have real storage and compute cost — how do you keep it under budget without weakening coverage? | deep understanding | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-finops-story-for-supply-chain-security-thousands-of-sbom-55433) |
-| How would you architect signing and provenance so it works identically across GitHub Actions, GitLab CI, Jenkins and self-hosted runners, given each has a different OIDC and identity model? | deep understanding | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-signing-and-provenance-so-it-works-identically-55497) |
-| How do you decide between standardizing the org on one CI/CD and one deploy model versus allowing per-team tooling autonomy, and where does forced standardization create more debt (workarounds, shadow pipelines) than the heterogeneity it removes? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-standardizing-the-org-on-one-ci-cd-and-one-d-54354) |
-| Your CI/CD estate has 200 bespoke Jenkins pipelines that are each a snowflake. How do you quantify the pipeline-sprawl debt and migrate to a paved-road templated pipeline model without a year-long freeze on delivery? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-ci-cd-estate-has-200-bespoke-jenkins-pipelines-that-are-each-a-sn-54327) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you detect and prevent read-after-write violations in automated test suites so they surface before hitting production? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-and-prevent-read-after-write-violations-in-automa-115498) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

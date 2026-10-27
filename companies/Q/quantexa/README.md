@@ -1,23 +1,33 @@
 # Quantexa
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 7
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Quantexa:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Quantexa's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Quantexa: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Engineer | 0 | 0 | 0 | 7 | 7 | 7 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 36 | 59 | 29 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you design deterministic vs probabilistic matching for customer entity resolution at 500M+ records, and how you tune thresholds so you don't over-merge distinct people or under-merge duplicates. | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-design-deterministic-vs-probabilistic-matching-for-cus-127717) |
-| Explain how you'd back MDM entity resolution with a graph database versus a relational match store — when does the graph earn its complexity, and what breaks at scale? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-back-mdm-entity-resolution-with-a-graph-database-ver-127727) |
-| Explain how you'd blend rules-based matching with an ML classifier for pair scoring — how do you keep the ML explainable enough that a steward and an auditor both trust a merge decision? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-blend-rules-based-matching-with-an-ml-classifier-for-127744) |
-| How do you handle golden record proliferation of duplicates that the match engine keeps re-splitting because of a bad blocking key — how do you detect and remediate systematic under-matching? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-golden-record-proliferation-of-duplicates-that-the-m-127769) |
-| How do you validate the quality of your entity resolution without ground-truth labels — what evaluation strategy (blocking recall, pairwise precision, cluster metrics, human sampling) do you trust at scale? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-the-quality-of-your-entity-resolution-without-grou-127773) |
-| How do you weigh a graph-based 'entity network' representation against a flat golden-record table for use cases like KYC, fraud rings, and beneficial-ownership — when is the golden record insufficient? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-a-graph-based-entity-network-representation-against-a-127779) |
-| How would you use active learning / steward feedback to continuously improve the match model, and how do you prevent feedback loops from overfitting to one steward's biases? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-active-learning-steward-feedback-to-continuously-imp-127795) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

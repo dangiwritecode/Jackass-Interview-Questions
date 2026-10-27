@@ -1,26 +1,33 @@
 # ConsultAdd
 
-**Tier:** Tier 5  |  **Business domain:** IT-Services  |  **Questions:** 10
+**Tier:** Tier 5  |  **Business domain:** IT-Services  |  **Questions listed:** 540  |  **Tagged directly to ConsultAdd:** 10
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. ConsultAdd's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches ConsultAdd: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 10 | 10 | 10 | 10 | 10 | 10 |
+| Backend | 4 | 4 | 46 | 59 | 57 | 60 |
+| Fullstack | 18 | 18 | 54 | 56 | 17 | 60 |
+| DevOps | 27 | 18 | 28 | 59 | 46 | 60 |
+| AIOps | 2 | 1 | 11 | 60 | 52 | 60 |
+| Data Engineer | 11 | 3 | 53 | 58 | 19 | 60 |
+| Database Developer | 13 | 22 | 23 | 46 | 38 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 2 | 15 | 60 | 51 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Cluster Words That Share the Same Letters | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Grouping, Hash Table, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cluster-words-that-share-the-same-letters-d49) |
-| Detect Whether Two Strings Are Letter Rearrangements | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Hash Table, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=detect-whether-two-strings-are-letter-rearrangements-d242) |
-| Fewest Pieces to Reach an Exact Target | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Dynamic Programming, Unbounded Knapsack | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-pieces-to-reach-an-exact-target-d322) |
-| Fewest Removals for All-Distinct Character Counts | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Greedy, Hash Table, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-removals-for-all-distinct-character-counts-d1569) |
-| In-Place 90-Degree Clockwise Rotation of a Square Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, In-Place Transformation, Math, Matrix, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-place-90-degree-clockwise-rotation-of-a-square-grid-d48) |
-| Minimum Reward Tokens for a Row of Workers | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Prefix/Suffix Aggregation, Two-Pass Scan | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-reward-tokens-for-a-row-of-workers-d135) |
-| Minimum Strides to Reach the Final Tile | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Dynamic Programming, Greedy | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-strides-to-reach-the-final-tile-d45) |
-| Read a String Written in a Zigzag Across Rows | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Simulation, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=read-a-string-written-in-a-zigzag-across-rows-d6) |
-| Self-Describing Digit Sequence | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Iteration, Run-Length Encoding, Simulation, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=self-describing-digit-sequence-d38) |
-| Transpose Of An Integer Grid | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Matrix, Simulation, Two-Dimensional Traversal | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=transpose-of-an-integer-grid-d852) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

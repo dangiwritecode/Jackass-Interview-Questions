@@ -1,28 +1,33 @@
 # Dazn
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 6
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Dazn:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Dazn's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Dazn: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 5 | 5 | 5 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 46 | 55 | 25 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Architect a micro-frontend composition strategy (build-time vs runtime module federation vs edge-side includes) for a portal aggregating 12 team-owned apps. What breaks in shared-dependency management, and when is a monolithic SPA actually the saner enterprise choice? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-micro-frontend-composition-strategy-build-time-vs-runtime--40724) |
-| How do you architect the client for a product that must scale a single websocket/SSE fan-out to millions of concurrent viewers (live sports, elections) without the browser or the edge melting? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-client-for-a-product-that-must-scale-a-single-40054) |
-| Your micro-frontend estate has 12 independently deployed apps loading different React versions at runtime — how do you govern shared dependencies, avoid duplicate framework payloads, and prevent version-skew incidents? | deep understanding | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-micro-frontend-estate-has-12-independently-deployed-apps-loading--40022) |
-| Design the architecture for a live-sports second-screen experience (live scores commentary polls) for 50M concurrent viewers during a final — how do you fan out state updates run interactive polls and degrade gracefully when a wicket falls and everyone refreshes at once? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-a-live-sports-second-screen-experience-liv-39432) |
-| You discover the org's 'microfrontends' have devolved into a distributed frontend monolith — shared global state, tight version coupling, coordinated releases. How do you diagnose and pay down this coupling debt? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-discover-the-org-s-microfrontends-have-devolved-into-a-distributed-41442) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect the availability and capacity of a live-sports streaming platform to serve tens of millions of concurrent viewers with a hard, immovable start time — covering origin shielding, CDN topology, and multi-CDN failover — and how do you rehearse it when there's no second chance? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-availability-and-capacity-of-a-live-sports-st-52109) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,40 +1,33 @@
 # Netcore
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 18
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Netcore:** 14
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Netcore's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Netcore: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 4 | 4 | 14 | 14 | 13 | 14 |
-| Fullstack | 2 | 2 | 4 | 4 | 4 | 4 |
+| Backend | 8 | 8 | 48 | 60 | 41 | 60 |
+| Fullstack | 8 | 8 | 51 | 60 | 24 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you protect a GraphQL mutation that triggers an email/SMS send from being abused as a spam amplifier? Consider rate limiting per recipient, per user, and per operation, and where each check lives. | deep understanding | SDE-1/2, SDE-2/3 | GraphQL | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-protect-a-graphql-mutation-that-triggers-an-email-sms-se-24091) |
-| A notification campaign to 40M users must respect a per-provider send rate and complete within a 2-hour window — how do you design the pacing/throttle scheduler so you neither burst-limit the provider nor miss the window? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-notification-campaign-to-40m-users-must-respect-a-per-provider-send--28351) |
-| Design a notification service's channel-fanout core that dispatches one event to push email SMS and in-app respecting per-user quiet hours and channel preferences — how do you model preference resolution and dedup across channels? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-service-s-channel-fanout-core-that-dispatches-on-28348) |
-| Design idempotent notification dispatch so that when the fanout worker crashes and its message is redelivered the user does not receive a duplicate push — where do you place the dedup key and what's its TTL? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-idempotent-notification-dispatch-so-that-when-the-fanout-worker-28353) |
-| Design the delivery-status tracking of a notification service that ingests async delivery receipts from APNs FCM and SMTP — how do you correlate a receipt back to the original send and expose per-campaign delivery funnels? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-delivery-status-tracking-of-a-notification-service-that-ing-28352) |
-| Design the priority handling in a notification queue where OTP/transactional messages must never be delayed behind a bulk marketing blast — how do you isolate lanes and prevent priority inversion? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-priority-handling-in-a-notification-queue-where-otp-transac-28354) |
-| Design the template-rendering and localization layer of a notification service supporting 30 languages and A/B content variants — how do you version templates and roll back a bad template without redeploying? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-template-rendering-and-localization-layer-of-a-notification-28349) |
-| Design a notification service that supports email SMS and push. What patterns fit? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-service-that-supports-email-sms-and-push-what-pa-849) |
-| Design a notification-preference system so users can opt out per channel and per category. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-preference-system-so-users-can-opt-out-per-chann-8995) |
-| Design an email-templating and dispatch module. Where do template rendering and sending decouple? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-email-templating-and-dispatch-module-where-do-template-rende-8996) |
-| Design a notification system delivering email, SMS, and push with per-user channel opt-outs, quiet hours, and dedupe so a user never gets the same alert twice. Where does the dedupe key and preference check live? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-system-delivering-email-sms-and-push-with-per-us-22296) |
-| Design a notification-preferences and delivery system supporting email, SMS, and push, per-user channel opt-outs, quiet hours, and dedupe so a user never gets the same alert twice. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-preferences-and-delivery-system-supporting-email-16370) |
-| Design a rate-limited, cost-aware fan-out to send 10M push notifications in 15 minutes. How do you throttle to respect provider quotas and retry the failures without duplicate sends? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-rate-limited-cost-aware-fan-out-to-send-10m-push-notification-16347) |
-| How do you handle bounced emails and retries without spamming a user? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-bounced-emails-and-retries-without-spamming-a-user-8868) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a notification service that supports email SMS and push. What patterns fit? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-service-that-supports-email-sms-and-push-what-pa-849) |
-| Design a notification-preference system so users can opt out per channel and per category. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-preference-system-so-users-can-opt-out-per-chann-8995) |
-| Design a notification-preferences and delivery system supporting email, SMS, and push, per-user channel opt-outs, quiet hours, and dedupe so a user never gets the same alert twice. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-preferences-and-delivery-system-supporting-email-16370) |
-| Design a rate-limited, cost-aware fan-out to send 10M push notifications in 15 minutes. How do you throttle to respect provider quotas and retry the failures without duplicate sends? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-rate-limited-cost-aware-fan-out-to-send-10m-push-notification-16347) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,23 +1,33 @@
 # Spot-NetApp
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 7
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Spot-NetApp:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Spot-NetApp's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Spot-NetApp: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 2 | 7 | 5 | 7 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe how you would validate at scale that autoscaling, cluster-autoscaler, and Karpenter behave correctly under simultaneous node loss and traffic surge across dozens of clusters. | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-validate-at-scale-that-autoscaling-cluster-auto-55146) |
-| How do you architect experiments to validate that cloud-provider throttling and API rate limits during a large-scale scale-out event won't stall your recovery? | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-experiments-to-validate-that-cloud-provider-throt-55173) |
-| Walk me through how you would use chaos experiments to inform capacity headroom and reserved-vs-spot instance mix as a joint reliability/FinOps optimization. | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-would-use-chaos-experiments-to-inform-capacity-55148) |
-| Explain how you'd cost-optimize a feature-flag rollout that doubles compute during a shadow/dark launch — how do you cap the extra spend and tear it down automatically? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-cost-optimize-a-feature-flag-rollout-that-doubles-co-47350) |
-| Explain how you'd roll out an infrastructure-cost optimization (say switching to spot instances for a workload) behind a flag so you can revert instantly if reliability drops. | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-roll-out-an-infrastructure-cost-optimization-say-swi-47405) |
-| Design the org's approach to Terraform for spot/preemptible-heavy compute where the fleet composition churns constantly and Terraform must own the ASG/mixed-instances-policy shape but not the live instance set. How do you draw the ownership line so a spot reclamation event doesn't show up as drift that on-call chases? | deep understanding | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-approach-to-terraform-for-spot-preemptible-heavy-comp-53083) |
-| How do you architect the interaction between spot/preemptible capacity and your SLO — using cheap interruptible instances to save 60% while guaranteeing a latency SLO the interruptions could violate? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-interaction-between-spot-preemptible-capacity-54171) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

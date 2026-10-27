@@ -1,35 +1,33 @@
 # ArangoDB
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 13
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to ArangoDB:** 13
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. ArangoDB's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches ArangoDB: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 2 | 2 | 2 |
-| Database Developer | 0 | 0 | 0 | 11 | 11 | 11 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 7 | 7 | 47 | 59 | 23 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Tell me about a time you had to lead the org's decision on how much to invest in a graph/relationship data layer versus modeling relationships in existing stores. How did you evaluate whether the problem was truly graph-shaped? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-s-decision-on-how-much-to-40510) |
-| How do you migrate a monolith to a new datastore paradigm (relational to document, or SQL to graph) under strangler fig when the access patterns must change too? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-migrate-a-monolith-to-a-new-datastore-paradigm-relational-t-40972) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect caching for a multi-model database (document, graph, relational in one engine) so a read migrating from the relational to the graph model never gets served from a cache keyed on the old model? | deep understanding | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-multi-model-database-document-gr-111466) |
-| How do you decide when a workload should abandon relational entirely and move to Cosmos DB's document or graph API — and how do you migrate deeply relational joins into a denormalized model? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-a-workload-should-abandon-relational-entirely-a-115227) |
-| How do you architect HA for a graph database or a specialized store that lacks mature native replication? What compensating patterns (dual-write, CDC replay, rebuild-from-source) do you accept? | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-ha-for-a-graph-database-or-a-specialized-store-th-114711) |
-| How do you architect access control for a multi-model database (document + relational + search) so one query interface can't be used to sidestep another's permissions? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-access-control-for-a-multi-model-database-documen-114107) |
-| How do you decide when a workload's relationships are complex enough that a native graph database beats both relational joins and a document model? Where do graph databases fail to scale? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-a-workload-s-relationships-are-complex-enough-t-114429) |
-| What is your strategy for evaluating multi-model databases versus best-of-breed specialized stores for a platform with document, graph, and relational needs? | deep understanding | SDE-2/3, Architect/Principal | Database Vendor & Tooling Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-for-evaluating-multi-model-databases-versus-best-115373) |
-| Design DR for a graph database where value lives in the edges and losing a fraction of relationships silently corrupts the graph — how does that shift your RPO thinking from row-count to integrity? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-dr-for-a-graph-database-where-value-lives-in-the-edges-and-losi-112870) |
-| How do you evaluate whether a multi-model database that claims to serve document graph and relational in one engine actually removes your polyglot complexity or just relocates it? | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-a-multi-model-database-that-claims-to-serv-114552) |
-| How do you weigh a graph database against modeling relationships in relational recursive CTEs or a document store's embedded refs for a deeply-connected domain? | deep understanding | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-a-graph-database-against-modeling-relationships-in-re-114597) |
-| What's your strategy for keeping a graph store and a relational store in sync when relationships are derived from relational rows that change frequently? | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-keeping-a-graph-store-and-a-relational-store--114626) |
-| How would you handle read/write splitting when a graph or recursive query on a replica sees a partially-replicated subtree, producing incorrect traversals? | expertise | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-read-write-splitting-when-a-graph-or-recursive-qu-115506) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

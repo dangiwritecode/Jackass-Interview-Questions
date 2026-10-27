@@ -1,38 +1,33 @@
 # Anaconda
 
-**Tier:** Tier 2  |  **Business domain:** SaaS  |  **Questions:** 22
+**Tier:** Tier 2  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Anaconda:** 22
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Anaconda's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Anaconda: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 19 | 0 | 19 | 21 | 2 | 22 |
+| Backend | 4 | 4 | 21 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 49 | 56 | 23 | 60 |
+| DevOps | 29 | 21 | 30 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 19 | 0 | 19 | 59 | 40 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A sparse feature matrix in CSR format is slow for column-wise access during feature selection; explain why CSR is row-optimized and when you'd convert to CSC, and the cost of that conversion. | intermediate experience | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-sparse-feature-matrix-in-csr-format-is-slow-for-column-wise-access-d-62498) |
-| How would you use Docker so a Kaggle-style notebook environment and your local dev match exactly? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-docker-so-a-kaggle-style-notebook-environment-and-yo-57996) |
-| Why might you use conda inside a Docker image for an ML project, and what is the trade-off versus plain pip? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-you-use-conda-inside-a-docker-image-for-an-ml-project-and-wh-57947) |
-| How do you set up a pre-commit hook that automatically strips notebook outputs before every commit? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-up-a-pre-commit-hook-that-automatically-strips-notebook-57759) |
-| How would a GitHub Actions workflow lint your notebooks and fail the check if they still contain committed output cells? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-a-github-actions-workflow-lint-your-notebooks-and-fail-the-c-57809) |
-| How would you clear notebook outputs before committing, and why does that keep your repo clean and diffs readable? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-clear-notebook-outputs-before-committing-and-why-does-th-57752) |
-| How would you make sure your Colab notebook can be committed to GitHub, and what does the 'Save a copy in GitHub' option do? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-make-sure-your-colab-notebook-can-be-committed-to-github-57795) |
-| How would you use a GitHub Actions cache keyed on requirements.txt to speed up dependency install for your ML test workflow? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-a-github-actions-cache-keyed-on-requirements-txt-to--57825) |
-| How would you use GitHub to share a reproducible ML project so a recruiter or professor can run it in Colab or locally? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-github-to-share-a-reproducible-ml-project-so-a-recru-57765) |
-| What entries would you typically add to a .gitignore file in a Python machine learning project? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-entries-would-you-typically-add-to-a-gitignore-file-in-a-python-m-57736) |
-| What would you check into Git to make sure your entire ML environment can be rebuilt: code, dependencies, and config? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-would-you-check-into-git-to-make-sure-your-entire-ml-environment--57791) |
-| Why can a pickled model committed with one version of scikit-learn fail to load later, and how does pinning versions in Git help? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-can-a-pickled-model-committed-with-one-version-of-scikit-learn-fai-57773) |
-| Why is it important that every teammate installs the exact same package versions from Git before comparing model results? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-it-important-that-every-teammate-installs-the-exact-same-packag-57796) |
-| Why is it risky to run pip install without a pinned requirements file committed to Git in a shared ML project? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-it-risky-to-run-pip-install-without-a-pinned-requirements-file--57806) |
-| Why should you commit your data-preprocessing notebook after exporting it to a plain .py script, and how does jupytext help? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-should-you-commit-your-data-preprocessing-notebook-after-exporting-57789) |
-| Why would you commit a requirements.txt or environment.yml file, and how does it help a teammate reproduce your ML results? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-would-you-commit-a-requirements-txt-or-environment-yml-file-and-ho-57737) |
-| How do you activate a conda environment and confirm it is active from your Linux prompt? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-activate-a-conda-environment-and-confirm-it-is-active-from--57876) |
-| How would you list all your conda environments and remove one you no longer need? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-list-all-your-conda-environments-and-remove-one-you-no-l-57877) |
-| What is the difference between conda and venv for managing ML dependencies on Linux, at a high level? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-conda-and-venv-for-managing-ml-dependen-57832) |
-| How do you handle Python dependency and environment management at platform scale so that thousands of jobs are reproducible and you're not stuck in perpetual CUDA/driver/framework version wars? | deep understanding | SDE-2/3, Architect/Principal | ML Platform Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-python-dependency-and-environment-management-at-plat-72028) |
-| What is the difference between conda and pip for managing ML dependencies? | intermediate experience | Fresher | MLOps Basics | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-conda-and-pip-for-managing-ml-dependenc-61936) |
-| What is your approach to third-party risk assessment of open-source model dependencies (supply-chain risk of weights, tokenizers, libraries)? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-approach-to-third-party-risk-assessment-of-open-source-mo-71845) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

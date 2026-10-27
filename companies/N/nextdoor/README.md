@@ -1,44 +1,33 @@
 # Nextdoor
 
-**Tier:** Tier 4  |  **Business domain:** Social  |  **Questions:** 10
+**Tier:** Tier 4  |  **Business domain:** Social  |  **Questions listed:** 540  |  **Tagged directly to Nextdoor:** 10
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Nextdoor's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Nextdoor: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 5 | 5 | 0 | 5 |
-| Data Structures & Algorithms (all profiles) | 3 | 3 | 3 | 3 | 3 | 3 |
+| Backend | 3 | 3 | 19 | 59 | 58 | 60 |
+| Fullstack | 17 | 17 | 46 | 55 | 22 | 60 |
+| DevOps | 27 | 19 | 28 | 58 | 48 | 60 |
+| AIOps | 3 | 2 | 16 | 60 | 49 | 60 |
+| Data Engineer | 13 | 5 | 47 | 58 | 18 | 60 |
+| Database Developer | 11 | 17 | 18 | 51 | 43 | 60 |
+| ML Engineer | 0 | 0 | 5 | 60 | 55 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Defend the choice between showback and chargeback for a 3000-engineer company. What behavioral and organizational failure modes does each create, and how do you sequence the move from one to the other? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=defend-the-choice-between-showback-and-chargeback-for-a-3000-engineer--37017) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance so that a compliance requirement expressed by legal (e.g. 'processing must have a documented lawful basis') is provably enforced in the runtime data path — describe the full translation chain from legal text to a query-time check. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-so-that-a-compliance-requirement-expre-54044) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you handle network effects in an A/B test for a social-feed ranking model where treatment users influence control users? | expertise | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-network-effects-in-an-a-b-test-for-a-social-feed--67676) |
-| A teammate insists on adding 500 more features to the XGBoost model to boost AUC by 0.3%; how do you evaluate whether that's worth the serving and maintenance cost? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-teammate-insists-on-adding-500-more-features-to-the-xgboost-model-to-65888) |
-| How do you validate a new feature actually adds predictive value to XGBoost beyond correlated existing features, not just noise? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-a-new-feature-actually-adds-predictive-value-to-xg-65946) |
-| How do you decide whether to precompute predictions offline and serve them from a cache via FastAPI versus computing them online, based on cardinality and freshness needs? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-to-precompute-predictions-offline-and-serve--62947) |
-| How would you serve an ensemble where a FastAPI endpoint fans out to multiple models and combines their outputs, and how do you keep tail latency bounded when one model is slow? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-serve-an-ensemble-where-a-fastapi-endpoint-fans-out-to-m-62897) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Coalescing Overlapping Numeric Ranges | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Intervals, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=coalescing-overlapping-numeric-ranges-d56) |
-| Compare Two Release Identifiers | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Parsing, Simulation, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-two-release-identifiers-d165) |
-| Constant-Time Frequency Registry with Min and Max Key Queries | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bucketing, Design, Doubly Linked List, Hash Table, Linked List, Ordered Structure | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=constant-time-frequency-registry-with-min-and-max-key-queries-d432) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

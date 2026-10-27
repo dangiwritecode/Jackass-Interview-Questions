@@ -1,47 +1,33 @@
 # Coralogix
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 25
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Coralogix:** 25
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Coralogix's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Coralogix: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AIOps | 15 | 0 | 24 | 24 | 0 | 24 |
-| Data Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 17 | 0 | 31 | 60 | 34 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AIOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How can you make your log-clustering results reproducible for a repeatable AIOps pipeline? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-can-you-make-your-log-clustering-results-reproducible-for-a-repeat-89666) |
-| How would you handle clustering when new log formats appear that weren't in your original training data? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-clustering-when-new-log-formats-appear-that-weren-89668) |
-| What features would you extract from a raw log line before you can cluster logs numerically? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-features-would-you-extract-from-a-raw-log-line-before-you-can-clu-89632) |
-| What is log template mining and how do clustering-based approaches like Drain relate to it? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-log-template-mining-and-how-do-clustering-based-approaches-lik-89639) |
-| What is TF-IDF and how would you use it to turn log messages into vectors for clustering? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-tf-idf-and-how-would-you-use-it-to-turn-log-messages-into-vect-89687) |
-| What preprocessing turns variable-length log messages into fixed vectors that a clustering algorithm can consume? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-preprocessing-turns-variable-length-log-messages-into-fixed-vecto-89643) |
-| What steps would you take end-to-end to build a log-clustering pipeline that surfaces the top recurring log patterns? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-steps-would-you-take-end-to-end-to-build-a-log-clustering-pipelin-89679) |
-| Why is cosine similarity often a good choice when clustering log messages represented as text vectors? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-cosine-similarity-often-a-good-choice-when-clustering-log-messa-89648) |
-| Why might clustering the same batch of logs give slightly different groups each run and how do you stabilize it? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-clustering-the-same-batch-of-logs-give-slightly-different-gr-89665) |
-| Why might you cluster logs using their tokens or n-grams rather than raw character strings? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-you-cluster-logs-using-their-tokens-or-n-grams-rather-than-r-89644) |
-| How would you defend an LLM log-analysis feature against injection hidden inside the log data it ingests? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-defend-an-llm-log-analysis-feature-against-injection-hid-88264) |
-| What is tokenization, and why might a JSON log with lots of punctuation cost more tokens than a plain sentence of the same length? | basic concept | Fresher, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-tokenization-and-why-might-a-json-log-with-lots-of-punctuation-88240) |
-| When would a keyword search over logs (like grep or BM25) beat semantic search for finding a specific error, and why combine them? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-a-keyword-search-over-logs-like-grep-or-bm25-beat-semantic--88261) |
-| Why does non-English content in your logs (say Japanese error text) often cost more tokens, and how would you account for it in cost planning? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-does-non-english-content-in-your-logs-say-japanese-error-text-ofte-88310) |
-| Why would you feed log lines to an LLM rather than a fixed regex when you don't know the log format in advance? | basic concept | Fresher, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-would-you-feed-log-lines-to-an-llm-rather-than-a-fixed-regex-when--88228) |
-| Explain how you'd auto-classify incoming log events by severity using ML when teams misuse log levels (everything logged as ERROR). | deep understanding | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-auto-classify-incoming-log-events-by-severity-using--94175) |
-| Explain how you'd build a heatmap/frequency view of log templates over time so on-call spots the emerging pattern before it becomes an alert. | intermediate experience | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-build-a-heatmap-frequency-view-of-log-templates-over-94198) |
-| Explain how you'd surface the single log line most likely to be the root cause among thousands, ranking by rarity and correlation with the incident window. | expertise | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-surface-the-single-log-line-most-likely-to-be-the-ro-94151) |
-| How do you measure whether your log-noise-reduction is dropping something important? What canary or shadow-eval do you run continuously? | deep understanding | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-measure-whether-your-log-noise-reduction-is-dropping-someth-94166) |
-| How would you cluster millions of raw log lines into a handful of templates (Drain/log-parsing) so on-call sees pattern counts instead of a firehose? | deep understanding | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cluster-millions-of-raw-log-lines-into-a-handful-of-temp-94126) |
-| How would you detect a novel log pattern that no rule matches, using clustering or embeddings, and keep the false-positive rate acceptable for on-call? | expertise | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-a-novel-log-pattern-that-no-rule-matches-using-cl-94134) |
-| Walk me through choosing a similarity metric (edit distance, token Jaccard, embedding cosine) to group log messages for noise reduction. Trade-offs? | expertise | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-choosing-a-similarity-metric-edit-distance-token-jacca-94217) |
-| Walk me through choosing features from log data (frequency, rarity, sequence, entropy) for an anomaly model and why raw text alone isn't enough. | expertise | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-choosing-features-from-log-data-frequency-rarity-seque-94159) |
-| Your log-clustering job (Drain) drifts over weeks and templates degrade. How do you monitor template quality and trigger a retrain or reset? | expertise | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-log-clustering-job-drain-drifts-over-weeks-and-templates-degrade--94145) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do observability platforms tier logs/metrics/traces between hot search indices and cheap object storage, and how would you design the rehydration path? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-observability-platforms-tier-logs-metrics-traces-between-hot-se-126751) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,35 +1,33 @@
 # Rossum
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 7
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Rossum:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Rossum's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Rossum: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 2 | 3 | 1 | 3 |
-| AI Engineer | 0 | 0 | 3 | 3 | 1 | 3 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 11 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 33 | 60 | 47 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Architect a document-processing pipeline that OCRs classifies and extracts structured data from millions of uploaded PDFs/images with an LLM step — how do you handle the async long-running jobs cost control and human-in-the-loop correction at scale? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-document-processing-pipeline-that-ocrs-classifies-and-extr-39497) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a document-AI/IDP pipeline (buy Textract/Document AI/Azure DI vs build on open OCR + your own layout models) when accuracy on your domain forms and per-page pricing at millions of docs define the crossover? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-document-ai-idp-pipeline-buy-text-69803) |
-| For a vision extraction request, does content-block ordering of image vs text matter, and how do you choose between a base64 image and an image URL for user-uploaded documents in a pipeline? | intermediate experience | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-vision-extraction-request-does-content-block-ordering-of-image-v-64134) |
-| You feed vision-capable models scanned documents. High-res images cost far more image tokens. How do you decide whether to downsample client-side, and how do you measure the cost to justify it? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-feed-vision-capable-models-scanned-documents-high-res-images-cost--64133) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a feature that extracts structured fields from uploaded invoices; how do you place validation and repair so a bad extraction never silently persists? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-feature-that-extracts-structured-fields-from-uploaded-invoice-78437) |
-| How would you decide whether a rule-based regex extractor beats a learned NER model for a highly structured field like invoice numbers? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-a-rule-based-regex-extractor-beats-a-lear-79481) |
-| Your OCR-fed classifier sees character-level noise. How would you make token representations robust to that noise without retraining from scratch? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-ocr-fed-classifier-sees-character-level-noise-how-would-you-make--79450) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

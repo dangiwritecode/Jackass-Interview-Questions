@@ -1,25 +1,33 @@
 # Circle
 
-**Tier:** Tier 3  |  **Business domain:** Fintech/Crypto  |  **Questions:** 3
+**Tier:** Tier 3  |  **Business domain:** Crypto / Fintech  |  **Questions listed:** 540  |  **Tagged directly to Circle:** 3
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Circle's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Circle: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Structures & Algorithms (all profiles) | 2 | 2 | 2 | 2 | 2 | 2 |
+| Backend | 0 | 0 | 17 | 60 | 48 | 60 |
+| Fullstack | 4 | 4 | 28 | 60 | 33 | 60 |
+| DevOps | 0 | 0 | 0 | 60 | 60 | 60 |
+| AIOps | 2 | 2 | 8 | 60 | 56 | 60 |
+| Data Engineer | 0 | 0 | 15 | 60 | 50 | 60 |
+| Database Developer | 0 | 0 | 0 | 60 | 60 | 60 |
+| ML Engineer | 0 | 0 | 2 | 60 | 58 | 60 |
+| AI Engineer | 0 | 0 | 11 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Database Developer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're the architect for a CBDC/central-bank-grade payment rail; regulators demand deterministic finality. Explain why this pushes you hard into CP and how you'd communicate the availability floor that finality mathematically imposes. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-the-architect-for-a-cbdc-central-bank-grade-payment-rail-regula-111556) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| In-Memory Account Ledger with Guarded Transfers | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Design, Hash Table, Simulation | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-memory-account-ledger-with-guarded-transfers-d1930) |
-| In-Memory Hierarchical File System | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design, Hash Table, Sorting, String, Tree, Trie | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-memory-hierarchical-file-system-d580) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,22 +1,33 @@
 # Point72
 
-**Tier:** Tier 2  |  **Business domain:** Fintech/HedgeFund  |  **Questions:** 6
+**Tier:** Tier 2  |  **Business domain:** HedgeFund / Fintech  |  **Questions listed:** 540  |  **Tagged directly to Point72:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Point72's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Point72: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 6 | 6 | 6 | 6 | 6 | 6 |
+| Backend | 3 | 3 | 20 | 59 | 58 | 60 |
+| Fullstack | 19 | 19 | 46 | 55 | 22 | 60 |
+| DevOps | 28 | 20 | 28 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 14 | 60 | 52 | 60 |
+| Data Engineer | 13 | 5 | 42 | 58 | 25 | 60 |
+| Database Developer | 11 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Attach Optional Reference Code to Each Member | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Database, Dictionary Lookup, Hash Table, Joins, Left Join | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=attach-optional-reference-code-to-each-member-d1326) |
-| Enumerate All Balanced Bracket Sequences | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Combinatorics, Dynamic Programming, Recursion, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=enumerate-all-balanced-bracket-sequences-d22) |
-| Maximize Winning Rounds by Rearranging Your Cards | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Sorting, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximize-winning-rounds-by-rearranging-your-cards-d855) |
-| Rank People by Total Distance Covered | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Aggregation, Database, Group By, Hash Table, Left Join, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=rank-people-by-total-distance-covered-d1353) |
-| Running Medians Over a Fixed-Width Sliding Window | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Heap (Priority Queue), Lazy Deletion, Order Statistics, Sliding Window, Two Heaps | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=running-medians-over-a-fixed-width-sliding-window-d480) |
-| Seven-Day Rolling Revenue Average | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Aggregation, Database, Hash Map, Prefix Sum, Sliding Window, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=seven-day-rolling-revenue-average-d1275) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,22 +1,33 @@
 # Turbopuffer
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 6
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Turbopuffer:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Turbopuffer's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Turbopuffer: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AI Engineer | 1 | 0 | 3 | 6 | 6 | 6 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 1 | 0 | 32 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AI Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for the vector-storage tier of RAG at scale (managed Pinecone/Turbopuffer vs pgvector/Milvus self-host vs your OLAP engine's native vectors) when recall@k, per-query cost, and re-embedding-on-model-change all interact? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-the-vector-storage-tier-of-rag-at-s-83743) |
-| How does a vector database's managed cloud service handle scaling as your embedding count grows from thousands to millions? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-a-vector-database-s-managed-cloud-service-handle-scaling-as-y-76548) |
-| Describe how you would design chunk-level and document-level metadata filtering so retrieval respects tenant recency and source constraints. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-design-chunk-level-and-document-level-metadata--79597) |
-| How do you design a vector-search platform serving tens of billions of embeddings at sub-50ms while ingesting millions of updates an hour, and what breaks first? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-vector-search-platform-serving-tens-of-billions-of-84357) |
-| Your vector index retrieval quality degrades as you scale from ten thousand to ten million documents; how would you diagnose and address it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-vector-index-retrieval-quality-degrades-as-you-scale-from-ten-tho-79519) |
-| Design a retrieval architecture that mixes a hot in-memory HNSW tier, a warm pgvector tier, and a cold quantized object-store tier, routed by an agent's recency and confidence needs. How do you hide cold-tier latency and keep the tiering transparent to product teams? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-retrieval-architecture-that-mixes-a-hot-in-memory-hnsw-tier-a-82468) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

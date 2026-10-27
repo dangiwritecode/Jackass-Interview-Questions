@@ -1,37 +1,33 @@
 # Exabeam
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 9
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Exabeam:** 9
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Exabeam's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Exabeam: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 4 | 4 | 4 |
-| AIOps | 0 | 0 | 0 | 3 | 3 | 3 |
-| Database Developer | 0 | 0 | 0 | 2 | 2 | 2 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 20 | 60 | 45 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance so a security incident's forensic timeline is provably complete across the seam between your identity provider your cloud audit log and your application logs — where clock skew and log gaps between systems could hide the attacker's path? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-so-a-security-incident-s-forensic-time-54076) |
-| How do you architect ongoing insider-threat detection (audit review, UEBA) for privileged platform engineers with legitimate broad access to PHI systems? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-ongoing-insider-threat-detection-audit-review-ueb-56807) |
-| Design an anomaly-detection layer over Vault audit logs to catch a service reading 10x its baseline or a human enumerating paths. What signals matter, and how do you keep false positives from causing alert fatigue? | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-anomaly-detection-layer-over-vault-audit-logs-to-catch-a-ser-54972) |
-| How do you architect the audit-log HMAC-key management so you can still correlate logged values back to real secrets during a forensic investigation, while keeping the raw logs privacy-safe day-to-day? | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-audit-log-hmac-key-management-so-you-can-stil-54997) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect DR for a platform serving both real-time operational monitoring (needs low RTO, tolerates data gaps) and forensic security investigation (tolerates higher RTO, needs zero data loss)? These pull RPO/RTO in opposite directions on one platform — how do you split them? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-for-a-platform-serving-both-real-time-operatio-99988) |
-| How do you architect DR so a security incident-response 'freeze everything, preserve forensics' directive doesn't conflict with the need to fail over the observability platform fast — the platform holds the forensic evidence and is also needed live. Reconcile the two imperatives. | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-so-a-security-incident-response-freeze-everyth-100007) |
-| How do you architect DR so that the SIEM/security-observability half of your platform preserves an immutable, tamper-evident audit trail through a disaster, even when the attacker's goal may be to destroy that trail? Reconcile RPO with anti-tampering. | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-so-that-the-siem-security-observability-half-o-99950) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you'd design controls and drills to detect and respond to a slow, low-volume data-exfiltration campaign that stays under per-query rate thresholds for months. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-controls-and-drills-to-detect-and-respond-to--114130) |
-| How do you architect anomaly detection over database access that distinguishes a legitimate new analytics workload from an insider exfiltration campaign at scale? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-anomaly-detection-over-database-access-that-disti-114071) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

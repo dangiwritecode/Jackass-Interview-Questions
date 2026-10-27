@@ -1,26 +1,33 @@
 # Rafay
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 10
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Rafay:** 10
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Rafay's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Rafay: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 2 | 10 | 10 | 10 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a self-service Kubernetes-cluster-as-a-service capability across business units (buy a fleet platform vs build a Cluster-API-based internal offering) when the promise is 'BUs get compliant clusters in minutes'? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-self-service-kubernetes-cluster-a-53797) |
-| You run 12 Kubernetes clusters across 3 cloud accounts — do you buy a managed fleet-control plane (Rafay/Spectro/Anthos) or build on Cluster API + GitOps? Walk the decision across day-2 ops burden and multi-cluster lock-in. | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-run-12-kubernetes-clusters-across-3-cloud-accounts-do-you-buy-a-ma-53723) |
-| Your org standardized on Kubernetes but a large fraction of clusters run at low utilization due to per-cluster control-plane and system-daemon overhead. How would you drive cluster consolidation — fewer bigger clusters vs many small — from a cost and blast-radius view? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-standardized-on-kubernetes-but-a-large-fraction-of-clusters-r-52975) |
-| How do you deal with a strong SRE on another team actively undermining a fleet standard by running an escape-hatch cluster and encouraging others to copy it? What's your escalation ladder and where does it stop being persuasion? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-deal-with-a-strong-sre-on-another-team-actively-undermining-54476) |
-| You and a peer principal in another org disagree on whether to build an internal Kubernetes platform or buy a managed offering (EKS/GKE + vendor add-ons). Both are credible and neither reports to the other. How do you resolve it, and what if you can't agree? | expertise | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-and-a-peer-principal-in-another-org-disagree-on-whether-to-build-a-54443) |
-| You're in a design review where a team is about to run their own snowflake Kubernetes cluster outside the fleet standard, but it's their system and their call. How do you influence the outcome without undermining their ownership? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-in-a-design-review-where-a-team-is-about-to-run-their-own-snowf-54456) |
-| Contrast a shared enterprise Kubernetes paved road with letting teams run their own clusters or go serverless. For a 60-team org, where does the platform abstraction leak, and how do you keep the platform from owning every incident? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-a-shared-enterprise-kubernetes-paved-road-with-letting-teams--53435) |
-| How do you handle Backstage config reload — do you restart pods for app-config changes or hot-reload and what's the risk? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Internal Developer Platform (Backstage) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-backstage-config-reload-do-you-restart-pods-for-app--51797) |
-| You need to show Kubernetes workload health per service in Backstage. How do you configure the Kubernetes plugin across multiple clusters securely? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Internal Developer Platform (Backstage) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-show-kubernetes-workload-health-per-service-in-backstage-h-51740) |
-| How do you design governance for a multi-cluster Kubernetes fleet spanning EKS AKS and GKE? Where does cloud governance end and platform governance begin? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-governance-for-a-multi-cluster-kubernetes-fleet-span-55942) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

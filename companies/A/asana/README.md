@@ -1,83 +1,33 @@
 # Asana
 
-**Tier:** Tier 2  |  **Business domain:** SaaS  |  **Questions:** 37
+**Tier:** Tier 2  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to Asana:** 33
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Asana's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Asana: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 12 | 14 | 7 | 14 |
-| Fullstack | 0 | 0 | 12 | 13 | 2 | 13 |
-| DevOps | 1 | 0 | 1 | 1 | 0 | 1 |
-| ML Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 1 | 5 | 5 | 5 |
-| Data Structures & Algorithms (all profiles) | 3 | 3 | 3 | 3 | 3 | 3 |
+| Backend | 4 | 4 | 30 | 59 | 50 | 60 |
+| Fullstack | 17 | 17 | 52 | 57 | 21 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 42 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A microservice needs to check 'is this user in this project' millions of times. Do you replicate the membership table to each service, expose a query API, or use a shared cache? Compare consistency and failure modes. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-microservice-needs-to-check-is-this-user-in-this-project-millions-of-26156) |
-| A user reports they can still access a project 10 minutes after being removed from it. Roles are in the JWT. Walk through your options to close this gap and the trade-offs of each for a collaboration product. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-user-reports-they-can-still-access-a-project-10-minutes-after-being--26181) |
-| Design how a user's 'active' vs 'invited' vs 'deactivated' account state flows into every authorization check consistently, so a deactivated user can't slip through on a cached token. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-a-user-s-active-vs-invited-vs-deactivated-account-state-flo-26177) |
-| You must add an "owner or same-team member or admin" check to 60 endpoints. How would you express this as a reusable, testable authorization primitive instead of copy-pasted if-statements? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-add-an-owner-or-same-team-member-or-admin-check-to-60-endpoin-26139) |
-| You must model 'org > team > project > resource' permissions where access inherits down but can be overridden at any level, across 10M resources. Design the storage and the effective-access resolution algorithm so a move/re-org doesn't trigger a giant recompute stall. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-model-org-team-project-resource-permissions-where-access-inhe-32787) |
-| You must implement 'move item between two positions' in a persisted ordered list without rewriting every sibling's index; how does fractional/lexicographic indexing work and how does it degrade over many moves? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-implement-move-item-between-two-positions-in-a-persisted-orde-21992) |
-| You must implement server-side 'undo last operation' for a stateful API where operations aren't strictly reversible; what command/log structure and inverse-op modeling makes rollback deterministic? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-implement-server-side-undo-last-operation-for-a-stateful-api--21963) |
-| A single multi-tenant SaaS cluster serves 40000 customers and you cannot attribute cost per tenant. Design the metering and cost-attribution architecture that gives per-tenant COGS accurate enough to inform pricing and churn decisions. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-single-multi-tenant-saas-cluster-serves-40000-customers-and-you-cann-37024) |
-| A hosted MCP server needs an OAuth bearer token that must auto-refresh, but your team keeps trying to use the service's native REST API key and it fails. Explain why these auth systems differ and how you'd store the credential for auto-refresh. | deep understanding | SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-hosted-mcp-server-needs-an-oauth-bearer-token-that-must-auto-refresh-27454) |
-| Design a class model for optimistic mutation with rollback on the client (like a to-do reorder) that must survive a failed server sync and offline; what does the mutation queue and rollback stack look like? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-class-model-for-optimistic-mutation-with-rollback-on-the-clie-22405) |
-| Interviewer: "you finished early — how would you extend this task manager to support team assignment and notifications?" Walk me through the incremental design, not a rewrite. | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-you-finished-early-how-would-you-extend-this-task-manager--21593) |
-| A React table lets users reorder rows via drag-and-drop and persist order — how would you model "position" in MySQL so reorders don't rewrite thousands of rows? | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-react-table-lets-users-reorder-rows-via-drag-and-drop-and-persist-or-24375) |
-| You need to enforce 'only one export job per user at a time' across a fleet — walk through building this on Redis and why a plain SETNX flag can leak locks forever. | intermediate experience | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-enforce-only-one-export-job-per-user-at-a-time-across-a-fl-24646) |
-| A dashboard calls one endpoint that must return today's, this-week's, and this-month's totals. Would you issue three queries, one query with conditional aggregation, or a rollup? Justify the round-trip and readability trade-off. | intermediate experience | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dashboard-calls-one-endpoint-that-must-return-today-s-this-week-s-an-22151) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A drag-and-drop reorder feature recomputes and persists every item's index on each move causing write storms; what ordering scheme (like fractional indexing) fixes this and how does it degrade? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-drag-and-drop-reorder-feature-recomputes-and-persists-every-item-s-i-16103) |
-| Design a class model for optimistic mutation with rollback on the client (like a to-do reorder) that must survive a failed server sync and offline; what does the mutation queue and rollback stack look like? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-class-model-for-optimistic-mutation-with-rollback-on-the-clie-22405) |
-| Build a Kanban board where card moves persist to a backend. The interviewer asks how you do optimistic UI updates and reconcile when the server rejects the move. Walk through it. | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=build-a-kanban-board-where-card-moves-persist-to-a-backend-the-intervi-21526) |
-| Interviewer: "you finished early — how would you extend this task manager to support team assignment and notifications?" Walk me through the incremental design, not a rewrite. | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-you-finished-early-how-would-you-extend-this-task-manager--21593) |
-| Mid-way through building a task manager, the interviewer says "now add recurring tasks." How do you extend your model without breaking existing one-off tasks, and where do you compute the next occurrence? | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=mid-way-through-building-a-task-manager-the-interviewer-says-now-add-r-21518) |
-| You built a kanban board and the interviewer says "add card labels/filters." How do you keep filtering fast and let it compose (filter by label AND assignee)? Where does derived filtered state live? | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-built-a-kanban-board-and-the-interviewer-says-add-card-labels-filt-21599) |
-| You built a task manager and now must add sub-tasks and dependencies. The interviewer asks how you prevent circular dependencies when a user links task A to B to A. Walk through detection. | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-built-a-task-manager-and-now-must-add-sub-tasks-and-dependencies-t-21543) |
-| You built a task manager. The interviewer asks how you'd add bulk operations (select 50 tasks, mark done). How do you keep the UI responsive and the API efficient — one request or many? Explain. | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-built-a-task-manager-the-interviewer-asks-how-you-d-add-bulk-opera-21582) |
-| You have 2 hours to build a Kanban board with drag-and-drop columns. Walk me through how you'd carve the domain model (Board/Column/Card) and the module boundaries before writing a single line of UI. | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-2-hours-to-build-a-kanban-board-with-drag-and-drop-columns-wa-21512) |
-| You're building a kanban board with WIP limits per column. The interviewer asks where you enforce the limit — client, server, or both — and what the failure UX is. Explain your choice. | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-building-a-kanban-board-with-wip-limits-per-column-the-intervie-21549) |
-| A React table lets users reorder rows via drag-and-drop and persist order — how would you model "position" in MySQL so reorders don't rewrite thousands of rows? | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-react-table-lets-users-reorder-rows-via-drag-and-drop-and-persist-or-24375) |
-| A dashboard calls one endpoint that must return today's, this-week's, and this-month's totals. Would you issue three queries, one query with conditional aggregation, or a rollup? Justify the round-trip and readability trade-off. | intermediate experience | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dashboard-calls-one-endpoint-that-must-return-today-s-this-week-s-an-22151) |
-| How do you handle debt in a full-stack system where the frontend has drifted to optimistic UI with client-owned state that no longer matches the backend's source of truth, causing subtle data-integrity bugs? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-debt-in-a-full-stack-system-where-the-frontend-has-d-41470) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What happens in the Plan phase of the DevOps lifecycle? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-happens-in-the-plan-phase-of-the-devops-lifecycle-44726) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a prefix-cache sharing architecture across a multi-tenant fleet where tenants must be isolated for privacy but you still want cross-request KV reuse within a tenant. | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-prefix-cache-sharing-architecture-across-a-multi-tenant-fleet-71178) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An agent needs long-term goals that span many sessions and users (e.g., a project it's "owning"). How do you model persistent goals, ownership handoff, and staleness in the architecture? | expertise | SDE-2/3, Architect/Principal | Agentic System Architecture | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-agent-needs-long-term-goals-that-span-many-sessions-and-users-e-g-a-86991) |
-| How do you architect an agent that must coordinate with humans and other agents on a shared task board — what's the locking, claiming, and progress-visibility model to avoid duplicated work? | deep understanding | SDE-2/3, Architect/Principal | Agentic System Architecture | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-agent-that-must-coordinate-with-humans-and-oth-87004) |
-| Design the org's stance on release-to-release behavioral variance for agents: how do you set stakeholder expectations, contractually bound variance in SLAs, and stop 'it worked yesterday' escalations from consuming your teams? | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-stance-on-release-to-release-behavioral-variance-for--83073) |
-| A PM wants to 'raise the temperature to make answers more helpful.' How do you reframe helpfulness as a prompt and retrieval problem rather than a sampling one? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pm-wants-to-raise-the-temperature-to-make-answers-more-helpful-how-d-77918) |
-| Why can't you just cache everything up to the user turn — what breaks when tool definitions or retrieved chunks change position? | deep understanding | SDE-2/3, Architect/Principal | Prompt Caching Strategy | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-can-t-you-just-cache-everything-up-to-the-user-turn-what-breaks-wh-86533) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Array of Products Excluding Each Position | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Prefix Product, Prefix Sum, Suffix Product | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=array-of-products-excluding-each-position-d238) |
-| Highest Repetition Count of a Repeated Block | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Enumeration, Greedy, String, String Matching | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=highest-repetition-count-of-a-repeated-block-d1589) |
-| The M Nearest Points to the Origin | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Divide and Conquer, Geometry, Heap (Priority Queue), Math, Quickselect, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-m-nearest-points-to-the-origin-d958) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

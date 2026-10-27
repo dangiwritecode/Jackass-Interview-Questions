@@ -1,34 +1,33 @@
 # UBS
 
-**Tier:** Tier 2  |  **Business domain:** Banking/Fintech  |  **Questions:** 6
+**Tier:** Tier 2  |  **Business domain:** Fintech / Banking  |  **Questions listed:** 540  |  **Tagged directly to UBS:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. UBS's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches UBS: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Database Developer | 0 | 3 | 3 | 0 | 0 | 3 |
-| Data Structures & Algorithms (all profiles) | 2 | 2 | 2 | 2 | 2 | 2 |
+| Backend | 3 | 3 | 20 | 59 | 58 | 60 |
+| Fullstack | 19 | 19 | 46 | 55 | 22 | 60 |
+| DevOps | 28 | 20 | 28 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 14 | 60 | 52 | 60 |
+| Data Engineer | 13 | 5 | 42 | 58 | 25 | 60 |
+| Database Developer | 11 | 20 | 21 | 48 | 40 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're standardizing an enterprise-scale Azure landing zone across 40 business units; how do you decide the boundary between a platform team owning management groups/policy and product teams owning subscriptions, and where does that boundary usually break down? | deep understanding | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standardizing-an-enterprise-scale-azure-landing-zone-across-40--54521) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What is an autonomous transaction in PL/SQL and give a realistic case where you would use one to log inside a transaction that later rolls back. | deep understanding | SDE-1, SDE-1/2 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-an-autonomous-transaction-in-pl-sql-and-give-a-realistic-case--106840) |
-| What is package state (package-level variables) in PL/SQL and how can it cause surprising bugs across calls in a connection-pooled app? | expertise | SDE-1, SDE-1/2 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-package-state-package-level-variables-in-pl-sql-and-how-can-it-106846) |
-| What is the difference between the SAVE EXCEPTIONS clause on FORALL and letting the whole batch fail on the first error? | deep understanding | SDE-1, SDE-1/2 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-the-save-exceptions-clause-on-forall-an-106836) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Counting Pairs Reachable Through Each Hub in a Weighted Tree | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Combinatorics, Counting, Depth-First Search, Graph, Tree | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-pairs-reachable-through-each-hub-in-a-weighted-tree-d2798) |
-| Prefix-Based Autocomplete Suggestions | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Heap (Priority Queue), Sorting, String, Trie, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=prefix-based-autocomplete-suggestions-d1228) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

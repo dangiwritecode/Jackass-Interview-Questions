@@ -1,48 +1,33 @@
 # Pusher
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 20
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Pusher:** 14
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Pusher's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Pusher: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 9 | 9 | 1 | 9 |
-| Fullstack | 0 | 0 | 6 | 10 | 5 | 10 |
-| AI Engineer | 1 | 0 | 1 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 48 | 59 | 49 | 60 |
+| Fullstack | 16 | 16 | 51 | 56 | 21 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 4 | 3 | 5 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you decide between websockets on a dedicated fleet versus a managed real-time service for a chat feature expecting 100k concurrent connections? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-websockets-on-a-dedicated-fleet-versus-a--27193) |
-| How do you reason about the space complexity of maintaining per-connection buffers in a WebSocket server for O(connections) clients, and when do you offload state to keep the process memory bounded? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-space-complexity-of-maintaining-per-connec-22084) |
-| Explain how you'd give each WebSocket connection a stable session id that survives reconnects so the server can associate a resumed socket with the same logical session and its unacked queue. | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-give-each-websocket-connection-a-stable-session-id-t-24159) |
-| How would you build a WebSocket layer that can fall back to Server-Sent Events and then to long-polling, and how do you decide the fallback order at runtime? | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-websocket-layer-that-can-fall-back-to-server-sen-17937) |
-| How would you decide between AWS API Gateway WebSockets, a self-managed ws fleet on EC2/EKS, and a SaaS like Ably or Pusher for a new real-time product? Frame it as a build-vs-buy. | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-aws-api-gateway-websockets-a-self-managed-17957) |
-| How would you decide the granularity of a WebSocket topic namespace so that neither too-broad topics cause over-delivery nor too-fine topics cause a subscription explosion in your fan-out registry? | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-granularity-of-a-websocket-topic-namespace-so-24134) |
-| How would you design a client-side message queue with priority so that a critical ack or presence-leave message jumps ahead of bulk chat messages waiting to flush after a reconnect? | intermediate experience | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-client-side-message-queue-with-priority-so-that-24145) |
-| How would you design a fallback where, if the WebSocket cannot be established, the same feature transparently degrades to SSE and then long-polling, sharing one client-side event interface across all three? | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-fallback-where-if-the-websocket-cannot-be-estab-24210) |
-| Your WebSocket gateway holds connection state but your app servers are stateless. How do you route a targeted push from any app server back to the exact gateway node holding that user's socket? | expertise | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-websocket-gateway-holds-connection-state-but-your-app-servers-are-17913) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you use ATAM to evaluate whether a WebSocket-based real-time architecture should move to a managed pub/sub service versus staying self-hosted? Which scenarios expose the scale-out, reconnection-storm, and cost tradeoffs? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-atam-to-evaluate-whether-a-websocket-based-real-time-ar-40589) |
-| Tell me about a time you had to lead the org through deciding how much to invest in a real-time capability (streaming, websockets, live sync) that a few products wanted but that would reshape the whole backbone. How did you decide? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-through-deciding-how-much-40470) |
-| How would you decide between websockets on a dedicated fleet versus a managed real-time service for a chat feature expecting 100k concurrent connections? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-websockets-on-a-dedicated-fleet-versus-a--27193) |
-| You're architecting a WebSocket/SSE fan-out tier that must push updates to 5M concurrent browser connections — how do you shard connections handle a full-tier restart without a reconnect storm and route a targeted message to one user's socket across the fleet? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-architecting-a-websocket-sse-fan-out-tier-that-must-push-update-39431) |
-| How do you architect defense against a CSRF that targets a WebSocket upgrade (cross-site WebSocket hijacking), given the upgrade handshake carries cookies but bypasses CORS? Explain why Origin-checking the handshake is mandatory and how you enforce it fleet-wide. | deep understanding | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-defense-against-a-csrf-that-targets-a-websocket-u-38965) |
-| How would you build a WebSocket layer that can fall back to Server-Sent Events and then to long-polling, and how do you decide the fallback order at runtime? | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-websocket-layer-that-can-fall-back-to-server-sen-17937) |
-| How would you decide between AWS API Gateway WebSockets, a self-managed ws fleet on EC2/EKS, and a SaaS like Ably or Pusher for a new real-time product? Frame it as a build-vs-buy. | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-aws-api-gateway-websockets-a-self-managed-17957) |
-| How would you design a client-side message queue with priority so that a critical ack or presence-leave message jumps ahead of bulk chat messages waiting to flush after a reconnect? | intermediate experience | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-client-side-message-queue-with-priority-so-that-24145) |
-| How would you design a fallback where, if the WebSocket cannot be established, the same feature transparently degrades to SSE and then long-polling, sharing one client-side event interface across all three? | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-fallback-where-if-the-websocket-cannot-be-estab-24210) |
-| Your WebSocket gateway holds connection state but your app servers are stateless. How do you route a targeted push from any app server back to the exact gateway node holding that user's socket? | expertise | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-websocket-gateway-holds-connection-state-but-your-app-servers-are-17913) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Why would a WebSocket or server-sent events be needed to stream chat responses from a cloud-hosted AI backend? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-would-a-websocket-or-server-sent-events-be-needed-to-stream-chat-r-76524) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

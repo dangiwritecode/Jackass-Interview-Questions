@@ -1,31 +1,33 @@
 # Google
 
-**Tier:** Tier 1  |  **Business domain:** Search/Cloud  |  **Questions:** 68,924
+**Tier:** Tier 1  |  **Business domain:** Cloud / Search  |  **Questions listed:** 1,350  |  **Tagged directly to Google:** 63,310
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Google's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Google: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 7032 | 7022 | 11830 | 17047 | 10834 | 17640 |
-| Fullstack | 4355 | 4355 | 6065 | 7995 | 4069 | 8799 |
-| DevOps | 1611 | 19 | 4486 | 7851 | 5137 | 7855 |
-| AIOps | 1028 | 2 | 3144 | 6832 | 4787 | 6854 |
-| Data Engineer | 1545 | 5 | 2578 | 3770 | 2275 | 3970 |
-| Database Developer | 244 | 1281 | 1283 | 2488 | 2484 | 3311 |
-| ML Engineer | 3227 | 2 | 5716 | 8953 | 5289 | 9774 |
-| AI Engineer | 2113 | 4 | 4619 | 8435 | 5941 | 8574 |
-| Data Structures & Algorithms (all profiles) | 2147 | 2147 | 2147 | 2147 | 2147 | 2147 |
+| Backend | 17 | 16 | 35 | 148 | 138 | 150 |
+| Fullstack | 67 | 67 | 131 | 143 | 28 | 150 |
+| DevOps | 23 | 15 | 79 | 149 | 105 | 150 |
+| AIOps | 4 | 2 | 30 | 150 | 132 | 150 |
+| Data Engineer | 11 | 4 | 44 | 149 | 112 | 150 |
+| Database Developer | 7 | 17 | 18 | 136 | 134 | 150 |
+| ML Engineer | 0 | 0 | 0 | 150 | 150 | 150 |
+| AI Engineer | 4 | 3 | 19 | 150 | 144 | 150 |
+| Data Structures & Algorithms (all profiles) | 150 | 150 | 150 | 150 | 150 | 150 |
 
 ## Question lists
 
-- [Backend](backend.md) — 17,640 questions
-- [Fullstack](fullstack.md) — 8,799 questions
-- [DevOps](devops.md) — 7,855 questions
-- [AIOps](aiops.md) — 6,854 questions
-- [Data Engineer](data-engineer.md) — 3,970 questions
-- [Database Developer](database-developer.md) — 3,311 questions
-- [ML Engineer](ml-engineer.md) — 9,774 questions
-- [AI Engineer](ai-engineer.md) — 8,574 questions
-- [Data Structures & Algorithms](dsa.md) — 2,147 questions
+- [Backend](backend.md) — 150 questions (top 150 of 17,640 tagged — open any one in Locus to filter the rest)
+- [Fullstack](fullstack.md) — 150 questions (top 150 of 8,799 tagged — open any one in Locus to filter the rest)
+- [DevOps](devops.md) — 150 questions (top 150 of 7,855 tagged — open any one in Locus to filter the rest)
+- [AIOps](aiops.md) — 150 questions (top 150 of 6,854 tagged — open any one in Locus to filter the rest)
+- [Data Engineer](data-engineer.md) — 150 questions (top 150 of 3,970 tagged — open any one in Locus to filter the rest)
+- [Database Developer](database-developer.md) — 150 questions (top 150 of 3,311 tagged — open any one in Locus to filter the rest)
+- [ML Engineer](ml-engineer.md) — 150 questions (top 150 of 9,774 tagged — open any one in Locus to filter the rest)
+- [AI Engineer](ai-engineer.md) — 150 questions (top 150 of 8,574 tagged — open any one in Locus to filter the rest)
+- [Data Structures & Algorithms](dsa.md) — 150 questions

@@ -1,52 +1,33 @@
 # Crusoe
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 30
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Crusoe:** 30
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Crusoe's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Crusoe: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 4 | 15 | 14 | 15 |
-| AI Engineer | 0 | 0 | 0 | 15 | 15 | 15 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 4 | 60 | 59 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for GPU capacity itself: reserved/committed cloud capacity vs on-demand vs a neocloud (CoreWeave/Lambda) vs buying physical hardware in a colo — how do you model the capex-vs-opex and utilization break-even over 3 years? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-gpu-capacity-itself-reserved-commit-69791) |
-| An interviewer asks how you'd govern GPU-cluster access as a compliance control — thousands of engineers sharing scarce accelerators where a job can exfiltrate training data. What isolation attribution and JIT-access design keeps SOC2 access controls intact? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-gpu-cluster-access-as-a-complianc-69999) |
-| How would you measure and bound GPU memory so that a FastAPI service handling variable-length inputs does not OOM the GPU when several large inputs arrive at once? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-measure-and-bound-gpu-memory-so-that-a-fastapi-service-h-62926) |
-| Explain your approach to reserving InfiniBand/NVLink network capacity as a scarce resource distinct from GPU count. | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-approach-to-reserving-infiniband-nvlink-network-capacity--71890) |
-| How do you build a capacity model that treats carbon footprint and energy efficiency as explicit optimization targets? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-capacity-model-that-treats-carbon-footprint-and-ene-71953) |
-| How do you decide when idle GPU capacity should be sold/lent externally versus held as strategic reserve? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-idle-gpu-capacity-should-be-sold-lent-externall-71916) |
-| How do you plan power and cooling capacity as a first-class constraint when a single H100 rack can pull 40kW+? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-power-and-cooling-capacity-as-a-first-class-constraint-71876) |
-| How would you compare renting a fully-managed GPU cluster versus assembling bare-metal capacity yourself in terms of long-term flexibility? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compare-renting-a-fully-managed-gpu-cluster-versus-assem-71930) |
-| How would you decide between building your own GPU datacenter, colocating, and renting from a neocloud like CoreWeave or Lambda? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-building-your-own-gpu-datacenter-colocati-71871) |
-| How would you make the case to insource GPU capacity after years of cloud rental, and what breakeven analysis drives it? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-make-the-case-to-insource-gpu-capacity-after-years-of-cl-71963) |
-| How would you plan capacity for a hybrid setup that keeps baseline load on-prem and bursts to cloud for peaks? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-plan-capacity-for-a-hybrid-setup-that-keeps-baseline-loa-71942) |
-| What's your approach to modeling total cost of ownership for on-prem GPU clusters including power, cooling, staff, and depreciation? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-modeling-total-cost-of-ownership-for-on-prem-g-71910) |
-| Explain how you would checkpoint and resume a long RLHF training job across preemptible or spot GPUs. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-checkpoint-and-resume-a-long-rlhf-training-job-a-68095) |
-| How do you estimate the compute budget and wall-clock time for an RLHF run before committing GPUs to it? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-estimate-the-compute-budget-and-wall-clock-time-for-an-rlhf-68105) |
-| What tokens-per-second and GPU-hours targets would you set for an SFT job, and how do you profile to hit them? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-tokens-per-second-and-gpu-hours-targets-would-you-set-for-an-sft--68140) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for GPU inference capacity itself — committed cloud reservations vs on-demand vs a neocloud (CoreWeave/Lambda/Crusoe) vs colo hardware — and how do you model utilization break-even over a three-year GenAI roadmap? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-gpu-inference-capacity-itself-commi-83757) |
-| How do you decide the right hedge ratio between a single large committed cloud contract and a portfolio of smaller flexible ones? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-right-hedge-ratio-between-a-single-large-committ-86663) |
-| How do you plan capacity for a fleet that must simultaneously optimize for cost, latency, and carbon under conflicting constraints? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-for-a-fleet-that-must-simultaneously-optimize-86719) |
-| How do you plan capacity when the binding constraint shifts from GPU supply to grid power availability at your chosen datacenter site? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-when-the-binding-constraint-shifts-from-gpu-s-86671) |
-| How would you architect a capacity plan across three clouds where each offers different GPU generations at different committed-use discounts? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-capacity-plan-across-three-clouds-where-each-86661) |
-| How would you factor PUE and cooling overhead into your true cost-per-GPU-hour when comparing datacenter options? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-factor-pue-and-cooling-overhead-into-your-true-cost-per--86673) |
-| What's your approach to capacity planning when different geographies have wildly different GPU prices and availability? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-capacity-planning-when-different-geographies-h-86696) |
-| What's your approach to capacity planning when GPU thermal throttling silently reduces effective compute during summer peak temperatures? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-capacity-planning-when-gpu-thermal-throttling--86674) |
-| What's your approach to placing capacity on a neocloud versus a hyperscaler when the neocloud is cheaper but has weaker reliability guarantees? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-placing-capacity-on-a-neocloud-versus-a-hypers-86662) |
-| What's your framework for deciding whether to invest in liquid cooling now to unlock denser GPU capacity later? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-deciding-whether-to-invest-in-liquid-cooling-86672) |
-| What's your framework for shifting flexible batch workloads to times/regions with cheaper or greener power to reclaim effective capacity? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-shifting-flexible-batch-workloads-to-times-r-86720) |
-| What's your process for sizing the power envelope of a new cluster given a datacenter's hard megawatt ceiling constrains GPU count before budget does? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-process-for-sizing-the-power-envelope-of-a-new-cluster-giv-86670) |
-| How do you estimate steady-state throughput of a self-hosted 70B model on H100s and validate that estimate before signing a reserved-capacity contract? | expertise | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-estimate-steady-state-throughput-of-a-self-hosted-70b-model-86343) |
-| How do you plan token throughput headroom for a launch spike when you can't get on-demand GPU capacity guarantees from your cloud? | expertise | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-token-throughput-headroom-for-a-launch-spike-when-you--86376) |
-| A bar-raiser asks: how do you architect burst-to-cloud overflow for attention-heavy inference when on-prem GPUs saturate, and what breaks the illusion of seamlessness (cold KV, warmup)? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-do-you-architect-burst-to-cloud-overflow-for-att-84304) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

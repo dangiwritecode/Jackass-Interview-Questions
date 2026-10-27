@@ -1,57 +1,33 @@
 # Dgraph
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 23
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Dgraph:** 22
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Dgraph's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Dgraph: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 15 | 15 | 1 | 15 |
-| Fullstack | 0 | 0 | 1 | 2 | 1 | 2 |
-| AIOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| Database Developer | 0 | 0 | 0 | 5 | 5 | 5 |
+| Backend | 4 | 4 | 50 | 59 | 43 | 60 |
+| Fullstack | 17 | 17 | 50 | 56 | 21 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 21 | 60 | 44 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your service builds a big adjacency structure per request from normalized rows and it's slow; how do you decide between precomputing a materialized graph and building on the fly given the read/write ratio? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-service-builds-a-big-adjacency-structure-per-request-from-normali-21999) |
-| A service allocates heavily on the hot path and GC CPU is 30% of total. Walk me through using pprof allocs and escape analysis output to cut allocations without a rewrite. | deep understanding | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-service-allocates-heavily-on-the-hot-path-and-gc-cpu-is-30-of-total--23033) |
-| Design a safe CGO boundary in a Go service that must call a C library. What are the costs of each cgo call, how do you avoid pinning issues and goroutine-thread affinity problems, and when do you avoid cgo entirely? | expertise | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-safe-cgo-boundary-in-a-go-service-that-must-call-a-c-library--23100) |
-| Explain false sharing in Go structs on a hot concurrent counter and how you'd use cache-line padding (or atomic sharding) to fix it. How would you even confirm false sharing is the problem? | expertise | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-false-sharing-in-go-structs-on-a-hot-concurrent-counter-and-ho-23043) |
-| Explain runtime.LockOSThread and when a Go service actually needs it (e.g. thread-local state in a C lib, or graphics/signal handling). What's the cost to the scheduler when you pin goroutines to threads? | expertise | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-runtime-lockosthread-and-when-a-go-service-actually-needs-it-e-23101) |
-| How does Go's slice-of-pointers vs slice-of-values choice affect GC scan time and cache locality at scale? When would you switch a []*T hot path to []T (or an arena/columnar layout) and how do you measure the win? | expertise | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-go-s-slice-of-pointers-vs-slice-of-values-choice-affect-gc-sc-23127) |
-| Using the Go memory model, explain why a value written under a mutex is guaranteed visible to another goroutine that later takes the same mutex, but a plain flag read in a spin loop may never observe the write. | expertise | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=using-the-go-memory-model-explain-why-a-value-written-under-a-mutex-is-23046) |
-| Walk me through interface internals: what do the itab and data pointers hold, why does putting a value in an interface often force a heap allocation, and how does that show up in escape analysis? | expertise | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-interface-internals-what-do-the-itab-and-data-pointers-23066) |
-| What is goroutine preemption in modern Go (asynchronous preemption since 1.14), and how did the old cooperative-only model let a tight loop with no function calls starve the scheduler? | expertise | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-goroutine-preemption-in-modern-go-asynchronous-preemption-sinc-23036) |
-| You see runtime.futex and sync.(*Mutex).lockSlow high in the profile. How do you tell lock contention apart from channel contention, and what's your playbook to reduce it (shard, reduce critical section, lock-free)? | deep understanding | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-see-runtime-futex-and-sync-mutex-lockslow-high-in-the-profile-how--23095) |
-| You're benchmarking two implementations and the compiler is optimizing away the work. Explain how to prevent that (sink variables, testing.B loop discipline) and how to make benchstat comparisons statistically meaningful. | deep understanding | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-benchmarking-two-implementations-and-the-compiler-is-optimizing-23113) |
-| Your generic function compiles but performs worse than the interface version you replaced. Explain Go's GC-shape stenciling / dictionary approach to generics and when generics add indirection instead of removing it. | expertise | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-generic-function-compiles-but-performs-worse-than-the-interface-v-23073) |
-| Under sustained load a Go service's tail latency spikes every few seconds. How do you profile whether it's GC stop-the-world, goroutine scheduling latency (GOMAXPROCS), or a mutex convoy — using pprof and the runtime trace? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=under-sustained-load-a-go-service-s-tail-latency-spikes-every-few-seco-29968) |
-| A graph traversal feature is O(V + E) in theory but slow in prod because the graph is stored in a relational table; how does the storage layout change the effective complexity and what would you do? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-graph-traversal-feature-is-o-v-e-in-theory-but-slow-in-prod-because--16153) |
-| How do you reason about the complexity of a graph traversal feature stored in a relational DB, where the theoretical O(V+E) is dominated by per-edge query round-trips, and when to switch to a graph DB or CTE? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-a-graph-traversal-feature-st-22082) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Tell me about a time you had to lead the org's decision on how much to invest in a graph/relationship data layer versus modeling relationships in existing stores. How did you evaluate whether the problem was truly graph-shaped? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-s-decision-on-how-much-to-40510) |
-| A graph traversal feature is O(V + E) in theory but slow in prod because the graph is stored in a relational table; how does the storage layout change the effective complexity and what would you do? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-graph-traversal-feature-is-o-v-e-in-theory-but-slow-in-prod-because--16153) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An architecture review asks whether topology should live in a graph DB, a columnar store, or a purpose-built engine. Lay out the decision framework and where each breaks at your scale. | deep understanding | SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-architecture-review-asks-whether-topology-should-live-in-a-graph-db-102047) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A graph database must answer authorization traversals; explain why a partition that isolates part of the graph can produce a wrong 'access denied' or 'access granted' depending on your CAP choice, and how you make the safe default explicit. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-graph-database-must-answer-authorization-traversals-explain-why-a-pa-111553) |
-| Architect the consistency posture for a graph database backing an identity/permissions system where a stale 'access revoked' read is a security incident. Explain why revocation must be linearizable while grant lookups can be bounded-stale, and how you split the two paths. | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-consistency-posture-for-a-graph-database-backing-an-iden-112210) |
-| A well-liked team wants to adopt a shiny new graph database you believe adds long-term operational burden the DB platform can't sustain org-wide. How do you say no while keeping their trust intact? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-well-liked-team-wants-to-adopt-a-shiny-new-graph-database-you-believ-113174) |
-| How do you architect HA for a graph database or a specialized store that lacks mature native replication? What compensating patterns (dual-write, CDC replay, rebuild-from-source) do you accept? | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-ha-for-a-graph-database-or-a-specialized-store-th-114711) |
-| Explain how you'd choose between snapshot isolation and serializable for a graph database traversal where nodes are being concurrently rewired. What anomalies are graph-specific? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-choose-between-snapshot-isolation-and-serializable-f-113698) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,31 +1,33 @@
 # Samsung
 
-**Tier:** Tier 2  |  **Business domain:** Semiconductors  |  **Questions:** 791
+**Tier:** Tier 2  |  **Business domain:** Semiconductors  |  **Questions listed:** 810  |  **Tagged directly to Samsung:** 537
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Samsung's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Samsung: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 253 | 253 | 181 | 185 | 15 | 265 |
-| Fullstack | 250 | 250 | 175 | 177 | 10 | 257 |
-| DevOps | 1 | 1 | 1 | 3 | 3 | 4 |
-| AIOps | 0 | 0 | 0 | 3 | 3 | 3 |
-| Data Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 83 | 0 | 135 | 174 | 50 | 174 |
-| AI Engineer | 1 | 0 | 8 | 36 | 30 | 36 |
-| Data Structures & Algorithms (all profiles) | 49 | 49 | 49 | 49 | 49 | 49 |
+| Backend | 143 | 143 | 104 | 106 | 7 | 150 |
+| Fullstack | 149 | 149 | 103 | 101 | 1 | 150 |
+| DevOps | 6 | 2 | 17 | 59 | 45 | 60 |
+| AIOps | 0 | 0 | 3 | 60 | 57 | 60 |
+| Data Engineer | 12 | 5 | 34 | 58 | 29 | 60 |
+| Database Developer | 13 | 13 | 14 | 55 | 47 | 60 |
+| ML Engineer | 73 | 0 | 111 | 150 | 45 | 150 |
+| AI Engineer | 1 | 0 | 10 | 60 | 53 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
 ## Question lists
 
-- [Backend](backend.md) — 265 questions
-- [Fullstack](fullstack.md) — 257 questions
-- [DevOps](devops.md) — 4 questions
-- [AIOps](aiops.md) — 3 questions
-- [Data Engineer](data-engineer.md) — 2 questions
-- [Database Developer](database-developer.md) — 1 questions
-- [ML Engineer](ml-engineer.md) — 174 questions
-- [AI Engineer](ai-engineer.md) — 36 questions
-- [Data Structures & Algorithms](dsa.md) — 49 questions
+- [Backend](backend.md) — 150 questions (top 150 of 265 tagged — open any one in Locus to filter the rest)
+- [Fullstack](fullstack.md) — 150 questions (top 150 of 257 tagged — open any one in Locus to filter the rest)
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 150 questions (top 150 of 174 tagged — open any one in Locus to filter the rest)
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

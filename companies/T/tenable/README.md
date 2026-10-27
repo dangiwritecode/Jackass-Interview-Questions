@@ -1,28 +1,33 @@
 # Tenable
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 12
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Tenable:** 12
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Tenable's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Tenable: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 5 | 12 | 12 | 12 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 36 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An interviewer challenges: 'your continuous-control-monitoring dashboard is green but you just had a breach.' Diagnose the class of failure where CCM gives false assurance and how you'd architect controls whose green truly implies safe. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-continuous-control-monitoring-dashboard-54047) |
-| Design an org-wide vulnerability-management SLA framework tied to exploitability and business criticality — how do you make teams accountable without gaming? | expertise | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-org-wide-vulnerability-management-sla-framework-tied-to-expl-55030) |
-| Explain mean-time-to-remediate for vulnerabilities — how do you measure it honestly and drive it down? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-mean-time-to-remediate-for-vulnerabilities-how-do-you-measure--50693) |
-| How do you approach vulnerability triage at scale — thousands of findings across images, hosts, and code — so the team fixes the ones that actually matter? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-vulnerability-triage-at-scale-thousands-of-finding-50655) |
-| How do you handle security patching for a fleet of hundreds of EC2/VM instances without downtime, and how do you verify the patch actually landed? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-security-patching-for-a-fleet-of-hundreds-of-ec2-vm--50661) |
-| How do you scan Terraform/IaC for misconfigurations before apply, and give an example of a misconfig your scan caught that would've been a real breach. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-scan-terraform-iac-for-misconfigurations-before-apply-and-g-50649) |
-| What's the difference between CVSS score and actual exploitability, and how do you use EPSS or KEV data to reprioritize your backlog? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-difference-between-cvss-score-and-actual-exploitability-and-50656) |
-| You're building a threat-intelligence-driven prioritization pipeline (KEV/EPSS/vendor feeds) — how do you architect it to auto-reprioritize the fleet's remediation backlog? | expertise | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-building-a-threat-intelligence-driven-prioritization-pipeline-k-55092) |
-| Describe how you'd implement Plan of Action and Milestones (POA&M) tracking that stays synchronized with your actual vulnerability-management and Jira workflows. | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-implement-plan-of-action-and-milestones-poa-and-m-t-56744) |
-| How do you architect the split between the 3PAO's independent assessment tooling and your own ConMon so you're not fighting over conflicting scan results? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-split-between-the-3pao-s-independent-assessme-56764) |
-| How do you handle vulnerability-scan false positives at scale so that your POA&M isn't drowning in noise that erodes auditor and leadership trust? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-vulnerability-scan-false-positives-at-scale-so-that--56754) |
-| You inherit thousands of IAM roles that accreted permissions over years. Design the architecture and continuous automated process to right-size privilege fleet-wide without breaking running workloads, and prove privilege reduction quarter over quarter to leadership. | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-thousands-of-iam-roles-that-accreted-permissions-over-year-53997) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

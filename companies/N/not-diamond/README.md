@@ -1,56 +1,33 @@
 # Not Diamond
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 28
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Not Diamond:** 28
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Not Diamond's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Not Diamond: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 1 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 4 | 7 | 5 | 7 |
-| AI Engineer | 0 | 0 | 8 | 20 | 18 | 20 |
+| Backend | 4 | 4 | 43 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 4 | 60 | 58 | 60 |
+| AI Engineer | 3 | 3 | 11 | 60 | 56 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a request-router that picks among GPT-class, mid, and small models per request based on difficulty and SLA. How do you classify difficulty cheaply? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-request-router-that-picks-among-gpt-class-mid-and-small-model-30883) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle the cost/latency trade-off when a FastAPI endpoint can call either a small fast model or a large accurate one, and you want to route based on input difficulty? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-cost-latency-trade-off-when-a-fastapi-endpoint-c-62951) |
-| How would you set the org policy on model routing (small-model-first with escalation) and quantify the cost/quality trade-off of routing errors at fleet scale? | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-the-org-policy-on-model-routing-small-model-first-wi-71243) |
-| You mix a cheap model for easy cases and an expensive model for hard ones with a router. How do you measure the router's added quality regression versus just always using the expensive model? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-mix-a-cheap-model-for-easy-cases-and-an-expensive-model-for-hard-o-64088) |
-| How would you design a model-routing layer that classifies difficulty and sends easy queries to a cheap model while keeping a bounded escalation rate under load? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-model-routing-layer-that-classifies-difficulty--63818) |
-| How would you design an inference gateway that routes 'easy' requests to a small model and 'hard' ones to a big model, and how do you classify difficulty within a few milliseconds? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-inference-gateway-that-routes-easy-requests-to-64698) |
-| How do you architect a system that dynamically routes each request between a cheap small model and an expensive large model based on difficulty and business value while staying within budget? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-system-that-dynamically-routes-each-request-bet-70526) |
-| How would you architect a model-router that picks among small, medium, and large Transformers per request based on difficulty, SLA, and cost? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-model-router-that-picks-among-small-medium-a-70442) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a distillation/model-cascade capability that routes easy queries to a cheap small model and hard ones to a frontier model (buy a routing product vs build a trained router) when routing accuracy directly governs your cost-per-request? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-distillation-model-cascade-capabi-83810) |
-| How do you frame the build-vs-buy call for a multi-model router (buy a managed routing/gateway product vs build your own policy-driven router) when routing decisions must factor per-query cost, quality, latency SLOs, and provider outages simultaneously? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-frame-the-build-vs-buy-call-for-a-multi-model-router-buy-a--83733) |
-| How would you deploy a new LLM router (model-selection logic) so that a routing bug can only send a small fraction of traffic to the wrong/expensive model before you catch it? | deep understanding | SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-deploy-a-new-llm-router-model-selection-logic-so-that-a--77640) |
-| How do you evaluate a multi-model routing layer itself — that it sends each request to the right model — separately from the models it routes to? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-a-multi-model-routing-layer-itself-that-it-sends-e-86851) |
-| How would you architect an eval platform to route different prompt types to the cheapest judge that is still accurate enough, as a multi-model routing problem? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-eval-platform-to-route-different-prompt-typ-86846) |
-| How would you architect an inference gateway that does semantic routing — classifying each prompt to the cheapest capable model in milliseconds — and defend how you prevent the router itself from becoming the accuracy bottleneck of the whole system? | expertise | SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-inference-gateway-that-does-semantic-routin-83149) |
-| How would you model the GPU capacity needed for a multi-model routing system where cheap and expensive models absorb different traffic shares? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-the-gpu-capacity-needed-for-a-multi-model-routing--86643) |
-| How do you decide whether to invest in a router/mixture-of-models buy strategy versus consolidating on fewer models — what complexity cost does routing add? | deep understanding | SDE-2/3, Architect/Principal | LLM Architecture Selection (Build vs Buy vs Fine-tune) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-to-invest-in-a-router-mixture-of-models-buy--86287) |
-| Describe a model router: how would you route easy queries to a cheap model and hard queries to an expensive one, and how do you decide the difficulty online? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLM Cost & Latency Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-model-router-how-would-you-route-easy-queries-to-a-cheap-mo-81532) |
-| You're setting the multi-model routing strategy for the whole org. How do the KV-cache and prefix-locality implications shape which model a request should land on, beyond just quality and price? | expertise | SDE-2/3, Architect/Principal | LLM Serving & KV Cache | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-setting-the-multi-model-routing-strategy-for-the-whole-org-how--85347) |
-| How would you architect the platform so a product team can express 'route to the cheapest model that scores above threshold X on my eval' as a declarative policy, and the platform re-optimizes routing automatically as new cheaper models qualify? | expertise | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-platform-so-a-product-team-can-express-rou-83525) |
-| You must architect a serving path where a difficulty-router learns from outcomes (was the cheap model's answer accepted?) to improve routing over time. How do you close that feedback loop safely without the router drifting into serving everything on the expensive model? | expertise | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-a-serving-path-where-a-difficulty-router-learns-fro-83456) |
-| Describe how you would set up an LLM router that sends easy requests to a small cheap model and hard ones to a large model while staying within a cost budget. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-set-up-an-llm-router-that-sends-easy-requests-t-79517) |
-| How would you architect a pipeline that combines a small local model for cheap filtering and a large model only for hard cases? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-pipeline-that-combines-a-small-local-model-f-79594) |
-| What is your governance approach for the risk that a model routing layer sends a high-stakes query to a cheaper less-capable model to save cost? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-governance-approach-for-the-risk-that-a-model-routing-lay-86152) |
-| How would you monitor an LLM router that does semantic routing (classify intent, pick model)? What metrics show the router is misclassifying and sending easy queries to an expensive model, or hard queries to a weak one, before cost or quality visibly moves? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-an-llm-router-that-does-semantic-routing-classif-78875) |
-| On this project, you introduced a model-routing layer sending easy queries to a cheap model; how did you classify difficulty, and how often did routing send the wrong model? | deep understanding | SDE-1/2, SDE-2/3 | Projects (Resume Deep-Dive) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=on-this-project-you-introduced-a-model-routing-layer-sending-easy-quer-78626) |
-| How would you implement a Python model-routing layer that sends easy queries to a small model and hard ones to a large model, and how do you decide the routing signal without adding a full extra LLM call? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-a-python-model-routing-layer-that-sends-easy-q-76900) |
-| How would you architect a tiered LLM cascade where a cheap small model handles most queries and only escalates to a large model when needed? How do you decide the escalation trigger? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-tiered-llm-cascade-where-a-cheap-small-model-79050) |
-| How would you architect a multi-model router that trades quality against attention/serving cost per request, and prove to leadership the cascade never regresses the p99 worst-case answer? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-multi-model-router-that-trades-quality-again-84245) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

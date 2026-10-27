@@ -1,29 +1,33 @@
 # Wise
 
-**Tier:** Tier 2  |  **Business domain:** Fintech  |  **Questions:** 389
+**Tier:** Tier 2  |  **Business domain:** Fintech  |  **Questions listed:** 645  |  **Tagged directly to Wise:** 378
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Wise's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Wise: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
 | Backend | 2 | 2 | 53 | 149 | 116 | 149 |
-| Fullstack | 1 | 1 | 11 | 59 | 53 | 59 |
-| DevOps | 0 | 0 | 0 | 23 | 23 | 23 |
+| Fullstack | 2 | 2 | 11 | 60 | 53 | 60 |
+| DevOps | 28 | 20 | 28 | 58 | 47 | 60 |
+| AIOps | 3 | 2 | 14 | 60 | 52 | 60 |
 | Data Engineer | 0 | 0 | 25 | 67 | 44 | 67 |
 | Database Developer | 0 | 12 | 12 | 57 | 57 | 69 |
-| ML Engineer | 0 | 0 | 8 | 15 | 7 | 15 |
-| AI Engineer | 0 | 0 | 2 | 3 | 2 | 3 |
-| Data Structures & Algorithms (all profiles) | 4 | 4 | 4 | 4 | 4 | 4 |
+| ML Engineer | 0 | 0 | 8 | 60 | 52 | 60 |
+| AI Engineer | 0 | 0 | 2 | 60 | 59 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
 ## Question lists
 
 - [Backend](backend.md) — 149 questions
-- [Fullstack](fullstack.md) — 59 questions
-- [DevOps](devops.md) — 23 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
 - [Data Engineer](data-engineer.md) — 67 questions
 - [Database Developer](database-developer.md) — 69 questions
-- [ML Engineer](ml-engineer.md) — 15 questions
-- [AI Engineer](ai-engineer.md) — 3 questions
-- [Data Structures & Algorithms](dsa.md) — 4 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

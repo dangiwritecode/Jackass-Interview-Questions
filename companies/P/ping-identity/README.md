@@ -1,74 +1,33 @@
 # Ping Identity
 
-**Tier:** Tier 2  |  **Business domain:** Security  |  **Questions:** 34
+**Tier:** Tier 2  |  **Business domain:** Security  |  **Questions listed:** 540  |  **Tagged directly to Ping Identity:** 31
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Ping Identity's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Ping Identity: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 6 | 9 | 6 | 9 |
-| Fullstack | 0 | 0 | 3 | 7 | 4 | 7 |
-| DevOps | 0 | 0 | 1 | 16 | 16 | 16 |
-| AIOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 0 | 0 | 7 | 60 | 57 | 60 |
+| Fullstack | 6 | 6 | 43 | 60 | 21 | 60 |
+| DevOps | 6 | 4 | 20 | 60 | 54 | 60 |
+| AIOps | 0 | 0 | 5 | 60 | 57 | 60 |
+| Data Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Database Developer | 0 | 0 | 0 | 60 | 60 | 60 |
+| ML Engineer | 0 | 0 | 9 | 60 | 51 | 60 |
+| AI Engineer | 1 | 1 | 9 | 60 | 56 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design authentication that must interoperate with a legacy LDAP/Active Directory for some tenants and modern OIDC for others, presenting a single login endpoint to the app? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-authentication-that-must-interoperate-with-a-lega-26195) |
-| You have three business units each running a different SSO provider (Okta, Azure AD, Ping) after acquisitions. Design a federation-of-federations strategy so a single employee can move between BUs, and explain the trust and governance model. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-three-business-units-each-running-a-different-sso-provider-ok-32716) |
-| You're introducing token binding so a stolen access token can't be replayed from a different client. How would you bind a token to a TLS channel or DPoP proof and what does it cost you operationally? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-introducing-token-binding-so-a-stolen-access-token-can-t-be-rep-26133) |
-| Your service accepts tokens from a partner IdP via federation. The partner's token includes group claims you map to your roles. How do you handle a partner renaming a group without silently escalating or dropping access? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-service-accepts-tokens-from-a-partner-idp-via-federation-the-part-26214) |
-| How do you architect a globally distributed authorization/entitlements service such that a partition can never grant an entitlement that was just revoked, while still staying available for the far more common allow-decisions? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-globally-distributed-authorization-entitlements-32260) |
-| Contrast a centralized enterprise identity/authorization model (single IdP, central policy) with a federated per-domain model for service-to-service auth across many teams and a few vendor systems. Where does centralization become a single point of failure and a velocity tax? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-a-centralized-enterprise-identity-authorization-model-single--36394) |
-| A downstream service naively trusts the sub claim to find the user but two IdPs can issue the same sub. How do you design a globally unique user identity across multiple identity providers? | deep understanding | SDE-1/2, SDE-2/3 | JWT/OAuth/Sessions | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-service-naively-trusts-the-sub-claim-to-find-the-user-but-19054) |
-| You need to support B2B customers who bring their own IdP (BYO-SSO) and want to enforce their own session timeouts and MFA rules per tenant. Design where those policies live and how they're enforced. | expertise | SDE-1/2, SDE-2/3 | JWT/OAuth/Sessions | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-support-b2b-customers-who-bring-their-own-idp-byo-sso-and--19073) |
-| Your OAuth authorization server is a single point of failure — if it's down nobody can log in or refresh. How would you design for graceful degradation so existing sessions survive an AS outage? | deep understanding | SDE-1/2, SDE-2/3 | JWT/OAuth/Sessions | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-oauth-authorization-server-is-a-single-point-of-failure-if-it-s-d-19017) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| An interviewer probes: "your enterprise gateway does JWT validation on every request but the auth service is a hard dependency — how do you make auth resilient so an IdP blip doesn't take down the whole company?" Design the caching/offline-validation strategy. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-enterprise-gateway-does-jwt-validation-on-e-40807) |
-| How do you architect an enterprise-wide authentication and session strategy spanning web SPAs, mobile apps, server-side rendering, and machine-to-machine, standardizing on OIDC/OAuth2 without every team reinventing token refresh and silent-renew bugs? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-enterprise-wide-authentication-and-session-str-40727) |
-| A downstream service naively trusts the sub claim to find the user but two IdPs can issue the same sub. How do you design a globally unique user identity across multiple identity providers? | deep understanding | SDE-1/2, SDE-2/3 | JWT/OAuth/Sessions | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-service-naively-trusts-the-sub-claim-to-find-the-user-but-19054) |
-| You need to support B2B customers who bring their own IdP (BYO-SSO) and want to enforce their own session timeouts and MFA rules per tenant. Design where those policies live and how they're enforced. | expertise | SDE-1/2, SDE-2/3 | JWT/OAuth/Sessions | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-support-b2b-customers-who-bring-their-own-idp-byo-sso-and--19073) |
-| Your OAuth authorization server is a single point of failure — if it's down nobody can log in or refresh. How would you design for graceful degradation so existing sessions survive an AS outage? | deep understanding | SDE-1/2, SDE-2/3 | JWT/OAuth/Sessions | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-oauth-authorization-server-is-a-single-point-of-failure-if-it-s-d-19017) |
-| You're consolidating three separate identity systems inherited from acquisitions into one. How do you design the account-linking and de-duplication so that a user who exists in all three doesn't end up with a merged account they can't recover, and how do you sequence the cutover? | deep understanding | SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-consolidating-three-separate-identity-systems-inherited-from-ac-38218) |
-| Your authentication and session logic is duplicated across every frontend and every service, each subtly different — a security-relevant debt. How do you consolidate to a single identity layer without a big-bang cutover that risks locking users out? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-authentication-and-session-logic-is-duplicated-across-every-front-41426) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your identity provider (SSO/IdP) is the single point of failure for both humans and workloads during a disaster. How do you architect around that in your BCP? | expertise | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-identity-provider-sso-idp-is-the-single-point-of-failure-for-both-56944) |
-| How would you architect a phased rollout of passwordless, phishing-resistant (FIDO2/passkey) auth for all workforce access to cloud consoles, and what's the fallback story for the inevitable devices that can't support it? | deep understanding | SDE-2/3, Architect/Principal | Cloud IAM & Access Management | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-phased-rollout-of-passwordless-phishing-resi-54796) |
-| Your platform must support both workforce identity (engineers) and workload identity (services) with wildly different lifecycles and risk. How do you architect the two planes so a compromise in one can't grant the other's privileges? | expertise | SDE-2/3, Architect/Principal | Cloud IAM & Access Management | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-platform-must-support-both-workforce-identity-engineers-and-workl-54766) |
-| Explain your identity foundation: how do you federate SSO (IAM Identity Center / Entra ID) across the org, and how do permission sets map to OUs and job functions without permission sprawl? | deep understanding | SDE-2/3, Architect/Principal | Landing Zones & Cloud Foundations | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-identity-foundation-how-do-you-federate-sso-iam-identity--56038) |
-| Your CISO mandates a single identity fabric across three clouds and on-prem; how do you architect the trust hierarchy so no single cloud's IdP outage locks everyone out? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-ciso-mandates-a-single-identity-fabric-across-three-clouds-and-on-55239) |
-| How do you architect a FedRAMP-aligned identity federation to agency IdPs (PIV/CAC) while keeping your internal workforce identity separate and least-scoped? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-fedramp-aligned-identity-federation-to-agency-i-56811) |
-| How do you design the boundary between a FedRAMP-authorized production environment and a non-authorized corporate SSO/identity plane without breaking IA controls? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-the-boundary-between-a-fedramp-authorized-production-56781) |
-| How do you architect the availability of an authentication/authorization layer that is a hard dependency for every request across the org, so its own scaling or outage can't down the platform — covering token-validation caching, graceful degradation, and tier-0 blast-radius controls? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-availability-of-an-authentication-authorizati-52092) |
-| Explain your entity/group/alias identity model when users come from three IdPs and workloads from Kubernetes + AWS + on-prem. How do you avoid entity bloat and keep policy evaluation fast at 500k entities? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-entity-group-alias-identity-model-when-users-come-from-th-54969) |
-| Your identity provider is migrating from a legacy SAML setup to OIDC. Design the Vault identity/auth transition so 10000 human and machine identities keep working through the cutover with no downtime. | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-identity-provider-is-migrating-from-a-legacy-saml-setup-to-oidc-d-54953) |
-| How do you architect so that even your IdP being breached does not equal instant total compromise, given every zero-trust decision ultimately roots in trusting the IdP's assertions? What is your defense-in-depth against a compromised root of identity? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-so-that-even-your-idp-being-breached-does-not-equ-54014) |
-| You must let a partner company's service call your API using their own IdP's tokens. Walk me through the federation setup and what specifically stops their IdP breach from becoming your breach, and vice versa. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-let-a-partner-company-s-service-call-your-api-using-their-own-47861) |
-| How do you build a business case for consolidating three overlapping identity/access tools inherited from different eras into one Zero Trust plane? Handle the migration and the political friction. | deep understanding | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-business-case-for-consolidating-three-overlapping-i-56922) |
-| How do you design continuous, risk-adaptive access so a session that starts trusted can be downgraded mid-flight when signals change? What's the enforcement mechanism and the UX cost? | expertise | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-continuous-risk-adaptive-access-so-a-session-that-st-56854) |
-| How do you handle authorization for asynchronous, delegated, and on-behalf-of flows (a service acting for a user through three hops)? How do you propagate identity without token-passing anti-patterns? | expertise | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-authorization-for-asynchronous-delegated-and-on-beha-56886) |
-| What's your strategy for identity federation across an M&A scenario where the acquired company runs a completely different IdP, cloud, and network model? How do you avoid a two-year integration project? | deep understanding | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-identity-federation-across-an-m-and-a-scenari-56842) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle DR for the platform's authentication and RBAC layer — if operators can't log into the observability platform during a disaster, they're blind. Design the break-glass access to the AIOps platform that doesn't become a standing backdoor. | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-dr-for-the-platform-s-authentication-and-rbac-layer--99976) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design the identity and delegated-authorization architecture where an agent acts on-behalf-of a user across many downstream tools. Compare token-exchange, delegated OAuth, and OBO flows for propagating scoped, short-lived authority the model never sees. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-identity-and-delegated-authorization-architecture-where-an--83053) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,28 +1,33 @@
 # Signadot
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 6
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Signadot:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Signadot's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Signadot: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 0 | 3 | 3 | 3 |
-| DevOps | 0 | 0 | 0 | 3 | 3 | 3 |
+| Backend | 10 | 10 | 44 | 60 | 33 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect the estate so onboarding a new engineer to productivity stays under 2 weeks even at 200 services, versus the monolith's 'clone-and-run' simplicity? What platform investments make local/ephemeral environments tractable? | deep understanding | SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-estate-so-onboarding-a-new-engineer-to-produc-31781) |
-| How do you architect ephemeral preview environments as a platform capability at scale (per-PR full-stack environments) without the cloud bill spiraling or environments becoming unreliable? | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-ephemeral-preview-environments-as-a-platform-capa-37470) |
-| How do you design a platform's local-development experience so it faithfully mirrors production without requiring a laptop to run 200 microservices? Discuss the trade-offs of remote-dev, mocking, and ephemeral environments. | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-platform-s-local-development-experience-so-it-fait-37469) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're deciding an enterprise stance on ephemeral preview environments per PR versus shared long-lived staging. Frame the cost, fidelity, and data-seeding trade-offs at 200 services, and where preview-env sprawl becomes an unmanageable cloud bill. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-an-enterprise-stance-on-ephemeral-preview-environments-53465) |
-| How would you architect the platform to make the local-development experience faithful when no laptop can run hundreds of microservices — comparing remote dev environments, request-tunneling into a shared cluster, and record-replay mocking? Defend your primary bet. | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-platform-to-make-the-local-development-exp-54298) |
-| How would you design the platform's ephemeral-environment strategy at org scale so that per-PR full-stack environments across hundreds of teams don't become the single largest line item on the cloud bill? What sharing and TTL mechanics do you mandate? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-platform-s-ephemeral-environment-strategy-at--54255) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

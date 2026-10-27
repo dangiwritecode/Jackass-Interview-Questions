@@ -1,32 +1,33 @@
 # Vodafone
 
-**Tier:** Tier 2  |  **Business domain:** Telecom  |  **Questions:** 4
+**Tier:** Tier 2  |  **Business domain:** Telecom  |  **Questions listed:** 540  |  **Tagged directly to Vodafone:** 4
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Vodafone's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Vodafone: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 1 | 2 | 1 | 2 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 16 | 16 | 19 | 53 | 44 | 60 |
+| Fullstack | 22 | 22 | 28 | 51 | 41 | 60 |
+| DevOps | 30 | 21 | 30 | 58 | 45 | 60 |
+| AIOps | 2 | 2 | 5 | 60 | 59 | 60 |
+| Data Engineer | 11 | 5 | 14 | 58 | 46 | 60 |
+| Database Developer | 13 | 30 | 31 | 37 | 29 | 60 |
+| ML Engineer | 1 | 0 | 5 | 60 | 57 | 60 |
+| AI Engineer | 0 | 0 | 14 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're standardizing an enterprise-scale Azure landing zone across 40 business units; how do you decide the boundary between a platform team owning management groups/policy and product teams owning subscriptions, and where does that boundary usually break down? | deep understanding | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standardizing-an-enterprise-scale-azure-landing-zone-across-40--54521) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a DPIA (data-protection-impact-assessment) gate for new ML use cases so it's a fast automated check in the model-onboarding flow rather than a bureaucratic blocker — what does it actually inspect in the training config and data manifest? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-dpia-data-protection-impact-assessment-gate-for-70010) |
-| How do you handle concept drift for an XGBoost churn model when labels only arrive 60 days after prediction? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-concept-drift-for-an-xgboost-churn-model-when-labels-65889) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you govern a data-residency-aware routing layer so a query from a regulated region is served only by in-region models and in-region retrieval? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-a-data-residency-aware-routing-layer-so-a-query-from-86788) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

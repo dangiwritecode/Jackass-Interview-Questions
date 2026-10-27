@@ -1,82 +1,33 @@
 # KPMG
 
-**Tier:** Tier 3  |  **Business domain:** Consulting  |  **Questions:** 36
+**Tier:** Tier 3  |  **Business domain:** Consulting  |  **Questions listed:** 540  |  **Tagged directly to KPMG:** 36
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. KPMG's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches KPMG: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 14 | 14 | 14 |
-| AIOps | 1 | 0 | 1 | 1 | 0 | 1 |
-| Data Engineer | 3 | 0 | 3 | 5 | 2 | 5 |
-| Database Developer | 0 | 0 | 0 | 9 | 9 | 9 |
-| ML Engineer | 0 | 0 | 1 | 5 | 4 | 5 |
-| AI Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
+| Backend | 23 | 23 | 26 | 58 | 38 | 60 |
+| Fullstack | 26 | 26 | 30 | 56 | 30 | 60 |
+| DevOps | 4 | 3 | 4 | 60 | 59 | 60 |
+| AIOps | 15 | 0 | 15 | 60 | 45 | 60 |
+| Data Engineer | 17 | 2 | 17 | 60 | 46 | 60 |
+| Database Developer | 10 | 10 | 9 | 56 | 54 | 60 |
+| ML Engineer | 0 | 0 | 2 | 60 | 58 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A merger doubles your Azure footprint overnight with two conflicting tenants; how do you plan tenant-to-tenant migration or federation for identity, subscriptions, and networking? | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-merger-doubles-your-azure-footprint-overnight-with-two-conflicting-t-54564) |
-| How would you architect a compliance-as-code program on Azure so that PCI-DSS and SOC 2 controls are continuously enforced across every new subscription, and who owns exceptions? | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-compliance-as-code-program-on-azure-so-that--54529) |
-| How do you design BCP for compliance regimes like DORA, RBI's operational-resilience norms, or SOC 2, and how do you turn regulatory RTO mandates into technical controls? | expertise | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-bcp-for-compliance-regimes-like-dora-rbi-s-operation-56953) |
-| How do you quantify residual risk in a BCP and communicate honestly to leadership what scenarios you are NOT covered for, rather than implying total protection? | expertise | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-quantify-residual-risk-in-a-bcp-and-communicate-honestly-to-57012) |
-| Describe how you'd communicate a disposition matrix to non-technical executives so they understand why 'most apps aren't Refactor' is the right answer. | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-communicate-a-disposition-matrix-to-non-technical-e-56621) |
-| How do you make the 6 Rs decision auditable so a regulator or post-incident review can trace why each app got its disposition? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-the-6-rs-decision-auditable-so-a-regulator-or-post-inc-56598) |
-| How would you run a 6 Rs assessment for a company you just acquired, whose infrastructure and ownership you barely understand, under a 12-month integration mandate? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-a-6-rs-assessment-for-a-company-you-just-acquired-wh-56584) |
-| How do you architect governance for a platform team that is itself the auditee AND builds the audit tooling — how do you prevent the fox-guarding-henhouse conflict where the team can quietly suppress its own findings, and evidence that independence to an auditor? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-a-platform-team-that-is-itself-the-54080) |
-| You must set the multi-year investment thesis for governance tooling versus governance headcount at a 3000-engineer org — how do you model the crossover point where automation beats hiring more GRC analysts and where it stops paying off? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-set-the-multi-year-investment-thesis-for-governance-tooling-v-54029) |
-| An interviewer probes: you claim multi-cloud reduces vendor risk, but 90% of your revenue path still runs on one cloud; how do you honestly characterize your risk posture to auditors? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-you-claim-multi-cloud-reduces-vendor-risk-but-90-55245) |
-| How do you construct the business case that convinces a skeptical CFO that a specific hybrid or multi-cloud investment returns more than a single-cloud commit discount would save? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-construct-the-business-case-that-convinces-a-skeptical-cfo--55282) |
-| How do you decide the escalation and negotiation strategy with cloud vendors when you're multi-cloud and want to use that leverage without becoming ungovernable internally? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-escalation-and-negotiation-strategy-with-cloud-v-55318) |
-| How do you differentiate 'multi-cloud for regulatory concentration limits' from 'multi-cloud for engineering resilience', and how does the driver change what you actually build? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-differentiate-multi-cloud-for-regulatory-concentration-limi-55291) |
-| Your FinOps team reports each cloud shows a different unit-cost per request for the same workload; how do you build a normalized cost model that survives an audit? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-finops-team-reports-each-cloud-shows-a-different-unit-cost-per-re-55230) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you explain the value of ITOM to a non-technical stakeholder? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-the-value-of-itom-to-a-non-technical-stakeholder-91589) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| As a fresher joining a data team, why is it important to know whether a table is used for OLTP or OLAP? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-fresher-joining-a-data-team-why-is-it-important-to-know-whether-a-118770) |
-| How do you describe the typical 'user' of OLTP (customers/apps) versus OLAP (analysts/managers)? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-describe-the-typical-user-of-oltp-customers-apps-versus-ola-118833) |
-| What does 'the warehouse is for decision-making' mean in practice for a business team? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-the-warehouse-is-for-decision-making-mean-in-practice-for-a--118852) |
-| When a regulator audits your data platform what artifacts and queries would you have pre-built so you can answer within hours instead of weeks? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-a-regulator-audits-your-data-platform-what-artifacts-and-queries--127366) |
-| An audit finds 30% of your archived objects have no owner and unknown retention requirements. How do you remediate at scale without deleting something critical? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-audit-finds-30-of-your-archived-objects-have-no-owner-and-unknown-r-126756) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a data-deletion and legal-hold model so that GDPR right-to-erasure and litigation holds don't conflict inside your backup lineage? | expertise | SDE-2/3, Architect/Principal | Backup & Recovery | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-deletion-and-legal-hold-model-so-that-gdpr-114161) |
-| How do you architect an org-wide policy that ties every backup and recovery decision back to a documented business impact analysis, so recovery investment maps to actual revenue and risk? | expertise | SDE-2/3, Architect/Principal | Backup & Recovery | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-org-wide-policy-that-ties-every-backup-and-rec-114237) |
-| How would you architect the retention and recoverability of backups for a database that is legally required to be reconstructable to any day within a seven-year window? | expertise | SDE-2/3, Architect/Principal | Backup & Recovery | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-retention-and-recoverability-of-backups-fo-114223) |
-| How would you measure and report recovery capability to the board as a risk metric rather than as a green checkmark on a backup dashboard? | expertise | SDE-2/3, Architect/Principal | Backup & Recovery | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-measure-and-report-recovery-capability-to-the-board-as-a-114175) |
-| How would you set a data-classification-driven backup policy so that highly sensitive data gets stronger encryption, isolation and retention rules than low-value data automatically? | expertise | SDE-2/3, Architect/Principal | Backup & Recovery | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-a-data-classification-driven-backup-policy-so-that-h-114221) |
-| Walk me through governing backup and recovery as a control under SOC 2, ISO 27001 and RBI data-localization mandates simultaneously across a multi-region estate. | expertise | SDE-2/3, Architect/Principal | Backup & Recovery | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-governing-backup-and-recovery-as-a-control-under-soc-2-114147) |
-| A regulator asks you to prove that a specific report was generated from data that was correct and unaltered at report time. Architect the immutability, hashing, and lineage evidence so the proof is a query, not a forensic reconstruction. Where do lake time-travel guarantees fall short of legal non-repudiation? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-asks-you-to-prove-that-a-specific-report-was-generated-fro-112683) |
-| A regulator asks you to demonstrate recovery from a scenario you deemed acceptable-risk (e.g., dual-region loss of a database). How do you defend a deliberately un-covered failure mode to an auditor with data, not hand-waving? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-asks-you-to-demonstrate-recovery-from-a-scenario-you-deeme-112910) |
-| How do you decide RPO for a database write where losing the last N minutes is legally different from losing it operationally (a recorded trade vs a profile edit)? Walk the regulatory lens over the technical one. | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-rpo-for-a-database-write-where-losing-the-last-n-min-112937) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| What's your approach to third-party audits and external assurance of AI systems — how do you make your platform 'audit-ready by construction'? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-third-party-audits-and-external-assurance-of-a-71735) |
-| How do you decide when a Random Forest's OOB error is trustworthy enough to skip a held-out test set in a production workflow? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-a-random-forest-s-oob-error-is-trustworthy-enou-65932) |
-| How do you decide the acceptable risk appetite for an ML system, and who in the org owns that decision versus who owns the residual risk? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-acceptable-risk-appetite-for-an-ml-system-and-wh-71775) |
-| What is the right relationship between the model development team, the validation team, and internal audit in a three-lines-of-defense model? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-right-relationship-between-the-model-development-team-the--71799) |
-| What's your framework for classifying a model as 'material' and what evidence would you present to a regulator to justify a not-material call? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-classifying-a-model-as-material-and-what-evi-71837) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you design a governance program that produces standing audit-readiness so an external assessor or regulator can be served from immutable evidence with zero fire-drill? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-governance-program-that-produces-standing-audit-re-86110) |
-| How do you quantify the ROI of a responsible-AI platform investment to a CFO who sees only cost and no revenue line? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-quantify-the-roi-of-a-responsible-ai-platform-investment-to-86045) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

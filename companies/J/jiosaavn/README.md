@@ -1,39 +1,33 @@
 # JioSaavn
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 11
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to JioSaavn:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. JioSaavn's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches JioSaavn: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 3 | 2 | 5 | 5 | 4 | 5 |
-| Fullstack | 2 | 2 | 3 | 3 | 2 | 3 |
-| ML Engineer | 1 | 0 | 3 | 3 | 1 | 3 |
+| Backend | 7 | 6 | 45 | 59 | 56 | 60 |
+| Fullstack | 19 | 19 | 51 | 56 | 22 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 1 | 0 | 3 | 60 | 58 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You want a fallback that returns cached or default data when a dependency fails. How do you keep the fallback from serving dangerously stale data during a long outage? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-a-fallback-that-returns-cached-or-default-data-when-a-depende-29876) |
-| Design a music-player playlist supporting shuffle, repeat-one, and repeat-all where switching modes mid-song behaves predictably; which pattern owns 'what plays next' and how do you unit-test shuffle fairness? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-music-player-playlist-supporting-shuffle-repeat-one-and-repea-16486) |
-| Design a music-player playlist with shuffle and repeat modes. Which pattern captures the play strategy? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-music-player-playlist-with-shuffle-and-repeat-modes-which-pat-9019) |
-| How would you design a system to recommend songs or playlists to a music-streaming user? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | DSA/Coding Round, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-system-to-recommend-songs-or-playlists-to-a-mus-62135) |
-| What does the ORDER BY ... LIMIT combination return and how does adding DESC change it? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-the-order-by-limit-combination-return-and-how-does-adding-de-11854) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a music-player playlist supporting shuffle, repeat-one, and repeat-all where switching modes mid-song behaves predictably; which pattern owns 'what plays next' and how do you unit-test shuffle fairness? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-music-player-playlist-supporting-shuffle-repeat-one-and-repea-16486) |
-| Design a music-player playlist with shuffle and repeat modes. Which pattern captures the play strategy? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-music-player-playlist-with-shuffle-and-repeat-modes-which-pat-9019) |
-| What does the ORDER BY ... LIMIT combination return and how does adding DESC change it? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-the-order-by-limit-combination-return-and-how-does-adding-de-11854) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle the cold-start problem for a new model in an A/B test where the model needs warm-up data to perform well? | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-cold-start-problem-for-a-new-model-in-an-a-b-tes-67684) |
-| How do you design offline evaluation for an XGBoost recommender that matches the online metric you actually care about? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-offline-evaluation-for-an-xgboost-recommender-that-m-65912) |
-| How would you design a system to recommend songs or playlists to a music-streaming user? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | DSA/Coding Round, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-system-to-recommend-songs-or-playlists-to-a-mus-62135) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

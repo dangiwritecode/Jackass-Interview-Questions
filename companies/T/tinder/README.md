@@ -1,36 +1,33 @@
 # Tinder
 
-**Tier:** Tier 1  |  **Business domain:** Social  |  **Questions:** 8
+**Tier:** Tier 1  |  **Business domain:** Social  |  **Questions listed:** 540  |  **Tagged directly to Tinder:** 8
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Tinder's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Tinder: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 1 | 1 | 1 | 1 |
-| Database Developer | 0 | 0 | 0 | 4 | 4 | 4 |
-| Data Structures & Algorithms (all profiles) | 3 | 3 | 3 | 3 | 3 | 3 |
+| Backend | 3 | 3 | 20 | 59 | 58 | 60 |
+| Fullstack | 17 | 17 | 46 | 55 | 22 | 60 |
+| DevOps | 27 | 19 | 29 | 58 | 48 | 60 |
+| AIOps | 3 | 2 | 16 | 60 | 49 | 60 |
+| Data Engineer | 13 | 5 | 47 | 58 | 18 | 60 |
+| Database Developer | 11 | 16 | 17 | 52 | 44 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your DynamoDB table has a celebrity partition (one user is 90% of traffic) and you're getting throttled while overall consumed capacity is low. Explain what's happening and three concrete ways to fix it. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cassandra/DynamoDB (Wide-Column NoSQL) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-dynamodb-table-has-a-celebrity-partition-one-user-is-90-of-traffi-29440) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a DynamoDB single-table data model for a domain with a dozen access patterns while keeping GSI count bounded — walk me through the write-sharding, GSI-overloading, and sparse-index techniques and where each starts to hurt at scale. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-dynamodb-single-table-data-model-for-a-domain-w-111848) |
-| How do you decide between DynamoDB on-demand and provisioned-with-auto-scaling for a new workload, and how do you continuously reason about the cost-crossover point as traffic patterns mature — what evidence would flip an established table from one mode to the other? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-dynamodb-on-demand-and-provisioned-with-auto-111901) |
-| How do you diagnose intermittent DynamoDB ProvisionedThroughputExceeded or throttling when average consumed capacity is well below provisioned — walk me through confirming a hot key with CloudWatch Contributor Insights and redesigning the key schema without downtime. | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-diagnose-intermittent-dynamodb-provisionedthroughputexceede-111918) |
-| How would you architect the caching tier for a read-heavy DynamoDB workload — compare DAX's write-through/item-cache model against ElastiCache cache-aside, and explain where DAX's consistency window and node-failure behavior bite you. | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-caching-tier-for-a-read-heavy-dynamodb-wor-111855) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Full Line-Width Text Justification | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Simulation, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=full-line-width-text-justification-d68) |
-| Live Tracker for the K-th Largest Value in a Stream | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Data Stream, Design, Heap (Priority Queue), Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=live-tracker-for-the-k-th-largest-value-in-a-stream-d688) |
-| Running Median of a Number Stream | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Data Stream, Design, Heap (Priority Queue), Sorting, Two Heaps | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=running-median-of-a-number-stream-d295) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

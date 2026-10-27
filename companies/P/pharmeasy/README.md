@@ -1,48 +1,33 @@
 # PharmEasy
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 8
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to PharmEasy:** 8
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. PharmEasy's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches PharmEasy: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Engineer | 1 | 0 | 1 | 1 | 0 | 1 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 1 | 0 | 2 | 2 | 1 | 2 |
-| AI Engineer | 0 | 0 | 2 | 3 | 2 | 3 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 14 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 18 | 19 | 50 | 42 | 60 |
+| ML Engineer | 1 | 0 | 2 | 60 | 59 | 60 |
+| AI Engineer | 3 | 3 | 5 | 60 | 57 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Architect a healthcare-records platform where patient data must be consented-access audited encrypted and shareable across providers — how do you model access grants keep an immutable access log and stay compliant while enabling emergency break-glass access? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-healthcare-records-platform-where-patient-data-must-be-con-39494) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| If a hospital app records each patient visit live, but wants 'average visits per month', which parts are OLTP and OLAP? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-a-hospital-app-records-each-patient-visit-live-but-wants-average-vi-118853) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're designing the analytical estate for a healthcare org under HIPAA where PHI must be minimized. Architect the tokenization, de-identification, and re-identification-vault pattern so analysts get useful data while re-identification is a controlled, audited operation. Where does k-anonymity break at query time? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-the-analytical-estate-for-a-healthcare-org-under-hipa-112674) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle tuning a model where the validation metric has high variance run-to-run because of small data? | deep understanding | SDE-1/2, SDE-2/3 | Hyperparameter Tuning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-tuning-a-model-where-the-validation-metric-has-high--65981) |
-| What is the difference between precision and recall and why does the choice matter for a medical-screening ML system? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-precision-and-recall-and-why-does-the-c-62108) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you keep a medical or legal advice guardrail from over-triggering on benign informational questions? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AI Safety & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-a-medical-or-legal-advice-guardrail-from-over-triggeri-80831) |
-| How do you set the org-level approval bar differently for a fine-tune on safety-critical use cases (health, financial advice) versus low-stakes internal tooling — where do you draw the sign-off line and why? | deep understanding | SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-org-level-approval-bar-differently-for-a-fine-tune--84515) |
-| Your reranker was trained on generic web data — how do you decide it's worth the effort to domain-adapt it for medical queries? | expertise | SDE-1/2, SDE-2/3 | Reranking | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-reranker-was-trained-on-generic-web-data-how-do-you-decide-it-s-w-80367) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

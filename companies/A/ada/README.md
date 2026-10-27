@@ -1,22 +1,33 @@
 # Ada
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 6
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Ada:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Ada's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Ada: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AI Engineer | 0 | 0 | 1 | 6 | 5 | 6 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 5 | 60 | 57 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AI Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A tradeoff point pits an active-active multi-region LLM-serving deployment (availability, no failover drill) against active-passive (cost, simpler model-version consistency) for a customer-support copilot. Which scenarios force the availability-vs-cost-vs-consistency tension into a business-owned decision? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-point-pits-an-active-active-multi-region-llm-serving-deploy-83544) |
-| How do you use ATAM to evaluate whether to consolidate three teams' near-duplicate customer-support copilots into one shared assistant platform? Which scenarios reveal whether the consistency and cost gain outweighs the coupling, per-team prompt-fit loss, and single-point-of-failure cost? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-atam-to-evaluate-whether-to-consolidate-three-teams-nea-83579) |
-| How do you govern the freshness vs. staleness trade-off for a RAG index feeding a customer-support agent, where stale policy docs create legal and CX risk? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-freshness-vs-staleness-trade-off-for-a-rag-index-86760) |
-| How do you evaluate whether an agent knows when to stop or escalate to a human, rather than persisting in a failing loop, at production scale? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-an-agent-knows-when-to-stop-or-escalate-to-86865) |
-| Your intent classifier confidently misroutes out-of-scope queries. How would you add an abstain or fallback class and evaluate its coverage? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-intent-classifier-confidently-misroutes-out-of-scope-queries-how--79427) |
-| How do you translate a business KPI like 'resolve tickets under $0.12 each' into a per-turn token budget and model-selection policy? | expertise | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-translate-a-business-kpi-like-resolve-tickets-under-0-12-ea-86359) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

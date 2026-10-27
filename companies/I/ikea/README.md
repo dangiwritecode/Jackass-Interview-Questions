@@ -1,30 +1,33 @@
 # IKEA
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 14
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to IKEA:** 14
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. IKEA's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches IKEA: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 2 | 14 | 14 | 14 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 18 | 18 | 41 | 56 | 33 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you use ATAM to evaluate whether to adopt a micro-frontend architecture for a large full-stack product? Which scenarios reveal whether the promised team autonomy is real or whether shared-shell coupling undermines it? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-atam-to-evaluate-whether-to-adopt-a-micro-frontend-a-40538) |
-| A bar-raiser probes: "you chose eventual consistency between your order service and inventory service — show me the exact user-visible anomaly that creates and how the frontend and business process are designed to tolerate it." | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-you-chose-eventual-consistency-between-your-order--40764) |
-| Architect a micro-frontend composition strategy (build-time vs runtime module federation vs edge-side includes) for a portal aggregating 12 team-owned apps. What breaks in shared-dependency management, and when is a monolithic SPA actually the saner enterprise choice? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-micro-frontend-composition-strategy-build-time-vs-runtime--40724) |
-| How do you approach micro-frontends: when would you split an app into independently deployed frontends and what are the runtime costs? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-micro-frontends-when-would-you-split-an-app-into-i-21280) |
-| Your micro-frontend estate has 12 independently deployed apps loading different React versions at runtime — how do you govern shared dependencies, avoid duplicate framework payloads, and prevent version-skew incidents? | deep understanding | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-micro-frontend-estate-has-12-independently-deployed-apps-loading--40022) |
-| Architect a system that must serve a mostly-static product catalog that changes a few times an hour to 100M users with sub-30ms reads globally — how do you decide between edge-caching an ISR/SSG build and a read-optimized store and defend the staleness window? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-system-that-must-serve-a-mostly-static-product-catalog-tha-39466) |
-| Architect an inventory-availability system across 5000 physical stores plus warehouses where stock must be near-real-time accurate for online buyers — how do you reconcile in-store POS events with online reservations and avoid overselling a store's last unit? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-an-inventory-availability-system-across-5000-physical-stores-39485) |
-| Design a micro-frontend architecture for a large e-commerce site owned by 15 teams — how do you compose independently-deployed frontends share design-system and auth state and stop one team's bundle bloat from tanking everyone's Core Web Vitals? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-micro-frontend-architecture-for-a-large-e-commerce-site-owned-39425) |
-| When your strangler slices are extracted as a frontend micro-frontend AND a backend service simultaneously, how do you sequence the two so neither ships half-wired? | deep understanding | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-your-strangler-slices-are-extracted-as-a-frontend-micro-frontend--40919) |
-| Design micro-frontends for a large app owned by 6 teams. How do you handle shared state, versioning, routing, and avoid shipping React three times? When would you NOT do micro-frontends? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-micro-frontends-for-a-large-app-owned-by-6-teams-how-do-you-han-16381) |
-| You discover the org's 'microfrontends' have devolved into a distributed frontend monolith — shared global state, tight version coupling, coordinated releases. How do you diagnose and pay down this coupling debt? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-discover-the-org-s-microfrontends-have-devolved-into-a-distributed-41442) |
-| How do you set a strategy for adopting micro-frontends across independent teams, and how do you weigh the integration overhead and runtime cost against team autonomy at the org level? | expertise | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-a-strategy-for-adopting-micro-frontends-across-independ-40663) |
-| Frame the org-level trade-off between a shared micro-frontend platform and per-team autonomy, specifically through the lens of who owns the cumulative startup cost when 30 teams each add 'just a little' JS. | expertise | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=frame-the-org-level-trade-off-between-a-shared-micro-frontend-platform-40224) |
-| How would you evaluate whether module federation / independently-deployable micro-frontends actually improved anything, given they can regress startup performance? Design the before/after measurement and the kill criteria. | expertise | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-whether-module-federation-independently-deploya-40263) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

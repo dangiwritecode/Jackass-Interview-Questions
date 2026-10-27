@@ -1,38 +1,33 @@
 # Splitwise
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 16
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Splitwise:** 9
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Splitwise's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Splitwise: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 7 | 7 | 0 | 7 |
-| Fullstack | 0 | 0 | 9 | 9 | 0 | 9 |
+| Backend | 4 | 4 | 26 | 59 | 50 | 60 |
+| Fullstack | 18 | 18 | 53 | 56 | 19 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| The interviewer asks you to add input validation to your Splitwise expense creation (negative amounts, self-splits, empty groups). Where does validation live — model, service, or UI — and why not just the UI? | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-interviewer-asks-you-to-add-input-validation-to-your-splitwise-exp-21610) |
-| The interviewer says: "forget the requirement doc — tell me the three edge cases you'd worry about most in this splitwise build and why." Show how you surface edge cases proactively. | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-interviewer-says-forget-the-requirement-doc-tell-me-the-three-edge-21572) |
-| The interviewer says: "this splitwise settle-up runs in O(n^2). Can it be better?" Walk through the greedy min-cash-flow approach and honestly state whether the optimal problem is even tractable. | expertise | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-interviewer-says-this-splitwise-settle-up-runs-in-o-n-2-can-it-be--21584) |
-| You designed Splitwise with a User and Group model. The interviewer asks how you'd add multi-currency expenses. Where does conversion live and how do you keep balances consistent? | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-designed-splitwise-with-a-user-and-group-model-the-interviewer-ask-21528) |
-| You designed Splitwise. The interviewer asks how you'd generate an activity/audit log of every expense edit and settlement without slowing writes. Where does the log fit in your model? | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-designed-splitwise-the-interviewer-asks-how-you-d-generate-an-acti-21563) |
-| You modeled Splitwise groups but the interviewer asks: what happens when a user is removed from a group with unsettled balances? How do you keep the data consistent? Walk through the rules. | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-modeled-splitwise-groups-but-the-interviewer-asks-what-happens-whe-21548) |
-| Your Splitwise settle-up produced a floating-point rounding error where balances didn't sum to zero. How do you find it and how should money be represented to prevent it? | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-splitwise-settle-up-produced-a-floating-point-rounding-error-wher-21537) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| The interviewer asks you to add input validation to your Splitwise expense creation (negative amounts, self-splits, empty groups). Where does validation live — model, service, or UI — and why not just the UI? | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-interviewer-asks-you-to-add-input-validation-to-your-splitwise-exp-21610) |
-| The interviewer says: "forget the requirement doc — tell me the three edge cases you'd worry about most in this splitwise build and why." Show how you surface edge cases proactively. | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-interviewer-says-forget-the-requirement-doc-tell-me-the-three-edge-21572) |
-| The interviewer says: "this splitwise settle-up runs in O(n^2). Can it be better?" Walk through the greedy min-cash-flow approach and honestly state whether the optimal problem is even tractable. | expertise | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-interviewer-says-this-splitwise-settle-up-runs-in-o-n-2-can-it-be--21584) |
-| You built Splitwise and the interviewer asks how you'd render a per-user balance summary efficiently when a group has thousands of expenses. Do you compute on read or maintain a running balance? Justify. | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-built-splitwise-and-the-interviewer-asks-how-you-d-render-a-per-us-21598) |
-| You built Splitwise in the round. The interviewer asks how the simplify-debts algorithm works and whether your expense model handles unequal splits, percentages, and shares cleanly. Walk through the model. | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-built-splitwise-in-the-round-the-interviewer-asks-how-the-simplify-21517) |
-| You designed Splitwise with a User and Group model. The interviewer asks how you'd add multi-currency expenses. Where does conversion live and how do you keep balances consistent? | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-designed-splitwise-with-a-user-and-group-model-the-interviewer-ask-21528) |
-| You designed Splitwise. The interviewer asks how you'd generate an activity/audit log of every expense edit and settlement without slowing writes. Where does the log fit in your model? | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-designed-splitwise-the-interviewer-asks-how-you-d-generate-an-acti-21563) |
-| You modeled Splitwise groups but the interviewer asks: what happens when a user is removed from a group with unsettled balances? How do you keep the data consistent? Walk through the rules. | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-modeled-splitwise-groups-but-the-interviewer-asks-what-happens-whe-21548) |
-| Your Splitwise settle-up produced a floating-point rounding error where balances didn't sum to zero. How do you find it and how should money be represented to prevent it? | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-splitwise-settle-up-produced-a-floating-point-rounding-error-wher-21537) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

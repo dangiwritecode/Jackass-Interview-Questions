@@ -1,17 +1,33 @@
 # moneyview
 
-**Tier:** Tier 3  |  **Business domain:** Fintech/Banking  |  **Questions:** 1
+**Tier:** Tier 3  |  **Business domain:** Banking / Fintech  |  **Questions listed:** 540  |  **Tagged directly to moneyview:** 1
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. moneyview's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches moneyview: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 1 | 1 | 0 | 1 |
+| Backend | 8 | 7 | 26 | 59 | 44 | 60 |
+| Fullstack | 21 | 21 | 37 | 59 | 37 | 60 |
+| DevOps | 5 | 2 | 17 | 60 | 47 | 60 |
+| AIOps | 2 | 2 | 14 | 60 | 56 | 60 |
+| Data Engineer | 1 | 0 | 1 | 60 | 59 | 60 |
+| Database Developer | 3 | 2 | 2 | 60 | 57 | 60 |
+| ML Engineer | 1 | 0 | 8 | 59 | 54 | 60 |
+| AI Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you use monotonic constraints in XGBoost for a credit-risk model, and what validation would you add to prove the constraints hold? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-monotonic-constraints-in-xgboost-for-a-credit-risk-m-65897) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

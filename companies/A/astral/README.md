@@ -1,36 +1,33 @@
 # Astral
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 8
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Astral:** 8
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Astral's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Astral: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 3 | 3 | 0 | 3 |
-| ML Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
-| AI Engineer | 0 | 0 | 0 | 3 | 3 | 3 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 34 | 58 | 41 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you'd use uv or pip-tools in a Python project's Dockerfile to get fully reproducible, hash-locked builds, and why an unpinned pip install in a base image is a supply-chain risk. | deep understanding | SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-use-uv-or-pip-tools-in-a-python-project-s-dockerfile-45177) |
-| How would you package a Python CLI tool your platform team distributes internally so it's installable via pipx with pinned deps, and why does bundling with a lockfile or a zipapp/PEX beat a bare pip install? | intermediate experience | SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-package-a-python-cli-tool-your-platform-team-distributes-45176) |
-| How would you use pytest fixtures and parametrization to test a Python function that generates cloud resource names across dozens of naming conventions without writing dozens of near-identical test functions? | intermediate experience | SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-pytest-fixtures-and-parametrization-to-test-a-python-45199) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle Python dependency and environment management at platform scale so that thousands of jobs are reproducible and you're not stuck in perpetual CUDA/driver/framework version wars? | deep understanding | SDE-2/3, Architect/Principal | ML Platform Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-python-dependency-and-environment-management-at-plat-72028) |
-| Explain how you'd design a Python dependency-resolution and lock strategy that lets 50 teams share a common ML base image while still pinning team-specific extras reproducibly, avoiding a monolithic requirements file that no one can update. | deep understanding | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-python-dependency-resolution-and-lock-strat-68381) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Compare uv, Poetry and pip-tools for locking a large Python AI platform's dependencies. What criteria (resolution speed, reproducibility, CI cost, native-wheel handling for CUDA) drive your org-wide standard, and how do you migrate 100 repos? | deep understanding | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-uv-poetry-and-pip-tools-for-locking-a-large-python-ai-platform-82341) |
-| Explain how you'd offload CPU-heavy pre/post-processing (tokenization, image decode, JSON parsing) out of the Python event loop at scale: threadpool vs processpool vs Rust/PyO3 native extension, and how you decide. | deep understanding | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-offload-cpu-heavy-pre-post-processing-tokenization-i-82391) |
-| How would you design an org-wide Python style/lint/type-check baseline (ruff, mypy, pyright) enforced in CI for 100+ AI repos, and how do you roll it out without blocking every team's PRs on day one? | deep understanding | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-org-wide-python-style-lint-type-check-baseline-82394) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

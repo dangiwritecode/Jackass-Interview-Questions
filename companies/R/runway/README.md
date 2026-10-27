@@ -1,51 +1,33 @@
 # Runway
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 29
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Runway:** 29
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Runway's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Runway: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 4 | 15 | 11 | 15 |
-| AI Engineer | 0 | 0 | 6 | 14 | 13 | 14 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 4 | 60 | 56 | 60 |
+| AI Engineer | 3 | 3 | 9 | 60 | 57 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect PII handling for multimodal training (images with faces, audio with voices, docs with names) versus tabular-only pipelines? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-pii-handling-for-multimodal-training-images-with--72608) |
-| What's your approach to governing multimodal training data (image, audio, video, text) where sensitivity and licensing differ dramatically per modality? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-multimodal-training-data-image-audio-72143) |
-| Your platform must support training on both text and multimodal (video) data where per-sample sizes vary 100x. How does that variance change your data-parallel sharding and load-balancing design? | expertise | SDE-2/3, Architect/Principal | Distributed Training (Data/Model Parallelism) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-platform-must-support-training-on-both-text-and-multimodal-video--70721) |
-| How would you evaluate generative model outputs where quality is subjective, and how do you convert subjective ratings into a shippable go/no-go signal? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-generative-model-outputs-where-quality-is-subje-72209) |
-| What is your strategy for evaluating multimodal models (text, image, audio) at scale when there's no single metric that captures cross-modal coherence? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-for-evaluating-multimodal-models-text-image-audi-72203) |
-| How do you decide between synchronous inference in the FastAPI request and pushing the job to a queue with a callback, given a model that takes several seconds per call? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-synchronous-inference-in-the-fastapi-request-62925) |
-| How do you handle a FastAPI endpoint that must accept multi-modal input (image plus structured features) and route each modality through the right preprocessing before a fused model? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-fastapi-endpoint-that-must-accept-multi-modal-inpu-62973) |
-| Your inference GPU bill grows linearly with users but revenue doesn't. As principal, how do you architect the platform so unit cost falls as you scale rather than staying flat? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-inference-gpu-bill-grows-linearly-with-users-but-revenue-doesn-t--71101) |
-| You're consolidating 30 LoRA-adapter deployments onto a shared base-model fleet; how do you design tenancy, isolation, and cost attribution for multi-LoRA at org scale? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-consolidating-30-lora-adapter-deployments-onto-a-shared-base-mo-71186) |
-| You must architect the platform so adopting a new modality (audio, video, multimodal) is an incremental extension rather than a parallel stack. Which abstractions must you get right early, and where do LLM-only assumptions leak? | expertise | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-the-platform-so-adopting-a-new-modality-audio-video-69413) |
-| Describe how you'd A/B test a diffusion-based image editing feature where quality is subjective. What online and human-eval signals would you combine? | intermediate experience | SDE-1/2, SDE-2/3 | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-a-b-test-a-diffusion-based-image-editing-feature-wh-67131) |
-| How would you set up experiment tracking and reproducibility for a diffusion model where the same seed must produce identical images across runs? | intermediate experience | SDE-1/2, SDE-2/3 | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-experiment-tracking-and-reproducibility-for-a-dif-67099) |
-| How would you architect the org's approach to multi-modal PyTorch models where different modalities have wildly different compute and data-loading profiles? | expertise | SDE-2/3, Architect/Principal | PyTorch | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-org-s-approach-to-multi-modal-pytorch-mode-70365) |
-| How do you architect a multimodal RAG platform (text, tables, images, diagrams, audio transcripts) so retrieval fuses modalities coherently, and what governance stops each product team from reinventing modality handling? | deep understanding | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-multimodal-rag-platform-text-tables-images-diag-68876) |
-| How would you architect a unified multimodal Transformer platform so vision, audio, and text teams share tokenization, serving, and eval infrastructure? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-unified-multimodal-transformer-platform-so-v-70416) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you govern a deepfake and impersonation risk surface for a product that offers voice or avatar cloning, balancing legitimate creative use against non-consensual abuse? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-a-deepfake-and-impersonation-risk-surface-for-a-prod-86093) |
-| How do you decide build-vs-buy for an image/video generation capability in your product (buy Stability/Runway/Google Imagen API vs fine-tune and self-host diffusion models) when per-generation GPU cost, content-safety liability, and brand-style control all interact? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-image-video-generation-capabilit-83802) |
-| Your image/video generation service has wildly variable per-request GPU cost by resolution, steps, and model. How do you capacity-plan and price a diffusion-inference fleet where one high-res request can cost 50x a thumbnail, and users don't see the difference? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-image-video-generation-service-has-wildly-variable-per-request-gp-83391) |
-| You need to fine-tune a diffusion model across GPUs. How does its EMA weight tracking complicate distributed training and checkpointing? | deep understanding | SDE-1/2, SDE-2/3 | Distributed Training (Data/Model Parallelism) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-fine-tune-a-diffusion-model-across-gpus-how-does-its-ema-w-81082) |
-| How would you plan GPU capacity for a video-generation product where a single 10-second clip can pin a full node for minutes? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-plan-gpu-capacity-for-a-video-generation-product-where-a-86657) |
-| What's your approach to sizing capacity for a multimodal fleet where image and video inference cost 10-100x a text token? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-sizing-capacity-for-a-multimodal-fleet-where-i-86656) |
-| How do you evaluate and guardrail multimodal outputs — image, chart, document — where 'faithfulness' and 'safety' have no clean text analog and human labeling is expensive? | expertise | SDE-2/3, Architect/Principal | LLM Evaluation & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-and-guardrail-multimodal-outputs-image-chart-docum-84779) |
-| How would you build a red-team suite for a text-to-image model that probes for policy bypasses via typos, homoglyphs, and split prompts, and wire it into CI? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-red-team-suite-for-a-text-to-image-model-that-pr-80638) |
-| How would you build an eval that checks a text-to-image model doesn't reproduce a specific brand logo, and how would you enforce it as a deploy gate? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-an-eval-that-checks-a-text-to-image-model-doesn-t--80690) |
-| How would you build an eval that measures compositional prompt fidelity for a text-to-image model (correct color-object-position bindings) and gate deploys on it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-an-eval-that-measures-compositional-prompt-fidelit-80632) |
-| How would you evaluate a text-to-speech-plus-avatar pipeline for lip-sync quality automatically, without a human watching every clip? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-a-text-to-speech-plus-avatar-pipeline-for-lip-s-80656) |
-| Your text-to-image feature must block prompts that describe real public figures. Where in the pipeline (prompt filter, safety classifier, post-gen check) would you put each guardrail and why? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-text-to-image-feature-must-block-prompts-that-describe-real-publi-80607) |
-| How do you architect a unified multimodal Transformer platform so vision, audio, and text teams share tokenization, cross-modal attention, KV-cache handling, and eval infra? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-unified-multimodal-transformer-platform-so-visi-84290) |
-| Architect the retrieval platform so adding a new modality (image, audio, code) doesn't fork ingestion, indexing, and query. What abstraction lets multiple vector spaces coexist, and where does that abstraction genuinely break down for cross-modal agent retrieval? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-retrieval-platform-so-adding-a-new-modality-image-audio--82471) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

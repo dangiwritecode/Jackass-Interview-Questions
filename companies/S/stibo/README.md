@@ -1,29 +1,33 @@
 # Stibo
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 13
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Stibo:** 13
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Stibo's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Stibo: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Engineer | 0 | 0 | 0 | 13 | 13 | 13 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 32 | 59 | 31 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a multi-domain MDM program covering customer, product, supplier, and location — how do you sequence domains, and why is customer usually not the one you should start with? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-multi-domain-mdm-program-covering-customer-product-supplier-a-127724) |
-| How do you approach reference data management (currencies, country codes, product categories, industry codes) versus master data, and why do teams that conflate the two get burned? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-reference-data-management-currencies-country-codes-127732) |
-| How do you architect MDM to support both a global logical model and country-specific attribute extensions (localization, tax fields) without forking the schema per country? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-mdm-to-support-both-a-global-logical-model-and-co-127787) |
-| How do you avoid the classic MDM anti-pattern where the hub becomes a giant EAV / catch-all schema that no consumer can query performantly — what modeling discipline do you enforce? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-avoid-the-classic-mdm-anti-pattern-where-the-hub-becomes-a--127784) |
-| How do you decide the boundary between what is 'master data' and what is 'transactional data' for a domain nobody has classified yet, and why does getting this wrong bloat the hub? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-boundary-between-what-is-master-data-and-what-is-127743) |
-| How do you define ownership when a golden record spans domains — a customer who is also a supplier and an employee — do you have three masters, one super-entity, or party MDM, and what are the trade-offs? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-define-ownership-when-a-golden-record-spans-domains-a-custo-127759) |
-| How do you design the steward workflow / UX at scale — task routing, prioritization, bulk actions, and feedback loops that improve match rules — so 5 stewards can cover millions of entities? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-the-steward-workflow-ux-at-scale-task-routing-priori-127767) |
-| How do you handle product master data (PIM) where the same SKU has different attributes per channel/region — is that one master with variants, many masters, or a different pattern entirely? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-product-master-data-pim-where-the-same-sku-has-diffe-127755) |
-| How do you think about MDM total cost of ownership across a 5-year horizon when comparing a SaaS MDM (Reltio) vs self-hosted (Informatica MDM) vs cloud-native build — what hidden costs bite each option? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-think-about-mdm-total-cost-of-ownership-across-a-5-year-hor-127799) |
-| How would you run build-vs-buy for MDM in 2025 — Reltio/Informatica/Stibo/SAP MDG versus an in-house entity-resolution stack on Spark plus a graph store — and what quantitative signals decide it? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-build-vs-buy-for-mdm-in-2025-reltio-informatica-stib-127719) |
-| Interviewer probe: 'Why did you choose survivorship at the attribute level instead of the record level?' Defend the added complexity and explain when record-level winner-takes-all is actually better. | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-probe-why-did-you-choose-survivorship-at-the-attribute-lev-127772) |
-| Interviewer probe: 'Your data steward team is drowning in a 200k-record match-review backlog.' What structural changes — not just more people — do you make to shrink the backlog permanently? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-probe-your-data-steward-team-is-drowning-in-a-200k-record--127805) |
-| What is your survivorship and merge/unmerge strategy, and how do you make unmerge reversible and auditable years later when a false merge is discovered? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-survivorship-and-merge-unmerge-strategy-and-how-do-you-ma-127718) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

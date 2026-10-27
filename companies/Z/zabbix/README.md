@@ -1,47 +1,33 @@
 # Zabbix
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 31
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Zabbix:** 31
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Zabbix's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Zabbix: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AIOps | 24 | 0 | 28 | 30 | 3 | 31 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 26 | 0 | 34 | 59 | 30 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AIOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your agentic platform must integrate legacy Nagios/Zabbix alongside modern OTel. How do you architect a normalization layer so agents reason consistently across decades of monitoring generations? | deep understanding | SDE-2/3, Architect/Principal | Agentic Workflows | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-agentic-platform-must-integrate-legacy-nagios-zabbix-alongside-mo-101100) |
-| How would you debug a case where duplicate pages keep firing every minute despite a deduplication rule being in place? | intermediate experience | SDE-1/2, SDE-2/3 | Alert Correlation & Alert Fatigue Reduction | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-debug-a-case-where-duplicate-pages-keep-firing-every-min-95962) |
-| How would you retrofit correlation onto a legacy alerting system you can't fully replace and what constraints does that impose? | deep understanding | SDE-1/2, SDE-2/3 | Alert Correlation & Alert Fatigue Reduction | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-retrofit-correlation-onto-a-legacy-alerting-system-you-c-96014) |
-| What is your strategy for correlating flapping alerts without either drowning the group or losing a genuine state change? | deep understanding | SDE-1/2, SDE-2/3 | Alert Correlation & Alert Fatigue Reduction | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-for-correlating-flapping-alerts-without-either-d-96017) |
-| What's your strategy for correlating alerts when severity mappings differ wildly between Prometheus and a legacy Nagios setup? | intermediate experience | SDE-1/2, SDE-2/3 | Alert Correlation & Alert Fatigue Reduction | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-correlating-alerts-when-severity-mappings-dif-95987) |
-| How would you visualize disk usage growth toward a capacity limit and annotate the point it crosses 90 percent? | intermediate experience | Fresher | Data Visualization (Matplotlib/Seaborn) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-visualize-disk-usage-growth-toward-a-capacity-limit-and--89857) |
-| How do you set the RPO for the telemetry pipeline (metrics/logs/traces) itself, given that the window of data you lose during a disaster is exactly the window you most need to root-cause it? Frame the cost-vs-forensic-value trade at org scale. | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-rpo-for-the-telemetry-pipeline-metrics-logs-traces--99928) |
-| In a model that predicts disk-full incidents, what is the target variable and what would a feature be? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Machine Learning Fundamentals (Supervised/Unsupervised) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-model-that-predicts-disk-full-incidents-what-is-the-target-variab-88935) |
-| When would you choose a simple static threshold rule over an ML model for alerting, and why? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Machine Learning Fundamentals (Supervised/Unsupervised) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-choose-a-simple-static-threshold-rule-over-an-ml-model--88980) |
-| What is a simple moving average and how can it help spot a trend heading toward failure? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Predictive Analytics & Failure Prediction | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-simple-moving-average-and-how-can-it-help-spot-a-trend-headi-90354) |
-| What is a simple rule-based predictor and when is it good enough compared to ML? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Predictive Analytics & Failure Prediction | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-simple-rule-based-predictor-and-when-is-it-good-enough-compa-90392) |
-| What is SMART data on disks and how is it used to predict drive failure? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Predictive Analytics & Failure Prediction | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-smart-data-on-disks-and-how-is-it-used-to-predict-drive-failur-90361) |
-| What is the difference between prediction and anomaly detection in AIOps? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Predictive Analytics & Failure Prediction | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-prediction-and-anomaly-detection-in-aio-90338) |
-| Why might a team want to predict a disk running out of space instead of reacting to it? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Predictive Analytics & Failure Prediction | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-a-team-want-to-predict-a-disk-running-out-of-space-instead-o-90330) |
-| What is a heartbeat or availability check, and what happens if it stops responding? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-heartbeat-or-availability-check-and-what-happens-if-it-stops-91584) |
-| What is a metric threshold breach and how is it typically turned into an event? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-metric-threshold-breach-and-how-is-it-typically-turned-into--91579) |
-| What is alert flapping and why can it be a problem for on-call engineers? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-alert-flapping-and-why-can-it-be-a-problem-for-on-call-enginee-91565) |
-| What kinds of external monitoring tools commonly send events into ServiceNow Event Management? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-kinds-of-external-monitoring-tools-commonly-send-events-into-serv-91555) |
-| How do you count the number of ERROR-level log lines per service in the last 15 minutes? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-count-the-number-of-error-level-log-lines-per-service-in-th-87331) |
-| How do you join a hosts table with a metrics table to get each metric row alongside the host's data-center location? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-join-a-hosts-table-with-a-metrics-table-to-get-each-metric--87345) |
-| How would you bucket metric values into ranges (e.g. CPU 0-50, 50-80, 80-100) and count hosts in each bucket using CASE? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-bucket-metric-values-into-ranges-e-g-cpu-0-50-50-80-80-1-87351) |
-| How would you compute a 5-minute rolling average of CPU usage per host using a window function? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compute-a-5-minute-rolling-average-of-cpu-usage-per-host-87357) |
-| How would you find hosts that reported no metrics at all in the last 10 minutes (possibly down)? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-find-hosts-that-reported-no-metrics-at-all-in-the-last-1-87341) |
-| How would you find the timestamp of the last metric received per host to detect stale/missing agents? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-find-the-timestamp-of-the-last-metric-received-per-host--87378) |
-| How would you use LAG to compute the change in a metric between consecutive readings per host (a simple delta)? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-lag-to-compute-the-change-in-a-metric-between-consec-87359) |
-| How would you write a query to find hosts present in the inventory table but missing from the metrics table (agent not reporting)? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-write-a-query-to-find-hosts-present-in-the-inventory-tab-87412) |
-| How would you write a query to find the top 5 hosts by error count in the last hour? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-write-a-query-to-find-the-top-5-hosts-by-error-count-in--87333) |
-| Write a query to compute the gap in seconds between each host's consecutive heartbeats using LAG, to spot missed check-ins. | deep understanding | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-query-to-compute-the-gap-in-seconds-between-each-host-s-consec-87379) |
-| Write a query to find hosts whose current CPU is more than double their 1-hour average, using a window average. | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-query-to-find-hosts-whose-current-cpu-is-more-than-double-thei-87367) |
-| You have a metrics table (metric_name/host/value/ts). Write a query to fetch the last hour of CPU-usage rows for a single host. | basic concept | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-a-metrics-table-metric-name-host-value-ts-write-a-query-to-fe-87328) |
-| Walk me through inferring dependencies purely from telemetry when you have no tracing instrumentation — what signals (netflow, logs, socket stats) would you fuse and how reliable is each? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-inferring-dependencies-purely-from-telemetry-when-you--97628) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,34 +1,33 @@
 # SonarSource
 
-**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 6
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to SonarSource:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. SonarSource's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches SonarSource: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 1 | 2 | 2 | 2 |
-| Fullstack | 0 | 0 | 0 | 3 | 3 | 3 |
-| DevOps | 0 | 0 | 1 | 1 | 0 | 1 |
+| Backend | 5 | 5 | 20 | 59 | 57 | 60 |
+| Fullstack | 19 | 19 | 48 | 56 | 24 | 60 |
+| DevOps | 29 | 21 | 31 | 58 | 42 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 9 | 4 | 46 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a system to detect and prevent architectural erosion: over time services take shortcuts that violate the intended design. How do you encode architectural rules as automated fitness functions in CI? | expertise | SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-to-detect-and-prevent-architectural-erosion-over-time--31024) |
-| How would you write an automated test that fails the build if a query is built via string concatenation with a variable? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-write-an-automated-test-that-fails-the-build-if-a-query--13958) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a fitness-function test that fails CI when a service reaches around a Repository to run raw SQL, across a polyglot codebase where the violation looks different in Java, Go, and TypeScript? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-fitness-function-test-that-fails-ci-when-a-serv-38459) |
-| How would you architect a fitness-function suite that enforces, in CI across a polyglot fleet, that no cross-context call bypasses the anti-corruption layer and no service opens more than its allotted Object-Pool of connections? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-fitness-function-suite-that-enforces-in-ci-a-38517) |
-| How would you architect a Visitor-based static-analysis pass over a large polyglot monorepo to detect anti-pattern usage (god objects, cyclic deps), and why does the 'hard to add node types' Visitor weakness actually not bite you here? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-visitor-based-static-analysis-pass-over-a-la-38477) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A SonarQube quality gate blocks the pipeline on a legacy module nobody owns. How do you handle gating pragmatically without disabling quality checks? | intermediate experience | SDE-1/2, SDE-2/3 | Jenkins | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-sonarqube-quality-gate-blocks-the-pipeline-on-a-legacy-module-nobody-48301) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

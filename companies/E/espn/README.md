@@ -1,31 +1,33 @@
 # ESPN
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 9
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to ESPN:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. ESPN's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches ESPN: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 5 | 5 | 4 | 5 |
-| Fullstack | 1 | 1 | 2 | 4 | 3 | 4 |
+| Backend | 5 | 5 | 24 | 59 | 56 | 60 |
+| Fullstack | 21 | 21 | 49 | 55 | 24 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you cache a value whose freshness requirement changes over its lifetime — fresh when an event is live, stale-tolerant once it ends — and encode that in the caching layer itself? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cache-a-value-whose-freshness-requirement-changes-over-i-25427) |
-| Explain how you'd cache and serve a real-time-ish scoreboard (updates every few seconds) to millions without hitting origin per request. Compare short-TTL micro-caching with jitter, edge push/purge, and an edge-KV write-through approach. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-cache-and-serve-a-real-time-ish-scoreboard-updates-e-29742) |
-| How would you cache and serve a real-time-ish feed (e.g., cricket scores) where users want freshness but you can't hit origin per request? Discuss micro-caching, TTL jitter, and edge push. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cache-and-serve-a-real-time-ish-feed-e-g-cricket-scores--20907) |
-| Compare WebSockets, SSE, and long-polling for pushing live scores to 500k viewers. What breaks first at scale for each, and how do you scale the fan-out layer horizontally? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-websockets-sse-and-long-polling-for-pushing-live-scores-to-500-22285) |
-| How would you build a live sports score or cricket scoreboard that updates in real time? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-live-sports-score-or-cricket-scoreboard-that-upd-3752) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you cache and serve a real-time-ish feed (e.g., cricket scores) where users want freshness but you can't hit origin per request? Discuss micro-caching, TTL jitter, and edge push. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cache-and-serve-a-real-time-ish-feed-e-g-cricket-scores--20907) |
-| How do you architect the client for a product that must scale a single websocket/SSE fan-out to millions of concurrent viewers (live sports, elections) without the browser or the edge melting? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-client-for-a-product-that-must-scale-a-single-40054) |
-| Design the architecture for a live-sports second-screen experience (live scores commentary polls) for 50M concurrent viewers during a final — how do you fan out state updates run interactive polls and degrade gracefully when a wicket falls and everyone refreshes at once? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-a-live-sports-second-screen-experience-liv-39432) |
-| How would you build a live sports score or cricket scoreboard that updates in real time? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-live-sports-score-or-cricket-scoreboard-that-upd-3752) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

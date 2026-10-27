@@ -1,31 +1,33 @@
 # Pocket Gems
 
-**Tier:** Tier 3  |  **Business domain:** Gaming  |  **Questions:** 15
+**Tier:** Tier 3  |  **Business domain:** Gaming  |  **Questions listed:** 540  |  **Tagged directly to Pocket Gems:** 15
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Pocket Gems's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Pocket Gems: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 15 | 15 | 15 | 15 | 15 | 15 |
+| Backend | 1 | 0 | 58 | 60 | 28 | 60 |
+| Fullstack | 0 | 0 | 55 | 60 | 11 | 60 |
+| DevOps | 2 | 0 | 22 | 60 | 50 | 60 |
+| AIOps | 1 | 0 | 21 | 60 | 45 | 60 |
+| Data Engineer | 2 | 0 | 45 | 60 | 21 | 60 |
+| Database Developer | 2 | 14 | 14 | 48 | 48 | 60 |
+| ML Engineer | 2 | 0 | 11 | 60 | 54 | 60 |
+| AI Engineer | 5 | 0 | 21 | 60 | 50 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Constant-Time Set with Uniform Random Sampling | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Design, Hash Table, Randomized, Swap-Remove | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=constant-time-set-with-uniform-random-sampling-d380) |
-| Counting Integers Whose Binary Form Has No Adjacent Set Bits | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bit Manipulation, Combinatorics, Digit DP, Dynamic Programming, Fibonacci Sequence, Number Theory | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-integers-whose-binary-form-has-no-adjacent-set-bits-d591) |
-| Deep Copy of a Connected Undirected Network | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Depth-First Search, Graph, Hash Table, Recursion | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=deep-copy-of-a-connected-undirected-network-d133) |
-| Evaluate an Integer Arithmetic Expression with Parentheses | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Expression Evaluation, Math, Parsing, Recursion, Stack, String | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=evaluate-an-integer-arithmetic-expression-with-parentheses-d757) |
-| Find the Element with a Given Rank by Magnitude | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Divide and Conquer, Heap (Priority Queue), Quickselect, Selection Algorithm, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=find-the-element-with-a-given-rank-by-magnitude-d215) |
-| First Position Where a Pattern Appears Inside a Text | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | KMP, Prefix Function, String, String Matching, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=first-position-where-a-pattern-appears-inside-a-text-d28) |
-| Identifying Values That Occur Exactly Twice Using the Array Itself | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Cyclic/Sign Trick, Hash Table, Index Encoding, In-place Marking | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=identifying-values-that-occur-exactly-twice-using-the-array-itself-d442) |
-| Longest Uniform Block After Limited Repaints | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Hash Table, Sliding Window, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-uniform-block-after-limited-repaints-d424) |
-| Most Frequent Tokens in Rank Order | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bucket Sort, Counting, Hash Table, Heap (Priority Queue), Sorting, String, Trie | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=most-frequent-tokens-in-rank-order-d677) |
-| Next Node in Sorted Order of a Binary Search Tree | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Binary Search Tree, Binary Tree, Depth-First Search, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=next-node-in-sorted-order-of-a-binary-search-tree-d285) |
-| Order a Three-Category Array In Place | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, In-Place Algorithm, Sorting, Three-Way Partition, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=order-a-three-category-array-in-place-d75) |
-| Recovering an Unknown Alphabet Order From a Sorted Word List | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Graph, Hash Table, In-degree, String, Topological Sort | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=recovering-an-unknown-alphabet-order-from-a-sorted-word-list-d269) |
-| Segment a String Using a Token Dictionary | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Hash Table, Memoization, Recursion, String, Trie | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=segment-a-string-using-a-token-dictionary-d139) |
-| Shortest Palindrome Formed by Prepending Characters | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Function, KMP, Palindrome, Prefix Function, Rolling Hash, String, String Matching | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-palindrome-formed-by-prepending-characters-d214) |
-| The K Most Frequently Occurring Values in an Array | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bucket Sort, Counting, Divide and Conquer, Hash Table, Heap (Priority Queue), Quickselect, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-k-most-frequently-occurring-values-in-an-array-d347) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

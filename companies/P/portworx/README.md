@@ -1,57 +1,33 @@
 # Portworx
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 29
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Portworx:** 28
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Portworx's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Portworx: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 7 | 7 | 8 | 8 | 8 | 8 |
-| Fullstack | 0 | 0 | 1 | 1 | 1 | 1 |
-| DevOps | 0 | 0 | 12 | 20 | 17 | 20 |
+| Backend | 11 | 11 | 48 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 21 | 60 |
+| DevOps | 27 | 19 | 40 | 58 | 41 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you resize a PersistentVolumeClaim online, and what must the StorageClass support for expansion to work? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-resize-a-persistentvolumeclaim-online-and-what-must-the-sto-14426) |
-| How do you take an application-consistent backup of stateful workloads in Kubernetes, and what does a tool like Velero do? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-take-an-application-consistent-backup-of-stateful-workloads-14461) |
-| How does volumeClaimTemplates work in a StatefulSet, and why does each replica get its own stable PVC? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-volumeclaimtemplates-work-in-a-statefulset-and-why-does-each--14425) |
-| How would you design online PVC resizing and volume snapshots into your backup/restore runbook for a stateful service, and what StorageClass and CSI capabilities must be in place for it to work? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-online-pvc-resizing-and-volume-snapshots-into-you-19561) |
-| What is a PersistentVolume's accessMode (ReadWriteOnce, ReadWriteMany, ReadWriteOncePod), and how does it constrain multi-Pod mounts? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-persistentvolume-s-accessmode-readwriteonce-readwritemany-re-14422) |
-| What is a VolumeSnapshot, and how would you use it to back up a database running in a StatefulSet? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-volumesnapshot-and-how-would-you-use-it-to-back-up-a-databas-14427) |
-| What is the CSI (Container Storage Interface), and how does it decouple storage drivers from the Kubernetes core? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-csi-container-storage-interface-and-how-does-it-decouple-s-14423) |
-| Why does deleting a StatefulSet not delete its PVCs by default, and how do you control that with persistentVolumeClaimRetentionPolicy? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-does-deleting-a-statefulset-not-delete-its-pvcs-by-default-and-how-14428) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design online PVC resizing and volume snapshots into your backup/restore runbook for a stateful service, and what StorageClass and CSI capabilities must be in place for it to work? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-online-pvc-resizing-and-volume-snapshots-into-you-19561) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a backup + disaster-recovery orchestration layer for stateful Kubernetes (Velero + bespoke vs Kasten/Portworx/managed) when RPO/RTO guarantees and restore-test automation are the actual deliverable? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-backup-disaster-recovery-orchestr-53749) |
-| What's your strategy for backing up and restoring Kubernetes cluster state, PVs, and CRDs across regions, and how do you test that restore end-to-end? | deep understanding | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-backing-up-and-restoring-kubernetes-cluster-s-56941) |
-| You need to run a StatefulSet database with three replicas on Kubernetes. Explain how you'd guarantee stable network identity ordered startup and that a re-scheduled pod reattaches to its own PVC and not another replica's data. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-run-a-statefulset-database-with-three-replicas-on-kubernet-46423) |
-| You run a stateful workload on a StatefulSet and a node hard-crashed, leaving a pod stuck in Terminating with its PVC attached. How do you recover safely without risking two pods writing to the same volume? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-run-a-stateful-workload-on-a-statefulset-and-a-node-hard-crashed-l-46933) |
-| Your app writes to a single NFS-backed PVC and when the storage backend hiccuped every pod blocked on I/O. How do you reduce this shared-storage single point of failure for a stateful workload? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-app-writes-to-a-single-nfs-backed-pvc-and-when-the-storage-backen-46943) |
-| How do you architect GitOps to handle a StatefulSet spec change that would force a recreate and data loss — what fleet-wide safeguards and human gates go into the pipeline? | deep understanding | SDE-2/3, Architect/Principal | GitOps | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-gitops-to-handle-a-statefulset-spec-change-that-w-54905) |
-| How do you set the org policy on pruning stateful resources so an accidental manifest deletion can never destroy a PVC or database, while keeping true declarative cleanup for stateless apps? | deep understanding | SDE-2/3, Architect/Principal | GitOps | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-org-policy-on-pruning-stateful-resources-so-an-acci-54873) |
-| You're paged that a StatefulSet's persistent volume failed to attach after a node moved, leaving a pod pending — how do you triage a stateful-workload storage-attach incident in Kubernetes? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-paged-that-a-statefulset-s-persistent-volume-failed-to-attach-a-47488) |
-| A pod is stuck Terminating for 20 minutes and won't die. How would you determine whether it's a stuck finalizer, a volume that won't detach, or a hung preStop, and how do you unblock each safely? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pod-is-stuck-terminating-for-20-minutes-and-won-t-die-how-would-you--45959) |
-| You must make backups verifiable across many teams so 'we have Velero' actually means 'we can recover'. How would you architect a regularly-test-restored backup program, assign ownership of proving each service is recoverable, and surface a service whose last test-restore silently failed? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-make-backups-verifiable-across-many-teams-so-we-have-velero-a-52178) |
-| Your cluster's default StorageClass provisions Delete-reclaim volumes and a deleted PVC took real data with it. How would you set reclaim policy and PVC retention so an accidental delete is recoverable? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-cluster-s-default-storageclass-provisions-delete-reclaim-volumes--45975) |
-| Your DR plan restores etcd from a snapshot but the underlying volumes have moved on since the snapshot. How would you architect the reconciliation so a restored control plane doesn't reattach stale volume references or resurrect deleted PVCs, and how would you bound the resulting data inconsistency? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-dr-plan-restores-etcd-from-a-snapshot-but-the-underlying-volumes--52177) |
-| Your nightly Velero backup succeeds but a test restore into a fresh namespace comes up with empty PVCs. How would you debug whether it's the snapshot class, the CSI driver, or the restore ordering? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-nightly-velero-backup-succeeds-but-a-test-restore-into-a-fresh-na-45919) |
-| How do you decide the org's default for stateful workloads on Kubernetes across regions — do you standardize a storage-replication operator, or forbid cross-region stateful k8s entirely? Defend the stance. | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-s-default-for-stateful-workloads-on-kubernet-53600) |
-| How would you replicate a stateful workload on Kubernetes (a StatefulSet with PVCs) across regions, and why is storage the hardest part of multi-region k8s? What operators help? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-replicate-a-stateful-workload-on-kubernetes-a-statefulse-47584) |
-| How would you use Velero or a similar tool to back up and restore Kubernetes cluster state (including PVs) into a standby cluster in another region for DR? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-velero-or-a-similar-tool-to-back-up-and-restore-kube-47538) |
-| A node runs out of ephemeral storage and pods get evicted — how do the OS filesystem, the container runtime's writable layer, and kubelet eviction thresholds combine here? | deep understanding | SDE-1/2, SDE-2/3 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-node-runs-out-of-ephemeral-storage-and-pods-get-evicted-how-do-the-o-45016) |
-| How does OverlayFS copy-on-write affect write performance and disk usage in your containers, and when would you use a volume instead of the container filesystem? | deep understanding | SDE-1/2, SDE-2/3 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-overlayfs-copy-on-write-affect-write-performance-and-disk-usa-44951) |
-| Two pods on the same node fight over disk bandwidth — how do blkio/io cgroup controllers let you throttle one, and what are the limits of that approach? | expertise | SDE-1/2, SDE-2/3 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=two-pods-on-the-same-node-fight-over-disk-bandwidth-how-do-blkio-io-cg-44952) |
-| How do you decide the org's stance on stateful-workload placement on Kubernetes versus managed services — when is running your own sharded database on StatefulSets a defensible availability and cost choice, and when is it a career-limiting operational trap? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-s-stance-on-stateful-workload-placement-on-k-52062) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

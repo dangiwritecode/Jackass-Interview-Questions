@@ -1,39 +1,33 @@
 # Tigera
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 17
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Tigera:** 17
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Tigera's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Tigera: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 1 | 1 | 0 | 1 |
-| DevOps | 0 | 0 | 12 | 16 | 10 | 16 |
+| Backend | 4 | 4 | 43 | 59 | 56 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 40 | 58 | 38 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how conntrack works for a Linux host doing NAT/firewalling, why nf_conntrack_max exhaustion drops new connections with 'nf_conntrack: table full' in dmesg, and how you'd size it under high churn. | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-conntrack-works-for-a-linux-host-doing-nat-firewalling-why-26651) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your EKS pods use the AWS VPC CNI and you're running out of pod IPs even though the subnet looks big — how do prefix delegation and secondary CIDRs help, and what's the trade-off with IP fragmentation? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-eks-pods-use-the-aws-vpc-cni-and-you-re-running-out-of-pod-ips-ev-46153) |
-| Your org's AKS network policy is inconsistent per-team; how do you roll out a standardized Cilium/Calico network-policy baseline as a platform default without breaking existing traffic? | deep understanding | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-s-aks-network-policy-is-inconsistent-per-team-how-do-you-roll-54600) |
-| How do you decide build-vs-buy for a multi-cluster networking / CNI layer (Cilium managed by Isovalent vs Calico Enterprise vs OSS + self-support) when cluster-mesh connectivity and network-policy enforcement span every workload? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-multi-cluster-networking-cni-laye-53767) |
-| How would you decide MTU and enable jumbo frames across an EKS cluster with a Calico overlay, and what silent failures appear if path MTU discovery is blocked? | expertise | SDE-1/2, SDE-2/3 | Computer Networks | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-mtu-and-enable-jumbo-frames-across-an-eks-cluster-45022) |
-| Explain network policies in Kubernetes — how do you move from a flat, allow-all cluster to default-deny without breaking everything? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-network-policies-in-kubernetes-how-do-you-move-from-a-flat-all-50652) |
-| Walk me through how Cilium implements NetworkPolicy in eBPF versus how Calico does it with iptables, and where each falls over at scale. | expertise | SDE-1/2, SDE-2/3 | eBPF | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-cilium-implements-networkpolicy-in-ebpf-versus-how-51833) |
-| Your team is choosing between Cilium, Calico eBPF mode, and AWS VPC CNI for a new EKS cluster. Walk me through the eBPF-related decision factors. | deep understanding | SDE-1/2, SDE-2/3 | eBPF | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-team-is-choosing-between-cilium-calico-ebpf-mode-and-aws-vpc-cni--51892) |
-| Explain how you'd roll out a change to a Kubernetes NetworkPolicy or security-group behind a flag-like toggle so you can test connectivity impact on a canary before fleet-wide. | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-roll-out-a-change-to-a-kubernetes-networkpolicy-or-s-47381) |
-| An incident is triggered by a NetworkPolicy change that blocked egress to an external API — how do you triage 'external calls timing out' back to a Kubernetes network-policy change? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-incident-is-triggered-by-a-networkpolicy-change-that-blocked-egress-47482) |
-| You're paged for a partial outage and suspect a bad node's kernel/CNI plugin is dropping packets — how do you isolate one bad node from a networking-layer incident under time pressure? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-paged-for-a-partial-outage-and-suspect-a-bad-node-s-kernel-cni--47449) |
-| A NetworkPolicy blocks the traffic you wanted but also broke health-check probes from the kubelet. Why does that happen and how would you write the policy so probes still succeed? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-networkpolicy-blocks-the-traffic-you-wanted-but-also-broke-health-ch-45932) |
-| How does Calico's BGP mode advertise pod routes to the physical network? When would you run BGP versus IP-in-IP or VXLAN encapsulation? | expertise | SDE-1/2, SDE-2/3 | Kubernetes Networking (CNI/Ingress) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-calico-s-bgp-mode-advertise-pod-routes-to-the-physical-networ-51689) |
-| You need pod IPs to be routable directly from an on-prem network for a hybrid setup. What CNI and networking mode achieves this and what are the constraints? | deep understanding | SDE-1/2, SDE-2/3 | Kubernetes Networking (CNI/Ingress) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-pod-ips-to-be-routable-directly-from-an-on-prem-network-for-a-51690) |
-| Explain the practical difference between a NetworkPolicy and a service-mesh AuthorizationPolicy in Istio. If both are in play, which one enforces first, and how do you avoid a rule in one silently overriding intent in the other? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-practical-difference-between-a-networkpolicy-and-a-service-47828) |
-| A cost-cutting mandate asks whether you can drop the mesh entirely and push mTLS to the CNI (Cilium WireGuard/IPsec) plus keep an API gateway. Steelman the mesh-removal, then present what L7 capabilities you'd lose and whether the org can live without them. | expertise | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cost-cutting-mandate-asks-whether-you-can-drop-the-mesh-entirely-and-52674) |
-| You're challenged on whether the mesh's per-hop mTLS is redundant with a WireGuard-encrypted CNI already encrypting all pod traffic. Adjudicate the double-encryption cost vs the identity-vs-transport distinction, and whether you'd run both, one, or neither. | expertise | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-challenged-on-whether-the-mesh-s-per-hop-mtls-is-redundant-with-52714) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

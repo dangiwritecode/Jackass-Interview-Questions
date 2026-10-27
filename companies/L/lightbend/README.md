@@ -1,55 +1,33 @@
 # Lightbend
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 33
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Lightbend:** 33
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Lightbend's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Lightbend: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 3 | 6 | 6 | 6 |
-| Data Engineer | 0 | 0 | 27 | 27 | 0 | 27 |
+| Backend | 4 | 4 | 43 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 10 | 3 | 50 | 59 | 13 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Mid-discussion probe: your reactive pipeline uses request(n) demand signaling — how do you tune the batch size n to balance throughput against memory and responsiveness and what goes wrong at the extremes? | deep understanding | SDE-2/3, Architect/Principal | Backpressure & Flow Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=mid-discussion-probe-your-reactive-pipeline-uses-request-n-demand-sign-37765) |
-| Mid-discussion probe: your reactive stream uses onBackpressureBuffer as a fallback — under what real conditions does that quietly reintroduce the unbounded-queue problem you were trying to avoid and what's the safer operator choice? | deep understanding | SDE-2/3, Architect/Principal | Backpressure & Flow Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=mid-discussion-probe-your-reactive-stream-uses-onbackpressurebuffer-as-37797) |
-| You inherit a reactive-streams codebase where backpressure is 'implemented' but the system still OOMs under load; what are the classic places the demand signal leaks or is bypassed and how would you audit for them? | expertise | SDE-2/3, Architect/Principal | Backpressure & Flow Control | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-a-reactive-streams-codebase-where-backpressure-is-implemen-37724) |
-| What guarantees does an actor model give you about state that the lock-based model doesn't, and where does it still let races in (e.g., across actors, message reordering)? When would you choose actors for a backend service? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Concurrency Patterns & Race Conditions | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-guarantees-does-an-actor-model-give-you-about-state-that-the-lock-30264) |
-| Your async pipeline has unbounded queues between stages and memory blows up under a traffic burst. Explain backpressure, and design bounded handoff between producers and consumers that pushes back instead of OOMing. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Concurrency Patterns & Race Conditions | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-async-pipeline-has-unbounded-queues-between-stages-and-memory-blo-30288) |
-| You want to model an order lifecycle where invalid transitions are impossible to even compile. Compare State-pattern classes with a typed state machine (algebraic/typed-state) for safety, maintainability, and how each handles persistence and rehydration. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-model-an-order-lifecycle-where-invalid-transitions-are-imp-22530) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe how you would set up property-based testing with ScalaCheck for a data transformation, and what invariants you'd assert. | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-set-up-property-based-testing-with-scalacheck-f-122716) |
-| Explain how sbt multi-project builds help you separate a shared model, ingestion, and job-runner in a Scala data platform. | intermediate experience | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-sbt-multi-project-builds-help-you-separate-a-shared-model--122712) |
-| Explain how you would build a small DSL in Scala for expressing data-quality rules, and what language features enable it. | expertise | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-build-a-small-dsl-in-scala-for-expressing-data-q-122728) |
-| Explain how you'd design a reusable Scala library of transformations shared across multiple Spark pipelines while keeping it testable. | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-reusable-scala-library-of-transformations-s-122677) |
-| Explain how you'd expose a Scala library API that is ergonomic for less-experienced teammates while still enforcing correctness with types. | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-expose-a-scala-library-api-that-is-ergonomic-for-les-122744) |
-| Explain how you'd implement retry with exponential backoff for a flaky external call inside a Scala ingestion service. | intermediate experience | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-implement-retry-with-exponential-backoff-for-a-flaky-122748) |
-| Explain how you'd model optional and nullable columns from a source in Scala so downstream code cannot forget to handle missing values. | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-optional-and-nullable-columns-from-a-source-in-122752) |
-| Explain how you'd use pattern matching over a sealed ADT to route different event types to different processing paths in Scala. | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-use-pattern-matching-over-a-sealed-adt-to-route-diff-122760) |
-| How do implicit conversions and implicit classes work in Scala, and how would you use them to add helper methods to Spark Column objects? | expertise | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-implicit-conversions-and-implicit-classes-work-in-scala-and-how-122684) |
-| How do Scala Futures compose with for-comprehensions, and when would you reach for them in an ingestion service versus using Spark? | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-scala-futures-compose-with-for-comprehensions-and-when-would-yo-122694) |
-| How do you decide the right level of abstraction in Scala so a data pipeline stays readable but avoids overengineering with too many type-class layers? | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-right-level-of-abstraction-in-scala-so-a-data-pi-122761) |
-| How do you handle backpressure in a Scala Akka Streams ingestion pipeline, and how does it compare to Spark's micro-batch model? | expertise | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-backpressure-in-a-scala-akka-streams-ingestion-pipel-122721) |
-| How do you keep a Scala data platform's build reproducible across CI and local dev, including pinned dependency versions? | intermediate experience | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-a-scala-data-platform-s-build-reproducible-across-ci-a-122755) |
-| How do you manage configuration and secrets in a Scala data application across dev, staging, and prod without hardcoding them? | intermediate experience | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-manage-configuration-and-secrets-in-a-scala-data-applicatio-122711) |
-| How do you use type classes in Scala to write a generic serializer/deserializer across multiple record types in a pipeline? | expertise | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-type-classes-in-scala-to-write-a-generic-serializer-des-122727) |
-| How does Scala's immutability model help you reason about correctness in a distributed Spark job that runs across hundreds of executors? | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-scala-s-immutability-model-help-you-reason-about-correctness--122669) |
-| How would you benchmark two Scala implementations of the same transformation fairly, accounting for JVM warmup? | expertise | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-benchmark-two-scala-implementations-of-the-same-transfor-122741) |
-| How would you implement a monoid in Scala to combine partial aggregates from multiple partitions, and why does that generalize well? | expertise | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-a-monoid-in-scala-to-combine-partial-aggregate-122719) |
-| How would you introduce an effect type like cats-effect IO into a Scala ingestion microservice, and what does it buy you over plain Futures? | expertise | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-introduce-an-effect-type-like-cats-effect-io-into-a-scal-122696) |
-| How would you use Scala's for-comprehension over Either to build a validation-and-enrichment pipeline that short-circuits on the first failure? | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-scala-s-for-comprehension-over-either-to-build-a-val-122767) |
-| How would you write a Scala function that safely handles nested Option and Either without a pyramid of nested matches? | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-write-a-scala-function-that-safely-handles-nested-option-122737) |
-| What are the trade-offs of using a JSON library like circe versus play-json for parsing high-throughput event streams in Scala? | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-trade-offs-of-using-a-json-library-like-circe-versus-play-122705) |
-| What is the cost of using Scala reflection or runtime type inspection in a data pipeline, and how do you avoid it on hot paths? | expertise | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-cost-of-using-scala-reflection-or-runtime-type-inspection--122758) |
-| What is the impact of boxing of primitives in Scala collections on a hot data path, and how do you avoid it in performance-critical code? | expertise | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-impact-of-boxing-of-primitives-in-scala-collections-on-a-h-122701) |
-| What is the Scala binary compatibility problem across 2.12/2.13/3.x, and how does it affect which Spark version you can run? | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-scala-binary-compatibility-problem-across-2-12-2-13-3-x-an-122714) |
-| What Scala patterns help you write a pipeline stage that is composable and testable in isolation from Spark's runtime? | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-scala-patterns-help-you-write-a-pipeline-stage-that-is-composable-122726) |
-| When would you choose Akka Streams over Spark for a streaming workload in Scala, and what are the operational trade-offs? | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-choose-akka-streams-over-spark-for-a-streaming-workload-122722) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

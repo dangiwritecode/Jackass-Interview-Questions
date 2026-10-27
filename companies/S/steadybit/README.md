@@ -1,42 +1,33 @@
 # Steadybit
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 20
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Steadybit:** 20
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Steadybit's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Steadybit: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 4 | 16 | 14 | 16 |
-| AIOps | 0 | 0 | 0 | 4 | 4 | 4 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 1 | 1 | 10 | 60 | 55 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you incorporate a real GameDay or chaos-engineering finding (a zone failure drained more capacity than the PDBs allowed) into a subsequent ATAM as evidence, and how does that change the confidence you assign to an availability sensitivity point? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-incorporate-a-real-gameday-or-chaos-engineering-finding-a-z-53247) |
-| How do you weigh build-vs-buy for a chaos-engineering + resilience-testing platform (Gremlin/Steadybit vs LitmusChaos/Chaos Mesh + bespoke) when you must justify spend on failures you're trying to prevent, not observe? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-build-vs-buy-for-a-chaos-engineering-resilience-testi-53738) |
-| How do you architect a 'game master' automation that can orchestrate a company-wide GameDay across many teams simultaneously with centralized abort control and per-team scoping? | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-game-master-automation-that-can-orchestrate-a-c-55141) |
-| How do you architect experiment scheduling so that always-on background chaos across the fleet never collides with releases, marketing peaks, or other teams' experiments? | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-experiment-scheduling-so-that-always-on-backgroun-55189) |
-| How do you design a strategy that distinguishes 'resilience we can verify continuously' from 'resilience we can only verify in a scheduled GameDay', and communicate that risk gap? | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-strategy-that-distinguishes-resilience-we-can-veri-55185) |
-| How do you scale reviewing and approving hundreds of experiment definitions without becoming a bottleneck, and what would you automate versus keep human-in-the-loop? | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-scale-reviewing-and-approving-hundreds-of-experiment-defini-55153) |
-| How would you architect a global kill-switch and coordination service so any running experiment anywhere halts within seconds when a real Sev1 is declared? | expertise | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-global-kill-switch-and-coordination-service--55159) |
-| Walk me through architecting deterministic, reproducible experiments at scale so results are trend-able and comparable across releases despite a constantly changing environment. | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-architecting-deterministic-reproducible-experiments-at-55166) |
-| What is 'failure as a service' and how might you leverage a managed platform versus building your own tooling? | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-failure-as-a-service-and-how-might-you-leverage-a-managed-plat-50810) |
-| Make the build-vs-buy call between a commercial chaos-engineering platform (e.g., Gremlin/Steadybit) and building fault-injection into your own paved-road. Quantify TCO, coverage, and lock-in for a 300-service org and defend your recommendation to a cost-conscious CTO. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=make-the-build-vs-buy-call-between-a-commercial-chaos-engineering-plat-52827) |
-| How do you test that a kill switch actually works before you need it in an incident — describe a game-day exercise for flag-based kill switches. | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-test-that-a-kill-switch-actually-works-before-you-need-it-i-47341) |
-| How would you test a rollout's rollback path in a pre-prod environment — actually flipping the flag back and verifying the system fully returns to the old behavior with no residue? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-test-a-rollout-s-rollback-path-in-a-pre-prod-environment-47394) |
-| How would you design the platform's chaos-engineering and game-day capability as an inherited default so teams get fault-injection and resilience validation without building a practice from scratch? What's the minimum viable version that still changes behavior? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-platform-s-chaos-engineering-and-game-day-cap-54274) |
-| How would you provide golden-path chaos engineering so teams inherit fault injection and game-days rather than building resilience testing from scratch? What's the minimum viable version? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-provide-golden-path-chaos-engineering-so-teams-inherit-f-48208) |
-| How do you architect a chaos-engineering platform that can safely inject correlated regional and dependency failures across many teams' production systems, and how do you get an org to accept the blast-radius risk of deliberately testing at that scale? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-chaos-engineering-platform-that-can-safely-inje-52048) |
-| A staff engineer wants the mesh to auto-inject chaos (latency/faults) continuously in prod as resilience insurance. Adjudicate continuous-prod-chaos-via-mesh vs scheduled game-days, the blast-radius controls required, and whether you'd sign off on always-on injection. | deep understanding | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-staff-engineer-wants-the-mesh-to-auto-inject-chaos-latency-faults-co-52688) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a chaos-engineering + AIOps validation loop that deliberately injects failures to test whether your detection and correlation actually fire (buy Gremlin/Steadybit vs build) when the value only shows during game days you must justify pre-incident? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-chaos-engineering-aiops-validatio-100097) |
-| Your platform runs chaos experiments to validate detection: it injects a fault and checks that the AIOps platform detects it. How do you run these detection-validation experiments continuously without the injected faults themselves causing real customer impact? | deep understanding | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-platform-runs-chaos-experiments-to-validate-detection-it-injects--99190) |
-| How do you govern the periodic validation that your AIOps framework would actually catch a novel failure mode it has never seen, across clouds, rather than only the ones it's been tuned for? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-periodic-validation-that-your-aiops-framework-wo-100926) |
-| How would you govern a chaos-engineering program that deliberately triggers cross-cloud failure to validate that your AIOps detection and automation actually work? What's the safety guardrail? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-a-chaos-engineering-program-that-deliberately-tri-100883) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,88 +1,33 @@
 # MinIO
 
-**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions:** 36
+**Tier:** Tier 3  |  **Business domain:** SaaS  |  **Questions listed:** 540  |  **Tagged directly to MinIO:** 36
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. MinIO's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches MinIO: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 6 | 6 | 3 | 6 |
-| Fullstack | 0 | 0 | 0 | 2 | 2 | 2 |
-| DevOps | 0 | 0 | 7 | 9 | 9 | 9 |
-| Data Engineer | 6 | 0 | 7 | 11 | 4 | 11 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 2 | 4 | 2 | 4 |
-| AI Engineer | 2 | 0 | 2 | 3 | 3 | 3 |
+| Backend | 4 | 4 | 25 | 59 | 54 | 60 |
+| Fullstack | 19 | 19 | 49 | 56 | 23 | 60 |
+| DevOps | 29 | 21 | 37 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 11 | 60 | 53 | 60 |
+| Data Engineer | 15 | 4 | 42 | 60 | 25 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 2 | 60 | 58 | 60 |
+| AI Engineer | 5 | 3 | 5 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect cross-region asynchronous replication for object storage so a regional outage loses at most a few minutes of uploads, and what does that cost in egress? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-cross-region-asynchronous-replication-for-obje-27140) |
-| Design an object-storage/blob service backend (S3-like) that stores exabytes durably — how do you shard metadata handle erasure coding for durability and serve presigned time-limited uploads/downloads? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-object-storage-blob-service-backend-s3-like-that-stores-exab-28415) |
-| Design the metadata service for a blob store that must answer list/head for billions of objects with prefix queries — how do you shard the key space and keep listing consistent as objects are added/deleted? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-metadata-service-for-a-blob-store-that-must-answer-list-hea-28416) |
-| Explain how directory entry lookups get slow when a single directory holds millions of files, how hashed subdirectory sharding fixes it, and how ext4 dir_index and xfs differ in handling large directories. | deep understanding | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-directory-entry-lookups-get-slow-when-a-single-directory-h-26720) |
-| You need to understand why your service's write() calls occasionally block for hundreds of milliseconds. Explain how dirty page writeback, vm.dirty_ratio, and vm.dirty_background_ratio create write stalls and how you'd tune them. | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-understand-why-your-service-s-write-calls-occasionally-blo-26638) |
-| You're evaluating io_uring to replace a thread-pool-based blocking I/O layer. Explain the submission/completion queue model, when it wins over epoll, and the security and kernel-version caveats to weigh. | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-io-uring-to-replace-a-thread-pool-based-blocking-i-o-26644) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're accountable for whether the org runs its own object-storage-backed data platform (Ceph/Rook, MinIO) on Kubernetes or stays on cloud-native storage. Lay out the decision framework, the operational failure modes of self-hosted storage on K8s, and how you'd pilot before betting production data on it. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-accountable-for-whether-the-org-runs-its-own-object-storage-bac-39043) |
-| Your org runs stateful workloads on local NVMe for performance, but local disks die with nodes. As principal, how would you architect durability (replication at the app layer, topology-aware volumes, snapshot cadence) so you keep local-disk latency without a node loss becoming data loss, and prove the recovery works? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-stateful-workloads-on-local-nvme-for-performance-but-loc-39074) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your S3-backed feature depends on a bucket in one region; a regional S3 event made the feature error out. How do you add cross-region replication and a fallback so object-store dependency doesn't hard-fail the app? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-s3-backed-feature-depends-on-a-bucket-in-one-region-a-regional-s3-46977) |
-| You're paged for 5xx errors that turn out to be caused by an object-storage (S3/GCS) throttling your writes — how do you triage a cloud-storage-throttling incident and add backoff live? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-paged-for-5xx-errors-that-turn-out-to-be-caused-by-an-object-st-47486) |
-| A team asks for a shared PVC mounted read-write across 8 replicas of a reporting service. How would you evaluate ReadWriteMany options versus redesigning to avoid shared writable state? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-asks-for-a-shared-pvc-mounted-read-write-across-8-replicas-of-a-45926) |
-| You're deciding whether the org self-hosts an object-storage-backed data platform (Ceph/Rook, MinIO) on Kubernetes or stays on cloud-native storage. Lay out the framework, the operational failure modes of self-hosted storage on K8s, and how you'd pilot before betting production data on it. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-the-org-self-hosts-an-object-storage-backed-da-52173) |
-| Describe how you'd handle stateful storage that must be readable from both on-prem and cloud with acceptable consistency; what CAP trade-offs surface? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-handle-stateful-storage-that-must-be-readable-from--51173) |
-| Explain how you'd design storage tiering where hot data is in cloud and cold archives stay on-prem, and how lifecycle policies stay in sync. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-storage-tiering-where-hot-data-is-in-cloud-an-51216) |
-| Walk me through setting up cross-region replication for an S3 bucket with versioning, and how you'd verify replication completeness and monitor the ReplicationLatency metric. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-setting-up-cross-region-replication-for-an-s3-bucket-w-47527) |
-| Your object storage replicates async and a user uploads then immediately reads from another region getting a 404. How do you give read-after-write for uploads without waiting for global replication? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-object-storage-replicates-async-and-a-user-uploads-then-immediate-47577) |
-| How do you architect a durability SLO for a storage platform where the failure is silent data loss or corruption, not downtime — how do you make durability a first-class, continuously-measured SLI rather than a marketing number? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-durability-slo-for-a-storage-platform-where-the-54200) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your object-storage bill is dominated by GET/LIST request charges from millions of small-file scans, not by stored bytes. How would you estimate the request cost and redesign file layout, manifests, and caching to cut request charges rather than storage? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-object-storage-bill-is-dominated-by-get-list-request-charges-from-125337) |
-| How would you connect an ETL container to a MinIO container so your job reads and writes Parquet files to a bucket? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-connect-an-etl-container-to-a-minio-container-so-your-jo-116283) |
-| How would you run a local Postgres, MinIO (S3), and Spark in Docker Compose to integration-test a lakehouse write path end to end, and what startup-ordering races appear? | intermediate experience | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-a-local-postgres-minio-s3-and-spark-in-docker-compos-120217) |
-| How would you run MinIO in a container to act as a local S3-compatible object store for your data lake experiments? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-minio-in-a-container-to-act-as-a-local-s3-compatible-116281) |
-| How would you use Docker Compose to bring up a whole local data stack (a database, an object store, and your ETL job) with a single command? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-docker-compose-to-bring-up-a-whole-local-data-stack--116317) |
-| Why is a MinIO container useful for a data engineer testing S3-based pipelines without paying for or connecting to real cloud storage? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-a-minio-container-useful-for-a-data-engineer-testing-s3-based-p-116282) |
-| Why is storing your pipeline's intermediate files on the container's writable layer a bad idea, and what should you use instead? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-storing-your-pipeline-s-intermediate-files-on-the-container-s-w-116323) |
-| Why would you keep a raw data lake in a mounted volume or object store rather than inside the container that processes it? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-would-you-keep-a-raw-data-lake-in-a-mounted-volume-or-object-store-116338) |
-| An interviewer says 'you claim the lakehouse is cheaper — but our object-store request costs exploded after migration.' How did you diagnose and fix runaway small-object and listing costs? | deep understanding | SDE-2/3, Architect/Principal | Lakehouse Migration Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-says-you-claim-the-lakehouse-is-cheaper-but-our-object--126829) |
-| What's your position on abstracting object storage behind a portability layer (e.g. Alluxio, JuiceFS, a virtual filesystem) across clouds — where does that help and where does it just add a hop? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-position-on-abstracting-object-storage-behind-a-portabilit-127303) |
-| When two clouds' object stores have different consistency models and listing semantics, how does that leak into your ingestion correctness, and how do you defend against it? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-two-clouds-object-stores-have-different-consistency-models-and-li-127264) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you handle DR for petabyte-scale object storage backing a data lake where a full cross-region copy takes days — replication versus versioning versus re-derivation, tiered by retention class. Bound the RTO. | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-dr-for-petabyte-scale-object-storage-backing-a-data--112916) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your model container writes prediction artifacts and drift snapshots to its local filesystem and loses them on redeploy in a replicated deployment. How do you re-architect storage for horizontal scaling? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-model-container-writes-prediction-artifacts-and-drift-snapshots-t-63314) |
-| Your model container's OverlayFS writable layer balloons because a preprocessing step appends to a large temp feature file created in a lower layer. Explain copy-on-write growth and how you'd redirect that IO. | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-model-container-s-overlayfs-writable-layer-balloons-because-a-pre-63336) |
-| How would you architect a KV-cache tiering strategy (HBM to CPU to NVMe to remote store) for a platform serving very long shared contexts across thousands of sessions? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-kv-cache-tiering-strategy-hbm-to-cpu-to-nvme-71177) |
-| How would you design the storage and data architecture for petabyte-scale SFT and preference corpora with fast, governed, filtered access for training jobs? | deep understanding | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-storage-and-data-architecture-for-petabyte-sc-71299) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you decide the org's default cloud storage architecture for the RAG corpus lifecycle — hot, warm, cold, and re-embed-on-model-change — so you don't get ambushed by retrieval-cost spikes when a model upgrade forces a full re-index? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-org-s-default-cloud-storage-architecture-for--82767) |
-| How would you store the documents that feed a RAG pipeline in the cloud before they are chunked and embedded? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-store-the-documents-that-feed-a-rag-pipeline-in-the-clou-76487) |
-| What is a presigned URL and how could it let a user upload a document straight to object storage for your RAG app? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-presigned-url-and-how-could-it-let-a-user-upload-a-document--76517) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

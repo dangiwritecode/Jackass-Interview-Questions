@@ -1,32 +1,33 @@
 # Verkada
 
-**Tier:** Tier 3  |  **Business domain:** Security/Hardware  |  **Questions:** 16
+**Tier:** Tier 3  |  **Business domain:** Hardware / Security  |  **Questions listed:** 540  |  **Tagged directly to Verkada:** 16
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Verkada's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Verkada: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Structures & Algorithms (all profiles) | 16 | 16 | 16 | 16 | 16 | 16 |
+| Backend | 8 | 8 | 5 | 54 | 52 | 60 |
+| Fullstack | 14 | 14 | 40 | 54 | 20 | 60 |
+| DevOps | 45 | 0 | 47 | 60 | 15 | 60 |
+| AIOps | 0 | 0 | 7 | 60 | 57 | 60 |
+| Data Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| Database Developer | 0 | 0 | 0 | 60 | 60 | 60 |
+| ML Engineer | 0 | 0 | 16 | 60 | 44 | 60 |
+| AI Engineer | 1 | 1 | 8 | 60 | 57 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Structures & Algorithms
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Collapse Nested Directory Paths | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Depth-First Search, Prefix Matching, Sorting, String, Trie | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=collapse-nested-directory-paths-d1196) |
-| Common Segments of Two Sorted Interval Collections | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Intervals, Line Sweep, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=common-segments-of-two-sorted-interval-collections-d971) |
-| Count the Set Bits of an Integer | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bit Manipulation, Bitwise Operations, Brian Kernighan's Algorithm, Divide and Conquer | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-the-set-bits-of-an-integer-d191) |
-| Encode a Positive Integer as a Roman Numeral | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Hash Table, Math, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=encode-a-positive-integer-as-a-roman-numeral-d12) |
-| Evaluate a Flat Arithmetic Expression String | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Math, Parsing, Simulation, Stack, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=evaluate-a-flat-arithmetic-expression-string-d227) |
-| Evaluate an Integer Arithmetic Expression with Parentheses | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Expression Evaluation, Math, Parsing, Recursion, Stack, String | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=evaluate-an-integer-arithmetic-expression-with-parentheses-d757) |
-| Fewest Segment Deletions to Eliminate Overlaps | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Interval Scheduling, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-segment-deletions-to-eliminate-overlaps-d435) |
-| Fixed-Capacity Cache with Least-Frequently-Used Eviction | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cache Eviction, Design, Doubly Linked List, Hash Table, Linked List, Ordered Set | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fixed-capacity-cache-with-least-frequently-used-eviction-d460) |
-| Identify the Hidden Codeword with Limited Probes | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Adversarial Search, Array, Game Theory, Greedy Heuristics, Hashing, Interactive, Minimax, String | DSA/Coding Round, Onsite, Hiring Manager | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=identify-the-hidden-codeword-with-limited-probes-d828) |
-| In-Place Merge of Two Sorted Arrays | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Merge, Sorting, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-place-merge-of-two-sorted-arrays-d88) |
-| Longest Path Between Two Nodes in a Binary Tree | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Recursion, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-path-between-two-nodes-in-a-binary-tree-d541) |
-| Maximum Reward from Non-Overlapping Contracts | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Dynamic Programming, Sorting, Weighted Interval Scheduling | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-reward-from-non-overlapping-contracts-d1198) |
-| Transpose Of An Integer Grid | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Matrix, Simulation, Two-Dimensional Traversal | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=transpose-of-an-integer-grid-d852) |
-| Validity Check for a Partially Filled 9x9 Number Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bit Manipulation, Hash Table, Matrix | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=validity-check-for-a-partially-filled-9x9-number-grid-d36) |
-| Versioned Array with Checkpoints | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Design, Hash Table, Persistent Data Structure, Versioning | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=versioned-array-with-checkpoints-d1117) |
-| Versioned Value Store with Point-in-Time Lookup | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Data Structure, Design, Hash Table, String | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=versioned-value-store-with-point-in-time-lookup-d966) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

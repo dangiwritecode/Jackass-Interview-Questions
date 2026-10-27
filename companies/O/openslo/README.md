@@ -1,28 +1,33 @@
 # OpenSLO
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 6
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to OpenSLO:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. OpenSLO's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches OpenSLO: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| AIOps | 0 | 0 | 0 | 5 | 5 | 5 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 19 | 60 | 46 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You want every team's service to declare a machine-readable 'resilience contract' (SLO, degradation ladder, max dependencies, failure modes) that the platform validates at deploy time. Design that contract and the enforcement mechanism, and defend it against teams who call it bureaucracy. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-every-team-s-service-to-declare-a-machine-readable-resilience-52837) |
-
-## AIOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect the reliability of an SLO-as-code control plane where a bad commit to a shared library of SLI definitions could misconfigure alerting for thousands of services at once — what review, canary, and blast-radius cap protect the definition pipeline? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-reliability-of-an-slo-as-code-control-plane-w-100371) |
-| Walk me through how you'd govern SLO definitions when 4000 services each declare their own but your AIOps correlation engine needs a normalized cross-service model — how do you enforce a canonical SLI schema without freezing team autonomy? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-govern-slo-definitions-when-4000-services-ea-100328) |
-| Explain how you'd adopt OpenSLO or a similar spec so SLO definitions are portable across your observability and automation tooling. | deep understanding | SDE-2/3, Architect/Principal | SLO-driven Automation | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-adopt-openslo-or-a-similar-spec-so-slo-definitions-a-102478) |
-| Explain how you'd validate that an org-wide error-budget policy is internally consistent and not silently contradicting itself across teams. | expertise | SDE-2/3, Architect/Principal | SLO-driven Automation | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-validate-that-an-org-wide-error-budget-policy-is-int-102494) |
-| How would you evolve error-budget policy from a static quarterly document into a living, versioned, testable artifact consumed by automation? | expertise | SDE-2/3, Architect/Principal | SLO-driven Automation | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evolve-error-budget-policy-from-a-static-quarterly-docum-102477) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

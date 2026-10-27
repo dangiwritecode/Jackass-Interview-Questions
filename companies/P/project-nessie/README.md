@@ -1,21 +1,33 @@
 # Project-Nessie
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Project-Nessie:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Project-Nessie's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Project-Nessie: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Engineer | 0 | 0 | 5 | 5 | 5 | 5 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 42 | 59 | 29 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how Iceberg handles a table rename or migration between catalogs. What actually moves, and what are the atomicity risks? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Table Formats (Iceberg/Delta Lake/Hudi) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-iceberg-handles-a-table-rename-or-migration-between-catalo-124001) |
-| Explain the trade-offs of storing table metadata in Glue Data Catalog vs a dedicated Iceberg REST/Nessie catalog for a growing platform. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Table Formats (Iceberg/Delta Lake/Hudi) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-trade-offs-of-storing-table-metadata-in-glue-data-catalog--124036) |
-| How do branching and tagging (Iceberg WAP / Nessie branches) let you validate data before publishing, and how would you wire this into a dbt pipeline? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Table Formats (Iceberg/Delta Lake/Hudi) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-branching-and-tagging-iceberg-wap-nessie-branches-let-you-valid-124002) |
-| How does write-audit-publish (WAP) with Iceberg branches let you run data-quality checks on staged data before consumers see it? Wire it into a pipeline. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Table Formats (Iceberg/Delta Lake/Hudi) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-write-audit-publish-wap-with-iceberg-branches-let-you-run-dat-124055) |
-| What is the role of a catalog (Hive Metastore / Glue / Nessie / REST catalog) in Iceberg, and why can't Iceberg guarantee atomic commits without one? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Table Formats (Iceberg/Delta Lake/Hudi) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-role-of-a-catalog-hive-metastore-glue-nessie-rest-catalog--123976) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

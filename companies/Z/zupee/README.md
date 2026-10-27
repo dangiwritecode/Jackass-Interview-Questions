@@ -1,38 +1,33 @@
 # Zupee
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 10
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Zupee:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Zupee's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Zupee: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 1 | 1 | 6 | 6 | 5 | 6 |
-| Fullstack | 0 | 0 | 3 | 3 | 3 | 3 |
-| Data Engineer | 1 | 0 | 1 | 1 | 0 | 1 |
+| Backend | 11 | 11 | 48 | 60 | 34 | 60 |
+| Fullstack | 6 | 6 | 50 | 60 | 24 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 4 | 0 | 21 | 59 | 47 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your leaderboard must be highly available and roughly right during partitions but exact at settlement time (e.g., prize payout). Design the two-mode system: AP live view + CP reconciliation, and how they hand off. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-leaderboard-must-be-highly-available-and-roughly-right-during-par-25730) |
-| Design the class model for a leaderboard that must support seasonal resets, ties broken by earliest-achieved, and 'friends-only' views; how do you structure storage so all three queries stay fast? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-class-model-for-a-leaderboard-that-must-support-seasonal-re-22403) |
-| How do you design a Memento-based game-save so that a save from an old version can still be loaded after you ship new features; what does forward/backward compatibility require of the memento format? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-memento-based-game-save-so-that-a-save-from-an-old-16481) |
-| Your leaderboard gives correct top-K but rank queries for arbitrary users are slow at 10M players; how would you redesign the structure so both top-K and 'my rank' are fast, and what do you trade? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-leaderboard-gives-correct-top-k-but-rank-queries-for-arbitrary-us-16464) |
-| How would you find a player's rank using ZRANK and ZREVRANK in a leaderboard? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-find-a-player-s-rank-using-zrank-and-zrevrank-in-a-leade-12167) |
-| Design a leaderboard for a fantasy game showing live ranks for 10M users during a match. How do you compute and serve top-N plus a given user's rank efficiently under a huge write burst? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-leaderboard-for-a-fantasy-game-showing-live-ranks-for-10m-use-16397) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you design a Memento-based game-save so that a save from an old version can still be loaded after you ship new features; what does forward/backward compatibility require of the memento format? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-memento-based-game-save-so-that-a-save-from-an-old-16481) |
-| Your leaderboard gives correct top-K but rank queries for arbitrary users are slow at 10M players; how would you redesign the structure so both top-K and 'my rank' are fast, and what do you trade? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-leaderboard-gives-correct-top-k-but-rank-queries-for-arbitrary-us-16464) |
-| Design a leaderboard for a fantasy game showing live ranks for 10M users during a match. How do you compute and serve top-N plus a given user's rank efficiently under a huge write burst? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-leaderboard-for-a-fantasy-game-showing-live-ranks-for-10m-use-16397) |
-
-## Data Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Why might a gaming company keep 'live match state' in OLTP but 'player retention trends' in OLAP? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-a-gaming-company-keep-live-match-state-in-oltp-but-player-re-118856) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

@@ -1,36 +1,33 @@
 # Particle
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 8
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Particle:** 8
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Particle's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Particle: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 1 | 1 | 1 | 1 |
-| Fullstack | 0 | 0 | 0 | 4 | 4 | 4 |
-| DevOps | 0 | 0 | 0 | 3 | 3 | 3 |
+| Backend | 10 | 10 | 46 | 60 | 32 | 60 |
+| Fullstack | 6 | 6 | 47 | 60 | 24 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must authenticate requests from an IoT/device fleet with no user interaction and intermittent connectivity. Compare pre-provisioned device certs vs a device-registration token exchange, and how you revoke a stolen device. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-authenticate-requests-from-an-iot-device-fleet-with-no-user-i-26178) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're setting a 3-year plan to make the gateway multi-protocol (REST, gRPC, GraphQL, WebSocket, MQTT for IoT); how do you decide whether one gateway spans all protocols or you run protocol-specialized planes, and what does that mean for the shared control plane and policy engine? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-setting-a-3-year-plan-to-make-the-gateway-multi-protocol-rest-g-39527) |
-| You're architecting an IoT-scale telemetry platform ingesting from 10M devices sending every few seconds — how do you design device-connection management (MQTT) ingestion downsampling and command-and-control back to devices under intermittent connectivity? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-architecting-an-iot-scale-telemetry-platform-ingesting-from-10m-39496) |
-| How do you architect an IoT telemetry ingestion platform for tens of millions of devices where a firmware bug can cause synchronized thundering-herd reconnects, and write scaling plus cost dominate over read latency? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-iot-telemetry-ingestion-platform-for-tens-of-m-38783) |
-| Design a zero-trust posture for an IoT/edge fleet of devices you ship to customer premises. They're physically accessible to attackers and rarely updated. How do you bootstrap identity, rotate keys, and revoke a cloned device at scale? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-zero-trust-posture-for-an-iot-edge-fleet-of-devices-you-ship--41307) |
-
-## DevOps
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect SLOs for an IoT/edge fleet of millions of devices with intermittent connectivity where most "failures" are the device's network — what SLI fairly separates device-side from platform-side reliability? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-slos-for-an-iot-edge-fleet-of-millions-of-devices-54206) |
-| How do you architect an IoT/telemetry ingestion platform for tens of millions of devices where a firmware bug can cause synchronized thundering-herd reconnects, and write scaling plus cost dominate over read latency — and how do you throttle devices you don't directly control? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-iot-telemetry-ingestion-platform-for-tens-of-m-52114) |
-| How do you architect a zero-trust posture for an IoT/edge fleet shipped to customer premises, physically accessible and rarely updated? Design the identity bootstrap, key rotation, and clone-detection so a cloned device can be revoked at scale. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-zero-trust-posture-for-an-iot-edge-fleet-shippe-53986) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

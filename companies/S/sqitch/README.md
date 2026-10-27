@@ -1,21 +1,33 @@
 # Sqitch
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Sqitch:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Sqitch's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Sqitch: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Database Developer | 0 | 5 | 5 | 0 | 0 | 5 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 26 | 27 | 42 | 34 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Database Developer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A revert of a bad migration merge to main is blocking the later re-merge of the corrected feature because Git thinks the changes are already applied. Explain the DAG mechanism and the exact sequence to cleanly re-introduce the migration. | deep understanding | SDE-1, SDE-1/2 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-revert-of-a-bad-migration-merge-to-main-is-blocking-the-later-re-mer-107776) |
-| You inherited a repo where a single evolving schema.sql is edited in place with no migration history, and you can't reproduce past production schema states. Lay out a migration to an append-only, Git-tracked migration workflow without a risky big-bang cutover. | expertise | SDE-1, SDE-1/2 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherited-a-repo-where-a-single-evolving-schema-sql-is-edited-in-p-107833) |
-| You need to split a giant already-merged 'add whole schema' commit into per-table logical commits for a clean future revert story. Walk through interactive rebase 'edit' plus reset, and the exact risks if the commit is already public and branched from. | deep understanding | SDE-1, SDE-1/2 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-split-a-giant-already-merged-add-whole-schema-commit-into--107807) |
-| Your CODEOWNERS forces DBA review on the migrations folder, but a PR bundled a migration inside the application source directory and skipped DBA review. How would you structure path rules and repo layout so schema-affecting changes always route to the DBA team? | intermediate experience | SDE-1, SDE-1/2 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-codeowners-forces-dba-review-on-the-migrations-folder-but-a-pr-bu-107759) |
-| Your team keeps DDL in one directory and DML/data-fix scripts in another. A reviewer approved a data-fix DML that should have been a reversible migration. How would you structure the repo and CI so data-fix scripts get the same rigor as schema migrations? | intermediate experience | SDE-1, SDE-1/2 | Git & GitHub | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-team-keeps-ddl-in-one-directory-and-dml-data-fix-scripts-in-anoth-107796) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

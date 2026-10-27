@@ -1,21 +1,33 @@
 # Nessie
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Nessie:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Nessie's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Nessie: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Data Engineer | 0 | 0 | 0 | 5 | 5 | 5 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 3 | 0 | 10 | 60 | 57 | 60 |
+| Data Engineer | 3 | 0 | 19 | 59 | 49 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Data Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide build-vs-buy for a data-versioning / lakehouse branching capability (buy lakeFS-managed / Nessie vs build snapshot-based branching on Iceberg) when 'reproduce exactly what this pipeline saw on this date' must be a true statement years later for a financial audit? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-versioning-lakehouse-branchi-125880) |
-| When you adopt an open table format, the catalog becomes the real lock-in point — how do you decide between buying a managed catalog (Databricks Unity/Snowflake Polaris/AWS Glue) and running an open REST catalog you control, given the catalog gates every engine's access to your data? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-you-adopt-an-open-table-format-the-catalog-becomes-the-real-lock--125819) |
-| How do you decide on a catalog-federation strategy so existing Hive Metastore, Glue, and a new Iceberg REST catalog can coexist during a long migration rather than a hard swap? | expertise | SDE-2/3, Architect/Principal | Lakehouse Migration Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-on-a-catalog-federation-strategy-so-existing-hive-me-126869) |
-| How do you evaluate whether to adopt a managed lakehouse (Databricks/Snowflake) vs assemble open components (Iceberg + Trino + Nessie + dbt) — what tips the build-vs-buy for a 500-person data org? | expertise | SDE-2/3, Architect/Principal | Lakehouse Migration Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-to-adopt-a-managed-lakehouse-databricks-sn-126852) |
-| How do you handle the migration risk of dual-catalog drift where a table is registered in two catalogs with diverging metadata during the transition — how do you keep them coherent? | deep understanding | SDE-2/3, Architect/Principal | Lakehouse Migration Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-migration-risk-of-dual-catalog-drift-where-a-tab-126875) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

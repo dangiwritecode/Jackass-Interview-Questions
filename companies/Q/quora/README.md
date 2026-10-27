@@ -1,93 +1,33 @@
 # Quora
 
-**Tier:** Tier 3  |  **Business domain:** Social  |  **Questions:** 47
+**Tier:** Tier 3  |  **Business domain:** Social  |  **Questions listed:** 540  |  **Tagged directly to Quora:** 44
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Quora's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Quora: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 2 | 2 | 16 | 16 | 7 | 16 |
-| Fullstack | 1 | 1 | 3 | 3 | 2 | 3 |
-| Database Developer | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 1 | 0 | 8 | 8 | 1 | 8 |
-| AI Engineer | 0 | 0 | 1 | 1 | 0 | 1 |
-| Data Structures & Algorithms (all profiles) | 18 | 18 | 18 | 18 | 18 | 18 |
+| Backend | 5 | 5 | 27 | 59 | 49 | 60 |
+| Fullstack | 18 | 18 | 46 | 55 | 24 | 60 |
+| DevOps | 27 | 19 | 29 | 58 | 48 | 60 |
+| AIOps | 3 | 2 | 16 | 60 | 49 | 60 |
+| Data Engineer | 13 | 5 | 47 | 58 | 18 | 60 |
+| Database Developer | 11 | 17 | 18 | 51 | 43 | 60 |
+| ML Engineer | 1 | 0 | 8 | 60 | 53 | 60 |
+| AI Engineer | 0 | 0 | 1 | 60 | 59 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design authorization for a public-facing 'read' path that must be extremely fast and mostly anonymous, while the same objects have a strict 'write' path — without duplicating the permission model? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-authorization-for-a-public-facing-read-path-that--26175) |
-| Explain how causal consistency lets a comment thread stay available and correctly ordered under partition, and what metadata (dependencies/versions) you must ship with each write to enforce it. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-causal-consistency-lets-a-comment-thread-stay-available-an-25678) |
-| A notification digest job scans every user's followed entities nightly and takes 12 hours; how would you invert it with a per-entity subscriber index so work scales with what actually changed? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-notification-digest-job-scans-every-user-s-followed-entities-nightly-21983) |
-| Design a memory-bounded structure holding 'the k most recent distinct users' per resource; why is naive dedup-plus-truncate wrong, and what ordering must you maintain to stay correct under updates? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-memory-bounded-structure-holding-the-k-most-recent-distinct-u-22016) |
-| You need to serve 'friends within 2 hops' for a social graph that does not fit on one machine; how do you precompute a 2-hop neighborhood index and bound its storage blowup for high-degree nodes? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-serve-friends-within-2-hops-for-a-social-graph-that-does-n-21934) |
-| Your service must compute connected components incrementally as friendship edges arrive in a stream; what does union-find give you over recomputing BFS, and how do you support the occasional un-friend (delete)? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-service-must-compute-connected-components-incrementally-as-friend-22031) |
-| You render a deeply nested category/comment tree with the Composite pattern, and recursion blows the stack on a pathological thread depth. How do you keep the Composite model but traverse iteratively, and how do you bound depth at ingestion? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-render-a-deeply-nested-category-comment-tree-with-the-composite-pa-22482) |
-| Design a class model for a hierarchical/threaded comment store that must return an entire subtree in one query; compare adjacency list, materialized path, and nested set — which do you pick for heavy writes and why? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-class-model-for-a-hierarchical-threaded-comment-store-that-mu-22379) |
-| Design a Stack Overflow style Q&A system. What are the core entities and their relations? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-stack-overflow-style-q-and-a-system-what-are-the-core-entitie-8962) |
-| In a Q&A system how would you model voting and compute a user's reputation? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-q-and-a-system-how-would-you-model-voting-and-compute-a-user-s-re-8963) |
-| Your Q&A reputation computation is recalculated on every page load and is now the slowest query; how do you redesign so reputation is maintained incrementally and stays consistent after a vote is retracted? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-q-and-a-reputation-computation-is-recalculated-on-every-page-load-16470) |
-| Explain how you'd model and query a hierarchical categories/comments tree at scale; compare recursive CTE, adjacency list, materialized path, and ltree with their query trade-offs. | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-and-query-a-hierarchical-categories-comments-t-18149) |
-| How would you design a comments feed that supports 'load more replies' lazily for deeply nested threads without a recursive CTE per request; compare materialized path with LIKE prefix scans against pre-fetching by depth. | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-comments-feed-that-supports-load-more-replies-l-24521) |
-| How would you design and query a tagging system where posts have many tags and you need to find posts matching ALL of a set of tags efficiently; compare a join table with GROUP BY HAVING against an array column with GIN. | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-and-query-a-tagging-system-where-posts-have-many--24493) |
-| How would you implement a 'trending' ranking that decays with time (like a hot score) and query the top N efficiently; discuss recomputing scores, a partial/expression index, and refresh frequency trade-offs. | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-a-trending-ranking-that-decays-with-time-like--24526) |
-| Explain how you'd store hierarchical comments (threaded replies to arbitrary depth) using a materialized-path (ltree) column, and how you'd query an entire subtree and reparent a node atomically. | expertise | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-store-hierarchical-comments-threaded-replies-to-arbi-22173) |
-
-## Fullstack
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a Stack Overflow style Q&A system. What are the core entities and their relations? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-stack-overflow-style-q-and-a-system-what-are-the-core-entitie-8962) |
-| Your Q&A reputation computation is recalculated on every page load and is now the slowest query; how do you redesign so reputation is maintained incrementally and stays consistent after a vote is retracted? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-q-and-a-reputation-computation-is-recalculated-on-every-page-load-16470) |
-| Explain how you'd model and query a hierarchical categories/comments tree at scale; compare recursive CTE, adjacency list, materialized path, and ltree with their query trade-offs. | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-and-query-a-hierarchical-categories-comments-t-18149) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you design the migration off a legacy AP eventually-consistent NoSQL store to a distributed SQL CP store for a subset of tables that turned out to need invariants, while the rest stays AP — and how do you keep the two consistency worlds from corrupting each other at the seam? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-migration-off-a-legacy-ap-eventually-consiste-111580) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you decide between LightGBM and XGBoost when latency budget per prediction is under 5ms at p99 for a real-time ranking service? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-lightgbm-and-xgboost-when-latency-budget-per-65873) |
-| How would you stack XGBoost with a neural network in production without creating a fragile, hard-to-debug two-stage pipeline? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-stack-xgboost-with-a-neural-network-in-production-withou-65906) |
-| How would you serve an ensemble where a FastAPI endpoint fans out to multiple models and combines their outputs, and how do you keep tail latency bounded when one model is slow? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-serve-an-ensemble-where-a-fastapi-endpoint-fans-out-to-m-62897) |
-| How would you design a duplicate or near-duplicate question detection system for a Q&A platform? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-duplicate-or-near-duplicate-question-detection--62153) |
-| What's your approach to evaluating a model when the positive class is defined by a fuzzy human judgment that annotators disagree on? | expertise | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-evaluating-a-model-when-the-positive-class-is--65811) |
-| You need to compare a new ranking model against production but you only have logged (biased) feedback — how do you evaluate offline? | expertise | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-compare-a-new-ranking-model-against-production-but-you-onl-65777) |
-| How would you detect and mitigate a scenario where a spam/bot cohort is poisoning your collaborative filtering signal? | deep understanding | SDE-1/2, SDE-2/3 | Recommendation Systems | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-and-mitigate-a-scenario-where-a-spam-bot-cohort-i-66506) |
-| Your model is optimizing CTR and the feed is now full of clickbait. How would you reformulate the training objective to balance short-term clicks against long-term satisfaction? | expertise | SDE-1/2, SDE-2/3 | Recommendation Systems | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-model-is-optimizing-ctr-and-the-feed-is-now-full-of-clickbait-how-66481) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A stakeholder wants explainability for why a text was flagged. How would you surface interpretable evidence from a TF-IDF model versus a fine-tuned transformer? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-wants-explainability-for-why-a-text-was-flagged-how-woul-79410) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Constant-Time Set with Uniform Random Sampling | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Design, Hash Table, Randomized, Swap-Remove | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=constant-time-set-with-uniform-random-sampling-d380) |
-| Count Contiguous Subarrays With a Given Sum | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Prefix Sum | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-contiguous-subarrays-with-a-given-sum-d558) |
-| Count Fixed-Length Digit Windows That Divide the Number | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Math, Number Theory, Sliding Window, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-fixed-length-digit-windows-that-divide-the-number-d2137) |
-| Count Fully Typeable Words With Some Dead Keys | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, Set, Simulation, String | Online Assessment (OA), Phone Screen | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-fully-typeable-words-with-some-dead-keys-d1834) |
-| Count Length-Three Windows With All Distinct Characters | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Hash Table, Sliding Window, String | Online Assessment (OA), Phone Screen | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-length-three-windows-with-all-distinct-characters-d1779) |
-| Count Ordered Triples With a Given Sum | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Combinatorics, Counting, Hash Table, Modular Arithmetic, Sorting, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-ordered-triples-with-a-given-sum-d908) |
-| Count Values Having an Even Digit Length | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Digit Manipulation, Math | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-values-having-an-even-digit-length-d1251) |
-| Counting a Value's Occurrences Within an Index Window | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Design, Hash Table, Prefix/Index Buckets | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-a-value-s-occurrences-within-an-index-window-d1964) |
-| Cross-Array Pair Counter With Live Updates | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, Design, Frequency Map, Hash Table | DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cross-array-pair-counter-with-live-updates-d1770) |
-| Digit Product Minus Digit Sum | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Digit Manipulation, Math, Number Theory, Simulation | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=digit-product-minus-digit-sum-d1239) |
-| Does the Tape End with a Single-Bit Token | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Simulation, Two Pointers | Online Assessment (OA), Phone Screen | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=does-the-tape-end-with-a-single-bit-token-d702) |
-| Encode a Binary Tree to a String and Rebuild It | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Breadth-First Search, Depth-First Search, Design, Recursion, Serialization, String, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=encode-a-binary-tree-to-a-string-and-rebuild-it-d297) |
-| Full Line-Width Text Justification | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Simulation, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=full-line-width-text-justification-d68) |
-| Reachability of an Array by Repeated Total Replacement | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Euclidean Algorithm, Greedy, Heap (Priority Queue), Math, Modular Arithmetic | Phone Screen, DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reachability-of-an-array-by-repeated-total-replacement-d1305) |
-| Seat Allocator That Maximizes Distance to the Nearest Neighbor | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design, Greedy, Heap (Priority Queue), Ordered Set, Simulation, Sorted Container | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=seat-allocator-that-maximizes-distance-to-the-nearest-neighbor-d840) |
-| Sequential Compact Label Generator | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bijective Numeration, Bit Manipulation, Math, Number Systems, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=sequential-compact-label-generator-d1217) |
-| Sort Every Top-Left to Bottom-Right Diagonal of a Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Matrix, Simulation, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=sort-every-top-left-to-bottom-right-diagonal-of-a-grid-d1282) |
-| Three Largest Distinct Diamond-Border Sums in a Matrix | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Enumeration, Heap (Priority Queue), Math, Matrix, Prefix Sum, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=three-largest-distinct-diamond-border-sums-in-a-matrix-d1781) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

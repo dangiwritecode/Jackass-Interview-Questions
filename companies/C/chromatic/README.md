@@ -1,22 +1,33 @@
 # Chromatic
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 6
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Chromatic:** 6
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Chromatic's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Chromatic: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 1 | 6 | 5 | 6 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 16 | 16 | 46 | 56 | 25 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect a frontend testing strategy across unit, component, contract, visual-regression, and E2E so it catches real regressions without a slow, flaky pyramid that teams route around? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-frontend-testing-strategy-across-unit-component-40067) |
-| An architecture review asks you to prove MFEs won't fragment brand/UX — describe the guardrails (tokens, linting, visual regression, design-system federation) that let teams move fast without a Frankenstein UI. | deep understanding | SDE-2/3, Architect/Principal | Micro-frontends | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-architecture-review-asks-you-to-prove-mfes-won-t-fragment-brand-ux--40160) |
-| How would you architect the theming/token system so an org-wide rebrand propagates to all remotes at runtime without each redeploying, while still letting a remote temporarily pin a token version during migration? | deep understanding | SDE-2/3, Architect/Principal | Micro-frontends | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-theming-token-system-so-an-org-wide-rebran-40189) |
-| You're consolidating a shared component library that has become a bottleneck all MFE teams wait on — architect a federated + versioned model plus a contribution/ownership process so consistency doesn't cost velocity. | deep understanding | SDE-2/3, Architect/Principal | Micro-frontends | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-consolidating-a-shared-component-library-that-has-become-a-bott-40203) |
-| How would you set up visual regression testing for a shared React component library, and what are the flakiness pitfalls? | deep understanding | SDE-1/2, SDE-2/3 | React | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-visual-regression-testing-for-a-shared-react-comp-17150) |
-| How do you handle SLO ownership for a shared design-system or component library that ships to hundreds of frontends — is 'reliability' even the right frame for a build-time artifact and what SLI replaces it? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-slo-ownership-for-a-shared-design-system-or-componen-41322) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

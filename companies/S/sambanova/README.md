@@ -1,48 +1,33 @@
 # SambaNova
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 20
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to SambaNova:** 20
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. SambaNova's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches SambaNova: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AIOps | 0 | 0 | 0 | 1 | 1 | 1 |
-| ML Engineer | 0 | 0 | 3 | 9 | 8 | 9 |
-| AI Engineer | 0 | 0 | 1 | 10 | 10 | 10 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 8 | 60 | 55 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 3 | 60 | 59 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AIOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Design a tiered KV-cache architecture (GPU HBM to host RAM to NVMe to remote) so the platform can serve very long contexts at scale without every replica hoarding memory. Where does the tiering's transfer cost outweigh the memory savings and force you to just shard differently? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-tiered-kv-cache-architecture-gpu-hbm-to-host-ram-to-nvme-to-r-100644) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You're writing a C++ custom TensorFlow op to fuse a bottleneck preprocessing step. How do you register the op, implement the OpKernel::Compute, and avoid copying the input tensor buffer? | deep understanding | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-writing-a-c-custom-tensorflow-op-to-fuse-a-bottleneck-preproces-62779) |
-| A vendor pitches a new accelerator with 2x claimed perf-per-dollar but an immature software stack. How do you run a de-risked pilot and set the bar for org-wide adoption? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-pitches-a-new-accelerator-with-2x-claimed-perf-per-dollar-but-71127) |
-| How would you run a rigorous accelerator bake-off (e.g., H100 vs H200 vs MI300X vs TPU v5) that produces a defensible standardization decision rather than a vendor-flattering benchmark? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-a-rigorous-accelerator-bake-off-e-g-h100-vs-h200-vs--71096) |
-| When would you sponsor an internal custom-kernel (Triton/CUDA) team versus staying on vendor libraries? How do you quantify the ROI and the ongoing maintenance liability? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-sponsor-an-internal-custom-kernel-triton-cuda-team-vers-71079) |
-| Design the strategy for handling a vendor lock-in risk where TensorRT-LLM ties you to one GPU vendor; how much abstraction do you build to keep an exit path open? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-strategy-for-handling-a-vendor-lock-in-risk-where-tensorrt--71226) |
-| How do you decide the org policy on speculative decoding: mandate it platform-wide, offer it opt-in, or ban it, given the acceptance-rate variance across workloads? | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-policy-on-speculative-decoding-mandate-it-pl-71179) |
-| How would you architect a multi-model serving mesh so a single request can hop across a router, small draft model, and large target model while keeping end-to-end latency accountable? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-multi-model-serving-mesh-so-a-single-request-71218) |
-| Explain speculative decoding: how a small draft model accelerates a large target model and what happens to latency when the draft's acceptance rate is low. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-speculative-decoding-how-a-small-draft-model-accelerates-a-lar-63781) |
-| How do you decide tensor-parallel vs pipeline-parallel sharding when a model won't fit on one GPU, and what does each cost you in latency vs throughput? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-tensor-parallel-vs-pipeline-parallel-sharding-when-a-63785) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A vendor pitches a new accelerator claiming 2x perf-per-dollar but an immature compiler stack. How do you structure a de-risked pilot and set the bar that gates org-wide adoption? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-pitches-a-new-accelerator-claiming-2x-perf-per-dollar-but-an--85047) |
-| Design a strategy for evolving your serving stack toward FlashInfer/paged-attention kernel plugins as the standard so kernel upgrades don't require re-benchmarking every model from scratch. | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-strategy-for-evolving-your-serving-stack-toward-flashinfer-pa-85128) |
-| How do you evaluate whether Groq/Cerebras-style dataflow accelerators should join an otherwise GPU-only inference fleet for latency-critical tiers, and what portability cost does that create? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-groq-cerebras-style-dataflow-accelerators--85133) |
-| How would you evaluate committing to a proprietary accelerator (TPU/Trainium/Inferentia/Groq) for inference cost savings versus staying GPU-portable, and what locks you in irreversibly? | expertise | SDE-2/3, Architect/Principal | LLM Cost & Latency Optimization | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-committing-to-a-proprietary-accelerator-tpu-tra-85283) |
-| Explain why the decode phase is memory-bandwidth bound while prefill is compute bound, and how that shapes whether you optimize input length or output length for your workload. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-the-decode-phase-is-memory-bandwidth-bound-while-prefill-i-77907) |
-| How do you architect the platform for a heterogeneous accelerator fleet (GPU, TPU, custom ASIC) so teams port workloads without rewriting for each backend? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-platform-for-a-heterogeneous-accelerator-flee-84401) |
-| A vendor quotes tokens/sec on a benchmark — what questions do you ask to know whether that number survives your real workload's context distribution? | expertise | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-quotes-tokens-sec-on-a-benchmark-what-questions-do-you-ask-to-86364) |
-| Explain how KV-cache memory scales with sequence length and batch, and how that ceiling — not FLOPs — usually caps your realized decode throughput. | deep understanding | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-kv-cache-memory-scales-with-sequence-length-and-batch-and--86330) |
-| A bar-raiser asks: at what fleet scale does the all-reduce after tensor-parallel attention dominate your serving latency, and how does that reshape whether you shard attention heads at all? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-at-what-fleet-scale-does-the-all-reduce-after-tensor-84235) |
-| How do you set the org's parallelism abstraction so teams pretraining Transformers from 1B to 500B never hand-tune how attention is sharded across data/tensor/pipeline/expert dimensions? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-org-s-parallelism-abstraction-so-teams-pretraining--84251) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

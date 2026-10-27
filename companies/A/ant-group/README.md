@@ -1,33 +1,33 @@
 # Ant Group
 
-**Tier:** Tier 1  |  **Business domain:** —  |  **Questions:** 5
+**Tier:** Tier 1  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Ant Group:** 5
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Ant Group's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Ant Group: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 2 | 2 | 2 | 2 |
-| ML Engineer | 0 | 0 | 0 | 2 | 2 | 2 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 21 | 21 | 46 | 55 | 22 | 60 |
+| DevOps | 31 | 22 | 32 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 10 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 11 | 17 | 18 | 51 | 43 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Backend
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain the TCC (Try-Confirm-Cancel) pattern. When would you reach for TCC over a plain compensation-based saga? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-tcc-try-confirm-cancel-pattern-when-would-you-reach-for-tc-28745) |
-| In a TCC flow the Try reserves resources. What's your strategy for reservations that are never confirmed or cancelled because the coordinator died? | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-tcc-flow-the-try-reserves-resources-what-s-your-strategy-for-rese-28746) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you architect Ray on Kubernetes (KubeRay) for a mixed workload of distributed training, tuning, and batch inference? Where do the Ray head-node SPOF, autoscaler interplay with the cluster autoscaler, and object-store spill become architectural risks? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-ray-on-kubernetes-kuberay-for-a-mixed-workload-68492) |
-| How do you evaluate whether to adopt Ray + PyTorch as the org's distributed compute layer versus native torchrun/Slurm, and what does the migration cost look like? | deep understanding | SDE-2/3, Architect/Principal | PyTorch | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-to-adopt-ray-pytorch-as-the-org-s-distribu-70311) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Explain how you'd use Ray in Python to serve a heterogeneous mix of model sizes with autoscaling and request batching, and what failure modes (actor death, head-node loss, stragglers) you must design around at org scale. | expertise | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-use-ray-in-python-to-serve-a-heterogeneous-mix-of-mo-82362) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

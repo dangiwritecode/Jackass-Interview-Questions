@@ -1,30 +1,33 @@
 # DataRobot
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions:** 14
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to DataRobot:** 14
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. DataRobot's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches DataRobot: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| ML Engineer | 0 | 0 | 11 | 14 | 3 | 14 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
+| DevOps | 30 | 21 | 31 | 58 | 44 | 60 |
+| AIOps | 2 | 2 | 9 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
+| ML Engineer | 0 | 0 | 11 | 60 | 49 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## ML Engineer
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you architect governance for a self-serve ML platform where citizen data scientists deploy models without ML platform-team review? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-a-self-serve-ml-platform-where-cit-71729) |
-| How do you decide build-vs-buy for an AutoML/model-search capability (buy a hyperscaler AutoML vs build your own HPO on Optuna/Ray Tune) when democratizing modeling for non-experts is the goal but you'd cede control of the model-quality knobs? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-automl-model-search-capability-b-69808) |
-| Design a model-governance registry that gates promotion to production on required approvals bias evaluations and documented lineage so that SOC2 change-management applies to model deploys the same as code deploys — how do you avoid it becoming a bottleneck for daily model shipping? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-model-governance-registry-that-gates-promotion-to-production--69972) |
-| An interviewer asks: why did you pick XGBoost over a deep tabular model like TabNet or FT-Transformer for this problem? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-why-did-you-pick-xgboost-over-a-deep-tabular-model-65924) |
-| How would you reduce the training cost of a Random Forest that uses 2000 deep trees without meaningfully hurting accuracy? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-reduce-the-training-cost-of-a-random-forest-that-uses-20-65914) |
-| How would you use partial dependence plots to sanity-check an XGBoost model before shipping, and what would a red flag look like? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-partial-dependence-plots-to-sanity-check-an-xgboost--65968) |
-| How do you version and serve a preprocessing pipeline together with a model in FastAPI so that a model rollback also rolls back its exact feature transforms? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-version-and-serve-a-preprocessing-pipeline-together-with-a--62891) |
-| How would you design a FastAPI endpoint that returns SHAP or feature-attribution explanations alongside a prediction without doubling the serving latency for every request? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-fastapi-endpoint-that-returns-shap-or-feature-a-62908) |
-| How would you expose a model-explainability endpoint in FastAPI that is heavier than the prediction path, and how do you keep it from starving the primary inference traffic? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-expose-a-model-explainability-endpoint-in-fastapi-that-i-62938) |
-| How do you avoid the combinatorial blowup when tuning an ensemble of five different base learners? | deep understanding | SDE-1/2, SDE-2/3 | Hyperparameter Tuning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-avoid-the-combinatorial-blowup-when-tuning-an-ensemble-of-f-66008) |
-| How do you tune the ensemble-blending weights as hyperparameters without overfitting the blend to the holdout? | deep understanding | SDE-1/2, SDE-2/3 | Hyperparameter Tuning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-tune-the-ensemble-blending-weights-as-hyperparameters-witho-66056) |
-| How do you evaluate whether an ensemble genuinely beats its best single member or just overfits the validation set? | intermediate experience | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-an-ensemble-genuinely-beats-its-best-singl-65867) |
-| What metadata do you attach to a model version in MLflow so a downstream team can decide whether to promote it, and why each field matters? | intermediate experience | SDE-1/2, SDE-2/3 | Model Registry & Versioning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-metadata-do-you-attach-to-a-model-version-in-mlflow-so-a-downstre-67572) |
-| What's your approach to semantic versioning for models versus using immutable auto-incrementing version numbers, and when does each fit? | deep understanding | SDE-1/2, SDE-2/3 | Model Registry & Versioning | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-semantic-versioning-for-models-versus-using-im-67577) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

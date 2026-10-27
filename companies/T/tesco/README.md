@@ -1,49 +1,33 @@
 # Tesco
 
-**Tier:** Tier 1  |  **Business domain:** —  |  **Questions:** 9
+**Tier:** Tier 1  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Tesco:** 9
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Tesco's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Tesco: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Fullstack | 0 | 0 | 0 | 1 | 1 | 1 |
-| Database Developer | 0 | 0 | 0 | 2 | 2 | 2 |
-| ML Engineer | 0 | 0 | 3 | 3 | 0 | 3 |
-| AI Engineer | 0 | 0 | 0 | 1 | 1 | 1 |
-| Data Structures & Algorithms (all profiles) | 2 | 2 | 2 | 2 | 2 | 2 |
+| Backend | 4 | 4 | 19 | 59 | 57 | 60 |
+| Fullstack | 20 | 20 | 45 | 55 | 23 | 60 |
+| DevOps | 31 | 22 | 32 | 58 | 43 | 60 |
+| AIOps | 2 | 2 | 10 | 60 | 54 | 60 |
+| Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
+| Database Developer | 11 | 17 | 18 | 51 | 43 | 60 |
+| ML Engineer | 0 | 0 | 3 | 60 | 57 | 60 |
+| AI Engineer | 3 | 3 | 3 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## Fullstack
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| You must run Kubernetes at the edge (thousands of retail/IoT sites) with K3s/KubeEdge and intermittent connectivity. How would you architect fleet management, GitOps to disconnected clusters, and local autonomy when the control plane is unreachable for hours, and where does the standard reconcile model break? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-run-kubernetes-at-the-edge-thousands-of-retail-iot-sites-with-39033) |
-
-## Database Developer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How does Redis Enterprise's Active-Active (CRDB, CRDT-based) geo-replication let writes stay available in every region under partition, and what class of application invariant does its CRDT merge silently fail to preserve? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-redis-enterprise-s-active-active-crdb-crdt-based-geo-replicat-111554) |
-| How do you architect a data platform where the same conformed dimension (say 'product') is authored once but physically replicated into every domain's data product in a mesh? What keeps the copies consistent, and how do you avoid the central-model chokepoint you were trying to escape? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-platform-where-the-same-conformed-dimensio-112665) |
-
-## ML Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Describe how you'd build hierarchical forecasts (SKU -> category -> region) that reconcile so children sum to parents. | expertise | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-build-hierarchical-forecasts-sku-category-region-th-66389) |
-| How do you decide the right forecast granularity (SKU-store vs SKU-region) balancing accuracy, cost, and business need? | deep understanding | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-right-forecast-granularity-sku-store-vs-sku-regi-66446) |
-| What's your approach to evaluating forecasts that must be aggregated to weekly totals even though you model daily? | intermediate experience | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-evaluating-forecasts-that-must-be-aggregated-t-66431) |
-
-## AI Engineer
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How do you design the migration from batch scoring to real-time inference across dozens of consuming products so no consumer even notices the cutover? | deep understanding | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-the-migration-from-batch-scoring-to-real-time-infere-84351) |
-
-## Data Structures & Algorithms
-
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Coalescing Overlapping Numeric Ranges | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Intervals, Sorting | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=coalescing-overlapping-numeric-ranges-d56) |
-| Insert and Merge a Range into a Sorted List of Disjoint Ranges | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Intervals, Sorting, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=insert-and-merge-a-range-into-a-sorted-list-of-disjoint-ranges-d57) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

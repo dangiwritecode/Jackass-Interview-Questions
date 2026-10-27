@@ -1,36 +1,33 @@
 # Nagios
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 20
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Nagios:** 20
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Nagios's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Nagios: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AIOps | 11 | 0 | 14 | 19 | 5 | 20 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 14 | 0 | 24 | 59 | 42 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AIOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| Your agentic platform must integrate legacy Nagios/Zabbix alongside modern OTel. How do you architect a normalization layer so agents reason consistently across decades of monitoring generations? | deep understanding | SDE-2/3, Architect/Principal | Agentic Workflows | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-agentic-platform-must-integrate-legacy-nagios-zabbix-alongside-mo-101100) |
-| How would you debug a case where duplicate pages keep firing every minute despite a deduplication rule being in place? | intermediate experience | SDE-1/2, SDE-2/3 | Alert Correlation & Alert Fatigue Reduction | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-debug-a-case-where-duplicate-pages-keep-firing-every-min-95962) |
-| How would you retrofit correlation onto a legacy alerting system you can't fully replace and what constraints does that impose? | deep understanding | SDE-1/2, SDE-2/3 | Alert Correlation & Alert Fatigue Reduction | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-retrofit-correlation-onto-a-legacy-alerting-system-you-c-96014) |
-| What happens to your correlation logic when a monitoring agent itself goes down and stops emitting heartbeats mid-incident? | deep understanding | SDE-1/2, SDE-2/3 | Alert Correlation & Alert Fatigue Reduction | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-happens-to-your-correlation-logic-when-a-monitoring-agent-itself--95932) |
-| What's your strategy for correlating alerts when severity mappings differ wildly between Prometheus and a legacy Nagios setup? | intermediate experience | SDE-1/2, SDE-2/3 | Alert Correlation & Alert Fatigue Reduction | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-correlating-alerts-when-severity-mappings-dif-95987) |
-| How do you handle the situation where the AIOps architecture presented in Phase 1 is the target-state diagram (a clean unified observability platform) while the reality is a sprawl of Nagios, homegrown scripts, and three vendor tools? Do you evaluate the intended or the as-built system, and how does that shape your findings? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-situation-where-the-aiops-architecture-presented-99593) |
-| How would you visualize disk usage growth toward a capacity limit and annotate the point it crosses 90 percent? | intermediate experience | Fresher | Data Visualization (Matplotlib/Seaborn) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-visualize-disk-usage-growth-toward-a-capacity-limit-and--89857) |
-| Design a phased modernization program for a 15-year-old monitoring monolith serving 400 downstream alert integrations. Combine strangler-fig, branch-by-abstraction, and event-interception patterns, and explain how you know when to stop and leave a legacy collector alone. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-phased-modernization-program-for-a-15-year-old-monitoring-mon-99769) |
-| You must integrate a COTS incident platform (ServiceNow ITOM), a homegrown microservices observability estate, and a legacy Nagios install. Design the integration pattern per pair and justify why one uniform pattern across all three would be wrong. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-integrate-a-cots-incident-platform-servicenow-itom-a-homegrow-99748) |
-| In a model that predicts disk-full incidents, what is the target variable and what would a feature be? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Machine Learning Fundamentals (Supervised/Unsupervised) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-model-that-predicts-disk-full-incidents-what-is-the-target-variab-88935) |
-| When would you choose a simple static threshold rule over an ML model for alerting, and why? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Machine Learning Fundamentals (Supervised/Unsupervised) | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-choose-a-simple-static-threshold-rule-over-an-ml-model--88980) |
-| What is your framework for deprecating a legacy monitoring platform, including the exit runway, data archival, and stakeholder buy-in? | expertise | SDE-2/3, Architect/Principal | Observability Platform Strategy | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-framework-for-deprecating-a-legacy-monitoring-platform-in-103014) |
-| What is a heartbeat or availability check, and what happens if it stops responding? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-heartbeat-or-availability-check-and-what-happens-if-it-stops-91584) |
-| What is alert flapping and why can it be a problem for on-call engineers? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-alert-flapping-and-why-can-it-be-a-problem-for-on-call-enginee-91565) |
-| What kinds of external monitoring tools commonly send events into ServiceNow Event Management? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-kinds-of-external-monitoring-tools-commonly-send-events-into-serv-91555) |
-| How would you find hosts that reported no metrics at all in the last 10 minutes (possibly down)? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-find-hosts-that-reported-no-metrics-at-all-in-the-last-1-87341) |
-| How would you find the timestamp of the last metric received per host to detect stale/missing agents? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-find-the-timestamp-of-the-last-metric-received-per-host--87378) |
-| How would you write a query to find hosts present in the inventory table but missing from the metrics table (agent not reporting)? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-write-a-query-to-find-hosts-present-in-the-inventory-tab-87412) |
-| Write a query to compute the gap in seconds between each host's consecutive heartbeats using LAG, to spot missed check-ins. | deep understanding | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-query-to-compute-the-gap-in-seconds-between-each-host-s-consec-87379) |
-| You have a metrics table (metric_name/host/value/ts). Write a query to fetch the last hour of CPU-usage rows for a single host. | basic concept | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-a-metrics-table-metric-name-host-value-ts-write-a-query-to-fe-87328) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

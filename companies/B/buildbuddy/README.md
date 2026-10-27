@@ -1,20 +1,33 @@
 # BuildBuddy
 
-**Tier:** Tier 3  |  **Business domain:** —  |  **Questions:** 4
+**Tier:** Tier 3  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to BuildBuddy:** 4
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. BuildBuddy's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches BuildBuddy: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| DevOps | 0 | 0 | 0 | 4 | 4 | 4 |
+| Backend | 4 | 4 | 42 | 59 | 57 | 60 |
+| Fullstack | 17 | 17 | 51 | 56 | 20 | 60 |
+| DevOps | 27 | 19 | 32 | 58 | 42 | 60 |
+| AIOps | 2 | 1 | 22 | 60 | 43 | 60 |
+| Data Engineer | 11 | 3 | 40 | 59 | 27 | 60 |
+| Database Developer | 12 | 21 | 22 | 47 | 39 | 60 |
+| ML Engineer | 0 | 0 | 0 | 60 | 60 | 60 |
+| AI Engineer | 3 | 3 | 4 | 60 | 58 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## DevOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| A principal probe on cost: you claim aggressive caching cut CI cost dramatically. Prove the cache isn't silently masking real failures or shipping stale artifacts; what correctness invariants must the cache-key derivation guarantee at fleet scale, and how do you continuously audit for cache poisoning without disabling the cache? | expertise | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-probe-on-cost-you-claim-aggressive-caching-cut-ci-cost-dra-52324) |
-| A principal probe on cost: you claim aggressive distributed caching cut CI spend by millions. Prove the cache can't silently poison builds or mask real failures; what correctness invariants must the cache-key derivation guarantee, and how do you continuously verify cache integrity at fleet scale? | expertise | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-probe-on-cost-you-claim-aggressive-distributed-caching-cut-52275) |
-| You're asked to justify keeping build and test on a dedicated remote-execution cluster (Bazel RBE / BuildBuddy-style) versus commodity CI runners at 3000 engineers; quantify the caching and parallelism payoff against the operational burden and who pays the BUILD-file maintenance tax. | deep understanding | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-justify-keeping-build-and-test-on-a-dedicated-remote-e-52241) |
-| How would you architect the platform's approach to build-cache and CI at org scale (remote caching, build farms, monorepo versus polyrepo tooling) so build time doesn't linearly degrade as the codebase and team count grow tenfold? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-platform-s-approach-to-build-cache-and-ci--54278) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions

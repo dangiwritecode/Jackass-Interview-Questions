@@ -1,23 +1,33 @@
 # Rollbar
 
-**Tier:** Tier 4  |  **Business domain:** —  |  **Questions:** 7
+**Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Rollbar:** 7
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **You must be signed in to SkillMeet** — the link runs the Locus lookup for that question on your account.
+Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+
+Each role profile lists up to 150 questions, most-asked first. Rollbar's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Rollbar: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
-| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Total Questions |
+| Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| AIOps | 7 | 0 | 4 | 4 | 0 | 7 |
+| Backend | 10 | 10 | 45 | 60 | 32 | 60 |
+| Fullstack | 8 | 8 | 47 | 58 | 22 | 60 |
+| DevOps | 2 | 1 | 12 | 60 | 56 | 60 |
+| AIOps | 10 | 0 | 14 | 57 | 50 | 60 |
+| Data Engineer | 3 | 0 | 20 | 59 | 48 | 60 |
+| Database Developer | 4 | 3 | 4 | 58 | 57 | 60 |
+| ML Engineer | 1 | 0 | 12 | 59 | 52 | 60 |
+| AI Engineer | 0 | 0 | 30 | 60 | 49 | 60 |
+| Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
-## AIOps
+## Question lists
 
-| Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Open in Locus |
-|---|---|---|---|---|---|---|
-| How would you use clustering to bucket similar exceptions so developers fix classes of bugs instead of individual reports? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-clustering-to-bucket-similar-exceptions-so-developer-89674) |
-| Why might you cluster errors by their stack trace signature and how would you represent a stack trace numerically? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-you-cluster-errors-by-their-stack-trace-signature-and-how-wo-89673) |
-| How do you plot error rate as a percentage over time and format the y-axis with a percent sign? | basic concept | Fresher | Data Visualization (Matplotlib/Seaborn) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plot-error-rate-as-a-percentage-over-time-and-format-the-y--89835) |
-| How would you plot a cumulative count of errors during an incident to see how fast they piled up? | intermediate experience | Fresher | Data Visualization (Matplotlib/Seaborn) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-plot-a-cumulative-count-of-errors-during-an-incident-to--89873) |
-| How would you visualize the frequency of each error type as a bar chart to prioritize which to fix first? | basic concept | Fresher | Data Visualization (Matplotlib/Seaborn) | Online Assessment (OA), Phone Screen | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-visualize-the-frequency-of-each-error-type-as-a-bar-char-89901) |
-| How would you use an LLM to turn a cryptic stack trace into a plain-English explanation for a junior engineer? | basic concept | Fresher, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-an-llm-to-turn-a-cryptic-stack-trace-into-a-plain-en-88241) |
-| How do error messages and stack traces help you locate the origin of a failure? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Root Cause Analysis (RCA) | Phone Screen, Onsite, Hiring Manager | Tech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-error-messages-and-stack-traces-help-you-locate-the-origin-of-a-90156) |
+- [Backend](backend.md) — 60 questions
+- [Fullstack](fullstack.md) — 60 questions
+- [DevOps](devops.md) — 60 questions
+- [AIOps](aiops.md) — 60 questions
+- [Data Engineer](data-engineer.md) — 60 questions
+- [Database Developer](database-developer.md) — 60 questions
+- [ML Engineer](ml-engineer.md) — 60 questions
+- [AI Engineer](ai-engineer.md) — 60 questions
+- [Data Structures & Algorithms](dsa.md) — 60 questions
