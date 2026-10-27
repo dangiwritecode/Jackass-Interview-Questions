@@ -2,9 +2,9 @@
 
 **Tier:** Tier 4  |  **Business domain:** —  |  **Questions listed:** 540  |  **Tagged directly to Protecto:** 1
 
-Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
+Click a question to open it in the Locus section on SkillMeet, which shows that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
 
-Every question tagged to Protecto is listed, most-asked first, split across pages of 800. The **Why It Is Listed** column says how each question reaches Protecto: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
+Every question tagged to Protecto is listed, most-asked first, split across pages of 800. Each list says how many of its questions are tagged to Protecto itself; a role profile with fewer than 60 direct tags is topped up from companies in the same business domain and then from the same tier, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
