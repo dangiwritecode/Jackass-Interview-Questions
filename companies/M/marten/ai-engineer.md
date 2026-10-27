@@ -2,6 +2,8 @@
 
 [← back to Marten](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide whether the org should invest in a cloud-cost-optimization platform, a dedicated FinOps team, or engineering-owned budgets to control GenAI spend, and how would you measure whether the chosen approach is actually working? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Commonly asked at Tier 4 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-the-org-should-invest-in-a-cloud-cost-opt-82805) |

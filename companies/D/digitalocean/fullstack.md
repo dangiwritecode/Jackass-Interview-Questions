@@ -2,6 +2,8 @@
 
 [← back to DigitalOcean](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you assess the debt in a system that over-adopted a specific cloud vendor's proprietary services, and weigh the cost of that lock-in debt against the rewrite cost to a portable abstraction? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at DigitalOcean | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-assess-the-debt-in-a-system-that-over-adopted-a-specific-cl-41445) |

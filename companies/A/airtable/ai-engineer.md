@@ -2,6 +2,8 @@
 
 [← back to Airtable](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An OpenAI structured-output call with strict json_schema keeps 400ing on a nested object. Which unsupported schema constructs (optional-via-omission, additionalProperties, unions) trip strict mode, and how do you rewrite the schema? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Airtable | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-openai-structured-output-call-with-strict-json-schema-keeps-400ing--78207) |

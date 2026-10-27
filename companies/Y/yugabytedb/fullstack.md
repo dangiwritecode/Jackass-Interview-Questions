@@ -2,6 +2,8 @@
 
 [← back to YugabyteDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A memory-mapped file reader in your service segfaults when the file is truncated by another process. How do you reason about mmap lifetime, SIGBUS, and design a safe abstraction with RAII around the mapping? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at YugabyteDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-memory-mapped-file-reader-in-your-service-segfaults-when-the-file-is-16860) |

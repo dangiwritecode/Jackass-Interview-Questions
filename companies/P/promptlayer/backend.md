@@ -2,6 +2,8 @@
 
 [← back to PromptLayer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd version and A/B test prompts and models independently so you can attribute a regression to the right change. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at PromptLayer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-version-and-a-b-test-prompts-and-models-independent-30896) |

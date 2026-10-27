@@ -2,6 +2,8 @@
 
 [← back to Nubank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the audit, provenance, and compliance model for automated actions in a regulated environment (SOX/PCI/DORA) so every self-healing act is attributable and reviewable. | expertise | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nubank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-audit-provenance-and-compliance-model-for-automated-actions-101549) |

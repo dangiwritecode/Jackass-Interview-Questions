@@ -34,7 +34,7 @@
 | [KNIME](knime/README.md) | Tier 4 | 540 | 1 |
 | [Komodo Health](komodo-health/README.md) | Tier 3 | 540 | 1 |
 | [Komprise](komprise/README.md) | Tier 4 | 540 | 3 |
-| [Kong](kong/README.md) | Tier 3 | 768 | 506 |
+| [Kong](kong/README.md) | Tier 3 | 863 | 506 |
 | [Koo](koo/README.md) | Tier 4 | 540 | 43 |
 | [Kore.ai](kore-ai/README.md) | Tier 3 | 540 | 3 |
 | [Kotak](kotak/README.md) | Tier 3 | 540 | 38 |

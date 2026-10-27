@@ -2,6 +2,8 @@
 
 [← back to Zepto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you compute a cumulative count of orders per customer that continues growing across dates (partitioned running COUNT)? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Zepto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-compute-a-cumulative-count-of-orders-per-customer-that-cont-119056) |

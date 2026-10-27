@@ -2,6 +2,8 @@
 
 [← back to Asana](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What happens in the Plan phase of the DevOps lifecycle? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | Asked at Asana | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-happens-in-the-plan-phase-of-the-devops-lifecycle-44726) |

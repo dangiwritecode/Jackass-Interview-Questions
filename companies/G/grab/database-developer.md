@@ -2,6 +2,8 @@
 
 [← back to Grab](README.md)
 
+Questions 1–87 of 87.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cascading failure took down five services when one shared Aurora cluster slowed under a runaway query — walk me through the retrospective and how you'd redesign with per-service datastores, query timeouts, connection bulkheads, and read-replica isolation so a slow query can't take everything down. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Grab | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cascading-failure-took-down-five-services-when-one-shared-aurora-clu-111913) |

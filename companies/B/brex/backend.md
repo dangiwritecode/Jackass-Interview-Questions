@@ -2,6 +2,8 @@
 
 [← back to Brex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a schema and query to enforce hierarchical spending limits (org > department > team > user) checked atomically on every transaction? | deep understanding | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Brex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-schema-and-query-to-enforce-hierarchical-spendi-24388) |

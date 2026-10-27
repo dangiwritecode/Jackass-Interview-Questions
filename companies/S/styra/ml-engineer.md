@@ -2,6 +2,8 @@
 
 [← back to Styra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a compliance-as-code layer for ML pipelines so a training job fails in CI if it uses an unapproved dataset a disallowed feature or targets a protected attribute — how do you express these as policy without engineers routing around the gate? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Styra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-compliance-as-code-layer-for-ml-pipelines-so-a-training-job-f-70006) |

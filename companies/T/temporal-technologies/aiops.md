@@ -2,6 +2,8 @@
 
 [← back to Temporal Technologies](README.md)
 
+Questions 1–62 of 62.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A senior engineer proposes routing all incident automation through one central 'god' orchestration service to 'centralize remediation logic.' As principal, dismantle or defend this. What's the failure mode at scale, and what's the legitimate kernel of their concern? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Temporal Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-senior-engineer-proposes-routing-all-incident-automation-through-one-99814) |

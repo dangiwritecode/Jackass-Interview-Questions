@@ -2,6 +2,8 @@
 
 [← back to Invicti](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd add DAST (dynamic app scanning) to a staging deploy — what makes DAST noisy and how do you keep it useful? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Invicti | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-add-dast-dynamic-app-scanning-to-a-staging-deploy-w-50646) |

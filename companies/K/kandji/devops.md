@@ -2,6 +2,8 @@
 
 [← back to Kandji](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design device trust for a workforce that is fully remote, BYOD-heavy, and spans contractors. How do you incorporate device posture into access decisions without turning it into an unmanageable exception queue? | deep understanding | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | Asked at Kandji | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-device-trust-for-a-workforce-that-is-fully-remote-byod-heavy-an-56845) |

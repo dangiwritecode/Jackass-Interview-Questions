@@ -2,6 +2,8 @@
 
 [← back to Sanity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd serve draft/preview CMS content past the CDN without leaking it publicly: a preview cookie/header that bypasses cache for editors while production caching stays fully intact for everyone else. Where can this bypass accidentally poison the public cache? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at Sanity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-serve-draft-preview-cms-content-past-the-cdn-without-29749) |

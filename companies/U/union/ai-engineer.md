@@ -2,6 +2,8 @@
 
 [← back to Union](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You orchestrate a RAG-eval pipeline as a DAG across many workers and a mid-DAG failure re-runs an expensive embedding step. Explain how you'd make the failure resumable, why each task must be idempotent, and how you'd cache intermediate artifacts safely. | intermediate experience | SDE-1/2, SDE-2/3 | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Union | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-orchestrate-a-rag-eval-pipeline-as-a-dag-across-many-workers-and-a-78741) |

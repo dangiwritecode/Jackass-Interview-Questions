@@ -2,6 +2,8 @@
 
 [← back to Marten](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your event store needs 'give me the state as of version V' for an aggregate with thousands of events; compare full-log replay against snapshotting and how you pick the snapshot interval. | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Marten | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-event-store-needs-give-me-the-state-as-of-version-v-for-an-aggreg-21986) |

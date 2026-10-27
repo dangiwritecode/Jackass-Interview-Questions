@@ -2,6 +2,8 @@
 
 [← back to Qualcomm](README.md)
 
+Questions 1–141 of 141.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between a mutex and a semaphore? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Multithreading & Concurrency | Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Qualcomm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-a-mutex-and-a-semaphore-6054) |

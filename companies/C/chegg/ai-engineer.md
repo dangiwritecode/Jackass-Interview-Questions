@@ -2,6 +2,8 @@
 
 [← back to Chegg](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A junior asks why the model 'understood' a typo-filled query. Explain subword tokenization robustness and where it breaks down for you to worry about. | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Chegg | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-junior-asks-why-the-model-understood-a-typo-filled-query-explain-sub-77929) |

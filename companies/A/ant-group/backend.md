@@ -2,6 +2,8 @@
 
 [← back to Ant Group](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the TCC (Try-Confirm-Cancel) pattern. When would you reach for TCC over a plain compensation-based saga? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | Asked at Ant Group | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-tcc-try-confirm-cancel-pattern-when-would-you-reach-for-tc-28745) |

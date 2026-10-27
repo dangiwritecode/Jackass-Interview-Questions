@@ -2,6 +2,8 @@
 
 [← back to Government](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the frontend architecture for a product that must degrade to a text-only/low-JS mode on demand (accessibility, low-power, emergency) — how do you build two fidelity tiers from one source? | deep understanding | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Government | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-frontend-architecture-for-a-product-that-must-degrade-to-a--40112) |

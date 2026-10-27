@@ -2,6 +2,8 @@
 
 [← back to Nori](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd measure and govern the carbon and cost jointly (sustainability-aware FinOps) — choosing regions/times for cheaper AND greener compute. Where do cost and carbon optimization align, and where do they conflict? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Nori | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-measure-and-govern-the-carbon-and-cost-jointly-sust-37113) |

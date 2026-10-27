@@ -2,6 +2,8 @@
 
 [← back to Dagster](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd let non-DevOps teams (data/ML) self-serve their own pipelines through Backstage without platform-team involvement. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Internal Developer Platform (Backstage) | Onsite, Hiring Manager | Tech | Asked at Dagster | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-let-non-devops-teams-data-ml-self-serve-their-own-pi-51820) |

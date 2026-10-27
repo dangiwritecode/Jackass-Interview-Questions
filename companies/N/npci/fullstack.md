@@ -2,6 +2,8 @@
 
 [← back to NPCI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a time you had to lead the org through deciding how much to invest in disaster recovery for a system whose downtime cost was hard to quantify. How did you get the business to commit to an RTO and pay for it? | expertise | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at NPCI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-lead-the-org-through-deciding-how-much-to-i-40475) |

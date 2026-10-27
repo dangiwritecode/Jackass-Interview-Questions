@@ -2,6 +2,8 @@
 
 [← back to DP World](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you use window functions to compute inventory-on-hand as a running SUM of stock movements per SKU-warehouse, resetting on physical count events? | deep understanding | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Logistics companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-window-functions-to-compute-inventory-on-hand-as-a-runn-123258) |

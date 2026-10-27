@@ -2,6 +2,8 @@
 
 [← back to Sierra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the trust model for an AI agent your product runs that can call internal tools and external APIs on a user's behalf. How do you scope its authority to the user's own privileges and prevent prompt-injection from escalating it? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Sierra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-trust-model-for-an-ai-agent-your-product-runs-that-can-call-41247) |

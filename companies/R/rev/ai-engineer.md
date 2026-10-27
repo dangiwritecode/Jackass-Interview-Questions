@@ -2,6 +2,8 @@
 
 [← back to Rev](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why a summarization feature has no single correct answer and how you'd still gate it in CI without brittle exact-match tests. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Rev | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-summarization-feature-has-no-single-correct-answer-and-h-77971) |

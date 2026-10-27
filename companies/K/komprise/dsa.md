@@ -2,6 +2,8 @@
 
 [← back to Komprise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Reward Tokens for a Row of Workers | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Prefix/Suffix Aggregation, Two-Pass Scan | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Komprise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-reward-tokens-for-a-row-of-workers-d135) |

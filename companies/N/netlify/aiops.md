@@ -2,6 +2,8 @@
 
 [← back to Netlify](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an observability strategy for a serverless-heavy estate (Lambda/Cloud Run/edge functions) where the pull model breaks and cold starts distort latency. How do you get coherent metrics and traces, and what does it do to your cost model versus long-lived services? | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Netlify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-observability-strategy-for-a-serverless-heavy-estate-lambda--99058) |

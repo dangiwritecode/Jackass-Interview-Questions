@@ -2,6 +2,8 @@
 
 [← back to Cashfree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect exactly-once execution for money-moving tools across model retries, worker crashes, provider retries, and network partitions? Include the reconciliation job and what it does when the idempotency store itself is unavailable. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Cashfree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-exactly-once-execution-for-money-moving-tools-acr-83055) |

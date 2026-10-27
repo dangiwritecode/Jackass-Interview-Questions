@@ -2,6 +2,8 @@
 
 [← back to Duolingo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Longest Strictly Increasing Route Through a Grid | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Dynamic Programming, Graph, Matrix, Memoization, Topological Sort | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Duolingo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-strictly-increasing-route-through-a-grid-d329) |

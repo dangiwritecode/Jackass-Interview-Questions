@@ -2,6 +2,8 @@
 
 [← back to Monzo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you incorporate the cost and latency of cross-datastore transactions (sagas, two-phase commit, outbox) into a polyglot selection decision? When does that complexity void the polyglot benefit? | expertise | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Monzo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-incorporate-the-cost-and-latency-of-cross-datastore-transac-114434) |

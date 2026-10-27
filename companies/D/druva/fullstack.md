@@ -2,6 +2,8 @@
 
 [← back to Druva](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a file system abstraction with directories and files. How do you compute total size? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Druva | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-file-system-abstraction-with-directories-and-files-how-do-you-8958) |

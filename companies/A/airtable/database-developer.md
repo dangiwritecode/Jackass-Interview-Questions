@@ -2,6 +2,8 @@
 
 [← back to Airtable](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect caching for a collaborative-editing product (CRDT/OT) backed by a database so cached reads by non-editing viewers stay consistent with the convergent state without forcing every viewer onto the realtime channel? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Airtable | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-collaborative-editing-product-cr-111538) |

@@ -2,6 +2,8 @@
 
 [← back to Cosmonic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org wants to run WebAssembly (WASM/WASI) workloads on Kubernetes alongside containers via a runtime like SpinKube or runwasi. As principal, how would you frame where WASM's fast cold-start and sandboxing genuinely win over containers, and what maturity gaps would stop you from betting the platform on it? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Cosmonic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-wants-to-run-webassembly-wasm-wasi-workloads-on-kubernetes-al-39019) |

@@ -2,6 +2,8 @@
 
 [← back to Redpanda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer pushes: 'you proposed Kafka everywhere; when is a log the wrong abstraction?' Contrast log-based streaming against a real queue (SQS/RabbitMQ) and a request-reply RPC for specific org workloads and defend where each is mandated. | deep understanding | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Redpanda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-pushes-you-proposed-kafka-everywhere-when-is-a-log-the--51944) |

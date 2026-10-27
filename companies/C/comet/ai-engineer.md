@@ -2,6 +2,8 @@
 
 [← back to Comet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would build an evaluation harness for a RAG pipeline that separately measures retrieval quality and generation quality. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Comet | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-build-an-evaluation-harness-for-a-rag-pipeline--79505) |

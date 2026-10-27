@@ -2,6 +2,8 @@
 
 [← back to Helicone](README.md)
 
+Questions 1–65 of 65.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would trace and observe a multi-step agent so you can see which tool call or prompt caused a wrong final answer. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Helicone | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-trace-and-observe-a-multi-step-agent-so-you-can-79523) |

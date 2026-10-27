@@ -2,6 +2,8 @@
 
 [← back to DigiCert](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does an SSL/TLS certificate prove a server's identity? | intermediate experience | Fresher, SDE-1 | Computer Networks | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at DigiCert | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-an-ssl-tls-certificate-prove-a-server-s-identity-575) |

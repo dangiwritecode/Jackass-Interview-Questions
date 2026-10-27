@@ -2,6 +2,8 @@
 
 [← back to PayU](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your BigQuery estate mixes on-demand per-TB-scanned pricing with flat-rate slot reservations, and neither model is obviously cheaper as workloads shift. Walk me through the slot-utilization and query-volatility analysis that decides how many slots to commit and how much to leave on on-demand, plus the regret risk of over-committing. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at PayU | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-bigquery-estate-mixes-on-demand-per-tb-scanned-pricing-with-flat--125921) |

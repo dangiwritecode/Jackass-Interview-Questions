@@ -2,6 +2,8 @@
 
 [← back to HSBC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: how would you distinguish a model risk from an operational risk when an LLM endpoint returns garbage due to an upstream infra failure? | intermediate experience | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at HSBC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-would-you-distinguish-a-model-risk-from-an-ope-86134) |

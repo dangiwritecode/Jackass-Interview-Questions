@@ -2,6 +2,8 @@
 
 [← back to Bridgecrew](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a 'shift-left' cost-and-security policy gate in the IaC pipeline (using Config, cfn-guard, or OPA) so violations are caught at PR time — and how do you avoid the gate becoming so noisy teams route around it? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Bridgecrew | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-shift-left-cost-and-security-policy-gate-in-the-39243) |

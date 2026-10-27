@@ -2,6 +2,8 @@
 
 [← back to Earthly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does Docker layer caching work in GitHub Actions, and how do gha cache or registry cache backends speed up buildx builds? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Earthly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-docker-layer-caching-work-in-github-actions-and-how-do-gha-ca-14338) |

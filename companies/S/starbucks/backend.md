@@ -2,6 +2,8 @@
 
 [← back to Starbucks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the consistency strategy for a wallet-and-rewards system where wallet must be strongly consistent but rewards can be eventually consistent. How do you split them so a single user action crosses the boundary cleanly, and what does the user see at the seam? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | Asked at Starbucks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-consistency-strategy-for-a-wallet-and-rewards-system-whe-34131) |

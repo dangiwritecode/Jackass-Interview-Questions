@@ -2,6 +2,8 @@
 
 [← back to Lumigo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect cost visibility for a serverless-heavy estate (Lambda, DynamoDB on-demand, API Gateway, Step Functions) where per-invocation costs are tiny but aggregate is huge and hard to attribute? What's uniquely hard versus VM-based cost tracking? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Lumigo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-cost-visibility-for-a-serverless-heavy-estate-lam-37062) |

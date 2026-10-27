@@ -2,6 +2,8 @@
 
 [← back to Fly.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: how would your governance architecture change if the company shifts from a few large services to thousands of ephemeral serverless functions — what assumptions about hosts agents and long-lived logs break and how do you re-found the controls? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Fly.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-would-your-governance-architecture-change-if-t-54041) |

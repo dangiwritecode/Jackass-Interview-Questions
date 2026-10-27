@@ -2,6 +2,8 @@
 
 [← back to Typesense](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal trade-off: your org wants one Repository abstraction over SQL, a document store, and a search index for the same aggregate. When does that unification become a leaky lowest-common-denominator, and where do you deliberately let it fork? | expertise | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Typesense | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-trade-off-your-org-wants-one-repository-abstraction-over-s-38446) |

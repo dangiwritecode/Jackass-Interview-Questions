@@ -2,6 +2,8 @@
 
 [← back to Chronosphere](README.md)
 
+Questions 1–69 of 69.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A postmortem shows your observability spend is now 18% of infra because of unbounded metric cardinality and full-fidelity tracing — how do you re-architect sampling, EMF dimensions, tiered retention, and tail-based sampling without blinding on-call during the next incident? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Chronosphere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-postmortem-shows-your-observability-spend-is-now-18-of-infra-because-52340) |

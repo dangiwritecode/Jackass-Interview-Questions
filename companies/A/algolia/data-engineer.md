@@ -2,6 +2,8 @@
 
 [← back to Algolia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a pipeline to load data into both a warehouse and a search index at the same time? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Data Pipeline Design | Phone Screen, Onsite | Tech | Asked at Algolia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-pipeline-to-load-data-into-both-a-warehouse-and-118443) |

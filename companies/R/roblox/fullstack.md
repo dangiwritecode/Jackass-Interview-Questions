@@ -2,6 +2,8 @@
 
 [← back to Roblox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a multiplayer game backend for a real-time session-based game (100 players per match) — how do you design authoritative simulation state reconciliation with lag compensation matchmaking and anti-cheat server-side validation? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Roblox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-multiplayer-game-backend-for-a-real-time-session-based-gam-39491) |

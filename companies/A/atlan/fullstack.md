@@ -2,6 +2,8 @@
 
 [← back to Atlan](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Tell me about a time you had to lead the org through a decision on how much to invest in a formal data-lineage and quality framework, when data trust issues were quietly eroding decisions across teams. How did you make the invisible cost visible? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Atlan | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-through-a-decision-on-how-40516) |

@@ -2,6 +2,8 @@
 
 [← back to Nirmata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A scenario tests whether the platform can enforce that every workload has resource requests/limits and a PodDisruptionBudget. During analysis you find enforcement is advisory, not blocking. How significant is this finding and how do you drive it to closure? | intermediate experience | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Nirmata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-tests-whether-the-platform-can-enforce-that-every-workload--53305) |

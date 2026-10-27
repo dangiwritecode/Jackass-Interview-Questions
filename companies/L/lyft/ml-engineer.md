@@ -2,6 +2,8 @@
 
 [← back to Lyft](README.md)
 
+Questions 1–61 of 61.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A director asks why the org spends 30 percent of GPU-hours on Ray overhead and idle autoscaler slack — how do you decompose and defend that number, and where would you actually cut? | expertise | SDE-2/3, Architect/Principal | Ray & Distributed Compute | Phone Screen, Onsite | Tech | Asked at Lyft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-director-asks-why-the-org-spends-30-percent-of-gpu-hours-on-ray-over-71375) |

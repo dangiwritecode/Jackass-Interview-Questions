@@ -2,6 +2,8 @@
 
 [← back to Lokalise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a translation/localization ML capability at global scale (buy Google/DeepL/Azure vs fine-tune open MT models) when per-character pricing across 30 locales vs domain-specific quality and data privacy define the tradeoff? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Lokalise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-translation-localization-ml-capab-69819) |

@@ -2,6 +2,8 @@
 
 [← back to StepSecurity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through threat-modeling a self-hosted GitHub Actions runner. What makes it a high-value target, how could a malicious pull request execute code on it, and how do you isolate runners so a compromise doesn't reach production? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at StepSecurity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-threat-modeling-a-self-hosted-github-actions-runner-wh-47847) |

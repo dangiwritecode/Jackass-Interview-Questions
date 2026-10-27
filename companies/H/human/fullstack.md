@@ -2,6 +2,8 @@
 
 [← back to HUMAN](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a device-fingerprinting-and-bot-defense layer for a high-value signup/login flow — how do you combine client signals server risk-scoring and challenge escalation without hurting legitimate users or leaking your detection logic to attackers? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at HUMAN | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-device-fingerprinting-and-bot-defense-layer-for-a-high-val-39438) |

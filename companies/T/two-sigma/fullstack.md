@@ -2,6 +2,8 @@
 
 [← back to Two Sigma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Tell me about a time you had to lead the org through choosing between optimizing for the median engineer's productivity and enabling a small number of extremely high-leverage engineers. How did you avoid a false trade-off? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Two Sigma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-through-choosing-between--40454) |

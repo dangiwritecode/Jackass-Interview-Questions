@@ -2,6 +2,8 @@
 
 [← back to Deutsche Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An engineer proposes a clever cost hack that saves money but violates a compliance/data-residency boundary. As the architect, how do you weigh cost savings against governance and compliance risk, and where's the non-negotiable line? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Deutsche Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-engineer-proposes-a-clever-cost-hack-that-saves-money-but-violates--37083) |

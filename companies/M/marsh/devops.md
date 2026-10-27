@@ -2,6 +2,8 @@
 
 [← back to Marsh](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must brief the board on what zero trust structurally cannot protect against after a full rollout. Enumerate the residual-risk classes, quantify them, and describe the non-architectural mitigations (insurance, contracts, process) that fill the gap. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Marsh | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-brief-the-board-on-what-zero-trust-structurally-cannot-protec-53971) |

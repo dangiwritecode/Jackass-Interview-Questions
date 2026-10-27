@@ -2,6 +2,8 @@
 
 [← back to Deci](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you make model compression via quantization, pruning, and distillation a first-class automated platform stage instead of a per-model manual effort? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Deci | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-make-model-compression-via-quantization-pruning-and-dist-84387) |

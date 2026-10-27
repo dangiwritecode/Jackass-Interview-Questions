@@ -2,6 +2,8 @@
 
 [← back to F5](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you attribute a dependency edge to the correct logical service when many microservices share a hostname/IP behind a load balancer? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | Asked at F5 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-attribute-a-dependency-edge-to-the-correct-logical-service--97672) |

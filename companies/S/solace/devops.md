@@ -2,6 +2,8 @@
 
 [← back to Solace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you migrate stateful streaming/messaging infrastructure (Kafka, MQ) whose consumers span both migrated and Retained apps? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Solace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-migrate-stateful-streaming-messaging-infrastructure-kafka-m-56592) |

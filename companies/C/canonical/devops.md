@@ -2,6 +2,8 @@
 
 [← back to Canonical](README.md)
 
+Questions 1–102 of 102.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you check if a package is installed on an Ubuntu system? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Canonical | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-check-if-a-package-is-installed-on-an-ubuntu-system-42182) |

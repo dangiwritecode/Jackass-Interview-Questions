@@ -2,6 +2,8 @@
 
 [← back to Cloud Carbon Footprint](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you align an infra strategy with a sustainability or carbon-reduction mandate from leadership? Is carbon-per-workload a real architectural driver, and how would you roadmap it? | deep understanding | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | Asked at Cloud Carbon Footprint | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-align-an-infra-strategy-with-a-sustainability-or-carbon-red-53398) |

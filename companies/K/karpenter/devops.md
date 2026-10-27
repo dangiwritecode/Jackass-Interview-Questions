@@ -2,6 +2,8 @@
 
 [← back to Karpenter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you distinguish a sensitivity point from a tradeoff point using a concrete platform example — say the node autoscaler's scale-down aggressiveness — and why is conflating the two the most common analysis error you see in infrastructure reviews? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Karpenter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-distinguish-a-sensitivity-point-from-a-tradeoff-point-using-53239) |

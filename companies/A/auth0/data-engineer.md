@@ -2,6 +2,8 @@
 
 [← back to Auth0](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you compute a moving count of failed logins in the last 15 minutes per account using a RANGE frame on event time, and what makes this hard in a pure batch warehouse? | deep understanding | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Auth0 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compute-a-moving-count-of-failed-logins-in-the-last-15-m-123205) |

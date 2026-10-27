@@ -2,6 +2,8 @@
 
 [← back to Anchore](README.md)
 
+Questions 1–73 of 73.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A base image update silently added a new transitive dependency — how would your SBOM diffing catch it before release? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at Anchore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-base-image-update-silently-added-a-new-transitive-dependency-how-wou-51550) |

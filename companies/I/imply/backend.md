@@ -2,6 +2,8 @@
 
 [← back to Imply](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your data platform's storage cost is growing 15%/month because nobody deletes anything and lifecycle policies are inconsistent. Architect a data-tiering and retention governance system that reduces spend without violating compliance or breaking analytics. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Imply | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-data-platform-s-storage-cost-is-growing-15-month-because-nobody-d-37028) |

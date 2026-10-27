@@ -2,6 +2,8 @@
 
 [← back to EarnIn](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | After an acquisition you now have two mature observability stacks. What's your decision tree for merge-migrate-or-coexist, and how does regulatory data residency change it? | expertise | SDE-2/3, Architect/Principal | Vendor & Tooling Consolidation Strategy | Hiring Manager | Tech | Asked at Banking companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=after-an-acquisition-you-now-have-two-mature-observability-stacks-what-103966) |

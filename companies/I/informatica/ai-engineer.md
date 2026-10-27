@@ -2,6 +2,8 @@
 
 [← back to Informatica](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a governance approval workflow for onboarding a new data source into the RAG platform without it becoming a multi-week velocity killer? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Informatica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-governance-approval-workflow-for-onboarding-a-n-86764) |

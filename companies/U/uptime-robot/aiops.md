@@ -2,6 +2,8 @@
 
 [← back to Uptime Robot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you cluster synthetic-monitoring check results to identify groups of failing endpoints? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Uptime Robot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cluster-synthetic-monitoring-check-results-to-identify-g-89692) |

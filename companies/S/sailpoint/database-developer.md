@@ -2,6 +2,8 @@
 
 [← back to SailPoint](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast attribute-based access control with role-based access control for a 5000-engineer org and explain the migration path you'd take from an RBAC-sprawl to ABAC. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at SailPoint | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-attribute-based-access-control-with-role-based-access-control-114058) |

@@ -2,6 +2,8 @@
 
 [← back to Fyers](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stock-trading API sees synchronized bursts at market open. Your fixed-window limiter creates a 2x-limit spike at the boundary. Explain the mechanism and how you'd redesign to avoid it. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Rate Limiting | Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Fyers | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stock-trading-api-sees-synchronized-bursts-at-market-open-your-fixed-25967) |

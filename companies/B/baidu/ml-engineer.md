@@ -2,6 +2,8 @@
 
 [← back to Baidu](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through a multi-year migration from a parameter-server legacy stack to a collective-based FSDP platform without freezing model delivery for the teams that depend on it. | expertise | SDE-2/3, Architect/Principal | Distributed Training (Data/Model Parallelism) | Phone Screen, Onsite | Tech | Asked at Baidu | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-a-multi-year-migration-from-a-parameter-server-legacy--70671) |

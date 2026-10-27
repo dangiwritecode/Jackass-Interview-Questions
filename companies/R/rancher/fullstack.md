@@ -2,6 +2,8 @@
 
 [← back to Rancher](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Tell me about a time you had to lead the org in deciding whether to commit to a container orchestration platform (Kubernetes) knowing it would tax every team's operational skills. How did you weigh the long-term bet? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Rancher | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-in-deciding-whether-to-co-40480) |

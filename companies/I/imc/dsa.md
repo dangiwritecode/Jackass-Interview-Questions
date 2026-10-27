@@ -2,6 +2,8 @@
 
 [← back to IMC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Colliding Blocks on a Frictionless Rail | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Monotonic Stack, Simulation, Stack | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at IMC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=colliding-blocks-on-a-frictionless-rail-d720) |

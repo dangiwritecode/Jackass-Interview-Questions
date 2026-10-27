@@ -2,6 +2,8 @@
 
 [← back to LastPass](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to threat-model a browser extension your company ships that injects content scripts into third-party pages. Explain how the extension becomes an XSS/CSRF liability (DOM access to arbitrary sites, message-passing trust) and design the isolation and permission model. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at LastPass | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-threat-model-a-browser-extension-your-company-ships-th-38978) |

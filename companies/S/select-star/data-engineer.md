@@ -2,6 +2,8 @@
 
 [← back to Select Star](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | After a big consolidation everyone claims cost went down, but you suspect it just moved from one budget line to another. How would you construct an honest before-and-after TCO model — warehouse spend, engineer hours, incident load, duplicate storage — that you'd stake your credibility on? | expertise | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | Asked at Select Star | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=after-a-big-consolidation-everyone-claims-cost-went-down-but-you-suspe-125591) |

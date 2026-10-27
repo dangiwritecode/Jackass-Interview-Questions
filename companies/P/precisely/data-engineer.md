@@ -2,6 +2,8 @@
 
 [← back to Precisely](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You inherit a mainframe VSAM/COBOL data source that can't be replaced for years but must feed the lakehouse. Architect the ingestion, EBCDIC/packed-decimal decoding, and CDC-off-the-mainframe pattern, and defend where you'd invest in a real off-load versus permanently wrapping the mainframe extract. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Precisely | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-a-mainframe-vsam-cobol-data-source-that-can-t-be-replaced--125683) |

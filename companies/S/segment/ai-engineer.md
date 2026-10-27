@@ -2,6 +2,8 @@
 
 [← back to Segment](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare how OpenAI and Anthropic surface token usage on a streamed response (stream_options include_usage vs the message_delta usage event). How do you unify both into one accounting record? | intermediate experience | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Segment | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-how-openai-and-anthropic-surface-token-usage-on-a-streamed-res-78209) |

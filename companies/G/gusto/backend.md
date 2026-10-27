@@ -2,6 +2,8 @@
 
 [← back to Gusto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You inherited a monolith with auth logic scattered across 40 route handlers. How would you plan a migration to centralized auth middleware without breaking any endpoint mid-rollout? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Gusto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherited-a-monolith-with-auth-logic-scattered-across-40-route-han-18912) |

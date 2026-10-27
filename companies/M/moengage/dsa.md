@@ -2,6 +2,8 @@
 
 [← back to MoEngage](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Equalizing Bags of Letter Tiles | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Frequency Array, Hash Table, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at MoEngage | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=equalizing-bags-of-letter-tiles-d1798) |

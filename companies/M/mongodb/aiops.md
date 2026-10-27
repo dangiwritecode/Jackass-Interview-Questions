@@ -2,6 +2,8 @@
 
 [← back to MongoDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd forecast database connection-pool exhaustion and pre-emptively scale or shed load. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Predictive Alerting & Incident Forecasting | Phone Screen, Onsite | Tech | Asked at MongoDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-forecast-database-connection-pool-exhaustion-and-pr-97464) |

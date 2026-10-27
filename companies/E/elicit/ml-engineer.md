@@ -2,6 +2,8 @@
 
 [← back to Elicit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your model after SFT starts producing hallucinated citations — how do you trace it to a data or training cause and fix it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Elicit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-model-after-sft-starts-producing-hallucinated-citations-how-do-yo-68147) |

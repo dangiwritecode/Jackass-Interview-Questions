@@ -2,6 +2,8 @@
 
 [← back to Workday](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A single tenant's agent has 40M memory vectors dominating a shared index and dictating rebuild windows for everyone. Architect the rebalancing to isolate them without downtime, and set the policy that prevents any single tenant from capturing shared infrastructure again. | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Workday | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-single-tenant-s-agent-has-40m-memory-vectors-dominating-a-shared-ind-82517) |

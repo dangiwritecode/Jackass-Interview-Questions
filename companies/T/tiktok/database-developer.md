@@ -2,6 +2,8 @@
 
 [← back to TikTok](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probe: you chose eventual consistency for a counter (likes). Now the interviewer adds 'but the counter also gates a paid feature at exactly 1000.' Redesign the exact boundary where the count must become linearizable and how you keep the cheap path for display. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at TikTok | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probe-you-chose-eventual-consistency-for-a-counter-likes--112212) |

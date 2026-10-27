@@ -2,6 +2,8 @@
 
 [← back to Snap Inc.](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you architect the platform so that a hot entity (a viral product, a celebrity user) whose feature reads concentrate on one shard can't melt it, at a scale where you can't predict which entity goes viral? What detection, replication, and request-coalescing makes hot keys survivable? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Snap Inc. | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-architect-the-platform-so-that-a-hot-entity--100721) |

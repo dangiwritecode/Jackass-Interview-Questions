@@ -2,6 +2,8 @@
 
 [← back to F5](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your L4 LB uses NAT mode and return traffic is bottlenecking the LB. Explain when you'd switch to Direct Server Return and what constraints DSR imposes on your network and health checks. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Load Balancing | Phone Screen, Onsite | Tech | Asked at F5 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-l4-lb-uses-nat-mode-and-return-traffic-is-bottlenecking-the-lb-ex-18649) |

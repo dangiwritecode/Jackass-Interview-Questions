@@ -2,6 +2,8 @@
 
 [← back to Resend](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you make a 'send_email' tool safe in a first version so the agent can't accidentally spam? Name two simple limits. | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Resend | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-a-send-email-tool-safe-in-a-first-version-so-the-agent-73633) |

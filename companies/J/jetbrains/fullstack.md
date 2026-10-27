@@ -2,6 +2,8 @@
 
 [← back to JetBrains](README.md)
 
+Questions 1–70 of 70.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A recursive report generator blows the stack on deep inputs; how do you reason about its space complexity, and when do you convert to iteration versus rely on tail-call optimization? | intermediate experience | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at JetBrains | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-recursive-report-generator-blows-the-stack-on-deep-inputs-how-do-you-16147) |

@@ -2,6 +2,8 @@
 
 [← back to Sourcegraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain your strategy for handling change-risk features that require deep code understanding (call-graph impact, blast-radius static analysis) — build the analysis, buy it, or approximate cheaply? | deep understanding | SDE-2/3, Architect/Principal | Change Risk Prediction | Phone Screen, Onsite | Tech | Asked at Sourcegraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-strategy-for-handling-change-risk-features-that-require-d-102609) |

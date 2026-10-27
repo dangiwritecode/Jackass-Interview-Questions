@@ -2,6 +2,8 @@
 
 [← back to Coinbase](README.md)
 
+Questions 1–96 of 96.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A candidate says 'Aurora auto-scales storage so we never need to worry about capacity' — where is that statement dangerously incomplete for a principal to accept? | deep understanding | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Coinbase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-candidate-says-aurora-auto-scales-storage-so-we-never-need-to-worry--115156) |

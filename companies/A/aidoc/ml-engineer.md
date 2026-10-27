@@ -2,6 +2,8 @@
 
 [← back to Aidoc](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You get a request to explain why a CNN misclassified a specific medical image; what interpretability tools (Grad-CAM, saliency, occlusion) would you use and what are their limits? | deep understanding | SDE-1/2, SDE-2/3 | Deep Learning (Neural Networks/CNN/RNN) | Phone Screen, Onsite | Tech | Asked at Aidoc | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-get-a-request-to-explain-why-a-cnn-misclassified-a-specific-medica-65090) |

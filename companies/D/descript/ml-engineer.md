@@ -2,6 +2,8 @@
 
 [← back to Descript](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide between synchronous inference in the FastAPI request and pushing the job to a queue with a callback, given a model that takes several seconds per call? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Descript | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-synchronous-inference-in-the-fastapi-request-62925) |

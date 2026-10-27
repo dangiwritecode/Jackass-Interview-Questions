@@ -2,6 +2,8 @@
 
 [← back to FullStory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the frontend so shared UX metrics (rage-clicks, dead-clicks, form-abandonment) are captured uniformly and can drive prioritization across product teams? | deep understanding | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at FullStory | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-frontend-so-shared-ux-metrics-rage-clicks-dea-40115) |

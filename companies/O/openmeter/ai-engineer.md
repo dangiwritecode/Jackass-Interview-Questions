@@ -2,6 +2,8 @@
 
 [← back to OpenMeter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you diagnose whether high LLM cost is driven by prompt bloat retrieval overhead or excessive tool calls in an agent? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at OpenMeter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-diagnose-whether-high-llm-cost-is-driven-by-prompt-bloat-79592) |

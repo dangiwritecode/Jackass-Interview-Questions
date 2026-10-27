@@ -2,6 +2,8 @@
 
 [← back to HackerRank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you read your API key from an environment variable in Python or Node instead of pasting it in the code, and why is that safer? | basic concept | Fresher, SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at HackerRank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-read-your-api-key-from-an-environment-variable-in-python-73470) |

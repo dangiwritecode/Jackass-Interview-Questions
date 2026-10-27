@@ -2,6 +2,8 @@
 
 [← back to You.com](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | After DPO your model becomes more polished but its factual accuracy on a knowledge benchmark drops — how do you investigate the cause? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at You.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=after-dpo-your-model-becomes-more-polished-but-its-factual-accuracy-on-68087) |

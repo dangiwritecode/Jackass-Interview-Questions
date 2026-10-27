@@ -2,6 +2,8 @@
 
 [← back to Nebius](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the platform so it scales across multiple clouds for GPU-scarcity hedging without halving velocity. As a principal, what minimal-viable portability layer preserves procurement leverage, and where is the cost of the abstraction (lowest-common-denominator services, data egress) not worth it? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nebius | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-platform-so-it-scales-across-multiple-clouds-for-gpu-scarci-100712) |

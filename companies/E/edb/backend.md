@@ -2,6 +2,8 @@
 
 [← back to EDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an autoscaling policy for a service where each request holds a DB connection for ~200ms. Why might scaling on CPU be wrong here, and what metric would you scale on instead? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at EDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-autoscaling-policy-for-a-service-where-each-request-holds-a--30070) |

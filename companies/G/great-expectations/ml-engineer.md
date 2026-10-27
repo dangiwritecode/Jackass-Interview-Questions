@@ -2,6 +2,8 @@
 
 [← back to Great Expectations](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design an org-wide contract-testing framework so a feature producer's CI fails if a change would break any registered downstream consumer. | expertise | SDE-2/3, Architect/Principal | Feature Stores | Phone Screen, Onsite | Tech | Asked at Great Expectations | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-an-org-wide-contract-testing-framework-so-a--70809) |

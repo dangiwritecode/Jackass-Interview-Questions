@@ -2,6 +2,8 @@
 
 [← back to Glassdoor](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a RAG platform to survive being the target of a competitive-scraping attack where adversaries systematically query to reconstruct your proprietary corpus from answers, at the platform (not per-app) level? | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Glassdoor | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-rag-platform-to-survive-being-the-target-of--82956) |

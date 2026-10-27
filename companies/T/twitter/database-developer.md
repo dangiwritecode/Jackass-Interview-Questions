@@ -2,6 +2,8 @@
 
 [← back to Twitter](README.md)
 
+Questions 1–88 of 88.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A senior engineer argues that read/write splitting is premature and caching would suffice. How do you frame the decision and what data do you bring to that debate? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at Twitter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-senior-engineer-argues-that-read-write-splitting-is-premature-and-ca-115462) |

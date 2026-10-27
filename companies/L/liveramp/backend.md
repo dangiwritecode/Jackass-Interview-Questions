@@ -2,6 +2,8 @@
 
 [← back to LiveRamp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect deduplication and identity resolution (stitching a user across devices/sources) as a shared concern in a mesh, so every domain doesn't reinvent it inconsistently? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at LiveRamp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-deduplication-and-identity-resolution-stitching-a-36596) |

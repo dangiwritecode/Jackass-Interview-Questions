@@ -2,6 +2,8 @@
 
 [← back to Neo4j](README.md)
 
+Questions 1–70 of 70.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the consistency posture for a graph database backing an identity/permissions system where a stale 'access revoked' read is a security incident. Explain why revocation must be linearizable while grant lookups can be bounded-stale, and how you split the two paths. | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Neo4j | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-consistency-posture-for-a-graph-database-backing-an-iden-112210) |

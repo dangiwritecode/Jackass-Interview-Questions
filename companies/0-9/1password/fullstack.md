@@ -2,6 +2,8 @@
 
 [← back to 1Password](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A staff engineer wants to rewrite a Node service in Rust/Go to 'remove the debt.' As principal, what evidence do you demand that the debt is the runtime and not the design, before you fund a language migration? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at 1Password | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-staff-engineer-wants-to-rewrite-a-node-service-in-rust-go-to-remove--41452) |

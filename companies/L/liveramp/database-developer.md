@@ -2,6 +2,8 @@
 
 [← back to LiveRamp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a compliant analytics access path that lets data scientists join across encrypted PII columns from two systems without either system exposing raw values. | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at LiveRamp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-compliant-analytics-access-path-that-lets-d-115340) |

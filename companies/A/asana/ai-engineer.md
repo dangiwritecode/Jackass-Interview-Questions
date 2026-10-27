@@ -2,6 +2,8 @@
 
 [← back to Asana](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An agent needs long-term goals that span many sessions and users (e.g., a project it's "owning"). How do you model persistent goals, ownership handoff, and staleness in the architecture? | expertise | SDE-2/3, Architect/Principal | Agentic System Architecture | Phone Screen, Onsite | Tech | Asked at Asana | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-agent-needs-long-term-goals-that-span-many-sessions-and-users-e-g-a-86991) |

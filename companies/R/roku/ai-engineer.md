@@ -2,6 +2,8 @@
 
 [← back to Roku](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You inherit five product agents each with a divergent tool-calling adapter. Sketch the strangler-fig migration to one adapter standard that never freezes feature delivery for a quarter, and name the irreversible step. | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Roku | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-five-product-agents-each-with-a-divergent-tool-calling-ada-83044) |

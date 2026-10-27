@@ -2,6 +2,8 @@
 
 [← back to TigerBeetle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect isolation for a fintech ledger where double-entry invariants must hold, but the volume forbids serializing every entry through one lock? What's the partition key? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at TigerBeetle | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-isolation-for-a-fintech-ledger-where-double-entry-113721) |

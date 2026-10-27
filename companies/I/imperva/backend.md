@@ -2,6 +2,8 @@
 
 [← back to Imperva](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An architecture decision: do you enforce a canonical decoding order (URL-decode, unicode-normalize, then filter) at the edge, or push canonicalization into each app? Explain how encoding-layer confusion defeats naive filters and where you'd standardize canonicalization to avoid double-decode gaps. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Imperva | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-architecture-decision-do-you-enforce-a-canonical-decoding-order-url-32870) |

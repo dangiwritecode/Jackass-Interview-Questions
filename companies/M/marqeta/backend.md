@@ -2,6 +2,8 @@
 
 [← back to Marqeta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal loop asks you to whiteboard the reference architecture for an event-sourced core banking platform end to end — command gateway, aggregates, event store, projections, sagas, integration events, analytics, audit — and then defend the three decisions most likely to be wrong at 10-year scale. | expertise | SDE-2/3, Architect/Principal | CQRS & Event Sourcing | Phone Screen, Onsite | Tech | Asked at Marqeta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-loop-asks-you-to-whiteboard-the-reference-architecture-for-34289) |

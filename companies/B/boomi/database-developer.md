@@ -2,6 +2,8 @@
 
 [← back to Boomi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide whether to adopt a commercial low-code 'citizen data-integrator' tool for business teams alongside your engineering-grade data platform? Architect the guardrails so citizen-built pipelines writing to shared stores don't become ungoverned shadow data-IT you inherit at 2am. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Boomi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-to-adopt-a-commercial-low-code-citizen-data--112618) |

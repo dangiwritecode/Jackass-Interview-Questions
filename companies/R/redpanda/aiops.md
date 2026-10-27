@@ -2,6 +2,8 @@
 
 [← back to Redpanda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: 'If your platform can't dedupe telemetry across active-active regions, on failover you get double-counted metrics and false alerts.' How do you architect idempotent, exactly-once telemetry semantics so recovery doesn't corrupt the very signals driving decisions? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Redpanda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-if-your-platform-can-t-dedupe-telemetry-across-a-99974) |

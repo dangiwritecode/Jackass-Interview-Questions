@@ -2,6 +2,8 @@
 
 [← back to GoReplay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd validate a flag change in a canary that runs on a mirror of prod traffic (traffic shadowing) so no real user is affected during the first ramp step. | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at GoReplay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-validate-a-flag-change-in-a-canary-that-runs-on-a-mi-47421) |

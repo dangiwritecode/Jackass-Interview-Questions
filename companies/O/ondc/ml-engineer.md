@@ -2,6 +2,8 @@
 
 [← back to ONDC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you approach setting the strategy and roadmap for AI in a joint venture or coalition where governance and data are shared across companies? | expertise | SDE-2/3, Architect/Principal | AI Strategy & Roadmap | Onsite, Hiring Manager | Tech | Asked at ONDC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-approach-setting-the-strategy-and-roadmap-for-ai-in-a-jo-71664) |

@@ -2,6 +2,8 @@
 
 [← back to Sephora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want to test a personalization model but only 5% of traffic is eligible. How do you design the experiment to still get power? | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at Sephora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-test-a-personalization-model-but-only-5-of-traffic-is-elig-67683) |

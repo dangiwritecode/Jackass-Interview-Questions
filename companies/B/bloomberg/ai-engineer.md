@@ -2,6 +2,8 @@
 
 [← back to Bloomberg](README.md)
 
+Questions 1–140 of 140.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A recruiter-facing feature must run fully on-prem with no data egress; how would you choose an open-weight Transformer size and attention optimization stack under those constraints? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Bloomberg | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-recruiter-facing-feature-must-run-fully-on-prem-with-no-data-egress--79370) |

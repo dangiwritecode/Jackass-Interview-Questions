@@ -2,6 +2,8 @@
 
 [← back to MotherDuck](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your rubric for when to trust a young database (< 3 years, small team) in production, and what mitigations do you put around that bet to make it reversible? | expertise | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at MotherDuck | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-rubric-for-when-to-trust-a-young-database-3-years-small-te-114411) |

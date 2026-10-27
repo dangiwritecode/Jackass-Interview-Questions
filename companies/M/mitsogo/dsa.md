@@ -2,6 +2,8 @@
 
 [← back to Mitsogo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Read a String Written in a Zigzag Across Rows | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Simulation, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Mitsogo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=read-a-string-written-in-a-zigzag-across-rows-d6) |

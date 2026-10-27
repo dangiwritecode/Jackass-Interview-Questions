@@ -2,6 +2,8 @@
 
 [← back to Percona](README.md)
 
+Questions 1–98 of 98.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A batch job does 500k single-row INSERTs and takes an hour — walk through every layer (autocommit, round trips, index maintenance) you'd optimize and the expected wins. | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Percona | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-batch-job-does-500k-single-row-inserts-and-takes-an-hour-walk-throug-24379) |

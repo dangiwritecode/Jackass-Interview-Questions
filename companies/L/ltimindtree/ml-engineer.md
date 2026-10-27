@@ -2,6 +2,8 @@
 
 [← back to LTIMindtree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you count the number of rows in a large CSV dataset from the command line without opening it in Python? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at LTIMindtree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-count-the-number-of-rows-in-a-large-csv-dataset-from-the-co-57838) |

@@ -2,6 +2,8 @@
 
 [← back to Robinhood](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Defend the choice of Prometheus remote-write into a central Mimir cluster versus a fully federated hierarchy of Prometheis for a 5000-node estate. What are the failure and back-pressure modes of each under a regional network partition? | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Robinhood | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=defend-the-choice-of-prometheus-remote-write-into-a-central-mimir-clus-99028) |

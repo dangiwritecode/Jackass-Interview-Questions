@@ -2,6 +2,8 @@
 
 [← back to Starburst](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the right degree of open-source versus proprietary in the lake stack given the operational burden of running Iceberg Trino and Kafka yourself at scale? | expertise | SDE-2/3, Architect/Principal | Observability Data Lake | Onsite, Hiring Manager | Tech | Asked at Starburst | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-right-degree-of-open-source-versus-proprietary-i-102421) |

@@ -2,6 +2,8 @@
 
 [← back to Rapido](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you get the value of a column three rows earlier using LAG? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Rapido | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-get-the-value-of-a-column-three-rows-earlier-using-lag-118992) |

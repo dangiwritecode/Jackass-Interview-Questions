@@ -2,6 +2,8 @@
 
 [← back to Doppler](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A scenario tests recovery when a shared secrets-management backend (Vault or a cloud KMS) is unavailable across the fleet. Walk me through analyzing the fail-open vs fail-closed sensitivity points and where secret-caching becomes a security-vs-availability tradeoff. | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Doppler | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-tests-recovery-when-a-shared-secrets-management-backend-vau-53241) |

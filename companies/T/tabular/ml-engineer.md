@@ -2,6 +2,8 @@
 
 [← back to Tabular](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for the offline store storage format and layout (Iceberg/Delta/Hudi) to keep multi-year training reads fast and cheap as data grows to petabytes? | expertise | SDE-2/3, Architect/Principal | Feature Stores | Phone Screen, Onsite | Tech | Asked at Tabular | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-the-offline-store-storage-format-and-layout-i-70793) |

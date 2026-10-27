@@ -2,6 +2,8 @@
 
 [← back to Egnyte](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A shared-drive-style product needs 'can this viewer read this file' answered in under a millisecond even when ACLs inherit from parent folders and can be overridden per file, and a folder move must recompute effective access lazily. Architect the tuple model and the check path. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Egnyte | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-shared-drive-style-product-needs-can-this-viewer-read-this-file-answ-32788) |

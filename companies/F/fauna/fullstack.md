@@ -2,6 +2,8 @@
 
 [← back to Fauna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between edge caching and edge compute state. Why is durable state (KV, Durable Objects, edge DB) hard to keep consistent across POPs, and when would you use it? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at Fauna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-edge-caching-and-edge-compute-state-why-20876) |

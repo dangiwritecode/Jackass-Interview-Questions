@@ -2,6 +2,8 @@
 
 [← back to EdTech-Byjus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a simple star schema for a library tracking book checkouts. List the fact and dimensions. | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | Asked at EdTech-Byjus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-simple-star-schema-for-a-library-tracking-book-checkouts-list-117194) |

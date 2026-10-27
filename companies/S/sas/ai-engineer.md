@@ -2,6 +2,8 @@
 
 [← back to SAS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set up a mechanism to detect when the population a model scores has drifted so far that its original validation is no longer applicable and re-validation is legally required? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at SAS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-a-mechanism-to-detect-when-the-population-a-model-86131) |

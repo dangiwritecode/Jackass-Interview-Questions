@@ -2,6 +2,8 @@
 
 [← back to Zoom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: how do you split intelligence between an on-device Transformer and a cloud Transformer, and where do you draw the privacy and cost boundary? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Zoom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-do-you-split-intelligence-between-an-on-device-t-70434) |

@@ -2,6 +2,8 @@
 
 [← back to BlaBlaCar](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a ride-sharing backend's matching service that pairs riders to nearby drivers in real time — how do you index and query driver locations geospatially at city scale? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at BlaBlaCar | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-ride-sharing-backend-s-matching-service-that-pairs-riders-to--20645) |

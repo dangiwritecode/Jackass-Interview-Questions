@@ -2,6 +2,8 @@
 
 [← back to Polar Signals](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide whether to build a home-grown continuous-profiling backend or adopt a vendor across 8000 hosts. Frame the TCO, lock-in, data-gravity, and org-capability trade-offs and make a recommendation. | expertise | SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at Polar Signals | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-whether-to-build-a-home-grown-continuous-profiling-bac-39877) |

@@ -2,6 +2,8 @@
 
 [← back to MariaDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a 'primary key' and why is it central to how OLTP finds a single record fast? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at MariaDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-primary-key-and-why-is-it-central-to-how-oltp-finds-a-single-118786) |

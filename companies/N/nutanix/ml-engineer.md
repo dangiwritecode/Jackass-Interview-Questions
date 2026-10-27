@@ -2,6 +2,8 @@
 
 [← back to Nutanix](README.md)
 
+Questions 1–104 of 104.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a special token (like end-of-sequence or padding) and why does a tokenizer need them? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Nutanix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-special-token-like-end-of-sequence-or-padding-and-why-does-a-58230) |

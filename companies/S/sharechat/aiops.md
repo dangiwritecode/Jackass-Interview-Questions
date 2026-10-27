@@ -2,6 +2,8 @@
 
 [← back to ShareChat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How did you design an approval/escalation path so automation acts autonomously for low-risk actions but pages a human for high-risk ones? | deep understanding | SDE-1/2, SDE-2/3 | Runbook Automation | Onsite, Hiring Manager | Tech | Asked at ShareChat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-did-you-design-an-approval-escalation-path-so-automation-acts-auto-96148) |

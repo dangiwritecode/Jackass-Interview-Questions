@@ -2,6 +2,8 @@
 
 [← back to eBay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A schema change in an upstream operational DB silently corrupted a gold feature table feeding a production ranking model for two weeks. Run the postmortem: what architectural controls were missing and what do you invest in so ML pipelines can't be poisoned silently? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at eBay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-schema-change-in-an-upstream-operational-db-silently-corrupted-a-gol-69688) |

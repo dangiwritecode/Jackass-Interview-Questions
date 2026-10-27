@@ -2,6 +2,8 @@
 
 [← back to Sketch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the architecture for a design-collaboration canvas (Figma-scale) that must render a 100K-object document at 60fps in the browser and sync multiplayer edits — how do you split the rendering engine (WebGL/WASM) from the sync layer and keep memory bounded? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Sketch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-a-design-collaboration-canvas-figma-scale--39444) |

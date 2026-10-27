@@ -2,6 +2,8 @@
 
 [← back to Shopify](README.md)
 
+Questions 1–100 of 100.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: when has aggressive GPU optimization ever been the wrong priority for the business? Walk me through a case where you deliberately left performance on the table and why. | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Shopify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-when-has-aggressive-gpu-optimization-ever-been-the-w-85122) |

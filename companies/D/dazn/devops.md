@@ -2,6 +2,8 @@
 
 [← back to Dazn](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the availability and capacity of a live-sports streaming platform to serve tens of millions of concurrent viewers with a hard, immovable start time — covering origin shielding, CDN topology, and multi-CDN failover — and how do you rehearse it when there's no second chance? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Dazn | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-availability-and-capacity-of-a-live-sports-st-52109) |

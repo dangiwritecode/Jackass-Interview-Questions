@@ -2,6 +2,8 @@
 
 [← back to Feedzai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a fraud/risk ML decisioning platform (buy Sift/Feedzai/DataVisor vs build in-house on your proprietary signals) when your transaction data is a moat but time-to-market and model-explainability for regulators both matter? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Feedzai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-fraud-risk-ml-decisioning-platfor-69804) |

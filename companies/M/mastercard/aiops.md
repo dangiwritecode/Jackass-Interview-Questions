@@ -2,6 +2,8 @@
 
 [← back to Mastercard](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A board-level question lands on you: 'what is our change-induced-outage exposure in dollars and how does the risk model reduce it?' How do you construct that quantified answer? | expertise | SDE-2/3, Architect/Principal | Change Risk Prediction | Phone Screen, Onsite | Tech | Asked at Mastercard | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-board-level-question-lands-on-you-what-is-our-change-induced-outage--102545) |

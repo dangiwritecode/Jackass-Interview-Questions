@@ -2,6 +2,8 @@
 
 [← back to JFrog](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to governing open-source model weights your teams download — supply-chain, provenance, and backdoor/poisoning risk? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at JFrog | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-open-source-model-weights-your-teams-71720) |

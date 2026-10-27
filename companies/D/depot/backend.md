@@ -2,6 +2,8 @@
 
 [← back to Depot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do BuildKit cache mounts (RUN --mount=type=cache) speed up dependency installs, and when would you use them? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Depot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-buildkit-cache-mounts-run-mount-type-cache-speed-up-dependency--14278) |

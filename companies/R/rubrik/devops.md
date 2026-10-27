@@ -2,6 +2,8 @@
 
 [← back to Rubrik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: what is the single most expensive-to-reverse decision in a zero-trust architecture, and how do you keep that decision reversible even five years and 500 services later? Defend your answer. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Rubrik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-what-is-the-single-most-expensive-to-reverse-decisio-53927) |

@@ -2,6 +2,8 @@
 
 [← back to Tabnine](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Tell me about a time you had to lead the org in setting a policy on how much AI-assisted code generation to trust in critical paths, and how to keep review quality high as volume exploded. How did you set the guardrails? | expertise | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tabnine | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-in-setting-a-policy-on-ho-40466) |

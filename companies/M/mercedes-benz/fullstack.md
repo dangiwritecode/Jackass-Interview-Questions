@@ -2,6 +2,8 @@
 
 [← back to Mercedes-Benz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the debt of a homegrown internal developer platform (IDP) that teams now route around because it's slower than doing it by hand? Rebuild trust, or dismantle it? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Mercedes-Benz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-debt-of-a-homegrown-internal-developer-platform--41441) |

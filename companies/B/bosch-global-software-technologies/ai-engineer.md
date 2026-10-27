@@ -2,6 +2,8 @@
 
 [← back to Bosch Global Software Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set the org's strategy for on-device or edge agents (mobile, IoT) versus cloud agents, and what changes in orchestration, model choice, and tool access when compute is constrained? | deep understanding | SDE-2/3, Architect/Principal | Agentic Workflows | Phone Screen, Onsite | Tech | Asked at Bosch Global Software Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-org-s-strategy-for-on-device-or-edge-agents-mobile--84609) |

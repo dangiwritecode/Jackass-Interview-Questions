@@ -2,6 +2,8 @@
 
 [← back to S&P Global](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the security architecture for Snowflake data sharing / Databricks Delta Sharing across organizations — what governance controls stop a data-share from silently exposing more than intended as underlying tables evolve? | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at S&P Global | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-security-architecture-for-snowflake-data-sharing-databrick-126650) |

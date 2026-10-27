@@ -2,6 +2,8 @@
 
 [← back to Stack Overflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd model and query a hierarchical categories/comments tree at scale; compare recursive CTE, adjacency list, materialized path, and ltree with their query trade-offs. | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Stack Overflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-and-query-a-hierarchical-categories-comments-t-18149) |

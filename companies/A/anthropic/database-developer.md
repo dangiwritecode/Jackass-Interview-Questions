@@ -2,6 +2,8 @@
 
 [← back to Anthropic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you manage schema versioning for a vector database or a pgvector column when embedding dimensionality or the model itself changes and requires a full re-embed? | deep understanding | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at Anthropic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-manage-schema-versioning-for-a-vector-database-or-a-pgvecto-114317) |

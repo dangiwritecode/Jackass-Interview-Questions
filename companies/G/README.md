@@ -31,30 +31,30 @@
 | [GitBook](gitbook/README.md) | Tier 3 | 540 | 2 |
 | [Gitea](gitea/README.md) | Tier 4 | 540 | 4 |
 | [GitGuardian](gitguardian/README.md) | Tier 2 | 540 | 13 |
-| [GitLab](gitlab/README.md) | Tier 2 | 1,026 | 3,687 |
+| [GitLab](gitlab/README.md) | Tier 2 | 4,213 | 3,687 |
 | [GitPod](gitpod/README.md) | Tier 3 | 540 | 13 |
 | [Gladly](gladly/README.md) | Tier 3 | 540 | 1 |
 | [Glance](glance/README.md) | Tier 3 | 540 | 1 |
 | [Glassdoor](glassdoor/README.md) | Tier 3 | 540 | 2 |
-| [Glean](glean/README.md) | Tier 2 | 709 | 1,502 |
+| [Glean](glean/README.md) | Tier 2 | 1,827 | 1,502 |
 | [Global Payments](global-payments/README.md) | Tier 2 | 540 | 3 |
 | [Glovo](glovo/README.md) | Tier 3 | 540 | 1 |
 | [GoCardless](gocardless/README.md) | Tier 3 | 540 | 10 |
 | [GoDaddy](godaddy/README.md) | Tier 3 | 549 | 94 |
 | [Goibibo](goibibo/README.md) | Tier 3 | 540 | 14 |
 | [Gojek](gojek/README.md) | Tier 2 | 540 | 122 |
-| [Goldman Sachs](goldman-sachs/README.md) | Tier 1 | 938 | 1,001 |
+| [Goldman Sachs](goldman-sachs/README.md) | Tier 1 | 1,028 | 1,001 |
 | [Golioth](golioth/README.md) | Tier 4 | 540 | 1 |
 | [Gong](gong/README.md) | Tier 2 | 540 | 3 |
 | [GoodData](gooddata/README.md) | Tier 3 | 540 | 4 |
-| [Google](google/README.md) | Tier 1 | 1,350 | 63,310 |
+| [Google](google/README.md) | Tier 1 | 68,924 | 63,310 |
 | [Gopuff](gopuff/README.md) | Tier 2 | 540 | 1 |
 | [GoReplay](goreplay/README.md) | Tier 3 | 540 | 1 |
 | [Gorgias](gorgias/README.md) | Tier 3 | 540 | 2 |
 | [Government](government/README.md) | Tier 4 | 540 | 1 |
-| [Grab](grab/README.md) | Tier 2 | 950 | 1,233 |
+| [Grab](grab/README.md) | Tier 2 | 1,405 | 1,233 |
 | [Gradle/Develocity](gradle-develocity/README.md) | Tier 3 | 540 | 1 |
-| [Grafana Labs](grafana-labs/README.md) | Tier 2 | 1,190 | 8,969 |
+| [Grafana Labs](grafana-labs/README.md) | Tier 2 | 9,196 | 8,969 |
 | [Grammarly](grammarly/README.md) | Tier 2 | 551 | 171 |
 | [Graphcore](graphcore/README.md) | Tier 3 | 540 | 10 |
 | [Graphite](graphite/README.md) | Tier 3 | 540 | 6 |
@@ -62,7 +62,7 @@
 | [Gravitee](gravitee/README.md) | Tier 3 | 540 | 1 |
 | [Gray Swan](gray-swan/README.md) | Tier 3 | 540 | 2 |
 | [Graylog](graylog/README.md) | Tier 4 | 540 | 2 |
-| [Great Expectations](great-expectations/README.md) | Tier 4 | 630 | 232 |
+| [Great Expectations](great-expectations/README.md) | Tier 4 | 632 | 232 |
 | [Greenhouse](greenhouse/README.md) | Tier 3 | 540 | 2 |
 | [Gremlin](gremlin/README.md) | Tier 3 | 616 | 305 |
 | [Gretel](gretel/README.md) | Tier 4 | 540 | 29 |
@@ -71,10 +71,10 @@
 | [greytHR](greythr/README.md) | Tier 4 | 540 | 2 |
 | [Grid-Singularity](grid-singularity/README.md) | Tier 4 | 540 | 1 |
 | [Grid.ai](grid-ai/README.md) | Tier 3 | 540 | 1 |
-| [Groq](groq/README.md) | Tier 2 | 630 | 262 |
+| [Groq](groq/README.md) | Tier 2 | 675 | 262 |
 | [Groundcover](groundcover/README.md) | Tier 4 | 540 | 7 |
 | [Groupon](groupon/README.md) | Tier 3 | 540 | 2 |
-| [Groww](groww/README.md) | Tier 2 | 1,260 | 18,662 |
+| [Groww](groww/README.md) | Tier 2 | 20,289 | 18,662 |
 | [Grubhub](grubhub/README.md) | Tier 3 | 540 | 5 |
 | [Gruntwork](gruntwork/README.md) | Tier 3 | 540 | 27 |
 | [GSA Capital](gsa-capital/README.md) | Tier 2 | 540 | 2 |

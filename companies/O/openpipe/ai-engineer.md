@@ -2,6 +2,8 @@
 
 [← back to OpenPipe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when to fine-tune or train a specialized tool-use model versus continuing to improve prompts, schemas, and routing? Frame it as build-vs-buy-vs-train with cost, maintenance, and lock-in dimensions at org scale. | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at OpenPipe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-to-fine-tune-or-train-a-specialized-tool-use-mo-83106) |

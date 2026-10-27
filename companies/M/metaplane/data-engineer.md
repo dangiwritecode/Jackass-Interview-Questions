@@ -2,6 +2,8 @@
 
 [← back to Metaplane](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast schema-on-write data contracts with data-observability monitoring (freshness/volume/distribution anomaly detection) as the enterprise strategy for trust. Where does each catch failures the other misses, and how do you avoid observability becoming an alert-fatigue firehose that on-call ignores? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Metaplane | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-schema-on-write-data-contracts-with-data-observability-monito-125630) |

@@ -2,6 +2,8 @@
 
 [← back to VAST](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan storage and data-pipeline capacity so GPUs aren't starved waiting on I/O during training? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | Asked at VAST | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-storage-and-data-pipeline-capacity-so-gpus-aren-t-star-71950) |

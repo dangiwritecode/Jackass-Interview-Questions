@@ -2,6 +2,8 @@
 
 [← back to SUSE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you prevent a promoted standby from being fenced-out old primary re-joining as a second primary? Explain STONITH-style fencing versus timestamp/epoch-based fencing in databases. | expertise | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at SUSE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-prevent-a-promoted-standby-from-being-fenced-out-old-primar-114675) |

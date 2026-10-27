@@ -2,6 +2,8 @@
 
 [← back to Etsy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the debt of a legacy monolith that's the profit center and can't be touched carelessly, while all new value is being built as satellite services around it? Design the long-term coexistence strategy. | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Etsy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-debt-of-a-legacy-monolith-that-s-the-profit-cent-41481) |

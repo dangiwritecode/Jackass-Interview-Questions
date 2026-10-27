@@ -2,6 +2,8 @@
 
 [← back to Arm](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe the memory segments of a running C program (text, data, bss, heap, stack). | intermediate experience | Fresher, SDE-1 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Arm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-memory-segments-of-a-running-c-program-text-data-bss-heap-494) |

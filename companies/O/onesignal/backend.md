@@ -2,6 +2,8 @@
 
 [← back to OneSignal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a structure for 'has this device seen this push notification' across billions of (device, notification) pairs with a per-notification memory cap; where does a per-notification bitmap win over a hash set? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at OneSignal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-structure-for-has-this-device-seen-this-push-notification-acr-21961) |

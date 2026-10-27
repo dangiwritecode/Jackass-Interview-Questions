@@ -2,6 +2,8 @@
 
 [← back to Infracost](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want engineers to see the projected scan-bytes and dollar cost of a SQL or Spark job change at pull-request time. What can you realistically estimate pre-merge from the compiled plan, table statistics, and partition layout, what do you block on, and how do you avoid alert fatigue? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Infracost | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-engineers-to-see-the-projected-scan-bytes-and-dollar-cost-of--125979) |

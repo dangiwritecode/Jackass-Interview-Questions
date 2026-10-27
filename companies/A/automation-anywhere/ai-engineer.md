@@ -2,6 +2,8 @@
 
 [← back to Automation Anywhere](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Adjudicate autonomy versus control at the org level: which classes of business processes should be fully agent-autonomous, which need human-in-the-loop, and which stay deterministic workflows? Give the decision framework you'd standardize and defend the boundaries. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Automation Anywhere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=adjudicate-autonomy-versus-control-at-the-org-level-which-classes-of-b-83083) |

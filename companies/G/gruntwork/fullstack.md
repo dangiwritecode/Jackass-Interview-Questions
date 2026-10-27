@@ -2,6 +2,8 @@
 
 [← back to Gruntwork](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're setting the org standard for how much logic lives in HCL vs a wrapper (Terragrunt, a homegrown generator, CDKTF). A staff engineer wants Terragrunt for DRY; another wants plain HCL for reviewability. Adjudicate for a 300-engineer org and define the maximum acceptable indirection. | expertise | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Gruntwork | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-setting-the-org-standard-for-how-much-logic-lives-in-hcl-vs-a-w-39934) |

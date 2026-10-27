@@ -2,6 +2,8 @@
 
 [← back to Frontegg](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CIAM vendor you standardized on triples its per-MAU price at renewal. As principal, how do you architect the login layer up front so that swapping identity providers later is a bounded migration rather than a rewrite of every app? | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Frontegg | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-ciam-vendor-you-standardized-on-triples-its-per-mau-price-at-renewal-38819) |

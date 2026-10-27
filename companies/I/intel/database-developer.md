@@ -2,6 +2,8 @@
 
 [← back to Intel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect confidential-computing or enclave-backed query processing so that even cloud operators cannot read sensitive columns, and when is the added complexity justified? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Intel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-confidential-computing-or-enclave-backed-query-114065) |

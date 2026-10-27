@@ -2,6 +2,8 @@
 
 [← back to Juspay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff point pits an active-active multi-region model-serving deployment (availability, no failover drill) against active-passive (cost, simpler model-version consistency) for a fraud-scoring model. Which scenarios force the availability-vs-cost-vs-consistency tension into a business-owned decision? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Juspay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-point-pits-an-active-active-multi-region-model-serving-depl-69483) |

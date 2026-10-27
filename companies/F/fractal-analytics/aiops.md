@@ -2,6 +2,8 @@
 
 [← back to Fractal Analytics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a 'nightly build' and why might you rebuild and redeploy an AIOps model artifact on a schedule? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | Asked at Fractal Analytics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-nightly-build-and-why-might-you-rebuild-and-redeploy-an-aiop-88018) |

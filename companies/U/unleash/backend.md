@@ -2,6 +2,8 @@
 
 [← back to Unleash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A flag defaults to false in code but the SDK returns the control-plane default of true when config loads — during the cold-start window some requests get false, then true, causing a mixed rollout for a few seconds after each deploy; how do you eliminate this defaults-drift race? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Unleash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-flag-defaults-to-false-in-code-but-the-sdk-returns-the-control-plane-30477) |

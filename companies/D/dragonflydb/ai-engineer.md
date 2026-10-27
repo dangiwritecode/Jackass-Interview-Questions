@@ -2,6 +2,8 @@
 
 [← back to DragonflyDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide whether to cache an LLM response, given the same question may need a different answer as underlying data changes? Design the key and TTL reasoning. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at DragonflyDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-to-cache-an-llm-response-given-the-same-q-77986) |

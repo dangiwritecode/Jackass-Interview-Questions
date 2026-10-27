@@ -2,6 +2,8 @@
 
 [← back to Healthtech-Practo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A privacy/compliance rule forbids replaying real user data in load tests. Design a synthetic-yet-representative traffic model (arrival distribution, payload mix, cache warmth, tenant skew) and prove it's faithful enough for capacity decisions. | expertise | SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at Healthtech-Practo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-privacy-compliance-rule-forbids-replaying-real-user-data-in-load-tes-39869) |

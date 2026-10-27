@@ -2,6 +2,8 @@
 
 [← back to Inflection](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your DPO model's win rate improves on the judge LLM but users complain quality dropped — how do you reconcile the eval and reality? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Inflection | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-dpo-model-s-win-rate-improves-on-the-judge-llm-but-users-complain-68112) |

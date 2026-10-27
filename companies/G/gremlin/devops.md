@@ -2,6 +2,8 @@
 
 [← back to Gremlin](README.md)
 
+Questions 1–122 of 122.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design a company-wide chaos and disaster game-day program that produces auditable BCP evidence without eroding trust or causing real customer harm. | expertise | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | Asked at Gremlin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-a-company-wide-chaos-and-disaster-game-day-p-56937) |

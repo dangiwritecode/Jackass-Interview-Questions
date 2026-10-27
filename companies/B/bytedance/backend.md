@@ -2,6 +2,8 @@
 
 [← back to ByteDance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks you to defend a decision: you chose AP for a system that most peers would make CP, and it's been running for two years. Reconstruct the reasoning, the guardrails you added, and the leading metric you'd watch to know if the bet went wrong. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at ByteDance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-to-defend-a-decision-you-chose-ap-for-a-system-t-32298) |

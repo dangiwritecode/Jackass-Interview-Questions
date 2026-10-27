@@ -2,6 +2,8 @@
 
 [← back to Roam](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the sync engine for a note-taking/knowledge product that must sync across devices work offline and handle rich structured content — how do you decide the sync model (CRDT vs op-log) handle large documents and reconcile a device that was offline for weeks? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Roam | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-sync-engine-for-a-note-taking-knowledge-product-that-mus-39509) |

@@ -2,6 +2,8 @@
 
 [← back to Coursera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want an agent for a students app that can look up a topic and generate a quiz. What two tools would you expose and their parameters? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Coursera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-an-agent-for-a-students-app-that-can-look-up-a-topic-and-gene-73638) |

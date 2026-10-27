@@ -2,6 +2,8 @@
 
 [← back to Drata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator wants proof that your zero-trust controls are effective, not just configured. Design continuous control validation, such as scheduled probes that try disallowed access and confirm they're blocked, feeding evidence into a compliance dashboard. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Drata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-wants-proof-that-your-zero-trust-controls-are-effective-no-47877) |

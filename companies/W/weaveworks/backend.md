@@ -2,6 +2,8 @@
 
 [← back to Weaveworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is GitOps and how do tools like ArgoCD or Flux fit into Kubernetes deployments? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Weaveworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-gitops-and-how-do-tools-like-argocd-or-flux-fit-into-kubernete-6557) |

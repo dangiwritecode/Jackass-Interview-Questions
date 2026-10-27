@@ -2,6 +2,8 @@
 
 [← back to Josh](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Give a real-life analogy that explains what 'partitioning' a window means (like leaderboards per class). | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Josh | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=give-a-real-life-analogy-that-explains-what-partitioning-a-window-mean-118980) |

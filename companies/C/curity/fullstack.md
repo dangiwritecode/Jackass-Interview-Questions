@@ -2,6 +2,8 @@
 
 [← back to Curity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect token exchange (RFC 8693) across a request that crosses three trust domains so each hop gets a fresh audience-scoped token, and what breaks operationally when the token-exchange service itself degrades? | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Curity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-token-exchange-rfc-8693-across-a-request-that-cro-41221) |

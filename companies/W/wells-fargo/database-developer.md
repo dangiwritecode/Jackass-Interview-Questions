@@ -2,6 +2,8 @@
 
 [← back to Wells Fargo](README.md)
 
+Questions 1–100 of 100.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare DynamoDB point-in-time recovery, on-demand backups, and continuous export to S3 for a compliance-driven restore requirement — what are the RPO, cross-region, and cost differences, and how do you prove restore correctness without a full production replay? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Wells Fargo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-dynamodb-point-in-time-recovery-on-demand-backups-and-continuo-111853) |

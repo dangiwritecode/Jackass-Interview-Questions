@@ -2,6 +2,8 @@
 
 [← back to Lenskart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A user changed their email; your reset-password link still contains the old email and now they can't reset. Why did coupling the token to email cause this, and how would you design a token that's decoupled from mutable fields? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Lenskart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-user-changed-their-email-your-reset-password-link-still-contains-the-26190) |

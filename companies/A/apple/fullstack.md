@@ -2,6 +2,8 @@
 
 [← back to Apple](README.md)
 
+Questions 1–107 of 107.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser presses: you called passkeys 'phishing-resistant', but where's the residual account-takeover risk once cross-device sync, cloud-backed authenticators, and recovery flows are in play? Identify the true weakest link in a passkey-first consumer design. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Apple | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-presses-you-called-passkeys-phishing-resistant-but-where--38872) |

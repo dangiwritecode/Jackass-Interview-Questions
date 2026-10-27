@@ -2,6 +2,8 @@
 
 [← back to Bunny](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a CDN's origin-shield and cache-fill layer so a cache miss on a hot object doesn't stampede the origin — how do you coalesce fills tier the cache and handle cache-key normalization? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Bunny | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-cdn-s-origin-shield-and-cache-fill-layer-so-a-cache-miss-on-a-28418) |

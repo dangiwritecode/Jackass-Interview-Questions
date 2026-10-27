@@ -2,6 +2,8 @@
 
 [← back to GitPod](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect ephemeral preview environments as a platform capability at scale (per-PR full-stack environments) without the cloud bill spiraling or environments becoming unreliable? | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at GitPod | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-ephemeral-preview-environments-as-a-platform-capa-37470) |

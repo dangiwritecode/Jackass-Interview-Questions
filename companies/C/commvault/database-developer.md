@@ -2,6 +2,8 @@
 
 [← back to Commvault](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you validate that a restored backup is still decryptable years later — design key-lifecycle governance so retired keys needed for old backups aren't destroyed prematurely? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Commvault | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-a-restored-backup-is-still-decryptable-years--115295) |

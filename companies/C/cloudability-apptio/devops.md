@@ -2,6 +2,8 @@
 
 [← back to Cloudability-Apptio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set an org-wide policy for what fraction of infra spend goes to redundancy per service tier, and enforce it in the platform so teams can't silently run tier-0 workloads on single-AZ, single-replica, no-DR setups to save money? | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Cloudability-Apptio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-an-org-wide-policy-for-what-fraction-of-infra-spend--52830) |

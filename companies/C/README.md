@@ -11,9 +11,9 @@
 | [Canonical](canonical/README.md) | Tier 3 | 582 | 148 |
 | [Canva](canva/README.md) | Tier 2 | 628 | 231 |
 | [Cape Privacy](cape-privacy/README.md) | Tier 4 | 540 | 1 |
-| [Capgemini](capgemini/README.md) | Tier 5 | 1,260 | 9,963 |
+| [Capgemini](capgemini/README.md) | Tier 5 | 10,431 | 9,963 |
 | [Capital-Float](capital-float/README.md) | Tier 4 | 540 | 1 |
-| [Capital-One](capital-one/README.md) | Tier 1 | 655 | 474 |
+| [Capital-One](capital-one/README.md) | Tier 1 | 716 | 474 |
 | [Carahsoft](carahsoft/README.md) | Tier 4 | 540 | 1 |
 | [Cars24](cars24/README.md) | Tier 3 | 540 | 7 |
 | [Carta](carta/README.md) | Tier 3 | 540 | 5 |
@@ -42,7 +42,7 @@
 | [CGI-Federal](cgi-federal/README.md) | Tier 3 | 540 | 1 |
 | [Chai Point](chai-point/README.md) | Tier 4 | 540 | 1 |
 | [Chainalysis](chainalysis/README.md) | Tier 3 | 540 | 8 |
-| [Chainguard](chainguard/README.md) | Tier 3 | 633 | 453 |
+| [Chainguard](chainguard/README.md) | Tier 3 | 795 | 453 |
 | [Chainlink](chainlink/README.md) | Tier 3 | 540 | 1 |
 | [Chakra-UI](chakra-ui/README.md) | Tier 4 | 540 | 3 |
 | [Chalk](chalk/README.md) | Tier 4 | 540 | 2 |
@@ -51,7 +51,7 @@
 | [Chaos Search](chaos-search/README.md) | Tier 4 | 540 | 1 |
 | [ChaosNative](chaosnative/README.md) | Tier 3 | 540 | 4 |
 | [Character AI](character-ai/README.md) | Tier 2 | 576 | 131 |
-| [Chargebee](chargebee/README.md) | Tier 4 | 738 | 471 |
+| [Chargebee](chargebee/README.md) | Tier 4 | 854 | 471 |
 | [Charles Schwab](charles-schwab/README.md) | Tier 3 | 540 | 3 |
 | [Charles/Proxyman](charles-proxyman/README.md) | Tier 4 | 540 | 1 |
 | [Checkly](checkly/README.md) | Tier 3 | 540 | 9 |
@@ -65,16 +65,16 @@
 | [Chingari](chingari/README.md) | Tier 4 | 540 | 1 |
 | [Chroma](chroma/README.md) | Tier 3 | 600 | 120 |
 | [Chromatic](chromatic/README.md) | Tier 3 | 540 | 6 |
-| [Chronosphere](chronosphere/README.md) | Tier 3 | 639 | 1,032 |
+| [Chronosphere](chronosphere/README.md) | Tier 3 | 1,388 | 1,032 |
 | [CIBIL](cibil/README.md) | Tier 3 | 540 | 4 |
 | [Ciena](ciena/README.md) | Tier 3 | 540 | 2 |
 | [Cigna](cigna/README.md) | Tier 2 | 540 | 29 |
-| [Cilium](cilium/README.md) | Tier 3 | 654 | 412 |
+| [Cilium](cilium/README.md) | Tier 3 | 777 | 412 |
 | [Cilium-maintainer-cos](cilium-maintainer-cos/README.md) | Tier 2 | 540 | 1 |
 | [Circle](circle/README.md) | Tier 3 | 540 | 3 |
 | [CircleCI](circleci/README.md) | Tier 3 | 625 | 238 |
 | [Circonus](circonus/README.md) | Tier 3 | 540 | 1 |
-| [Cisco](cisco/README.md) | Tier 2 | 902 | 1,828 |
+| [Cisco](cisco/README.md) | Tier 2 | 2,130 | 1,828 |
 | [Citadel](citadel/README.md) | Tier 1 | 559 | 122 |
 | [Citi](citi/README.md) | Tier 2 | 541 | 99 |
 | [Citibank](citibank/README.md) | Tier 2 | 540 | 8 |
@@ -92,7 +92,7 @@
 | [Clerk](clerk/README.md) | Tier 3 | 540 | 3 |
 | [Cleveland Clinic](cleveland-clinic/README.md) | Tier 1 | 540 | 1 |
 | [CleverTap](clevertap/README.md) | Tier 3 | 540 | 51 |
-| [ClickHouse](clickhouse/README.md) | Tier 3 | 666 | 468 |
+| [ClickHouse](clickhouse/README.md) | Tier 3 | 748 | 468 |
 | [ClickUp](clickup/README.md) | Tier 3 | 540 | 9 |
 | [Close](close/README.md) | Tier 4 | 540 | 1 |
 | [Cloud Carbon Footprint](cloud-carbon-footprint/README.md) | Tier 4 | 540 | 1 |
@@ -101,8 +101,8 @@
 | [Cloudability-Apptio](cloudability-apptio/README.md) | Tier 3 | 540 | 1 |
 | [CloudAMQP](cloudamqp/README.md) | Tier 4 | 540 | 7 |
 | [CloudBees](cloudbees/README.md) | Tier 3 | 540 | 26 |
-| [Cloudera](cloudera/README.md) | Tier 3 | 683 | 1,376 |
-| [Cloudflare](cloudflare/README.md) | Tier 1 | 1,240 | 14,549 |
+| [Cloudera](cloudera/README.md) | Tier 3 | 1,591 | 1,376 |
+| [Cloudflare](cloudflare/README.md) | Tier 1 | 16,062 | 14,549 |
 | [Cloudinary](cloudinary/README.md) | Tier 3 | 540 | 69 |
 | [CloudNativePG](cloudnativepg/README.md) | Tier 3 | 540 | 6 |
 | [Cloudreach](cloudreach/README.md) | Tier 3 | 540 | 1 |
@@ -113,7 +113,7 @@
 | [Coalesce](coalesce/README.md) | Tier 4 | 540 | 2 |
 | [Coalfire](coalfire/README.md) | Tier 3 | 542 | 62 |
 | [Coca-Cola](coca-cola/README.md) | Tier 3 | 540 | 5 |
-| [CockroachDB](cockroachdb/README.md) | Tier 3 | 823 | 1,660 |
+| [CockroachDB](cockroachdb/README.md) | Tier 3 | 1,950 | 1,660 |
 | [Coda](coda/README.md) | Tier 3 | 540 | 41 |
 | [Codefresh](codefresh/README.md) | Tier 3 | 540 | 40 |
 | [Codeium](codeium/README.md) | Tier 4 | 540 | 5 |
@@ -121,13 +121,13 @@
 | [Codesandbox](codesandbox/README.md) | Tier 3 | 540 | 3 |
 | [CodeScene](codescene/README.md) | Tier 3 | 540 | 1 |
 | [Coforge](coforge/README.md) | Tier 3 | 540 | 77 |
-| [Cognition Technologies](cognition-technologies/README.md) | Tier 2 | 630 | 207 |
-| [Cognizant](cognizant/README.md) | Tier 5 | 1,260 | 24,802 |
-| [Cohere](cohere/README.md) | Tier 2 | 909 | 6,623 |
+| [Cognition Technologies](cognition-technologies/README.md) | Tier 2 | 653 | 207 |
+| [Cognizant](cognizant/README.md) | Tier 5 | 27,195 | 24,802 |
+| [Cohere](cohere/README.md) | Tier 2 | 6,925 | 6,623 |
 | [Cohesity](cohesity/README.md) | Tier 2 | 540 | 44 |
-| [Coinbase](coinbase/README.md) | Tier 2 | 920 | 966 |
+| [Coinbase](coinbase/README.md) | Tier 2 | 1,147 | 966 |
 | [CoinDCX](coindcx/README.md) | Tier 3 | 540 | 2 |
-| [Collibra](collibra/README.md) | Tier 3 | 653 | 346 |
+| [Collibra](collibra/README.md) | Tier 3 | 691 | 346 |
 | [Comcast](comcast/README.md) | Tier 3 | 540 | 64 |
 | [Comet](comet/README.md) | Tier 3 | 596 | 140 |
 | [CometML](cometml/README.md) | Tier 3 | 540 | 1 |
@@ -141,7 +141,7 @@
 | [Confident-AI](confident-ai/README.md) | Tier 3 | 540 | 12 |
 | [ConfigCat](configcat/README.md) | Tier 4 | 540 | 2 |
 | [ConfirmTkt](confirmtkt/README.md) | Tier 4 | 540 | 1 |
-| [Confluent](confluent/README.md) | Tier 2 | 1,260 | 17,491 |
+| [Confluent](confluent/README.md) | Tier 2 | 18,559 | 17,491 |
 | [Consensus](consensus/README.md) | Tier 3 | 540 | 2 |
 | [ConsenSys](consensys/README.md) | Tier 3 | 540 | 2 |
 | [Consilient](consilient/README.md) | Tier 3 | 540 | 1 |
@@ -156,7 +156,7 @@
 | [Copy.ai](copy-ai/README.md) | Tier 4 | 540 | 2 |
 | [Copyleaks](copyleaks/README.md) | Tier 4 | 540 | 1 |
 | [Coralogix](coralogix/README.md) | Tier 4 | 540 | 25 |
-| [CoreWeave](coreweave/README.md) | Tier 2 | 720 | 608 |
+| [CoreWeave](coreweave/README.md) | Tier 2 | 971 | 608 |
 | [Cornami](cornami/README.md) | Tier 3 | 540 | 1 |
 | [Cornelis](cornelis/README.md) | Tier 3 | 540 | 1 |
 | [Cosmonic](cosmonic/README.md) | Tier 4 | 540 | 5 |
@@ -167,13 +167,13 @@
 | [Coursera](coursera/README.md) | Tier 2 | 540 | 61 |
 | [Coveo](coveo/README.md) | Tier 3 | 540 | 11 |
 | [Craft](craft/README.md) | Tier 4 | 540 | 1 |
-| [CRED](cred/README.md) | Tier 2 | 1,260 | 28,040 |
+| [CRED](cred/README.md) | Tier 2 | 32,199 | 28,040 |
 | [Credit Suisse](credit-suisse/README.md) | Tier 2 | 540 | 1 |
 | [Credo AI](credo-ai/README.md) | Tier 4 | 540 | 25 |
 | [Cresta](cresta/README.md) | Tier 3 | 540 | 12 |
 | [Crew](crew/README.md) | Tier 2 | 540 | 1 |
 | [crewAI](crewai/README.md) | Tier 3 | 582 | 110 |
-| [Cribl](cribl/README.md) | Tier 4 | 630 | 239 |
+| [Cribl](cribl/README.md) | Tier 4 | 705 | 239 |
 | [Cricbuzz](cricbuzz/README.md) | Tier 3 | 540 | 3 |
 | [Criteo](criteo/README.md) | Tier 2 | 540 | 92 |
 | [Croma](croma/README.md) | Tier 3 | 540 | 6 |

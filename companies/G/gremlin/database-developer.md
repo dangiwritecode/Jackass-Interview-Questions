@@ -2,6 +2,8 @@
 
 [← back to Gremlin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you validate that your automated failover actually works. What does a rigorous game-day / chaos-engineering program for database HA look like at org scale? | expertise | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at Gremlin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-validate-that-your-automated-failover-actually-works-w-114648) |

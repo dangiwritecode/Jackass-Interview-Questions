@@ -2,6 +2,8 @@
 
 [← back to Carta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your access-control list for a resource can grow to thousands of entries (per-user shares). How do you keep the 'can X read this' check fast without scanning the whole ACL, and how does this compare to a Zanzibar tuple store? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Carta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-access-control-list-for-a-resource-can-grow-to-thousands-of-entri-26196) |

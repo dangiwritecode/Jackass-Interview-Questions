@@ -2,6 +2,8 @@
 
 [← back to Encord](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a computer-vision annotation + active-learning loop for an autonomy stack (buy Scale/Encord vs build in-house tooling + labeler ops) when the labeling flywheel is the core moat and per-frame cost scales with fleet miles? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Encord | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-computer-vision-annotation-active-69799) |

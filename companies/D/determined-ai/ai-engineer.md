@@ -2,6 +2,8 @@
 
 [← back to Determined AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd checkpoint a multi-day fine-tuning run so a spot GPU reclaim doesn't cost you the whole run, and why checkpoint frequency is a trade-off. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Determined AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-checkpoint-a-multi-day-fine-tuning-run-so-a-spot-gpu-79069) |

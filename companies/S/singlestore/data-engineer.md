@@ -2,6 +2,8 @@
 
 [← back to SingleStore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the enterprise strategy for separating operational (OLTP) workloads from analytical (OLAP) using CQRS at data scale so analytics load never impacts transactional SLAs. Contrast read replicas, HTAP engines, and streaming to a lakehouse, and defend the consistency implications of each for a payments enterprise. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at SingleStore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-strategy-for-separating-operational-oltp-workloa-125684) |

@@ -2,6 +2,8 @@
 
 [← back to Amplitude](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a time you had to lead the org in choosing how much to invest in a canonical customer/user data service versus letting each product keep its own copy. How did you navigate the org-wide dependency it created? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Amplitude | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-lead-the-org-in-choosing-how-much-to-invest-40501) |

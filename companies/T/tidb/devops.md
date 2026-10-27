@@ -2,6 +2,8 @@
 
 [← back to TiDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect capacity and availability for a workload whose true bottleneck is a database's write-ahead-log fsync throughput on a single primary, deciding among group commit, faster storage, logical sharding, and moving to a distributed-SQL engine — and what does each cost over five years? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at TiDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-capacity-and-availability-for-a-workload-whose-52061) |

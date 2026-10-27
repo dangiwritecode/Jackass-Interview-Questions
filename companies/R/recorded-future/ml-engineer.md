@@ -2,6 +2,8 @@
 
 [← back to Recorded Future](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your framework for governing dual-use capabilities — where the same model feature is legitimate for one customer and dangerous for another? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Recorded Future | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-governing-dual-use-capabilities-where-the-sa-71757) |

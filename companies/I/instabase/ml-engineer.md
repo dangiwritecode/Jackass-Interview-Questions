@@ -2,6 +2,8 @@
 
 [← back to Instabase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you wire an offline evaluation stage into CI so a PR that changes feature code automatically reports metric deltas against a fixed validation set? | intermediate experience | SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | Asked at Instabase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-wire-an-offline-evaluation-stage-into-ci-so-a-pr-that-ch-63484) |

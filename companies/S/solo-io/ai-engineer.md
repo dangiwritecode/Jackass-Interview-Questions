@@ -2,6 +2,8 @@
 
 [← back to Solo.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a shadow/mirror-traffic capability so you can test a new candidate model against real production GenAI traffic without affecting users or double-charging tools. How would you set up traffic mirroring on Kubernetes and guard against side effects like duplicate writes or duplicate tool executions from mirrored agent requests? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Solo.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-shadow-mirror-traffic-capability-so-you-can-test-a-new-candid-82600) |

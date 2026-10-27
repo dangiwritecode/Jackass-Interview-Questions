@@ -2,6 +2,8 @@
 
 [← back to Megaport](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the observability of network performance between clouds so latency or packet loss on a cross-cloud link is detected and attributed rather than blamed on the wrong service? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at Megaport | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-observability-of-network-performance-between-clo-100913) |

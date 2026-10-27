@@ -2,6 +2,8 @@
 
 [← back to Chainlink](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design DR for a system where the source of truth is a blockchain / append-only ledger replicated by consensus — does classic RPO thinking even apply? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Chainlink | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-dr-for-a-system-where-the-source-of-truth-is-a-block-53634) |

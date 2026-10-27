@@ -2,6 +2,8 @@
 
 [← back to ConductorOne](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance for the reality that most PII exposure comes from over-permissioned internal access, not external breach — what does a principled least-privilege-at-scale design look like when thousands of engineers need some data access to do their jobs? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at ConductorOne | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-the-reality-that-most-pii-exposure-54090) |

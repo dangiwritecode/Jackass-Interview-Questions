@@ -2,6 +2,8 @@
 
 [← back to Western Union](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator asks you to reproduce the exact model and data that produced a specific decision from 18 months ago. What does your platform need to guarantee this, and what are the hard parts? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Banking companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-asks-you-to-reproduce-the-exact-model-and-data-that-produc-71679) |

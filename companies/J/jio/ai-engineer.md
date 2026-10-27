@@ -2,6 +2,8 @@
 
 [← back to Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A customer streams your completion API over a flaky mobile network and reconnects mid-generation. How do you design resumable streaming so they continue from the last received token instead of restarting and re-paying? | expertise | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-customer-streams-your-completion-api-over-a-flaky-mobile-network-and-77154) |

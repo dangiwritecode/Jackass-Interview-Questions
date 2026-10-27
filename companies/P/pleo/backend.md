@@ -2,6 +2,8 @@
 
 [← back to Pleo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design authorization for a 'workflow approval' system where step 3 can only be done by someone who did NOT do step 2 (separation of duties)? Where do you store and enforce this history? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Pleo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-authorization-for-a-workflow-approval-system-wher-26182) |

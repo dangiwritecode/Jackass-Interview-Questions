@@ -2,6 +2,8 @@
 
 [← back to Blameless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the accountability model when an autonomous AIOps remediation causes a worse outage than the original problem across clouds? Who owns it and what changes systemically? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at Blameless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-accountability-model-when-an-autonomous-aiops-re-100917) |

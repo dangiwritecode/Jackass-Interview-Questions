@@ -2,6 +2,8 @@
 
 [← back to Jumia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your company runs 12 country sites off one platform with wildly different network conditions and regulatory constraints. Design the per-region performance strategy and the single control plane that manages it without 12 forks. | expertise | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | Asked at Jumia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-company-runs-12-country-sites-off-one-platform-with-wildly-differ-40235) |

@@ -2,6 +2,8 @@
 
 [← back to Braintrust](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A new prompt template increased average output length by 30% and blew your latency SLO. How do you catch this kind of regression in CI before it ships? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Braintrust | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-new-prompt-template-increased-average-output-length-by-30-and-blew-y-64679) |

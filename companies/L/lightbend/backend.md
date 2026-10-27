@@ -2,6 +2,8 @@
 
 [← back to Lightbend](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What guarantees does an actor model give you about state that the lock-based model doesn't, and where does it still let races in (e.g., across actors, message reordering)? When would you choose actors for a backend service? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Concurrency Patterns & Race Conditions | Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Lightbend | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-guarantees-does-an-actor-model-give-you-about-state-that-the-lock-30264) |

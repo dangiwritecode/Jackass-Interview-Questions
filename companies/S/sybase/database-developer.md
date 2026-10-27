@@ -2,6 +2,8 @@
 
 [← back to Sybase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When is READ UNCOMMITTED ever acceptable? Give a realistic use case and explain the risk you accept. | basic concept | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Sybase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-is-read-uncommitted-ever-acceptable-give-a-realistic-use-case-and-110252) |

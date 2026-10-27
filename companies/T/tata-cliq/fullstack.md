@@ -2,6 +2,8 @@
 
 [← back to Tata Cliq](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A sells an item to B at 15 percent loss and B sells to C at 20 percent profit. If C pays 408 what did A originally pay? | deep understanding | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at Tata Cliq | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-sells-an-item-to-b-at-15-percent-loss-and-b-sells-to-c-at-20-percent-15837) |

@@ -2,6 +2,8 @@
 
 [← back to Edge Impulse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for an edge/on-device inference stack (buy a vendor edge-ML SDK vs build on ONNX Runtime/TFLite/Core ML) when model portability across device fleets, size budgets, and offline operation constrain the choice? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Edge Impulse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-edge-on-device-inference-stack-b-69832) |

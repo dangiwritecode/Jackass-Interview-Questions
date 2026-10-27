@@ -2,6 +2,8 @@
 
 [← back to Cloudability](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are evaluating build-vs-buy for a FinOps platform: native cloud tools, a third-party SaaS (Apptio/Cloudability/Vantage), or an in-house build. Walk me through the decision framework and when the in-house build is actually justified at your scale. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Cloudability | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-evaluating-build-vs-buy-for-a-finops-platform-native-cloud-too-37052) |

@@ -2,6 +2,8 @@
 
 [← back to Acryl](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Defend a build-vs-buy decision for the data catalog: an open-source stack (DataHub/OpenMetadata) vs a commercial platform (Collibra/Alation) vs building your own. What tips it for a 2000-engineer org? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Acryl | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=defend-a-build-vs-buy-decision-for-the-data-catalog-an-open-source-sta-36553) |

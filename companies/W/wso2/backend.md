@@ -2,6 +2,8 @@
 
 [← back to WSO2](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design authentication that must interoperate with a legacy LDAP/Active Directory for some tenants and modern OIDC for others, presenting a single login endpoint to the app? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at WSO2 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-authentication-that-must-interoperate-with-a-lega-26195) |

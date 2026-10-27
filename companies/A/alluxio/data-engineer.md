@@ -2,6 +2,8 @@
 
 [← back to Alluxio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your position on abstracting object storage behind a portability layer (e.g. Alluxio, JuiceFS, a virtual filesystem) across clouds — where does that help and where does it just add a hop? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Alluxio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-position-on-abstracting-object-storage-behind-a-portabilit-127303) |

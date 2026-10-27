@@ -2,6 +2,8 @@
 
 [← back to JetBrains](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | For an agentic feature with many tool_use/tool_result pairs per turn, cache reads silently drop mid-run. Explain how the 20-block lookback window causes this and where you place intermediate breakpoints. | expertise | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at JetBrains | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-an-agentic-feature-with-many-tool-use-tool-result-pairs-per-turn-c-64100) |

@@ -2,6 +2,8 @@
 
 [← back to Dropbox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Continuous profiling (Parca/Pyroscope) is proposed as a fourth pillar. Make the org-scale case for or against adopting it, including where it changes MTTR, the storage/cardinality cost model, and how it integrates with existing trace and metric workflows. | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Dropbox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=continuous-profiling-parca-pyroscope-is-proposed-as-a-fourth-pillar-ma-99032) |

@@ -2,6 +2,8 @@
 
 [← back to INDmoney](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you describe the difference in 'freshness expectations' users have for an app screen versus a monthly report? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at INDmoney | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-describe-the-difference-in-freshness-expectations-users--118806) |

@@ -2,6 +2,8 @@
 
 [← back to Lightning AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you choose learning rate, warmup, and number of epochs for SFT to avoid both underfitting and degradation? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Lightning AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-choose-learning-rate-warmup-and-number-of-epochs-for-sft-to-68099) |

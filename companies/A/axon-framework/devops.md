@@ -2,6 +2,8 @@
 
 [← back to Axon-Framework](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect resilience for an event-sourced platform so you can recover from a corrupted projection without downtime across many consumers? Discuss rebuilds, snapshots, dual-read cutover, and how you bound the rebuild's load impact on the live system. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Axon-Framework | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-resilience-for-an-event-sourced-platform-so-you-c-52910) |

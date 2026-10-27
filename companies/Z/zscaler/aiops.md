@@ -2,6 +2,8 @@
 
 [← back to Zscaler](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the org's approach to zero-trust network access for engineers reaching the AIOps control plane, replacing VPN-and-bastion sprawl with identity-aware proxies, without breaking break-glass access during an outage? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zscaler | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-org-s-approach-to-zero-trust-network-access-f-98913) |

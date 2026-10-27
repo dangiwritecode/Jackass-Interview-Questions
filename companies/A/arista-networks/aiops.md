@@ -2,6 +2,8 @@
 
 [← back to Arista Networks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you monitor an anomaly model on network-flow telemetry when a routing or peering change alters baseline traffic distributions? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Arista Networks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-an-anomaly-model-on-network-flow-telemetry-when-a-r-95370) |

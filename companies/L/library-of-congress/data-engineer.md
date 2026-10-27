@@ -2,6 +2,8 @@
 
 [← back to Library of Congress](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the operational risk that a format or codec used in archived data may be unreadable years later? What's your long-term-archival readability strategy? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Library of Congress | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-operational-risk-that-a-format-or-codec-used-in--126773) |

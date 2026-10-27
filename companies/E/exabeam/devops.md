@@ -2,6 +2,8 @@
 
 [← back to Exabeam](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an anomaly-detection layer over Vault audit logs to catch a service reading 10x its baseline or a human enumerating paths. What signals matter, and how do you keep false positives from causing alert fatigue? | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Exabeam | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-anomaly-detection-layer-over-vault-audit-logs-to-catch-a-ser-54972) |

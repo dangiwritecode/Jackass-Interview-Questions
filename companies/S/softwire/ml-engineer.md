@@ -2,6 +2,8 @@
 
 [← back to Softwire](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an approval-workflow system for model releases that scales — how do you avoid the two failure modes of rubber-stamping and of paralysis-by-committee? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at IT-Services companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-approval-workflow-system-for-model-releases-that-scales-how--71685) |

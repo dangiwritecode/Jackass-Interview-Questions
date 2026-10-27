@@ -2,6 +2,8 @@
 
 [← back to Cloudinary](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the right database for storing large binary blobs / media metadata versus the blobs themselves? What's the split between object storage and a metadata datastore? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cloudinary | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-right-database-for-storing-large-binary-blobs-me-114406) |

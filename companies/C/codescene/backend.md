@@ -2,6 +2,8 @@
 
 [← back to CodeScene](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd use code-churn and hotspot analysis (files that change often AND are complex) to focus debt paydown on the highest-return areas rather than the loudest complaints. | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at CodeScene | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-use-code-churn-and-hotspot-analysis-files-that-chan-38102) |

@@ -2,6 +2,8 @@
 
 [← back to SENTRY](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare a specialized OLAP store (ClickHouse/Druid/Pinot) versus your general lakehouse for serving sub-second observability queries and AIOps aggregations. What determines the split, and what's the operational cost of running both? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at SENTRY | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-a-specialized-olap-store-clickhouse-druid-pinot-versus-your-ge-99837) |

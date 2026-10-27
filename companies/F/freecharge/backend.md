@@ -2,6 +2,8 @@
 
 [← back to Freecharge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your OTP verification passes but the subsequent session isn't created about 0.5% of the time. How would you instrument the multi-step login (OTP verify -> session mint -> cookie set) to find the drop? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Freecharge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-otp-verification-passes-but-the-subsequent-session-isn-t-created--26164) |

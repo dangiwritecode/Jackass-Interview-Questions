@@ -2,6 +2,8 @@
 
 [← back to SentinelOne](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect remediation to detect and halt itself when it's been misconfigured or hijacked to run destructive actions, i.e. anomaly detection on the automation? | expertise | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at SentinelOne | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-remediation-to-detect-and-halt-itself-when-it--101623) |

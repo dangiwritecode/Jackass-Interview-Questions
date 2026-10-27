@@ -2,6 +2,8 @@
 
 [← back to Directi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Kth Smallest Value Reachable by a Single Repeating Step | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Bit Manipulation, Combinatorics, Inclusion-Exclusion, LCM/GCD, Math, Number Theory | DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at Directi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=kth-smallest-value-reachable-by-a-single-repeating-step-d2838) |

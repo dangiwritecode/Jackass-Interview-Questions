@@ -2,6 +2,8 @@
 
 [← back to TiDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide, at platform scale, between offering strong consistency via a leader-lease read-index protocol versus paying cross-region quorum on every read? Frame the decision by request-mix, geography, and the partition scenarios each breaks under. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at TiDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-at-platform-scale-between-offering-strong-consistenc-32254) |

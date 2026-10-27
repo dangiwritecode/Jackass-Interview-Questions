@@ -2,6 +2,8 @@
 
 [← back to Weaveworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's GitOps strategy for ML where model versions, pipeline configs, and infra all flow through Git, but model artifacts are too large to commit. How would you reconcile GitOps declarativeness with binary model promotion and keep an audit trail? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Weaveworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-gitops-strategy-for-ml-where-model-versions-pipeline--68557) |

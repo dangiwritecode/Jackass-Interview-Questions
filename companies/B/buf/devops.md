@@ -2,6 +2,8 @@
 
 [← back to Buf](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: you standardized on gRPC internally but half the fleet still exposes JSON over HTTP for browser BFFs. How do you decide where gRPC-Web, Connect, or a translating gateway belongs, and what governance stops both ecosystems from rotting? | deep understanding | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Buf | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-you-standardized-on-grpc-internally-but-half-the-51929) |

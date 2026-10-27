@@ -2,6 +2,8 @@
 
 [← back to Hopsworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect caching for an ML feature store backed by a database so a model retrain invalidates cached features tied to the old model version and never serves features from a mismatched distribution? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Hopsworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-caching-for-an-ml-feature-store-backed-by-a-datab-111516) |

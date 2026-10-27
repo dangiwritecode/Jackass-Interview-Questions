@@ -2,6 +2,8 @@
 
 [← back to Comcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you'd build a model registry that carries governance metadata (risk tier / approvals / lineage / evals) as first-class citizens rather than tacked-on tags. | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Comcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-build-a-model-registry-that-carries-governan-71669) |

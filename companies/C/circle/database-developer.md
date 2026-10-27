@@ -2,6 +2,8 @@
 
 [← back to Circle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're the architect for a CBDC/central-bank-grade payment rail; regulators demand deterministic finality. Explain why this pushes you hard into CP and how you'd communicate the availability floor that finality mathematically imposes. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Circle | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-the-architect-for-a-cbdc-central-bank-grade-payment-rail-regula-111556) |

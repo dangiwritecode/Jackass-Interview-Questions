@@ -2,6 +2,8 @@
 
 [← back to Weaveworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the GitOps strategy for the GenAI platform where a single shared-prompt or router-policy change could roll to every model service at once. How would you architect blast-radius controls (sync waves, cluster canaries, sync windows) so no merge can brown out the whole GenAI fleet? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Weaveworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-gitops-strategy-for-the-genai-platform-where-a-single-share-82597) |

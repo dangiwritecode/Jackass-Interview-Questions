@@ -2,6 +2,8 @@
 
 [← back to FIS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're the architect for a merger of two payment platforms, each with a ledger making different CAP choices. How do you design the unified ledger's consistency model so historical guarantees on both sides remain valid post-merger? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at FIS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-the-architect-for-a-merger-of-two-payment-platforms-each-with-a-32237) |

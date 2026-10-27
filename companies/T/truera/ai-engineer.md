@@ -2,6 +2,8 @@
 
 [← back to TruEra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you structure a build-vs-buy decision across the responsible-AI stack when vendors cover 60% and the remaining 40% is exactly your regulatory differentiator? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at TruEra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-structure-a-build-vs-buy-decision-across-the-responsible-86046) |

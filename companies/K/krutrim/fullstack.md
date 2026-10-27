@@ -2,6 +2,8 @@
 
 [← back to Krutrim](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're building a large ML/inference platform on Kubernetes alongside general web workloads. As principal, how would you architect GPU scheduling, fractional sharing, autoscaling, and cost isolation so expensive accelerators stay highly utilized without starving or being starved by online services, and who owns the utilization target? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Krutrim | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-building-a-large-ml-inference-platform-on-kubernetes-alongside--39109) |

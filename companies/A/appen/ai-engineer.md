@@ -2,6 +2,8 @@
 
 [← back to Appen](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a human-in-the-loop labeling pipeline that scales to a fleet of features — how do you manage rater quality, rubric versioning, and cost while keeping the labeled set the source of truth for all judges? | expertise | SDE-2/3, Architect/Principal | LLM Evaluation & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Appen | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-human-in-the-loop-labeling-pipeline-that-scales-to-a-fleet-of-84750) |

@@ -2,6 +2,8 @@
 
 [← back to Allianz Technology](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A merger doubles your Azure footprint overnight with two conflicting tenants; how do you plan tenant-to-tenant migration or federation for identity, subscriptions, and networking? | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at Allianz Technology | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-merger-doubles-your-azure-footprint-overnight-with-two-conflicting-t-54564) |

@@ -2,6 +2,8 @@
 
 [← back to Busuu](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your product supports 12 languages and your token bill is dominated by three of them. How do you investigate whether tokenization efficiency, not usage volume, is the cause? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Busuu | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-product-supports-12-languages-and-your-token-bill-is-dominated-by-77911) |

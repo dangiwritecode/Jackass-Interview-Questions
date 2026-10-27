@@ -2,6 +2,8 @@
 
 [← back to Amul](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A mixture of 50 litres has milk and water in ratio 4:1. How much milk should be added to make the ratio 5:1? | deep understanding | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at Amul | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-mixture-of-50-litres-has-milk-and-water-in-ratio-4-1-how-much-milk-s-15864) |

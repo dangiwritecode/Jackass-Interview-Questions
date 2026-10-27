@@ -2,6 +2,8 @@
 
 [← back to Nanonets](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | For a vision extraction request, does content-block ordering of image vs text matter, and how do you choose between a base64 image and an image URL for user-uploaded documents in a pipeline? | intermediate experience | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Nanonets | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-vision-extraction-request-does-content-block-ordering-of-image-v-64134) |

@@ -2,6 +2,8 @@
 
 [← back to Black-Forest-Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for an image/video generation capability in your product (buy Stability/Runway/Google Imagen API vs fine-tune and self-host diffusion models) when per-generation GPU cost, content-safety liability, and brand-style control all interact? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Black-Forest-Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-image-video-generation-capabilit-83802) |

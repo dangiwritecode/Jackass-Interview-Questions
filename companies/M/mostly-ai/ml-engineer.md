@@ -2,6 +2,8 @@
 
 [← back to Mostly AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What governance controls do you put around synthetic data generation to prevent leakage of the real data it was derived from and to prevent bias amplification? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Mostly AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-governance-controls-do-you-put-around-synthetic-data-generation-t-71706) |

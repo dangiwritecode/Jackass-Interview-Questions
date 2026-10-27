@@ -2,6 +2,8 @@
 
 [← back to Teradata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Maximum Score from Clearing a Row of Colored Stones | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Interval DP, Memoization, Recursion | DSA/Coding Round, Onsite | DSA | Asked at Teradata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-score-from-clearing-a-row-of-colored-stones-d544) |

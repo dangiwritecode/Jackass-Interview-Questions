@@ -2,6 +2,8 @@
 
 [← back to Helicone](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a semantic-caching layer in front of an LLM API that returns cached answers for similar prompts — how do you set the similarity threshold detect staleness scope caches per-tenant and avoid confidently returning a wrong-but-similar answer? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Helicone | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-semantic-caching-layer-in-front-of-an-llm-api-that-returns-39500) |

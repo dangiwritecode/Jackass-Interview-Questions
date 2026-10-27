@@ -2,6 +2,8 @@
 
 [← back to Gitea](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design GitOps to survive the config repo's git host being down — local mirrors, cached renders, and degradation modes so reconciliation still works during an outage? | expertise | SDE-2/3, Architect/Principal | GitOps | Phone Screen, Onsite | Tech | Asked at Gitea | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-gitops-to-survive-the-config-repo-s-git-host-bein-54871) |

@@ -2,6 +2,8 @@
 
 [← back to Lyft](README.md)
 
+Questions 1–65 of 65.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal on another team wants to add OPA to the hot path of every internal HTTP request for fine-grained authz — how do you assess whether that's a sound architecture or a latency/availability liability? | expertise | SDE-2/3, Architect/Principal | Policy as Code (OPA/Gatekeeper) | Phone Screen, Onsite | Tech | Asked at Lyft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-on-another-team-wants-to-add-opa-to-the-hot-path-of-every--55384) |

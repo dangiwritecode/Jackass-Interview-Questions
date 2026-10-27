@@ -2,6 +2,8 @@
 
 [← back to Novartis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between pseudonymization and anonymization under GDPR and why does that distinction change whether the data still falls in scope for your governance controls? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Novartis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-pseudonymization-and-anonymization-unde-127326) |

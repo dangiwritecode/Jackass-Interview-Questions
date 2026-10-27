@@ -2,6 +2,8 @@
 
 [← back to Spotify](README.md)
 
+Questions 1–87 of 87.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A GDPR DPIA flags that your read replicas in a third country hold decryptable PII — how do you redesign replication topology to keep decryption capability strictly in-region? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Spotify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-gdpr-dpia-flags-that-your-read-replicas-in-a-third-country-hold-decr-115264) |

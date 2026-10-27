@@ -22,25 +22,25 @@
 | [Zep](zep/README.md) | Tier 4 | 540 | 7 |
 | [Zeplin](zeplin/README.md) | Tier 4 | 540 | 1 |
 | [Zepto](zepto/README.md) | Tier 3 | 540 | 139 |
-| [Zerodha](zerodha/README.md) | Tier 2 | 1,260 | 15,425 |
+| [Zerodha](zerodha/README.md) | Tier 2 | 17,242 | 15,425 |
 | [Zerto](zerto/README.md) | Tier 3 | 540 | 1 |
 | [Zest AI](zest-ai/README.md) | Tier 3 | 540 | 14 |
 | [ZestMoney](zestmoney/README.md) | Tier 4 | 540 | 1 |
 | [Zesty](zesty/README.md) | Tier 5 | 540 | 5 |
-| [Zeta](zeta/README.md) | Tier 3 | 690 | 389 |
+| [Zeta](zeta/README.md) | Tier 3 | 794 | 389 |
 | [Zeta Suite](zeta-suite/README.md) | Tier 3 | 540 | 1 |
 | [Zilliz](zilliz/README.md) | Tier 3 | 576 | 128 |
 | [Zillow](zillow/README.md) | Tier 1 | 540 | 22 |
 | [Zingg](zingg/README.md) | Tier 3 | 540 | 1 |
 | [ZipRecruiter](ziprecruiter/README.md) | Tier 3 | 540 | 6 |
 | [Zluri](zluri/README.md) | Tier 4 | 540 | 1 |
-| [Zoho](zoho/README.md) | Tier 3 | 1,334 | 24,441 |
-| [Zomato](zomato/README.md) | Tier 2 | 1,260 | 16,388 |
+| [Zoho](zoho/README.md) | Tier 3 | 29,135 | 24,441 |
+| [Zomato](zomato/README.md) | Tier 2 | 18,179 | 16,388 |
 | [Zoom](zoom/README.md) | Tier 2 | 554 | 154 |
 | [Zoox](zoox/README.md) | Tier 2 | 540 | 14 |
 | [Zopsmart](zopsmart/README.md) | Tier 4 | 540 | 12 |
 | [ZS Associates](zs-associates/README.md) | Tier 3 | 540 | 69 |
-| [Zscaler](zscaler/README.md) | Tier 2 | 724 | 459 |
+| [Zscaler](zscaler/README.md) | Tier 2 | 778 | 459 |
 | [Zuora](zuora/README.md) | Tier 3 | 540 | 22 |
 | [Zupee](zupee/README.md) | Tier 4 | 540 | 7 |
 | [Zuplo](zuplo/README.md) | Tier 4 | 540 | 6 |

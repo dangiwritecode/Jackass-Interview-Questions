@@ -2,6 +2,8 @@
 
 [← back to PQShield](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance to handle the compliance implications of quantum-readiness — post-quantum cryptography migration for long-lived encrypted PII/PAN where 'harvest-now-decrypt-later' means today's ciphertext is a future liability? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at PQShield | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-to-handle-the-compliance-implications--54110) |

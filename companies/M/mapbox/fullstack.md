@@ -2,6 +2,8 @@
 
 [← back to Mapbox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a frontend that renders and interacts with very large maps/geospatial layers (ride-hailing, logistics) smoothly across low-end devices — tiling, clustering, and GPU use? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Mapbox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-frontend-that-renders-and-interacts-with-very-l-40076) |

@@ -7,7 +7,7 @@
 | [N26](n26/README.md) | Tier 3 | 540 | 9 |
 | [n8n](n8n/README.md) | Tier 4 | 540 | 1 |
 | [Nabla](nabla/README.md) | Tier 2 | 540 | 3 |
-| [Nagarro](nagarro/README.md) | Tier 4 | 752 | 569 |
+| [Nagarro](nagarro/README.md) | Tier 4 | 975 | 569 |
 | [Nagios](nagios/README.md) | Tier 4 | 540 | 20 |
 | [Namecheap](namecheap/README.md) | Tier 4 | 540 | 4 |
 | [Namespace](namespace/README.md) | Tier 3 | 540 | 2 |
@@ -37,14 +37,14 @@
 | [Netdata](netdata/README.md) | Tier 3 | 540 | 15 |
 | [NetEase](netease/README.md) | Tier 3 | 540 | 2 |
 | [Netezza](netezza/README.md) | Tier 2 | 540 | 7 |
-| [Netflix](netflix/README.md) | Tier 1 | 1,260 | 36,842 |
-| [Netlify](netlify/README.md) | Tier 3 | 677 | 359 |
+| [Netflix](netflix/README.md) | Tier 1 | 39,303 | 36,842 |
+| [Netlify](netlify/README.md) | Tier 3 | 784 | 359 |
 | [Netmagic](netmagic/README.md) | Tier 4 | 540 | 1 |
 | [Netmeds](netmeds/README.md) | Tier 4 | 540 | 1 |
 | [Netskope](netskope/README.md) | Tier 3 | 540 | 29 |
 | [NetSuite](netsuite/README.md) | Tier 3 | 540 | 4 |
 | [Neural Magic](neural-magic/README.md) | Tier 3 | 540 | 27 |
-| [New Relic](new-relic/README.md) | Tier 3 | 784 | 4,360 |
+| [New Relic](new-relic/README.md) | Tier 3 | 4,600 | 4,360 |
 | [Nextcloud](nextcloud/README.md) | Tier 4 | 540 | 1 |
 | [Nextdata](nextdata/README.md) | Tier 4 | 540 | 2 |
 | [Nextdoor](nextdoor/README.md) | Tier 4 | 540 | 10 |
@@ -67,18 +67,18 @@
 | [Not Diamond](not-diamond/README.md) | Tier 3 | 540 | 28 |
 | [Notary](notary/README.md) | Tier 2 | 540 | 4 |
 | [Nothing](nothing/README.md) | Tier 4 | 540 | 5 |
-| [Notion](notion/README.md) | Tier 2 | 990 | 3,718 |
+| [Notion](notion/README.md) | Tier 2 | 4,478 | 3,718 |
 | [Nous](nous/README.md) | Tier 3 | 540 | 4 |
 | [Novartis](novartis/README.md) | Tier 2 | 540 | 16 |
 | [NPCI](npci/README.md) | Tier 2 | 540 | 2 |
 | [Nscale](nscale/README.md) | Tier 3 | 540 | 2 |
 | [NSE](nse/README.md) | Tier 2 | 540 | 12 |
 | [Nuance](nuance/README.md) | Tier 3 | 540 | 7 |
-| [Nubank](nubank/README.md) | Tier 1 | 812 | 637 |
+| [Nubank](nubank/README.md) | Tier 1 | 839 | 637 |
 | [Numbers Station](numbers-station/README.md) | Tier 4 | 540 | 1 |
 | [Numenta](numenta/README.md) | Tier 3 | 540 | 1 |
 | [Nuro](nuro/README.md) | Tier 3 | 540 | 21 |
-| [Nutanix](nutanix/README.md) | Tier 2 | 855 | 1,853 |
-| [NVIDIA](nvidia/README.md) | Tier 1 | 1,028 | 7,217 |
+| [Nutanix](nutanix/README.md) | Tier 2 | 2,242 | 1,853 |
+| [NVIDIA](nvidia/README.md) | Tier 1 | 7,579 | 7,217 |
 | [Nx](nx/README.md) | Tier 3 | 540 | 28 |
-| [Nykaa](nykaa/README.md) | Tier 3 | 808 | 749 |
+| [Nykaa](nykaa/README.md) | Tier 3 | 1,026 | 749 |

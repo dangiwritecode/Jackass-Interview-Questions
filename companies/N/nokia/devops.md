@@ -2,6 +2,8 @@
 
 [← back to Nokia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the org's stance on multi-network Pods now that the multi-network and DRA-for-networking KEPs are landing, for a workload that needs a fast data-plane NIC separate from the pod-network NIC, and what governance keeps this from becoming a per-team snowflake? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Nokia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-org-s-stance-on-multi-network-pods-now-tha-52131) |

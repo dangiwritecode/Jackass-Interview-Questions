@@ -2,6 +2,8 @@
 
 [← back to Zebra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design observability for a hybrid estate where half the workloads are on-prem/air-gapped and half in cloud, with no shared network for telemetry. How do you deliver one AIOps experience across both without violating the air-gap, and what stays federated? | expertise | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Industrial companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-observability-for-a-hybrid-estate-where-half-the-workloads-are--99050) |

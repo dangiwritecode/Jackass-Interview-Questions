@@ -2,6 +2,8 @@
 
 [← back to JPMorgan Chase](README.md)
 
+Questions 1–105 of 105.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A new regulation requires you to prove, per request, which region served content and where it was cached. Design the audit/lineage architecture across your CDN and edge platform to satisfy it without crushing performance or cost. | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at JPMorgan Chase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-new-regulation-requires-you-to-prove-per-request-which-region-served-35081) |

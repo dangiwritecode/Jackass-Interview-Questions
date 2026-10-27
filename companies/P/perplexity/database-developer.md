@@ -2,6 +2,8 @@
 
 [← back to Perplexity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a RAG/vector-search serving layer on AWS databases where freshness must be seconds and recall must stay high at billions of vectors — interrogate Aurora pgvector versus OpenSearch vector engine versus a dedicated vector store on index-rebuild cost, ANN recall, and operational ownership. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Perplexity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-rag-vector-search-serving-layer-on-aws-datab-111904) |

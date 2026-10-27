@@ -2,6 +2,8 @@
 
 [← back to CoreWeave](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan continuity for GPU-backed inference that serves both your AIOps models and revenue features, when scarce accelerator capacity must be prioritized during a disaster? | expertise | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | Asked at CoreWeave | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-continuity-for-gpu-backed-inference-that-serves-both-y-100978) |

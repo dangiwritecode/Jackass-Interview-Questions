@@ -2,6 +2,8 @@
 
 [← back to Grab](README.md)
 
+Questions 1–83 of 83.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A BFF endpoint stitches responses from several services and its latency is the sum of dependencies (O(deps)); how do you reason about parallel fan-out, partial responses, and where complexity becomes a fan-out width problem? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Grab | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bff-endpoint-stitches-responses-from-several-services-and-its-latenc-22088) |

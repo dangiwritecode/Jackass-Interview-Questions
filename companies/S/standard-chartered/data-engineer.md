@@ -2,6 +2,8 @@
 
 [← back to Standard Chartered](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design cross-region / multi-region MDM where data residency law forbids some records from leaving a jurisdiction — can there still be one global golden record? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Standard Chartered | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-cross-region-multi-region-mdm-where-data-residency-l-127738) |

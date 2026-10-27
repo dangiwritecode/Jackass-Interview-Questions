@@ -2,6 +2,8 @@
 
 [← back to Hetzner](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must estimate the per-request cost of a feature before shipping, including retries and a refusal-fallback path. What formula do you build and where do naive estimates go wrong? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Hetzner | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-estimate-the-per-request-cost-of-a-feature-before-shipping-in-77931) |

@@ -2,6 +2,8 @@
 
 [← back to ICICI Direct](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set the availability and correctness strategy for a stock-trading platform where load spikes at market open, downtime during a crash costs customers real money, and regulators are watching? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at ICICI Direct | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-the-availability-and-correctness-strategy-for-a-stoc-38780) |

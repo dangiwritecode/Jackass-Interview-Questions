@@ -2,6 +2,8 @@
 
 [← back to Browserless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team proposes using a headless browser to pre-render and sanitize user HTML server-side at scale. Analyze the mXSS, SSRF-via-embedded-resource, and resource-exhaustion risks of headless-browser-as-sanitizer, and whether you'd approve it. | deep understanding | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Browserless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-proposes-using-a-headless-browser-to-pre-render-and-sanitize-us-38926) |

@@ -2,6 +2,8 @@
 
 [← back to Zscaler](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Shortest Single-Letter Transformation Chain | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Graph, Hash Table, Queue, Shortest Path, String | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Zscaler | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-single-letter-transformation-chain-d127) |

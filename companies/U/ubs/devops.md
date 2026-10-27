@@ -2,6 +2,8 @@
 
 [← back to UBS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're standardizing an enterprise-scale Azure landing zone across 40 business units; how do you decide the boundary between a platform team owning management groups/policy and product teams owning subscriptions, and where does that boundary usually break down? | deep understanding | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at UBS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standardizing-an-enterprise-scale-azure-landing-zone-across-40--54521) |

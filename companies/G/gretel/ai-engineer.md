@@ -2,6 +2,8 @@
 
 [← back to Gretel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect synthetic eval-data generation with an LLM so it scales coverage without baking in the generator's blind spots or contaminating your test set — what's the validation loop? | expertise | SDE-2/3, Architect/Principal | LLM Evaluation & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Gretel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-synthetic-eval-data-generation-with-an-llm-so-it--84769) |

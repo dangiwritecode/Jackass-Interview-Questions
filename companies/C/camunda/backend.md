@@ -2,6 +2,8 @@
 
 [← back to Camunda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Saga compensation ran twice on retry and refunded a customer twice. How do you make saga steps and their compensations idempotent, and where do you store the per-step completion markers so a crash mid-compensation is recoverable? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Camunda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-saga-compensation-ran-twice-on-retry-and-refunded-a-customer-twice-h-22469) |

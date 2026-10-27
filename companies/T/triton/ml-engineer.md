@@ -2,6 +2,8 @@
 
 [← back to Triton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you serve a reranker cross-encoder as a low-latency model service with a bounded p99, and what batching/caching would you add on the ML-serving side? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Triton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-serve-a-reranker-cross-encoder-as-a-low-latency-model-se-63993) |

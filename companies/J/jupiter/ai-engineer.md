@@ -2,6 +2,8 @@
 
 [← back to Jupiter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why output tokens are billed higher than input tokens and how that asymmetry should change where you spend engineering effort compressing prompts versus outputs. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Jupiter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-output-tokens-are-billed-higher-than-input-tokens-and-how--77930) |

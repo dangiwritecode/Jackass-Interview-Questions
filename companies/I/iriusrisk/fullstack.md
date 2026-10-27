@@ -2,6 +2,8 @@
 
 [← back to IriusRisk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you threat-model the risk that your threat models themselves go stale? Design a process and architecture that ties a threat model to the running system so an undocumented new data flow or dependency surfaces as a delta to review. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at IriusRisk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-threat-model-the-risk-that-your-threat-models-themselves-go-41306) |

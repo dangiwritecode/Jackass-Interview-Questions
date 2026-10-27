@@ -2,6 +2,8 @@
 
 [← back to Citi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle class imbalance in a fine-tuning dataset for a classification-style generative task? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | Asked at Citi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-class-imbalance-in-a-fine-tuning-dataset-for-a-class-67036) |

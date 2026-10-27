@@ -2,6 +2,8 @@
 
 [← back to SonyLiv](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you forecast concurrent viewers for a live-streamed cricket match with massive spike behavior? | deep understanding | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | Asked at SonyLiv | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-forecast-concurrent-viewers-for-a-live-streamed-cricket--66410) |

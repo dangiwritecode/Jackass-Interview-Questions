@@ -2,6 +2,8 @@
 
 [← back to Lambda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's approach to GPU/accelerator infra for ML training where capacity is scarce and Terraform must not free a reserved capacity block on a transient plan diff. How do you make quota-reservation resources destruction-proof while still allowing a deliberate, gated release when a training run ends? | expertise | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Lambda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-approach-to-gpu-accelerator-infra-for-ml-training-whe-53037) |

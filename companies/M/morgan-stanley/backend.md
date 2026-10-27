@@ -2,6 +2,8 @@
 
 [← back to Morgan Stanley](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A financial report must be reproducible: running it next month for last month must give identical numbers. What makes an aggregation non-reproducible (late-arriving data, mutable rows, NOW()), and how do you design snapshots or as-of queries to guarantee it? | expertise | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Morgan Stanley | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-financial-report-must-be-reproducible-running-it-next-month-for-last-22174) |

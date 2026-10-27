@@ -2,6 +2,8 @@
 
 [← back to Cricbuzz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you cache and serve a real-time-ish feed (e.g., cricket scores) where users want freshness but you can't hit origin per request? Discuss micro-caching, TTL jitter, and edge push. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at Cricbuzz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cache-and-serve-a-real-time-ish-feed-e-g-cricket-scores--20907) |

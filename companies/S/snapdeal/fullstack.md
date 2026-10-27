@@ -2,6 +2,8 @@
 
 [← back to Snapdeal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a database schema for a simple e-commerce order system. | intermediate experience | Fresher, SDE-1 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Snapdeal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-database-schema-for-a-simple-e-commerce-order-system-251) |

@@ -2,6 +2,8 @@
 
 [← back to Instaclustr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org is deciding whether to run its search/analytics stack (Elasticsearch/OpenSearch) on Kubernetes operators versus managed services. As principal, walk through the framework: shard-rebalance-during-node-loss risk, storage guarantees, upgrade pain, and the failure mode that would flip your recommendation, plus how you'd pilot it. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Instaclustr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-is-deciding-whether-to-run-its-search-analytics-stack-elastic-39086) |

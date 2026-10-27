@@ -2,6 +2,8 @@
 
 [← back to YugabyteDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your build-vs-buy: 'You chose to build in-house geo-replication. In two years the vendor caught up and is cheaper. How do you evaluate whether to migrate off your own build?' | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at YugabyteDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-build-vs-buy-you-chose-to-build-in-house-ge-53604) |

@@ -2,6 +2,8 @@
 
 [← back to Glean](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate and roll out an LLM-powered natural-language interface to the catalog ('show me finance tables with revenue that are certified and fresh') — grounding, evaluation, and preventing it from confidently returning wrong assets? | expertise | SDE-2/3, Architect/Principal | Data Catalog & Metadata Engineering | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Glean | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-and-roll-out-an-llm-powered-natural-language-inter-126611) |

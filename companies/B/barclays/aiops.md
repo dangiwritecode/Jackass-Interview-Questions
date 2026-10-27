@@ -2,6 +2,8 @@
 
 [← back to Barclays](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A skeptical principal argues that for observability, availability trumps durability — you never need old telemetry, only current. Push back: for which use cases (compliance, capacity trend, security forensics) is RPO actually about durability, and how do you tier it? | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Barclays | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-skeptical-principal-argues-that-for-observability-availability-trump-99958) |

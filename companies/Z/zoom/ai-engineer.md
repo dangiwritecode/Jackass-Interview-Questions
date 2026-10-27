@@ -2,6 +2,8 @@
 
 [← back to Zoom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org's cloud egress bill from serving embeddings and streaming completions is becoming a top-three line item. How would you attack it architecturally — caching, compression, placement, provider peering — and how do you prioritize? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zoom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-s-cloud-egress-bill-from-serving-embeddings-and-streaming-com-82778) |

@@ -2,6 +2,8 @@
 
 [← back to Mphasis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between an index, a source, and a sourcetype in Splunk. | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | Asked at Mphasis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-an-index-a-source-and-a-sourcetype-in-s-91328) |

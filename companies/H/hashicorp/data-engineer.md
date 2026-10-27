@@ -2,6 +2,8 @@
 
 [← back to HashiCorp](README.md)
 
+Questions 1–62 of 62.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vendor claims their tool gives you 'true multi-cloud portability' — what three questions do you ask to expose where the abstraction leaks, and what's the demo you'd demand? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at HashiCorp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-claims-their-tool-gives-you-true-multi-cloud-portability-what-127267) |

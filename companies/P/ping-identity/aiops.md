@@ -2,6 +2,8 @@
 
 [← back to Ping Identity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle DR for the platform's authentication and RBAC layer — if operators can't log into the observability platform during a disaster, they're blind. Design the break-glass access to the AIOps platform that doesn't become a standing backdoor. | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Ping Identity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-dr-for-the-platform-s-authentication-and-rbac-layer--99976) |

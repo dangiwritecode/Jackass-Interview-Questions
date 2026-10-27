@@ -2,6 +2,8 @@
 
 [← back to Agoda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a frontend internationalization platform spanning 40 locales including RTL and CJK — bundle strategy, translation pipeline, pseudo-localization CI, and runtime locale negotiation? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Agoda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-frontend-internationalization-platform-spanning-40046) |

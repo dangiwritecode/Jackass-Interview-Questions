@@ -2,6 +2,8 @@
 
 [← back to Drata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an architecture where compliance evidence for the data platform (encryption on buckets masking policies logging on warehouses access reviews) emits continuous machine-verifiable proof — turning data-platform compliance from a point-in-time assertion into a live queryable state. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Drata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-architecture-where-compliance-evidence-for-the-data-platform-126051) |

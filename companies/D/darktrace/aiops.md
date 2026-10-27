@@ -2,6 +2,8 @@
 
 [← back to Darktrace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What governance patterns protect against a poisoned or adversarial telemetry stream deliberately crafted to mislead your anomaly detection or auto-remediation? | expertise | SDE-2/3, Architect/Principal | AIOps Data Governance & Standardization | Onsite, Hiring Manager | Tech | Asked at Darktrace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-governance-patterns-protect-against-a-poisoned-or-adversarial-tel-103101) |

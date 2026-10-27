@@ -2,6 +2,8 @@
 
 [← back to Remitly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Valid Completion Order of Dependent Tasks | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Cycle Detection, Depth-First Search, Graph, In-degree Counting, Topological Sort | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Remitly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=valid-completion-order-of-dependent-tasks-d210) |

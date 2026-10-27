@@ -2,6 +2,8 @@
 
 [← back to Palantir](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probes influence: your AIOps platform surfaced a $2M/yr waste in a powerful VP's org, backed by hard telemetry correlation, but they dispute the platform's attribution. Walk me through defending a machine-generated cost finding to a skeptical, senior human — the data lineage, the confidence framing, and the exec air-cover you'd line up. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Palantir | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-influence-your-aiops-platform-surfaced-a-2m-yr-was-100221) |

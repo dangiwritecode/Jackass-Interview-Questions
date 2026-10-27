@@ -2,6 +2,8 @@
 
 [← back to ClickHouse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A batch job processing gigabytes is I/O bound but also CPU-thrashy. How would you pipeline reading, parsing, and processing across threads with bounded queues, and how do you find the actual bottleneck stage? | deep understanding | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at ClickHouse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-batch-job-processing-gigabytes-is-i-o-bound-but-also-cpu-thrashy-how-16888) |

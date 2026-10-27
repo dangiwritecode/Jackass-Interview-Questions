@@ -2,6 +2,8 @@
 
 [← back to ING](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an ML platform to satisfy the EU AI Act's high-risk requirements without freezing team velocity, and which controls do you centralize? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at ING | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-ml-platform-to-satisfy-the-eu-ai-act-s-high-84378) |

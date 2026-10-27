@@ -2,6 +2,8 @@
 
 [← back to Anomalo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern data quality as a compliance control — a broken pipeline that silently drops a consent flag or misclassifies a column is a governance failure not just a data-quality bug. How do you wire data-quality checks (Great Expectations/Soda/Monte Carlo) into your compliance enforcement? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Anomalo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-data-quality-as-a-compliance-cont-126078) |

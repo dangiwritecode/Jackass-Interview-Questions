@@ -2,6 +2,8 @@
 
 [← back to LogicMonitor](README.md)
 
+Questions 1–118 of 118.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: your groupby-transform baseline silently dropped services that had a category dtype with unobserved levels — walk through how that happened and how you'd prevent it. | deep understanding | SDE-1/2, SDE-2/3 | Pandas | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at LogicMonitor | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-your-groupby-transform-baseline-silently-dropped-s-94574) |

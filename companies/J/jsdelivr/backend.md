@@ -2,6 +2,8 @@
 
 [← back to jsDelivr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd reconcile Subresource Integrity with on-the-fly edge asset transformation: SRI hashes break if the edge rewrites the bytes. How do you keep integrity guarantees while still transforming or compressing assets at the edge? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at jsDelivr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-reconcile-subresource-integrity-with-on-the-fly-edge-29759) |

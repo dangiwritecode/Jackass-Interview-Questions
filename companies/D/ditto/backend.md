@@ -2,6 +2,8 @@
 
 [← back to Ditto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're presenting a tech-radar recommendation: adopt, trial, or hold on CRDTs as a platform-wide answer to AP conflict resolution. Make the principal-level case, including where CRDTs are a footgun that hides real consistency requirements. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Ditto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-presenting-a-tech-radar-recommendation-adopt-trial-or-hold-on-c-32250) |

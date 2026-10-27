@@ -2,6 +2,8 @@
 
 [← back to Reliance Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator introduces a new data-localization law with a 90-day compliance deadline affecting 30% of your pipelines. Walk me through how you'd triage re-architect and prove compliance at that org scale. | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Reliance Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-introduces-a-new-data-localization-law-with-a-90-day-compl-126676) |

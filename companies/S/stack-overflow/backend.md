@@ -2,6 +2,8 @@
 
 [← back to Stack Overflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A many-to-many tag search 'posts having all of tags A, B, C' is slow. Compare a GIN index on a tag array, a normalized join with grouping, and an inverted-index table. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Stack Overflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-many-to-many-tag-search-posts-having-all-of-tags-a-b-c-is-slow-compa-25815) |

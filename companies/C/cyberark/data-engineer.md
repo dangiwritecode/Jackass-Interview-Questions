@@ -2,6 +2,8 @@
 
 [← back to CyberArk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe your approach to separation-of-duties in a data platform so that no single person can both grant themselves access and delete the audit record of doing so — down to the IAM and pipeline level. | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at CyberArk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-approach-to-separation-of-duties-in-a-data-platform-so-t-126661) |

@@ -2,6 +2,8 @@
 
 [← back to Western Union](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Snowflake charges for time-travel and fail-safe storage on cold tables you never query. How do you design retention and cloning to avoid paying for cold history you don't need? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Western Union | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=snowflake-charges-for-time-travel-and-fail-safe-storage-on-cold-tables-126787) |

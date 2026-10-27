@@ -2,6 +2,8 @@
 
 [← back to Dailyhunt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd handle multi-language content in a recommender when embeddings for low-resource languages are much weaker. | deep understanding | SDE-1/2, SDE-2/3 | Recommendation Systems | Phone Screen, Onsite | Tech | Asked at Dailyhunt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-handle-multi-language-content-in-a-recommender-when--66552) |

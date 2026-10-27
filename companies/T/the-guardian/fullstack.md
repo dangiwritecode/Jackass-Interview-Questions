@@ -2,6 +2,8 @@
 
 [← back to The Guardian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you make the trade-off between shipping a single large SPA versus an MPA/islands architecture for a content-plus-app product — what evidence drives that architectural fork? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at The Guardian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-the-trade-off-between-shipping-a-single-large-spa-vers-40086) |

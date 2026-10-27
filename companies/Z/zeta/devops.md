@@ -2,6 +2,8 @@
 
 [← back to Zeta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A PCI requirement says logs must be retained for one year with 90 days immediately available — how would you architect that with CloudWatch, S3 lifecycle policies and Glacier, and how do you prove immutability? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Zeta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pci-requirement-says-logs-must-be-retained-for-one-year-with-90-days-47934) |

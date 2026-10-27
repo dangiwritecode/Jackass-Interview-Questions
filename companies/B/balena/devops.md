@@ -2,6 +2,8 @@
 
 [← back to Balena](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a zero-trust posture for an IoT/edge fleet shipped to customer premises, physically accessible and rarely updated? Design the identity bootstrap, key rotation, and clone-detection so a cloned device can be revoked at scale. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Balena | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-zero-trust-posture-for-an-iot-edge-fleet-shippe-53986) |

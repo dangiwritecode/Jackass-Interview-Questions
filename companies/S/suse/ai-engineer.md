@@ -2,6 +2,8 @@
 
 [← back to SUSE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must run GenAI inference at the edge (thousands of retail/branch sites) with K3s and intermittent connectivity, serving a small on-device model with cloud fallback. How would you architect fleet management, GitOps to disconnected clusters, and local autonomy when the control plane is unreachable, and where does the standard reconcile model break for edge model updates? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at SUSE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-run-genai-inference-at-the-edge-thousands-of-retail-branch-si-82628) |

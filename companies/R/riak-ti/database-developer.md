@@ -2,6 +2,8 @@
 
 [← back to Riak-TI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you use a G-Counter or PN-Counter CRDT stored per-replica to keep a 'view count' available under partition and still converge exactly on heal? | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Riak-TI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-a-g-counter-or-pn-counter-crdt-stored-per-replica-to-107523) |

@@ -2,6 +2,8 @@
 
 [← back to BlueStacks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Write a query using LEAD() to show each day's temperature next to the following day's temperature. | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at BlueStacks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-query-using-lead-to-show-each-day-s-temperature-next-to-the-fo-118977) |

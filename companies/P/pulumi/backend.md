@@ -2,6 +2,8 @@
 
 [← back to Pulumi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you make CAP posture a reviewable dimension in your architecture-as-code / policy-as-code tooling, so that a Terraform or manifest change that would move a store's replication mode across the CP/AP line is caught in a policy gate before it merges? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Pulumi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-cap-posture-a-reviewable-dimension-in-your-architectur-32282) |

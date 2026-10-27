@@ -2,6 +2,8 @@
 
 [← back to Target](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probes: "you chose eventual consistency between your order service and inventory service — show me the exact user-visible anomaly that creates and how the frontend and business process are designed to tolerate it." | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Target | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-you-chose-eventual-consistency-between-your-order--40764) |

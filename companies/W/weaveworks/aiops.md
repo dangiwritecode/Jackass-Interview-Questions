@@ -2,6 +2,8 @@
 
 [← back to Weaveworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design coordination between competing reconciliation loops (Kubernetes controllers, GitOps, custom remediation) so they don't fight and thrash live state. | expertise | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Weaveworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-coordination-between-competing-reconciliatio-101544) |

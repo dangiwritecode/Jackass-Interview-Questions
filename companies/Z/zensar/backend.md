@@ -2,6 +2,8 @@
 
 [← back to Zensar](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What does the 'pass' statement do, and when would you actually use it? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Zensar | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-the-pass-statement-do-and-when-would-you-actually-use-it-9245) |

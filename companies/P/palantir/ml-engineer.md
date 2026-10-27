@@ -2,6 +2,8 @@
 
 [← back to Palantir](README.md)
 
+Questions 1–99 of 99.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when a use case should NOT use ML at all, and how do you build that 'should-we-even-do-this' gate into intake? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Palantir | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-a-use-case-should-not-use-ml-at-all-and-how-do--71713) |

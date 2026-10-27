@@ -2,6 +2,8 @@
 
 [← back to Rapido](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A feature computes shortest paths / routing; how do you reason about the complexity of Dijkstra with a binary heap versus a Fibonacci heap versus BFS on an unweighted graph, and which is right for your data? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Rapido | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-feature-computes-shortest-paths-routing-how-do-you-reason-about-the--16207) |

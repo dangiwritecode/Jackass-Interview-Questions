@@ -2,6 +2,8 @@
 
 [← back to Netezza](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why might an OLTP database be measured in gigabytes while its OLAP warehouse is measured in terabytes? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Netezza | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-an-oltp-database-be-measured-in-gigabytes-while-its-olap-war-118790) |

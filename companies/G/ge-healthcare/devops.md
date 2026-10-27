@@ -2,6 +2,8 @@
 
 [← back to GE HealthCare](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a data strategy for CI that gives realistic test fidelity without ever moving regulated PII into build environments, given today's pipelines seed test databases directly from production snapshots; cover synthetic generation, masking, and subsetting and their fidelity limits. | expertise | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at GE HealthCare | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-data-strategy-for-ci-that-gives-realistic-te-52287) |

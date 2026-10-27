@@ -2,6 +2,8 @@
 
 [← back to Intercom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A 400 says roles must alternate or first message must be user. What in your history-building code (feed reconstruction, dropped turns) most often produces this and how do you defend against it? | intermediate experience | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Intercom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-400-says-roles-must-alternate-or-first-message-must-be-user-what-in--20349) |

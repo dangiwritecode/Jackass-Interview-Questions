@@ -2,6 +2,8 @@
 
 [← back to Coupang](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A staff engineer wants to make the whole platform use synchronous multi-region replication so 'everything is always consistent.' As principal, quantify the steady-state latency tax (PACELC EL) this imposes on every write and argue the business case against a blanket policy. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Coupang | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-staff-engineer-wants-to-make-the-whole-platform-use-synchronous-mult-111574) |

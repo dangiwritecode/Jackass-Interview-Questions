@@ -2,6 +2,8 @@
 
 [← back to Dataiku](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through your most significant project end to end, from the problem it solved to how you deployed it. | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Projects (Resume Deep-Dive) | Phone Screen, Onsite, Hiring Manager | Tech | Commonly asked at Tier 3 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-your-most-significant-project-end-to-end-from-the-prob-8037) |

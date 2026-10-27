@@ -2,6 +2,8 @@
 
 [← back to Invisible](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a human-in-the-loop review/RLHF-annotation platform for continuous model improvement (buy Surge/Scale/Mercor vs build your own labeler tooling + workforce) when the feedback-data flywheel is the core moat? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Invisible | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-human-in-the-loop-review-rlhf-ann-69856) |

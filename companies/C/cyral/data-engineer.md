@@ -2,6 +2,8 @@
 
 [← back to Cyral](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast row-level/column-level access control enforced in the warehouse, in a policy engine (OPA/Immuta), and in the semantic layer for a 30-domain enterprise. Where does centralizing data-access policy help audit and consistency, and where does it add query latency and a critical single dependency? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Cyral | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-row-level-column-level-access-control-enforced-in-the-warehou-125636) |

@@ -2,6 +2,8 @@
 
 [← back to Rippling](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Fixed-Capacity Cache with Least-Frequently-Used Eviction | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cache Eviction, Design, Doubly Linked List, Hash Table, Linked List, Ordered Set | DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at Rippling | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fixed-capacity-cache-with-least-frequently-used-eviction-d460) |

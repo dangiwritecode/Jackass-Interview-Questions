@@ -2,6 +2,8 @@
 
 [← back to LiveRamp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain what a generator is and how it differs from a normal function that returns a list. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Data companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-what-a-generator-is-and-how-it-differs-from-a-normal-function--1158) |

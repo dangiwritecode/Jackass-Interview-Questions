@@ -2,6 +2,8 @@
 
 [← back to Algolia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Estimate the number of Elasticsearch shards and per-shard size for a 20TB index serving 80k QPS, and explain why over-sharding inflates heap and coordination overhead while under-sharding caps parallelism — and how both waste money. | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Algolia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=estimate-the-number-of-elasticsearch-shards-and-per-shard-size-for-a-2-112274) |

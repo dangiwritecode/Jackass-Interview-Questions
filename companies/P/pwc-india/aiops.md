@@ -2,6 +2,8 @@
 
 [← back to PwC India](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Defend a platform decision: one central change-risk model-serving service for the whole org versus embedding scoring logic in each team's pipeline. What does the org-scale ownership model look like? | deep understanding | SDE-2/3, Architect/Principal | Change Risk Prediction | Phone Screen, Onsite | Tech | Asked at Consulting companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=defend-a-platform-decision-one-central-change-risk-model-serving-servi-102543) |

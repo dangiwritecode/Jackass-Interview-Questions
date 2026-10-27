@@ -2,6 +2,8 @@
 
 [← back to Zuplo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide when to introduce an API gateway in front of a small set of services, versus keeping direct client-to-service calls, considering latency and operational overhead? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zuplo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-when-to-introduce-an-api-gateway-in-front-of-a-sm-27225) |

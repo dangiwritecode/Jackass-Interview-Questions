@@ -2,6 +2,8 @@
 
 [← back to OneTrust](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a consent and preference architecture for a business that acquires companies frequently — each acquisition brings a different consent model and lawful basis. How do you reconcile heterogeneous consent records into one governed system without unlawfully processing on invalid consent? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at OneTrust | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-consent-and-preference-architecture-for-a-business-that-acqui-37252) |

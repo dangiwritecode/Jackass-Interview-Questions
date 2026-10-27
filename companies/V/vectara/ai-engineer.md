@@ -2,6 +2,8 @@
 
 [← back to Vectara](README.md)
 
+Questions 1–111 of 111.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A RAG answer must include source citations with document IDs and offsets. How do you design the response schema so citations are verifiable and the client can deep-link back to the exact chunk, and how do you prevent the model from fabricating IDs? | deep understanding | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Vectara | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-rag-answer-must-include-source-citations-with-document-ids-and-offse-77114) |

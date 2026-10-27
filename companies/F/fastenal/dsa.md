@@ -2,6 +2,8 @@
 
 [← back to Fastenal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Tally Elements in a Nested Compound Formula | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, Parsing, Recursion, Sorting, Stack, String | DSA/Coding Round, Onsite | DSA | Asked at Fastenal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tally-elements-in-a-nested-compound-formula-d711) |

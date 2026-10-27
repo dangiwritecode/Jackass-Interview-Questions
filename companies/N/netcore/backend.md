@@ -2,6 +2,8 @@
 
 [← back to Netcore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A notification campaign to 40M users must respect a per-provider send rate and complete within a 2-hour window — how do you design the pacing/throttle scheduler so you neither burst-limit the provider nor miss the window? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Netcore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-notification-campaign-to-40m-users-must-respect-a-per-provider-send--28351) |

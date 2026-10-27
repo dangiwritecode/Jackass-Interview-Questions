@@ -2,6 +2,8 @@
 
 [← back to Talend](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build an SCD Type 2 valid_from/valid_to using LEAD over an ordered change history, and what edge case at the current (open) record must you handle? | deep understanding | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Talend | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-an-scd-type-2-valid-from-valid-to-using-lead-over--123198) |

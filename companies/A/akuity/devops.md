@@ -2,6 +2,8 @@
 
 [← back to Akuity](README.md)
 
+Questions 1–79 of 79.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A canary rollout is driven by Argo Rollouts reading a strategy from Git, but a mid-rollout revert to the previous commit left the canary and stable in an inconsistent state. How does a Git revert interact with an in-flight progressive delivery, and how do you abort cleanly? | expertise | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Akuity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-canary-rollout-is-driven-by-argo-rollouts-reading-a-strategy-from-gi-45661) |

@@ -2,6 +2,8 @@
 
 [← back to BigID](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator demands you prove exactly who accessed a specific customer's PII over the last 3 years and why — architect the access-provenance system that can answer this query in seconds and prove no gaps in coverage. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at BigID | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-demands-you-prove-exactly-who-accessed-a-specific-customer-37235) |

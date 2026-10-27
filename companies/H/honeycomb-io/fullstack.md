@@ -2,6 +2,8 @@
 
 [← back to Honeycomb.io](README.md)
 
+Questions 1–106 of 106.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A latency-sensitive service is being moved from x86 to Graviton for cost/perf, but its hot path uses a hand-tuned SIMD routine. How do you evaluate and de-risk the migration, and what benchmarking discipline do you enforce across the fleet? | expertise | SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at Honeycomb.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-latency-sensitive-service-is-being-moved-from-x86-to-graviton-for-co-39838) |

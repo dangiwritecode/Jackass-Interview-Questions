@@ -2,6 +2,8 @@
 
 [← back to ABB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the evidence trail so an EU-AI-Act conformity assessment for a high-risk model is a continuous artifact — data quality bias human-oversight logs technical documentation — rather than a one-off dossier assembled manually before market launch? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at ABB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-evidence-trail-so-an-eu-ai-act-conformity-ass-70028) |

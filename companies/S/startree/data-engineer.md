@@ -2,6 +2,8 @@
 
 [← back to StarTree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the enterprise real-time OLAP tier (Druid/Pinot/ClickHouse/StarRocks) serving user-facing sub-second analytics dashboards for 30 product teams. When is this warranted versus pushing product analytics onto the warehouse, and how do you stop 30 teams each standing up a snowflake cluster? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at StarTree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-enterprise-real-time-olap-tier-druid-pinot-clickhouse-st-125641) |

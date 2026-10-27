@@ -2,6 +2,8 @@
 
 [← back to Warpstream](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design HA for a queue/log-backed database (Kafka-tiered, WAL-shipping to object store). How does decoupling storage from compute change your failover and recovery model? | expertise | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at Warpstream | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-ha-for-a-queue-log-backed-database-kafka-tiered-wal-shipping-to-114683) |

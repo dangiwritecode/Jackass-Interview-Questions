@@ -2,6 +2,8 @@
 
 [← back to Faire](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set retraining triggers for a cold-start-heavy marketplace where new items and users continuously arrive? | deep understanding | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Faire | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-retraining-triggers-for-a-cold-start-heavy-marketplace--72399) |

@@ -2,6 +2,8 @@
 
 [← back to Junglee](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a leaderboard for a fantasy game showing live ranks for 10M users during a match. How do you compute and serve top-N plus a given user's rank efficiently under a huge write burst? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Junglee | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-leaderboard-for-a-fantasy-game-showing-live-ranks-for-10m-use-16397) |

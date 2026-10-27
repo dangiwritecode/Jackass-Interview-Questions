@@ -2,6 +2,8 @@
 
 [← back to Chainguard](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you'd prevent supply-chain attacks (typosquatting, dependency confusion) across the ML org's Python installs, and how you'd make a private index, hashing, and SBOM diffing non-negotiable without slowing teams. | expertise | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Chainguard | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-d-prevent-supply-chain-attacks-typosquatting-68416) |

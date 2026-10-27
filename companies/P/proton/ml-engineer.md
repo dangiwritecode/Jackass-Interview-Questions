@@ -2,6 +2,8 @@
 
 [← back to Proton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide whether an ML use case even needs PII at all, and enforce data minimization as an architectural default rather than an afterthought? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Proton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-an-ml-use-case-even-needs-pii-at-all-and-enf-72651) |

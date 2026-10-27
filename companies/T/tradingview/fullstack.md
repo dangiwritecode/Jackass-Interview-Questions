@@ -2,6 +2,8 @@
 
 [← back to TradingView](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you review a change that adds a WebAssembly module or heavy client-side computation? What do you check about main-thread blocking, bundle impact, and the fallback for unsupported clients? | deep understanding | SDE-2/3, Architect/Principal | Code Review & Mentorship | Onsite, Hiring Manager | Tech | Asked at TradingView | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-review-a-change-that-adds-a-webassembly-module-or-heavy-cli-40410) |

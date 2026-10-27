@@ -2,6 +2,8 @@
 
 [← back to Kotak](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A person spends 25 percent of income on rent and 20 percent of the remainder on transport and saves 3600 which is what is left. Find the income. | deep understanding | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at Kotak | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-person-spends-25-percent-of-income-on-rent-and-20-percent-of-the-rem-15847) |

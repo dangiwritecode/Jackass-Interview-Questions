@@ -2,6 +2,8 @@
 
 [← back to BloombergGPT](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team proposes building a domain foundation model from scratch — what are the three questions you ask to determine if that's ambition or hubris? | expertise | SDE-2/3, Architect/Principal | LLM Architecture Selection (Build vs Buy vs Fine-tune) | Onsite, Hiring Manager | Tech | Asked at BloombergGPT | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-proposes-building-a-domain-foundation-model-from-scratch-what-a-86290) |

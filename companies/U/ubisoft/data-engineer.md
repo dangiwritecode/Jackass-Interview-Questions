@@ -2,6 +2,8 @@
 
 [← back to Ubisoft](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a restore-orchestration layer so that thousands of Glacier restore requests don't collide, exceed retrieval throughput limits, or blow the retrieval budget? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Ubisoft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-restore-orchestration-layer-so-that-thousands-o-126728) |

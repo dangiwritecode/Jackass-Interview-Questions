@@ -2,6 +2,8 @@
 
 [← back to Codefresh](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the org runs multi-tenant CI/CD build workloads on Kubernetes (Tekton/Argo Workflows) so untrusted build steps can't escape, one tenant's build can't starve others, and a build spike doesn't take out the shared cluster. What isolation and scheduling guardrails would you mandate? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Codefresh | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-org-runs-multi-tenant-ci-cd-build-workloads-on-kubernet-39048) |

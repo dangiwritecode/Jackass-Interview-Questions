@@ -2,6 +2,8 @@
 
 [← back to Spot.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you monitor drift on a model that predicts optimal autoscaling actions when the cost of a wrong action (over/under-provision) is asymmetric? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Spot.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-drift-on-a-model-that-predicts-optimal-autoscaling--95386) |

@@ -2,6 +2,8 @@
 
 [← back to ABBYY](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide whether a rule-based regex extractor beats a learned NER model for a highly structured field like invoice numbers? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at ABBYY | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-a-rule-based-regex-extractor-beats-a-lear-79481) |

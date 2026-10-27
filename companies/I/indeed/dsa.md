@@ -2,6 +2,8 @@
 
 [← back to Indeed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Merge Multiple Sorted Linked Chains into One | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Divide and Conquer, Heap (Priority Queue), K-way Merge, Linked List, Merge Sort | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Indeed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=merge-multiple-sorted-linked-chains-into-one-d23) |

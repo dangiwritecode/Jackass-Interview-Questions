@@ -2,6 +2,8 @@
 
 [← back to Zed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How can prompt primitives in MCP help create reusable slash-command-style workflows in a host? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | Asked at Zed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-can-prompt-primitives-in-mcp-help-create-reusable-slash-command-st-76075) |

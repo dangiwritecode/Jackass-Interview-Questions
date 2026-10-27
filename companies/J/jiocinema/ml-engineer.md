@@ -2,6 +2,8 @@
 
 [← back to JioCinema](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design an experiment for a model change whose benefit only shows up under high-load or peak-traffic conditions? | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at JioCinema | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-experiment-for-a-model-change-whose-benefit-on-67768) |

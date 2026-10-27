@@ -2,6 +2,8 @@
 
 [← back to DeltaX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | CCPA gives consumers a right to opt out of the sale or sharing of personal information; how do you engineer that opt-out to actually gate data leaving your platform to third-party adtech partners? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at AdTech companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=ccpa-gives-consumers-a-right-to-opt-out-of-the-sale-or-sharing-of-pers-127320) |

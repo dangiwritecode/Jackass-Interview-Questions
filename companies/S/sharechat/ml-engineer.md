@@ -2,6 +2,8 @@
 
 [← back to ShareChat](README.md)
 
+Questions 1–92 of 92.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A drift alert fires every Monday morning. What's your hypothesis and how do you confirm it's not a real problem? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ShareChat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-drift-alert-fires-every-monday-morning-what-s-your-hypothesis-and-ho-67486) |

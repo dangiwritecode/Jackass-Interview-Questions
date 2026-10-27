@@ -2,6 +2,8 @@
 
 [← back to Sony](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain provisioned-capacity vs expedited vs bulk Glacier retrieval and when you'd pay for provisioned capacity to guarantee restore throughput. | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Sony | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-provisioned-capacity-vs-expedited-vs-bulk-glacier-retrieval-an-126781) |

@@ -2,6 +2,8 @@
 
 [← back to UBS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is an autonomous transaction in PL/SQL and give a realistic case where you would use one to log inside a transaction that later rolls back. | deep understanding | SDE-1, SDE-1/2 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at UBS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-an-autonomous-transaction-in-pl-sql-and-give-a-realistic-case--106840) |

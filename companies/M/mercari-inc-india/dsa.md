@@ -2,6 +2,8 @@
 
 [← back to Mercari, Inc. (India)](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Widest Gap After Two Digit Substitutions | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Digit Manipulation, Greedy, Math, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Mercari, Inc. (India) | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=widest-gap-after-two-digit-substitutions-d1376) |

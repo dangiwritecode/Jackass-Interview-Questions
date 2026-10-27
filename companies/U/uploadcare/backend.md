@@ -2,6 +2,8 @@
 
 [← back to Uploadcare](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reason about the complexity of validating a large uploaded file that must be parsed once (O(n)) but where naive multi-pass parsing turns it into O(passes x n), and how streaming single-pass fixes it? | intermediate experience | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Uploadcare | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-validating-a-large-uploaded--22105) |

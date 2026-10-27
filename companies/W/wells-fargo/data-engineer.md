@@ -2,6 +2,8 @@
 
 [← back to Wells Fargo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you retrofit data quality onto a legacy mainframe-fed warehouse where you can't change the producers and batch windows are fixed and immovable? | deep understanding | SDE-2/3, Architect/Principal | Data Quality Framework & SLAs | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Wells Fargo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-retrofit-data-quality-onto-a-legacy-mainframe-fed-wareho-126944) |

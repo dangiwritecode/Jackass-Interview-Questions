@@ -2,6 +2,8 @@
 
 [← back to Havells](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a Command-pattern based remote control for smart-home devices. How do you support macros of commands? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Havells | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-command-pattern-based-remote-control-for-smart-home-devices-h-9038) |

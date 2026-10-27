@@ -2,6 +2,8 @@
 
 [← back to Deutsche Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Data-residency and sovereign-AI rules force you to serve some regions on in-region (pricier) model deployments while others use a cheaper central endpoint. Design the cost-governance and placement engine that respects sovereignty without letting compliance cost balloon unmeasured. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Deutsche Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=data-residency-and-sovereign-ai-rules-force-you-to-serve-some-regions--83845) |

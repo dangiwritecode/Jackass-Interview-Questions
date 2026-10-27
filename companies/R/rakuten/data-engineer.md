@@ -2,6 +2,8 @@
 
 [← back to Rakuten](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want at-least-once from Kafka to a warehouse using Spark; where exactly is the offset committed relative to the write, and how do you make the sink idempotent to compensate? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | Asked at Rakuten | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-at-least-once-from-kafka-to-a-warehouse-using-spark-where-exa-119573) |

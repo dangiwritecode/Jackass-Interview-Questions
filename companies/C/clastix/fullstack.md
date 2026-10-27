@@ -2,6 +2,8 @@
 
 [← back to Clastix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding the org's stance on running the API server and etcd as a managed control plane (control-plane-as-a-service like Kamaji/Hosted Control Planes) to run many lightweight tenant clusters. Walk through the trade-offs versus full clusters, and the failure isolation you gain or lose. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Clastix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-the-org-s-stance-on-running-the-api-server-and-etcd-as-39054) |

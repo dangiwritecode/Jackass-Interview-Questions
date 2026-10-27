@@ -2,6 +2,8 @@
 
 [← back to Netmagic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your notification service double-sends during a deploy because two replicas both process a scheduled batch; design the class-level claim/lease so exactly one replica owns a scheduled send and stale claims recover. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Netmagic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-notification-service-double-sends-during-a-deploy-because-two-rep-22382) |

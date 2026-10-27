@@ -2,6 +2,8 @@
 
 [← back to lakeFS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a reproducibility guarantee so any AIOps model retrained six months from now sees the byte-identical lake snapshot it originally trained on? | expertise | SDE-2/3, Architect/Principal | Observability Data Lake | Onsite, Hiring Manager | Tech | Asked at lakeFS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-reproducibility-guarantee-so-any-aiops-model-102395) |

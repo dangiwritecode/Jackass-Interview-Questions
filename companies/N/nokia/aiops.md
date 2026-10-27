@@ -2,6 +2,8 @@
 
 [← back to Nokia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design cross-domain remediation orchestration spanning network, compute, storage, and app teams when a fix requires coordinated action across silos. | deep understanding | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nokia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-cross-domain-remediation-orchestration-spanni-101581) |

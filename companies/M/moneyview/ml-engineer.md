@@ -2,6 +2,8 @@
 
 [← back to moneyview](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you use monotonic constraints in XGBoost for a credit-risk model, and what validation would you add to prove the constraints hold? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at moneyview | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-monotonic-constraints-in-xgboost-for-a-credit-risk-m-65897) |

@@ -2,6 +2,8 @@
 
 [← back to Hasura](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when policy-as-code is over-engineering for a given org maturity — what signals tell you Gatekeeper is premature, and what lighter-weight controls do you recommend instead? | deep understanding | SDE-2/3, Architect/Principal | Policy as Code (OPA/Gatekeeper) | Phone Screen, Onsite | Tech | Asked at Hasura | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-policy-as-code-is-over-engineering-for-a-given--55362) |

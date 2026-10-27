@@ -2,6 +2,8 @@
 
 [← back to Electronic Arts](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would model gaming telemetry so player, match, and session facts share conformed dimensions for both live-ops and monetization analytics. | deep understanding | SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | Asked at Electronic Arts | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-model-gaming-telemetry-so-player-match-and-sess-113333) |

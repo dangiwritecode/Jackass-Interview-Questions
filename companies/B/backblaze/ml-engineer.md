@@ -2,6 +2,8 @@
 
 [← back to Backblaze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you upload a 50 GB dataset from your laptop into cloud object storage for training? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Backblaze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-upload-a-50-gb-dataset-from-your-laptop-into-cloud-objec-58133) |

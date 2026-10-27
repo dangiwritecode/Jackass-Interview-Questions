@@ -2,6 +2,8 @@
 
 [← back to INDmoney](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Count Nodes Equal to Their Subtree Average | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Post-order Traversal, Recursion, Subtree Aggregation, Tree | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at INDmoney | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-nodes-equal-to-their-subtree-average-d2133) |

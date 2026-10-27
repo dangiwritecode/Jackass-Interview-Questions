@@ -2,6 +2,8 @@
 
 [← back to Tata-Power](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you forecast electricity/energy load with strong temperature dependence and evaluate marginal value of weather features? | deep understanding | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | Asked at Tata-Power | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-forecast-electricity-energy-load-with-strong-temperature-66442) |

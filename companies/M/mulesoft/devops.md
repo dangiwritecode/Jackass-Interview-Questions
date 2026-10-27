@@ -2,6 +2,8 @@
 
 [← back to Mulesoft](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd expose an on-prem legacy API to a cloud-native app securely without a full rewrite, and the ops burden that introduces. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | Asked at Mulesoft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-expose-an-on-prem-legacy-api-to-a-cloud-native-app--51162) |

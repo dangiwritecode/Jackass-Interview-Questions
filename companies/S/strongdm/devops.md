@@ -2,6 +2,8 @@
 
 [← back to StrongDM](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe an architecture where you can prove least-privilege and just-in-time access to production PHI systems is enforced and fully audited across cloud, k8s, and databases. | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at StrongDM | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-an-architecture-where-you-can-prove-least-privilege-and-just--56751) |

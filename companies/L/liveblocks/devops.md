@@ -2,6 +2,8 @@
 
 [← back to Liveblocks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a collaborative editor for huge documents and huge concurrent sessions on flaky client networks, deciding between OT and CRDT, where the authoritative state lives, and how the server tier scales fan-out without a hot document toppling a shard? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Liveblocks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-collaborative-editor-for-huge-documents-and--52118) |

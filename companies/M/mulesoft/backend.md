@@ -2,6 +2,8 @@
 
 [← back to Mulesoft](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A VP wants to replace your aging ESB with a service mesh + Kafka because 'ESBs are dead.' Make the honest architectural case for and against, including where the ESB's orchestration/transformation responsibilities actually go in the new topology and who owns them. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Mulesoft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vp-wants-to-replace-your-aging-esb-with-a-service-mesh-kafka-because-36309) |

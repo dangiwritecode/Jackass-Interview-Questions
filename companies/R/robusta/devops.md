@@ -2,6 +2,8 @@
 
 [← back to Robusta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A pod stuck in CrashLoopBackOff kept its endpoints removed but the deployment showed 'available' due to old replicas. How do you interpret rollout status correctly and set up alerting so a stuck rollout is caught fast? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Robusta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pod-stuck-in-crashloopbackoff-kept-its-endpoints-removed-but-the-dep-46993) |

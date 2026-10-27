@@ -2,6 +2,8 @@
 
 [← back to Apollo GraphQL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast an enterprise-wide GraphQL gateway (single graph, schema stitching/federation) with each team owning REST APIs plus a thin aggregation BFF. Where does one graph reduce client friction, and where does it centralize ownership pain and coupling you'll regret? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Apollo GraphQL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-an-enterprise-wide-graphql-gateway-single-graph-schema-stitch-40744) |

@@ -2,6 +2,8 @@
 
 [← back to Gameskraft](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your leaderboard must be highly available and roughly right during partitions but exact at settlement time (e.g., prize payout). Design the two-mode system: AP live view + CP reconciliation, and how they hand off. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Gameskraft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-leaderboard-must-be-highly-available-and-roughly-right-during-par-25730) |

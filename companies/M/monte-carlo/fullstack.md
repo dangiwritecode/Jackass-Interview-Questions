@@ -2,6 +2,8 @@
 
 [← back to Monte Carlo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect observability for a data platform where 'is it working' means data freshness, completeness, and correctness — not request latency? Design the SLIs, the reconciliation checks, and how you alert 'the data is wrong' when the pipeline reports success. | expertise | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Monte Carlo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-observability-for-a-data-platform-where-is-it-wor-39785) |

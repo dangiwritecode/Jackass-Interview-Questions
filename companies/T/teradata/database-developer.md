@@ -2,6 +2,8 @@
 
 [← back to Teradata](README.md)
 
+Questions 1–85 of 85.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As principal, how do you build a migration off a vendor OLAP appliance (Teradata/Exadata) to open-format lakehouse without a multi-year stall, and how do you keep OLTP feeds stable through it? | expertise | SDE-2/3, Architect/Principal | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Teradata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-principal-how-do-you-build-a-migration-off-a-vendor-olap-appliance--113519) |

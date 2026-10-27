@@ -2,6 +2,8 @@
 
 [← back to JioCinema](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Write a query to compute the average rating per movie and only show movies with at least 50 ratings. | intermediate experience | Fresher, SDE-1, SDE-1/2 | Aggregate Functions | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at JioCinema | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-query-to-compute-the-average-rating-per-movie-and-only-show-mo-105811) |

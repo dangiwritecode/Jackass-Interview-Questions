@@ -2,6 +2,8 @@
 
 [← back to Riskified](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you explain why an LLM is a poor fit for a hard real-time low-latency decision (fraud block at checkout), and what pattern you'd use instead? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Riskified | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-why-an-llm-is-a-poor-fit-for-a-hard-real-time-lo-77984) |

@@ -2,6 +2,8 @@
 
 [← back to Splunk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A staff engineer wants every service to write to a single global strongly-consistent audit database synchronously. Evaluate the latency/coupling this imposes on all writers, and propose an architecture that gives tamper-evident auditability without serializing all writes through one consensus group. | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Splunk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-staff-engineer-wants-every-service-to-write-to-a-single-global-stron-112229) |

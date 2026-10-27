@@ -2,6 +2,8 @@
 
 [← back to ConfigCat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle feature flags in an air-gapped or on-prem deployment where you can't reach a SaaS flag vendor — what self-hosted approach keeps ramp control and kill switches? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ConfigCat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-feature-flags-in-an-air-gapped-or-on-prem-deployment-47412) |

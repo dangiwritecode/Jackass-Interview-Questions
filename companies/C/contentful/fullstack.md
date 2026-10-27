@@ -2,6 +2,8 @@
 
 [← back to Contentful](README.md)
 
+Questions 1–107 of 107.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the gateway to be the seam for gradual UI/API decoupling as your org moves from server-rendered pages to a headless architecture; what does the gateway own during the multi-year transition and how do you avoid a permanent BFF sprawl? | deep understanding | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Contentful | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-gateway-to-be-the-seam-for-gradual-ui-api-dec-34570) |

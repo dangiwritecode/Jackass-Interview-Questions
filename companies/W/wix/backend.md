@@ -2,6 +2,8 @@
 
 [← back to Wix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Kafka consumer group's per-partition processing is O(n) but you added an in-loop synchronous DB write; how do you reframe the throughput ceiling as a complexity-plus-round-trip problem and batch it? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Wix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-kafka-consumer-group-s-per-partition-processing-is-o-n-but-you-added-22032) |

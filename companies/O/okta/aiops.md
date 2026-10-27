@@ -2,6 +2,8 @@
 
 [← back to Okta](README.md)
 
+Questions 1–72 of 72.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast a centralized identity/authorization model for the AIOps platform (one IdP, central RBAC over dashboards/runbooks/remediation) with a federated per-domain model. Where does centralization become a single point of failure and a velocity tax during incidents? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Okta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-a-centralized-identity-authorization-model-for-the-aiops-plat-99810) |

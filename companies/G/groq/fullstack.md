@@ -2,6 +2,8 @@
 
 [← back to Groq](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a Strategy-selection layer for choosing among multiple LLM providers at request time based on cost, latency, and quality, so a provider outage degrades gracefully and per-request routing stays observable and reproducible? | expertise | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Groq | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-strategy-selection-layer-for-choosing-among-mul-38455) |

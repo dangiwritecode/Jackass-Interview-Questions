@@ -2,6 +2,8 @@
 
 [← back to Aqua](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vulnerability scanner flags 300 CVEs in your alpine image and the team wants zero. How do you triage which matter, and would switching to a minimal/distroless base actually help? | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Aqua | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vulnerability-scanner-flags-300-cves-in-your-alpine-image-and-the-te-19490) |

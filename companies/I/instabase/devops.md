@@ -2,6 +2,8 @@
 
 [← back to Instabase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Python service is CPU-bound and the GIL caps throughput. How do you profile to confirm it's GIL contention vs I/O wait, and weigh multiprocessing, async, or a C extension for the hot path in a containerized deploy? | deep understanding | SDE-1/2, SDE-2/3 | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at Instabase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-python-service-is-cpu-bound-and-the-gil-caps-throughput-how-do-you-p-47096) |

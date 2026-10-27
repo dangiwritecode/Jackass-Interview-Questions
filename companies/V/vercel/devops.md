@@ -2,6 +2,8 @@
 
 [← back to Vercel](README.md)
 
+Questions 1–119 of 119.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you'd design SLOs so they remain valid across a multi-year migration from EC2 VMs to Kubernetes to serverless — how do you keep one continuous reliability narrative as the substrate changes three times? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Vercel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-d-design-slos-so-they-remain-valid-across-a--54129) |

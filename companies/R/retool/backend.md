@@ -2,6 +2,8 @@
 
 [← back to Retool](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A resource is owned by an org, but individual users have per-resource overrides AND there are org-wide default policies. Design the precedence resolution (user override > resource ACL > org default) and how you make it debuggable. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Retool | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-resource-is-owned-by-an-org-but-individual-users-have-per-resource-o-26205) |

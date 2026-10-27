@@ -2,6 +2,8 @@
 
 [← back to Magic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Long-context frontier models can now hold whole corpora. Construct the principled decision boundary between RAG and pure long-context prompting for the org, and explain how you'd continuously re-evaluate that boundary as context windows and prices move. | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Magic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=long-context-frontier-models-can-now-hold-whole-corpora-construct-the--68892) |

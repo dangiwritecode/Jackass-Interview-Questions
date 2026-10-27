@@ -2,6 +2,8 @@
 
 [← back to Lyft](README.md)
 
+Questions 1–138 of 138.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A DynamoDB table's GSI is throttling on writes while the base table is fine. Explain how GSI write capacity and projection choices cause this and how you'd redesign the index. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Lyft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dynamodb-table-s-gsi-is-throttling-on-writes-while-the-base-table-is-25786) |

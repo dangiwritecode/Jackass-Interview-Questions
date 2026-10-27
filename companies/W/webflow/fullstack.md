@@ -2,6 +2,8 @@
 
 [← back to Webflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants to add JSON-LD/structured-data injected from user input for SEO. Explain how JSON-LD in a script tag becomes an XSS vector via </script> breakout and how it differs from encoding for HTML body, and design the safe serialization. | deep understanding | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Webflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-to-add-json-ld-structured-data-injected-from-user-input-f-38980) |

@@ -2,6 +2,8 @@
 
 [← back to Cloudera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design observability for a Kafka/streaming-data backbone where lag, consumer-group rebalances, and partition skew are the real SLIs. What metrics and traces do you standardize so a data-pipeline incident is diagnosable, and how do you SLO an async pipeline? | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Cloudera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-observability-for-a-kafka-streaming-data-backbone-where-lag-con-99068) |

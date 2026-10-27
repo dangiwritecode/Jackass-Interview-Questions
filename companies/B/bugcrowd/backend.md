@@ -2,6 +2,8 @@
 
 [← back to Bugcrowd](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probe on your postmortem culture: 'every CAP incident so far has been a surprise. What structural change makes the NEXT partition a non-event?' Answer with the specific pre-provisioned architecture, runbooks, and rehearsed behaviors you'd institutionalize. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Security companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probe-on-your-postmortem-culture-every-cap-incident-so-fa-32306) |

@@ -2,6 +2,8 @@
 
 [← back to Cashfree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A COUNT(DISTINCT user_id) over a huge table is slow — how do you decide between a precomputed rollup, an approximate approach, and a covering index? | deep understanding | SDE-1, SDE-1/2 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Cashfree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-count-distinct-user-id-over-a-huge-table-is-slow-how-do-you-decide-b-107085) |

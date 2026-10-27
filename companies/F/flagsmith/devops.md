@@ -2,6 +2,8 @@
 
 [← back to Flagsmith](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the debt of a shared feature-flag / config service that has thousands of stale flags across every deploy that nobody dares remove because the blast radius is unknown? Design the cleanup and the guardrails so it doesn't re-accumulate. | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Flagsmith | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-debt-of-a-shared-feature-flag-config-service-tha-54414) |

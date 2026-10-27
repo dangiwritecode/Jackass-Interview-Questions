@@ -2,6 +2,8 @@
 
 [← back to Argilla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would build a feedback-collection loop that turns user thumbs-up thumbs-down signals into training or eval data for an LLM feature. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Argilla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-build-a-feedback-collection-loop-that-turns-use-79533) |

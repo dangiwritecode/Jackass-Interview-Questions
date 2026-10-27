@@ -2,6 +2,8 @@
 
 [← back to CloudZero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a FinOps discipline where every team gets real-time GenAI cost visibility and forecasting, and the platform can auto-throttle or downgrade runaway spend. Where's the line between automation and causing an outage? | deep understanding | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at CloudZero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-finops-discipline-where-every-team-gets-real-time-genai-cost--69435) |

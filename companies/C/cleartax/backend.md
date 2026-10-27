@@ -2,6 +2,8 @@
 
 [← back to ClearTax](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a service that assigns strictly-monotonic per-tenant sequence numbers (invoice numbers) at high throughput — how do you avoid gaps guarantee no duplicates and not serialize on a single row? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ClearTax | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-service-that-assigns-strictly-monotonic-per-tenant-sequence-n-28390) |

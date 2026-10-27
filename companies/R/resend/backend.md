@@ -2,6 +2,8 @@
 
 [← back to Resend](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a 'send_email' tool that an agent uses, and what confirmation/rate-limit safeguards would you add? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Resend | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-send-email-tool-that-an-agent-uses-and-what-con-7575) |

@@ -2,6 +2,8 @@
 
 [← back to Cohesity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Reliability-pillar finding says you lack tested backups, but restore tests would cost significant engineer time. How do you justify the investment with WAF language? | deep understanding | SDE-2/3, Architect/Principal | Well-Architected Framework | Phone Screen, Onsite | Tech | Asked at Cohesity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-reliability-pillar-finding-says-you-lack-tested-backups-but-restore--56175) |

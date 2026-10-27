@@ -2,6 +2,8 @@
 
 [← back to StrongDM](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a break-glass and privileged-access model for production data stores holding PII/PAN in a data platform — grant emergency access under incident pressure while every query is recorded time-boxed and auto-reviewed to satisfy PCI Requirement 7 and 10? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at StrongDM | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-break-glass-and-privileged-access-model-for-pro-126100) |

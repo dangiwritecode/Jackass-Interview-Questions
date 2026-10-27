@@ -2,6 +2,8 @@
 
 [← back to Checkly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect continuous verification of your degradation and failover paths (synthetic canaries exercising every fallback branch) as a first-class, always-on part of the platform, so a broken failover is caught in CI rather than during a real region loss? | deep understanding | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Checkly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-continuous-verification-of-your-degradation-an-52049) |

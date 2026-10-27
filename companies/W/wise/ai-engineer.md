@@ -2,6 +2,8 @@
 
 [← back to Wise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Present the decision framework for when agentic non-determinism is worth its operational tax versus a deterministic workflow with a few LLM steps. Where on that spectrum do payments, support, and internal analytics land, and why? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Wise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=present-the-decision-framework-for-when-agentic-non-determinism-is-wor-83039) |

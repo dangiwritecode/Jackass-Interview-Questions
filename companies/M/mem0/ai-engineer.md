@@ -2,6 +2,8 @@
 
 [← back to Mem0](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As principal you must decide whether the agent's episodic memory is compacted (summarized then re-embedded) over time to control index growth. What's lost when you compact memory into summary vectors, and how do you make the trade-off tunable per agent? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Mem0 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-principal-you-must-decide-whether-the-agent-s-episodic-memory-is-co-82485) |

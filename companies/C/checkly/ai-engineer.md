@@ -2,6 +2,8 @@
 
 [← back to Checkly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set up synthetic/black-box monitoring for an LLM endpoint — sending a known prompt and asserting the response contains an expected fact or passes a checker — and why can this catch a broken deployment your white-box latency metrics call healthy? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Checkly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-synthetic-black-box-monitoring-for-an-llm-endpoin-78843) |

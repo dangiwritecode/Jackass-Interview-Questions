@@ -2,6 +2,8 @@
 
 [← back to Scalr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you elicit a scenario testing whether a Terraform state-lock or plan-apply bottleneck limits how many teams can deploy concurrently? What sensitivity points around state backend, module blast radius, and pipeline serialization does it expose? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Scalr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-elicit-a-scenario-testing-whether-a-terraform-state-lock-or-53273) |

@@ -2,6 +2,8 @@
 
 [← back to Deutsche Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator invokes GDPR Article 17 right-to-erasure but the record is in immutable append-only ledgers and 90-day backups — design a crypto-shredding scheme that satisfies erasure without rewriting immutable stores. | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Deutsche Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-invokes-gdpr-article-17-right-to-erasure-but-the-record-is-115245) |

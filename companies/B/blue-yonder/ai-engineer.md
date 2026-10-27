@@ -2,6 +2,8 @@
 
 [← back to Blue Yonder](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a time-series forecasting platform serving millions of SKUs that shares statistical strength across series while staying explainable to planners? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Blue Yonder | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-time-series-forecasting-platform-serving-mil-84398) |

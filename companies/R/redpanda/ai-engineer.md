@@ -2,6 +2,8 @@
 
 [← back to Redpanda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a dead-letter and replay path for failed summarization jobs so on-call can re-drive them after an outage without redoing already-completed work. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | Asked at Redpanda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-dead-letter-and-replay-path-for-failed-summarization-jobs-so--78464) |

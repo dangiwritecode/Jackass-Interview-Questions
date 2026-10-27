@@ -2,6 +2,8 @@
 
 [← back to Bitly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Alternating-Direction Level Traversal of a Binary Tree | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Breadth-First Search, Level-Order Traversal, Queue, Tree | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Commonly asked at Tier 3 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=alternating-direction-level-traversal-of-a-binary-tree-d103) |

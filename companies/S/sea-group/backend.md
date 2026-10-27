@@ -2,6 +2,8 @@
 
 [← back to Sea Group](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're designing for a product with wildly uneven regional traffic (80% APAC, 20% rest). How does that skew your region placement, replication direction, and cost model versus a balanced-traffic product? | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Sea Group | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-for-a-product-with-wildly-uneven-regional-traffic-80--36693) |

@@ -2,6 +2,8 @@
 
 [← back to Portkey](README.md)
 
+Questions 1–126 of 126.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A caller wants deterministic outputs for testing, so they pin temperature 0 and a seed, but your gateway load-balances across providers with different determinism. How do you expose reproducibility in the REST contract honestly? | deep understanding | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Portkey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-caller-wants-deterministic-outputs-for-testing-so-they-pin-temperatu-77169) |

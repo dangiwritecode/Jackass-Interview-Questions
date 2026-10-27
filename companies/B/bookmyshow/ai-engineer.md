@@ -2,6 +2,8 @@
 
 [← back to BookMyShow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you throughput-plan for a bursty workload with a 20x daily peak-to-trough ratio without over-provisioning reserved GPU capacity? | expertise | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | Asked at BookMyShow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-throughput-plan-for-a-bursty-workload-with-a-20x-daily-peak-86350) |

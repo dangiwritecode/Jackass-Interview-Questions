@@ -2,6 +2,8 @@
 
 [← back to Cribl](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your anomaly-detection system pages on-call every time a legitimate batch job spikes spend, and misses a slow $200K/month leak from orphaned resources. Redesign the detection strategy to catch real waste while suppressing expected variance. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Cribl | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-anomaly-detection-system-pages-on-call-every-time-a-legitimate-ba-37022) |

@@ -2,6 +2,8 @@
 
 [← back to PagerDuty](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design incident classification and disclosure playbooks specifically for AI incidents, distinct from generic security/outage incidents? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at PagerDuty | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-incident-classification-and-disclosure-playbooks-spe-71738) |

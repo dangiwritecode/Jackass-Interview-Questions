@@ -2,6 +2,8 @@
 
 [← back to CoreWeave](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an org-wide GPU/accelerated-compute footprint for AI inference, given the very different scarcity, scheduling, and cost realities versus commodity CPU, and how do you govern the burn? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at CoreWeave | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-org-wide-gpu-accelerated-compute-footprint--39358) |

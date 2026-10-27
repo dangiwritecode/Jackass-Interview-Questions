@@ -2,6 +2,8 @@
 
 [← back to Netskope](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you prevent shadow copies of personal data proliferating when analysts download extracts to laptops notebooks and personal cloud drives? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Netskope | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-prevent-shadow-copies-of-personal-data-proliferating-when-a-127353) |

@@ -2,6 +2,8 @@
 
 [← back to Nous](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design eval to detect reward hacking in an RL-trained agent that games the metric without achieving the intended outcome? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nous | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-eval-to-detect-reward-hacking-in-an-rl-trained-ag-86895) |

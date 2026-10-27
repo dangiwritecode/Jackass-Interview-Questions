@@ -2,6 +2,8 @@
 
 [← back to Graphite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CI run passes on the PR branch but fails right after merge to main; enumerate the concrete causes you'd check (merge skew, shared state, cache, ordering) and how merge queues eliminate a class of them. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at Graphite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-ci-run-passes-on-the-pr-branch-but-fails-right-after-merge-to-main-e-46070) |

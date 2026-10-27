@@ -2,6 +2,8 @@
 
 [← back to Dailyhunt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a counter (likes, views) that scales to very high write rates while staying reasonably accurate? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Dailyhunt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-counter-likes-views-that-scales-to-very-high-wr-13128) |

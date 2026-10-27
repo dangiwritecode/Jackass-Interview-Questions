@@ -2,6 +2,8 @@
 
 [← back to Nuance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you assess and govern the risk of automation bias — humans over-trusting model outputs — as part of your model risk program? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Nuance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-assess-and-govern-the-risk-of-automation-bias-humans-over-t-71854) |

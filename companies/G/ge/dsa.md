@@ -2,6 +2,8 @@
 
 [← back to GE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Shortest Subarray Preserving the Peak Frequency | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Counting, First/Last Occurrence Tracking, Hash Table | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at GE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-subarray-preserving-the-peak-frequency-d682) |

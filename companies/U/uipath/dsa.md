@@ -2,6 +2,8 @@
 
 [← back to UiPath](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Encode a Positive Integer as a Roman Numeral | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Hash Table, Math, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at UiPath | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=encode-a-positive-integer-as-a-roman-numeral-d12) |

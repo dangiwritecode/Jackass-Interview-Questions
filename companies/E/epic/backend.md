@@ -2,6 +2,8 @@
 
 [← back to Epic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A synchronous `.Result` call sits deep in a request path and occasionally deadlocks only in the ASP.NET Framework (not Core) app. Walk me through why the SynchronizationContext difference makes Core immune but not Framework. | deep understanding | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Epic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-synchronous-result-call-sits-deep-in-a-request-path-and-occasionally-23133) |

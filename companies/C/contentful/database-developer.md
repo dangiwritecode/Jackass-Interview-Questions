@@ -2,6 +2,8 @@
 
 [← back to Contentful](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd model a geo-distributed document store where documents have a home region but embedded references point to documents in other regions. Do you denormalize, replicate referenced docs, or resolve cross-region at read time? Trace consistency for each. | deep understanding | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Contentful | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-a-geo-distributed-document-store-where-documen-112835) |

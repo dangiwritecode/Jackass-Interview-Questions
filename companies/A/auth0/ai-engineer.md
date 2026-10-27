@@ -2,6 +2,8 @@
 
 [← back to Auth0](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An agent can call any of your 40 REST tool endpoints. How do you enforce that a given user's agent session is only authorized to call the subset of tools and data its permissions allow? | deep understanding | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Auth0 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-agent-can-call-any-of-your-40-rest-tool-endpoints-how-do-you-enforc-77094) |

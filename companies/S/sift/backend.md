@@ -2,6 +2,8 @@
 
 [← back to Sift](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your payments team wants to build an in-house fraud engine instead of buying Sift/Signifyd. How do you weigh proprietary data advantage against time-to-market and regulatory model-explainability? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Sift | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-payments-team-wants-to-build-an-in-house-fraud-engine-instead-of--36937) |

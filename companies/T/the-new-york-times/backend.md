@@ -2,6 +2,8 @@
 
 [← back to The New York Times](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how conditional requests (If-None-Match) flow through a CDN to your origin during revalidation, and how you'd make your origin cheaply answer 304s without fully rendering the resource. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at The New York Times | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-conditional-requests-if-none-match-flow-through-a-cdn-to-y-29680) |

@@ -2,6 +2,8 @@
 
 [← back to Checkly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd use canary queries with known-good answers as synthetic monitors for retrieval drift in production. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Checkly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-use-canary-queries-with-known-good-answers-as-synthe-97861) |

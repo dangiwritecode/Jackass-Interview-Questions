@@ -2,6 +2,8 @@
 
 [← back to Stack Overflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an org-wide 'ground-truth harvesting' loop where verified expert answers (from support agents, analysts) are captured and promoted into the corpus as authoritative, closing the gap between what humans know and what RAG retrieves? | deep understanding | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Stack Overflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-org-wide-ground-truth-harvesting-loop-where-82981) |

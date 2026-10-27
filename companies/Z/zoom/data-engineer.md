@@ -2,6 +2,8 @@
 
 [← back to Zoom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you compute concurrency (max simultaneous active sessions) from start/end events using a +1/-1 unpivot and a running SUM window? | deep understanding | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Zoom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compute-concurrency-max-simultaneous-active-sessions-fro-123202) |

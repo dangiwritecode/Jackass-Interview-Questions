@@ -2,6 +2,8 @@
 
 [← back to InMobi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance over third-party data sharing and clean rooms — as data leaves your platform to partners or ad-networks how do you enforce and prove consent purpose-limitation and exactly what was shared with whom under what lawful basis? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at InMobi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-over-third-party-data-sharing-and-clea-126062) |

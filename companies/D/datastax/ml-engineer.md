@@ -2,6 +2,8 @@
 
 [← back to DataStax](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to reconcile two large sorted change logs of feature updates from independent replicas with minimal data transfer; how does Merkle-tree range comparison reduce bytes over shipping full logs? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at DataStax | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-reconcile-two-large-sorted-change-logs-of-feature-updates--62578) |

@@ -2,6 +2,8 @@
 
 [← back to Netskope](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you govern a policy on employee use of external LLMs so pasting confidential code or documents into consumer chatbots is prevented and monitored? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Netskope | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-a-policy-on-employee-use-of-external-llms-so-past-86822) |

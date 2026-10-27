@@ -2,6 +2,8 @@
 
 [← back to Juspay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an idempotency/dedup store that must itself survive partitions, and explain why making IT the AP component while the ledger is CP creates a subtle window where a retry during a partition can still double-apply — and how you close it. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Juspay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-idempotency-dedup-store-that-must-itself-survi-111583) |

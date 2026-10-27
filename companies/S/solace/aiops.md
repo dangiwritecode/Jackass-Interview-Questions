@@ -2,6 +2,8 @@
 
 [← back to Solace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design topology to remain useful in a heavily event-driven, queue-mediated architecture where there are almost no synchronous edges — what becomes your primary dependency signal? | deep understanding | SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | Asked at Solace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-topology-to-remain-useful-in-a-heavily-event-driven--102085) |

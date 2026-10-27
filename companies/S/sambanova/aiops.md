@@ -2,6 +2,8 @@
 
 [← back to SambaNova](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a tiered KV-cache architecture (GPU HBM to host RAM to NVMe to remote) so the platform can serve very long contexts at scale without every replica hoarding memory. Where does the tiering's transfer cost outweigh the memory savings and force you to just shard differently? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at SambaNova | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-tiered-kv-cache-architecture-gpu-hbm-to-host-ram-to-nvme-to-r-100644) |

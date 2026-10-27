@@ -2,6 +2,8 @@
 
 [← back to SailPoint](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An exec wants 'AI-powered auto-grant' where an LLM approves access requests. Assess the governance risk and design guardrails so the model can recommend but never unilaterally grant sensitive access. | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at SailPoint | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-exec-wants-ai-powered-auto-grant-where-an-llm-approves-access-reque-126664) |

@@ -2,6 +2,8 @@
 
 [← back to Genesys](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Set SLO strategy for a customer-facing agent that composes 3-8 tool calls: define user-perceivable SLIs, allocate an error budget across model, tools, and state layers, and specify what trips a freeze. How do you keep the model's non-determinism inside a defensible SLA? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Genesys | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=set-slo-strategy-for-a-customer-facing-agent-that-composes-3-8-tool-ca-83071) |

@@ -2,6 +2,8 @@
 
 [← back to Expedia Group](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A staff engineer wants GraphQL federation as the universal integration layer across 15+ subgraphs. Where do you agree, where do you push back on N+1 fan-out, subgraph-ownership, and operational risk, and what conditions would make you approve it? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Expedia Group | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-staff-engineer-wants-graphql-federation-as-the-universal-integration-51981) |

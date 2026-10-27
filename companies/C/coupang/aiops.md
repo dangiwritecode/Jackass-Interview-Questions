@@ -2,6 +2,8 @@
 
 [← back to Coupang](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the platform lets a single logical feature scale from one team to five hundred consumers without the definition owner becoming a human bottleneck for every schema question. What self-serve discovery, contract, and impact-analysis machinery replaces the owner in the loop? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Coupang | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-platform-lets-a-single-logical-feature-scale-from-one-t-100649) |

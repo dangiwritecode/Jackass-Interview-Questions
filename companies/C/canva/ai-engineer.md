@@ -2,6 +2,8 @@
 
 [← back to Canva](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A scenario tests whether you can roll out a new system prompt to 5% of traffic and auto-rollback on a live groundedness or refusal-rate regression without a coordinated redeploy. How does ATAM surface progressive-rollout and shadow-eval capability as a modifiability sensitivity point? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Canva | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-tests-whether-you-can-roll-out-a-new-system-prompt-to-5-of--83560) |

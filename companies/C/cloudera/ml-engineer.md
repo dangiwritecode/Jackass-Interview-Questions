@@ -2,6 +2,8 @@
 
 [← back to Cloudera](README.md)
 
+Questions 1–64 of 64.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the storage and data architecture for petabyte-scale SFT and preference corpora with fast, governed, filtered access for training jobs? | deep understanding | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Cloudera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-storage-and-data-architecture-for-petabyte-sc-71299) |

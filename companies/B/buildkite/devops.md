@@ -2,6 +2,8 @@
 
 [← back to Buildkite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd right-size the reliability of an internal developer platform whose own downtime blocks every team from deploying — should the deploy/CI plane be more available than the services it ships, and how do you argue that priority against the CFO? | deep understanding | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Buildkite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-right-size-the-reliability-of-an-interna-52043) |

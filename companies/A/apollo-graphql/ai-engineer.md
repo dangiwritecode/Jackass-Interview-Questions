@@ -2,6 +2,8 @@
 
 [← back to Apollo GraphQL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design capability negotiation and version-compatibility for an internal MCP-based tool ecosystem where dozens of teams publish and consume tool servers on independent release cadences. How do you avoid a coordinated-deploy nightmare when a tool's schema evolves? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Apollo GraphQL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-capability-negotiation-and-version-compatibility-for-an-interna-83089) |

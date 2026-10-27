@@ -2,6 +2,8 @@
 
 [← back to Linear](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org has 200 prompts scattered across repos with no versioning. Design the prompt-lifecycle governance (authoring, review, eval-gating, staged rollout, rollback, deprecation) you'd impose as a platform standard. | expertise | SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Linear | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-has-200-prompts-scattered-across-repos-with-no-versioning-des-68781) |

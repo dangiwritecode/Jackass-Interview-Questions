@@ -2,6 +2,8 @@
 
 [← back to WordPress](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain surrogate keys (cache tags). How would you attach them at the origin so that editing one blog author purges every article by that author across the edge? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at WordPress | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-surrogate-keys-cache-tags-how-would-you-attach-them-at-the-ori-20820) |

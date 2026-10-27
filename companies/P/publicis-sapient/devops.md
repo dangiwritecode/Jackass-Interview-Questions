@@ -2,6 +2,8 @@
 
 [← back to Publicis Sapient](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you check the exit code of a shell command run from Python and act differently on success versus failure? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Publicis Sapient | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-check-the-exit-code-of-a-shell-command-run-from-python-a-41822) |

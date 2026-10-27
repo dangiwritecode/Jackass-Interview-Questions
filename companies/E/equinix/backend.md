@@ -2,6 +2,8 @@
 
 [← back to Equinix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to define the correlated-failure-domain model for the whole platform. How do CAP choices interact with failure-domain design so that a single AZ/region/cable event doesn't force every service into its bad-CAP-branch simultaneously? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Equinix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-define-the-correlated-failure-domain-model-for-the-who-32226) |

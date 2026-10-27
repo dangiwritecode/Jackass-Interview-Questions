@@ -2,6 +2,8 @@
 
 [← back to ICICI-Bank](README.md)
 
+Questions 1–64 of 64.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator audit asks you to prove that no report ever showed inconsistent financial state to a user. How do you use isolation-level guarantees plus evidence to make that claim credibly? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at ICICI-Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-audit-asks-you-to-prove-that-no-report-ever-showed-inconsi-113740) |

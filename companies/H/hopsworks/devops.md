@@ -2,6 +2,8 @@
 
 [← back to Hopsworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern data that flows into a real-time streaming ML feature store — where the same event is simultaneously a training signal a serving feature and a regulated personal record — how do you apply consent retention and erasure at streaming velocity? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Hopsworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-data-that-flows-into-a-real-time--54093) |

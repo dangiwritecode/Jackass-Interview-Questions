@@ -2,6 +2,8 @@
 
 [← back to JFrog](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A build passes locally but fails in CI with 'dubious ownership' and missing-tag errors. Explain how CI's root-owned, shallow, detached-HEAD checkout causes each error and the specific fix for each. | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at JFrog | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-build-passes-locally-but-fails-in-ci-with-dubious-ownership-and-miss-26607) |

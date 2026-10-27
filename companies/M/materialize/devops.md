@@ -2,6 +2,8 @@
 
 [← back to Materialize](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach capacity planning for a data-pipeline SLA measured in freshness (data must be no older than X minutes) rather than latency? How does a freshness SLA change how you size stream vs batch and where you spend to keep the pipeline warm? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Materialize | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-capacity-planning-for-a-data-pipeline-sla-measured-52980) |

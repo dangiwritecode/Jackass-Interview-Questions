@@ -2,6 +2,8 @@
 
 [← back to ThoughtSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reconcile the SPACE framework and DORA metrics with the DevEx (Developer Experience) framework of feedback loops cognitive load and flow state at org scale? | expertise | SDE-2/3, Architect/Principal | Developer Experience (DevEx) Strategy | Onsite, Hiring Manager | Tech | Asked at ThoughtSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reconcile-the-space-framework-and-dora-metrics-with-the-dev-56330) |

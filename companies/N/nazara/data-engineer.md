@@ -2,6 +2,8 @@
 
 [← back to Nazara](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why might a gaming company keep 'live match state' in OLTP but 'player retention trends' in OLAP? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Nazara | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-a-gaming-company-keep-live-match-state-in-oltp-but-player-re-118856) |

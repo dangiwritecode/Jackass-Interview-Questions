@@ -2,6 +2,8 @@
 
 [← back to Aetna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a landing zone for a regulated enterprise adopting GCP. Walk through folder taxonomy, org policy constraints, VPC-SC perimeters, and the guardrails you'd make non-negotiable versus advisory. | expertise | SDE-2/3, Architect/Principal | GCP | Phone Screen, Onsite | Tech | Asked at Aetna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-landing-zone-for-a-regulated-enterprise-adopting-gcp-walk-thr-54625) |

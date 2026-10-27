@@ -2,6 +2,8 @@
 
 [← back to Clastix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding the org's stance on running a control-plane-as-a-service (Hosted Control Planes / Kamaji) to run many lightweight per-team GenAI tenant clusters cheaply. Walk through the trade-offs versus full clusters for GPU-workload isolation, and the failure isolation you gain or lose for the model-serving tenants. | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Clastix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-the-org-s-stance-on-running-a-control-plane-as-a-servi-82627) |

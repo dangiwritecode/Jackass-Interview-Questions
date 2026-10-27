@@ -2,6 +2,8 @@
 
 [← back to incident.io](README.md)
 
+Questions 1–107 of 107.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the AIOps platform detects and quantifies alert fatigue org-wide (page volume per engineer, ack times, night pages, ignored-alert ratio) and turns that into an actionable pressure to fix noisy alerts — without gaming where teams just silence everything. | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at incident.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-aiops-platform-detects-and-quantifies-alert-fatigue-org-99107) |

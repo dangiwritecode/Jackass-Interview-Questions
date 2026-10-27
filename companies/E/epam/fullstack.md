@@ -2,6 +2,8 @@
 
 [← back to Epam](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how `async` and `await` work in C#. What does `await` actually do under the hood? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Epam | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-async-and-await-work-in-c-what-does-await-actually-do-unde-1751) |

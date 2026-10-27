@@ -2,6 +2,8 @@
 
 [← back to TanStack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding whether frontend data fetching should standardize on a Repository-like query client (React Query/SWR) as the org pattern versus per-team hooks. What governance and bundle-size trade-offs drive standardizing a client-side data pattern? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at TanStack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-frontend-data-fetching-should-standardize-on-a-38464) |

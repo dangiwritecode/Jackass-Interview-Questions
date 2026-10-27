@@ -2,6 +2,8 @@
 
 [← back to Northflank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through threat-modeling a design where you expose a customer-facing 'run my code' or webhook-transform feature. Untrusted code executes in your infra. Compare gVisor, Firecracker microVMs, and Wasm for the isolation architecture. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Northflank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-threat-modeling-a-design-where-you-expose-a-customer-f-41303) |

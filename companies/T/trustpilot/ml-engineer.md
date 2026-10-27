@@ -2,6 +2,8 @@
 
 [← back to Trustpilot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you detect and mitigate a scenario where a spam/bot cohort is poisoning your collaborative filtering signal? | deep understanding | SDE-1/2, SDE-2/3 | Recommendation Systems | Phone Screen, Onsite | Tech | Asked at Trustpilot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-and-mitigate-a-scenario-where-a-spam-bot-cohort-i-66506) |

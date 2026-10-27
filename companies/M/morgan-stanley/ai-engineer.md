@@ -2,6 +2,8 @@
 
 [← back to Morgan Stanley](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would treat non-determinism (variable outputs at temperature > 0) as a first-class quality attribute in the utility tree, and give a scenario whose failure reveals the architecture has no design for bounding output variance across identical requests. | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Morgan Stanley | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-treat-non-determinism-variable-outputs-at-temper-83540) |

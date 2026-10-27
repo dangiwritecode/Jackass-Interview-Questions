@@ -2,6 +2,8 @@
 
 [← back to Apple](README.md)
 
+Questions 1–65 of 65.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A GDPR right-to-erasure request requires deleting a field's data across a table that's mid-migration to a new encrypted column. How do you reconcile the two workflows? | deep understanding | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at Apple | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-gdpr-right-to-erasure-request-requires-deleting-a-field-s-data-acros-114260) |

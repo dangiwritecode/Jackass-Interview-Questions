@@ -2,6 +2,8 @@
 
 [← back to YugabyteDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a self-healing data platform where remediation must never risk data loss or split-brain in stateful stores, and where you draw the automation line? | expertise | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at YugabyteDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-self-healing-data-platform-where-remediation-mu-101561) |

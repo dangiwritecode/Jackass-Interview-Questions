@@ -2,6 +2,8 @@
 
 [← back to Bank of America](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect Vault to serve both cloud-native microservices and legacy mainframe/COBOL systems that can't speak the Vault API natively? What's the bridge, and where do you accept static-with-rotation compromises? | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Bank of America | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-vault-to-serve-both-cloud-native-microservices-55011) |

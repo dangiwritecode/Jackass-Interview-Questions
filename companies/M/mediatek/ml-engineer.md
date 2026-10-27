@@ -2,6 +2,8 @@
 
 [← back to MediaTek](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set a strategy for edge/on-device accelerator inference (NPUs, mobile GPUs) versus centralized GPU serving, and how does that split reshape your model and cost architecture? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at MediaTek | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-a-strategy-for-edge-on-device-accelerator-inference-npu-71152) |

@@ -2,6 +2,8 @@
 
 [← back to Commvault](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you keep backups themselves resilient against ransomware and insider threats, and what does a defensible immutable-backup and 3-2-1-1-0 strategy look like at enterprise scale? | expertise | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | Asked at Commvault | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-backups-themselves-resilient-against-ransomware-and-in-56950) |

@@ -2,6 +2,8 @@
 
 [← back to BlackRock](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Locate the Repeated Label in a Bounded Sequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Bit Manipulation, Floyd's Cycle Detection, Linked List (implicit), Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at BlackRock | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=locate-the-repeated-label-in-a-bounded-sequence-d287) |

@@ -2,6 +2,8 @@
 
 [← back to 23andMe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A DP-based sequence-alignment feature (edit distance over long sequences) blows up memory; how does Hirschberg's divide-and-conquer reduce space to O(min(n,m)) and what does it cost in time? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at 23andMe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dp-based-sequence-alignment-feature-edit-distance-over-long-sequence-62566) |

@@ -2,6 +2,8 @@
 
 [← back to Honeywell](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect eval for an assistant embedded in a safety-critical workflow (medical triage, industrial control) where a single missed failure is catastrophic? What changes versus a consumer chatbot? | expertise | SDE-2/3, Architect/Principal | Evaluation Frameworks (LLM-as-Judge) | Phone Screen, Onsite | Tech | Asked at Honeywell | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-eval-for-an-assistant-embedded-in-a-safety-cri-85524) |

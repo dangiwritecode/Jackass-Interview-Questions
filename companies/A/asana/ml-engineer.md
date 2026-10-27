@@ -2,6 +2,8 @@
 
 [← back to Asana](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a prefix-cache sharing architecture across a multi-tenant fleet where tenants must be isolated for privacy but you still want cross-request KV reuse within a tenant. | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at Asana | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-prefix-cache-sharing-architecture-across-a-multi-tenant-fleet-71178) |

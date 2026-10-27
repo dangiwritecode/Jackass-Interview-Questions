@@ -2,6 +2,8 @@
 
 [← back to DataStax](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does a vector database's managed cloud service handle scaling as your embedding count grows from thousands to millions? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at DataStax | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-a-vector-database-s-managed-cloud-service-handle-scaling-as-y-76548) |

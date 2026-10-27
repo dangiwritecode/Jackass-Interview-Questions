@@ -2,6 +2,8 @@
 
 [← back to Sonyflake](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a globally-unique, roughly-ordered ID service. Compare a CP ticket-server (ZK/etcd) vs an AP Snowflake-style scheme and explain what each gives up in the CAP trade and under what failure IDs can collide or reorder. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Sonyflake | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-globally-unique-roughly-ordered-id-service-compare-a-cp-ticke-25680) |

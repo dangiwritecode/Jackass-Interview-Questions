@@ -2,6 +2,8 @@
 
 [← back to Paycom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Detect a Repeated Value in a List | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Set, Hash Table, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Paycom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=detect-a-repeated-value-in-a-list-d217) |

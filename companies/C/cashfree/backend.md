@@ -2,6 +2,8 @@
 
 [← back to Cashfree](README.md)
 
+Questions 1–111 of 111.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Command handler is not idempotent, so a client retry after a timeout double-charged a customer. Where do you store the idempotency key and cached result, how long do you keep it, and how do you handle concurrent retries hitting simultaneously? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Cashfree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-command-handler-is-not-idempotent-so-a-client-retry-after-a-timeout--22450) |

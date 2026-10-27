@@ -2,6 +2,8 @@
 
 [← back to Drata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design continuous evidence generation so SOC2 controls over the observability estate — encryption on the log store MFA on dashboards access reviews on alerting integrations — emit machine-verifiable proof continuously rather than a manual quarterly evidence scramble. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Drata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-continuous-evidence-generation-so-soc2-controls-over-the-observ-100259) |

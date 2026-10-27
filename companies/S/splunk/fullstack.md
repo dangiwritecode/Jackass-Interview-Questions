@@ -2,6 +2,8 @@
 
 [← back to Splunk](README.md)
 
+Questions 1–76 of 76.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A JSON-processing shell pipeline that works on small inputs hangs on large logs. How would you reason about buffering (line vs block), broken pipes with head, and SIGPIPE to fix it? | deep understanding | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Splunk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-json-processing-shell-pipeline-that-works-on-small-inputs-hangs-on-l-19332) |

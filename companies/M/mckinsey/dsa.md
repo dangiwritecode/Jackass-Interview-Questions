@@ -2,6 +2,8 @@
 
 [← back to McKinsey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Fewest Fills to Join Two Solid Regions | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Flood Fill, Grid, Matrix, Multi-source BFS, Shortest Path | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at McKinsey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-fills-to-join-two-solid-regions-d919) |

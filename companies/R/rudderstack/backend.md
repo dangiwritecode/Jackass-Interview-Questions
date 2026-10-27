@@ -2,6 +2,8 @@
 
 [← back to RudderStack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must dedupe an at-least-once event stream over a 24h window with strict memory; compare a rotating set of Bloom filters versus a cuckoo filter for supporting deletes and bounding false positives. | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at RudderStack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-dedupe-an-at-least-once-event-stream-over-a-24h-window-with-s-21955) |

@@ -2,6 +2,8 @@
 
 [← back to CometML](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set up experiment tracking so that two engineers tuning the same XGBoost pipeline don't overwrite each other's runs or draw misleading conclusions? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at CometML | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-experiment-tracking-so-that-two-engineers-tuning--65875) |

@@ -2,6 +2,8 @@
 
 [← back to MapmyIndia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your Dijkstra on a road network is too slow for interactive routing; what preprocessing like contraction hierarchies or A* landmarks would you evaluate, and what's the build-vs-query trade-off? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at MapmyIndia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-dijkstra-on-a-road-network-is-too-slow-for-interactive-routing-wh-22025) |

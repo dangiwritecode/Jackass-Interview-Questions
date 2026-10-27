@@ -2,6 +2,8 @@
 
 [← back to Crunchy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the platform to make stateful data infrastructure (databases, streaming, caches) a paved-road capability with backup, failover, and schema governance built in, without the platform team becoming an accidental DBA org for the whole company? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at Crunchy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-platform-to-make-stateful-data-infrastruct-54264) |

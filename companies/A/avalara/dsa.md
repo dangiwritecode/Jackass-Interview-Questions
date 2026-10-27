@@ -2,6 +2,8 @@
 
 [← back to Avalara](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compact Notation for the Product of an Integer Range | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Big Number Handling, Logarithms, Math, Modular Arithmetic, Number Theory, Prime Factorization | DSA/Coding Round, Onsite | DSA | Asked at Avalara | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compact-notation-for-the-product-of-an-integer-range-d1998) |

@@ -2,6 +2,8 @@
 
 [← back to DoorDash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a multi-region write-path where writes must be acknowledged locally for latency but eventually reconciled globally — how do you pick per-entity ownership handle a user who moves regions and resolve the inevitable conflict on shared data? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at DoorDash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-multi-region-write-path-where-writes-must-be-acknowledged--39469) |

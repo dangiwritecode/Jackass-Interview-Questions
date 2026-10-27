@@ -2,6 +2,8 @@
 
 [← back to Akeyless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect resilience for the platform's secrets/PKI plane (Vault or cloud KMS) given that if it's unavailable, nothing that needs a credential can start or renew? Discuss caching, lease design, degraded modes, and the DR story for the secrets store itself. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Akeyless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-resilience-for-the-platform-s-secrets-pki-plane-v-52833) |

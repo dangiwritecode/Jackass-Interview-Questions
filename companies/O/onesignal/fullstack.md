@@ -2,6 +2,8 @@
 
 [← back to OneSignal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges: "you propose a shared 'notifications platform' (email/SMS/push/in-app) as an enterprise capability — why won't it become a bottleneck and a single point of failure for every product launch?" Design it to avoid exactly that. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at OneSignal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-you-propose-a-shared-notifications-platform--40750) |

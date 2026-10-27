@@ -2,6 +2,8 @@
 
 [← back to Okta](README.md)
 
+Questions 1–120 of 120.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the org's approach to zero-trust network segmentation for an AI platform where agents, model servers, vector stores, and data pipelines all talk to each other, so lateral movement after a single compromise is contained? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Okta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-org-s-approach-to-zero-trust-network-segme-82817) |

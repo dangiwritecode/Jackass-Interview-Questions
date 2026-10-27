@@ -2,6 +2,8 @@
 
 [← back to ThoughtSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your NER model degrades badly on documents where entities span line breaks introduced by PDF extraction. How would you make preprocessing robust to layout noise? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at ThoughtSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-ner-model-degrades-badly-on-documents-where-entities-span-line-br-79408) |

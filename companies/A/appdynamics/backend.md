@@ -2,6 +2,8 @@
 
 [← back to AppDynamics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: 'name a case where you deliberately chose NOT to use event sourcing despite pressure to, and were later proven right — and one where you regretted not using it.' Walk both, with the decision criteria you'd generalize into org guidance. | deep understanding | SDE-2/3, Architect/Principal | CQRS & Event Sourcing | Phone Screen, Onsite | Tech | Asked at Observability companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-name-a-case-where-you-deliberately-chose-not-to-use--34263) |

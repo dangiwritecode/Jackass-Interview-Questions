@@ -2,6 +2,8 @@
 
 [← back to Workday](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A business unit insists on Repurchase (SaaS) for a core ERP while central IT wants Refactor; how do you arbitrate and what governance prevents SaaS sprawl afterward? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Workday | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-business-unit-insists-on-repurchase-saas-for-a-core-erp-while-centra-56536) |

@@ -2,6 +2,8 @@
 
 [← back to Imgix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Frame the decision to move image/video transformation from a commercial CDN feature to a self-hosted transform tier. At what variant cardinality and traffic profile does build beat buy, and how do you model the crossover with real cost curves? | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at Imgix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=frame-the-decision-to-move-image-video-transformation-from-a-commercia-35023) |

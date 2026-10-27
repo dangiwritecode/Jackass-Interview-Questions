@@ -2,6 +2,8 @@
 
 [← back to 1Password](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An auditor accepts your evidence but your own principal-engineering judgment says a control is theater. How do you navigate the gap between 'audit-passing' and 'actually-secure' — and what's your architectural strategy to close controls that satisfy paperwork but not adversaries? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at 1Password | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-auditor-accepts-your-evidence-but-your-own-principal-engineering-ju-54057) |

@@ -2,6 +2,8 @@
 
 [← back to Select Star](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design end-to-end lineage so that for any XGBoost prediction you can trace back the exact data, code, and config that produced it? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Select Star | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-end-to-end-lineage-so-that-for-any-xgboost-predic-65943) |

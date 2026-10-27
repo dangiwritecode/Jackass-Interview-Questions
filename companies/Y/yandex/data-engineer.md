@@ -2,6 +2,8 @@
 
 [← back to Yandex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the org-wide policy on compute-storage separation vs co-location for a lakehouse — when does keeping compute local to data beat paying cross-service scan/egress, and how does the answer shift as query concurrency grows? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Yandex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-wide-policy-on-compute-storage-separation-vs-125330) |

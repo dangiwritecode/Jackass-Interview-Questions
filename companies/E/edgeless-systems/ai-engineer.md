@@ -2,6 +2,8 @@
 
 [← back to Edgeless Systems](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the org runs confidential inference for a regulated customer whose prompts must be processed in a TEE. How would you architect confidential containers (Kata + TEE / Confidential Containers) for GPU inference on Kubernetes, what attestation flow would you require at admission, and where would you accept the performance cost? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Edgeless Systems | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-org-runs-confidential-inference-for-a-regulated-custome-82602) |

@@ -2,6 +2,8 @@
 
 [← back to Ververica](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the encryption strategy for a real-time streaming analytics platform (Flink/Spark) processing PII in memory — where is data decrypted for compute and how do you shrink that window? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Ververica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-encryption-strategy-for-a-real-time-streaming-analytics-pla-115299) |

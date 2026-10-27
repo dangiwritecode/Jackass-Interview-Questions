@@ -2,6 +2,8 @@
 
 [← back to Rackspace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An Abstract Factory producing per-region infra clients (S3-compatible store, queue, cache) forces every region rollout to touch all three factories. How would you restructure so onboarding a new region is additive, and what's the risk of the interface drifting per region? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Rackspace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-abstract-factory-producing-per-region-infra-clients-s3-compatible-s-22434) |

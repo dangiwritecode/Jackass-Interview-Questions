@@ -2,6 +2,8 @@
 
 [← back to Cast AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cost review shows idle over-provisioned control planes and shared services dominate the bill more than app Pods. As principal, how would you attribute and reduce non-workload cost (control plane, system daemonsets, mesh sidecars, monitoring) fleet-wide, and defend the irreducible platform overhead to finance? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Cast AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cost-review-shows-idle-over-provisioned-control-planes-and-shared-se-39044) |

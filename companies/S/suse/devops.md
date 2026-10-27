@@ -2,6 +2,8 @@
 
 [← back to SUSE](README.md)
 
+Questions 1–82 of 82.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal engineer argues Kyverno is the better strategic bet than Gatekeeper for your org because it avoids Rego's learning curve — how do you weigh maintainability, hiring, and long-term ecosystem risk in that decision? | expertise | SDE-2/3, Architect/Principal | Policy as Code (OPA/Gatekeeper) | Phone Screen, Onsite | Tech | Asked at SUSE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-engineer-argues-kyverno-is-the-better-strategic-bet-than-g-55334) |

@@ -2,6 +2,8 @@
 
 [← back to Gupshup](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your LLM feature's quality is fine on English but poor on Hindi and Tamil, which are heavily used. How do you evaluate and tune across languages given token-cost differences per language? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Gupshup | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-llm-feature-s-quality-is-fine-on-english-but-poor-on-hindi-and-ta-64093) |

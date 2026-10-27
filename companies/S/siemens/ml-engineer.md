@@ -2,6 +2,8 @@
 
 [← back to Siemens](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach post-training under regulatory regimes (EU AI Act, sector rules) where you must document training data, bias testing, and alignment procedures? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Siemens | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-post-training-under-regulatory-regimes-eu-ai-act-s-71291) |

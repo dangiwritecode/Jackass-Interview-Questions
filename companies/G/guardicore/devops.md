@@ -2,6 +2,8 @@
 
 [← back to Guardicore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd instrument 'default-deny' rollout safely. How do you go from observe/log-only to enforce across thousands of flows without a wave of false-positive outages? | expertise | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | Asked at Guardicore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-instrument-default-deny-rollout-safely-how-do-you-go-56889) |

@@ -2,6 +2,8 @@
 
 [← back to Qualcomm](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are asked to set the org's stance on edge inference versus central-region inference for a latency-sensitive AI feature. How do you reason about model size, edge hardware limits, data freshness, and operational complexity to draw that boundary? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Qualcomm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-asked-to-set-the-org-s-stance-on-edge-inference-versus-central-82764) |

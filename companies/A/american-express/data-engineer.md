@@ -2,6 +2,8 @@
 
 [← back to American Express](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An architect proposes writing directly to Gold from a real-time pipeline, skipping Silver, for a fraud-scoring use case. Do you approve? What's your reasoning and guardrail? | expertise | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | Asked at American Express | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-architect-proposes-writing-directly-to-gold-from-a-real-time-pipeli-126274) |

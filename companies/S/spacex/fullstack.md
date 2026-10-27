@@ -2,6 +2,8 @@
 
 [← back to SpaceX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a strongly-typed units/quantity system (e.g., meters vs seconds) so mismatched arithmetic fails to compile? Sketch the template approach and discuss its ergonomics cost. | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at SpaceX | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-strongly-typed-units-quantity-system-e-g-meters-16847) |

@@ -2,6 +2,8 @@
 
 [← back to TransUnion](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the case where anonymized data is later re-linked via a new external dataset (mosaic effect)? What controls make your anonymization durable? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at TransUnion | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-case-where-anonymized-data-is-later-re-linked-vi-72616) |

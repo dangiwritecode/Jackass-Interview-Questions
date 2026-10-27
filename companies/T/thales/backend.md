@@ -2,6 +2,8 @@
 
 [← back to Thales](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a field-level encryption and key-management architecture for PII/PHI where keys are per-tenant and rotatable — how do you support crypto-shredding key rotation and BYOK/HYOK for enterprise customers without a re-encryption storm? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Thales | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-field-level-encryption-and-key-management-architecture-for-pi-37234) |

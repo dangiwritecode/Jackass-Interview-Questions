@@ -2,6 +2,8 @@
 
 [← back to DeepNote](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a notebook / interactive-compute environment for analysts and data scientists (buy Hex/Deepnote/Databricks notebooks vs JupyterHub self-run) when practitioner productivity, governance, and idle-compute cost all matter at 200+ users? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at DeepNote | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-notebook-interactive-compute-envi-125853) |

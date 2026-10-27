@@ -2,6 +2,8 @@
 
 [← back to Seldon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect model-serving reliability for the anomaly detectors themselves — versioning, canarying, and rollback of a detector model — with an SLO that captures both inference latency and detection quality so a bad model rollout doesn't blind the fleet? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Seldon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-model-serving-reliability-for-the-anomaly-detecto-100339) |

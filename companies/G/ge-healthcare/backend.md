@@ -2,6 +2,8 @@
 
 [← back to GE HealthCare](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to reason about CAP for a hybrid system where an on-prem CP database of record is fronted by a cloud AP edge for scale. Design the boundary and reconciliation so the on-prem invariant remains authoritative even when the WAN link between them partitions. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Hardware companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-reason-about-cap-for-a-hybrid-system-where-an-on-prem--32304) |

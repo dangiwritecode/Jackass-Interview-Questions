@@ -2,6 +2,8 @@
 
 [← back to LocalStack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you keep local development representative when prod is hybrid, so a dev doesn't ship something that only works against one cloud's mock? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | Asked at LocalStack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-local-development-representative-when-prod-is-hybrid-s-51226) |

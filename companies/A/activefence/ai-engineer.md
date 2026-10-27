@@ -2,6 +2,8 @@
 
 [← back to ActiveFence](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a content-safety/moderation classifier stack for user-generated prompts and outputs (buy OpenAI moderation/Azure Content Safety/Hive vs build) when local-language and cultural-context accuracy for your markets is the gap vendors miss? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at ActiveFence | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-content-safety-moderation-classif-83808) |

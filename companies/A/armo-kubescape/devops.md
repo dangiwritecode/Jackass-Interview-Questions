@@ -2,6 +2,8 @@
 
 [← back to ARMO/Kubescape](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern a platform where product teams can deploy their own third-party Helm charts and operators from public repos — how do you keep an uncontrolled operator from silently violating residency encryption or scope while preserving team autonomy? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at ARMO/Kubescape | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-a-platform-where-product-teams-ca-54069) |

@@ -2,6 +2,8 @@
 
 [← back to Score-CNCF](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference in your architecture between a golden path that generates code you own versus one that hides everything behind a runtime abstraction like Score or a platform orchestrator. | deep understanding | SDE-2/3, Architect/Principal | Golden Paths & Paved Roads | Onsite, Hiring Manager | Tech | Asked at Score-CNCF | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-in-your-architecture-between-a-golden-path-that-55851) |

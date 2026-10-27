@@ -2,6 +2,8 @@
 
 [← back to MariaDB](README.md)
 
+Questions 1–75 of 75.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A checksum mismatch shows drift on one table between master and replica. How do you repair the replica with pt-table-sync safely? | expertise | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Database Replication (Master-Slave) | Phone Screen, Onsite | Tech | Asked at MariaDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-checksum-mismatch-shows-drift-on-one-table-between-master-and-replic-110475) |

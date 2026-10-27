@@ -2,6 +2,8 @@
 
 [← back to Aiven](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the debt of a caching/state layer (Redis) that services across the fleet have quietly turned into a system of record, where an eviction causes real data loss? Design the safe unwind under production load. | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Aiven | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-debt-of-a-caching-state-layer-redis-that-service-54364) |

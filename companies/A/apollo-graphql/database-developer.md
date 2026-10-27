@@ -2,6 +2,8 @@
 
 [← back to Apollo GraphQL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast aggregating cross-domain data via a GraphQL federation layer over service databases versus a BFF versus streaming into one query store. When does federation reduce client-team friction against many backend databases, and when does it centralize a new query-performance bottleneck and ownership headache? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Apollo GraphQL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-aggregating-cross-domain-data-via-a-graphql-federation-layer--112620) |

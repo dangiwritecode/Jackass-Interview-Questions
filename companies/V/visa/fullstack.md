@@ -2,6 +2,8 @@
 
 [← back to Visa](README.md)
 
+Questions 1–91 of 91.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the API-first governance model where the gateway is the single enforcement point for every external and partner integration; how do you handle partner onboarding, per-partner SLAs, sandbox-to-prod promotion, and the org structure to support hundreds of partners? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Visa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-api-first-governance-model-where-the-gateway-is-the-single--34575) |

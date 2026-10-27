@@ -2,6 +2,8 @@
 
 [← back to Fireflies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What are the four pillars of object-oriented programming and how does Java implement each? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Java | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Commonly asked at Tier 4 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-four-pillars-of-object-oriented-programming-and-how-does--1055) |

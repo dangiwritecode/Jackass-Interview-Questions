@@ -2,6 +2,8 @@
 
 [← back to Adept](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a post-training platform to support agentic/tool-use models where rewards depend on multi-step trajectory outcomes? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Adept | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-post-training-platform-to-support-agentic-to-71338) |

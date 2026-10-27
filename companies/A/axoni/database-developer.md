@@ -2,6 +2,8 @@
 
 [← back to Axoni](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your ledger's source of truth is an append-only event log projected into read tables. How do you cache the projections so a cached read always represents a consistent prefix of the log and never a torn view across two events? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Axoni | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-ledger-s-source-of-truth-is-an-append-only-event-log-projected-in-111453) |

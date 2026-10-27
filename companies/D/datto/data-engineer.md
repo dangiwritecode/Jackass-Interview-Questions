@@ -2,6 +2,8 @@
 
 [← back to Datto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do backup/snapshot lifecycle policies (RDS/EBS/Dynamo backups, Iceberg time-travel) intersect with data tiering, and where does one undo the other's savings? | deep understanding | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Datto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-backup-snapshot-lifecycle-policies-rds-ebs-dynamo-backups-icebe-126767) |

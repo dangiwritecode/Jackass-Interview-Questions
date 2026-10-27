@@ -2,6 +2,8 @@
 
 [← back to Travis CI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the CI/CD identity story so no runner ever holds a stored Vault secret: OIDC federation from the CI provider into Vault. What are the attack surfaces of the OIDC trust, and how do you lock down bound claims? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Travis CI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-ci-cd-identity-story-so-no-runner-ever-holds-a-stored-vault-54983) |

@@ -2,6 +2,8 @@
 
 [← back to Deliveroo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a food-delivery platform's peak-hour availability across coupled real-time systems (search, dispatch, tracking) so that one saturating subsystem doesn't cascade into the others across many cities at once, and how do you isolate a single city's meltdown? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Deliveroo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-food-delivery-platform-s-peak-hour-availabil-52113) |

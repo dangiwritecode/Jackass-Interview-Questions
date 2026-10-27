@@ -2,6 +2,8 @@
 
 [← back to AppLovin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the max_depth and num_boost_round budget for XGBoost when serving cost scales roughly with tree count and depth? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at AppLovin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-max-depth-and-num-boost-round-budget-for-xgboost-65919) |

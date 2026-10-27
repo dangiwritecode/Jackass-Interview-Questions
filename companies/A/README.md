@@ -13,7 +13,7 @@
 | [Abnormal Security](abnormal-security/README.md) | Tier 3 | 540 | 1 |
 | [Abridge](abridge/README.md) | Tier 4 | 540 | 3 |
 | [Acceldata](acceldata/README.md) | Tier 3 | 540 | 25 |
-| [Accenture](accenture/README.md) | Tier 5 | 1,319 | 15,784 |
+| [Accenture](accenture/README.md) | Tier 5 | 16,780 | 15,784 |
 | [Accolite](accolite/README.md) | Tier 4 | 540 | 9 |
 | [AccuWeather](accuweather/README.md) | Tier 3 | 540 | 4 |
 | [ACKO](acko/README.md) | Tier 3 | 540 | 8 |
@@ -30,9 +30,9 @@
 | [Adidas](adidas/README.md) | Tier 3 | 540 | 1 |
 | [Aditya Birla](aditya-birla/README.md) | Tier 4 | 540 | 6 |
 | [Adjust](adjust/README.md) | Tier 3 | 540 | 1 |
-| [Adobe](adobe/README.md) | Tier 2 | 1,200 | 4,361 |
+| [Adobe](adobe/README.md) | Tier 2 | 5,190 | 4,361 |
 | [ADP](adp/README.md) | Tier 2 | 540 | 2 |
-| [Adyen](adyen/README.md) | Tier 2 | 815 | 951 |
+| [Adyen](adyen/README.md) | Tier 2 | 1,151 | 951 |
 | [Aegon](aegon/README.md) | Tier 3 | 540 | 1 |
 | [Aerospike](aerospike/README.md) | Tier 3 | 540 | 61 |
 | [Aetna](aetna/README.md) | Tier 3 | 540 | 31 |
@@ -43,9 +43,9 @@
 | [AI21 Labs](ai21-labs/README.md) | Tier 3 | 540 | 24 |
 | [AI4Bharat](ai4bharat/README.md) | Tier 4 | 540 | 10 |
 | [Aidoc](aidoc/README.md) | Tier 3 | 540 | 2 |
-| [Airbnb](airbnb/README.md) | Tier 1 | 1,189 | 3,741 |
+| [Airbnb](airbnb/README.md) | Tier 1 | 3,848 | 3,741 |
 | [Airbus](airbus/README.md) | Tier 2 | 540 | 12 |
-| [Airbyte](airbyte/README.md) | Tier 3 | 630 | 507 |
+| [Airbyte](airbyte/README.md) | Tier 3 | 936 | 507 |
 | [Airplane](airplane/README.md) | Tier 4 | 540 | 2 |
 | [Airship](airship/README.md) | Tier 3 | 540 | 1 |
 | [Airtable](airtable/README.md) | Tier 2 | 540 | 100 |
@@ -53,16 +53,16 @@
 | [Airwallex](airwallex/README.md) | Tier 3 | 540 | 2 |
 | [Aiven](aiven/README.md) | Tier 3 | 540 | 38 |
 | [Ajio](ajio/README.md) | Tier 3 | 540 | 73 |
-| [Akamai](akamai/README.md) | Tier 2 | 828 | 1,207 |
+| [Akamai](akamai/README.md) | Tier 2 | 1,629 | 1,207 |
 | [Akeneo](akeneo/README.md) | Tier 3 | 540 | 1 |
 | [Akeyless](akeyless/README.md) | Tier 3 | 540 | 11 |
 | [Akuity](akuity/README.md) | Tier 3 | 559 | 87 |
 | [Akuna Capital](akuna-capital/README.md) | Tier 2 | 540 | 16 |
 | [Alation](alation/README.md) | Tier 4 | 540 | 87 |
 | [Aleph-Alpha](aleph-alpha/README.md) | Tier 3 | 540 | 5 |
-| [Algolia](algolia/README.md) | Tier 3 | 661 | 366 |
+| [Algolia](algolia/README.md) | Tier 3 | 698 | 366 |
 | [Algorithmia](algorithmia/README.md) | Tier 3 | 540 | 1 |
-| [Alibaba](alibaba/README.md) | Tier 1 | 630 | 316 |
+| [Alibaba](alibaba/README.md) | Tier 1 | 690 | 316 |
 | [Alibaba Cloud](alibaba-cloud/README.md) | Tier 2 | 540 | 7 |
 | [Alipay](alipay/README.md) | Tier 1 | 540 | 1 |
 | [Allen Institute](allen-institute/README.md) | Tier 3 | 540 | 1 |
@@ -75,7 +75,7 @@
 | [Alteryx](alteryx/README.md) | Tier 3 | 540 | 2 |
 | [Altimetrik](altimetrik/README.md) | Tier 4 | 540 | 2 |
 | [Amadeus](amadeus/README.md) | Tier 3 | 540 | 7 |
-| [Amazon](amazon/README.md) | Tier 1 | 1,350 | 65,123 |
+| [Amazon](amazon/README.md) | Tier 1 | 71,748 | 65,123 |
 | [Ambassador Labs](ambassador-labs/README.md) | Tier 3 | 540 | 11 |
 | [AMD](amd/README.md) | Tier 2 | 540 | 133 |
 | [Amdocs](amdocs/README.md) | Tier 4 | 540 | 3 |
@@ -91,21 +91,21 @@
 | [Anduril Industries](anduril-industries/README.md) | Tier 2 | 540 | 43 |
 | [Angel One](angel-one/README.md) | Tier 3 | 540 | 20 |
 | [Anjuna](anjuna/README.md) | Tier 4 | 540 | 14 |
-| [Anodot](anodot/README.md) | Tier 3 | 630 | 200 |
+| [Anodot](anodot/README.md) | Tier 3 | 676 | 200 |
 | [Anomalo](anomalo/README.md) | Tier 3 | 540 | 30 |
 | [Ant Group](ant-group/README.md) | Tier 1 | 540 | 5 |
 | [Anthem](anthem/README.md) | Tier 2 | 540 | 12 |
-| [Anthropic](anthropic/README.md) | Tier 1 | 1,060 | 10,793 |
+| [Anthropic](anthropic/README.md) | Tier 1 | 11,445 | 10,793 |
 | [Antithesis](antithesis/README.md) | Tier 4 | 540 | 1 |
 | [AntMedia](antmedia/README.md) | Tier 3 | 540 | 1 |
-| [AnyScale](anyscale/README.md) | Tier 2 | 720 | 1,153 |
+| [AnyScale](anyscale/README.md) | Tier 2 | 1,528 | 1,153 |
 | [Anysphere](anysphere/README.md) | Tier 2 | 540 | 2 |
 | [Anyword](anyword/README.md) | Tier 4 | 540 | 1 |
 | [Aon](aon/README.md) | Tier 3 | 540 | 3 |
 | [Apify](apify/README.md) | Tier 4 | 540 | 1 |
 | [Apiiro](apiiro/README.md) | Tier 3 | 540 | 3 |
 | [Apna](apna/README.md) | Tier 3 | 540 | 1 |
-| [Apollo](apollo/README.md) | Tier 3 | 630 | 274 |
+| [Apollo](apollo/README.md) | Tier 3 | 731 | 274 |
 | [Apollo 24/7](apollo-24-7/README.md) | Tier 3 | 540 | 1 |
 | [Apollo GraphQL](apollo-graphql/README.md) | Tier 3 | 540 | 24 |
 | [Apollo-Hospitals](apollo-hospitals/README.md) | Tier 3 | 540 | 4 |
@@ -115,7 +115,7 @@
 | [Appen](appen/README.md) | Tier 3 | 540 | 44 |
 | [AppFolio](appfolio/README.md) | Tier 3 | 540 | 3 |
 | [Appian](appian/README.md) | Tier 3 | 540 | 1 |
-| [Apple](apple/README.md) | Tier 1 | 1,050 | 1,585 |
+| [Apple](apple/README.md) | Tier 1 | 1,671 | 1,585 |
 | [Applied Intuition](applied-intuition/README.md) | Tier 2 | 540 | 10 |
 | [AppLovin](applovin/README.md) | Tier 2 | 540 | 8 |
 | [AppNexus](appnexus/README.md) | Tier 3 | 540 | 2 |
@@ -124,7 +124,7 @@
 | [AppSync](appsync/README.md) | Tier 2 | 540 | 1 |
 | [AQR Capital Management](aqr-capital-management/README.md) | Tier 2 | 540 | 4 |
 | [Aqua](aqua/README.md) | Tier 2 | 540 | 17 |
-| [Aqua Security](aqua-security/README.md) | Tier 3 | 630 | 193 |
+| [Aqua Security](aqua-security/README.md) | Tier 3 | 632 | 193 |
 | [ArangoDB](arangodb/README.md) | Tier 4 | 540 | 13 |
 | [Arcesium](arcesium/README.md) | Tier 2 | 540 | 12 |
 | [Archer](archer/README.md) | Tier 3 | 540 | 1 |
@@ -132,7 +132,7 @@
 | [Argilla](argilla/README.md) | Tier 3 | 540 | 7 |
 | [Ariga-Atlas](ariga-atlas/README.md) | Tier 3 | 540 | 3 |
 | [Arista Networks](arista-networks/README.md) | Tier 2 | 540 | 87 |
-| [Arize](arize/README.md) | Tier 3 | 802 | 700 |
+| [Arize](arize/README.md) | Tier 3 | 1,049 | 700 |
 | [Arkose](arkose/README.md) | Tier 3 | 540 | 1 |
 | [Arm](arm/README.md) | Tier 2 | 540 | 59 |
 | [ARMO/Kubescape](armo-kubescape/README.md) | Tier 4 | 540 | 1 |
@@ -149,13 +149,13 @@
 | [Aspect/Bazel](aspect-bazel/README.md) | Tier 3 | 540 | 1 |
 | [AssemblyAI](assemblyai/README.md) | Tier 3 | 540 | 15 |
 | [Astral](astral/README.md) | Tier 2 | 540 | 8 |
-| [Astronomer](astronomer/README.md) | Tier 3 | 630 | 638 |
+| [Astronomer](astronomer/README.md) | Tier 3 | 982 | 638 |
 | [AT&T](at-t/README.md) | Tier 3 | 540 | 10 |
 | [Ataccama](ataccama/README.md) | Tier 3 | 540 | 10 |
 | [athenahealth](athenahealth/README.md) | — | 1 | 1 |
 | [Ather](ather/README.md) | Tier 3 | 540 | 11 |
-| [Atlan](atlan/README.md) | Tier 3 | 630 | 256 |
-| [Atlassian](atlassian/README.md) | Tier 2 | 1,260 | 12,484 |
+| [Atlan](atlan/README.md) | Tier 3 | 700 | 256 |
+| [Atlassian](atlassian/README.md) | Tier 2 | 15,080 | 12,484 |
 | [Atomikos](atomikos/README.md) | Tier 3 | 540 | 1 |
 | [Atos](atos/README.md) | Tier 3 | 540 | 1 |
 | [AtScale](atscale/README.md) | Tier 4 | 540 | 14 |
@@ -163,7 +163,7 @@
 | [Attentive](attentive/README.md) | Tier 3 | 540 | 6 |
 | [AuditBoard](auditboard/README.md) | Tier 3 | 540 | 2 |
 | [Aurora](aurora/README.md) | Tier 2 | 540 | 32 |
-| [Auth0](auth0/README.md) | Tier 2 | 720 | 540 |
+| [Auth0](auth0/README.md) | Tier 2 | 1,027 | 540 |
 | [Authzed](authzed/README.md) | Tier 4 | 540 | 6 |
 | [Autodesk](autodesk/README.md) | Tier 2 | 540 | 45 |
 | [Automation Anywhere](automation-anywhere/README.md) | Tier 3 | 540 | 1 |

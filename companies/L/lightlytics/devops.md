@@ -2,6 +2,8 @@
 
 [← back to Lightlytics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges your reliance on tags for governance: 'tags are advisory and teams forget them.' Defend or replace tag-based governance with something stronger — how do you make classification a non-optional property of the resource rather than an afterthought label? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Lightlytics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-reliance-on-tags-for-governance-tags-ar-54073) |

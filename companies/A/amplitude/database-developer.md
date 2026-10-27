@@ -2,6 +2,8 @@
 
 [← back to Amplitude](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you detect the first and last event of each session and compute session duration in a single pass with window functions? | deep understanding | SDE-1, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Amplitude | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-the-first-and-last-event-of-each-session-and-comp-108378) |

@@ -2,6 +2,8 @@
 
 [← back to Alation](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a governance capability that can answer an auditor's 'show me the blast radius' question — for any given data store instantly enumerate every downstream consumer replica and derived artifact it feeds — and keep that map trustworthy at tens of thousands of assets? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Alation | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-governance-capability-that-can-answer-an-audito-54066) |

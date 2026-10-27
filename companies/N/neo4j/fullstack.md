@@ -2,6 +2,8 @@
 
 [← back to Neo4j](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a polyglot-persistence strategy where one product surface reads from a relational store a search index and a graph store that must stay in sync — how do you keep the three consistent enough for the UI without a distributed transaction and handle a rebuild of any one? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Neo4j | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-polyglot-persistence-strategy-where-one-product-surface-reads-39451) |

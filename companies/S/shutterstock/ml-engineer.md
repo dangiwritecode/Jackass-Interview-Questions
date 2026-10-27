@@ -2,6 +2,8 @@
 
 [← back to Shutterstock](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect provenance and watermarking for generative outputs (C2PA / content credentials) end-to-end through your serving stack? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Shutterstock | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-provenance-and-watermarking-for-generative-output-71686) |

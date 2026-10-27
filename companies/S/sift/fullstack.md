@@ -2,6 +2,8 @@
 
 [← back to Sift](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a real-time fraud-detection platform that scores transactions inline (sub-50ms) using velocity features and a model while a separate async path does deeper investigation — how do you keep feature freshness and feed confirmed fraud back into the online path? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Sift | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-real-time-fraud-detection-platform-that-scores-transactions-i-39505) |

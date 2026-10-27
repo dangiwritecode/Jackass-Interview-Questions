@@ -2,6 +2,8 @@
 
 [← back to Gojek](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer reviews your machine-coding code and says "this has too many if-else branches for handling types." Walk me through refactoring it to a polymorphic or strategy-based design live. | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | Asked at Gojek | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-reviews-your-machine-coding-code-and-says-this-has-too--21550) |

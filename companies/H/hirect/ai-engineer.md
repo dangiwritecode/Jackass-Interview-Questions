@@ -2,6 +2,8 @@
 
 [← back to Hirect](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd audit a reranker for fairness when it ranks candidate profiles in a hiring or matching product. | expertise | SDE-1/2, SDE-2/3 | Reranking | Phone Screen, Onsite | Tech | Asked at Hirect | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-audit-a-reranker-for-fairness-when-it-ranks-candida-80383) |

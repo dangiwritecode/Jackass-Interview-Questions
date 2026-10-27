@@ -2,6 +2,8 @@
 
 [← back to Nykaa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Longest Well-Formed Bracket Run | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Dynamic Programming, Stack, String, Two Pointers | DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at Nykaa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-well-formed-bracket-run-d32) |

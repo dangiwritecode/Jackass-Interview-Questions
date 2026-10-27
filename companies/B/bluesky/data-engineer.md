@@ -2,6 +2,8 @@
 
 [← back to Bluesky](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a data-pipeline cost-attribution / FinOps showback across teams (buy a data-cost tool like Select/Bluesky vs build on warehouse query-history + tagging) when the win is behavioral — making each team accountable for its compute burn — not a dashboard? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Bluesky | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-pipeline-cost-attribution-fi-125849) |

@@ -2,6 +2,8 @@
 
 [← back to JumpCloud](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why a shared kubeconfig or a shared cloud admin login is a compliance red flag, and how you'd move the team to individually-attributable SSO-backed access. | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at JumpCloud | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-shared-kubeconfig-or-a-shared-cloud-admin-login-is-a-com-47995) |

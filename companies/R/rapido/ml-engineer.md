@@ -2,6 +2,8 @@
 
 [← back to Rapido](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A geospatial model feature needs 'listings within X km of a user' over millions of points with heavy update churn; compare a geohash grid, a quadtree, and a k-d tree for your read/write mix. | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Rapido | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-geospatial-model-feature-needs-listings-within-x-km-of-a-user-over-m-62506) |

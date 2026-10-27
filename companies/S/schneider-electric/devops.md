@@ -2,6 +2,8 @@
 
 [← back to Schneider Electric](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Leadership wants carbon-aware batch scheduling so training and reporting jobs run when grid intensity and spot prices are lowest. How would you architect region-and-time-shifting placement bounded by data-locality and deadline SLOs, and report the emissions and dollar savings credibly enough for an ESG disclosure? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Schneider Electric | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=leadership-wants-carbon-aware-batch-scheduling-so-training-and-reporti-52154) |

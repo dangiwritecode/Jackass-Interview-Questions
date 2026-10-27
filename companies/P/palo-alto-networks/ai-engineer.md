@@ -2,6 +2,8 @@
 
 [← back to Palo Alto Networks](README.md)
 
+Questions 1–84 of 84.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the cloud network so an AI agent's outbound tool calls are constrained to an allowlist enforced at the infrastructure layer, so even a prompt-injection-hijacked agent can't exfiltrate data to an arbitrary host? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Palo Alto Networks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-cloud-network-so-an-ai-agent-s-outbound-to-82765) |

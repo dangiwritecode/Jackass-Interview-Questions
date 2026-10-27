@@ -2,6 +2,8 @@
 
 [← back to Guardtime](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges your evidence-automation vision: 'automated evidence can be forged by whoever controls the pipeline.' How do you architect a chain-of-custody for machine-generated evidence so an insider controlling the collector can't fabricate a clean report? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Guardtime | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-evidence-automation-vision-automated-ev-54097) |

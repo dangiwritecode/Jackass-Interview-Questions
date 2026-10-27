@@ -2,6 +2,8 @@
 
 [← back to Thomson Reuters](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you find, for each employee, the salary of the highest-paid person in their department using MAX() OVER? | intermediate experience | Fresher, SDE-1, SDE-1/2 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Data companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-find-for-each-employee-the-salary-of-the-highest-paid-pe-105129) |

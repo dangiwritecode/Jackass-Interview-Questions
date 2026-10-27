@@ -2,6 +2,8 @@
 
 [← back to Rockset](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your consistency model: a user sees a number go up then down on refresh. How do you reason about monotonic reads in a real-time serving layer? | deep understanding | SDE-2/3, Architect/Principal | Real-time Analytics Architecture | Onsite | Tech | Asked at Rockset | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-consistency-model-a-user-sees-a-number-go-u-127589) |

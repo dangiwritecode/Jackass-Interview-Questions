@@ -2,6 +2,8 @@
 
 [← back to Unsplash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a large-scale image/video CDN and transform pipeline that serves on-the-fly resized/reformatted media (WebP/AVIF per device) — how do you architect the transform-on-first-request cache and avoid recomputing the same variant across the fleet? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Unsplash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-large-scale-image-video-cdn-and-transform-pipeline-that-serve-39489) |

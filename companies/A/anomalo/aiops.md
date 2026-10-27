@@ -2,6 +2,8 @@
 
 [← back to Anomalo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A COPY --from your model-training stage still bloats the final detector serving image even though you meant to copy only the fitted model and scoring code. How would you find what's actually bloating the runtime stage? | intermediate experience | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Anomalo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-copy-from-your-model-training-stage-still-bloats-the-final-detector--92387) |

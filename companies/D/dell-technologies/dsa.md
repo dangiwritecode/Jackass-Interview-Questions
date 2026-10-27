@@ -2,6 +2,8 @@
 
 [← back to Dell Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Balanced Consecutive Blocks in a Binary String | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Run-Length Encoding, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Dell Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=balanced-consecutive-blocks-in-a-binary-string-d681) |

@@ -2,6 +2,8 @@
 
 [← back to Cartesia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's the trade-off in capacity terms between real-time voice/streaming inference and batch offline generation for the same fleet? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | Asked at Cartesia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-trade-off-in-capacity-terms-between-real-time-voice-streami-86658) |

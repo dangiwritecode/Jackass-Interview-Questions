@@ -2,6 +2,8 @@
 
 [← back to Split](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd A/B test the change risk gate itself. How do you measure whether the model actually reduced change-induced incidents versus just slowed deploys? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Change Risk Prediction | Phone Screen, Onsite | Tech | Asked at Split | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-a-b-test-the-change-risk-gate-itself-how-do-you-mea-98562) |

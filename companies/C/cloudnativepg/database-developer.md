@@ -2,6 +2,8 @@
 
 [← back to CloudNativePG](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd set up automatic re-provisioning of a failed node back into the cluster (rebuild/reseed) without manual intervention, and the guardrails against reseeding from a corrupt source. | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at CloudNativePG | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-set-up-automatic-re-provisioning-of-a-failed-node-ba-114714) |

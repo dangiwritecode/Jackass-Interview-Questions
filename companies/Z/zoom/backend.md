@@ -2,6 +2,8 @@
 
 [← back to Zoom](README.md)
 
+Questions 1–74 of 74.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A webhook-ingestion platform serving many product teams was mistakenly protecting endpoints with CSRF tokens, breaking legitimate partners. Architect the correct signature-verification, replay/idempotency, and payload-injection defense as a shared platform capability, and explain why CSRF is the wrong control here. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zoom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-webhook-ingestion-platform-serving-many-product-teams-was-mistakenly-32881) |

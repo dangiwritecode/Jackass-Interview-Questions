@@ -2,6 +2,8 @@
 
 [← back to Camunda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through your reference architecture for durable long-horizon agents that span days, integrating human approvals, event-driven wakeups, and idempotent tool replay. What engine and state model underpin it? | expertise | SDE-2/3, Architect/Principal | Agentic Workflows | Phone Screen, Onsite | Tech | Asked at Camunda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-your-reference-architecture-for-durable-long-horizon-a-84548) |

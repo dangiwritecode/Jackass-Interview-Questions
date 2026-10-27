@@ -2,6 +2,8 @@
 
 [← back to ManageEngine](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle a customer whose on-prem DB skipped 30 versions of upgrades and now needs to jump forward through a chain of migrations that assume intermediate states? | deep understanding | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at ManageEngine | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-customer-whose-on-prem-db-skipped-30-versions-of-u-114301) |

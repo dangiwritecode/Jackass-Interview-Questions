@@ -2,6 +2,8 @@
 
 [← back to Symantec](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why not rely solely on regex/pattern matching for PII detection at scale? What's the failure mode and what layered detection do you standardize on? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Symantec | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-not-rely-solely-on-regex-pattern-matching-for-pii-detection-at-sca-72593) |

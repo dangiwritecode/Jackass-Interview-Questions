@@ -2,6 +2,8 @@
 
 [← back to Sigmoid](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you find the maximum value and the index of the maximum value in an array? | basic concept | Fresher | NumPy | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Sigmoid | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-find-the-maximum-value-and-the-index-of-the-maximum-valu-59495) |

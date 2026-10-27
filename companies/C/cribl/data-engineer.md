@@ -2,6 +2,8 @@
 
 [← back to Cribl](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do observability platforms tier logs/metrics/traces between hot search indices and cheap object storage, and how would you design the rehydration path? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Cribl | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-observability-platforms-tier-logs-metrics-traces-between-hot-se-126751) |

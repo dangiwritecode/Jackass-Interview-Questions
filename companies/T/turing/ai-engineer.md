@@ -2,6 +2,8 @@
 
 [← back to Turing](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff exists between building a bespoke in-house RAG/retrieval stack and adopting a managed retrieval service. How do you use ATAM to make the build-vs-buy decision rigorous across recall quality, freshness, cost, and lock-in rather than letting taste decide? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Turing | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-exists-between-building-a-bespoke-in-house-rag-retrieval-st-83547) |

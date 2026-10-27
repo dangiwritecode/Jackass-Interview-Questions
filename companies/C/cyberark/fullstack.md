@@ -2,6 +2,8 @@
 
 [← back to CyberArk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect an enterprise secrets-management and rotation strategy spanning app configs, CI/CD, databases, and third-party API keys. How do you eliminate secrets-in-env-vars and long-lived credentials without breaking every legacy service at once? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at CyberArk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-an-enterprise-secrets-management-and-rotation-strategy-spann-40745) |

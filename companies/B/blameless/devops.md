@@ -2,6 +2,8 @@
 
 [← back to Blameless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance so an incident's regulatory-notification decision (is this reportable within 72 hours) is driven by a defensible pre-agreed severity rubric rather than a panicked judgment call at 3am — and how do you rehearse that decision path? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Blameless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-so-an-incident-s-regulatory-notificati-54106) |

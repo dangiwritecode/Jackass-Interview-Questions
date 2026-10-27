@@ -2,6 +2,8 @@
 
 [← back to Atomikos](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how a distributed transaction (2PC) across two databases interacts with each database's local isolation level. Where can anomalies still leak? | expertise | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Atomikos | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-a-distributed-transaction-2pc-across-two-databases-interac-110332) |

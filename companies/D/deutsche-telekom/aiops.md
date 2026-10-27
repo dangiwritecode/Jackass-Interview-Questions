@@ -2,6 +2,8 @@
 
 [← back to Deutsche Telekom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your platform must scale to sovereign/regional isolation where each geography is a near-independent stack for data-residency and regulatory reasons. As a principal, design how you share tooling and models across sovereign boundaries without violating them, and where the isolation forces genuine duplication. | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Deutsche Telekom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-platform-must-scale-to-sovereign-regional-isolation-where-each-ge-100680) |

@@ -2,6 +2,8 @@
 
 [← back to Project-Nessie](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how Iceberg handles a table rename or migration between catalogs. What actually moves, and what are the atomicity risks? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Table Formats (Iceberg/Delta Lake/Hudi) | Phone Screen, Onsite | Tech | Asked at Project-Nessie | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-iceberg-handles-a-table-rename-or-migration-between-catalo-124001) |

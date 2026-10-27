@@ -2,6 +2,8 @@
 
 [← back to Zluri](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're choosing between Aurora Serverless v2 auto-scaling ACUs and provisioned Aurora with capacity headroom for a spiky multi-tenant SaaS — how do you reason about the scaling-step granularity, cold-buffer-cache penalty on scale-up, and per-tenant cost fairness? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zluri | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-choosing-between-aurora-serverless-v2-auto-scaling-acus-and-pro-111847) |

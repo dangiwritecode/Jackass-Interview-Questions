@@ -2,6 +2,8 @@
 
 [← back to Portainer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you check which ports a running Docker container has exposed and which are mapped to the host? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Computer Networks | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Portainer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-check-which-ports-a-running-docker-container-has-exposed-41727) |

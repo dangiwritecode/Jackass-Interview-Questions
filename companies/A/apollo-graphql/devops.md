@@ -2,6 +2,8 @@
 
 [← back to Apollo GraphQL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal argues the mesh should enforce schema/contract validation (protobuf/JSON) at the proxy so bad payloads never reach services. Adjudicate whether contract enforcement belongs in the mesh vs the app vs an API gateway, and the operational cost of proxy-side validation at scale. | deep understanding | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Apollo GraphQL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-argues-the-mesh-should-enforce-schema-contract-validation--52642) |

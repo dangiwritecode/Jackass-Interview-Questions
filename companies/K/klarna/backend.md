@@ -2,6 +2,8 @@
 
 [← back to Klarna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator requires you to prove which service touched a specific customer's money movement over 7 years. Design the audit, immutability, and retention architecture spanning all services in the payment path. | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Klarna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-requires-you-to-prove-which-service-touched-a-specific-cus-31613) |

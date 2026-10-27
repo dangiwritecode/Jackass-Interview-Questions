@@ -2,6 +2,8 @@
 
 [← back to Dev.to](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between rendering markdown safely and using dangerouslySetInnerHTML, and how do you sanitize? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | React | Phone Screen, Onsite | Tech | Asked at Dev.to | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-rendering-markdown-safely-and-using-dan-10309) |

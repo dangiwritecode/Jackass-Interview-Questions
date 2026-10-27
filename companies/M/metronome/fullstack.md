@@ -2,6 +2,8 @@
 
 [← back to Metronome](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a usage-metering-and-billing platform for a consumption-priced product (per-token per-GB per-call) that must be accurate to the cent at billions of events/day — how do you count without loss aggregate for invoices and let customers see near-real-time spend? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Metronome | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-usage-metering-and-billing-platform-for-a-consumption-pric-39447) |

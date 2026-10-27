@@ -2,6 +2,8 @@
 
 [← back to Bright Data](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Chromium/Selenium-based data-scraping container in your feature pipeline crashes intermittently under Docker but not on a VM. Which Docker default (shm size, seccomp, no-sandbox) would you suspect first and how do you validate it? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Bright Data | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-chromium-selenium-based-data-scraping-container-in-your-feature-pipe-63351) |

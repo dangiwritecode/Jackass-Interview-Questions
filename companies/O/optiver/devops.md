@@ -2,6 +2,8 @@
 
 [← back to Optiver](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set an org-wide network-latency and topology strategy on Azure for a low-latency trading or gaming workload, choosing between proximity placement groups, zones, and edge? | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at Optiver | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-an-org-wide-network-latency-and-topology-strategy-on-54587) |

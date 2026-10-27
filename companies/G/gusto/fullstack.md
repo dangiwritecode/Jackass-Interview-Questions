@@ -2,6 +2,8 @@
 
 [← back to Gusto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you manage a multi-step wizard/form with per-step validation and a shared data model? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | React | Phone Screen, Onsite | Tech | Asked at Gusto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-manage-a-multi-step-wizard-form-with-per-step-validation-10267) |

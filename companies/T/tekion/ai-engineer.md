@@ -2,6 +2,8 @@
 
 [← back to Tekion](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would validate a model's behavior on the long tail of rare inputs when your test set is dominated by common cases. | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Automotive companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-validate-a-model-s-behavior-on-the-long-tail-of--86158) |

@@ -2,6 +2,8 @@
 
 [← back to Amplitude](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd expose retrieval-drift and prompt-drift metrics to product/PM stakeholders versus to on-call engineers. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Amplitude | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-expose-retrieval-drift-and-prompt-drift-metrics-to-p-97880) |

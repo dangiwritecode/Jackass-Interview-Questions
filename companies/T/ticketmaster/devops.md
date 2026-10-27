@@ -2,6 +2,8 @@
 
 [← back to Ticketmaster](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect capacity and admission control for an IPO-open or ticket-drop event where load spikes 50x in seconds and Auto Scaling can't react in time — walk me through pre-warming, a virtual waiting room, and load-testing the entire chain including the DB? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Ticketmaster | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-capacity-and-admission-control-for-an-ipo-open-or-52385) |

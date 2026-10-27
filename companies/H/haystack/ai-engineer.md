@@ -2,6 +2,8 @@
 
 [← back to Haystack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Which framework did you use to build this, LangChain or LlamaIndex or raw API calls, and why? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Projects (Resume Deep-Dive) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Haystack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=which-framework-did-you-use-to-build-this-langchain-or-llamaindex-or-r-73989) |

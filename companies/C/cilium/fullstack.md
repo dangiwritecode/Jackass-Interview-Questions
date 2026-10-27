@@ -2,6 +2,8 @@
 
 [← back to Cilium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A NetworkPolicy you shipped "has no effect" — traffic you meant to block still flows. Walk through everything you'd check, from CNI capability to policy selectors to default-deny ordering, to explain why. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Cilium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-networkpolicy-you-shipped-has-no-effect-traffic-you-meant-to-block-s-19548) |

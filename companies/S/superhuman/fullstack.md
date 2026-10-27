@@ -2,6 +2,8 @@
 
 [← back to Superhuman](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A client caches API results in an ever-growing JS Map for "instant" repeat access; how do you reason about the browser-tab memory complexity over a long session and how you'd bound it? | intermediate experience | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Superhuman | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-client-caches-api-results-in-an-ever-growing-js-map-for-instant-repe-16208) |

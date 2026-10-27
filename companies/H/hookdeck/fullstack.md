@@ -2,6 +2,8 @@
 
 [← back to Hookdeck](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must architect a webhooks-and-integrations platform where thousands of customers configure event subscriptions to their endpoints — how do you guarantee ordered at-least-once delivery per subscription handle slow/dead endpoints and give customers replay and debugging? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Hookdeck | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-a-webhooks-and-integrations-platform-where-thousand-39510) |

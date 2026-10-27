@@ -2,6 +2,8 @@
 
 [← back to Cedexis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain multi-CDN load balancing (RUM-based or DNS-based steering). How do you keep cache hit ratio high when traffic splits across two providers that don't share caches? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at Cedexis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-multi-cdn-load-balancing-rum-based-or-dns-based-steering-how-d-20901) |

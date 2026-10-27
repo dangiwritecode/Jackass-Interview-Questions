@@ -2,6 +2,8 @@
 
 [← back to Senzing](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you design deterministic vs probabilistic matching for customer entity resolution at 500M+ records, and how you tune thresholds so you don't over-merge distinct people or under-merge duplicates. | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Senzing | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-design-deterministic-vs-probabilistic-matching-for-cus-127717) |

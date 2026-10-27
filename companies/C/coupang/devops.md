@@ -2,6 +2,8 @@
 
 [← back to Coupang](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a capacity-and-reservation strategy on GCP that guarantees compute for a critical launch (CUDs, reservations, Spot fallback) while keeping steady-state cost efficient. Where do reservations backfire? | deep understanding | SDE-2/3, Architect/Principal | GCP | Phone Screen, Onsite | Tech | Asked at Coupang | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-capacity-and-reservation-strategy-on-gcp-that-guarantees-comp-54691) |

@@ -2,6 +2,8 @@
 
 [← back to Groq](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An LLM gateway must enforce both requests-per-minute and tokens-per-minute per API key simultaneously and return which limit was hit. Design the dual-limiter and the header contract you'd expose. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Rate Limiting | Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Groq | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-llm-gateway-must-enforce-both-requests-per-minute-and-tokens-per-mi-25982) |

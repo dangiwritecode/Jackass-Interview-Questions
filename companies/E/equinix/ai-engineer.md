@@ -2,6 +2,8 @@
 
 [← back to Equinix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan capacity when the binding constraint shifts from GPU supply to grid power availability at your chosen datacenter site? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | Asked at Equinix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-when-the-binding-constraint-shifts-from-gpu-s-86671) |

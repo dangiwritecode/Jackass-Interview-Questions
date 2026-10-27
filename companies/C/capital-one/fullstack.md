@@ -2,6 +2,8 @@
 
 [← back to Capital-One](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you use characterization/golden-master testing to safely pay down debt in a subsystem with no tests and no documented behavior, and how do you decide it's 'safe enough' to start refactoring? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Capital-One | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-characterization-golden-master-testing-to-safely-pay-do-41496) |

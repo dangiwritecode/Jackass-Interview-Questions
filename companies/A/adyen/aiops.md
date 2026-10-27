@@ -2,6 +2,8 @@
 
 [← back to Adyen](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern a coordinated multi-regulator inquiry that hinges on observability data at once — an EU DPA questioning telemetry retention a US state AG on an automated-decision incident and a PCI forensic investigator on a payment-log leak — so parallel evidence requests over the same telemetry don't conflict or contaminate each other. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Adyen | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-a-coordinated-multi-regulator-inq-100291) |

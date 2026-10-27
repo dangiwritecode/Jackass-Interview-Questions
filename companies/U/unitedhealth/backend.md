@@ -2,6 +2,8 @@
 
 [← back to UnitedHealth](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: how would this design change if a single record must simultaneously satisfy PCI (retain audit data) GDPR (erase on request) and HIPAA (minimum-necessary access)? Walk through resolving the three-way conflict at the field level. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at UnitedHealth | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-would-this-design-change-if-a-single-record-mu-37294) |

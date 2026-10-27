@@ -2,6 +2,8 @@
 
 [← back to Verizon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd migrate a 5-PB lake from Hadoop-on-prem to a multi-cloud target while keeping analytics running — what's your cutover strategy and rollback plan? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Verizon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-migrate-a-5-pb-lake-from-hadoop-on-prem-to-a-multi--127271) |

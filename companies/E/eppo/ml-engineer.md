@@ -2,6 +2,8 @@
 
 [← back to Eppo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want to A/B two prompts or two models in production and slice quality and cost by variant. How do you attach per-request metadata and design the experiment so results are comparable? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Eppo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-a-b-two-prompts-or-two-models-in-production-and-slice-qual-64145) |

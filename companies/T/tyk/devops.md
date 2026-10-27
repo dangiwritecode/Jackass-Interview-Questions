@@ -2,6 +2,8 @@
 
 [← back to Tyk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff point pits a centralized ingress/API-gateway tier (uniform auth, rate-limit, observability) against per-team ingress ownership (autonomy, no shared bottleneck). How do you scenario-test this against a fleet-wide outage scenario and a team-velocity scenario? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Tyk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-point-pits-a-centralized-ingress-api-gateway-tier-uniform-a-53303) |

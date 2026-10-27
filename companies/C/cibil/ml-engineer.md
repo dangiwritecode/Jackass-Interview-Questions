@@ -2,6 +2,8 @@
 
 [← back to CIBIL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you audit an XGBoost credit model for fairness across protected groups without directly using those attributes as features? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at CIBIL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-audit-an-xgboost-credit-model-for-fairness-across-protec-65920) |

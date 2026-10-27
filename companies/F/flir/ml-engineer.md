@@ -2,6 +2,8 @@
 
 [← back to FLIR](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your pretrained model uses ImageNet mean/std normalization but your images are infrared. How would you adapt normalization and what breaks if you don't? | deep understanding | SDE-1/2, SDE-2/3 | Computer Vision Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at FLIR | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-pretrained-model-uses-imagenet-mean-std-normalization-but-your-im-66354) |

@@ -2,6 +2,8 @@
 
 [← back to Unilever](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a carbon-and-cost-aware scheduling strategy where non-urgent batch workloads run in the cheapest/greenest region and time window — and defend the added cross-region data-transfer and complexity cost against the actual savings? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Unilever | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-carbon-and-cost-aware-scheduling-strategy-wh-52390) |

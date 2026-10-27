@@ -2,6 +2,8 @@
 
 [← back to BookMyShow](README.md)
 
+Questions 1–107 of 107.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the org's default answer to 'browse-yes, act-no' partial-availability design, so that during any partition the read/browse surface stays up while only the mutating/committing surface degrades, and this is a reusable platform pattern rather than per-team improvisation? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at BookMyShow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-s-default-answer-to-browse-yes-act-no-partia-32295) |

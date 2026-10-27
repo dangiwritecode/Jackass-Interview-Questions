@@ -2,6 +2,8 @@
 
 [← back to Stitch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vendor SaaS is 30% cheaper than building your ingestion layer but locks your pipeline metadata and connector configs into their proprietary format — how do you quantify that data/config lock-in as a first-class risk and fold it into the decision rather than treating it as a footnote? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Stitch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-saas-is-30-cheaper-than-building-your-ingestion-layer-but-loc-125835) |

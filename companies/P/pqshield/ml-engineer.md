@@ -2,6 +2,8 @@
 
 [← back to PQShield](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance for the 'harvest-now-decrypt-later' risk on long-lived encrypted PII training corpora — post-quantum crypto migration for data that must stay confidential for decades as models retrain on it repeatedly? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at PQShield | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-the-harvest-now-decrypt-later-risk-70019) |

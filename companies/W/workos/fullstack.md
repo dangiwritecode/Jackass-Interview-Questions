@@ -2,6 +2,8 @@
 
 [← back to WorkOS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A large customer demands SCIM so deprovisioned employees lose access within seconds, but your tokens live an hour. As architect, reconcile SCIM's deprovision event with your token/session model to guarantee near-instant revocation without polling every tenant IdP. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at WorkOS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-large-customer-demands-scim-so-deprovisioned-employees-lose-access-w-38875) |

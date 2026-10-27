@@ -2,6 +2,8 @@
 
 [← back to AI2](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: how would you architect the org to safely experiment with new attention variants (RoPE scaling, ALiBi, NoPE) without destabilizing the production fleet? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at AI2 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-would-you-architect-the-org-to-safely-experiment-70448) |

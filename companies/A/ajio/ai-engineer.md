@@ -2,6 +2,8 @@
 
 [← back to Ajio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're accountable for a system-of-systems where a support agent, a fraud agent, and a fulfillment agent may act on the same order concurrently. Design the coordination and conflict-resolution architecture so they never produce contradictory actions. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Ajio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-accountable-for-a-system-of-systems-where-a-support-agent-a-fra-83087) |

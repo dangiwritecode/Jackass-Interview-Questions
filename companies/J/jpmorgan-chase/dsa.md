@@ -2,6 +2,8 @@
 
 [← back to JPMorgan Chase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Counting Ways to Decode a Numeric Message | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | 1-D DP, Dynamic Programming, Recursion with Memoization, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at JPMorgan Chase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-ways-to-decode-a-numeric-message-d91) |

@@ -2,6 +2,8 @@
 
 [← back to LocalStack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a testing strategy for a serverless estate so failure paths (throttling, DLQ, partial-batch, region failover) are validated in CI, given they only manifest under real concurrency — what's the org standard and what does it cost? | deep understanding | SDE-2/3, Architect/Principal | Serverless | Phone Screen, Onsite | Tech | Asked at LocalStack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-testing-strategy-for-a-serverless-estate-so-fai-31862) |

@@ -2,6 +2,8 @@
 
 [← back to Rakuten](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through your reference architecture for a policy-as-code remediation engine that spans on-prem, multiple clouds, and edge, and where the seams are hardest. | deep understanding | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Rakuten | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-your-reference-architecture-for-a-policy-as-code-remed-101538) |

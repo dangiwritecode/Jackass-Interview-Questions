@@ -2,6 +2,8 @@
 
 [← back to Whatfix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why do interviewers say OLTP is about 'keeping the business running' and OLAP is about 'understanding the business'? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Whatfix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-do-interviewers-say-oltp-is-about-keeping-the-business-running-and-118777) |

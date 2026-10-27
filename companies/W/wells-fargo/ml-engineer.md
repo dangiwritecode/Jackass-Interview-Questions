@@ -2,6 +2,8 @@
 
 [← back to Wells Fargo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design a 'right to explanation' and 'right to contest' flow for automated decisions that satisfies both regulators and real users. | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Wells Fargo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-a-right-to-explanation-and-right-to-contest--71718) |

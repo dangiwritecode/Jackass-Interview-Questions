@@ -2,6 +2,8 @@
 
 [← back to Haptik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a system to store and retrieve chat message history for a support app. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Haptik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-to-store-and-retrieve-chat-message-history-for-a-suppo-8874) |

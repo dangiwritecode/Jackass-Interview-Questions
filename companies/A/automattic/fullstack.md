@@ -2,6 +2,8 @@
 
 [← back to Automattic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you mentor an engineer to give async review feedback across time zones that lands as coaching rather than as a terse verdict they read hours later with no author present? | deep understanding | SDE-2/3, Architect/Principal | Code Review & Mentorship | Onsite, Hiring Manager | Tech | Asked at Automattic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-mentor-an-engineer-to-give-async-review-feedback-across-tim-40352) |

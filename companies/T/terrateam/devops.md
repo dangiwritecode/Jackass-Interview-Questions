@@ -2,6 +2,8 @@
 
 [← back to Terrateam](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set the platform's approach to Terraform/OpenTofu at org scale — central module registry, per-team state, drift detection, and policy — so infrastructure change stays safe across dozens of teams without the platform becoming a plan-approval bottleneck? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at Terrateam | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-platform-s-approach-to-terraform-opentofu-at-org-sc-54260) |

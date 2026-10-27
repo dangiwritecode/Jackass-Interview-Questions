@@ -2,6 +2,8 @@
 
 [← back to AuditBoard](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a strategy to migrate a company off three separate GRC vendors (one for SOC2 one for PCI one home-grown for GDPR) onto a single control fabric without a compliance gap during cutover — how do you dual-run evidence and prove continuity to auditors mid-migration? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at AuditBoard | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-strategy-to-migrate-a-company-off-three-separate-grc-vendors--54027) |

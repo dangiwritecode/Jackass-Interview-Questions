@@ -2,6 +2,8 @@
 
 [← back to Koo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you measure per-language retrieval quality separately so a strong English metric doesn't hide poor Hindi or Tamil recall in your aggregate numbers? | deep understanding | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | Asked at Koo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-measure-per-language-retrieval-quality-separately-so-a-s-64332) |

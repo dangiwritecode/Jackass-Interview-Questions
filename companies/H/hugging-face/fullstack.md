@@ -2,6 +2,8 @@
 
 [← back to Hugging Face](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal probe: your LLM-orchestration uses a Chain-of-Responsibility of tools, but a hallucinated tool arg keeps propagating. How do you insert validation and typed guards between handlers without turning the chain into a rigid pipeline? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Hugging Face | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-probe-your-llm-orchestration-uses-a-chain-of-responsibilit-38454) |

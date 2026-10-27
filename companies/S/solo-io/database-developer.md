@@ -2,6 +2,8 @@
 
 [← back to Solo.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the CAP implications of running a stateful database inside a service mesh where mTLS handshakes and sidecar restarts can transiently sever intra-cluster links, and how you'd exclude the data-plane replication traffic from mesh-induced partitions. | deep understanding | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Solo.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-cap-implications-of-running-a-stateful-database-inside-a-s-111551) |

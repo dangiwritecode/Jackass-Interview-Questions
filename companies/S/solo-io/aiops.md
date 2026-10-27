@@ -2,6 +2,8 @@
 
 [← back to Solo.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an observability strategy for a service-mesh estate so you get consistent RED metrics and traces from the mesh without every team re-instrumenting and without double-counting spans. | expertise | SDE-2/3, Architect/Principal | Unified Observability (Logs/Metrics/Traces) | Phone Screen, Onsite | Tech | Asked at Solo.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-observability-strategy-for-a-service-mesh-estate-so-you-get--101658) |

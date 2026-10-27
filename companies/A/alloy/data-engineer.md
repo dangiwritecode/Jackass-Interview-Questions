@@ -2,6 +2,8 @@
 
 [← back to Alloy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | In one sentence, what makes a function a 'window' function rather than a scalar or aggregate function? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Banking companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-one-sentence-what-makes-a-function-a-window-function-rather-than-a--118967) |

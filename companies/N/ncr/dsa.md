@@ -2,6 +2,8 @@
 
 [← back to NCR](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Patch One Machine to Contain an Outbreak | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Connected Components, Depth-First Search, Disjoint Set Union, Graph, Hash Table, Union Find | DSA/Coding Round, Onsite | DSA | Asked at NCR | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=patch-one-machine-to-contain-an-outbreak-d909) |

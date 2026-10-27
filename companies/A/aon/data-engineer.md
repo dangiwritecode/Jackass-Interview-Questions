@@ -2,6 +2,8 @@
 
 [← back to Aon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between cache() and persist() and how you'd choose a StorageLevel for a DataFrame reused across ten downstream actions. | intermediate experience | SDE-1/2, SDE-2/3 | PySpark | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Consulting companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-cache-and-persist-and-how-you-d-choose--123778) |

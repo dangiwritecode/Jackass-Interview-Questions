@@ -2,6 +2,8 @@
 
 [← back to Circle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CloudTrail anomaly and a leaked long-lived access key trigger an incident — walk me through the containment forensics and the architectural changes (short-lived creds IMDSv2 IRSA) that make this class of leak impossible going forward. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Crypto companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cloudtrail-anomaly-and-a-leaked-long-lived-access-key-trigger-an-inc-33266) |

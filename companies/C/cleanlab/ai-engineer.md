@@ -2,6 +2,8 @@
 
 [← back to Cleanlab](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would detect and measure hallucination rate in production without human labels for every response. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Cleanlab | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-detect-and-measure-hallucination-rate-in-produc-79539) |

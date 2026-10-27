@@ -17,7 +17,7 @@
 | [Faros](faros/README.md) | Tier 3 | 540 | 1 |
 | [Fastenal](fastenal/README.md) | Tier 5 | 540 | 1 |
 | [FasterXML](fasterxml/README.md) | Tier 3 | 540 | 1 |
-| [Fastly](fastly/README.md) | Tier 2 | 827 | 1,595 |
+| [Fastly](fastly/README.md) | Tier 2 | 1,984 | 1,595 |
 | [Fathom](fathom/README.md) | Tier 4 | 540 | 1 |
 | [Fauna](fauna/README.md) | Tier 3 | 540 | 21 |
 | [FaunaDB](faunadb/README.md) | Tier 3 | 540 | 28 |
@@ -34,7 +34,7 @@
 | [FICO](fico/README.md) | Tier 3 | 540 | 3 |
 | [Fiddler AI](fiddler-ai/README.md) | Tier 4 | 614 | 228 |
 | [Fidelity](fidelity/README.md) | Tier 3 | 540 | 27 |
-| [Figma](figma/README.md) | Tier 2 | 707 | 627 |
+| [Figma](figma/README.md) | Tier 2 | 1,045 | 627 |
 | [Filecoin](filecoin/README.md) | Tier 4 | 540 | 1 |
 | [Finicity](finicity/README.md) | Tier 3 | 540 | 1 |
 | [Finout](finout/README.md) | Tier 5 | 540 | 4 |
@@ -43,7 +43,7 @@
 | [Fireflies](fireflies/README.md) | Tier 4 | 540 | 3 |
 | [Firefly](firefly/README.md) | Tier 3 | 540 | 8 |
 | [FireHydrant](firehydrant/README.md) | Tier 3 | 540 | 16 |
-| [Fireworks AI](fireworks-ai/README.md) | Tier 2 | 720 | 857 |
+| [Fireworks AI](fireworks-ai/README.md) | Tier 2 | 1,256 | 857 |
 | [FIRST/EPSS](first-epss/README.md) | Tier 3 | 540 | 1 |
 | [FirstCry](firstcry/README.md) | Tier 3 | 540 | 2 |
 | [FIS](fis/README.md) | Tier 3 | 540 | 4 |
@@ -51,7 +51,7 @@
 | [Fishtown](fishtown/README.md) | Tier 3 | 540 | 7 |
 | [Fitbit](fitbit/README.md) | Tier 3 | 540 | 1 |
 | [Fiverr](fiverr/README.md) | — | 2 | 2 |
-| [Fivetran](fivetran/README.md) | Tier 3 | 630 | 1,059 |
+| [Fivetran](fivetran/README.md) | Tier 3 | 1,430 | 1,059 |
 | [Fixie](fixie/README.md) | Tier 4 | 540 | 3 |
 | [Flagsmith](flagsmith/README.md) | Tier 4 | 540 | 13 |
 | [Flatiron](flatiron/README.md) | Tier 3 | 540 | 2 |
@@ -59,7 +59,7 @@
 | [Flexera](flexera/README.md) | Tier 4 | 540 | 34 |
 | [Flexport](flexport/README.md) | Tier 2 | 540 | 11 |
 | [Flickr](flickr/README.md) | Tier 3 | 540 | 1 |
-| [Flipkart](flipkart/README.md) | Tier 2 | 1,289 | 42,910 |
+| [Flipkart](flipkart/README.md) | Tier 2 | 48,350 | 42,910 |
 | [FLIR](flir/README.md) | Tier 3 | 540 | 1 |
 | [Flower](flower/README.md) | Tier 3 | 540 | 2 |
 | [Fly.io](fly-io/README.md) | Tier 4 | 581 | 152 |
@@ -76,10 +76,10 @@
 | [Foursquare](foursquare/README.md) | Tier 3 | 540 | 2 |
 | [Foxconn](foxconn/README.md) | Tier 3 | 540 | 1 |
 | [FPT](fpt/README.md) | Tier 4 | 540 | 1 |
-| [Fractal Analytics](fractal-analytics/README.md) | Tier 3 | 842 | 2,468 |
+| [Fractal Analytics](fractal-analytics/README.md) | Tier 3 | 2,759 | 2,468 |
 | [Framer](framer/README.md) | Tier 3 | 540 | 14 |
 | [Freecharge](freecharge/README.md) | Tier 4 | 540 | 5 |
-| [Freshworks](freshworks/README.md) | Tier 3 | 1,260 | 26,558 |
+| [Freshworks](freshworks/README.md) | Tier 3 | 31,196 | 26,558 |
 | [Front](front/README.md) | Tier 3 | 540 | 6 |
 | [Frontegg](frontegg/README.md) | Tier 4 | 540 | 1 |
 | [Fugue](fugue/README.md) | Tier 5 | 540 | 1 |

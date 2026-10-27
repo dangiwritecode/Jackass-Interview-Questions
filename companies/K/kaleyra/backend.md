@@ -2,6 +2,8 @@
 
 [← back to Kaleyra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the priority handling in a notification queue where OTP/transactional messages must never be delayed behind a bulk marketing blast — how do you isolate lanes and prevent priority inversion? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Kaleyra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-priority-handling-in-a-notification-queue-where-otp-transac-28354) |

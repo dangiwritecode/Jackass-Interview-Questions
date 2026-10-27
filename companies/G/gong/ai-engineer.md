@@ -2,6 +2,8 @@
 
 [← back to Gong](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An SVP wants to guarantee customers 'RAG never invents facts.' As the accountable principal, how do you reframe that impossible promise into an achievable, measurable groundedness SLO plus a disclosed residual-error rate, and defend it upward? | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Gong | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-svp-wants-to-guarantee-customers-rag-never-invents-facts-as-the-acc-82946) |

@@ -2,6 +2,8 @@
 
 [← back to Daytona](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an agent that must safely execute code or shell commands and how do you sandbox its blast radius? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Daytona | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-agent-that-must-safely-execute-code-or-shel-79540) |

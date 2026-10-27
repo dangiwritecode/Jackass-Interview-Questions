@@ -2,6 +2,8 @@
 
 [← back to Styra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an org-wide policy-as-code system where authorization, rate-limit, and routing policies are declared centrally and pushed to gateway data planes; how do you version, test, and audit policy changes, and prevent a bad policy from opening access to revoked principals? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Styra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-org-wide-policy-as-code-system-where-authorization-rate-limi-34544) |

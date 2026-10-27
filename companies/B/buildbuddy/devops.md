@@ -2,6 +2,8 @@
 
 [← back to BuildBuddy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal probe on cost: you claim aggressive caching cut CI cost dramatically. Prove the cache isn't silently masking real failures or shipping stale artifacts; what correctness invariants must the cache-key derivation guarantee at fleet scale, and how do you continuously audit for cache poisoning without disabling the cache? | expertise | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at BuildBuddy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-probe-on-cost-you-claim-aggressive-caching-cut-ci-cost-dra-52324) |

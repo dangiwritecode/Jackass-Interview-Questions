@@ -2,6 +2,8 @@
 
 [← back to Axis Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're setting enterprise-wide data-modeling standards across 12 divisions that each chose their own naming, keys, and normalization conventions. Do you mandate one modeling standard, federate with a shared glossary, or standardize only the interface contracts? Defend your governance model against 'this slows every team down.' | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Axis Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-setting-enterprise-wide-data-modeling-standards-across-12-divis-112554) |

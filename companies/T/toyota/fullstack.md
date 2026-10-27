@@ -2,6 +2,8 @@
 
 [← back to Toyota](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain pull vs push flow with a concrete example, and how converting a push-based Scrum board to a pull-based Kanban flow changed your team's throughput and stress. | intermediate experience | SDE-1/2, SDE-2/3 | Agile/Scrum | Phone Screen, Hiring Manager | Tech | Asked at Toyota | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-pull-vs-push-flow-with-a-concrete-example-and-how-converting-a-20072) |

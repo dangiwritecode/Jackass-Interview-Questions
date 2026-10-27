@@ -2,6 +2,8 @@
 
 [← back to Aiven](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe your build-vs-buy framework for choosing a managed cloud database versus running Postgres on Kubernetes for a 5000-engineer org — what tips the scale and who owns the decision? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Aiven | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-build-vs-buy-framework-for-choosing-a-managed-cloud-data-115151) |

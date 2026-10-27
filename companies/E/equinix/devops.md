@@ -2,6 +2,8 @@
 
 [← back to Equinix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: you built the business case for repatriating your steady-state workloads to bare metal and it penciled out, but two years later the cloud cut prices and released a cheaper instance generation. How did you account for cloud price deflation in the original decision, and would you reverse course? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Equinix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-built-the-business-case-for-repatriating-your-st-53887) |

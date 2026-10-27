@@ -2,6 +2,8 @@
 
 [← back to Sourcegraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A server-side tool loop hit its iteration limit and returned a pause stop reason. Why should you re-send the conversation as-is to resume, not inject a Continue message? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Sourcegraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-server-side-tool-loop-hit-its-iteration-limit-and-returned-a-pause-s-20364) |

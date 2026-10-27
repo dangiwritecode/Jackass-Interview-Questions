@@ -2,6 +2,8 @@
 
 [← back to ReadMe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the docs-as-a-product strategy: interactive reference, tutorials, changelog, migration guides, and SDK docs, all kept in sync with the API across 40 teams. Who owns docs, how do you enforce "no ship without docs," and how do you measure doc quality? | expertise | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at ReadMe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-docs-as-a-product-strategy-interactive-reference-tutorials--36462) |

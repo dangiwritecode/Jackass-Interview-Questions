@@ -2,6 +2,8 @@
 
 [← back to Klarna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a data-residency-compliant multi-region AI platform where the control plane is global but every embedding and prompt of an EU user must never leave the EU, including through logs and traces? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Klarna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-data-residency-compliant-multi-region-ai-pla-82745) |

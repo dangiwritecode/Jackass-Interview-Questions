@@ -2,6 +2,8 @@
 
 [← back to Smallstep](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the resiliency trade-offs of a service mesh's automatic mTLS and cert rotation at fleet scale. How do you keep a cert-authority outage or a mass cert-expiry event from becoming a total-fleet mutual-TLS outage? | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Smallstep | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-resiliency-trade-offs-of-a-service-mesh-s-automatic-mtls-a-52831) |

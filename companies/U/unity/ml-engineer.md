@@ -2,6 +2,8 @@
 
 [← back to Unity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle warm-up of a FastAPI model server so the first real request does not pay the cost of lazy CUDA context creation and JIT compilation? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Unity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-warm-up-of-a-fastapi-model-server-so-the-first-real--62906) |

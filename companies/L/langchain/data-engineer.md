@@ -2,6 +2,8 @@
 
 [← back to LangChain](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the migration so that AI/GenAI workloads (RAG over enterprise data, embeddings) can consume the lakehouse from day one rather than being bolted on later? | expertise | SDE-2/3, Architect/Principal | Lakehouse Migration Strategy | Onsite, Hiring Manager | Tech | Asked at LangChain | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-migration-so-that-ai-genai-workloads-rag-over-126909) |

@@ -2,6 +2,8 @@
 
 [← back to Paperspace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you launch a Jupyter notebook on a remote Linux server and access it from your local browser via SSH port forwarding? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Paperspace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-launch-a-jupyter-notebook-on-a-remote-linux-server-and-acce-57852) |

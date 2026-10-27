@@ -2,6 +2,8 @@
 
 [← back to Dell Boomi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide whether to adopt a commercial low-code/iPaaS for 'citizen integrator' business teams alongside your engineering-grade platform? Architect the guardrails so citizen integrations don't become ungoverned shadow-IT that you inherit at 2am. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Dell Boomi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-to-adopt-a-commercial-low-code-ipaas-for-cit-36383) |

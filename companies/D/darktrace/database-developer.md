@@ -2,6 +2,8 @@
 
 [← back to Darktrace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design controls and drills to detect and respond to a slow, low-volume data-exfiltration campaign that stays under per-query rate thresholds for months. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Darktrace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-controls-and-drills-to-detect-and-respond-to--114130) |

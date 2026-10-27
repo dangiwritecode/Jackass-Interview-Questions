@@ -2,6 +2,8 @@
 
 [← back to Tech Mahindra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How can you make an Ingress optional in a chart depending on a values toggle? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Helm | Phone Screen, Onsite | Tech | Asked at Tech Mahindra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-can-you-make-an-ingress-optional-in-a-chart-depending-on-a-values--43611) |

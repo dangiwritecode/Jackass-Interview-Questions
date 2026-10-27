@@ -2,6 +2,8 @@
 
 [← back to Pinterest](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Argue where the platform should stop scaling vertically (bigger nodes, more parallelism inside a job) and start scaling horizontally (more jobs, sharded serving). What org and cost signals tell you you've crossed from 'buy a bigger hammer' to 're-architect for fan-out'? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Pinterest | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-where-the-platform-should-stop-scaling-vertically-bigger-nodes-m-100635) |

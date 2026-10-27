@@ -2,6 +2,8 @@
 
 [← back to Khan-Academy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A header value (User-Agent, Referer) is being logged into a system that later renders logs in a web UI and also builds a SQL query. Trace how one untrusted header becomes both a stored-XSS and a SQLi vector, and fix both. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Khan-Academy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-header-value-user-agent-referer-is-being-logged-into-a-system-that-l-19190) |

@@ -2,6 +2,8 @@
 
 [← back to Robinhood](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Define the SLOs, error budget, and dependency tier for Vault as a platform service that 300 microservices treat as tier-0. How do you keep app teams from making it a synchronous startup dependency? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Robinhood | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=define-the-slos-error-budget-and-dependency-tier-for-vault-as-a-platfo-54923) |

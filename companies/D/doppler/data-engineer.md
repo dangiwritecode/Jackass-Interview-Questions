@@ -2,6 +2,8 @@
 
 [← back to Doppler](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the trade-offs of centralized secrets management (Vault) for data-pipeline credentials versus cloud-native secret stores, and how secret sprawl becomes an access-governance problem at scale. | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Doppler | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-trade-offs-of-centralized-secrets-management-vault-for-dat-126712) |

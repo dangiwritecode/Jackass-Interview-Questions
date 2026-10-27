@@ -2,6 +2,8 @@
 
 [← back to Rackspace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're strangling a monolith and simultaneously a cloud provider migration is mandated — how do you avoid double-moving each slice and coordinate the two programs? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | Asked at Rackspace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-strangling-a-monolith-and-simultaneously-a-cloud-provider-migra-40945) |

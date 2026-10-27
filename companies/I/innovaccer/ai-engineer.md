@@ -2,6 +2,8 @@
 
 [← back to Innovaccer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must ship an SFT model for a healthcare FAQ bot — how do you build the eval to catch dangerous confident hallucinations before release? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Innovaccer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-ship-an-sft-model-for-a-healthcare-faq-bot-how-do-you-build-t-82068) |

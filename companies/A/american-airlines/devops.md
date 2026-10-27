@@ -2,6 +2,8 @@
 
 [← back to American Airlines](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a backstage-style internal developer portal and golden-path templates so a new service arrives pre-wired with security, SLOs, and CI/CD, and prevent template drift as standards evolve over years? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at American Airlines | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-backstage-style-internal-developer-portal-an-51956) |

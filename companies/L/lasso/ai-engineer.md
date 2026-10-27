@@ -2,6 +2,8 @@
 
 [← back to Lasso](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design an eval to detect and quantify prompt-injection susceptibility across every tool-using surface in a large agent platform? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Lasso | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-eval-to-detect-and-quantify-prompt-injection-s-86863) |

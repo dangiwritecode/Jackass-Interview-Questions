@@ -2,6 +2,8 @@
 
 [← back to HiddenLayer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you detect prompt injection or adversarial inputs that manifest as apparent prompt drift in your metrics? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at HiddenLayer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-prompt-injection-or-adversarial-inputs-that-manif-97850) |

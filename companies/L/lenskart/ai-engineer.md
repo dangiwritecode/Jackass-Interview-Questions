@@ -2,6 +2,8 @@
 
 [← back to Lenskart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you explain why an LLM confidently answers 'my order 8821 status' with a plausible fabrication, and design a guardrail so it never does? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Lenskart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-why-an-llm-confidently-answers-my-order-8821-sta-77947) |

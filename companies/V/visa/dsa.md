@@ -2,6 +2,8 @@
 
 [← back to Visa](README.md)
 
+Questions 1–101 of 101.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Canonicalize an Absolute File-System Path | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Parsing, Simulation, Stack, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Visa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=canonicalize-an-absolute-file-system-path-d71) |

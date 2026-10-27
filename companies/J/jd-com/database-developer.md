@@ -2,6 +2,8 @@
 
 [← back to JD.com](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're migrating a monolithic Postgres to a Vitess-sharded MySQL topology. Vitess uses a lock server (etcd/ZooKeeper) for topology, not per-row consensus. Explain what consistency guarantees you lose vs. a native consensus DB and how you compensate for cross-shard atomicity. | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at JD.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-migrating-a-monolithic-postgres-to-a-vitess-sharded-mysql-topol-112174) |

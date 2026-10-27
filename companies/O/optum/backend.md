@@ -2,6 +2,8 @@
 
 [← back to Optum](README.md)
 
+Questions 1–112 of 112.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What are the four pillars of OOP and how does C# support each? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | .NET | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Optum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-four-pillars-of-oop-and-how-does-c-support-each-3374) |

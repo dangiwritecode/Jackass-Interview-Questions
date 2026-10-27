@@ -2,6 +2,8 @@
 
 [← back to Citadel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect self-healing for a real-time low-latency system (payments, trading, ad-serving) where a wrong remediation is worse than the fault itself? | expertise | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Citadel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-self-healing-for-a-real-time-low-latency-syste-101608) |

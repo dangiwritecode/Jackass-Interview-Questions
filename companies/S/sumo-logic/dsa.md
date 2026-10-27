@@ -2,6 +2,8 @@
 
 [← back to Sumo Logic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Longest Window Where Max Minus Min Stays Within a Tolerance | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Deque, Heap (Priority Queue), Monotonic Queue, Ordered Set, Sliding Window, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Sumo Logic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-window-where-max-minus-min-stays-within-a-tolerance-d1381) |

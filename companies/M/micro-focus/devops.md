@@ -2,6 +2,8 @@
 
 [← back to Micro-Focus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe your approach to migrating a workload that spans on-prem mainframe and modern microservices; which parts get which R and how do you keep them integrated during transition? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Micro-Focus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-approach-to-migrating-a-workload-that-spans-on-prem-main-56542) |

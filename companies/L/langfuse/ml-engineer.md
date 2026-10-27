@@ -2,6 +2,8 @@
 
 [← back to Langfuse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for an LLM-observability/tracing layer (buy LangSmith/Langfuse/Helicone vs build on OpenTelemetry + your store) when you need per-trace token cost, latency, and eval scores across agentic multi-step calls? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Langfuse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-llm-observability-tracing-layer--69823) |

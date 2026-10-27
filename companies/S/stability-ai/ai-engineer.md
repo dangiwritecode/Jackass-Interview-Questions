@@ -2,6 +2,8 @@
 
 [← back to Stability AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A powerful team wants to ship a self-hosted uncensored open model for a creative feature, bypassing your safety-model gate. As principal, how do you handle the governance conflict, the real product need, and the org-level risk without just saying no? | expertise | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Stability AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-powerful-team-wants-to-ship-a-self-hosted-uncensored-open-model-for--83466) |

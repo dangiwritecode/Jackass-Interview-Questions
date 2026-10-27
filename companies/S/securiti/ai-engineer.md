@@ -2,6 +2,8 @@
 
 [← back to Securiti](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a tool-call audit trail that lets a compliance auditor reconstruct exactly what data the model saw and what actions it took, balanced against not retaining full raw prompts forever. What do you hash, redact, and retain, and for how long? | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Securiti | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-tool-call-audit-trail-that-lets-a-compliance-auditor-reconstr-83082) |

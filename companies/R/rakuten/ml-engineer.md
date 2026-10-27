@@ -2,6 +2,8 @@
 
 [← back to Rakuten](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a phased migration from encoder-decoder to decoder-only Transformers across a summarization and translation product suite without regressing quality? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Rakuten | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-phased-migration-from-encoder-decoder-to-decode-70462) |

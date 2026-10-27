@@ -2,6 +2,8 @@
 
 [← back to Disqus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design an API + query so a "load more comments" nested-thread view stays fast and consistent while new comments are being inserted concurrently? | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Disqus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-api-query-so-a-load-more-comments-nested-thread-v-24345) |

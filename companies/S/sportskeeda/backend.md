@@ -2,6 +2,8 @@
 
 [← back to Sportskeeda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd cache and serve a real-time-ish scoreboard (updates every few seconds) to millions without hitting origin per request. Compare short-TTL micro-caching with jitter, edge push/purge, and an edge-KV write-through approach. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at Sportskeeda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-cache-and-serve-a-real-time-ish-scoreboard-updates-e-29742) |

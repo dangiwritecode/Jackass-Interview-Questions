@@ -2,6 +2,8 @@
 
 [← back to Loggly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you find the most frequent error message in a logs table so you can identify the top recurring failure? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Loggly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-find-the-most-frequent-error-message-in-a-logs-table-so-you-87355) |

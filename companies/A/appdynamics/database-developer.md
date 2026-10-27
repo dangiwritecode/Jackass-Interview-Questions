@@ -2,6 +2,8 @@
 
 [← back to AppDynamics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probe: your HA design assumes the network is the failure domain, but most of your incidents were bad configs and human error. How does that reshape where you invest? | expertise | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at Observability companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probe-your-ha-design-assumes-the-network-is-the-failure-d-114712) |

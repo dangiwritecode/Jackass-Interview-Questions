@@ -2,6 +2,8 @@
 
 [← back to Gojek](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What are the operational risks of session-level primary pinning at scale, and how do you keep pinning from silently eroding all your read-offload benefits? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at Gojek | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-operational-risks-of-session-level-primary-pinning-at-sca-115458) |

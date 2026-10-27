@@ -2,6 +2,8 @@
 
 [← back to XTDB/JUXT](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect index and read strategy for a bitemporal table (valid-time plus transaction-time) where 'as-of' queries dominate? Explain why naive composite indexes explode and what modeling makes temporal queries tractable at scale. | expertise | SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at XTDB/JUXT | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-index-and-read-strategy-for-a-bitemporal-table-111687) |

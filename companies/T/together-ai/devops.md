@@ -2,6 +2,8 @@
 
 [← back to Together AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach capacity planning when demand and supply are both uncertain — you don't know next quarter's traffic and the vendor can't guarantee GPU/instance availability? Frame the strategy under two-sided uncertainty and where you hedge. | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Together AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-capacity-planning-when-demand-and-supply-are-both--52992) |

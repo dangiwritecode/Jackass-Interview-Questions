@@ -2,6 +2,8 @@
 
 [← back to Hazelcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain when a caching layer in front of the database actually costs more than it saves — low hit rate, expensive cache infra, invalidation complexity. How do you compute the break-even hit ratio that justifies keeping the cache tier? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Hazelcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-when-a-caching-layer-in-front-of-the-database-actually-costs-m-112269) |

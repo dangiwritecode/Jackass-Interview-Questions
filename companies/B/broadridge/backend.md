@@ -2,6 +2,8 @@
 
 [← back to Broadridge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how a saga platform coexists with a legacy batch-settlement system that only reconciles nightly. How do you bridge real-time sagas with an end-of-day batch source of truth without letting the two drift into permanent disagreement? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | Asked at Broadridge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-a-saga-platform-coexists-with-a-legacy-batch-settlement-sys-34164) |

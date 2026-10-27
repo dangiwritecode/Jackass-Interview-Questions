@@ -2,6 +2,8 @@
 
 [← back to JupiterOne](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the accuracy of your inventory/asset graph across clouds? If you don't know what exists you can't govern it — how do you achieve near-real-time discovery? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at JupiterOne | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-accuracy-of-your-inventory-asset-graph-across-cl-55995) |

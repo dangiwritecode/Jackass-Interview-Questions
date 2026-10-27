@@ -2,6 +2,8 @@
 
 [← back to Roblox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: you designed for 100x but the traffic came 10x higher in one dimension you didn't anticipate. How do you build architectural optionality so the system bends rather than breaks when growth arrives in an unexpected shape? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Roblox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-you-designed-for-100x-but-the-traffic-came-10x-h-32150) |

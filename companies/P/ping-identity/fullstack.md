@@ -2,6 +2,8 @@
 
 [← back to Ping Identity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A downstream service naively trusts the sub claim to find the user but two IdPs can issue the same sub. How do you design a globally unique user identity across multiple identity providers? | deep understanding | SDE-1/2, SDE-2/3 | JWT/OAuth/Sessions | Phone Screen, Onsite | Tech | Asked at Ping Identity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-service-naively-trusts-the-sub-claim-to-find-the-user-but-19054) |

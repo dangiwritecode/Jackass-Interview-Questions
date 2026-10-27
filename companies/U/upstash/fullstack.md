@@ -2,6 +2,8 @@
 
 [← back to Upstash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A third-party API you fetch in Server Components has strict rate limits — how do you dedupe, cache, and coalesce requests across concurrent renders and users? | deep understanding | SDE-1/2, SDE-2/3 | Next.js | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Upstash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-third-party-api-you-fetch-in-server-components-has-strict-rate-limit-17259) |

@@ -2,6 +2,8 @@
 
 [← back to EDB](README.md)
 
+Questions 1–137 of 137.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A COUNT filter with LIMIT is used for pagination totals and it's killing performance. Why is computing an exact total count for pagination expensive and what UX/tech compromises do you offer? | intermediate experience | SDE-1, SDE-1/2 | Aggregate Functions | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at EDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-count-filter-with-limit-is-used-for-pagination-totals-and-it-s-killi-109128) |

@@ -2,6 +2,8 @@
 
 [← back to Kuaishou](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a graph-neural-network / large-embedding-table serving system for recommendations (buy vs build on TorchRec/HugeCTR + your own parameter server) when trillion-parameter embedding tables blow past any vendor's abstractions? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Kuaishou | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-graph-neural-network-large-embedd-69858) |

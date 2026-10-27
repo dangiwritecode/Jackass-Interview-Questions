@@ -2,6 +2,8 @@
 
 [← back to Graphite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain stacked PRs for an agent feature split into dependent layers (tool schemas, planner prompt, executor). How do they map to branches, and what breaks when a lower PR is squash-merged? | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Graphite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-stacked-prs-for-an-agent-feature-split-into-dependent-layers-t-77330) |

@@ -2,6 +2,8 @@
 
 [← back to SBI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach build-vs-buy for a capability that must work identically on-prem (for one regulated customer) and in cloud (for everyone else) — does the deployment-topology constraint force you to build for portability? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at SBI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-build-vs-buy-for-a-capability-that-must-work-ident-41068) |

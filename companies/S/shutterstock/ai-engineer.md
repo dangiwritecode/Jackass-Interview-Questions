@@ -2,6 +2,8 @@
 
 [← back to Shutterstock](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a governance gate that classifies training data by license (open/permissive/restrictive/unknown) and blocks unknown-license data from foundation training? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Shutterstock | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-governance-gate-that-classifies-training-data-b-86742) |

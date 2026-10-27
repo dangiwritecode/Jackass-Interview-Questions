@@ -2,6 +2,8 @@
 
 [← back to Proxmox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide the right hypervisor (ESXi, KVM, Hyper-V, Proxmox) for a new on-prem private cloud, considering cost and skills? | deep understanding | SDE-1/2, SDE-2/3 | Virtualization | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Proxmox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-right-hypervisor-esxi-kvm-hyper-v-proxmox-for-49607) |

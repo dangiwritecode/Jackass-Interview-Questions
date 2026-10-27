@@ -2,6 +2,8 @@
 
 [← back to Imperva](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team argues WAF-based virtual patching lets them defer code fixes indefinitely. Present a concrete case where a WAF rule was bypassed via encoding/parameter-splitting while the app stayed vulnerable, and set an org policy on WAF-as-stopgap versus root-cause SLA. | deep understanding | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Imperva | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-argues-waf-based-virtual-patching-lets-them-defer-code-fixes-in-39003) |

@@ -2,6 +2,8 @@
 
 [← back to FaunaDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a time you had to make a call on whether to invest in strong consistency guarantees at the cost of latency and availability for a product where the business wasn't sure it needed them. How did you decide? | expertise | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at FaunaDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-make-a-call-on-whether-to-invest-in-strong--40485) |

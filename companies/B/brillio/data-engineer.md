@@ -2,6 +2,8 @@
 
 [← back to Brillio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How can Firehose convert incoming JSON records to Parquet before writing them to S3, and why is that helpful? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Brillio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-can-firehose-convert-incoming-json-records-to-parquet-before-writi-116376) |

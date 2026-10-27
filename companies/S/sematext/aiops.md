@@ -2,6 +2,8 @@
 
 [← back to Sematext](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How could you use clustering to group thousands of similar log messages into a handful of log templates? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Sematext | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-could-you-use-clustering-to-group-thousands-of-similar-log-message-89629) |

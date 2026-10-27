@@ -2,6 +2,8 @@
 
 [← back to Faire](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: what's the single most common reason automated database failover causes an outage instead of preventing one? Defend your answer with an incident you've seen. | expertise | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at Marketplace companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-what-s-the-single-most-common-reason-automated-datab-114657) |

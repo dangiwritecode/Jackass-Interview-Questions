@@ -2,6 +2,8 @@
 
 [← back to Delivery Hero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A compliance mandate says EU customer data used for ML training must never leave eu-central and models trained on it can't be served from other regions — how do you enforce this provably at the account, S3-routing, training-job, and serving layers? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Delivery Hero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-compliance-mandate-says-eu-customer-data-used-for-ml-training-must-n-68604) |

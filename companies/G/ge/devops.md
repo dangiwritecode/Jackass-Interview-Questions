@@ -2,6 +2,8 @@
 
 [← back to GE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your Retire disposition depends on someone confirming an app is truly unused; describe how you'd build evidence-based decommissioning at scale without breaking a silent downstream consumer. | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at GE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-retire-disposition-depends-on-someone-confirming-an-app-is-truly--56532) |

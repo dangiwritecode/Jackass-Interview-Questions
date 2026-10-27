@@ -2,6 +2,8 @@
 
 [← back to American Express](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the strategy for serving a model that must meet both a strict per-token audit-log requirement and a tight latency SLO; how does mandatory logging change your batching design? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at American Express | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-strategy-for-serving-a-model-that-must-meet-both-a-strict-p-85160) |

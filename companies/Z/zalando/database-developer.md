@@ -2,6 +2,8 @@
 
 [← back to Zalando](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A follow-up: your synchronous standby dies and the primary now blocks on commit. How do you design for graceful degradation so a standby failure doesn't take down writes? | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at Zalando | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-follow-up-your-synchronous-standby-dies-and-the-primary-now-blocks-o-114666) |

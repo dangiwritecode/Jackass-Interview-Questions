@@ -2,6 +2,8 @@
 
 [← back to Predibase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must deploy a fine-tuned LoRA adapter without redeploying the base model. Design hot-swappable adapter serving and its limits under multi-tenant load. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Predibase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-deploy-a-fine-tuned-lora-adapter-without-redeploying-the-base-30894) |

@@ -2,6 +2,8 @@
 
 [← back to Serverless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a time you had to lead the org's decision on whether to adopt a serverless-first strategy across product teams, knowing it would trade operational simplicity for cold-starts and vendor coupling. How did you decide? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Serverless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-lead-the-org-s-decision-on-whether-to-adopt-40491) |

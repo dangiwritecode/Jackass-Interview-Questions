@@ -2,6 +2,8 @@
 
 [← back to Hightouch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vendor demos a slick catalog-with-lineage product the same week your team pitches building one. Beyond the usual cost math, what non-obvious factors — talent opportunity cost, integration depth, the half-life of catalog tooling — actually tip a principal toward buying, and when would you still build despite all of them? | deep understanding | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | Asked at Hightouch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-demos-a-slick-catalog-with-lineage-product-the-same-week-your-125524) |

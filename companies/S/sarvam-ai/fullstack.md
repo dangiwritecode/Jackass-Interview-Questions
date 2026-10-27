@@ -2,6 +2,8 @@
 
 [← back to Sarvam AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: how would you adapt ATAM for evaluating an architecture that is heavily AI-agent-driven, where non-determinism is inherent? What new response measures (e.g. bounded hallucination rate, tool-call failure containment) enter the utility tree? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Sarvam AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-would-you-adapt-atam-for-evaluating-an-archite-40530) |

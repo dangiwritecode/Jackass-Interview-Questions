@@ -2,6 +2,8 @@
 
 [← back to Tech Mahindra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Name the four pillars of OOP and give a one-line definition of each. | basic concept | Fresher, SDE-1, SDE-1/2 | OOPS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tech Mahindra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=name-the-four-pillars-of-oop-and-give-a-one-line-definition-of-each-618) |

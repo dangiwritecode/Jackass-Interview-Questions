@@ -2,6 +2,8 @@
 
 [← back to Zalando](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a data-residency-aware adapter replication scheme where the same tenant is served from a region-local adapter copy that provably matches the canonical one bit-for-bit? | expertise | SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | Asked at Zalando | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-residency-aware-adapter-replication-scheme-84497) |

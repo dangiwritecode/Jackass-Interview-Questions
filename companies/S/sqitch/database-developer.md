@@ -2,6 +2,8 @@
 
 [← back to Sqitch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A revert of a bad migration merge to main is blocking the later re-merge of the corrected feature because Git thinks the changes are already applied. Explain the DAG mechanism and the exact sequence to cleanly re-introduce the migration. | deep understanding | SDE-1, SDE-1/2 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Sqitch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-revert-of-a-bad-migration-merge-to-main-is-blocking-the-later-re-mer-107776) |

@@ -2,6 +2,8 @@
 
 [← back to VictoriaMetrics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your GenAI platform's Prometheus can't handle the cardinality of per-model, per-tenant, per-prompt-family metrics. As principal, how would you architect a tiered/sharded metrics store (Mimir/Thanos/VictoriaMetrics), drive teams off unbounded label cardinality from model IDs, and set a per-team metrics budget that changes behavior? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at VictoriaMetrics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-genai-platform-s-prometheus-can-t-handle-the-cardinality-of-per-m-82613) |

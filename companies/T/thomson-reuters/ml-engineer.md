@@ -2,6 +2,8 @@
 
 [← back to Thomson Reuters](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your framework for evaluating and mitigating hallucination risk when a model is used for high-stakes decisions vs. low-stakes assistance? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Thomson Reuters | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-evaluating-and-mitigating-hallucination-risk-71716) |

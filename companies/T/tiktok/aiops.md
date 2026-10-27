@@ -2,6 +2,8 @@
 
 [← back to TikTok](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design monitoring for feedback-loop-induced drift where the platform's own models reshape the data distribution across many downstream models simultaneously? | expertise | SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at TikTok | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-monitoring-for-feedback-loop-induced-drift-where-the-101168) |

@@ -2,6 +2,8 @@
 
 [← back to Cloudability](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build a cost-per-token attribution pipeline that maps third-party API spend back to the exact feature, team, and end-user, when the provider's invoice is a single opaque monthly number? What tagging and metering architecture makes this work? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Cloudability | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-cost-per-token-attribution-pipeline-that-maps-third-83355) |

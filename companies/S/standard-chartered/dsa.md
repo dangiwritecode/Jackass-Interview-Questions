@@ -2,6 +2,8 @@
 
 [← back to Standard Chartered](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Add Two Numbers Stored as Reversed Digit Linked Lists | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Linked List, Math, Simulation, Two Pointers | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Banking companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=add-two-numbers-stored-as-reversed-digit-linked-lists-d2) |

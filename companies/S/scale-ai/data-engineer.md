@@ -2,6 +2,8 @@
 
 [← back to Scale AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A downstream ML team blames a model regression on 'bad data' but your quality checks are all green — how do you architect the framework so gaps like this are systematically closed rather than patched per-incident? | expertise | SDE-2/3, Architect/Principal | Data Quality Framework & SLAs | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Scale AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-ml-team-blames-a-model-regression-on-bad-data-but-your-qu-126919) |

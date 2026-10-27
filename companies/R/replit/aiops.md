@@ -2,6 +2,8 @@
 
 [← back to Replit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design change-risk prediction so it integrates with an AI-assisted-coding future where a large share of changes are LLM-generated? Does the risk profile of AI-authored diffs differ? | expertise | SDE-2/3, Architect/Principal | Change Risk Prediction | Phone Screen, Onsite | Tech | Asked at Replit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-change-risk-prediction-so-it-integrates-with-an-a-102584) |

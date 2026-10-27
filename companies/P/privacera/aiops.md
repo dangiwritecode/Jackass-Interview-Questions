@@ -2,6 +2,8 @@
 
 [← back to Privacera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you govern access to raw versus curated telemetry so data scientists get what they need for models without violating least-privilege on sensitive fields? | expertise | SDE-2/3, Architect/Principal | AIOps Data Governance & Standardization | Onsite, Hiring Manager | Tech | Asked at Privacera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-access-to-raw-versus-curated-telemetry-so-data-sc-103086) |

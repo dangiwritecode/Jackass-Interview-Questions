@@ -2,6 +2,8 @@
 
 [← back to Portworx](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design online PVC resizing and volume snapshots into your backup/restore runbook for a stateful service, and what StorageClass and CSI capabilities must be in place for it to work? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Portworx | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-online-pvc-resizing-and-volume-snapshots-into-you-19561) |

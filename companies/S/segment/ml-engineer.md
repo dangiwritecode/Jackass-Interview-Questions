@@ -2,6 +2,8 @@
 
 [← back to Segment](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd handle a DSAR that must include the inferences and scores your ML models derived about a user (predicted attributes segments) — is inferred data in scope and how do you architect its retrieval across model outputs? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Segment | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-handle-a-dsar-that-must-include-the-infe-69987) |

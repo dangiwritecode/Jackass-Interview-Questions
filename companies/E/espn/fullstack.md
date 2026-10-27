@@ -2,6 +2,8 @@
 
 [← back to ESPN](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the architecture for a live-sports second-screen experience (live scores commentary polls) for 50M concurrent viewers during a final — how do you fan out state updates run interactive polls and degrade gracefully when a wicket falls and everyone refreshes at once? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ESPN | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-a-live-sports-second-screen-experience-liv-39432) |

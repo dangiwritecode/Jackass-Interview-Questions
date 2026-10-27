@@ -2,6 +2,8 @@
 
 [← back to Tata Cliq](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide between raising max_tokens versus asking the model to be terse when answers occasionally truncate, and what does each cost you? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Tata Cliq | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-between-raising-max-tokens-versus-asking-the-mode-77925) |

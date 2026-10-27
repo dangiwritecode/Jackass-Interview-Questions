@@ -2,6 +2,8 @@
 
 [← back to Moveworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance for LLM/GenAI consumption of your telemetry (incident summarization, RAG over logs and runbooks) so sensitive prod data doesn't leak into prompts or embeddings while still enabling useful retrieval? What new controls does the platform need? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Moveworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-llm-genai-consumption-of-your-tele-99918) |

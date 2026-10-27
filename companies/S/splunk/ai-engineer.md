@@ -2,6 +2,8 @@
 
 [← back to Splunk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your platform's telemetry itself is becoming a major cloud cost as you trace every LLM call end to end. How would you architect sampling, tiering, and retention so you keep the signal needed for eval and debugging without the observability bill rivaling inference? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Splunk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-platform-s-telemetry-itself-is-becoming-a-major-cloud-cost-as-you-82790) |

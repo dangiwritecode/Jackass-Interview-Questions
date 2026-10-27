@@ -2,6 +2,8 @@
 
 [← back to Britive](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set up centralized IAM across many accounts using IAM Identity Center with permission sets, and how do you give an on-call engineer time-boxed elevated prod access that auto-expires? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Britive | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-centralized-iam-across-many-accounts-using-iam-id-46166) |

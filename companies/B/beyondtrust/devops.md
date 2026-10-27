@@ -2,6 +2,8 @@
 
 [← back to BeyondTrust](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare Vault against CyberArk/Conjur for privileged-access-management-heavy enterprises. Where does each win, and how would you position a hybrid where both coexist during a multi-year transition? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at BeyondTrust | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-vault-against-cyberark-conjur-for-privileged-access-management-54993) |

@@ -2,6 +2,8 @@
 
 [← back to Pingdom-SolarWinds](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked whether to invest in synthetic monitoring / black-box probing in addition to RUM and server-side SLIs at org scale. Where does synthetic uniquely earn its keep, where does it lie, and how do you stop synthetic checks from becoming a graveyard of stale scripts? | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Pingdom-SolarWinds | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-whether-to-invest-in-synthetic-monitoring-black-box-probi-99063) |

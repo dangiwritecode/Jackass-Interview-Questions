@@ -2,6 +2,8 @@
 
 [← back to Harness](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you make the platform's CI/CD treat models like software — testing, gating, progressive delivery — while accounting for the non-determinism and data-dependence that regular software doesn't have? | deep understanding | SDE-2/3, Architect/Principal | ML Platform Architecture | Onsite, Hiring Manager | Tech | Asked at Harness | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-the-platform-s-ci-cd-treat-models-like-software-testin-72012) |

@@ -2,6 +2,8 @@
 
 [← back to PolicyBazaar](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal loop asks how you'd design a 'process manager' (long-running stateful coordinator) versus a stateless saga orchestrator for a multi-day flow (KYC, onboarding); what state does the process manager own, how does it wake on external events, and when do you pick which? | deep understanding | SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at PolicyBazaar | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-loop-asks-how-you-d-design-a-process-manager-long-running--38362) |

@@ -2,6 +2,8 @@
 
 [← back to Evidently](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between input drift, retrieval drift, and output drift in an LLM system and how each would show up in your monitoring. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Evidently | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-input-drift-retrieval-drift-and-output--97853) |

@@ -2,6 +2,8 @@
 
 [← back to Medium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A designer wants to render user Markdown with raw HTML passthrough 'like GitHub does.' Explain GitHub's actual model, what settings you must enable/disable in your Markdown lib, and the residual risks. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Medium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-designer-wants-to-render-user-markdown-with-raw-html-passthrough-lik-19164) |

@@ -2,6 +2,8 @@
 
 [← back to Upbound](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding whether the org should adopt a cloud-agnostic abstraction layer (like Crossplane) over provider-native IaC. How do you weigh the portability promise against the abstraction's own lifecycle risk? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Upbound | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-the-org-should-adopt-a-cloud-agnostic-abstract-39335) |

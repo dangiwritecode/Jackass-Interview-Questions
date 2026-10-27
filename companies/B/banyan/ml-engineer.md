@@ -2,6 +2,8 @@
 
 [← back to Banyan](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd measure and reduce cold-start latency when a CNN model is loaded on-demand in a serverless inference setup. | deep understanding | SDE-1/2, SDE-2/3 | Deep Learning (Neural Networks/CNN/RNN) | Phone Screen, Onsite | Tech | Asked at Banyan | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-measure-and-reduce-cold-start-latency-when-a-cnn-mod-65153) |

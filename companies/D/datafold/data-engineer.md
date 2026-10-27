@@ -2,6 +2,8 @@
 
 [← back to Datafold](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you'd do blue-green / canary at the data layer, not just for stateless services. How do you canary a schema or transformation change that writes to a shared gold table, and roll back writes that already happened during the canary window without a monitoring or reporting gap? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Datafold | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-d-do-blue-green-canary-at-the-data-layer-not-125710) |

@@ -2,6 +2,8 @@
 
 [← back to Fivetran](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff exists between a schema-on-write pipeline (strong contracts, slower onboarding of new sources) and schema-on-read (flexible, risky downstream breakage). How do you scenario-test the data-quality and analyst-productivity impacts for a data platform? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Fivetran | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-exists-between-a-schema-on-write-pipeline-strong-contracts--40574) |

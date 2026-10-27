@@ -2,6 +2,8 @@
 
 [← back to Interactive Brokers](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set an availability and capacity strategy for a stock-trading platform where the load is spiky at market open, the correctness bar is absolute, and even seconds of downtime during a crash cost customers real money and you regulatory scrutiny? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Interactive Brokers | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-an-availability-and-capacity-strategy-for-a-stock-tradi-32159) |

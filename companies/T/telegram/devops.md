@@ -2,6 +2,8 @@
 
 [← back to Telegram](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the availability of a globally distributed chat/messaging backend (billions of messages, presence, per-conversation ordering) so you scale writes and fan-out while keeping availability high — and where do you accept eventual consistency versus enforce ordering? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Telegram | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-availability-of-a-globally-distributed-cha-52115) |

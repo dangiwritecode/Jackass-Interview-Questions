@@ -2,6 +2,8 @@
 
 [← back to Render](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design ephemeral per-PR preview environments spanning frontend and backend on AWS for hundreds of daily PRs — how do you keep cost data-seeding and teardown fully automatic and prevent orphaned resources from piling up? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Render | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-ephemeral-per-pr-preview-environments-spanning-frontend-and-bac-33273) |

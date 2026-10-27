@@ -2,6 +2,8 @@
 
 [← back to Robinhood](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A model that passed validation drifts silently and causes a material loss six months later. Where did your governance framework fail and how do you redesign the control? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Robinhood | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-that-passed-validation-drifts-silently-and-causes-a-material-l-71772) |

@@ -2,6 +2,8 @@
 
 [← back to Verica](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design a security chaos-engineering practice — deliberately injecting security failures — and justify the risk of it to a nervous leadership team? | expertise | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Verica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-security-chaos-engineering-practice-deliberately-i-55089) |

@@ -2,6 +2,8 @@
 
 [← back to Timescale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does EXPLAIN help you tell whether a slow telemetry query is doing a full table scan versus an index seek? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Timescale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-explain-help-you-tell-whether-a-slow-telemetry-query-is-doing-87393) |

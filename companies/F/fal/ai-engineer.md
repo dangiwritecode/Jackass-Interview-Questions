@@ -2,6 +2,8 @@
 
 [← back to Fal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why might you use a serverless GPU platform for occasional model inference instead of keeping a GPU instance running all day? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Fal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-might-you-use-a-serverless-gpu-platform-for-occasional-model-infer-76516) |

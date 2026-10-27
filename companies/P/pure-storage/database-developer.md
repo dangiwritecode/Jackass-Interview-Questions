@@ -2,6 +2,8 @@
 
 [← back to Pure Storage](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the trade-off between deduplicated backup storage that saves cost and the risk that a single corrupted dedup block can damage many restore points at once? | deep understanding | SDE-2/3, Architect/Principal | Backup & Recovery | Phone Screen, Onsite | Tech | Asked at Pure Storage | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-trade-off-between-deduplicated-backup-storage-114228) |

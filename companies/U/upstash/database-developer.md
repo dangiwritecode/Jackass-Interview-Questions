@@ -2,6 +2,8 @@
 
 [← back to Upstash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you size a Redis-based rate-limiter/counter store for 130k QPS of sliding-window writes, estimate the memory for the counters and TTLs, and describe the failure mode and cost of undersizing versus over-provisioning it? | intermediate experience | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Upstash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-size-a-redis-based-rate-limiter-counter-store-for-130k-q-112270) |

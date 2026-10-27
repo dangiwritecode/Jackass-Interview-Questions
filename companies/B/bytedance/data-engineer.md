@@ -2,6 +2,8 @@
 
 [← back to ByteDance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your streaming jobs on Flink keep large keyed state in RocksDB and the state store, not the compute, is the binding cost. How do you capacity-plan a state-heavy streaming fleet, and where do TTL, state-size, and checkpoint frequency cap concurrency and drive cost? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at ByteDance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-streaming-jobs-on-flink-keep-large-keyed-state-in-rocksdb-and-the-125331) |

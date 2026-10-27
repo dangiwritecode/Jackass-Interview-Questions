@@ -2,6 +2,8 @@
 
 [← back to Iron-Mountain](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to cut the fleet's carbon footprint while holding SLAs; how do you fold energy-per-token and carbon-aware scheduling into your inference-optimization strategy? | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at Iron-Mountain | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-cut-the-fleet-s-carbon-footprint-while-holding-slas-ho-71208) |

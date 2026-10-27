@@ -2,6 +2,8 @@
 
 [← back to Zendesk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd threat-model an internal admin dashboard that can act on any tenant's data. What controls (step-up auth, per-tenant scoping, customer-visible audit) reduce the risk of a compromised support engineer credential? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Zendesk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-threat-model-an-internal-admin-dashboard-that-can-ac-47857) |

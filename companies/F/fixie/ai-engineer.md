@@ -2,6 +2,8 @@
 
 [← back to Fixie](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide the granularity of tools you expose to an agent — few broad tools versus many narrow tools — and what breaks at each extreme? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Fixie | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-granularity-of-tools-you-expose-to-an-agent-f-79586) |

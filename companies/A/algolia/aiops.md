@@ -2,6 +2,8 @@
 
 [← back to Algolia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd measure retrieval precision drift using implicit user feedback (clicks, thumbs, follow-up rephrasings) as weak labels. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Algolia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-measure-retrieval-precision-drift-using-implicit-us-97875) |

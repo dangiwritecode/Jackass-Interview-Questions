@@ -2,6 +2,8 @@
 
 [← back to Lowe's India](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the reference architecture for a global inventory platform that must never oversell high-value SKUs but can tolerate soft counts on low-value ones. How do you make CAP posture a per-SKU-class attribute rather than a system-wide switch? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Retail companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-reference-architecture-for-a-global-inventory-platform-that-32243) |

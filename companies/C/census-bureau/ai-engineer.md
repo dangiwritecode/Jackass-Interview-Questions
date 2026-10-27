@@ -2,6 +2,8 @@
 
 [← back to Census Bureau](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect differential-privacy budgets as a governed, org-wide resource so multiple teams querying the same sensitive dataset don't collectively blow the privacy guarantee? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Census Bureau | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-differential-privacy-budgets-as-a-governed-org-wi-86090) |

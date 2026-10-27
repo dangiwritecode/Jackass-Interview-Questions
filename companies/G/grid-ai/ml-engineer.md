@@ -2,6 +2,8 @@
 
 [← back to Grid.ai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What does PyTorch Lightning abstract away and when would you avoid it in favor of raw PyTorch? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | PyTorch | Phone Screen, Onsite | Tech | Asked at Grid.ai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-pytorch-lightning-abstract-away-and-when-would-you-avoid-it--65538) |

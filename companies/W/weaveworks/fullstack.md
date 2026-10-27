@@ -2,6 +2,8 @@
 
 [← back to Weaveworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design the org's default posture on 'no SSH to prod' immutability (GitOps, replace-don't-patch) and how you'd win over veteran operators used to logging in and fixing things by hand. | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Weaveworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-the-org-s-default-posture-on-no-ssh-to-prod-i-39375) |

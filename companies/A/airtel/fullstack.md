@@ -2,6 +2,8 @@
 
 [← back to Airtel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Argue for or against building your own POP presence in a strategic market (say a specific region of India or Africa) versus relying on the CDN there. What traffic volume, regulatory pressure, and peering economics justify owning in-region infrastructure? | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at Airtel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-for-or-against-building-your-own-pop-presence-in-a-strategic-mar-39664) |

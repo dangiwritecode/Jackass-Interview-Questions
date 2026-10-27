@@ -2,6 +2,8 @@
 
 [← back to Kotak](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design and prove separation of duties between those who deploy schema changes, those who grant access, and those who read audit logs, at platform scale. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Kotak | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-and-prove-separation-of-duties-between-those-114092) |

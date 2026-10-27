@@ -2,6 +2,8 @@
 
 [← back to Soundcloud](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the cold-start problem for a new model in an A/B test where the model needs warm-up data to perform well? | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at Soundcloud | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-cold-start-problem-for-a-new-model-in-an-a-b-tes-67684) |

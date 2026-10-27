@@ -2,6 +2,8 @@
 
 [← back to BlueDart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you model a shipping/logistics domain with shipments, packages, legs and tracking events so status queries stay fast under high write volume? | deep understanding | SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at BlueDart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-shipping-logistics-domain-with-shipments-package-109525) |

@@ -2,6 +2,8 @@
 
 [← back to TigerGraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd back MDM entity resolution with a graph database versus a relational match store — when does the graph earn its complexity, and what breaks at scale? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at TigerGraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-back-mdm-entity-resolution-with-a-graph-database-ver-127727) |

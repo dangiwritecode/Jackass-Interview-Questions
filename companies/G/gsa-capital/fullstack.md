@@ -2,6 +2,8 @@
 
 [← back to GSA Capital](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How many trailing zeros are there in 50 factorial? | deep understanding | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at HFT companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-many-trailing-zeros-are-there-in-50-factorial-15785) |

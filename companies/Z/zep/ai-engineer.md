@@ -2,6 +2,8 @@
 
 [← back to Zep](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a memory design for a multi-turn agentic RAG assistant that avoids re-retrieving the same context. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Advanced RAG (GraphRAG/Agentic RAG) | Phone Screen, Onsite | Tech | Asked at Zep | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-memory-design-for-a-multi-turn-agentic-rag-assistant-that-a-81841) |

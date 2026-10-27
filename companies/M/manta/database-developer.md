@@ -2,6 +2,8 @@
 
 [← back to Manta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect end-to-end column-level and row-level data lineage across ingestion, transformation, and serving so an auditor can trace any figure back to source? | expertise | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | Asked at Manta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-end-to-end-column-level-and-row-level-data-lin-114749) |

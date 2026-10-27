@@ -2,6 +2,8 @@
 
 [← back to WunderGraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect caching for a GraphQL federation over multiple databases so each subgraph's differing cache semantics compose into a coherent supergraph response without one subgraph's staleness leaking into another? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at WunderGraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-graphql-federation-over-multiple-111521) |

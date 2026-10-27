@@ -2,6 +2,8 @@
 
 [← back to Figma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's stance on release-to-release behavioral variance for agents: how do you set stakeholder expectations, contractually bound variance in SLAs, and stop 'it worked yesterday' escalations from consuming your teams? | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Figma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-stance-on-release-to-release-behavioral-variance-for--83073) |

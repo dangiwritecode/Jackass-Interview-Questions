@@ -2,6 +2,8 @@
 
 [← back to Wissen Technology](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Longest Run of Consecutive Integers | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Set, Union Find | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Wissen Technology | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-run-of-consecutive-integers-d128) |

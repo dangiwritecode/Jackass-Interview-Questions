@@ -2,6 +2,8 @@
 
 [← back to cert-manager/Jetstack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why is a self-signed or expired internal TLS cert a compliance and security problem, and how would you automate cert issuance and rotation to prevent it? | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at cert-manager/Jetstack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-a-self-signed-or-expired-internal-tls-cert-a-compliance-and-sec-48014) |

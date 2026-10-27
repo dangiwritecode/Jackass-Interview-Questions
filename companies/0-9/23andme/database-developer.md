@@ -2,6 +2,8 @@
 
 [← back to 23andMe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design encryption and access controls for genomic/biometric special-category GDPR data where re-identification from even hashed data is a live risk — what extra layers do you add? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at 23andMe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-encryption-and-access-controls-for-genomic-biometric-special-ca-115276) |

@@ -2,6 +2,8 @@
 
 [← back to Vespa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A retrieval model needs faceted counts (results per category) alongside the top-k at query time; why can't you just count the returned page, and what index structure gives accurate facet totals cheaply? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Vespa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-retrieval-model-needs-faceted-counts-results-per-category-alongside--62568) |

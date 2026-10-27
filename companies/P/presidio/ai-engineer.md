@@ -2,6 +2,8 @@
 
 [← back to Presidio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide where to run PII redaction so raw sensitive text never reaches the embedding model or the LLM, and prove it in the design? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | Asked at Presidio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-where-to-run-pii-redaction-so-raw-sensitive-text--78444) |

@@ -2,6 +2,8 @@
 
 [← back to Akuna Capital](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect observability for a real-time payments or trading system where microsecond latency matters and instrumentation overhead is itself a reliability risk? | expertise | SDE-2/3, Architect/Principal | Unified Observability (Logs/Metrics/Traces) | Phone Screen, Onsite | Tech | Asked at Trading companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-observability-for-a-real-time-payments-or-trad-101677) |

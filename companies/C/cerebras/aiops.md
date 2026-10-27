@@ -2,6 +2,8 @@
 
 [← back to Cerebras](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the platform's approach to elastic, fault-tolerant training so a thousand-GPU job survives node failures and can grow or shrink mid-run as capacity fluctuates. What's the coordination cost, and where does elasticity become slower than just restarting from a checkpoint? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cerebras | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-platform-s-approach-to-elastic-fault-tolerant-training-so-a-100660) |

@@ -2,6 +2,8 @@
 
 [← back to Sourcegraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What governance do you put around model-generated code that flows into production systems — provenance, license, and vulnerability risk? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Sourcegraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-governance-do-you-put-around-model-generated-code-that-flows-into-71763) |

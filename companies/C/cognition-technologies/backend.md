@@ -2,6 +2,8 @@
 
 [← back to Cognition Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design capacity headroom and admission control for an agentic workflow where one user request can fan out into dozens of chained model calls with unpredictable depth, so a few heavy agent runs can't starve everyone else? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Cognition Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-capacity-headroom-and-admission-control-for-an-agent-32155) |

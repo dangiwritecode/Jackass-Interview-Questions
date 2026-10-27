@@ -2,6 +2,8 @@
 
 [← back to Mulesoft](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your agent must call a legacy SOAP API and a modern REST API through the same tool interface. How would you abstract these while keeping error semantics clean? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Agentic Workflows | Phone Screen, Onsite | Tech | Asked at Mulesoft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-agent-must-call-a-legacy-soap-api-and-a-modern-rest-api-through-t-80547) |

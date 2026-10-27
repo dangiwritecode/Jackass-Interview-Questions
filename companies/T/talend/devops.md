@@ -2,6 +2,8 @@
 
 [← back to Talend](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for migrating batch/ETL and scheduled workloads whose timing dependencies are invisible in a static architecture diagram? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Talend | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-migrating-batch-etl-and-scheduled-workloads-w-56583) |

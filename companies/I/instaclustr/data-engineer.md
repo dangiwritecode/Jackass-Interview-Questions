@@ -2,6 +2,8 @@
 
 [← back to Instaclustr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Kafka now supports tiered storage to object stores. Walk me through how you'd design retention and tiering so brokers offload cold segments without hurting consumer catch-up throughput. | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Instaclustr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=kafka-now-supports-tiered-storage-to-object-stores-walk-me-through-how-126732) |

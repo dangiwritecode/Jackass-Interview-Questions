@@ -2,6 +2,8 @@
 
 [← back to Shopify](README.md)
 
+Questions 1–91 of 91.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal probe: how do you prevent the change-risk platform from becoming an organizational bottleneck where every team waits on your team to onboard, tune, or fix scoring? | expertise | SDE-2/3, Architect/Principal | Change Risk Prediction | Phone Screen, Onsite | Tech | Asked at Shopify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-probe-how-do-you-prevent-the-change-risk-platform-from-bec-102582) |

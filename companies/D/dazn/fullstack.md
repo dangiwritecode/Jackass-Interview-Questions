@@ -2,6 +2,8 @@
 
 [← back to Dazn](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a micro-frontend composition strategy (build-time vs runtime module federation vs edge-side includes) for a portal aggregating 12 team-owned apps. What breaks in shared-dependency management, and when is a monolithic SPA actually the saner enterprise choice? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Dazn | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-micro-frontend-composition-strategy-build-time-vs-runtime--40724) |

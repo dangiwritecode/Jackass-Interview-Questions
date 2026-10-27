@@ -2,6 +2,8 @@
 
 [← back to Fiddler AI](README.md)
 
+Questions 1–133 of 133.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A model passes offline fairness checks but shows disparate impact in production. How do you diagnose whether it's data drift, feedback loops, or deployment context? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Fiddler AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-passes-offline-fairness-checks-but-shows-disparate-impact-in-p-71722) |

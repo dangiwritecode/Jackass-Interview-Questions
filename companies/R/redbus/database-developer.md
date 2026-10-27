@@ -2,6 +2,8 @@
 
 [← back to RedBus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the 'reserve then confirm' seat-hold that auto-expires in 5 minutes. Compare an expiry-timestamp filter, a TTL sweeper job, and FOR UPDATE SKIP LOCKED reclamation under concurrent reservations. | deep understanding | SDE-1, SDE-1/2 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at RedBus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-reserve-then-confirm-seat-hold-that-auto-expires-in-5-minu-107023) |

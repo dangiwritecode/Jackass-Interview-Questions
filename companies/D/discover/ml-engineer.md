@@ -2,6 +2,8 @@
 
 [← back to Discover](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you make explainability (SHAP/LIME/attention) trustworthy enough for regulated decisions when the explanations themselves can be unstable or misleading? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Discover | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-explainability-shap-lime-attention-trustworthy-enough--71680) |

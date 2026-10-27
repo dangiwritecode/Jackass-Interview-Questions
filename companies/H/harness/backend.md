@@ -2,6 +2,8 @@
 
 [← back to Harness](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A single request fans out to five parallel sub-agent prompts whose outputs you must merge. Design the orchestration prompt and the merge step so partial failures don't corrupt the final answer and cost stays predictable. | expertise | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Harness | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-single-request-fans-out-to-five-parallel-sub-agent-prompts-whose-out-27535) |

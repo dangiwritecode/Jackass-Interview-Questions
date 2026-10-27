@@ -2,6 +2,8 @@
 
 [← back to Wise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A business unit wants to pre-commit to a 3-year reserved capacity to lock in a discount, but your product strategy might sunset that workload in 18 months. Walk me through the regret-minimization framework you'd use for that commitment decision. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Wise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-business-unit-wants-to-pre-commit-to-a-3-year-reserved-capacity-to-l-41131) |

@@ -2,6 +2,8 @@
 
 [← back to Upbound](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the expose-a-higher-level-abstraction strategy so app teams declare a GenAI service via a CRD (model, routing policy, safety tier, budget) instead of hand-writing serving YAML. How would you keep the abstraction from leaking, and version and evolve it without breaking hundreds of consumers? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Upbound | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-expose-a-higher-level-abstraction-strategy-so-app-teams-dec-82581) |

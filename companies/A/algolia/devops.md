@@ -2,6 +2,8 @@
 
 [← back to Algolia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CDC pipeline occasionally emits out-of-order and duplicate change events to downstream services, and one is a materialized search index. How do you architect consumers and the indexer to stay correct and self-heal despite this at scale? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Algolia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cdc-pipeline-occasionally-emits-out-of-order-and-duplicate-change-ev-51990) |

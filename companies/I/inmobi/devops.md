@@ -2,6 +2,8 @@
 
 [← back to InMobi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect DR for a real-time bidding / low-latency ad system where even a few seconds of RTO means direct revenue loss measured per-second? Justify the spend curve. | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at InMobi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-for-a-real-time-bidding-low-latency-ad-system--53668) |

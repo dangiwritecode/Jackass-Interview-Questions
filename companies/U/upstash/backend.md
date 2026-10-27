@@ -2,6 +2,8 @@
 
 [← back to Upstash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a de-duplication strategy for a consumer that must be exactly-once into Redis, where Redis has no transactions spanning your Kafka commit. Where do you store the dedupe state? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | Asked at Upstash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-de-duplication-strategy-for-a-consumer-that-must-be-exactly-o-24841) |

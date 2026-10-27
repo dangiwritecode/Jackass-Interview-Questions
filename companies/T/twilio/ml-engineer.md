@@ -2,6 +2,8 @@
 
 [← back to Twilio](README.md)
 
+Questions 1–132 of 132.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A downstream org consumes your raw retrieval API as a product. Design its versioning, deprecation policy, and backward-compatibility contract so you can evolve retrieval internals without breaking them or leaking score-scale assumptions. | deep understanding | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Twilio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-org-consumes-your-raw-retrieval-api-as-a-product-design-i-68928) |

@@ -2,6 +2,8 @@
 
 [← back to Astral](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a Python dependency-resolution and lock strategy that lets 50 teams share a common ML base image while still pinning team-specific extras reproducibly, avoiding a monolithic requirements file that no one can update. | deep understanding | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Astral | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-python-dependency-resolution-and-lock-strat-68381) |

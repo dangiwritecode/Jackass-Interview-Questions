@@ -2,6 +2,8 @@
 
 [← back to LIC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd architect a bitemporal warehouse for a regulated insurance domain where policy state must be reconstructable as-of any valid-time and as-of any transaction-time. What indexing and SCD strategy keeps 'as-known-on' queries tractable at billions of rows? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at LIC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-architect-a-bitemporal-warehouse-for-a-regulated-ins-112655) |

@@ -2,6 +2,8 @@
 
 [← back to Prudential](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle retraining when compliance requires model change notifications to customers before behavior shifts (regulated industries)? | expertise | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Prudential | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-retraining-when-compliance-requires-model-change-not-72439) |

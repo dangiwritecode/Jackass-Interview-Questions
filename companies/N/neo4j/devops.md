@@ -2,6 +2,8 @@
 
 [← back to Neo4j](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect DR for a system whose most valuable state is relationships/graph edges where partial loss silently corrupts the whole — how does that change RPO from row-count to integrity? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Neo4j | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-dr-for-a-system-whose-most-valuable-state-is-r-53707) |

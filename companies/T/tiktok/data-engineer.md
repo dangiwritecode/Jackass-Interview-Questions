@@ -2,6 +2,8 @@
 
 [← back to TikTok](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd handle tiering for data with unpredictable, bursty access patterns where you can't cleanly say 'cold after 90 days'. | deep understanding | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at TikTok | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-handle-tiering-for-data-with-unpredictable-bursty-ac-126738) |

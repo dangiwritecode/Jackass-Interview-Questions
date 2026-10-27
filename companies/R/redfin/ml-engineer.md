@@ -2,6 +2,8 @@
 
 [← back to Redfin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A teammate insists on adding 500 more features to the XGBoost model to boost AUC by 0.3%; how do you evaluate whether that's worth the serving and maintenance cost? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Redfin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-teammate-insists-on-adding-500-more-features-to-the-xgboost-model-to-65888) |

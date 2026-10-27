@@ -2,6 +2,8 @@
 
 [← back to Ericsson](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What does a WAF-aligned Sustainability pillar mean concretely for a company running tens of thousands of nodes, and how do you make it measurable? | deep understanding | SDE-2/3, Architect/Principal | Well-Architected Framework | Phone Screen, Onsite | Tech | Asked at Ericsson | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-a-waf-aligned-sustainability-pillar-mean-concretely-for-a-co-56135) |

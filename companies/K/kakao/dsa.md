@@ -2,6 +2,8 @@
 
 [← back to Kakao](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Moves for a Two-Cell Bar to Cross a Grid | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Graph, Matrix, Shortest Path, Simulation, State-space Search | DSA/Coding Round, Onsite | DSA | Asked at Kakao | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-moves-for-a-two-cell-bar-to-cross-a-grid-d1175) |

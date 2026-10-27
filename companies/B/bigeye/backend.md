@@ -2,6 +2,8 @@
 
 [← back to Bigeye](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect for data observability distinct from data quality? What signals (freshness volume schema distribution lineage) do you instrument first, and how do they change incident response? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Bigeye | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-for-data-observability-distinct-from-data-quality-36557) |

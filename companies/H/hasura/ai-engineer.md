@@ -2,6 +2,8 @@
 
 [← back to Hasura](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe the message-passing contract between your agents — what schema did you enforce and how did you version it as agents evolved? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Agent Systems | Phone Screen, Onsite | Tech | Asked at Hasura | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-message-passing-contract-between-your-agents-what-schema--82134) |

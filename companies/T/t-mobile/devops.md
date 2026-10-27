@@ -2,6 +2,8 @@
 
 [← back to T-Mobile](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a governance model that makes the cost of a control's failure asymmetric-aware — a residency violation risks a headline fine while a missed access review is a minor finding — so you invest defensive depth where the tail risk actually lives? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at T-Mobile | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-governance-model-that-makes-the-cost-of-a-contr-54084) |

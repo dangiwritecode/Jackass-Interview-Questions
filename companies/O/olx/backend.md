@@ -2,6 +2,8 @@
 
 [← back to OLX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must let one physical user hold multiple 'personas' (e.g. buyer and seller accounts) and switch context. How do you model this in tokens/sessions so authorization always reflects the active persona and can't be confused? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at OLX | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-let-one-physical-user-hold-multiple-personas-e-g-buyer-and-se-26169) |

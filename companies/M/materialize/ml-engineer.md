@@ -2,6 +2,8 @@
 
 [← back to Materialize](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach governance for real-time streaming features where you can't easily snapshot data, yet you still need reproducibility and auditability? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Materialize | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-governance-for-real-time-streaming-features-where--72105) |

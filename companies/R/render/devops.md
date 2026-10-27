@@ -2,6 +2,8 @@
 
 [← back to Render](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team is quietly building a competing internal PaaS that duplicates the platform your org owns. How do you approach them, and when is consolidation the right call versus letting a thousand flowers bloom? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Render | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-is-quietly-building-a-competing-internal-paas-that-duplicates-t-54454) |

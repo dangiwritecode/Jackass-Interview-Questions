@@ -2,6 +2,8 @@
 
 [← back to ServiceNow](README.md)
 
+Questions 1–104 of 104.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a multi-year migration where you retrofitted read/write splitting onto a monolith that assumed a single writable connection. What broke and how did you sequence it? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at ServiceNow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-multi-year-migration-where-you-retrofitted-read-write-split-115447) |

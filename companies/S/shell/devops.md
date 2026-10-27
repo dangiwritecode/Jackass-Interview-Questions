@@ -2,6 +2,8 @@
 
 [← back to Shell](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Defend a decision to keep some workloads on-prem while going Azure-first; how do you frame the hybrid strategy (Azure Arc, Stack HCI) and its long-term operational cost to skeptical leadership? | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at Shell | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=defend-a-decision-to-keep-some-workloads-on-prem-while-going-azure-fir-54558) |

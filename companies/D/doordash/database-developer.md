@@ -2,6 +2,8 @@
 
 [← back to DoorDash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CockroachDB query that was fast in staging is slow in production at 10x data; how do you systematically diagnose whether it's stats, distribution, contention, or plan regression, and fix it? | expertise | SDE-2/3, Architect/Principal | NewSQL (CockroachDB/Spanner) | Phone Screen, Onsite | Tech | Asked at DoorDash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cockroachdb-query-that-was-fast-in-staging-is-slow-in-production-at--114510) |

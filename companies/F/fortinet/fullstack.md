@@ -2,6 +2,8 @@
 
 [← back to Fortinet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to design the traffic plane so a security team can, mid-attack, insert a WAF/blocking rule that takes effect globally within seconds without a full LB redeploy. How do you make hot rule injection safe and reversible under pressure? | expertise | SDE-2/3, Architect/Principal | Load Balancing | Phone Screen, Onsite | Tech | Asked at Fortinet | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-design-the-traffic-plane-so-a-security-team-can-mid-at-38695) |

@@ -2,6 +2,8 @@
 
 [← back to Hike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a 1:1 and group chat backend supporting 100M DAU — how do you model message delivery, ordering, and the online/offline presence system? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Hike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-1-1-and-group-chat-backend-supporting-100m-dau-how-do-you-mod-20624) |

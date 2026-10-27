@@ -2,6 +2,8 @@
 
 [← back to Ravelin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle a scenario where masking PII destroys a critical signal (e.g. names correlate with fraud rings) — what privacy-preserving alternative preserves it? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Ravelin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-scenario-where-masking-pii-destroys-a-critical-sig-72654) |

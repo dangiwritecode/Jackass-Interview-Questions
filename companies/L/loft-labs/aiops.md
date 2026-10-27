@@ -2,6 +2,8 @@
 
 [← back to Loft-Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the org's approach to Kubernetes multi-tenancy for the AIOps workloads, deciding between namespace isolation, virtual clusters, and dedicated clusters, given noisy-neighbor and blast-radius concerns? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Loft-Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-org-s-approach-to-kubernetes-multi-tenancy-98894) |

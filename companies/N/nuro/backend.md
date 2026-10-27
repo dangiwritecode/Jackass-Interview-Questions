@@ -2,6 +2,8 @@
 
 [← back to Nuro](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a governance mechanism for expensive experimental workloads (research clusters, ML experiments, load tests) that need freedom to burn money briefly but must not leak into permanent baseline spend. How do you enforce the sunset? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Autonomous companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-governance-mechanism-for-expensive-experimental-workloads-res-37088) |

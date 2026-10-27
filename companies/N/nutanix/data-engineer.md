@@ -2,6 +2,8 @@
 
 [← back to Nutanix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a two-phase aggregation (partial + final) pattern to reduce shuffle for a heavy sum-by-key. Where does it break down? | deep understanding | SDE-1/2, SDE-2/3 | Spark Optimization (Shuffle/Skew/Partitioning) | Phone Screen, Onsite | Tech | Asked at Nutanix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-two-phase-aggregation-partial-final-pattern-to-reduce-shuff-123607) |

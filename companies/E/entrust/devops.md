@@ -2,6 +2,8 @@
 
 [← back to Entrust](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach quantum-readiness of your signing infrastructure — would you plan a migration to post-quantum signature algorithms in Sigstore/cosign now, and what's the phased strategy? | deep understanding | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at Entrust | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-quantum-readiness-of-your-signing-infrastructure-w-55432) |

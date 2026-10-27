@@ -2,6 +2,8 @@
 
 [← back to Make](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you'd threat-model and secure the interface between your product and a low-code/no-code automation platform (Zapier-style) that customers use to wire your API to hundreds of others. Who holds the credential and what's the blast radius? | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Make | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-threat-model-and-secure-the-interface-betwee-41315) |

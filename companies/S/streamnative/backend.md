@@ -2,6 +2,8 @@
 
 [← back to StreamNative](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate Apache Pulsar versus Kafka as the backbone for a new streaming platform where you anticipate heavy multi-tenancy and geo-replication needs? What would make you bet against the market-default Kafka? | deep understanding | SDE-2/3, Architect/Principal | Real-time Streaming Architecture | Phone Screen, Onsite | Tech | Asked at StreamNative | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-apache-pulsar-versus-kafka-as-the-backbone-for-a-n-37880) |

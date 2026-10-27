@@ -2,6 +2,8 @@
 
 [← back to Qure.ai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate a segmentation model and why can pixel accuracy be misleading compared to mean IoU or Dice? | deep understanding | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Qure.ai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-a-segmentation-model-and-why-can-pixel-accuracy-be-65819) |

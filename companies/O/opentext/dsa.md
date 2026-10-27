@@ -2,6 +2,8 @@
 
 [← back to OpenText](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Largest Uniform Three-Digit Block in a Digit String | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array Traversal, Greedy, Sliding Window, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at OpenText | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-uniform-three-digit-block-in-a-digit-string-d2132) |

@@ -2,6 +2,8 @@
 
 [← back to Rapido](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org-wide error taxonomy for tools (retryable vs terminal, user-fixable vs system, safe-to-expose vs redact) and the conformance mechanism that stops a team shipping a tool that violates it. How does the taxonomy evolve without breaking live agents? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Rapido | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-wide-error-taxonomy-for-tools-retryable-vs-terminal-use-83043) |

@@ -2,6 +2,8 @@
 
 [← back to Starburst](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal peer proposes deleting the warehouse and having all ML teams query the lake directly with Trino/Photon. Stress-test the proposal for ML: where does 'just query the lake' fall over for feature-serving latency, concurrency, and consistency? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Starburst | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-proposes-deleting-the-warehouse-and-having-all-ml-tea-69728) |

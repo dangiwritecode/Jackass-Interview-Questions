@@ -2,6 +2,8 @@
 
 [← back to Juniper](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does your choice of interconnect (NVLink vs PCIe vs InfiniBand vs Ethernet) cascade into which parallelism strategies your platform can support at scale, and how do you avoid overfitting the platform to one topology? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Juniper | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-your-choice-of-interconnect-nvlink-vs-pcie-vs-infiniband-vs-e-71091) |

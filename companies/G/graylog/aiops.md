@@ -2,6 +2,8 @@
 
 [← back to Graylog](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you visualize which log messages are most frequent using a horizontal bar chart of top templates? | basic concept | Fresher | Data Visualization (Matplotlib/Seaborn) | Online Assessment (OA), Phone Screen | Tech | Asked at Graylog | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-visualize-which-log-messages-are-most-frequent-using-a-h-89875) |

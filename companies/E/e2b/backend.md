@@ -2,6 +2,8 @@
 
 [← back to E2B](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Interviewer probe: 'Explain how you'd give an agent the ability to write and run code as a tool, safely.' | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at E2B | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-probe-explain-how-you-d-give-an-agent-the-ability-to-write-7586) |

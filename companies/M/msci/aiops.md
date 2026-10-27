@@ -2,6 +2,8 @@
 
 [← back to MSCI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect detection for silent ML-model incidents in production — drift, degraded inference quality, poisoned features — such that they page as first-class incidents alongside classic availability events? | expertise | SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Analytics companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-detection-for-silent-ml-model-incidents-in-produc-99338) |

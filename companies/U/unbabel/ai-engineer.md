@@ -2,6 +2,8 @@
 
 [← back to Unbabel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a translation/localization LLM capability at global scale (buy DeepL/Google/Azure vs fine-tune open MT) when per-character pricing across 30 locales versus domain-specific quality and data privacy define the tradeoff? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Unbabel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-translation-localization-llm-capa-83807) |

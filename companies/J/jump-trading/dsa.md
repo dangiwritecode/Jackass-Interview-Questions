@@ -2,6 +2,8 @@
 
 [← back to Jump Trading](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Repeated Digit-Square Sum Reaches One | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cycle Detection, Floyd's Tortoise and Hare, Hash Table, Math, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Jump Trading | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=repeated-digit-square-sum-reaches-one-d202) |

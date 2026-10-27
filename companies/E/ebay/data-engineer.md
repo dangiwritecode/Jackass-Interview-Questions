@@ -2,6 +2,8 @@
 
 [← back to eBay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design MDM for a marketplace with buyers and sellers who are sometimes the same physical entity across sides — what identity model prevents policy loopholes and fraud? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at eBay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-mdm-for-a-marketplace-with-buyers-and-seller-127770) |

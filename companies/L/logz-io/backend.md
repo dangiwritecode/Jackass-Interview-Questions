@@ -2,6 +2,8 @@
 
 [← back to Logz.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your company forked OpenSearch off Elasticsearch after the license change. Three years later you're carrying significant maintenance burden. Walk me through how you'd reassess: stay forked, migrate back to Elastic, or move to a managed service, and how you'd de-risk each path. | expertise | SDE-2/3, Architect/Principal | Elasticsearch & Search Systems | Phone Screen, Onsite | Tech | Asked at Logz.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-company-forked-opensearch-off-elasticsearch-after-the-license-cha-34914) |

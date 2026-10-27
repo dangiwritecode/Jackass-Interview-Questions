@@ -2,6 +2,8 @@
 
 [← back to Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd model the telemetry-egress cost of shipping observability data from many edge/branch locations or IoT sites to a central AIOps platform. When does local pre-aggregation and edge filtering beat paying to move raw signals? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-the-telemetry-egress-cost-of-shipping-observab-99261) |

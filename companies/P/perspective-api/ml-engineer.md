@@ -2,6 +2,8 @@
 
 [← back to Perspective API](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you post-train a model to reduce toxic outputs measurably, and what benchmarks and thresholds would you commit to? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Perspective API | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-post-train-a-model-to-reduce-toxic-outputs-measurably-an-68166) |

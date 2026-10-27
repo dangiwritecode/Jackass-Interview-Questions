@@ -2,6 +2,8 @@
 
 [← back to FasterXML](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You see millions of short-lived byte[] allocations from a JSON hot path. Compare switching from Jackson databind to a streaming parser or a zero-allocation library, and how you'd prove the win. | deep understanding | SDE-1/2, SDE-2/3 | Java | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at FasterXML | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-see-millions-of-short-lived-byte-allocations-from-a-json-hot-path--22542) |

@@ -2,6 +2,8 @@
 
 [← back to CockroachDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An agent must reason over data that changes during its multi-minute run. How do you architect snapshot-isolation vs live-read semantics so the agent isn't confused by mid-flight mutations? | deep understanding | SDE-2/3, Architect/Principal | Agentic System Architecture | Phone Screen, Onsite | Tech | Asked at CockroachDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-agent-must-reason-over-data-that-changes-during-its-multi-minute-ru-87014) |

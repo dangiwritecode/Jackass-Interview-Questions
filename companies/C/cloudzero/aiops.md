@@ -2,6 +2,8 @@
 
 [← back to CloudZero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would enforce cost/FinOps controls on an agentic platform where autonomous agents can invoke expensive LLM calls and cloud APIs in unbounded loops. | expertise | SDE-2/3, Architect/Principal | Agentic Orchestration Platform | Onsite, Hiring Manager | Tech | Asked at CloudZero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-enforce-cost-finops-controls-on-an-agentic-platf-102869) |

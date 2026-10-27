@@ -2,6 +2,8 @@
 
 [← back to Informatica](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator mandates full traceability of every data flow touching customer financial data across your enterprise. Architect the metadata/lineage layer that satisfies audit without forcing every team to instrument by hand. What's the enforcement mechanism? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Informatica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-mandates-full-traceability-of-every-data-flow-touching-cus-36358) |

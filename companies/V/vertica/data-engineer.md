@@ -2,6 +2,8 @@
 
 [← back to Vertica](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | If a report only needs a few columns but all the rows, does that favour row storage or column storage? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Vertica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-a-report-only-needs-a-few-columns-but-all-the-rows-does-that-favour-118775) |

@@ -2,6 +2,8 @@
 
 [← back to Hexaware](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Can you give examples of common transformations like map filter and flatMap? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Apache Spark | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Hexaware | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-you-give-examples-of-common-transformations-like-map-filter-and-fl-117449) |

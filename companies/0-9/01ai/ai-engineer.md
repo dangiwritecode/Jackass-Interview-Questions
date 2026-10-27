@@ -2,6 +2,8 @@
 
 [← back to 01AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why a model with a 1M-token window can still fail a needle-in-haystack retrieval at 400k tokens, and how you'd measure your effective usable context. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at 01AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-model-with-a-1m-token-window-can-still-fail-a-needle-in--77916) |

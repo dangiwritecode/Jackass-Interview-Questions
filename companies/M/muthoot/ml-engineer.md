@@ -2,6 +2,8 @@
 
 [← back to Muthoot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle a situation where XGBoost gives excellent metrics but the business team can't trust an unexplainable model for a regulated decision? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Muthoot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-situation-where-xgboost-gives-excellent-metrics-bu-65936) |

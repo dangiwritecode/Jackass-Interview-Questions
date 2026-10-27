@@ -2,6 +2,8 @@
 
 [← back to Carta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for an authorization/policy engine (OPA/Cerbos OSS vs a managed authz SaaS vs bespoke RBAC/ReBAC) that will sit inline on every request and encode your entire permission model? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Carta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-authorization-policy-engine-opa--41023) |

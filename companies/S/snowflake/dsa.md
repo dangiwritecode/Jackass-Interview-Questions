@@ -2,6 +2,8 @@
 
 [← back to Snowflake](README.md)
 
+Questions 1–82 of 82.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a Prefix Dictionary for Words and Prefixes | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design, Hash Table, Prefix Tree, String, Tree, Trie | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Snowflake | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-prefix-dictionary-for-words-and-prefixes-d208) |

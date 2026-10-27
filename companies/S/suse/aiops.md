@@ -2,6 +2,8 @@
 
 [← back to SUSE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When would you choose a cloud-agnostic Kubernetes abstraction (Anthos Arc Rancher) as the substrate for your AIOps agents versus native per-cloud tooling? | deep understanding | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | Asked at SUSE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-choose-a-cloud-agnostic-kubernetes-abstraction-anthos-a-103768) |

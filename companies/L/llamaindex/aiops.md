@@ -2,6 +2,8 @@
 
 [← back to LlamaIndex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you separate genuine retrieval drift from a chunking/embedding config change your own team shipped last sprint? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at LlamaIndex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-separate-genuine-retrieval-drift-from-a-chunking-embedding--97840) |

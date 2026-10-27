@@ -2,6 +2,8 @@
 
 [← back to Signadot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the platform to make the local-development experience faithful when no laptop can run hundreds of microservices — comparing remote dev environments, request-tunneling into a shared cluster, and record-replay mocking? Defend your primary bet. | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at Signadot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-platform-to-make-the-local-development-exp-54298) |

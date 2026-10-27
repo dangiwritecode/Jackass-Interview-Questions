@@ -2,6 +2,8 @@
 
 [← back to Edge Delta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a cardinality-control / telemetry-pipeline processor (buy an observability pipeline like Cribl/Edge Delta vs OTel Collector + custom transforms) when the win is cutting observability bills by dropping useless data at ingest? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Edge Delta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-cardinality-control-telemetry-pip-53791) |

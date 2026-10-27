@@ -2,6 +2,8 @@
 
 [← back to Chainguard](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set the org's policy on where model weights and fine-tuned artifacts live across accounts and regions, including provenance and immutability, so a supply-chain tamper of a checkpoint is prevented and provable? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Chainguard | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-the-org-s-policy-on-where-model-weights-and-fine-tun-82769) |

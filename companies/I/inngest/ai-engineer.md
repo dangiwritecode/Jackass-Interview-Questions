@@ -2,6 +2,8 @@
 
 [← back to Inngest](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you make sure your embedding job that failed halfway does not double-charge you when you rerun it? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Inngest | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-make-sure-your-embedding-job-that-failed-halfway-does-no-76570) |

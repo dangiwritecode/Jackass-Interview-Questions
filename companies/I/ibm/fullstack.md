@@ -2,6 +2,8 @@
 
 [← back to IBM](README.md)
 
+Questions 1–73 of 73.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between a REST API and a RESTful API? Is every HTTP API RESTful? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at IBM | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-a-rest-api-and-a-restful-api-is-every-h-3541) |

@@ -2,6 +2,8 @@
 
 [← back to Aviatrix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd decide whether the org needs a private connectivity layer (PrivateLink/peering/transit) versus routing service traffic over the public internet, and what the cost-versus-security inflection point is. | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Aviatrix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-decide-whether-the-org-needs-a-private-connectivity--39351) |

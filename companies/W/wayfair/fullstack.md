@@ -2,6 +2,8 @@
 
 [← back to Wayfair](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A federated supergraph fails composition after one team ships a subgraph change. How do you diagnose the composition error, and what guardrails in CI would have caught it earlier? | expertise | SDE-1/2, SDE-2/3 | GraphQL | Phone Screen, Onsite | Tech | Asked at Wayfair | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-federated-supergraph-fails-composition-after-one-team-ships-a-subgra-17818) |

@@ -2,6 +2,8 @@
 
 [← back to Mobileye](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your active-learning loop: the system selects uncertain live samples containing PII for re-labeling and retraining. How do you govern consent and minimization when the model itself chooses which personal data gets collected and re-processed? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Mobileye | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-active-learning-loop-the-system-selects-unc-70041) |

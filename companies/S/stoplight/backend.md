@@ -2,6 +2,8 @@
 
 [← back to Stoplight](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A gateway sits in front of a service that suddenly changed its response schema, breaking clients silently; how would you add contract/schema validation on responses at the gateway and what do you do when validation fails in prod? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Stoplight | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-gateway-sits-in-front-of-a-service-that-suddenly-changed-its-respons-29177) |

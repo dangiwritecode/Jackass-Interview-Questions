@@ -2,6 +2,8 @@
 
 [← back to VAST](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the platform's approach to scaling checkpointing for very large models so that writing terabyte-scale checkpoints doesn't stall the whole training cluster on I/O. What sharded, asynchronous, or incremental checkpoint architecture keeps overhead flat as model and cluster size grow? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at VAST | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-platform-s-approach-to-scaling-checkpointing-for-very-large-100683) |

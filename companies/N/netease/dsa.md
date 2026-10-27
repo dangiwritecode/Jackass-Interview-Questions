@@ -2,6 +2,8 @@
 
 [← back to NetEase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Stamping Operations to Form a Target Strip | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Interval DP, Recursion with Memoization, String | DSA/Coding Round, Onsite | DSA | Asked at NetEase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-stamping-operations-to-form-a-target-strip-d649) |

@@ -2,6 +2,8 @@
 
 [← back to Wynk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why do we say OLTP handles 'now' and OLAP handles 'over time'? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Wynk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-do-we-say-oltp-handles-now-and-olap-handles-over-time-118839) |

@@ -2,6 +2,8 @@
 
 [← back to Aleph-Alpha](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect for the EU AI Act's requirements on data governance for high-risk AI systems while keeping your ML velocity competitive? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Aleph-Alpha | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-for-the-eu-ai-act-s-requirements-on-data-governan-72636) |

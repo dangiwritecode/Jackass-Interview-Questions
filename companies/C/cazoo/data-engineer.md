@@ -2,6 +2,8 @@
 
 [← back to Cazoo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your dbt slim-CI build relies on a production manifest.json artifact and it went stale after a hotfix ran outside CI; how would you keep the deferred state manifest trustworthy so the diff isn't wrong? | deep understanding | SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | Asked at Cazoo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-dbt-slim-ci-build-relies-on-a-production-manifest-json-artifact-a-120368) |

@@ -2,6 +2,8 @@
 
 [← back to CrowdStrike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A pen-test finds encrypted backups but the KMS is in the same account and same IAM boundary — argue why that violates defense-in-depth and design the account/key separation you'd mandate. | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at CrowdStrike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pen-test-finds-encrypted-backups-but-the-kms-is-in-the-same-account--115252) |

@@ -2,6 +2,8 @@
 
 [← back to Deepchecks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your view on 'validation as code' — encoding validation criteria as executable tests — and where does it break down for complex models? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Deepchecks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-view-on-validation-as-code-encoding-validation-criteria-as-71823) |

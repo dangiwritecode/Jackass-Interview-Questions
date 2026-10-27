@@ -2,6 +2,8 @@
 
 [← back to NCR](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Can you name a few popular configuration management tools and say what each is mainly used for? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Configuration Management | Phone Screen, Onsite | Tech | Asked at Hardware companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-you-name-a-few-popular-configuration-management-tools-and-say-what-44413) |

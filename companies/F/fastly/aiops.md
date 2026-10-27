@@ -2,6 +2,8 @@
 
 [← back to Fastly](README.md)
 
+Questions 1–63 of 63.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: how would you design incident response for an event where observability itself is compromised or lying to you? | expertise | SDE-2/3, Architect/Principal | Enterprise Incident Response Strategy | Onsite, Hiring Manager | Tech | Asked at Fastly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-would-you-design-incident-response-for-an-even-103644) |

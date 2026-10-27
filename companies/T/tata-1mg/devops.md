@@ -2,6 +2,8 @@
 
 [← back to Tata 1mg](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide whether to let the mesh terminate and inspect TLS (breaking E2E encryption) to apply L7 policy, or keep TLS opaque and lose L7 features. Frame this privacy-vs-control trade-off for a healthtech org under HIPAA and where you'd draw the line. | expertise | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Tata 1mg | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-whether-to-let-the-mesh-terminate-and-inspect-tls-brea-52664) |

@@ -2,6 +2,8 @@
 
 [← back to ClickHouse](README.md)
 
+Questions 1–75 of 75.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal peer proposes deleting the specialized TSDB and OLAP stores and running all AIOps queries directly on the lake with Trino. Stress-test that: where does 'just query the lake' fall over for alerting query concurrency, freshness, and sub-second dashboards? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ClickHouse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-proposes-deleting-the-specialized-tsdb-and-olap-store-99900) |

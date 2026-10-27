@@ -2,6 +2,8 @@
 
 [← back to Zepto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stakeholder wants exact SKU matches to always win over semantically-close ones. How do you enforce that guarantee inside a fused hybrid pipeline? | deep understanding | SDE-1/2, SDE-2/3 | Hybrid Search (BM25 + Vector) | Phone Screen, Onsite | Tech | Asked at Zepto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-wants-exact-sku-matches-to-always-win-over-semantically--80205) |

@@ -2,6 +2,8 @@
 
 [← back to StormForge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design the org's approach to 'right-sizing at rollout' versus 'right-sizing continuously'. Continuous automated resizing saves more but erodes trust and can destabilize prod. Where do you land the policy and what safety envelope do you enforce? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at StormForge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-the-org-s-approach-to-right-sizing-at-rollout-52969) |

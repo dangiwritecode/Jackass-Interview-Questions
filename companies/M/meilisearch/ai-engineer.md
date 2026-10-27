@@ -2,6 +2,8 @@
 
 [← back to Meilisearch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide whether to expand your embedding index in place or rebuild it when you switch to a new embedding model version? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Meilisearch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-to-expand-your-embedding-index-in-place-or-r-79417) |

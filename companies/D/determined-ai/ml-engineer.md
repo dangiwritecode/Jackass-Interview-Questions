@@ -2,6 +2,8 @@
 
 [← back to Determined AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A hyperparameter search runs thousands of trials and the results store grows unwieldy; how would you structure a priority queue for early-stopping bad trials (Hyperband/ASHA), and what ordering keeps promotion cheap? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Determined AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-hyperparameter-search-runs-thousands-of-trials-and-the-results-store-62504) |

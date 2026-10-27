@@ -2,6 +2,8 @@
 
 [← back to eBay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a NewSQL-backed multi-region e-commerce order system where reads must be fast worldwide but order writes must be strongly consistent per region; map each entity to the right locality/table type. | deep understanding | SDE-2/3, Architect/Principal | NewSQL (CockroachDB/Spanner) | Phone Screen, Onsite | Tech | Asked at eBay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-newsql-backed-multi-region-e-commerce-order-system-where-read-114536) |

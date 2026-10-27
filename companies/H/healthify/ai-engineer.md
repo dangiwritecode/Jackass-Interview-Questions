@@ -2,6 +2,8 @@
 
 [← back to Healthify](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle PII in text that must be embedded, given you can't send raw sensitive data to a hosted API? | deep understanding | SDE-1/2, SDE-2/3 | Semantic Search | Phone Screen, Onsite | Tech | Asked at Healthify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-pii-in-text-that-must-be-embedded-given-you-can-t-se-80450) |

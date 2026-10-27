@@ -2,6 +2,8 @@
 
 [← back to Sumo Logic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set an org-wide RU/s governance policy for Cosmos DB so autoscale doesn't silently 10x the bill, and how do you reconcile that with unpredictable Diwali-scale traffic? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Sumo Logic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-an-org-wide-ru-s-governance-policy-for-cosmos-db-so-aut-115150) |

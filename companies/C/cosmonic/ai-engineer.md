@@ -2,6 +2,8 @@
 
 [← back to Cosmonic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're evaluating running WASM-based tool sandboxes (SpinKube/runwasi) for agent tool execution instead of container Pods, for fast cold-start and stronger isolation. As principal, how would you frame where WASM genuinely wins over per-call containers for agentic tools, and what maturity gaps stop you betting the platform on it? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Cosmonic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-running-wasm-based-tool-sandboxes-spinkube-runwasi-f-82606) |

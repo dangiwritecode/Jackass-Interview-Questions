@@ -2,6 +2,8 @@
 
 [← back to Segment](README.md)
 
+Questions 1–115 of 115.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A batch reprocessing job replays two-year-old messages that used schema v1 while producers are on v12. How do you guarantee correct deserialization of old records? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Schema Registry & Evolution | Phone Screen, Onsite | Tech | Asked at Segment | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-batch-reprocessing-job-replays-two-year-old-messages-that-used-schem-124325) |

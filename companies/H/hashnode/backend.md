@@ -2,6 +2,8 @@
 
 [← back to Hashnode](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A notification digest job scans every user's followed entities nightly and takes 12 hours; how would you invert it with a per-entity subscriber index so work scales with what actually changed? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Hashnode | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-notification-digest-job-scans-every-user-s-followed-entities-nightly-21983) |

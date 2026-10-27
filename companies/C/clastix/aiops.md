@@ -2,6 +2,8 @@
 
 [← back to Clastix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A drift alert fires but the root cause is a bad batch of newly-ingested documents. How does your pipeline surface data-quality-driven drift? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Commonly asked at Tier 4 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-drift-alert-fires-but-the-root-cause-is-a-bad-batch-of-newly-ingeste-97870) |

@@ -2,6 +2,8 @@
 
 [← back to Vellum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect cost governance for a scenario where teams can provision managed AI/LLM API usage (third-party token spend) with a credit card? This spend is invisible to normal cloud tooling — how do you bring it into capacity and budget governance? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Vellum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-cost-governance-for-a-scenario-where-teams-can-pr-52976) |

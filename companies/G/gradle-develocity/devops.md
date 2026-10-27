@@ -2,6 +2,8 @@
 
 [← back to Gradle/Develocity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build a strategy to make CI build and caching scale — remote caching, distributed builds, incremental pipelines — as the codebase and team count grow tenfold? | deep understanding | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | Asked at Gradle/Develocity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-strategy-to-make-ci-build-and-caching-scale-remote--53383) |

@@ -2,6 +2,8 @@
 
 [← back to Clearview](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern access to and use of biometric/facial models given their heightened legal and ethical scrutiny — do you ban, gate, or allow with controls? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Clearview | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-access-to-and-use-of-biometric-facial-models-given-t-71750) |

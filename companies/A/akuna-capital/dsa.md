@@ -2,6 +2,8 @@
 
 [← back to Akuna Capital](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Fewest Repeaters to Cover a Cable Segment | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Interval Covering, Jump Game | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Akuna Capital | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-repeaters-to-cover-a-cable-segment-d1279) |

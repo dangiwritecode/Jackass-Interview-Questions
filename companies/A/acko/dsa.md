@@ -2,6 +2,8 @@
 
 [← back to ACKO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Time to Finish All Tasks with Prerequisites | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Critical Path Method, DAG Longest Path, Dynamic Programming, Graph, Kahn's Algorithm, Topological Sort | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at ACKO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-time-to-finish-all-tasks-with-prerequisites-d1937) |

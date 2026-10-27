@@ -2,6 +2,8 @@
 
 [← back to OnePlus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect green-field on-device Transformer inference for a mobile product, balancing model size, battery, privacy, and update cadence? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at OnePlus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-green-field-on-device-transformer-inference-fo-70433) |

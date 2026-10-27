@@ -2,6 +2,8 @@
 
 [← back to Ekart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a system to track and display a package delivery on a map. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Ekart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-to-track-and-display-a-package-delivery-on-a-map-8912) |

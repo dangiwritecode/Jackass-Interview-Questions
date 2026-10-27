@@ -2,6 +2,8 @@
 
 [← back to Not Diamond](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a request-router that picks among GPT-class, mid, and small models per request based on difficulty and SLA. How do you classify difficulty cheaply? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Not Diamond | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-request-router-that-picks-among-gpt-class-mid-and-small-model-30883) |

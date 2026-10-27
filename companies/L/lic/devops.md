@@ -2,6 +2,8 @@
 
 [← back to LIC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org strategy for handling components with no upstream fix (abandonware, EOL libs) that keep appearing in SBOMs — how do you formalize accepted-risk, backporting and replacement roadmaps? | deep understanding | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at LIC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-strategy-for-handling-components-with-no-upstream-fix-a-55478) |

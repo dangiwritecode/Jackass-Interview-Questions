@@ -2,6 +2,8 @@
 
 [← back to Aqua Security](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A security review demands every model container run non-root with a read-only rootfs, but your app writes a Hugging Face cache and binds port 80. How do you satisfy all constraints? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Aqua Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-security-review-demands-every-model-container-run-non-root-with-a-re-63322) |

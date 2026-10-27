@@ -2,6 +2,8 @@
 
 [← back to Skyscanner](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You build a 'lookup_flight_price' tool. The model calls it with an airport code you don't recognize. What should the tool return so the agent can recover? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Skyscanner | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-build-a-lookup-flight-price-tool-the-model-calls-it-with-an-airpor-73588) |

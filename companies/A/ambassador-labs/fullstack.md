@@ -2,6 +2,8 @@
 
 [← back to Ambassador Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You own developer experience for shipping to Kubernetes and the inner loop (build, deploy, test) is painfully slow across the org. As principal, how would you architect the local/remote dev experience (Tilt/Skaffold/Telepresence-class), measure DX quantitatively, and defend faster iteration as an investment rather than a vanity metric? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Ambassador Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-own-developer-experience-for-shipping-to-kubernetes-and-the-inner--39114) |

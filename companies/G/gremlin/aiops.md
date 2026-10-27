@@ -2,6 +2,8 @@
 
 [← back to Gremlin](README.md)
 
+Questions 1–74 of 74.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd build a synthetic-anomaly injection program (chaos for detection) to continuously validate that the fleet-wide detector still catches what it should. | expertise | SDE-2/3, Architect/Principal | Real-time Anomaly Detection at Scale | Phone Screen, Onsite | Tech | Asked at Gremlin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-build-a-synthetic-anomaly-injection-program-chaos-f-101794) |

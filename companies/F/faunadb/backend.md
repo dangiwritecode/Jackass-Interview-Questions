@@ -2,6 +2,8 @@
 
 [← back to FaunaDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're evaluating whether to adopt a globally consistent database that promises to 'solve CAP' with atomic clocks. As the architect signing off, what hard questions do you ask the vendor about the partition-time behavior their marketing glosses over? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at FaunaDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-whether-to-adopt-a-globally-consistent-database-that-32267) |

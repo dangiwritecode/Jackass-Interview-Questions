@@ -2,6 +2,8 @@
 
 [← back to Intuit](README.md)
 
+Questions 1–121 of 121.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A GitOps PR diff is enormous because someone ran a formatter that re-quoted every YAML value. How do you enforce canonical YAML formatting to keep diffs minimal and review-able? | intermediate experience | SDE-1/2, SDE-2/3 | YAML | Online Assessment (OA), Phone Screen | Tech | Asked at Intuit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-gitops-pr-diff-is-enormous-because-someone-ran-a-formatter-that-re-q-48971) |

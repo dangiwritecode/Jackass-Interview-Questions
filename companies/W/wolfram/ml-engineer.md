@@ -2,6 +2,8 @@
 
 [← back to Wolfram](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a feature so that computation is exact (a calculator/code tool) while the LLM only orchestrates, and prevent it re-deriving numbers itself? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Wolfram | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-feature-so-that-computation-is-exact-a-calcu-63873) |

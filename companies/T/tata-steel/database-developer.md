@@ -2,6 +2,8 @@
 
 [← back to Tata-Steel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the split between a time-series database (InfluxDB/TimescaleDB/Prometheus) and your general lakehouse for a manufacturing sensor estate? Where does downsampling and continuous-aggregate rollup belong, and when do you refuse to store raw high-frequency data in the lake at all? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tata-Steel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-split-between-a-time-series-database-influxdb-112684) |

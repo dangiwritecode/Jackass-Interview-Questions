@@ -2,6 +2,8 @@
 
 [← back to Zepto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd handle negative or zero-clipped forecasts from a model that can output any real number. | intermediate experience | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | Asked at Zepto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-handle-negative-or-zero-clipped-forecasts-from-a-mod-66447) |

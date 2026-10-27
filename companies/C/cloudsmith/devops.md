@@ -2,6 +2,8 @@
 
 [← back to Cloudsmith](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect resilience for the platform's internal package/artifact registry, given that if it's down, no service can build, deploy, or roll back? Discuss replication, pull-through caching, last-good pinning, and the break-glass path when the registry is the outage. | deep understanding | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Cloudsmith | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-resilience-for-the-platform-s-internal-package-ar-52847) |

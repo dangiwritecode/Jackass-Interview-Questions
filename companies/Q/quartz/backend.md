@@ -2,6 +2,8 @@
 
 [← back to Quartz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Java service using @Scheduled fixed-rate drifts and overlaps when a run takes longer than the interval. Explain the semantics of fixed-rate vs fixed-delay and how you'd prevent overlap. | intermediate experience | SDE-1/2, SDE-2/3 | Java | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Quartz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-java-service-using-scheduled-fixed-rate-drifts-and-overlaps-when-a-r-22615) |

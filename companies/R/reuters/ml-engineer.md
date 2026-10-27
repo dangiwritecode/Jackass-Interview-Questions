@@ -2,6 +2,8 @@
 
 [← back to Reuters](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the org policy for handling knowledge cutoff and freshness across all LLM products, deciding centrally where RAG, tools, or scheduled fine-tunes are mandated, versus leaving it to each team? | deep understanding | SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Reuters | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-org-policy-for-handling-knowledge-cutoff-and--68798) |

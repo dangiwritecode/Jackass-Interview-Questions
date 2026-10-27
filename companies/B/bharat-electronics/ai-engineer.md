@@ -2,6 +2,8 @@
 
 [← back to Bharat Electronics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a RAG platform to serve a strict air-gapped defense/government tenant and a cloud-native consumer tenant from one codebase, so the security-hardened deployment never becomes a stale fork that diverges from mainline? | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Bharat Electronics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-rag-platform-to-serve-a-strict-air-gapped-defen-82940) |

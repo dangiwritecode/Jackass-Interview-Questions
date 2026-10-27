@@ -2,6 +2,8 @@
 
 [← back to Serverless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to map dependencies for a serverless (Lambda/Functions) architecture. Why is traditional discovery harder here and what do you rely on instead? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | Asked at Serverless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-map-dependencies-for-a-serverless-lambda-functions-arc-97654) |

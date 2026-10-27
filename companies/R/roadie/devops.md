@@ -2,6 +2,8 @@
 
 [← back to Roadie](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd influence adoption of a new internal developer portal (Backstage-style) across the org over 18 months. What does the rollout look like at 5%, 50%, and 95% adoption, and what changes at each phase? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Roadie | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-influence-adoption-of-a-new-internal-developer-port-54474) |

@@ -2,6 +2,8 @@
 
 [← back to Gainsight](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your offline evals for tool selection stay green but production complaint rate climbs for two weeks. Diagnose the structural gap between eval and prod for agents, and design the closed loop that catches this class in hours. | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Gainsight | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-offline-evals-for-tool-selection-stay-green-but-production-compla-83050) |

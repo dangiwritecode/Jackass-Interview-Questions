@@ -2,6 +2,8 @@
 
 [← back to Hudson River Trading](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Largest Value After One Digit Flip | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Digit Manipulation, Greedy, Math, String | Online Assessment (OA), Phone Screen | DSA | Asked at Hudson River Trading | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-value-after-one-digit-flip-d1276) |

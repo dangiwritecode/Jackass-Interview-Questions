@@ -2,6 +2,8 @@
 
 [← back to Axis Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A sum becomes 4840 in 2 years and 5324 in 3 years at compound interest. Find the rate of interest. | deep understanding | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at Axis Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-sum-becomes-4840-in-2-years-and-5324-in-3-years-at-compound-interest-15810) |

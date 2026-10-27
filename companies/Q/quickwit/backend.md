@@ -2,6 +2,8 @@
 
 [← back to Quickwit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're evaluating moving off JVM-based Elasticsearch toward a Rust-based engine like Quickwit or Tantivy for cost-sensitive log search. Frame this as a strategic bet: what you gain in cost and cold-start, what maturity risk you take, and how you'd pilot without betting the whole estate. | expertise | SDE-2/3, Architect/Principal | Elasticsearch & Search Systems | Phone Screen, Onsite | Tech | Asked at Quickwit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-moving-off-jvm-based-elasticsearch-toward-a-rust-bas-34972) |

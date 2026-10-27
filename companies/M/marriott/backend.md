@@ -2,6 +2,8 @@
 
 [← back to Marriott](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the boundary for a 'loyalty points + payment' checkout where points and cash are fungible in one transaction. If points must be strongly consistent (can't double-spend) but the rest is a saga, where does the atomic seam go and what breaks if you get it wrong? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | Asked at Marriott | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-boundary-for-a-loyalty-points-payment-checkout-where-points-34166) |

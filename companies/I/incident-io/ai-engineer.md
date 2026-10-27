@@ -2,6 +2,8 @@
 
 [← back to incident.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the incident-response runbook and on-call model specifically for agent failures where the root cause could be a model regression, tool outage, prompt change, or injection attack. How do you triage fast when the failure itself is probabilistic and intermittent? | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at incident.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-incident-response-runbook-and-on-call-model-specifically-fo-83109) |

@@ -2,6 +2,8 @@
 
 [← back to EleutherAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle missing values in a dataset and what are the common strategies? | basic concept | Fresher, SDE-1/2 | Data Preprocessing & Cleaning | Online Assessment (OA), Phone Screen, Onsite | Tech | Commonly asked at Tier 4 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-missing-values-in-a-dataset-and-what-are-the-common--60286) |

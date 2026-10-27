@@ -2,6 +2,8 @@
 
 [← back to DeepSeek](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is 'chain-of-thought' vs. 'reasoning tokens' and how does the reasoning affect tool-call quality? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at DeepSeek | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-chain-of-thought-vs-reasoning-tokens-and-how-does-the-reasonin-7557) |

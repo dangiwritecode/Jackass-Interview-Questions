@@ -2,6 +2,8 @@
 
 [← back to TigerGraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect for graph-store vendor portability so you're not locked into one graph database's query language and pricing? | deep understanding | SDE-2/3, Architect/Principal | Advanced RAG (GraphRAG/Agentic RAG) | Phone Screen, Onsite | Tech | Asked at TigerGraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-for-graph-store-vendor-portability-so-you-re-not--85569) |

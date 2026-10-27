@@ -2,6 +2,8 @@
 
 [← back to Upbound](README.md)
 
+Questions 1–101 of 101.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast Crossplane compositions versus Terraform modules versus provider-native operators as the platform's infrastructure-provisioning substrate. As principal, which do you standardize on for a ten-year horizon and what's the migration cost if you're wrong? | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at Upbound | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-crossplane-compositions-versus-terraform-modules-versus-provi-54261) |

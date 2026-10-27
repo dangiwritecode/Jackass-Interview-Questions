@@ -2,6 +2,8 @@
 
 [← back to Firebolt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A VP wants to replace your hand-tuned Spark ETL fleet with a serverless warehouse (BigQuery/Snowflake) because 'nobody should manage clusters.' Make the honest build-vs-buy case including compute lock-in, per-query cost unpredictability, and where the Spark control you'd lose actually matters for your workloads. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Firebolt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vp-wants-to-replace-your-hand-tuned-spark-etl-fleet-with-a-serverles-125623) |

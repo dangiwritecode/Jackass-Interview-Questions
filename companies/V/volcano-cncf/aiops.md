@@ -2,6 +2,8 @@
 
 [← back to Volcano-CNCF](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You run detectors on a shared multi-tenant GPU/CPU cluster and a large batch-retraining job starved the real-time detectors of resources, delaying detection. Explain gang scheduling, why the retrain needs all-or-nothing placement, and how fair-share and preemption keep the cluster usable. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Volcano-CNCF | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-run-detectors-on-a-shared-multi-tenant-gpu-cpu-cluster-and-a-large-93015) |

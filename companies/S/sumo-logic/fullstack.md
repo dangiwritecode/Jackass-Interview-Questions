@@ -2,6 +2,8 @@
 
 [← back to Sumo Logic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the trust boundary between your product and an observability SaaS you send logs and traces to? Those payloads carry secrets and PII, and the vendor is outside your zero-trust perimeter. What controls do you put on the seam? | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Sumo Logic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-trust-boundary-between-your-product-and-an-ob-41288) |

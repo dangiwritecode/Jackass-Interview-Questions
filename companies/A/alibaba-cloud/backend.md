@@ -2,6 +2,8 @@
 
 [← back to Alibaba Cloud](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your company is expanding into a country requiring in-country data storage but you have no cloud region there. Walk through the architecture options and the cost/latency/compliance trade-offs of each. | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Alibaba Cloud | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-company-is-expanding-into-a-country-requiring-in-country-data-sto-36675) |

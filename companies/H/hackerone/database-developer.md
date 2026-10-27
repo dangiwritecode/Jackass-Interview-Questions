@@ -2,6 +2,8 @@
 
 [← back to HackerOne](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must brief the security team: can an attacker exploit isolation-level anomalies (TOCTOU on balance/permission checks) as an actual vulnerability? How do you architect against it? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at HackerOne | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-brief-the-security-team-can-an-attacker-exploit-isolation-lev-113707) |

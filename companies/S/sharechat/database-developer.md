@@ -2,6 +2,8 @@
 
 [← back to ShareChat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd architect multi-region write locality for a social feed where a user's data should be pinned to their home region but occasionally read globally; which locality primitive fits and why. | deep understanding | SDE-2/3, Architect/Principal | NewSQL (CockroachDB/Spanner) | Phone Screen, Onsite | Tech | Asked at ShareChat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-architect-multi-region-write-locality-for-a-social--114514) |

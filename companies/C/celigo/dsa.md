@@ -2,6 +2,8 @@
 
 [← back to Celigo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Smallest Absent Positive Integer | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Cyclic Sort, Hash Table, Index as Hash, In-place Rearrangement | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Celigo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-absent-positive-integer-d41) |

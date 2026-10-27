@@ -2,6 +2,8 @@
 
 [← back to LazyPay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the architecture for a BNPL (buy-now-pay-later) product spanning eligibility real-time credit decisioning disbursement and repayment schedules — how do you keep the credit-decision path fast and the money-movement ledger correct across all three legs? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at LazyPay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-a-bnpl-buy-now-pay-later-product-spanning--39439) |

@@ -45,7 +45,7 @@
 | [Medik8s](medik8s/README.md) | Tier 3 | 540 | 1 |
 | [Medium](medium/README.md) | Tier 2 | 540 | 51 |
 | [Medtronic](medtronic/README.md) | Tier 2 | 540 | 4 |
-| [Meesho](meesho/README.md) | Tier 3 | 1,260 | 24,127 |
+| [Meesho](meesho/README.md) | Tier 3 | 26,885 | 24,127 |
 | [Megaport](megaport/README.md) | Tier 3 | 540 | 14 |
 | [Meilisearch](meilisearch/README.md) | Tier 4 | 540 | 23 |
 | [Meituan](meituan/README.md) | Tier 2 | 540 | 2 |
@@ -62,7 +62,7 @@
 | [Mergify](mergify/README.md) | Tier 3 | 540 | 1 |
 | [Meru](meru/README.md) | Tier 4 | 540 | 2 |
 | [Mesosphere/D2iQ](mesosphere-d2iq/README.md) | Tier 3 | 540 | 1 |
-| [Meta](meta/README.md) | Tier 1 | 1,277 | 18,280 |
+| [Meta](meta/README.md) | Tier 1 | 19,543 | 18,280 |
 | [Metaflow](metaflow/README.md) | Tier 3 | 540 | 1 |
 | [Metaphor](metaphor/README.md) | Tier 4 | 540 | 1 |
 | [Metaplane](metaplane/README.md) | Tier 4 | 540 | 2 |
@@ -72,11 +72,11 @@
 | [Metronome](metronome/README.md) | Tier 3 | 540 | 3 |
 | [Micro-Focus](micro-focus/README.md) | Tier 3 | 540 | 3 |
 | [Micron](micron/README.md) | Tier 3 | 540 | 5 |
-| [Microsoft](microsoft/README.md) | Tier 1 | 1,317 | 28,900 |
+| [Microsoft](microsoft/README.md) | Tier 1 | 31,967 | 28,900 |
 | [MicroStrategy](microstrategy/README.md) | Tier 3 | 540 | 8 |
 | [Midjourney](midjourney/README.md) | Tier 2 | 540 | 22 |
 | [Millennium](millennium/README.md) | Tier 1 | 540 | 8 |
-| [Milvus](milvus/README.md) | Tier 3 | 690 | 381 |
+| [Milvus](milvus/README.md) | Tier 3 | 734 | 381 |
 | [Mimecast](mimecast/README.md) | Tier 3 | 540 | 1 |
 | [Mindtickle](mindtickle/README.md) | Tier 3 | 540 | 4 |
 | [MiniMax](minimax/README.md) | Tier 3 | 540 | 2 |
@@ -84,7 +84,7 @@
 | [Mirantis](mirantis/README.md) | Tier 3 | 540 | 24 |
 | [Miro](miro/README.md) | Tier 3 | 548 | 106 |
 | [Missive](missive/README.md) | Tier 4 | 540 | 1 |
-| [Mistral AI](mistral-ai/README.md) | Tier 2 | 720 | 992 |
+| [Mistral AI](mistral-ai/README.md) | Tier 2 | 1,349 | 992 |
 | [MIT](mit/README.md) | Tier 1 | 540 | 2 |
 | [Mitsogo](mitsogo/README.md) | Tier 4 | 540 | 13 |
 | [Mixedbread](mixedbread/README.md) | Tier 4 | 540 | 10 |
@@ -92,7 +92,7 @@
 | [MobiKwik](mobikwik/README.md) | Tier 3 | 540 | 3 |
 | [Mobile Premier League](mobile-premier-league/README.md) | Tier 3 | 540 | 2 |
 | [Mobileye](mobileye/README.md) | Tier 2 | 540 | 7 |
-| [Modal Labs](modal-labs/README.md) | Tier 3 | 720 | 500 |
+| [Modal Labs](modal-labs/README.md) | Tier 3 | 893 | 500 |
 | [ModelOp](modelop/README.md) | Tier 4 | 540 | 1 |
 | [Modern Treasury](modern-treasury/README.md) | Tier 3 | 540 | 2 |
 | [Modular](modular/README.md) | Tier 3 | 540 | 20 |
@@ -102,11 +102,11 @@
 | [Momento](momento/README.md) | Tier 4 | 540 | 15 |
 | [Monday.com](monday-com/README.md) | Tier 2 | 540 | 9 |
 | [moneyview](moneyview/README.md) | Tier 3 | 540 | 1 |
-| [MongoDB](mongodb/README.md) | Tier 2 | 990 | 3,520 |
-| [Monte Carlo](monte-carlo/README.md) | Tier 4 | 635 | 532 |
+| [MongoDB](mongodb/README.md) | Tier 2 | 4,053 | 3,520 |
+| [Monte Carlo](monte-carlo/README.md) | Tier 4 | 881 | 532 |
 | [Monzo](monzo/README.md) | Tier 3 | 540 | 29 |
 | [Moody's](moody-s/README.md) | Tier 2 | 540 | 5 |
-| [Moogsoft](moogsoft/README.md) | Tier 3 | 630 | 2,014 |
+| [Moogsoft](moogsoft/README.md) | Tier 3 | 2,492 | 2,014 |
 | [Moonshot](moonshot/README.md) | Tier 3 | 540 | 4 |
 | [Morgan Stanley](morgan-stanley/README.md) | Tier 1 | 540 | 119 |
 | [Morningstar](morningstar/README.md) | Tier 3 | 540 | 1 |
@@ -120,12 +120,12 @@
 | [MPL](mpl/README.md) | Tier 3 | 540 | 83 |
 | [MSCI](msci/README.md) | Tier 3 | 540 | 1 |
 | [MSG91](msg91/README.md) | Tier 4 | 540 | 11 |
-| [Mu Sigma](mu-sigma/README.md) | Tier 3 | 744 | 728 |
+| [Mu Sigma](mu-sigma/README.md) | Tier 3 | 1,084 | 728 |
 | [Mulesoft](mulesoft/README.md) | Tier 2 | 540 | 15 |
 | [Multion](multion/README.md) | Tier 4 | 540 | 1 |
 | [Muthoot](muthoot/README.md) | Tier 3 | 540 | 1 |
 | [Mux](mux/README.md) | Tier 4 | 540 | 7 |
 | [MX](mx/README.md) | Tier 3 | 540 | 2 |
 | [My11Circle](my11circle/README.md) | Tier 3 | 540 | 1 |
-| [Myntra](myntra/README.md) | Tier 2 | 842 | 1,070 |
+| [Myntra](myntra/README.md) | Tier 2 | 1,372 | 1,070 |
 | [MyTeam11](myteam11/README.md) | Tier 3 | 540 | 1 |

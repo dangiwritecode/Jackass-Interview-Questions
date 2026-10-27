@@ -2,6 +2,8 @@
 
 [← back to ClickHouse](README.md)
 
+Questions 1–81 of 81.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A columnar-store engine your pipeline uses wants O_DIRECT I/O for its data files on Linux. Explain what bypassing the page cache buys it, the alignment constraints it imposes, and how you'd verify O_DIRECT is actually in effect. | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at ClickHouse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-columnar-store-engine-your-pipeline-uses-wants-o-direct-i-o-for-its--120106) |

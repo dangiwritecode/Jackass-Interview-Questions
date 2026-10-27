@@ -2,6 +2,8 @@
 
 [← back to Lockheed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your reference architecture for a 'safety case' — a structured, auditable argument that a given AI system is acceptably safe for its deployment context? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Lockheed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-reference-architecture-for-a-safety-case-a-structured-audi-86053) |

@@ -2,6 +2,8 @@
 
 [← back to Figma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal on another team pushes CRDTs as the org default for conflict handling. Steelman their proposal, then explain the organizational and correctness limits of mandating one strategy. | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Figma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-on-another-team-pushes-crdts-as-the-org-default-for-confli-53544) |

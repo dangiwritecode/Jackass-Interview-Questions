@@ -2,6 +2,8 @@
 
 [← back to Teleport](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a break-glass and privileged-access-management architecture for prod databases holding PII/PAN — how do you grant emergency access under incident pressure while every keystroke is recorded session-monitored time-boxed and reviewed to satisfy PCI Requirement 7 and 10? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Teleport | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-break-glass-and-privileged-access-management-architecture-for-37282) |

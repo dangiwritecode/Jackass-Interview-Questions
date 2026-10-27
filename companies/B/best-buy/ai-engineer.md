@@ -2,6 +2,8 @@
 
 [← back to Best Buy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design the migration from batch scoring to real-time inference across dozens of consuming products so no consumer even notices the cutover? | deep understanding | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Best Buy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-the-migration-from-batch-scoring-to-real-time-infere-84351) |

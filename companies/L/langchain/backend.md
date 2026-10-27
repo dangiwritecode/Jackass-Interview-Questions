@@ -2,6 +2,8 @@
 
 [← back to LangChain](README.md)
 
+Questions 1–125 of 125.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A pairwise LLM judge prefers whichever answer is listed first (position bias). Beyond swapping order, what design and statistical techniques give you a trustworthy pairwise preference signal? | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at LangChain | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pairwise-llm-judge-prefers-whichever-answer-is-listed-first-position-27539) |

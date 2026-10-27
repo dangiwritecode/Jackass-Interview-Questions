@@ -2,6 +2,8 @@
 
 [← back to Bluesky](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a feed-ranking-and-delivery system for a professional social network where the same post must reach the right audience with dedup freshness and diversity constraints — how do you split candidate generation ranking and the write/read fan-out at 1B members? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Bluesky | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-feed-ranking-and-delivery-system-for-a-professional-social-39506) |

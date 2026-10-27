@@ -2,6 +2,8 @@
 
 [← back to Tencent](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the frontend architecture for a super-app with dozens of mini-apps (payments, food, travel) inside one shell — how do you sandbox, lazy-load, and share auth/session across mini-apps? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Tencent | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-frontend-architecture-for-a-super-app-with-dozens-of-mini-a-40079) |

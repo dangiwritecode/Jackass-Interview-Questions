@@ -2,6 +2,8 @@
 
 [← back to Ajio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A "recently viewed" list must show the last 20 distinct items per user and stay cheap on every page view — how do you model and prune it in MySQL? | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Ajio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-recently-viewed-list-must-show-the-last-20-distinct-items-per-user-a-24397) |

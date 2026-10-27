@@ -2,6 +2,8 @@
 
 [← back to slice](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An A/B experiment renders server-injected config into an inline script tag. A tester breaks out of the string with </script>. Walk through the correct JSON-in-HTML serialization and why HTML-entity encoding alone fails here. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at slice | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-a-b-experiment-renders-server-injected-config-into-an-inline-script-19134) |

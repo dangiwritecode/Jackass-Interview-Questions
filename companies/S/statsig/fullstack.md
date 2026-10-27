@@ -2,6 +2,8 @@
 
 [← back to Statsig](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you'd prevent a Proxy-based feature-flag kill switch from becoming a single point of failure that, when its config store is down, fails every gated feature closed and takes the product offline. | expertise | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Statsig | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-d-prevent-a-proxy-based-feature-flag-kill-sw-38458) |

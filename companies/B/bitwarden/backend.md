@@ -2,6 +2,8 @@
 
 [← back to Bitwarden](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a 'sudo mode' where sensitive settings pages require a fresh re-auth within the last 5 minutes. Where do you track this freshness, and how do you avoid re-prompting the user on every field save? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Bitwarden | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-sudo-mode-where-sensitive-settings-pages-require-a-fresh-re-a-26180) |

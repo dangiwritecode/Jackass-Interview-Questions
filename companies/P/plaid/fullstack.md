@@ -2,6 +2,8 @@
 
 [← back to Plaid](README.md)
 
+Questions 1–117 of 117.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A product org wants a public developer platform (like Stripe's) fronted by your gateway; design the external API-product architecture covering key management, rate tiers, versioning SLAs, sandbox environments, and the org structure needed to support external developers. | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Plaid | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-product-org-wants-a-public-developer-platform-like-stripe-s-fronted--34562) |

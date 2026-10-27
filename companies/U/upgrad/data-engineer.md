@@ -2,6 +2,8 @@
 
 [← back to upGrad](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Write a query to rank students by marks so that ties share the same rank and no numbers are skipped. | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at upGrad | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=write-a-query-to-rank-students-by-marks-so-that-ties-share-the-same-ra-118974) |

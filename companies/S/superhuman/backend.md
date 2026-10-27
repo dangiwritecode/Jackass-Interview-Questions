@@ -2,6 +2,8 @@
 
 [← back to Superhuman](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A REST API for a collaborative editor needs to merge concurrent partial edits. Do you use JSON Patch with server-side conflict resolution, a CRDT behind the endpoint, or last-write-wins, and how do you expose the choice? | expertise | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Superhuman | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-rest-api-for-a-collaborative-editor-needs-to-merge-concurrent-partia-24014) |

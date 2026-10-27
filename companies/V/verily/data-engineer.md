@@ -2,6 +2,8 @@
 
 [← back to Verily](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect real-time analytics for a healthcare product where late data can't be dropped, the audit trail is legally binding, and PHI can't leak into logs? | expertise | SDE-2/3, Architect/Principal | Real-time Analytics Architecture | Onsite | Tech | Asked at HealthTech companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-real-time-analytics-for-a-healthcare-product-w-127612) |

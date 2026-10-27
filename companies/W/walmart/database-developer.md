@@ -2,6 +2,8 @@
 
 [← back to Walmart](README.md)
 
+Questions 1–129 of 129.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cross-team dispute: the search team wants to denormalize product data into Elasticsearch fed asynchronously; the pricing team demands the search results reflect the exact current price. Adjudicate the consistency boundary and design how price-critical fields stay authoritative. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Walmart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cross-team-dispute-the-search-team-wants-to-denormalize-product-data-112186) |

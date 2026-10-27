@@ -2,6 +2,8 @@
 
 [← back to Ambassador Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A gRPC streaming call gets cut off at 15 minutes even though it should run longer. Explain how mesh route timeouts treat long-lived streams and how you'd exempt streaming routes. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Ambassador Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-grpc-streaming-call-gets-cut-off-at-15-minutes-even-though-it-should-46626) |

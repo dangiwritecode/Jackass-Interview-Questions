@@ -2,6 +2,8 @@
 
 [← back to Pulumi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probe: 'you keep saying declarative Terraform is the safe choice, but every real deploy has an imperative sequencing need somewhere. At what point does the accumulation of orchestration-around-Terraform mean you should have picked an imperative tool? Where's your line?' | expertise | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Pulumi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probe-you-keep-saying-declarative-terraform-is-the-safe-c-39979) |

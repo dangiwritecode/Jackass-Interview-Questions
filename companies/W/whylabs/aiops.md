@@ -2,6 +2,8 @@
 
 [← back to WhyLabs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe your strategy for observability of ML systems (model drift, feature freshness, inference latency) alongside traditional infra telemetry. | expertise | SDE-2/3, Architect/Principal | Observability Platform Strategy | Onsite, Hiring Manager | Tech | Asked at WhyLabs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-strategy-for-observability-of-ml-systems-model-drift-fea-102985) |

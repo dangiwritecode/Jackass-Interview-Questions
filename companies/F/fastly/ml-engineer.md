@@ -2,6 +2,8 @@
 
 [← back to Fastly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probes: you claim edge inference (on-device or CDN-edge models) saves cloud GPU cost, but product says quality and model-freshness suffer. How do you build the cost-versus-quality-versus-freshness model that decides which inference belongs at the edge versus centralized GPUs? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Fastly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-you-claim-edge-inference-on-device-or-cdn-edge-mod-69927) |

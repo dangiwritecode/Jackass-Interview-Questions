@@ -2,6 +2,8 @@
 
 [← back to Zalando](README.md)
 
+Questions 1–94 of 94.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A design-review question: 'you propose CQRS to scale reads on the catalog, but the write model is trivial CRUD. Convince me you shouldn't just add a cache and a read replica — what specifically justifies the separate read model and its operational overhead here?' | deep understanding | SDE-2/3, Architect/Principal | CQRS & Event Sourcing | Phone Screen, Onsite | Tech | Asked at Zalando | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-design-review-question-you-propose-cqrs-to-scale-reads-on-the-catalo-34301) |

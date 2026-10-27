@@ -2,6 +2,8 @@
 
 [← back to Styra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an authorization system that can express deny rules, hierarchies, and exceptions without becoming an unauditable rules-engine no one understands? | deep understanding | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Styra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-authorization-system-that-can-express-deny-rul-114135) |

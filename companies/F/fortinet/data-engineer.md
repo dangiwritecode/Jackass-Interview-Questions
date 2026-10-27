@@ -2,6 +2,8 @@
 
 [← back to Fortinet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A correlated failure took out your lakehouse metadata catalog and its 'independent' backup because both ran on the same object-store account that hit a throttling limit. How do you architect correlated-failure domains in a data platform, and how do you actually test that ingestion and query planes fail independently? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Security companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-correlated-failure-took-out-your-lakehouse-metadata-catalog-and-its--125651) |

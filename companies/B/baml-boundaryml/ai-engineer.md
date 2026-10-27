@@ -2,6 +2,8 @@
 
 [← back to BAML/BoundaryML](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd instrument a structured-output/JSON-mode LLM call so you can monitor schema-validation failure rate and how often you had to reprompt/repair. Why is a rising repair rate a leading indicator of a model or prompt regression? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at BAML/BoundaryML | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-instrument-a-structured-output-json-mode-llm-call-so-78896) |

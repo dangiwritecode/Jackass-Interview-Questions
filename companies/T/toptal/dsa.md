@@ -2,6 +2,8 @@
 
 [← back to Toptal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Shortest Run-Length Encoding After Limited Deletions | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Interval/Suffix DP, Memoization, Run-Length Encoding, String | DSA/Coding Round, Onsite | DSA | Asked at Toptal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shortest-run-length-encoding-after-limited-deletions-d1465) |

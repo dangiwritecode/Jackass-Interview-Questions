@@ -2,6 +2,8 @@
 
 [← back to GreyNoise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're building a threat-intelligence-driven prioritization pipeline (KEV/EPSS/vendor feeds) — how do you architect it to auto-reprioritize the fleet's remediation backlog? | expertise | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at GreyNoise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-building-a-threat-intelligence-driven-prioritization-pipeline-k-55092) |

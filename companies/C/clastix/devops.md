@@ -2,6 +2,8 @@
 
 [← back to Clastix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A hosted-control-plane model (Kamaji/vcluster-style) would let you run hundreds of cheap tenant clusters sharing physical nodes. How would you decide which tenants get a real control plane versus a hosted one, and where does the shared-node reality break the isolation promise you sold to security? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Clastix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-hosted-control-plane-model-kamaji-vcluster-style-would-let-you-run-h-52138) |

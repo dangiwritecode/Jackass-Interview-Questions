@@ -2,6 +2,8 @@
 
 [← back to BigCommerce](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An Adapter that maps a v1 upstream to your v2 domain silently drops a newly-added upstream field, and a downstream feature breaks weeks later. How do you build mapping tests that fail when the source schema grows fields the Adapter doesn't handle? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at BigCommerce | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-adapter-that-maps-a-v1-upstream-to-your-v2-domain-silently-drops-a--22438) |

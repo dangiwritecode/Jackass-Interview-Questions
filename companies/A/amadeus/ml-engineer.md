@@ -2,6 +2,8 @@
 
 [← back to Amadeus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a data-residency-aware training architecture so an EU-only model trains exclusively on EU data in EU regions while a global model trains on a lawfully-aggregated superset — how do you avoid maintaining N forked pipelines per jurisdiction? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Amadeus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-data-residency-aware-training-architecture-so-an-eu-only-mode-69985) |

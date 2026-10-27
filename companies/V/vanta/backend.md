@@ -2,6 +2,8 @@
 
 [← back to Vanta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compliance velocity trade-off: your quarterly access-review and change-approval controls are slowing deploys and engineers resent them — redesign the controls so they satisfy auditors AND preserve daily-deploy velocity. Where exactly do you automate vs keep human sign-off? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Vanta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compliance-velocity-trade-off-your-quarterly-access-review-and-change--37229) |

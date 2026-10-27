@@ -2,6 +2,8 @@
 
 [← back to Delphix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A developer wants prod data copied into staging to reproduce a bug — why is that a compliance risk and what data-masking or subsetting approach would you offer instead? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Delphix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-developer-wants-prod-data-copied-into-staging-to-reproduce-a-bug-why-47951) |

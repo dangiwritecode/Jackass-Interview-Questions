@@ -2,6 +2,8 @@
 
 [← back to SailPoint](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for governing data-access certifications and periodic access reviews at a scale where thousands of grants exist across the ML platform? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at SailPoint | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-governing-data-access-certifications-and-peri-72157) |

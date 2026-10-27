@@ -2,6 +2,8 @@
 
 [← back to MPL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you prevent replica read routing from masking a scaling problem on the primary that will eventually bite you regardless? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at MPL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-prevent-replica-read-routing-from-masking-a-scaling-problem-115465) |

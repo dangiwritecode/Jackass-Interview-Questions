@@ -2,6 +2,8 @@
 
 [← back to Adevinta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Conway's law is pushing your teams toward per-team datastores that each make their own CAP choice, producing a patchwork of consistency guarantees at the seams. How do you re-shape team topologies so the CAP boundaries land where they belong? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Adevinta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=conway-s-law-is-pushing-your-teams-toward-per-team-datastores-that-eac-32209) |

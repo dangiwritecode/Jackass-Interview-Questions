@@ -2,6 +2,8 @@
 
 [← back to GitLab](README.md)
 
+Questions 1–66 of 66.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A colleague's ingestion install step uses 'curl \| bash' to pull a connector plugin into the deploy pipeline. Explain the security and partial-download failure risks on Linux and how you'd make it safe or replace it for a data platform. | deep understanding | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at GitLab | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-colleague-s-ingestion-install-step-uses-curl-bash-to-pull-a-connecto-120143) |

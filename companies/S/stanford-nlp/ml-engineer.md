@@ -2,6 +2,8 @@
 
 [← back to Stanford NLP](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the 'lost in the middle' phenomenon empirically and how you'd order or rerank chunks in the prompt to mitigate it, then measure the effect. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Stanford NLP | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-lost-in-the-middle-phenomenon-empirically-and-how-you-d-or-64021) |

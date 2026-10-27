@@ -2,6 +2,8 @@
 
 [← back to Cursor](README.md)
 
+Questions 1–75 of 75.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is MCP (Model Context Protocol) and what problem does it address? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cursor | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-mcp-model-context-protocol-and-what-problem-does-it-address-7157) |

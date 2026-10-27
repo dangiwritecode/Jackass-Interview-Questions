@@ -2,6 +2,8 @@
 
 [← back to Multion](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a browser/computer-use automation capability inside agents (buy a managed computer-use/agent-browser API vs build your own sandboxed automation) when reliability of DOM interaction and blast radius of an agent acting on live systems are the risks? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Multion | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-browser-computer-use-automation-c-83804) |

@@ -2,6 +2,8 @@
 
 [← back to SPIRL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the identity story for a hybrid estate where some workloads can be attested by hardware TPM, some by cloud instance identity, and some not at all? Define your tiered-assurance model and how policy consumes the assurance level. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at SPIRL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-identity-story-for-a-hybrid-estate-where-some-53950) |

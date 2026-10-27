@@ -2,6 +2,8 @@
 
 [← back to Hazelcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A scenario tests scaling reads by adding a caching tier, but the invalidation strategy is undefined. How do you record cache invalidation as the true sensitivity point rather than the cache itself, and what follow-up does ATAM demand? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Hazelcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-tests-scaling-reads-by-adding-a-caching-tier-but-the-invali-40561) |

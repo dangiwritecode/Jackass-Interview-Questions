@@ -2,6 +2,8 @@
 
 [← back to DeepNote](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal probe: your data-scientists run notebooks on always-on GPU instances that idle 80% of the time between cells. Design the org-wide interactive-compute governance — auto-suspend, scale-to-zero notebooks, shared burst pools — that cuts idle GPU cost without hurting exploratory workflow. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at DeepNote | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-probe-your-data-scientists-run-notebooks-on-always-on-gpu--69920) |

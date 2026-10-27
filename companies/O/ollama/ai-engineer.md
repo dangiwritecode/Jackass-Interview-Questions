@@ -2,6 +2,8 @@
 
 [← back to Ollama](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a model-portability strategy so the org can move agent traffic between hosted and self-hosted models based on cost, latency, and data-residency with no per-team code changes. Where does the abstraction leak given tool-call format and reasoning-token differences? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Ollama | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-model-portability-strategy-so-the-org-can-move-agent-traffic--83093) |

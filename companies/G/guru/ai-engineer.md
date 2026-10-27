@@ -2,6 +2,8 @@
 
 [← back to Guru](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why 'the model wasn't given the information' and 'the model doesn't know' demand different fixes, and how you'd tell which one caused a wrong answer. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Guru | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-the-model-wasn-t-given-the-information-and-the-model-doesn-77950) |

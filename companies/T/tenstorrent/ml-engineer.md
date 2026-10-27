@@ -2,6 +2,8 @@
 
 [← back to Tenstorrent](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe the reference architecture for an RLHF training cluster spanning thousands of GPUs — how do you split actor, critic, reward, and reference models across the topology? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Tenstorrent | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-reference-architecture-for-an-rlhf-training-cluster-spann-71274) |

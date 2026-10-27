@@ -2,6 +2,8 @@
 
 [← back to BookMyShow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must plan data-platform capacity for a live-event surge (IPL final, ticket-on-sale) where ingest and real-time analytics spike hard exactly when the business most needs them. What's the right economic posture between under- and over-provisioning the streaming and warehouse tiers? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at BookMyShow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-plan-data-platform-capacity-for-a-live-event-surge-ipl-final--125361) |

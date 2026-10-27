@@ -2,6 +2,8 @@
 
 [← back to Capital-One](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect column-level lineage (not just table-level) across a chain of SQL transformations so you can answer 'which raw column feeds this regulated field' automatically? What parsing and metadata infrastructure makes this reliable, and where does dynamic SQL defeat it? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Capital-One | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-column-level-lineage-not-just-table-level-across--112671) |

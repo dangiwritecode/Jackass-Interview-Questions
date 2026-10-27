@@ -2,6 +2,8 @@
 
 [← back to SpeedCurve](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a synthetic + RUM correlation system that catches the cases where lab and field disagree, and how you'd use disagreement itself as a leading indicator of an architectural problem. | deep understanding | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | Asked at SpeedCurve | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-synthetic-rum-correlation-system-that-catch-40251) |

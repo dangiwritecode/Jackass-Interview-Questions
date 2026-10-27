@@ -2,6 +2,8 @@
 
 [← back to Cash App](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide isolation strategy for a wallet system that must support both instant peer-to-peer transfers and a monthly reconciliation that reads a globally consistent cut? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Cash App | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-isolation-strategy-for-a-wallet-system-that-must-sup-113714) |

@@ -2,6 +2,8 @@
 
 [← back to Thales](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a per-tenant encryption and key-hierarchy scheme where thousands of tenants each have their own KMS-derived key, without hitting KMS API throttling on the hot path — where does data-key caching sit and what's the isolation trade-off? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Thales | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-per-tenant-encryption-and-key-hierarchy-sche-39307) |

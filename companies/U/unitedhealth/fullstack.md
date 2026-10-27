@@ -2,6 +2,8 @@
 
 [← back to UnitedHealth](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the gateway's approach to a compliance mandate that every request touching health data be encrypted, logged with consent status, and routed only to certified backends; how do you architect this as a non-bypassable pipeline and prove per-request compliance to an auditor? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at UnitedHealth | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-gateway-s-approach-to-a-compliance-mandate-that-every-reque-39600) |

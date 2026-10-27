@@ -2,6 +2,8 @@
 
 [← back to Snapchat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to handling hot keys in a real-time aggregation, like one celebrity account generating 40% of the traffic in a social feed analytics pipeline? | expertise | SDE-2/3, Architect/Principal | Real-time Analytics Architecture | Onsite | Tech | Asked at Snapchat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-handling-hot-keys-in-a-real-time-aggregation-l-127555) |

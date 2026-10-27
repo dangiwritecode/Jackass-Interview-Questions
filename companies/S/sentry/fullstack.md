@@ -2,6 +2,8 @@
 
 [← back to SENTRY](README.md)
 
+Questions 1–69 of 69.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A decorator you wrote broke stack traces and function introspection for downstream tooling. What went wrong and how do functools.wraps and signature preservation fix it? | intermediate experience | SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at SENTRY | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-decorator-you-wrote-broke-stack-traces-and-function-introspection-fo-16748) |

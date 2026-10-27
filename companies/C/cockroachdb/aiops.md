@@ -2,6 +2,8 @@
 
 [← back to CockroachDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect observability for stateful data stores replicated across clouds so AIOps can distinguish replication lag from a real outage? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | Asked at CockroachDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-observability-for-stateful-data-stores-replicated-103826) |

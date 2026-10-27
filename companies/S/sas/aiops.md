@@ -2,6 +2,8 @@
 
 [← back to SAS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect handling for a model whose label definition legitimately changed (e.g., fraud criteria updated), platform-wide, without corrupting drift history? | deep understanding | SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at SAS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-handling-for-a-model-whose-label-definition-legit-101227) |

@@ -2,6 +2,8 @@
 
 [← back to SmartBear](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an API testing and certification harness that gates every release: contract tests, backward-compat checks, fuzzing, load, and security scans. What's mandatory to pass, what's advisory, and how do you keep the harness from being the slowest step in delivery? | expertise | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at SmartBear | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-api-testing-and-certification-harness-that-gates-every-relea-36453) |

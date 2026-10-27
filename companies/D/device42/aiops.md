@@ -2,6 +2,8 @@
 
 [← back to Device42](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the integrity of your CMDB/asset inventory feeding AIOps across clouds so stale or wrong ownership data doesn't send a page to someone who left the company? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at Device42 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-integrity-of-your-cmdb-asset-inventory-feeding-a-100875) |

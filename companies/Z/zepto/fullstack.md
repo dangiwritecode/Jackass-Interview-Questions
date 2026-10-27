@@ -2,6 +2,8 @@
 
 [← back to Zepto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A LATERAL join to fetch top-3 recent orders per customer is slow; explain the plan, how an index supports it, and when a window function is better than LATERAL here. | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zepto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-lateral-join-to-fetch-top-3-recent-orders-per-customer-is-slow-expla-18152) |

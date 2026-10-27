@@ -2,6 +2,8 @@
 
 [← back to Coforge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How can Dynatrace be integrated into a CI/CD pipeline, for example a quality gate before promotion? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Dynatrace | Phone Screen, Onsite | Tech | Asked at Coforge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-can-dynatrace-be-integrated-into-a-ci-cd-pipeline-for-example-a-qu-91215) |

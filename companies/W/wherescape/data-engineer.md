@@ -2,6 +2,8 @@
 
 [← back to WhereScape](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Build-vs-buy: a vendor offers an automated Data Vault generation tool. How do you evaluate whether it earns its lock-in versus hand-rolled dbt macros? | expertise | SDE-2/3, Architect/Principal | Data Modeling Judgment (Kimball/Inmon/Data Vault) | Phone Screen, Onsite | Tech | Asked at WhereScape | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=build-vs-buy-a-vendor-offers-an-automated-data-vault-generation-tool-h-127651) |

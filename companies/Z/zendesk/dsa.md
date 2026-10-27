@@ -2,6 +2,8 @@
 
 [← back to Zendesk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Maximum Recipients Receiving Exactly Eight Tokens | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Math | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Zendesk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-recipients-receiving-exactly-eight-tokens-d2442) |

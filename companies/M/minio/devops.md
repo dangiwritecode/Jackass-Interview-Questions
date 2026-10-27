@@ -2,6 +2,8 @@
 
 [← back to MinIO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a durability SLO for a storage platform where the failure is silent data loss or corruption, not downtime — how do you make durability a first-class, continuously-measured SLI rather than a marketing number? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at MinIO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-durability-slo-for-a-storage-platform-where-the-54200) |

@@ -2,6 +2,8 @@
 
 [← back to Weaveworks](README.md)
 
+Questions 1–141 of 141.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cluster bootstrap uses a Git repo as the source, but the very first sync needs credentials that also live in Git, a chicken-and-egg problem. How would you bootstrap GitOps so the initial secret to read the repo doesn't itself sit in the repo? | expertise | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Weaveworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cluster-bootstrap-uses-a-git-repo-as-the-source-but-the-very-first-s-45678) |

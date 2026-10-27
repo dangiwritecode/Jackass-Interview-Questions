@@ -2,6 +2,8 @@
 
 [← back to Pact-SmartBear](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A downstream migration changes an API's response shape and your Node.js clients break silently. How would you have caught this earlier with contract testing? | deep understanding | SDE-1/2, SDE-2/3 | Node.js | Phone Screen, Onsite | Tech | Asked at Pact-SmartBear | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-migration-changes-an-api-s-response-shape-and-your-node-j-17562) |

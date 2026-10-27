@@ -2,6 +2,8 @@
 
 [← back to Seldon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cross-team ML platform you sponsored — a self-service model-deployment portal — is failing to gain adoption and sunk-cost pressure is real. How do you decide whether to double down, pivot, or kill it, and how do you communicate that across teams? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Seldon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cross-team-ml-platform-you-sponsored-a-self-service-model-deployment-70236) |

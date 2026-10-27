@@ -2,6 +2,8 @@
 
 [← back to Delivery Hero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Two staff engineers deadlock in a design review: one insists the new order service must be CP, the other AP. As the deciding architect, how do you run the arbitration so the outcome is principled and both sides feel heard? | deep understanding | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Delivery Hero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=two-staff-engineers-deadlock-in-a-design-review-one-insists-the-new-or-32208) |

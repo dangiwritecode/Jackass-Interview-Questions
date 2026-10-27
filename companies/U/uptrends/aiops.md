@@ -2,6 +2,8 @@
 
 [← back to Uptrends](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is synthetic monitoring and how does it complement real user telemetry? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Unified Observability (Logs/Metrics/Traces) | Phone Screen, Onsite | Tech | Asked at Uptrends | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-synthetic-monitoring-and-how-does-it-complement-real-user-tele-90784) |

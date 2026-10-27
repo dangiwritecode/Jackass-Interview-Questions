@@ -2,6 +2,8 @@
 
 [← back to Platform9](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide whether to keep running your self-hosted Kubernetes platform team versus adopting a managed control plane, when the self-hosted stack is a growing operational-debt sink that also encodes years of org-specific policy and compliance controls? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Platform9 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-to-keep-running-your-self-hosted-kubernetes--54331) |

@@ -2,6 +2,8 @@
 
 [← back to Garmin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between dynamic-range, full-integer, and float16 TFLite quantization and when each is the right call for an edge deployment. | deep understanding | SDE-1/2, SDE-2/3 | TensorFlow | Phone Screen, Onsite | Tech | Asked at Garmin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-dynamic-range-full-integer-and-float16--65581) |

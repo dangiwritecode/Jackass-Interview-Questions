@@ -2,6 +2,8 @@
 
 [← back to Zscaler](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set up governance so that shadow AI (teams using unsanctioned tools/models) is detected and brought into the framework rather than driven further underground? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Zscaler | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-governance-so-that-shadow-ai-teams-using-unsancti-71756) |

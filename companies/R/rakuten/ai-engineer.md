@@ -2,6 +2,8 @@
 
 [← back to Rakuten](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to governing model behavior across 30 languages when your safety training data and human reviewers are overwhelmingly English? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Rakuten | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-model-behavior-across-30-languages-w-86049) |

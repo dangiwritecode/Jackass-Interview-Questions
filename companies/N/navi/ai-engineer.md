@@ -2,6 +2,8 @@
 
 [← back to Navi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your framework for deciding when pseudonymization is legally sufficient versus when you need true anonymization that removes the data from GDPR scope entirely? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Navi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-deciding-when-pseudonymization-is-legally-su-87233) |

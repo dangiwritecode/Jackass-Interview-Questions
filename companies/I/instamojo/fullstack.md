@@ -2,6 +2,8 @@
 
 [← back to Instamojo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A product manager wants sub-100ms reads on a dataset that legally must never be more than 5 seconds stale. How do you reconcile that with your caching design and what do you measure to prove compliance? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Instamojo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-product-manager-wants-sub-100ms-reads-on-a-dataset-that-legally-must-18514) |

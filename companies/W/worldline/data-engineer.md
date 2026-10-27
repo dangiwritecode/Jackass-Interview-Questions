@@ -2,6 +2,8 @@
 
 [← back to Worldline](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a data-lake ingestion layer so PAN never lands in the lake in the first place — the tokenization happens at the edge of ingestion — keeping 90 percent of your batch and streaming pipelines entirely out of PCI audit scope? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Worldline | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-lake-ingestion-layer-so-pan-never-lands-in-126029) |

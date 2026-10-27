@@ -2,6 +2,8 @@
 
 [← back to Dell Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your inference platform must support both a hybrid on-prem GPU cluster and cloud burst capacity. How do you architect the control plane so a request is placed on the cheapest compliant capacity, and what makes the on-prem/cloud seam the most fragile part? | deep understanding | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Dell Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-inference-platform-must-support-both-a-hybrid-on-prem-gpu-cluster-83436) |

@@ -2,6 +2,8 @@
 
 [← back to VAST Data](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a checkpoint storage and retrieval subsystem for multi-terabyte sharded checkpoints so that checkpoint I/O never becomes the throughput ceiling for a 2000-GPU job? | expertise | SDE-2/3, Architect/Principal | Distributed Training (Data/Model Parallelism) | Phone Screen, Onsite | Tech | Asked at VAST Data | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-checkpoint-storage-and-retrieval-subsystem-for--70687) |

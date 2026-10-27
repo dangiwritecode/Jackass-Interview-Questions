@@ -2,6 +2,8 @@
 
 [← back to ISRO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect eval for an on-prem/air-gapped enterprise deployment where you can't call a frontier judge API? What's your local-judge strategy and its quality ceiling? | expertise | SDE-2/3, Architect/Principal | Evaluation Frameworks (LLM-as-Judge) | Phone Screen, Onsite | Tech | Asked at ISRO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-eval-for-an-on-prem-air-gapped-enterprise-depl-85488) |

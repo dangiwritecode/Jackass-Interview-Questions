@@ -2,6 +2,8 @@
 
 [← back to Typesense](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A search-as-you-type feature does a fresh filter over the full dataset on each keystroke; analyze the complexity end to end (client and server) and describe how debounce, indexing, and pagination each attack a different term. | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Typesense | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-search-as-you-type-feature-does-a-fresh-filter-over-the-full-dataset-16127) |

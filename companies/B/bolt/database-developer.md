@@ -2,6 +2,8 @@
 
 [← back to Bolt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You run a multi-active CockroachDB deployment. How do online schema changes work there under the hood and what constraints does that place on your migration policy? | expertise | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at Bolt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-run-a-multi-active-cockroachdb-deployment-how-do-online-schema-cha-114250) |

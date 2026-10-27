@@ -2,6 +2,8 @@
 
 [← back to HubSpot](README.md)
 
+Questions 1–113 of 113.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the multi-tenancy isolation architecture for a shared gateway serving thousands of tenants where a bug in one tenant's transform/routing config must never leak data or route to another tenant; what's your blast-radius containment and per-tenant fault isolation strategy? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at HubSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-multi-tenancy-isolation-architecture-for-a-shared-gateway-s-34541) |

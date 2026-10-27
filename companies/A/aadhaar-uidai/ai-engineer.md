@@ -2,6 +2,8 @@
 
 [← back to Aadhaar/UIDAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the org's approach to biometric data (face, fingerprint, gait) in ML given it's often irrevocable and specially regulated — what's categorically off-limits? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Aadhaar/UIDAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-org-s-approach-to-biometric-data-face-fingerp-87295) |

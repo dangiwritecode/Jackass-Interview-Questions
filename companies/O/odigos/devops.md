@@ -2,6 +2,8 @@
 
 [← back to Odigos](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must present a decision on whether the mesh's telemetry replaces, augments, or is subsumed by eBPF-based observability (Pixie/Hubble/Cilium). Frame the depth-vs-overhead trade-off and whether you'd standardize on eBPF observability and drop proxy telemetry. | deep understanding | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Odigos | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-present-a-decision-on-whether-the-mesh-s-telemetry-replaces-a-52662) |

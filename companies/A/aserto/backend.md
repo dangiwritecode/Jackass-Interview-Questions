@@ -2,6 +2,8 @@
 
 [← back to Aserto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design authorization caching where the cache key must include user, resource, action, AND the policy version — so a policy change invalidates only affected entries? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Aserto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-authorization-caching-where-the-cache-key-must-in-26155) |

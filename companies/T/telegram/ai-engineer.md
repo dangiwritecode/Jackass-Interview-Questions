@@ -2,6 +2,8 @@
 
 [← back to Telegram](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why a chat model 'forgets' context in a way that is really a context-window eviction, and how you'd distinguish it from a genuine reasoning failure. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Telegram | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-chat-model-forgets-context-in-a-way-that-is-really-a-con-77936) |

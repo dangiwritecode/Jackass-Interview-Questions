@@ -2,6 +2,8 @@
 
 [← back to Great Expectations](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect data quality gates that block a promotion from silver to gold, and design them so a false-positive gate failure at 3am doesn't stall the entire estate? What circuit-breaker, override, and paged-owner model keeps quality enforcement from becoming an availability risk? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Great Expectations | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-data-quality-gates-that-block-a-promotion-from-si-112694) |

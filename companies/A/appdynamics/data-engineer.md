@@ -2,6 +2,8 @@
 
 [← back to AppDynamics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A data-observability tool alerts that the distribution of an LLM-labeled column shifted 30% week over week. How would you tell a genuine data shift from a provider model update? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Observability companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-data-observability-tool-alerts-that-the-distribution-of-an-llm-label-120684) |

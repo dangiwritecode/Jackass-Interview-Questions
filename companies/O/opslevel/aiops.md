@@ -2,6 +2,8 @@
 
 [← back to OpsLevel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you enrich each topology node with ownership/team metadata and why does that matter for automated incident routing? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | Asked at OpsLevel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-enrich-each-topology-node-with-ownership-team-metadata-a-97678) |

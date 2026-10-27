@@ -2,6 +2,8 @@
 
 [← back to Basho](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your Dynamo-style store returns two sibling versions for a key with conflicting vector clocks. How do you decide the resolution strategy, and what are the trade-offs of last-write-wins vs application merge vs CRDT here? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Basho | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-dynamo-style-store-returns-two-sibling-versions-for-a-key-with-co-28435) |

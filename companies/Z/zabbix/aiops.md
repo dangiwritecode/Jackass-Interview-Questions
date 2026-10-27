@@ -2,6 +2,8 @@
 
 [← back to Zabbix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you count the number of ERROR-level log lines per service in the last 15 minutes? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Zabbix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-count-the-number-of-error-level-log-lines-per-service-in-th-87331) |

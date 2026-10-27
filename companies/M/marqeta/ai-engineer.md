@@ -2,6 +2,8 @@
 
 [← back to Marqeta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an agent 'capability tier' model where an agent earns access to riskier tools (money, deletes, prod mutations) by accumulating measured reliability, and how does demotion work when reliability regresses? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Marqeta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-agent-capability-tier-model-where-an-agent--83035) |

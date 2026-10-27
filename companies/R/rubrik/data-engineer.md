@@ -2,6 +2,8 @@
 
 [← back to Rubrik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Backups and disaster-recovery copies also contain a subject's data; how do you reconcile immutable backup retention with an erasure obligation? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Rubrik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=backups-and-disaster-recovery-copies-also-contain-a-subject-s-data-how-127341) |

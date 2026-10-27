@@ -2,6 +2,8 @@
 
 [← back to Comcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare a query federation engine (Trino/Starburst/Presto) that leaves data in place versus physically consolidating everything into one warehouse. For a 15-source polyglot estate, where does federation's lack of a global optimizer and pushdown limits make consolidation worth the migration cost? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Comcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-a-query-federation-engine-trino-starburst-presto-that-leaves-d-112662) |

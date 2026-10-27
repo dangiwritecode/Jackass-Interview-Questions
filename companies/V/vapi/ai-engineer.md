@@ -2,6 +2,8 @@
 
 [← back to Vapi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd budget for a voice agent where tokens, TTS/STT, and turn latency all compound into a single per-minute cost target. | expertise | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | Asked at Vapi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-budget-for-a-voice-agent-where-tokens-tts-stt-and-t-86391) |

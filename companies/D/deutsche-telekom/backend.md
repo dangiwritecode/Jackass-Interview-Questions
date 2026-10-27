@@ -2,6 +2,8 @@
 
 [← back to Deutsche Telekom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your platform serves 30 countries with data-residency laws. How do data-sovereignty constraints reshape the CAP calculus, given you can no longer freely place a majority quorum wherever latency is best? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Deutsche Telekom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-platform-serves-30-countries-with-data-residency-laws-how-do-data-32228) |

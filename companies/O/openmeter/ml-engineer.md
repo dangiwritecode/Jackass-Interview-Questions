@@ -2,6 +2,8 @@
 
 [← back to OpenMeter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Interpret an Anthropic usage block where input_tokens is small but cache_read_input_tokens is huge on a long agentic serving run. Which fields must you sum to compute true prompt size and cost? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at OpenMeter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interpret-an-anthropic-usage-block-where-input-tokens-is-small-but-cac-64104) |

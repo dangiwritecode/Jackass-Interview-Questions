@@ -2,6 +2,8 @@
 
 [← back to Veeva Systems](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An incident exposes PHI; walk me through your breach-notification-clock architecture and how automation ensures the 60-day HIPAA and FedRAMP incident-reporting SLAs are met. | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Healthcare companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-incident-exposes-phi-walk-me-through-your-breach-notification-clock-56749) |

@@ -2,6 +2,8 @@
 
 [← back to DeepNote](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to governing golden-path vs. escape-hatch data access for data scientists so experimentation is fast but nothing sensitive leaks to notebooks? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at DeepNote | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-golden-path-vs-escape-hatch-data-acc-86777) |

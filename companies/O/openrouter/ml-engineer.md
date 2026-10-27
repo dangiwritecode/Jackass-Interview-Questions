@@ -2,6 +2,8 @@
 
 [← back to OpenRouter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a cost-and-quality routing policy engine that can route across four model tiers with hysteresis, so requests don't flap between models during transient provider latency and confuse your billing and eval signals? | deep understanding | SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | Asked at OpenRouter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-cost-and-quality-routing-policy-engine-that-can-68983) |

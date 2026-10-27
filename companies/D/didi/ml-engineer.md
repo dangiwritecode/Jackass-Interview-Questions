@@ -2,6 +2,8 @@
 
 [← back to Didi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must forecast at 15-minute granularity for ride demand — what changes vs daily forecasting in features, models, and infra? | deep understanding | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | Asked at Didi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-forecast-at-15-minute-granularity-for-ride-demand-what-change-66421) |

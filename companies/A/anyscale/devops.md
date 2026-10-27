@@ -2,6 +2,8 @@
 
 [← back to AnyScale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the debt introduced by rapid AI/ML platform buildout — GPU scheduling hacks, model-serving glue, shadow inference pipelines, prompt/config sprawl — that traditional infra-debt frameworks don't capture well? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at AnyScale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-debt-introduced-by-rapid-ai-ml-platform-buildout-54410) |

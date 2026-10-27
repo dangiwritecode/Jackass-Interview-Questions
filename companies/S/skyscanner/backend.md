@@ -2,6 +2,8 @@
 
 [← back to Skyscanner](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a cross-domain 'cancel an entire trip' workflow (flights, hotels, cars, insurance, loyalty points) where each domain has different reversibility windows and penalties. How do you architect compensations when some are free, some cost money, and some are irreversible? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | Asked at Skyscanner | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-cross-domain-cancel-an-entire-trip-workflow-flights-hotels-ca-34135) |

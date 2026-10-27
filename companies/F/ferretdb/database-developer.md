@@ -2,6 +2,8 @@
 
 [← back to FerretDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your OSS database choice carries a newly-restrictive license (AGPL/SSPL/BSL) — how do legal and IP considerations enter your build-vs-buy-vs-adopt-OSS matrix at a commercial company that ships a competing service? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at FerretDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-oss-database-choice-carries-a-newly-restrictive-license-agpl-sspl-112980) |

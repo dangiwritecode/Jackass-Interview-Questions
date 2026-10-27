@@ -2,6 +2,8 @@
 
 [← back to YugabyteDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stakeholder insists on 'active-active' analytics across clouds for zero-downtime — explain why active-active is far harder for stateful data than for stateless services, and what you'd actually build. | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at YugabyteDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-insists-on-active-active-analytics-across-clouds-for-zer-127294) |

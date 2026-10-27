@@ -2,6 +2,8 @@
 
 [← back to Fiserv](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you manage debt when two merged companies have overlapping full stacks (two auth systems, two payment stacks, two frontends) and leadership wants 'one platform' in 18 months? Sequence the consolidation. | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Fiserv | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-manage-debt-when-two-merged-companies-have-overlapping-full-41475) |

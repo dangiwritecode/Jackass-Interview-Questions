@@ -2,6 +2,8 @@
 
 [← back to SuperAnnotate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe your approach to detecting and mitigating label noise before it silently degrades an XGBoost classifier. | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at SuperAnnotate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-approach-to-detecting-and-mitigating-label-noise-before--65937) |

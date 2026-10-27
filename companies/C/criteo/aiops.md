@@ -2,6 +2,8 @@
 
 [← back to Criteo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you architect the platform so scaling to a new business unit with a totally different workload profile (say batch scoring billions of rows nightly versus millisecond ad ranking) doesn't force a fork of the whole stack? What flexes and what stays fixed? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Criteo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-architect-the-platform-so-scaling-to-a-new-b-100652) |

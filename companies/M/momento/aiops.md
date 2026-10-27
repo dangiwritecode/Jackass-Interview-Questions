@@ -2,6 +2,8 @@
 
 [← back to Momento](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the platform so scaling the shared inference cache (semantic/embedding cache) stays coherent and cheap: at high hit-rate a stale-but-cached answer can subtly corrupt many downstream features. As a principal, what invalidation and consistency architecture bounds staleness without gutting the hit rate? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Momento | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-platform-so-scaling-the-shared-inference-c-100727) |

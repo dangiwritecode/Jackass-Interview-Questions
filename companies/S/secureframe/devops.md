@@ -2,6 +2,8 @@
 
 [← back to Secureframe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect provable, automated evidence collection so a SOC 2 Type II audit is a query, not a quarter of manual screenshotting across the org? | deep understanding | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Secureframe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-provable-automated-evidence-collection-so-a-soc-2-55093) |

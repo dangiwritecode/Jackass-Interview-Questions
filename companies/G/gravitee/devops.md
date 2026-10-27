@@ -2,6 +2,8 @@
 
 [← back to Gravitee](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Leadership wants a definitive stance on whether the mesh replaces your API management platform (Apigee/Kong/WSO2) or complements it. For a large bank with 150 external APIs, draw the exact responsibility split and what each layer must never own. | deep understanding | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Gravitee | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=leadership-wants-a-definitive-stance-on-whether-the-mesh-replaces-your-52715) |

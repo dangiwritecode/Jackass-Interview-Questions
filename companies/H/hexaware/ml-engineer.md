@@ -2,6 +2,8 @@
 
 [← back to Hexaware](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you control figure size in Matplotlib and how does figsize interact with dpi? | intermediate experience | Fresher | Data Visualization (Matplotlib/Seaborn) | Online Assessment (OA), Phone Screen | Tech | Asked at Hexaware | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-control-figure-size-in-matplotlib-and-how-does-figsize-inte-61702) |

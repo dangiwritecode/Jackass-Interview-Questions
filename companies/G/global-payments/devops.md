@@ -2,6 +2,8 @@
 
 [← back to Global Payments](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the governance interface between engineering and an external QSA/auditor so evidence is self-serve and read-only — the auditor queries a curated attestation API rather than being handed prod access — and what are the risks of exposing that surface? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Global Payments | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-governance-interface-between-engineering-and--54070) |

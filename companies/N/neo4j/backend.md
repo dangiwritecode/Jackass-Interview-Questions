@@ -2,6 +2,8 @@
 
 [← back to Neo4j](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design DR for a graph/social system where the value is in the relationships — losing a small fraction of edges silently corrupts the graph. How does that change your RPO thinking versus row-oriented data? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Neo4j | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-dr-for-a-graph-social-system-where-the-value-is-in-the-relation-36802) |

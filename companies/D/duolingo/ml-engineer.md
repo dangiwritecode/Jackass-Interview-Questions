@@ -2,6 +2,8 @@
 
 [← back to Duolingo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you balance transparency obligations (disclose it's AI) against product/UX and adversarial-gaming concerns, and where do you draw the line technically? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Duolingo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-balance-transparency-obligations-disclose-it-s-ai-against-p-71765) |

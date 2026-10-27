@@ -2,6 +2,8 @@
 
 [← back to Immuta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance so that a feature derived from a deprecated or non-compliant data source is automatically flagged and blocked from production models? | expertise | SDE-2/3, Architect/Principal | Feature Stores | Phone Screen, Onsite | Tech | Asked at Immuta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-so-that-a-feature-derived-from-a-depre-70842) |

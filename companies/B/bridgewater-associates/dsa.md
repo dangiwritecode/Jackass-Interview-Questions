@@ -2,6 +2,8 @@
 
 [← back to Bridgewater Associates](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Counting L-Jump Sequences on a Notched Tile Board | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Combinatorics, Counting Walks, Dynamic Programming, Graph, Matrix Exponentiation, Modular Arithmetic, State Machine | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Bridgewater Associates | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-l-jump-sequences-on-a-notched-tile-board-d920) |

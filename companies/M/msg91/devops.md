@@ -2,6 +2,8 @@
 
 [← back to MSG91](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan capacity for a system where the binding constraint is a downstream vendor's rate limit (payment processor, SMS gateway, external API) rather than your own compute? How does an externally-imposed ceiling reshape your scaling and cost story? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at MSG91 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-for-a-system-where-the-binding-constraint-is--52988) |

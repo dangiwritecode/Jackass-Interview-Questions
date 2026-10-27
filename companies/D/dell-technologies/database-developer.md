@@ -2,6 +2,8 @@
 
 [← back to Dell Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding whether the org should own dedicated database infrastructure in a colo rather than the cloud for a steady, high-throughput workload in 2025-2026. How do you model the crossover economics and present it to a cloud-first executive team? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Dell Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-the-org-should-own-dedicated-database-infrastr-112026) |

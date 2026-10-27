@@ -2,6 +2,8 @@
 
 [← back to PubNub](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a class model for real-time presence (online/away/offline) for millions of users over WebSockets; how do you model heartbeats, expiry, and fan-out to interested subscribers without O(users^2) work? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at PubNub | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-class-model-for-real-time-presence-online-away-offline-for-mi-22413) |

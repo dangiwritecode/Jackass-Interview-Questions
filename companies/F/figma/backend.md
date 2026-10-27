@@ -2,6 +2,8 @@
 
 [← back to Figma](README.md)
 
+Questions 1–137 of 137.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Argue for or against mandating a company-wide standard sanitizer library. What are the systemic risks of everyone depending on one library version (correlated failure, mXSS on upgrade) versus the risks of letting each team choose? | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Figma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-for-or-against-mandating-a-company-wide-standard-sanitizer-libra-32821) |

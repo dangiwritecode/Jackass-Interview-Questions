@@ -2,6 +2,8 @@
 
 [← back to Magnite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an ad-serving or real-time-bidding backend that must answer within a tens-of-milliseconds budget at millions of QPS, staying available even when a fraction of scoring nodes are slow, and where you deliberately trade completeness for latency? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Magnite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-ad-serving-or-real-time-bidding-backend-tha-52116) |

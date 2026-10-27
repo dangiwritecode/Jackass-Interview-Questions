@@ -2,6 +2,8 @@
 
 [← back to Moogsoft](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to reduce cross-service alert correlation cost across 200 services — would you invest in an ML-based event-correlation engine, a dependency-graph-driven suppressor, or a topology-aware alerting standard? Defend the trade-offs. | expertise | SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Moogsoft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-reduce-cross-service-alert-correlation-cost-across-200-53127) |

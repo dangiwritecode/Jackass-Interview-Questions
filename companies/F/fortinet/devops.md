@@ -2,6 +2,8 @@
 
 [← back to Fortinet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | At which OSI layer does a firewall that filters by IP and port operate? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Networking Fundamentals (DNS/TCP-IP/Firewalls) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Fortinet | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=at-which-osi-layer-does-a-firewall-that-filters-by-ip-and-port-operate-44231) |

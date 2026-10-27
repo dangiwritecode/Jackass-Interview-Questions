@@ -2,6 +2,8 @@
 
 [← back to Astronomer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A batch job's outputs must be reconciled back to source rows, but a fraction fail validation. Design the retry-and-quarantine pipeline so good results ship immediately and only the failures re-run with an adjusted prompt. | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Astronomer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-batch-job-s-outputs-must-be-reconciled-back-to-source-rows-but-a-fra-27560) |

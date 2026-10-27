@@ -2,6 +2,8 @@
 
 [← back to PayPal](README.md)
 
+Questions 1–96 of 96.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a 'model kill switch' and graceful-degradation path for a governed model that must be pulled instantly across all regions and callers? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at PayPal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-model-kill-switch-and-graceful-degradation-path-71694) |

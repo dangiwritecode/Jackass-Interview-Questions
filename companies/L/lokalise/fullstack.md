@@ -2,6 +2,8 @@
 
 [← back to Lokalise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a translation/i18n runtime specifically at the request path (buy a localization CDN/edge translation vs build a bundle-based i18n) for a product entering 15 new markets with SEO and latency constraints? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Lokalise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-translation-i18n-runtime-specific-41115) |

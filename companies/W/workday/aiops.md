@@ -2,6 +2,8 @@
 
 [← back to Workday](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your observability platform stores tenant activity as a customer-facing audit-log feature AND uses the same store as internal SOC2 evidence. How do you architect one system serving both without one tenant seeing another's activity and without the customer feature slowing the compliance-evidence hot path? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Workday | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-observability-platform-stores-tenant-activi-100307) |

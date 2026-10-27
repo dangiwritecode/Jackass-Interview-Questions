@@ -2,6 +2,8 @@
 
 [← back to Wells Fargo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A legacy monolith can only read secrets from a file at boot and can't hot-reload. Design a rotation strategy that still achieves near-continuous rotation without unbounded restart storms across the fleet. | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Wells Fargo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-legacy-monolith-can-only-read-secrets-from-a-file-at-boot-and-can-t--54978) |

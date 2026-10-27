@@ -2,6 +2,8 @@
 
 [← back to OLX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through building a near-duplicate detection service for a marketplace that must scale to new listings in real time. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at OLX | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-building-a-near-duplicate-detection-service-for-a-mark-66703) |

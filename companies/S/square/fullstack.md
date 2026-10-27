@@ -2,6 +2,8 @@
 
 [← back to Square](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser challenge: you claim your Circuit Breaker fails safe. Define precisely what 'safe' means for a payments-authorization call where fail-open leaks fraud and fail-closed loses revenue, and how you'd make that policy per-endpoint. | expertise | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Square | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-challenge-you-claim-your-circuit-breaker-fails-safe-defin-38470) |

@@ -2,6 +2,8 @@
 
 [← back to PayU](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator requires that your CDN/edge cannot read customer PII in transit even though it terminates TLS. Design the architecture: field-level encryption, edge-to-origin re-encryption, or tokenization? Defend the choice against latency and key-management cost. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at PayU | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-requires-that-your-cdn-edge-cannot-read-customer-pii-in-tr-41234) |

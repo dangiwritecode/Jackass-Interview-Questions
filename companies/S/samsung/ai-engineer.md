@@ -2,6 +2,8 @@
 
 [← back to Samsung](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd set the org's strategy for on-device versus cloud multimodal inference for a consumer app weighing privacy latency cost and model-freshness across a device fleet. | expertise | SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | Asked at Samsung | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-set-the-org-s-strategy-for-on-device-versus-cloud-m-84674) |

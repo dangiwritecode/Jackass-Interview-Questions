@@ -2,6 +2,8 @@
 
 [← back to Tech Mahindra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you approach migrating a legacy scikit-learn GradientBoosting pipeline to XGBoost without regressing production metrics? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tech Mahindra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-approach-migrating-a-legacy-scikit-learn-gradientboostin-65959) |

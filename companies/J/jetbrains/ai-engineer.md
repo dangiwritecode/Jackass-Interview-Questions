@@ -2,6 +2,8 @@
 
 [← back to JetBrains](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the boundary where an internal copilot has access to code, secrets, and infra — what prevents a well-meaning prompt from causing a governed data exfiltration? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at JetBrains | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-boundary-where-an-internal-copilot-has-access-to-86054) |

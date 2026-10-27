@@ -2,6 +2,8 @@
 
 [← back to Tealium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your CDP unifies identities across sources; how do you make sure identity resolution itself doesn't create new personal data that lacks a lawful basis? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Tealium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-cdp-unifies-identities-across-sources-how-do-you-make-sure-identi-127375) |

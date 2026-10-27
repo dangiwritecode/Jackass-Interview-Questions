@@ -2,6 +2,8 @@
 
 [← back to Aspect/Bazel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate whether adopting a monorepo with Bazel for platform/infra code pays down your fragmented-Terraform-and-tooling debt, given the migration itself will consume a team for a year across every repo in the org? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Aspect/Bazel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-adopting-a-monorepo-with-bazel-for-platfor-54402) |

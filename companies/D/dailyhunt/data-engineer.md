@@ -2,6 +2,8 @@
 
 [← back to Dailyhunt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | If your task is to build a 'weekly signups' report, which system do you pull from and why? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Dailyhunt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-your-task-is-to-build-a-weekly-signups-report-which-system-do-you-p-118798) |

@@ -2,6 +2,8 @@
 
 [← back to Nobl9](README.md)
 
+Questions 1–79 of 79.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your MTTR dropped but customer-perceived downtime didn't. How do you reconcile the response strategy with SLOs and error budgets? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Incident Response Strategy | Onsite, Hiring Manager | Tech | Asked at Nobl9 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-mttr-dropped-but-customer-perceived-downtim-103572) |

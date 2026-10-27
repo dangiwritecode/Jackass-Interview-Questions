@@ -2,6 +2,8 @@
 
 [← back to EY](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the governance model that decides which teams may deploy autonomous agentic RAG agents that take real actions in your org. | expertise | SDE-2/3, Architect/Principal | Advanced RAG (GraphRAG/Agentic RAG) | Phone Screen, Onsite | Tech | Asked at EY | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-governance-model-that-decides-which-teams-may-deploy-autono-85531) |

@@ -2,6 +2,8 @@
 
 [← back to Saviynt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through designing a data-access-review (recertification) campaign that scales to 100k grants without turning into rubber-stamp approvals that provide no real assurance. | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Saviynt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-designing-a-data-access-review-recertification-campaig-126638) |

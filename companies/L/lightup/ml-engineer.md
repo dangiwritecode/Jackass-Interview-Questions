@@ -2,6 +2,8 @@
 
 [← back to Lightup](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your SFT dataset has 20% noisy or low-quality examples — how do you detect them and decide whether to filter or keep them? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Lightup | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-sft-dataset-has-20-noisy-or-low-quality-examples-how-do-you-detec-68094) |

@@ -2,6 +2,8 @@
 
 [← back to Credo AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a model-governance framework on AWS so every production GenAI feature has a registered owner documented data lineage an approval gate and a bias/safety report — making it a deploy gate that speeds shipping rather than a bureaucratic tax across 20 teams? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Credo AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-model-governance-framework-on-aws-so-every-prod-82693) |

@@ -2,6 +2,8 @@
 
 [← back to Verana](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you scope 'good enough' matching for a domain where over-merging is far costlier than under-merging (e.g., healthcare patient identity) — how does that asymmetry reshape thresholds and review policy? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Verana | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-scope-good-enough-matching-for-a-domain-where-over-merging--127804) |

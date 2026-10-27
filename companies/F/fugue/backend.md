@@ -2,6 +2,8 @@
 
 [← back to Fugue](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect cost guardrails as policy-as-code (OPA/SCP/Azure Policy) so that expensive resource types, untagged resources, and out-of-region deployments are blocked or flagged automatically? Where do you set hard-deny versus soft-warn? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Fugue | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-cost-guardrails-as-policy-as-code-opa-scp-azure-p-37051) |

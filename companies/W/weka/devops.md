@@ -2,6 +2,8 @@
 
 [← back to Weka](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team asks for a shared PVC mounted read-write across 8 replicas of a reporting service. How would you evaluate ReadWriteMany options versus redesigning to avoid shared writable state? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Weka | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-asks-for-a-shared-pvc-mounted-read-write-across-8-replicas-of-a-45926) |

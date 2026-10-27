@@ -2,6 +2,8 @@
 
 [← back to Automerge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect an offline-first collaborative mobile app where edits sync when connectivity returns — how do you draw the boundary between CRDT-merged fields last-writer-wins fields and server-authoritative fields and defend that split to a skeptical reviewer? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Automerge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-an-offline-first-collaborative-mobile-app-where-edits-sync-w-39422) |

@@ -2,6 +2,8 @@
 
 [← back to Splitit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Prod is showing 3% of users on a new checkout while 97% get the old one, but a specific user swears they see the new one on desktop and old one on mobile — how do you debug this inconsistency in flag evaluation? | expertise | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Splitit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=prod-is-showing-3-of-users-on-a-new-checkout-while-97-get-the-old-one--21614) |

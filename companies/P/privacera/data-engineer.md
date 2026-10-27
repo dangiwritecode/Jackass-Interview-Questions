@@ -2,6 +2,8 @@
 
 [← back to Privacera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator mandates you prove where every piece of customer PII lives and who accessed it across the entire data estate. Architect the PII-classification, access-lineage, and audit layer so this is a queryable platform guarantee rather than a quarterly manual spreadsheet exercise. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Privacera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-mandates-you-prove-where-every-piece-of-customer-pii-lives-125633) |

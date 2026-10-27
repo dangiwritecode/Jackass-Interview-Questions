@@ -2,6 +2,8 @@
 
 [← back to HUL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're consolidating 6 regional warehouses with divergent conformed dimensions after years of local autonomy. As principal, design the master-data-management and identity-resolution layer that reconciles them, and decide where you accept permanent regional variance versus force conformance. | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at HUL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-consolidating-6-regional-warehouses-with-divergent-conformed-di-112687) |

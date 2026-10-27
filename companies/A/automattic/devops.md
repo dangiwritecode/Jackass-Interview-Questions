@@ -2,6 +2,8 @@
 
 [← back to Automattic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you approach DevEx metrics for distributed teams across time zones where async workflows dominate? | deep understanding | SDE-2/3, Architect/Principal | Developer Experience (DevEx) Strategy | Onsite, Hiring Manager | Tech | Asked at Automattic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-approach-devex-metrics-for-distributed-teams-across-time-56410) |

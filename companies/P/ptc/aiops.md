@@ -2,6 +2,8 @@
 
 [← back to PTC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect for causal RCA on edge/IoT fleets where telemetry is intermittent and the topology is physically distributed? | expertise | SDE-2/3, Architect/Principal | Automated Root Cause Analysis (Causal Inference) | Onsite, Hiring Manager | Tech | Asked at PTC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-for-causal-rca-on-edge-iot-fleets-where-telemetry-101975) |

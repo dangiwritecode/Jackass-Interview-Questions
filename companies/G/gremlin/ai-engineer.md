@@ -2,6 +2,8 @@
 
 [← back to Gremlin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a platform-wide 'chaos budget' program where you deliberately inject ML-specific failures (skew, drift, poisoned batch, stale index) in production on a schedule to keep resilience honest. As a principal, how do you get org buy-in and cap the blast radius so it's safe? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Gremlin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-platform-wide-chaos-budget-program-where-you-deliberately-inj-84053) |

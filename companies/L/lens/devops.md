@@ -2,6 +2,8 @@
 
 [← back to Lens](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your Python script calls kubectl via subprocess to gather cluster state and it's brittle. When would you switch to the official kubernetes client library, and what do you give up and gain? | intermediate experience | SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Lens | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-python-script-calls-kubectl-via-subprocess-to-gather-cluster-stat-45124) |

@@ -2,6 +2,8 @@
 
 [← back to FullStory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design governance so that a DSAR must include everything your observability and AIOps stack knows about a user — trace records session replays inferred behavioral signals incident mentions — architect retrieval of a user's operational footprint across the telemetry plane within the 30-day window. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at FullStory | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-so-that-a-dsar-must-include-everything-your-observab-100275) |

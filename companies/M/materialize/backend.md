@@ -2,6 +2,8 @@
 
 [← back to Materialize](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a de-normalization/materialized-view maintainer that keeps a denormalized read table in sync with normalized writes; how do you handle the update lag and reconcile drift without a nightly full rebuild? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Materialize | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-de-normalization-materialized-view-maintainer-that-keeps-a-de-22371) |

@@ -2,6 +2,8 @@
 
 [← back to Krutrim](README.md)
 
+Questions 1–66 of 66.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks why bf16 became the default over fp16 for training your Transformer; explain the dynamic range issue and where it bites attention softmax and logits. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Krutrim | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-why-bf16-became-the-default-over-fp16-for-training-y-79396) |

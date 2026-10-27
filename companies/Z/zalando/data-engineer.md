@@ -2,6 +2,8 @@
 
 [← back to Zalando](README.md)
 
+Questions 1–149 of 149.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A data-mesh domain wants to publish a product to a self-serve marketplace. Design the access-request and grant-approval workflow that keeps producer autonomy but enforces central compliance guardrails. | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Zalando | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-data-mesh-domain-wants-to-publish-a-product-to-a-self-serve-marketpl-126629) |

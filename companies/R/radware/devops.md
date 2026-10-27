@@ -2,6 +2,8 @@
 
 [← back to Radware](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design your platform to absorb a volumetric or application-layer DDoS at scale so legitimate paying-customer traffic stays available, and how do you decide what to shed versus challenge versus absorb during an active attack? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Radware | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-your-platform-to-absorb-a-volumetric-or-applicati-52059) |

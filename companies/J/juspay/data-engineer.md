@@ -2,6 +2,8 @@
 
 [← back to Juspay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you explain 'why the finance team's reports and the app's checkout use different databases' to a non-technical friend? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Juspay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-why-the-finance-team-s-reports-and-the-app-s-che-118840) |

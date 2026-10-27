@@ -2,6 +2,8 @@
 
 [← back to Morgan Stanley](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a risk-tiering rubric for GenAI use cases spanning internal productivity to customer-facing financial advice. What dimensions drive the tier? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Morgan Stanley | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-risk-tiering-rubric-for-genai-use-cases-spanning-internal-pro-71813) |

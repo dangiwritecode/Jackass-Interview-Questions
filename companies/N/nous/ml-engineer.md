@@ -2,6 +2,8 @@
 
 [← back to Nous](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the strategic difference between synchronous large-batch training and asynchronous/local-SGD approaches when your GPUs are spread across geographically distant data centers. | expertise | SDE-2/3, Architect/Principal | Distributed Training (Data/Model Parallelism) | Phone Screen, Onsite | Tech | Asked at Nous | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-strategic-difference-between-synchronous-large-batch-train-70685) |

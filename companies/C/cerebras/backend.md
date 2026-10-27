@@ -2,6 +2,8 @@
 
 [← back to Cerebras](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the platform so onboarding a new hardware accelerator (a new GPU gen or a custom ASIC) is a contained migration rather than a rewrite of every serving path? What abstractions make hardware swappable? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cerebras | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-platform-so-onboarding-a-new-hardware-acceler-37999) |

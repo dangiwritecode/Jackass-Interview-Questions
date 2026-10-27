@@ -2,6 +2,8 @@
 
 [← back to Tabnine](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide the granularity of a subword vocabulary when your corpus mixes code snippets and natural language in the same documents? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tabnine | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-granularity-of-a-subword-vocabulary-when-your-79402) |

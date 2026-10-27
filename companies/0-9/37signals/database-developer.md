@@ -2,6 +2,8 @@
 
 [← back to 37signals](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan a migration off a managed cloud database (reverse migration / repatriation) if the vendor lock-in cost becomes untenable — what abstractions do you build up front to keep that option alive? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at 37signals | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-a-migration-off-a-managed-cloud-database-reverse-migra-115178) |

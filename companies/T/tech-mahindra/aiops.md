@@ -2,6 +2,8 @@
 
 [← back to Tech Mahindra](README.md)
 
+Questions 1–69 of 69.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a fresher, how would you go about learning ServiceNow ITOM hands-on, and what would you build first? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | Asked at Tech Mahindra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-fresher-how-would-you-go-about-learning-servicenow-itom-hands-on--91625) |

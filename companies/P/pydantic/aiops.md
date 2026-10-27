@@ -2,6 +2,8 @@
 
 [← back to Pydantic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What are some common ways cloud costs get out of control and how would you prevent them? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Commonly asked at Tier 3 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-some-common-ways-cloud-costs-get-out-of-control-and-how-would-6842) |

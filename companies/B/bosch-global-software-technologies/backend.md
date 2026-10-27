@@ -2,6 +2,8 @@
 
 [← back to Bosch Global Software Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A gateway upgrade changed the default TLS cipher suites and old IoT clients can no longer connect; how do you detect the affected client population and roll a compatibility policy without weakening security for modern clients? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Bosch Global Software Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-gateway-upgrade-changed-the-default-tls-cipher-suites-and-old-iot-cl-29193) |

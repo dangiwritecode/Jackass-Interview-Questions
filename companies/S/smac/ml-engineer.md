@@ -2,6 +2,8 @@
 
 [← back to SMAC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you avoid overfitting hyperparameters to a single validation split when tuning XGBoost with hundreds of trials? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at SMAC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-avoid-overfitting-hyperparameters-to-a-single-validation-sp-65927) |

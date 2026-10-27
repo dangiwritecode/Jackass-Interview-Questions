@@ -2,6 +2,8 @@
 
 [← back to HP](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a runlevel and how do systemd targets replace the older SysV runlevel concept? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at HP | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-runlevel-and-how-do-systemd-targets-replace-the-older-sysv-r-41621) |

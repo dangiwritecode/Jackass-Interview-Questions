@@ -2,6 +2,8 @@
 
 [← back to Faire](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks about the second-order effect of chargeback: once teams truly own their bill, some start optimizing for their local cost at the expense of a globally-cheaper shared service (e.g., duplicating a cache to avoid a chargeback). How do you design allocation that doesn't create these local-optimum pathologies? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Marketplace companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-about-the-second-order-effect-of-chargeback-once-tea-53871) |

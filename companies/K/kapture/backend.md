@@ -2,6 +2,8 @@
 
 [← back to Kapture](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer hands you an ambiguous prompt: 'design a system for our support team.' As a senior, how do you drive requirements-gathering, scope an MVP, state explicit assumptions, and sequence what to build first? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Kapture | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-hands-you-an-ambiguous-prompt-design-a-system-for-our-s-22331) |

@@ -2,6 +2,8 @@
 
 [← back to Qdrant](README.md)
 
+Questions 1–102 of 102.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance for embeddings and vector stores, given they can leak training data and PII through inversion attacks? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Qdrant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-embeddings-and-vector-stores-given-71758) |

@@ -2,6 +2,8 @@
 
 [← back to Akeyless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's standard for handling secrets that services read only at startup so a compromise can be rotated fleet-wide in minutes without a mass restart. Compare a sidecar/agent that refreshes in place, a reloader-triggered rolling restart, and app-level SDK refresh, and pick a fleet default with its trade-offs. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Akeyless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-standard-for-handling-secrets-that-services-read-only-39062) |

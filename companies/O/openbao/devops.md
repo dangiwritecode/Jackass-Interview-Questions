@@ -2,6 +2,8 @@
 
 [← back to OpenBao](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you frame the build-vs-buy call for a secrets-management + dynamic-credential system across a hybrid estate — HashiCorp Vault self-hosted vs HCP Vault vs cloud-native KMS/Secrets Manager — when the license change to BSL just landed? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at OpenBao | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-frame-the-build-vs-buy-call-for-a-secrets-management-dynami-53729) |

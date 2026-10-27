@@ -2,6 +2,8 @@
 
 [← back to Exabeam](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect DR for a platform serving both real-time operational monitoring (needs low RTO, tolerates data gaps) and forensic security investigation (tolerates higher RTO, needs zero data loss)? These pull RPO/RTO in opposite directions on one platform — how do you split them? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Exabeam | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-for-a-platform-serving-both-real-time-operatio-99988) |

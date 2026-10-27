@@ -2,6 +2,8 @@
 
 [← back to Tencent](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must serve a real-time leaderboard and historical analytics for a gaming platform with 50M concurrent players from the same event source. Architect the split between an in-memory/Redis serving tier, a real-time OLAP store, and the lakehouse, and where consistency between them is allowed to be loose. | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tencent | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-serve-a-real-time-leaderboard-and-historical-analytics-for-a--112670) |

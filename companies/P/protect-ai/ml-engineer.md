@@ -2,6 +2,8 @@
 
 [← back to Protect AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What controls do you put on a model's training data pipeline to detect and block data poisoning or label-flipping before it reaches the model? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Protect AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-controls-do-you-put-on-a-model-s-training-data-pipeline-to-detect-71726) |

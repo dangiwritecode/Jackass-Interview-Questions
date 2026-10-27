@@ -2,6 +2,8 @@
 
 [← back to Aviatrix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect who owns the shared VPC and its route tables that the AIOps collectors traverse, so networking becomes neither a central bottleneck on every onboarding nor an ungoverned free-for-all? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Aviatrix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-who-owns-the-shared-vpc-and-its-route-tables-that-98889) |

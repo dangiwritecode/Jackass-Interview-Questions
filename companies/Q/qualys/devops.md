@@ -2,6 +2,8 @@
 
 [← back to Qualys](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A pen-test found a debug endpoint exposing internal user IDs — how do you triage this against your PCI/SOC2 remediation SLAs and prevent similar endpoints reaching prod again? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Qualys | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pen-test-found-a-debug-endpoint-exposing-internal-user-ids-how-do-yo-47987) |

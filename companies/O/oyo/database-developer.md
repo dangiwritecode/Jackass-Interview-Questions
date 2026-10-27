@@ -2,6 +2,8 @@
 
 [← back to OYO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Given a Bookings table write a subquery-based query to find the customer who made the most bookings. | deep understanding | Fresher, SDE-1, SDE-1/2 | Joins & Subqueries | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at OYO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=given-a-bookings-table-write-a-subquery-based-query-to-find-the-custom-105722) |

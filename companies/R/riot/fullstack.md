@@ -2,6 +2,8 @@
 
 [← back to Riot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A leaderboard must return a specific user's rank and a page around them for millions of users in low latency; design the schema, index, and query and discuss recompute vs live rank. | expertise | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Riot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-leaderboard-must-return-a-specific-user-s-rank-and-a-page-around-the-18136) |

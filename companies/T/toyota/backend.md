@@ -2,6 +2,8 @@
 
 [← back to Toyota](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do the 'seven wastes' of Lean map onto real software problems (partial work, handoffs, task switching), and which one is quietly killing your current team's flow? | deep understanding | SDE-1/2, SDE-2/3 | Agile/Scrum | Phone Screen, Hiring Manager | Tech | Asked at Toyota | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-the-seven-wastes-of-lean-map-onto-real-software-problems-partia-20090) |

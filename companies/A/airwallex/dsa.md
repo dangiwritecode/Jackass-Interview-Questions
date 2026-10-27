@@ -2,6 +2,8 @@
 
 [← back to Airwallex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Distance to the Next Greater Value | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Monotonic Stack, Next Greater Element, Stack | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Airwallex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=distance-to-the-next-greater-value-d724) |

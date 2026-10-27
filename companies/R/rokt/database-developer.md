@@ -2,6 +2,8 @@
 
 [← back to Rokt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the ingestion and storage architecture for an adtech firm processing 10M bid requests/second where 99% of data is discarded within seconds but the 1% kept must be joinable to conversions weeks later. Where does the streaming-hot path diverge from the lake-cold path, and how do you stitch them? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at AdTech companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-ingestion-and-storage-architecture-for-an-adtech-firm-proce-112698) |

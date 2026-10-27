@@ -2,6 +2,8 @@
 
 [← back to Spectro Cloud](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You run 12 Kubernetes clusters across 3 cloud accounts — do you buy a managed fleet-control plane (Rafay/Spectro/Anthos) or build on Cluster API + GitOps? Walk the decision across day-2 ops burden and multi-cluster lock-in. | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Spectro Cloud | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-run-12-kubernetes-clusters-across-3-cloud-accounts-do-you-buy-a-ma-53723) |

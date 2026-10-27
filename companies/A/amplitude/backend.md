@@ -2,6 +2,8 @@
 
 [← back to Amplitude](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A backend experiment shows the treatment is faster but conversions dropped — you suspect a Simpson's-paradox segment effect; how would you slice the data and what does it mean if the aggregate and per-segment results disagree? | expertise | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Amplitude | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-backend-experiment-shows-the-treatment-is-faster-but-conversions-dro-30468) |

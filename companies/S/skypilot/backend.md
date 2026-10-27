@@ -2,6 +2,8 @@
 
 [← back to SkyPilot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your GPU cluster has spot instances that get reclaimed mid-request. How do you design serving to survive preemption gracefully? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at SkyPilot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-gpu-cluster-has-spot-instances-that-get-reclaimed-mid-request-how-30897) |

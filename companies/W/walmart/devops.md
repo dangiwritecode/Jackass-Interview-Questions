@@ -2,6 +2,8 @@
 
 [← back to Walmart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A board member wants an exit strategy from a proposed multi-year AWS EDP — how do you quantify realistic switching cost per major service category and design the architecture so the abstraction cost of portability stays proportional to the lock-in risk you actually carry? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Walmart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-board-member-wants-an-exit-strategy-from-a-proposed-multi-year-aws-e-52332) |

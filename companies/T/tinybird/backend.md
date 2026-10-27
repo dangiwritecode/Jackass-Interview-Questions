@@ -2,6 +2,8 @@
 
 [← back to Tinybird](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a real-time cost telemetry pipeline that lets teams see near-live spend instead of waiting for the next-day billing export? What accuracy-versus-latency trade-offs do you make and why is 'good enough now' better than 'perfect tomorrow'? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Tinybird | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-real-time-cost-telemetry-pipeline-that-lets--37041) |

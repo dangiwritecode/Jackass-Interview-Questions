@@ -2,6 +2,8 @@
 
 [← back to BookMyShow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect anomaly baselining for costs that are inherently seasonal/bursty (retail, ticketing) so AIOps doesn't cry wolf every predictable peak? | deep understanding | SDE-2/3, Architect/Principal | CloudOps + FinOps + AIOps Integration | Onsite, Hiring Manager | Tech | Asked at BookMyShow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-anomaly-baselining-for-costs-that-are-inherently--103426) |

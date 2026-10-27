@@ -2,6 +2,8 @@
 
 [← back to Wise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A board-level audit finding says policy exceptions have grown 300% year over year — how do you diagnose whether that's healthy adaptation or governance decay, and what corrective architecture do you propose? | deep understanding | SDE-2/3, Architect/Principal | Policy as Code (OPA/Gatekeeper) | Phone Screen, Onsite | Tech | Asked at Wise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-board-level-audit-finding-says-policy-exceptions-have-grown-300-year-55352) |

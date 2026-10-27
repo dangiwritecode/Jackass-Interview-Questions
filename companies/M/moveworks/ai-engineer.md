@@ -2,6 +2,8 @@
 
 [← back to Moveworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An exec wants to buy an 'AIOps for GenAI' platform promising auto-remediation (auto-rollback prompts, auto-swap models). As principal advisor, structure a proof-of-value, define the guardrails that keep auto-remediation from shipping a worse or less-safe model, and identify what makes such tools shelfware. | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Moveworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-exec-wants-to-buy-an-aiops-for-genai-platform-promising-auto-remedi-83267) |

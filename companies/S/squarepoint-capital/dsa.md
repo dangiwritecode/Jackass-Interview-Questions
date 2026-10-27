@@ -2,6 +2,8 @@
 
 [← back to Squarepoint Capital](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Length of the Longest Strictly Increasing Subsequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Dynamic Programming, Greedy, Patience Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Squarepoint Capital | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=length-of-the-longest-strictly-increasing-subsequence-d300) |

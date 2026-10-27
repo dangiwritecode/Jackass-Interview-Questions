@@ -2,6 +2,8 @@
 
 [← back to Sabre](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stored procedure runs fast for some parameter values and slow for others. Explain parameter sniffing and the options you have to mitigate it. | deep understanding | SDE-1, SDE-1/2 | SQL Server | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Sabre | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stored-procedure-runs-fast-for-some-parameter-values-and-slow-for-ot-109644) |

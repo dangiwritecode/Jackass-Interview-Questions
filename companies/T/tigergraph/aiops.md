@@ -2,6 +2,8 @@
 
 [← back to TigerGraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An architecture review asks whether topology should live in a graph DB, a columnar store, or a purpose-built engine. Lay out the decision framework and where each breaks at your scale. | deep understanding | SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | Asked at TigerGraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-architecture-review-asks-whether-topology-should-live-in-a-graph-db-102047) |

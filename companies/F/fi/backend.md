@@ -2,6 +2,8 @@
 
 [← back to Fi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a system to show a user's spending summary grouped by category. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Fi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-to-show-a-user-s-spending-summary-grouped-by-category-8933) |

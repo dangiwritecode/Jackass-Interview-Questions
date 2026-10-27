@@ -2,6 +2,8 @@
 
 [← back to Nestle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a multi-domain MDM program covering customer, product, supplier, and location — how do you sequence domains, and why is customer usually not the one you should start with? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Nestle | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-multi-domain-mdm-program-covering-customer-product-supplier-a-127724) |

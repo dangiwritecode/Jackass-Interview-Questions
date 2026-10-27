@@ -2,6 +2,8 @@
 
 [← back to Datto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does the CAP posture of a database change your backup/PITR strategy — specifically why an AP store's 'point in time' is ambiguous across divergent replicas, and how you define a recoverable, consistent snapshot despite that ambiguity? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Datto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-the-cap-posture-of-a-database-change-your-backup-pitr-strateg-111597) |

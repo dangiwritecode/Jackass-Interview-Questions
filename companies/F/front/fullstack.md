@@ -2,6 +2,8 @@
 
 [← back to Front](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants to render user-authored email HTML in an in-app inbox (like a webmail client). Explain the extreme sanitization requirements (CSS containment, remote-content blocking, iframe sandboxing) and design the render architecture, contrasting it with normal comment rendering. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Front | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-to-render-user-authored-email-html-in-an-in-app-inbox-lik-38986) |

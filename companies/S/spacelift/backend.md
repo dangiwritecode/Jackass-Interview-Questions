@@ -2,6 +2,8 @@
 
 [← back to Spacelift](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A backend team wants ephemeral per-branch infra that auto-destroys when the branch merges or goes stale for 7 days. How do you build the naming, state isolation, and TTL-based garbage collection so orphaned environments don't accumulate cost silently? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Spacelift | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-backend-team-wants-ephemeral-per-branch-infra-that-auto-destroys-whe-30217) |

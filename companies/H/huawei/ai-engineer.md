@@ -2,6 +2,8 @@
 
 [← back to Huawei](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a capacity plan resilient to a sudden export-control or geopolitical shock that cuts off a GPU supply line? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | Asked at Huawei | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-capacity-plan-resilient-to-a-sudden-export-cont-86721) |

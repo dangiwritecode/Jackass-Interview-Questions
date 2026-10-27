@@ -2,6 +2,8 @@
 
 [← back to VWO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe the trade-offs between a frequentist and a Bayesian approach to analyzing model experiments. | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at VWO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-trade-offs-between-a-frequentist-and-a-bayesian-approach--67700) |

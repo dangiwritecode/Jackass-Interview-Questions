@@ -2,6 +2,8 @@
 
 [← back to Rippling](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect PII handling differently for internal-employee-data models (HR, productivity) vs customer-data models given works-council and labor laws? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Rippling | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-pii-handling-differently-for-internal-employee-da-72639) |

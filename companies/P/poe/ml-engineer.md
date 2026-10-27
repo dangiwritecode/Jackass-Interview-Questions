@@ -2,6 +2,8 @@
 
 [← back to Poe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the case where a downstream model API you proxy through FastAPI has strict rate limits, so you queue, retry, and backpressure without dropping user requests? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Poe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-case-where-a-downstream-model-api-you-proxy-thro-62929) |

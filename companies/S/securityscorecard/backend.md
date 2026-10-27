@@ -2,6 +2,8 @@
 
 [← back to SecurityScorecard](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the third-party/vendor-risk architecture — as data flows to 100+ subprocessors how do you enforce and continuously verify their compliance posture (data-processing agreements egress controls attestation) and revoke a vendor cleanly when they fail? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at SecurityScorecard | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-third-party-vendor-risk-architecture-as-data-flows-to-100-s-37240) |

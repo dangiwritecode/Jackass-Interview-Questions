@@ -2,6 +2,8 @@
 
 [← back to OSV](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a strategy for keeping vulnerability intelligence (NVD, GHSA, OSV, vendor feeds) fresh and reconciled so org-wide SBOM scans don't disagree with each other or miss zero-days. | deep understanding | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at OSV | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-strategy-for-keeping-vulnerability-intelligence-nvd-ghsa-o-55468) |

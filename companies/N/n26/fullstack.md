@@ -2,6 +2,8 @@
 
 [← back to N26](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A new regulation requires you to attest that no telemetry from EU users is processed outside the EU. Architect a region-pinned observability pipeline, and explain how global querying and cross-region incident correlation still work under that constraint. | expertise | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at N26 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-new-regulation-requires-you-to-attest-that-no-telemetry-from-eu-user-39722) |

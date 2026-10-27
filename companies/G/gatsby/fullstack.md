@@ -2,6 +2,8 @@
 
 [← back to Gatsby](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org has server-side rendering debt where hydration mismatches cause intermittent production bugs that no one can reliably reproduce. How do you make this invisible debt visible and prioritize it against feature work? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Gatsby | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-has-server-side-rendering-debt-where-hydration-mismatches-cau-41432) |

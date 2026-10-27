@@ -2,6 +2,8 @@
 
 [← back to Loom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a bulletproof file-drag-and-upload UI with progress, cancel, retry, and previews for 100 files at once. How do you keep the main thread responsive and cap concurrent uploads? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Loom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-bulletproof-file-drag-and-upload-ui-with-progress-cancel-retr-16374) |

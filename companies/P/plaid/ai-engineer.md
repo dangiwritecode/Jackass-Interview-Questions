@@ -2,6 +2,8 @@
 
 [← back to Plaid](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect eval so that a regulatory auditor can independently reproduce the exact metric that justified a high-stakes model decision? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Plaid | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-eval-so-that-a-regulatory-auditor-can-independent-86833) |

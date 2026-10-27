@@ -2,6 +2,8 @@
 
 [← back to Optimizely](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd model the true cost of a 'free' internal platform capability (e.g. a shared feature-flag or config service) that every team calls millions of times a day. When does a convenience abstraction quietly become a top-5 cost line, and how do you catch it? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Optimizely | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-the-true-cost-of-a-free-internal-platform-capa-52949) |

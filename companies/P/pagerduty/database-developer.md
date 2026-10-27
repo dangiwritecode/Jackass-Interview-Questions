@@ -2,6 +2,8 @@
 
 [← back to PagerDuty](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would test read/write splitting under chaos: injected lag, replica loss, network partitions. What invariants must hold? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at PagerDuty | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-test-read-write-splitting-under-chaos-injected-l-115460) |

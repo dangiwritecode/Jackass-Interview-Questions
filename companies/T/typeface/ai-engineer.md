@@ -2,6 +2,8 @@
 
 [← back to Typeface](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you explain to your team why greedy decoding can loop or degrade on long generations while low-temperature sampling doesn't, and when you'd still choose greedy? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Typeface | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-to-your-team-why-greedy-decoding-can-loop-or-deg-77921) |

@@ -2,6 +2,8 @@
 
 [← back to Cilium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you use a NetworkPolicy so your model-serving Pods can only be reached by the API gateway and can only egress to the vector DB and an allowlisted external model API, blocking everything else? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Cilium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-a-networkpolicy-so-your-model-serving-pods-can-only--77565) |

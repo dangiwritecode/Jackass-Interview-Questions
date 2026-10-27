@@ -2,6 +2,8 @@
 
 [← back to Vantage](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design an index cost-attribution model so each team's covering indexes show up on their cloud bill and self-correct sprawl without central policing. | expertise | SDE-2/3, Architect/Principal | Advanced Indexing (Covering/Composite/Bitmap) | Phone Screen, Onsite | Tech | Asked at Vantage | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-an-index-cost-attribution-model-so-each-team-113987) |

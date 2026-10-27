@@ -2,6 +2,8 @@
 
 [← back to Scale AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A model returns a confidence score alongside its answer. Why are these self-reported scores often poorly calibrated, and how would you calibrate or replace them for a gating decision? | expertise | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Scale AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-returns-a-confidence-score-alongside-its-answer-why-are-these--20269) |

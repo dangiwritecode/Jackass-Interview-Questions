@@ -2,6 +2,8 @@
 
 [← back to Arista Networks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal peer argues that with modern SDN and redundant fabrics, real partitions are so rare that defaulting everything to CP costs unnecessary availability. Steelman the 'partitions are rare, optimize for the common case' view, then give your reconciled position. | deep understanding | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Arista Networks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-argues-that-with-modern-sdn-and-redundant-fabrics-rea-111566) |

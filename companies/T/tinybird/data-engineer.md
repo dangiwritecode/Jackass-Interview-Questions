@@ -2,6 +2,8 @@
 
 [← back to Tinybird](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a hot/cold split for a real-time streaming platform where recent windows must stay in low-latency storage but historical windows can archive? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Tinybird | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-hot-cold-split-for-a-real-time-streaming-pla-126731) |

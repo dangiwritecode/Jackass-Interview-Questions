@@ -2,6 +2,8 @@
 
 [← back to Glean](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A RAG pipeline's latency is dominated by embedding + retrieval, not generation. How do you profile the stage split, and how do you decide between caching embeddings, pre-computing, or a smaller retriever at portfolio scale? | deep understanding | SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at Glean | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-rag-pipeline-s-latency-is-dominated-by-embedding-retrieval-not-gener-39847) |

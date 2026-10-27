@@ -2,6 +2,8 @@
 
 [← back to Yubico](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A pentest showed a magic-link auth flow could be replayed and phished. Redesign passwordless authentication for zero trust: device binding, one-time semantics, and origin proof. Where does WebAuthn/passkey close the loop and where does it not? | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Yubico | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pentest-showed-a-magic-link-auth-flow-could-be-replayed-and-phished--41241) |

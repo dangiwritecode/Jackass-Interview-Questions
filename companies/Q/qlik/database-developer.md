@@ -2,6 +2,8 @@
 
 [← back to Qlik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A business intelligence dashboard showing revenue by region — is it backed by OLTP or OLAP? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Qlik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-business-intelligence-dashboard-showing-revenue-by-region-is-it-back-104974) |

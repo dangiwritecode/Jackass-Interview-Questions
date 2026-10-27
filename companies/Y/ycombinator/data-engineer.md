@@ -2,6 +2,8 @@
 
 [← back to YCombinator](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When a fast-growing startup asks whether to go multi-cloud from day one, what's your honest counsel and at what scale/inflection does the calculus flip? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at YCombinator | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-a-fast-growing-startup-asks-whether-to-go-multi-cloud-from-day-on-127276) |

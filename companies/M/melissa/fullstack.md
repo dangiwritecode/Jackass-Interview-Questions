@@ -2,6 +2,8 @@
 
 [← back to Melissa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a large-scale batch geo/address normalization + enrichment service where a vendor's data quality is superb but per-record pricing over billions of records is prohibitive — is a hybrid tiered approach the answer? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Melissa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-large-scale-batch-geo-address-nor-41109) |

@@ -2,6 +2,8 @@
 
 [← back to Onfido](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would validate that your platform's noisy-dependency degradation (a slow 3rd-party like a KYC/fraud API) does not silently degrade unrelated user journeys. | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | Asked at Onfido | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-validate-that-your-platform-s-noisy-dependency-d-55210) |

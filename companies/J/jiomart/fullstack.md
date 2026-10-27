@@ -2,6 +2,8 @@
 
 [← back to JioMart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the frontend architecture for a live-commerce/streaming shopping app — how do you interleave low-latency video, real-time inventory, chat, and one-tap checkout without contention? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at JioMart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-frontend-architecture-for-a-live-commerce-streaming-shoppin-40094) |

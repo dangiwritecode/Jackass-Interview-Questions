@@ -2,6 +2,8 @@
 
 [← back to ShareChat](README.md)
 
+Questions 1–138 of 138.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your infinite-scroll feed uses OFFSET and users on page 500 see slow loads. Walk through migrating to keyset pagination while the frontend still needs a 'jump to page' affordance. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at ShareChat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-infinite-scroll-feed-uses-offset-and-users-on-page-500-see-slow-l-25772) |

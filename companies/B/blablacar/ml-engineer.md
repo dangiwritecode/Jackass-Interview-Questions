@@ -2,6 +2,8 @@
 
 [← back to BlaBlaCar](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a system that predicts the estimated time of arrival for a ride-hailing trip? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at BlaBlaCar | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-system-that-predicts-the-estimated-time-of-arri-62123) |

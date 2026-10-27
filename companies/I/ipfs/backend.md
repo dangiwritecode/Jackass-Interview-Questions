@@ -2,6 +2,8 @@
 
 [← back to IPFS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to reconcile two large sorted change logs from independent replicas to find divergences with minimal data transfer; how does a Merkle-tree range comparison reduce bytes over shipping full logs? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at IPFS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-reconcile-two-large-sorted-change-logs-from-independent-re-21980) |

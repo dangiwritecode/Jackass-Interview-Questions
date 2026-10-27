@@ -2,6 +2,8 @@
 
 [← back to Upstash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you implement a distributed rate limiter shared across many app instances on AWS that survives an ElastiCache node failure — what data structure and fallback behavior keep it accurate without failing open dangerously? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Upstash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-implement-a-distributed-rate-limiter-shared-across-many-app-46209) |

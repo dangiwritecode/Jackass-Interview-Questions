@@ -2,6 +2,8 @@
 
 [← back to Broadcom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're consolidating five acquired companies' data platforms. Design the identity-federation and access-harmonization plan so a single SSO grants correct least-privilege access across all five without a big-bang cutover. | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Broadcom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-consolidating-five-acquired-companies-data-platforms-design-the-126635) |

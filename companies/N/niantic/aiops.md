@@ -2,6 +2,8 @@
 
 [← back to Niantic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: if your AIOps platform auto-remediates 80% of incidents, how does that change what your customer-facing SLA can honestly promise, and does hidden auto-healing let you commit to nines your raw architecture can't deliver? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Gaming companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-if-your-aiops-platform-auto-remediates-80-of-inciden-100332) |

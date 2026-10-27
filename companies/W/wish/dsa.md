@@ -2,6 +2,8 @@
 
 [← back to Wish](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Busiest Workers in a Round-Robin Task Pool | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Indexed Tree, Greedy, Heap (Priority Queue), Ordered Set, Simulation | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Wish | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=busiest-workers-in-a-round-robin-task-pool-d1533) |

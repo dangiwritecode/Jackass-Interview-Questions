@@ -2,6 +2,8 @@
 
 [← back to Imperva](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain your approach to bounding the damage of a SQL-injection class of vulnerability at the platform level, so no single app bug can dump an entire sensitive table. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Imperva | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-approach-to-bounding-the-damage-of-a-sql-injection-class--114110) |

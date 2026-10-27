@@ -2,6 +2,8 @@
 
 [← back to MapmyIndia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | On mobile web you render thousands of map markers and memory spikes. Explain how you'd apply Flyweight to shared marker styles and where the extrinsic state lives per marker. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at MapmyIndia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=on-mobile-web-you-render-thousands-of-map-markers-and-memory-spikes-ex-16529) |

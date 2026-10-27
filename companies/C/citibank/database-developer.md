@@ -2,6 +2,8 @@
 
 [← back to Citibank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is your multi-year strategy for migrating a legacy Inmon 3NF enterprise warehouse to a dimensional presentation layer without a big-bang cutover? | expertise | SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | Asked at Citibank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-multi-year-strategy-for-migrating-a-legacy-inmon-3nf-ente-113247) |

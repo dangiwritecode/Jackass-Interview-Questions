@@ -2,6 +2,8 @@
 
 [← back to Chronosphere](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What metrics and dashboards do you consider non-negotiable to prove that read offloading is actually reducing primary load and not just moving contention around? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at Chronosphere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-metrics-and-dashboards-do-you-consider-non-negotiable-to-prove-th-115453) |

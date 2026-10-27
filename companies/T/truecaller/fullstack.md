@@ -2,6 +2,8 @@
 
 [← back to Truecaller](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a consent-and-privacy platform that gates every data access across the company by user consent state — how do you make the consent check fast propagate a withdrawal within seconds and prove to auditors no code path bypassed it? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Truecaller | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-consent-and-privacy-platform-that-gates-every-data-access--39436) |

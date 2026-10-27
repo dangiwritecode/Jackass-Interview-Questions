@@ -2,6 +2,8 @@
 
 [← back to Boston Dynamics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a warehouse robot controller so pathfinding, obstacle avoidance, and battery management are separable concerns you can test in isolation, and how do you avoid a single god 'Robot' class? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Boston Dynamics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-warehouse-robot-controller-so-pathfinding-obsta-16488) |

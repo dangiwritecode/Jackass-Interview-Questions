@@ -2,6 +2,8 @@
 
 [← back to Vantage](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal probe on tooling strategy: your AIOps vendor bundles a 'cost intelligence' module, but its allocation numbers disagree with your FinOps SaaS and with the raw cloud bill. As the architect, how do you decide which system is the source of truth for cost, and how do you keep three tools from producing three narratives to leadership? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Vantage | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-probe-on-tooling-strategy-your-aiops-vendor-bundles-a-cost-100146) |

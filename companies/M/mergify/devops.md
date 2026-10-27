@@ -2,6 +2,8 @@
 
 [← back to Mergify](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probe: your merge queue keeps main green, but two PRs each pass tests yet together violate an invariant no test asserts (semantic conflict). What class of correctness is fundamentally outside a merge queue's reach, and how would you defend against it at org scale? | expertise | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at Mergify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probe-your-merge-queue-keeps-main-green-but-two-prs-each--52267) |

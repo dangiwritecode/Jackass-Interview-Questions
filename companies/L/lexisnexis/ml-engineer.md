@@ -2,6 +2,8 @@
 
 [← back to LexisNexis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You enabled Anthropic structured output and citations on the same document-extraction request and got a 400. You need machine-parseable results and source attribution. How do you architect around the incompatibility? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at LexisNexis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-enabled-anthropic-structured-output-and-citations-on-the-same-docu-64124) |

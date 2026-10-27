@@ -2,6 +2,8 @@
 
 [← back to Verisign](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why is DNS TTL a critical and often-overlooked BCP parameter, and how do you balance fast failover against caching and resolver noncompliance? | deep understanding | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | Asked at Verisign | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-dns-ttl-a-critical-and-often-overlooked-bcp-parameter-and-how-d-56947) |

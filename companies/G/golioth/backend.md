@@ -2,6 +2,8 @@
 
 [← back to Golioth](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must authenticate requests from an IoT/device fleet with no user interaction and intermittent connectivity. Compare pre-provisioned device certs vs a device-registration token exchange, and how you revoke a stolen device. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Golioth | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-authenticate-requests-from-an-iot-device-fleet-with-no-user-i-26178) |

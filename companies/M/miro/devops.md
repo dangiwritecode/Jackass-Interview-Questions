@@ -2,6 +2,8 @@
 
 [← back to Miro](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan capacity for a real-time collaborative product (docs, whiteboards) where cost scales with concurrent active sessions and fan-out of edits, not with total users? How do you model concurrency-driven cost and where does it break down? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Miro | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-for-a-real-time-collaborative-product-docs-wh-53020) |

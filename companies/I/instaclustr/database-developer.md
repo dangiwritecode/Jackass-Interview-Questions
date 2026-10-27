@@ -2,6 +2,8 @@
 
 [← back to Instaclustr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the read-consistency guarantees of PostgreSQL synchronous replication with quorum_commit vs. Patroni-orchestrated failover via etcd. Where can a promoted standby lose an acked write, and how do you configure to eliminate that at a modeling level? | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Instaclustr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-read-consistency-guarantees-of-postgresql-synchronous-repl-112162) |

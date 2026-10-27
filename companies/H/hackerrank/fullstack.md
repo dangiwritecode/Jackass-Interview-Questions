@@ -2,6 +2,8 @@
 
 [← back to HackerRank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need a Python service to safely run untrusted user code (like a code-judge). What isolation layers (subprocess, resource limits, containers, seccomp) would you combine and why? | expertise | SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at HackerRank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-a-python-service-to-safely-run-untrusted-user-code-like-a-cod-16800) |

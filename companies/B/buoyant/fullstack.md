@@ -2,6 +2,8 @@
 
 [← back to Buoyant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the delivery of a service mesh's own control-plane changes so that a bad mesh config (which affects routing for everyone) is canaried and blast-radius-bounded like any other deploy? | expertise | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at Buoyant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-delivery-of-a-service-mesh-s-own-control-plan-39200) |

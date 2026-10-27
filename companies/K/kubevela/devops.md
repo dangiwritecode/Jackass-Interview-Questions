@@ -2,6 +2,8 @@
 
 [← back to KubeVela](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set the org's line between what belongs in a higher-level app-definition abstraction (Score/OAM) and what teams still express as raw Kubernetes, given that every abstraction leaks the moment a team needs a knob you didn't expose? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at KubeVela | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-the-org-s-line-between-what-belongs-in-a-higher-leve-52151) |

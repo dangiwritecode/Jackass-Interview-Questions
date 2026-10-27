@@ -2,6 +2,8 @@
 
 [← back to Coda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why can't you just cache everything up to the user turn — what breaks when tool definitions or retrieved chunks change position? | deep understanding | SDE-2/3, Architect/Principal | Prompt Caching Strategy | Phone Screen, Onsite | Tech | Asked at Coda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-can-t-you-just-cache-everything-up-to-the-user-turn-what-breaks-wh-86533) |

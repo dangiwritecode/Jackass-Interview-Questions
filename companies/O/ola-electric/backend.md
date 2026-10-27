@@ -2,6 +2,8 @@
 
 [← back to Ola Electric](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an IoT/telemetry ingestion platform for tens of millions of devices phoning home, where a firmware bug can cause synchronized thundering-herd reconnects, and where write scaling and cost dominate over read latency? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Ola Electric | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-iot-telemetry-ingestion-platform-for-tens-of-m-32165) |

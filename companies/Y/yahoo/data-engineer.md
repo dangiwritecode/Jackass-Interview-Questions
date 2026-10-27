@@ -2,6 +2,8 @@
 
 [← back to Yahoo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you migrate an existing HDFS-based cold tier to cloud object storage tiers without a big-bang cutover, keeping jobs running throughout? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Yahoo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-migrate-an-existing-hdfs-based-cold-tier-to-cloud-object-st-126799) |

@@ -2,6 +2,8 @@
 
 [← back to Aviatrix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect multi-account, multi-region networking (VPC peering, PrivateLink, Transit Gateway) so cross-region Aurora replication and app access stay private and performant? | deep understanding | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Aviatrix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-multi-account-multi-region-networking-vpc-peering-115208) |

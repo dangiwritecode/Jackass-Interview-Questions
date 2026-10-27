@@ -2,6 +2,8 @@
 
 [← back to Tailscale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how path MTU discovery works and why a Linux service behind a tunnel/VPN can hang on large responses when ICMP is blocked. How would you confirm an MTU black hole and mitigate with MSS clamping? | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tailscale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-path-mtu-discovery-works-and-why-a-linux-service-behind-a--26686) |

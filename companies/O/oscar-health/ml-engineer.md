@@ -2,6 +2,8 @@
 
 [← back to Oscar Health](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you prevent PII in feature payloads from leaking into your FastAPI prediction logs while still capturing enough signal to debug and monitor the model? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Oscar Health | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-prevent-pii-in-feature-payloads-from-leaking-into-your-fast-62935) |

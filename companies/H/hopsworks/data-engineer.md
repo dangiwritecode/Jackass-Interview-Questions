@@ -2,6 +2,8 @@
 
 [← back to Hopsworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: 'your feature computed in the batch training pipeline uses a window that isn't available at serving time — how did point-in-time correctness leak?' Walk through time-travel/as-of-join correctness at the platform level and how you make it impossible for a team to build a leaky feature. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Hopsworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-your-feature-computed-in-the-batch-training-pipeline-125643) |

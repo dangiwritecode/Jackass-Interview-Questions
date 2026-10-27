@@ -2,6 +2,8 @@
 
 [← back to Sonatype](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is your approach to third-party risk assessment of open-source model dependencies (supply-chain risk of weights, tokenizers, libraries)? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Sonatype | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-approach-to-third-party-risk-assessment-of-open-source-mo-71845) |

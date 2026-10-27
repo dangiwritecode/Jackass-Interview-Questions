@@ -2,6 +2,8 @@
 
 [← back to Nixtla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd combine a statistical model and an ML model in an ensemble and decide the blending weights over time. | expertise | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | Asked at Nixtla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-combine-a-statistical-model-and-an-ml-model-in-an-e-66423) |

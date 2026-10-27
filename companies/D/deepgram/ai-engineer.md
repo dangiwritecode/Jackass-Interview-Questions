@@ -2,6 +2,8 @@
 
 [← back to Deepgram](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a strategy for co-serving a speech/audio model and an LLM in one voice-agent pipeline where end-to-end latency budget is 300ms; how do you allocate the budget across stages? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at Deepgram | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-strategy-for-co-serving-a-speech-audio-model-and-an-llm-in-85152) |

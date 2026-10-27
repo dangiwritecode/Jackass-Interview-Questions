@@ -2,6 +2,8 @@
 
 [← back to Ola](README.md)
 
+Questions 1–99 of 99.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between BFS and DFS traversal of a graph. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Ola | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-bfs-and-dfs-traversal-of-a-graph-13) |

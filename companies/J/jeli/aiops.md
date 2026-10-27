@@ -2,6 +2,8 @@
 
 [← back to Jeli](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the evidence trail so a post-incident review of a cross-cloud outage can reconstruct exactly what the AIOps automation did and why, for both learning and audit? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at Jeli | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-evidence-trail-so-a-post-incident-review-of-a-cr-100855) |

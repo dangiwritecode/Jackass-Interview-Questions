@@ -2,6 +2,8 @@
 
 [← back to Voltron-Data](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're told the org will adopt Apache Arrow and Flight as the interchange standard across every data component. As principal, what does zero-copy columnar interchange actually buy you across engines, where does it not help, and what's the migration risk of betting the estate on it? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Voltron-Data | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-told-the-org-will-adopt-apache-arrow-and-flight-as-the-intercha-112692) |

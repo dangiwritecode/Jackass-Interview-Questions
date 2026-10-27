@@ -2,6 +2,8 @@
 
 [← back to GSN Games](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would investigate a report that 'the server rejects new SSH/API connections but existing ones work'. Which limits (fd, thread, backlog, accept queue overflow) map to this symptom? | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Gaming companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-investigate-a-report-that-the-server-rejects-new-19387) |

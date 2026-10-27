@@ -2,6 +2,8 @@
 
 [← back to Cloudera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your migration to the cloud: "you lifted-and-shifted 200 apps and now the bill is 2x on-prem with no agility gain — where did the architecture go wrong and how do you course-correct without another 2-year program?" | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Cloudera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-migration-to-the-cloud-you-lifted-and-shift-40778) |

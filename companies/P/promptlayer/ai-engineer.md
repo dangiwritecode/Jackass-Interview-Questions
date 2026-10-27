@@ -2,6 +2,8 @@
 
 [← back to PromptLayer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff exists between immutable versioned prompt+model bundles (rebuild-not-patch, full reproducibility) and hot-editing prompts in place (speed, lower ceremony). How do you scenario-test this against rollback safety, eval-reproducibility, and audit requirements at serving scale? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at PromptLayer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-exists-between-immutable-versioned-prompt-model-bundles-reb-83585) |

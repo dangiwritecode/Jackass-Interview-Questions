@@ -2,6 +2,8 @@
 
 [← back to Bloomberg](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A design proposes dual-writing every transaction to two clouds for zero-RPO — poke holes in it: what's the write-latency, cost and correctness cost, and when is it actually justified? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Bloomberg | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-design-proposes-dual-writing-every-transaction-to-two-clouds-for-zer-127274) |

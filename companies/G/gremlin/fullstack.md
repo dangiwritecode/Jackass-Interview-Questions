@@ -2,6 +2,8 @@
 
 [← back to Gremlin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the enterprise approach to load and chaos testing as a shared capability so teams validate resilience before incidents, not after. How do you run game-days across service boundaries and stop one team's chaos experiment from causing a real cross-team outage? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Gremlin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-approach-to-load-and-chaos-testing-as-a-shared-c-40773) |

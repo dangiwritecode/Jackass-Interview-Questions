@@ -2,6 +2,8 @@
 
 [← back to RudderStack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you explain to a skeptical engineer why 'just ask the model to return JSON' is unreliable and when constrained decoding is worth the quality hit? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at RudderStack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-to-a-skeptical-engineer-why-just-ask-the-model-t-77932) |

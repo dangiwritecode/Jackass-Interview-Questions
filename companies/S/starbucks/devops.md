@@ -2,6 +2,8 @@
 
 [← back to Starbucks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org runs Kubernetes at the edge (thousands of retail/IoT sites) on K3s/KubeEdge with intermittent connectivity. How would you architect fleet management and GitOps to disconnected clusters, and preserve local autonomy when the control plane is unreachable for hours, given the standard reconcile model assumes a reachable API server? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Starbucks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-kubernetes-at-the-edge-thousands-of-retail-iot-sites-on--52203) |

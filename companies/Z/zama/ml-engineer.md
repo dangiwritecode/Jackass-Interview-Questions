@@ -2,6 +2,8 @@
 
 [← back to Zama](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What are the trade-offs of homomorphic encryption or secure multi-party computation for ML in 2026 — where is it production-ready and where is it still theater? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Zama | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-trade-offs-of-homomorphic-encryption-or-secure-multi-part-72605) |

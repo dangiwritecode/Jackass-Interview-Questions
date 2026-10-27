@@ -2,6 +2,8 @@
 
 [← back to Checkly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect SLI collection so it survives a bad deploy that breaks your instrumentation library itself — what independent out-of-band signal confirms the app is up when the app's own metrics lie? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Checkly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-sli-collection-so-it-survives-a-bad-deploy-that-b-41364) |

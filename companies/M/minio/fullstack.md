@@ -2,6 +2,8 @@
 
 [← back to MinIO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're accountable for whether the org runs its own object-storage-backed data platform (Ceph/Rook, MinIO) on Kubernetes or stays on cloud-native storage. Lay out the decision framework, the operational failure modes of self-hosted storage on K8s, and how you'd pilot before betting production data on it. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at MinIO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-accountable-for-whether-the-org-runs-its-own-object-storage-bac-39043) |

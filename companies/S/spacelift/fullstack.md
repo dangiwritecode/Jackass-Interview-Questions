@@ -2,6 +2,8 @@
 
 [← back to Spacelift](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect reliability governance for infrastructure-as-code changes — should a Terraform apply that degrades the region draw from the same error budget as an app bug and who owns that budget? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Spacelift | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-reliability-governance-for-infrastructure-as-code-41350) |

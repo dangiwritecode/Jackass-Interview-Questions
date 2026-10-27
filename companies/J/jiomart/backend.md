@@ -2,6 +2,8 @@
 
 [← back to JioMart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how you'd support 'login with phone number' with number portability and reassignment — a recycled phone number must not grant access to the previous owner's account. What checks close this gap? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at JioMart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-you-d-support-login-with-phone-number-with-number-portabili-26218) |

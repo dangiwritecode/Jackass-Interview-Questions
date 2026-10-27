@@ -2,6 +2,8 @@
 
 [← back to Optum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants to run ML training on de-identified data in a non-FedRAMP GPU environment; how do you architect the data-flow controls to make that defensible? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Optum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-to-run-ml-training-on-de-identified-data-in-a-non-fedramp-56769) |

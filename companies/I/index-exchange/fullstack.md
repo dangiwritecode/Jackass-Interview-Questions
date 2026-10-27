@@ -2,6 +2,8 @@
 
 [← back to Index Exchange](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design caching for a real-time bidding or ad-serving path where a cached decision that is milliseconds stale still costs money, so you must reconcile sub-millisecond latency with near-zero staleness tolerance? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Index Exchange | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-caching-for-a-real-time-bidding-or-ad-serving-pat-38562) |

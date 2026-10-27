@@ -2,6 +2,8 @@
 
 [← back to Genpact](README.md)
 
+Questions 1–69 of 69.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle missing values in a dataset and what are the common strategies? | basic concept | Fresher, SDE-1/2 | Data Preprocessing & Cleaning | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Genpact | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-missing-values-in-a-dataset-and-what-are-the-common--60286) |

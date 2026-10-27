@@ -2,6 +2,8 @@
 
 [← back to Rippling](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd size a capacity plan for a fleet that must survive an AZ loss without degradation — how does N+1/N+2 redundancy change your provisioning math? | expertise | SDE-2/3, Architect/Principal | Database Capacity Planning | Onsite, Hiring Manager | Tech | Asked at Rippling | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-size-a-capacity-plan-for-a-fleet-that-must-survive--114951) |

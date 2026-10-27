@@ -2,6 +2,8 @@
 
 [← back to Nuro](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design governance so quarterly firewall-equivalent reviews of database network access (security-group rules IP allowlists VPC peering to the CDE) are done as code and stale or over-broad rules are auto-flagged for PCI Requirement 1 — how do you keep the rule set from drifting? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Autonomous companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-so-quarterly-firewall-equivalent-reviews-of-database-113119) |

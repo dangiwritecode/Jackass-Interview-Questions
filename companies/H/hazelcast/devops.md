@@ -2,6 +2,8 @@
 
 [← back to Hazelcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd wire a flag flip to trigger a targeted cache warm-up job so ramping the feature doesn't create a cold-cache stampede on the backing store. | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Hazelcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-wire-a-flag-flip-to-trigger-a-targeted-cache-warm-up-47413) |

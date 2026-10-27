@@ -2,6 +2,8 @@
 
 [← back to Deliveroo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An analytics team complains that a monthly report suddenly takes 6 hours because its data aged into Glacier. How do you debug and prevent this class of problem systemically? | deep understanding | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Deliveroo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-analytics-team-complains-that-a-monthly-report-suddenly-takes-6-hou-126719) |

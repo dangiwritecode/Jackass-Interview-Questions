@@ -2,6 +2,8 @@
 
 [← back to Cyral](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a data-access broker/proxy that sits in front of all PII stores providing centralized authz masking purpose-checking and audit — what are the failure modes of routing all sensitive reads through one plane and how do you keep it from being a SPOF or latency tax? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Cyral | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-data-access-broker-proxy-that-sits-in-front-of-all-pii-sto-37257) |

@@ -2,6 +2,8 @@
 
 [← back to Wix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to reprocess a week of Debezium events from Kafka but the topic retention is 24 hours: what design would let you replay without re-snapshotting the source? | deep understanding | SDE-1/2, SDE-2/3 | Change Data Capture (CDC) | Phone Screen, Onsite | Tech | Asked at Wix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-reprocess-a-week-of-debezium-events-from-kafka-but-the-top-123467) |

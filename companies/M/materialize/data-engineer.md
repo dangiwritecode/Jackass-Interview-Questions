@@ -2,6 +2,8 @@
 
 [← back to Materialize](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team you influenced built exactly the incremental-materialization-plus-cache design you recommended, and it's now serving stale marts and causing wrong numbers on a customer-facing dashboard. They're looking to you. How do you take accountability, protect their morale, and course-correct without eroding future influence? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Materialize | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-you-influenced-built-exactly-the-incremental-materialization-pl-126191) |

@@ -2,6 +2,8 @@
 
 [← back to Nx](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide monorepo versus polyrepo at org scale and defend it against the opposite camp. How does the choice interact with build tooling, shared-library coupling, and the ability to atomically change a cross-service contract? | expertise | SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nx | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-monorepo-versus-polyrepo-at-org-scale-and-defend-it-ag-31754) |

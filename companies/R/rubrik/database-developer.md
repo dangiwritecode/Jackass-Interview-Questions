@@ -2,6 +2,8 @@
 
 [← back to Rubrik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges: 'Cosmos gives 99.999% availability, so why do you still need a DR plan?' — how do you frame availability versus durability versus disaster recovery? | deep understanding | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Rubrik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-cosmos-gives-99-999-availability-so-why-do-y-115213) |

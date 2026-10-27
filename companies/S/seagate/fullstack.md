@@ -2,6 +2,8 @@
 
 [← back to Seagate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the FCFS and SCAN (elevator) disk scheduling algorithms. | intermediate experience | Fresher, SDE-1 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Seagate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-fcfs-and-scan-elevator-disk-scheduling-algorithms-488) |

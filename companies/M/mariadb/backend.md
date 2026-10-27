@@ -2,6 +2,8 @@
 
 [← back to MariaDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide the org's default replication mode. Walk through the systemic trade-off of mandating synchronous replication (CP-leaning, slow-node stalls) versus semi-synchronous (bounded, small data-loss window) versus async (AP-leaning, RPO>0) as a fleet-wide baseline. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at MariaDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-the-org-s-default-replication-mode-walk-through-the-sy-32261) |

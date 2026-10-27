@@ -2,6 +2,8 @@
 
 [← back to NetSuite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set an SLO for a scheduled report or invoicing run that must be correct-and-on-time monthly — how do you express reliability for something that runs 12 times a year where n is tiny? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at NetSuite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-an-slo-for-a-scheduled-report-or-invoicing-run-that-mus-41360) |

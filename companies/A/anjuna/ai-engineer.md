@@ -2,6 +2,8 @@
 
 [← back to Anjuna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect confidential inference so even the platform operator cannot read Transformer prompts or KV cache, and what TEE/enclave trade-offs hit attention throughput? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Anjuna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-confidential-inference-so-even-the-platform-opera-84294) |

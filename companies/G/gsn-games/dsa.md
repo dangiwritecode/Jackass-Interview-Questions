@@ -2,6 +2,8 @@
 
 [← back to GSN Games](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Earliest Session Date Per Member | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Aggregation, Database, Data Processing, Grouping, Hash Map | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at GSN Games | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=earliest-session-date-per-member-d511) |

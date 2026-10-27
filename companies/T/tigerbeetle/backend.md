@@ -2,6 +2,8 @@
 
 [← back to TigerBeetle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how you'd validate correctness of your conflict resolution before shipping: what property tests, simulations, or formal methods (TLA+/deterministic sim) would you use for a multi-region write model? | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at TigerBeetle | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-you-d-validate-correctness-of-your-conflict-resolution-befo-36698) |

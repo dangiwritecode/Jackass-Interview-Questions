@@ -2,6 +2,8 @@
 
 [← back to iRobot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does AWS Lambda work and what triggers can invoke a Lambda function? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at iRobot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-aws-lambda-work-and-what-triggers-can-invoke-a-lambda-functio-6804) |

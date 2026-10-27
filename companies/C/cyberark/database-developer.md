@@ -2,6 +2,8 @@
 
 [← back to CyberArk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd protect against a malicious or compromised DBA who has SYSDBA/SUPERUSER while still allowing them to do legitimate operational work. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at CyberArk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-protect-against-a-malicious-or-compromised-dba-who--114068) |

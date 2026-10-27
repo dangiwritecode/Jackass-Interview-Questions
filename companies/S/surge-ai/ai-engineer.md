@@ -2,6 +2,8 @@
 
 [← back to Surge AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal-level scenario: your RLHF and preference-data pipeline (human annotation plus reward-model inference) is a large, mostly-invisible AI cost line that never appears on the cloud bill. How do you fold human-labeling and preference-collection spend into your model's total cost of ownership? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Surge AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-level-scenario-your-rlhf-and-preference-data-pipeline-huma-83913) |

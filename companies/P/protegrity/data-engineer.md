@@ -2,6 +2,8 @@
 
 [← back to Protegrity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a tokenization strategy for a lakehouse so PAN and PII are tokenized before landing yet analysts can still join and aggregate on customer identity — deterministic vs format-preserving tokens — without re-introducing the raw value into PCI scope anywhere in the pipeline. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Protegrity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-tokenization-strategy-for-a-lakehouse-so-pan-and-pii-are-toke-126028) |

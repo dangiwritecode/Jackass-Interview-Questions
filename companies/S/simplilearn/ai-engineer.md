@@ -2,6 +2,8 @@
 
 [← back to Simplilearn](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your agent loop re-sends the full conversation each turn and cost is exploding; how does prefix caching in the Transformer serving layer change your cost curve and what invalidates it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Simplilearn | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-agent-loop-re-sends-the-full-conversation-each-turn-and-cost-is-e-79306) |

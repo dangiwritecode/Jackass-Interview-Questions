@@ -2,6 +2,8 @@
 
 [← back to HackerRank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why is it a good practice to COPY requirements.txt and run pip install before COPYing your training/inference Python code into the image? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at HackerRank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-it-a-good-practice-to-copy-requirements-txt-and-run-pip-install-57931) |

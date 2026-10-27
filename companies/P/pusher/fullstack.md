@@ -2,6 +2,8 @@
 
 [← back to Pusher](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect defense against a CSRF that targets a WebSocket upgrade (cross-site WebSocket hijacking), given the upgrade handshake carries cookies but bypasses CORS? Explain why Origin-checking the handshake is mandatory and how you enforce it fleet-wide. | deep understanding | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Pusher | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-defense-against-a-csrf-that-targets-a-websocket-u-38965) |

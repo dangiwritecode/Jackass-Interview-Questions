@@ -2,6 +2,8 @@
 
 [← back to Perplexity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A colleague used RANK() for pagination and pages had gaps and repeats; what should they have used instead and why? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at AI companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-colleague-used-rank-for-pagination-and-pages-had-gaps-and-repeats-wh-119017) |

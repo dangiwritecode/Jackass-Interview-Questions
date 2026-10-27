@@ -2,6 +2,8 @@
 
 [← back to CircleCI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the eval-and-cost gate in CI/CD that blocks any prompt or model change that raises cost-per-request or p95 beyond a threshold, and explain how you avoid it becoming a merge bottleneck. | deep understanding | SDE-2/3, Architect/Principal | LLM Cost & Latency Optimization | Phone Screen, Onsite | Tech | Asked at CircleCI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-eval-and-cost-gate-in-ci-cd-that-blocks-any-prompt-or-model-85278) |

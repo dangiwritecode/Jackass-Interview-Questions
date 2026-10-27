@@ -2,6 +2,8 @@
 
 [← back to BookMyShow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A single celebrity row is being read 200x more than any other, hot-spotting one shard of your distributed database. Walk me through how you'd detect the hot key at the data layer and three mitigations (per-key replication, request coalescing, splitting the row), with their consistency trade-offs. | deep understanding | SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at BookMyShow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-single-celebrity-row-is-being-read-200x-more-than-any-other-hot-spot-112077) |

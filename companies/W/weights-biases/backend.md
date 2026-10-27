@@ -2,6 +2,8 @@
 
 [← back to Weights & Biases](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You have thousands of production prompt/response logs. How would you mine them to build or refresh your eval set and few-shot examples without hand-labeling everything? | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Weights & Biases | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-thousands-of-production-prompt-response-logs-how-would-you-mi-27566) |

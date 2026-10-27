@@ -2,6 +2,8 @@
 
 [← back to Forter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a hybrid rules-plus-ML decision system so hand-authored rules can override the model in risky cases while you still measure the model's true incremental value? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Forter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-hybrid-rules-plus-ml-decision-system-so-hand-au-84395) |

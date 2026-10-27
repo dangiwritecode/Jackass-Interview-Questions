@@ -2,6 +2,8 @@
 
 [← back to Aadhaar/UIDAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle PII and consent when replaying or shadowing production traffic through a new service that shouldn't yet be certified to hold that data? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | Asked at Aadhaar/UIDAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-pii-and-consent-when-replaying-or-shadowing-producti-40949) |

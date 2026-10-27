@@ -2,6 +2,8 @@
 
 [← back to Cybereason](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Present a defense-in-depth architecture for indirect prompt injection where agents routinely ingest untrusted third-party content via tools. Which controls (instruction/data separation, capability gating, provenance, dual-LLM sanitization) do you standardize org-wide and in what order? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Cybereason | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=present-a-defense-in-depth-architecture-for-indirect-prompt-injection--83052) |

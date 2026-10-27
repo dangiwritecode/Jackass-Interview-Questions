@@ -2,6 +2,8 @@
 
 [← back to Vespa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a semantic-search-plus-keyword hybrid retrieval system for a large knowledge base where relevance must beat pure keyword — how do you architect the dual index fuse scores keep the vector index in sync with source edits and control the added infra cost? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Vespa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-semantic-search-plus-keyword-hybrid-retrieval-system-for-a-la-39498) |

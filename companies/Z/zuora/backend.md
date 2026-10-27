@@ -2,6 +2,8 @@
 
 [← back to Zuora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the approach to keeping a strong uniqueness invariant (e.g. one active subscription per user) correct when the write path is split across billing, entitlement, and account services. Where does the invariant live and how is it enforced? | expertise | SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Zuora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-approach-to-keeping-a-strong-uniqueness-invariant-e-g-on-31775) |

@@ -2,6 +2,8 @@
 
 [← back to Pydantic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Copilot writes code that assumes the LLM always returns exactly the format you asked for. Why is that optimistic, and how do you make it defensive? | deep understanding | Fresher | AI-Assisted Coding (Copilot/Cursor) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Pydantic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=copilot-writes-code-that-assumes-the-llm-always-returns-exactly-the-fo-73951) |

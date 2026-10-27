@@ -2,6 +2,8 @@
 
 [← back to Bajaj-Finserv](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a document-AI/IDP pipeline (buy Textract/Document AI/Azure DI vs build on open OCR + your own layout models) when accuracy on your domain forms and per-page pricing at millions of docs define the crossover? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Bajaj-Finserv | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-document-ai-idp-pipeline-buy-text-69803) |

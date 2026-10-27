@@ -2,6 +2,8 @@
 
 [← back to Ericsson](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you evaluate whether Anchor Modeling or a Vault variant fits better than classic Data Vault 2.0 for an extremely volatile schema domain? | expertise | SDE-2/3, Architect/Principal | Data Modeling Judgment (Kimball/Inmon/Data Vault) | Phone Screen, Onsite | Tech | Asked at Ericsson | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-whether-anchor-modeling-or-a-vault-variant-fits-127711) |

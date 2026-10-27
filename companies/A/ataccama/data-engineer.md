@@ -2,6 +2,8 @@
 
 [← back to Ataccama](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the audit and lineage layer for MDM so that for any golden attribute you can answer 'which source, which rule, which steward, at what time set this value' — how much history do you keep and why? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Ataccama | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-audit-and-lineage-layer-for-mdm-so-that-for-any-golden-attr-127742) |

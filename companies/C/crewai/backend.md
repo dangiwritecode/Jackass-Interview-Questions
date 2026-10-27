@@ -2,6 +2,8 @@
 
 [← back to crewAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a 'multi-agent' system, and when would you split work across several specialized agents vs. one agent with many tools? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at crewAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-multi-agent-system-and-when-would-you-split-work-across-seve-7533) |

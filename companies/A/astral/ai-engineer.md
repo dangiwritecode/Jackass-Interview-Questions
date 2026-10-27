@@ -2,6 +2,8 @@
 
 [← back to Astral](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare uv, Poetry and pip-tools for locking a large Python AI platform's dependencies. What criteria (resolution speed, reproducibility, CI cost, native-wheel handling for CUDA) drive your org-wide standard, and how do you migrate 100 repos? | deep understanding | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Astral | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-uv-poetry-and-pip-tools-for-locking-a-large-python-ai-platform-82341) |

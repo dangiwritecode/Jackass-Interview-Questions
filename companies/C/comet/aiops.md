@@ -2,6 +2,8 @@
 
 [← back to Comet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you architect the platform so scaling doesn't erode reproducibility: at ten thousand experiments a day, the storage and indexing for full lineage becomes untenable. What do you keep verbatim, what do you reconstruct on demand, and what do you knowingly lose? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Comet | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-architect-the-platform-so-scaling-doesn-t-er-100670) |

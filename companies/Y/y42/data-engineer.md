@@ -2,6 +2,8 @@
 
 [← back to Y42](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a DataOps CI/CD layer for pipelines (buy a data-pipeline CI product vs build on your CI + dbt + Great Expectations) when the deliverable is that no schema or transform change ships without passing data tests and lineage-impact checks? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Y42 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-dataops-ci-cd-layer-for-pipelines-125838) |

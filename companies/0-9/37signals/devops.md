@@ -2,6 +2,8 @@
 
 [← back to 37signals](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer pushes: why not keep this a modular monolith and avoid the availability tax of a distributed system entirely? Reason honestly about when network boundaries genuinely buy scaling and org velocity versus when they only multiply failure modes and coordination cost. | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at 37signals | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-pushes-why-not-keep-this-a-modular-monolith-and-avoid-t-52090) |

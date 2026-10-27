@@ -2,6 +2,8 @@
 
 [← back to Okta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A postmortem finds an ACL bug let one handler's retrieval bypass document-level permissions for months. What architectural pattern would have prevented this by construction, and how do you retrofit correct-by-construction access scoping org-wide? | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Okta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-postmortem-finds-an-acl-bug-let-one-handler-s-retrieval-bypass-docum-68921) |

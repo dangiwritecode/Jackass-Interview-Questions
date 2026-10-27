@@ -2,6 +2,8 @@
 
 [← back to Fiddler AI](README.md)
 
+Questions 1–61 of 61.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd apply statistical process control (control charts) to a groundedness metric to page only on real drift. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Fiddler AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-apply-statistical-process-control-control-charts-to--97868) |

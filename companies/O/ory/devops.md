@@ -2,6 +2,8 @@
 
 [← back to Ory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to justify whether the mesh should be in the critical path of your authentication service itself (the thing that issues tokens). Frame the circular-dependency risk (mesh needs identity, identity needs mesh) and how you'd bootstrap trust to avoid a deadlock. | expertise | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Ory | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-justify-whether-the-mesh-should-be-in-the-critical-pat-52702) |

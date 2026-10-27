@@ -2,6 +2,8 @@
 
 [← back to State Bank of India](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a chaos program for a hybrid estate where 60% of workloads are still on legacy VMs and mainframe-adjacent systems that cannot tolerate pod-kill semantics? | deep understanding | SDE-2/3, Architect/Principal | Chaos Engineering | Onsite, Hiring Manager | Tech | Asked at State Bank of India | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-chaos-program-for-a-hybrid-estate-where-60-of-w-55139) |

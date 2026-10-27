@@ -2,6 +2,8 @@
 
 [← back to Josh-DailyHunt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the hybrid push-pull denormalization strategy for timelines and defend the cutover thresholds you pick? | expertise | SDE-2/3, Architect/Principal | Normalization & Denormalization | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Josh-DailyHunt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-hybrid-push-pull-denormalization-strategy-for-ti-113397) |

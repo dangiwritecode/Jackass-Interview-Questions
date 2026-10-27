@@ -2,6 +2,8 @@
 
 [← back to Chainguard](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to security-hardening the remediation supply chain so a compromised runbook repo or CI pipeline can't weaponize self-healing across the fleet? | expertise | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Chainguard | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-security-hardening-the-remediation-supply-chai-101576) |

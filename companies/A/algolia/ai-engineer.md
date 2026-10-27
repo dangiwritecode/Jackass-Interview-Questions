@@ -2,6 +2,8 @@
 
 [← back to Algolia](README.md)
 
+Questions 1–73 of 73.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A product manager asks why your semantic search misses obvious keyword matches. How do you explain the recall gap and propose a hybrid remedy? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Algolia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-product-manager-asks-why-your-semantic-search-misses-obvious-keyword-79432) |

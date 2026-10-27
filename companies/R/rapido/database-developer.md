@@ -2,6 +2,8 @@
 
 [← back to Rapido](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why not choose the database the incumbent competitor uses, since it clearly works for their similar product? What's flawed about copying a peer's stack? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Rapido | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-not-choose-the-database-the-incumbent-competitor-uses-since-it-cle-114405) |

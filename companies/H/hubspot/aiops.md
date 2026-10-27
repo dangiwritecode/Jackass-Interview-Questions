@@ -2,6 +2,8 @@
 
 [← back to HubSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the platform's approach to serving billions of daily predictions where a long tail of tiny per-tenant models each get almost no traffic. Contrast serverless cold-start, model-multiplexing, and adapter-swapping at this cardinality, and pick one with a concrete cost-at-scale argument. | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at HubSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-platform-s-approach-to-serving-billions-of-daily-prediction-100669) |

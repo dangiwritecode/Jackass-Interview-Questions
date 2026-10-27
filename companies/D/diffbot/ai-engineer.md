@@ -2,6 +2,8 @@
 
 [← back to Diffbot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your scraped-text cleaner strips boilerplate but occasionally removes meaningful content. How do you catch and prevent that regression? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Diffbot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-scraped-text-cleaner-strips-boilerplate-but-occasionally-removes--79480) |

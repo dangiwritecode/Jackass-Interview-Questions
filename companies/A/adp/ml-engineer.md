@@ -2,6 +2,8 @@
 
 [← back to ADP](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a guardrail on model fairness metrics inside an experiment so a lift doesn't come at the cost of a subgroup. | expertise | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at ADP | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-guardrail-on-model-fairness-metrics-inside--67720) |

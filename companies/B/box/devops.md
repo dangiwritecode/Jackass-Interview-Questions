@@ -2,6 +2,8 @@
 
 [← back to Box](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the FinOps-vs-compliance trade-off: your governance layer (central logging tokenization full audit) adds a measurable percentage to cloud spend — as principal how do you decide what compliance overhead is worth its cost and where you'd accept residual risk to save money? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Box | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-finops-vs-compliance-trade-off-your-governance-layer-centra-54045) |

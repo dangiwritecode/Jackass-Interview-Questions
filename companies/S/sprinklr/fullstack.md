@@ -2,6 +2,8 @@
 
 [← back to Sprinklr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A junior on your team wrote a machine-coding-style module with a god class and no abstractions. In a review, how do you guide them toward SOLID without rewriting it for them? What do you point out first? | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | Asked at Sprinklr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-junior-on-your-team-wrote-a-machine-coding-style-module-with-a-god-c-21560) |

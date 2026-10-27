@@ -2,6 +2,8 @@
 
 [← back to Kemp/Progress](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org's mesh must interoperate with a legacy hardware load balancer that does its own health checking, creating two competing views of endpoint health. Architect who's authoritative, how you reconcile the two health models, and the plan to retire the hardware LB. | deep understanding | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Kemp/Progress | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-s-mesh-must-interoperate-with-a-legacy-hardware-load-balancer-52701) |

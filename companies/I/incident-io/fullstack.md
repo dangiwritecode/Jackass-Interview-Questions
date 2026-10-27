@@ -2,6 +2,8 @@
 
 [← back to incident.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when an SLO breach warrants paging a human versus auto-remediation versus just recording budget burn — and how do you tune that ladder so you're not paging on recoverable blips? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at incident.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-an-slo-breach-warrants-paging-a-human-versus-au-41335) |

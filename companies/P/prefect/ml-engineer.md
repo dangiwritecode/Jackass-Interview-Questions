@@ -2,6 +2,8 @@
 
 [← back to Prefect](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A feature-engineering DAG re-executes shared upstream transforms multiple times; how would you add memoization keyed on transform identity plus input hash, and how do you keep it correct when inputs change? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Prefect | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-feature-engineering-dag-re-executes-shared-upstream-transforms-multi-62522) |

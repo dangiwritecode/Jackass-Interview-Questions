@@ -2,6 +2,8 @@
 
 [← back to Hudson River Trading](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when a workload deserves a bespoke hand-optimized GPU implementation versus riding the shared platform's good-enough defaults, and how do you keep that decision disciplined rather than ego-driven? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Trading companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-a-workload-deserves-a-bespoke-hand-optimized-gp-85089) |

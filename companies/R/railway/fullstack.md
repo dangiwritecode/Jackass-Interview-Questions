@@ -2,6 +2,8 @@
 
 [← back to Railway](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An endpoint returns a paginated list plus a 'has_more' flag. Why is fetching limit+1 rows better than a separate COUNT query for that flag, and when does even that break down? | intermediate experience | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Railway | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-endpoint-returns-a-paginated-list-plus-a-has-more-flag-why-is-fetch-22143) |

@@ -2,6 +2,8 @@
 
 [← back to The Guardian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a soft-purge (mark-stale) flow at the origin so hot content is revalidated in the background rather than hard-evicted, preventing a stampede the instant you invalidate a breaking-news article. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at The Guardian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-soft-purge-mark-stale-flow-at-the-origin-so-29744) |

@@ -2,6 +2,8 @@
 
 [← back to FOSSA](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle open-source license compliance in the same pipeline as security scanning — why does legal risk matter to DevSecOps? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at FOSSA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-open-source-license-compliance-in-the-same-pipeline--50702) |

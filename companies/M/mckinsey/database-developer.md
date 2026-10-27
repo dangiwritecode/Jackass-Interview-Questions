@@ -2,6 +2,8 @@
 
 [← back to McKinsey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle governance for a merger where two companies have overlapping customer datasets with conflicting definitions, keys, and quality? | expertise | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | Asked at McKinsey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-governance-for-a-merger-where-two-companies-have-ove-114803) |

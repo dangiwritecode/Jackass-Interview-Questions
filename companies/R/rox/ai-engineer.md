@@ -2,6 +2,8 @@
 
 [← back to Rox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your RAG system's recall@10 is high in offline eval but users still complain about missing answers. What gap between your eval set and real traffic would you suspect first? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Rox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-rag-system-s-recall-10-is-high-in-offline-eval-but-users-still-co-78101) |

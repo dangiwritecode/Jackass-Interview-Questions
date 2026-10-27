@@ -2,6 +2,8 @@
 
 [← back to Teladoc](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd instrument the minimum-necessary principle of HIPAA at the query and API layer, not just at storage-level access control. | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Teladoc | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-instrument-the-minimum-necessary-principle-of-hipaa--56773) |

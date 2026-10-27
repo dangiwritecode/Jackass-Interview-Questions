@@ -2,6 +2,8 @@
 
 [← back to Rebel Foods](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | If a food delivery app tracks live order status, which system holds that data and why? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Rebel Foods | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-a-food-delivery-app-tracks-live-order-status-which-system-holds-tha-118813) |

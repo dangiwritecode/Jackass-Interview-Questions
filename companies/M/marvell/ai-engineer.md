@@ -2,6 +2,8 @@
 
 [← back to Marvell](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you evaluate whether CXL-style memory pooling or disaggregated HBM changes your accelerator architecture strategy, and what would have to be true for you to bet the platform on it? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Marvell | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-whether-cxl-style-memory-pooling-or-disaggregat-85102) |

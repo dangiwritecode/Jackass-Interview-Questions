@@ -2,6 +2,8 @@
 
 [← back to Allen Institute](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: how do you prevent evaluation-set contamination at org scale when base Transformers are continuously pretrained on scraped web data? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Allen Institute | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-do-you-prevent-evaluation-set-contamination-at-o-70397) |

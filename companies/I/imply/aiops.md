@@ -2,6 +2,8 @@
 
 [← back to Imply](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when it is finally worth investing in a real-time OLAP tier over the lake versus telling AIOps to tolerate 30-second query latency for another year? | deep understanding | SDE-2/3, Architect/Principal | Observability Data Lake | Onsite, Hiring Manager | Tech | Asked at Imply | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-it-is-finally-worth-investing-in-a-real-time-ol-102361) |

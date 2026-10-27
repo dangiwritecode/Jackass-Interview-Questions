@@ -2,6 +2,8 @@
 
 [← back to Arm](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org runs mixed x86 and ARM workloads; how do you set a strategy for adopting Azure Ampere/ARM VMs and AKS ARM node pools to cut cost, and what's the migration risk? | deep understanding | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at Arm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-mixed-x86-and-arm-workloads-how-do-you-set-a-strategy-fo-54580) |

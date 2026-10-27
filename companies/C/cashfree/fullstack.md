@@ -2,6 +2,8 @@
 
 [← back to Cashfree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A teammate proposes reserved concurrency of 50 on a customer-facing checkout Lambda to control cost — what production risk does that introduce and how would you push back in review? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Serverless | Phone Screen, Onsite | Tech | Asked at Cashfree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-teammate-proposes-reserved-concurrency-of-50-on-a-customer-facing-ch-18414) |

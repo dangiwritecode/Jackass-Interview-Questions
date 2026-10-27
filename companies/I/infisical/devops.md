@@ -2,6 +2,8 @@
 
 [← back to Infisical](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect org-wide secrets and short-lived workload identity across services and multiple clouds, comparing a central Vault, cloud-native workload identity federation, and SPIFFE-issued certs, and defend a policy that survives audits and rotations? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Infisical | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-org-wide-secrets-and-short-lived-workload-iden-51976) |

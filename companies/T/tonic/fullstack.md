@@ -2,6 +2,8 @@
 
 [← back to Tonic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a data anonymization / synthetic-data platform needed to unblock analytics on regulated data — where does the compliance risk of building your own de-identification tip the scale? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Tonic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-anonymization-synthetic-data-41027) |

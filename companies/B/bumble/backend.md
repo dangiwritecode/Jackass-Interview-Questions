@@ -2,6 +2,8 @@
 
 [← back to Bumble](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A feature computes pairwise similarity across n users and is O(n^2); how do you decide between LSH/approximate methods, blocking/bucketing, and just capping n, given product requirements? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Bumble | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-feature-computes-pairwise-similarity-across-n-users-and-is-o-n-2-how-16172) |

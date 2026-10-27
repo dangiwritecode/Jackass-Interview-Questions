@@ -2,6 +2,8 @@
 
 [← back to FIRST/EPSS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's the difference between CVSS score and actual exploitability, and how do you use EPSS or KEV data to reprioritize your backlog? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at FIRST/EPSS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-difference-between-cvss-score-and-actual-exploitability-and-50656) |

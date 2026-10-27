@@ -2,6 +2,8 @@
 
 [← back to Tech Mahindra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're designing for an enterprise-arch engagement where the client runs a legacy mainframe of record plus modern microservices. How do you reconcile the mainframe's strong-consistency assumptions with an AP microservice mesh without a big-bang rewrite? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Tech Mahindra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-for-an-enterprise-arch-engagement-where-the-client-ru-32278) |

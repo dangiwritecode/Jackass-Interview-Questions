@@ -2,6 +2,8 @@
 
 [← back to Box](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare Glacier Instant Retrieval, Flexible Retrieval, and Deep Archive on cost, latency, and minimum-storage duration, and where each fits in a real archival tier ladder. | deep understanding | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Box | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-glacier-instant-retrieval-flexible-retrieval-and-deep-archive--126729) |

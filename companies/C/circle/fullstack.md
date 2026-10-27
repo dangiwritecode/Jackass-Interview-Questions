@@ -2,6 +2,8 @@
 
 [← back to Circle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: your design leans heavily on eventual consistency via Saga. Name the exact user-facing invariants where you'd override that and demand a synchronous distributed transaction, and how you'd bound its cost. | expertise | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Crypto companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-your-design-leans-heavily-on-eventual-consistency-vi-38482) |

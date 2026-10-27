@@ -2,6 +2,8 @@
 
 [← back to CleverTap](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a notification service that fans out push/email/SMS/in-app to millions of users — how do you model channels, user preferences, and per-channel rate limits? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at CleverTap | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-service-that-fans-out-push-email-sms-in-app-to-m-20629) |

@@ -2,6 +2,8 @@
 
 [← back to Booking.com](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: your AIOps platform exports metrics to a third-party ML forecasting vendor for capacity planning — a cross-border transfer of operational data post-Schrems II. How do you architect so a transfer-mechanism invalidation doesn't require re-platforming your entire forecasting pipeline? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Booking.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-your-aiops-platform-exports-metrics-to-a-third-par-100252) |

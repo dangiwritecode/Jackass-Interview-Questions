@@ -2,6 +2,8 @@
 
 [← back to Rubrik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A RocksDB-backed service is hitting sudden write stalls where p99 latency spikes to seconds every few minutes. How do you diagnose whether it is L0 file count triggering stall triggers versus pending compaction bytes versus memtable flush backpressure? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Database Internals (B-Tree/LSM) | Phone Screen, Onsite | Tech | Asked at Rubrik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-rocksdb-backed-service-is-hitting-sudden-write-stalls-where-p99-late-29341) |

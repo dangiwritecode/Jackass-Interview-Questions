@@ -2,6 +2,8 @@
 
 [← back to Split](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Feature-flag and config values are being interpolated into SQL by careless consumers across the org. Architect a program that treats all config/flag/remote values as untrusted input by default, and enforce that guarantee at the flag-SDK level so a value can never reach a query as structure. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Split | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=feature-flag-and-config-values-are-being-interpolated-into-sql-by-care-32887) |

@@ -2,6 +2,8 @@
 
 [← back to Cube-dev](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a schema so it can be normalized for correctness yet expose denormalized query-optimized views through a semantic layer? | deep understanding | SDE-2/3, Architect/Principal | Normalization & Denormalization | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Cube-dev | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-schema-so-it-can-be-normalized-for-correctne-113367) |

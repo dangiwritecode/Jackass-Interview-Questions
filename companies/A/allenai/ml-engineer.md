@@ -2,6 +2,8 @@
 
 [← back to AllenAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate multi-hop RAG where the answer requires stitching evidence across documents, and why do single-chunk metrics mislead you? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at AllenAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-multi-hop-rag-where-the-answer-requires-stitching--64051) |

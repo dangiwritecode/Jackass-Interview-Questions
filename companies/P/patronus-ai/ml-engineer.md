@@ -2,6 +2,8 @@
 
 [← back to Patronus AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for an LLM eval + red-teaming harness (buy Braintrust/LangSmith/Patronus vs build your own eval sets + judge pipeline) when eval quality gates every model promotion and off-the-shelf evals don't fit your domain? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Patronus AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-llm-eval-red-teaming-harness-buy-69781) |

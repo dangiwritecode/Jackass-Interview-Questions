@@ -2,6 +2,8 @@
 
 [← back to Segment](README.md)
 
+Questions 1–74 of 74.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | CockroachDB 23+ added READ COMMITTED isolation; when would you deliberately drop from SERIALIZABLE, what anomalies re-enter, and how do you govern that choice across dozens of service teams? | expertise | SDE-2/3, Architect/Principal | NewSQL (CockroachDB/Spanner) | Phone Screen, Onsite | Tech | Asked at Segment | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cockroachdb-23-added-read-committed-isolation-when-would-you-deliberat-114459) |

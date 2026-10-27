@@ -2,6 +2,8 @@
 
 [← back to Raytheon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design an org-wide policy for handling retrieval over documents with mixed classification levels inside one file, so a single paragraph's classification can gate its retrieval without shattering the document into unmanageable fragments? | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Raytheon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-org-wide-policy-for-handling-retrieval-over-docum-82953) |

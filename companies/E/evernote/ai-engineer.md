@@ -2,6 +2,8 @@
 
 [← back to Evernote](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your feature must handle a user pasting a 200-page PDF. Walk through the token-accounting and context-strategy decisions before a single model call. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Evernote | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-feature-must-handle-a-user-pasting-a-200-page-pdf-walk-through-th-77945) |

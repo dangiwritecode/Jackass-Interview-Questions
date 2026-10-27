@@ -2,6 +2,8 @@
 
 [← back to Signifyd](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd model the capacity and cost of a feature that adds a synchronous call to a third-party fraud/risk API on every transaction. How does a per-transaction external dependency change your throughput ceiling and your marginal cost per order? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Signifyd | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-the-capacity-and-cost-of-a-feature-that-adds-a-53001) |

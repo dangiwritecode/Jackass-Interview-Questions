@@ -2,6 +2,8 @@
 
 [← back to Robinhood](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a settlement/reconciliation subsystem for a system that runs AP live and CP at settlement, so the handoff from the fast-and-loose view to the slow-and-correct view is provably lossless even if a partition occurred mid-window? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Robinhood | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-settlement-reconciliation-subsystem-for-a-syste-32270) |

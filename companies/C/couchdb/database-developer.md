@@ -2,6 +2,8 @@
 
 [← back to CouchDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're setting policy for how teams handle write conflicts in a multi-master/active-active database. Compare last-write-wins, application-defined merge, and reject-and-retry, and mandate which is allowed for which data class. Where does LWW silently destroy data? | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at CouchDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-setting-policy-for-how-teams-handle-write-conflicts-in-a-multi--112190) |

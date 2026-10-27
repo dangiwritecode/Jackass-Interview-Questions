@@ -2,6 +2,8 @@
 
 [← back to Yes Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What kind of question would you route to OLAP: 'What is customer X's current balance?' or 'What is the average balance across all customers this year?' | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Yes Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-kind-of-question-would-you-route-to-olap-what-is-customer-x-s-cur-118784) |

@@ -2,6 +2,8 @@
 
 [← back to Snap Inc.](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evolve a Spanner or DynamoDB schema at scale where classic ALTER semantics don't apply, and what governance replaces version-numbered SQL files? | deep understanding | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at Snap Inc. | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evolve-a-spanner-or-dynamodb-schema-at-scale-where-classic--114252) |

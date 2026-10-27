@@ -2,6 +2,8 @@
 
 [← back to Saviynt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design an authorization model where entitlements are derived from HR/identity attributes so a role change or termination automatically reshapes database access. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Saviynt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-an-authorization-model-where-entitlements-are-114118) |

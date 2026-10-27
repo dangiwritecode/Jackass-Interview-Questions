@@ -2,6 +2,8 @@
 
 [← back to CloudAMQP](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a dead-letter queue and when would a document that repeatedly fails embedding land in one? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at CloudAMQP | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-dead-letter-queue-and-when-would-a-document-that-repeatedly--76558) |

@@ -2,6 +2,8 @@
 
 [← back to Mozilla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you define, at org level, the invariant properties of tokenization that every downstream system (budgeting, chunking, safety-truncation, caching) must assume, so a future tokenizer change is a contained migration rather than a cross-team break? | deep understanding | SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Mozilla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-define-at-org-level-the-invariant-properties-of-tokeniza-82835) |

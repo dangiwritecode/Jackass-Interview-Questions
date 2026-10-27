@@ -2,6 +2,8 @@
 
 [← back to Tecton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A downstream ML model retrains nightly on batch and infers in real time on streaming features. How do you detect and prevent skew introduced purely by the batch/stream code paths diverging? | expertise | SDE-2/3, Architect/Principal | Batch/Stream Unification | Phone Screen, Onsite | Tech | Asked at Tecton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-ml-model-retrains-nightly-on-batch-and-infers-in-real-tim-127067) |

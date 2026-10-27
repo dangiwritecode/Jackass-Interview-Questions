@@ -2,6 +2,8 @@
 
 [← back to Stack Overflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a duplicate or near-duplicate question detection system for a Q&A platform? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Stack Overflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-duplicate-or-near-duplicate-question-detection--62153) |

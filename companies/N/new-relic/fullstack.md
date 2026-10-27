@@ -2,6 +2,8 @@
 
 [← back to New Relic](README.md)
 
+Questions 1–75 of 75.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A design proposes measuring performance only via synthetic canaries because real-user monitoring is 'too noisy.' As bar-raiser, what blind spots does synthetic-only create, and how do you argue for a RUM+synthetic blend without doubling cost? | deep understanding | SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at New Relic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-design-proposes-measuring-performance-only-via-synthetic-canaries-be-39822) |

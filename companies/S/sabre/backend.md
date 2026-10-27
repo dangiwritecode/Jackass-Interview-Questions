@@ -2,6 +2,8 @@
 
 [← back to Sabre](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You inherit a 15-year-old SOAP API still generating 30% of partner revenue. Build the strategy to modernize to REST/gRPC without a revenue cliff — coexistence, translation layer, incentives to migrate, and the sunset trigger conditions. | expertise | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Sabre | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-a-15-year-old-soap-api-still-generating-30-of-partner-reve-36442) |

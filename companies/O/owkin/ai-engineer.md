@@ -2,6 +2,8 @@
 
 [← back to Owkin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Where does differential privacy or federated learning genuinely earn its place in the platform, and where is it over-engineering you would refuse? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Owkin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=where-does-differential-privacy-or-federated-learning-genuinely-earn-i-84380) |

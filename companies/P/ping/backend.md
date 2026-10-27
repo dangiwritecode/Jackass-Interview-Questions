@@ -2,6 +2,8 @@
 
 [← back to Ping](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you make an authentication service extremely fault tolerant given that if it's down, everything is down? Discuss caching tokens, degradation modes, and read paths. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Ping | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-an-authentication-service-extremely-fault-tolerant-giv-29952) |

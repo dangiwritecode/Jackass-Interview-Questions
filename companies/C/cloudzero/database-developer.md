@@ -2,6 +2,8 @@
 
 [← back to CloudZero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What FinOps controls do you put on a polyglot estate where teams can spin up managed databases with a credit card and costs sprawl? | deep understanding | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | Asked at CloudZero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-finops-controls-do-you-put-on-a-polyglot-estate-where-teams-can-s-114586) |

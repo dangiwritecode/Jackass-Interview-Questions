@@ -2,6 +2,8 @@
 
 [← back to Wix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must run a cross-region major-version upgrade of the whole database fleet with no maintenance window. Walk through the logical-replication bridge between old and new versions, the cutover, and how you keep replication flowing while versions differ. | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Wix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-run-a-cross-region-major-version-upgrade-of-the-whole-databas-112782) |

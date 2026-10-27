@@ -2,6 +2,8 @@
 
 [← back to Veeam](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's DR strategy for the control plane and stateful workloads across the fleet: etcd backup cadence, rehearsed restore, and reconciling restored control-plane state with volumes that moved on. How would you set and evidence an RTO/RPO the business signs off on, and how do you keep the restore runbook from rotting? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Veeam | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-dr-strategy-for-the-control-plane-and-stateful-worklo-39105) |

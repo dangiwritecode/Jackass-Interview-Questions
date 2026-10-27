@@ -2,6 +2,8 @@
 
 [← back to OYO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect chargeback and showback for shared AI infrastructure so each product team sees its true fully-loaded cloud cost — including GPU idle, storage, and egress — and is incentivized to optimize rather than game the tags? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Travel companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-chargeback-and-showback-for-shared-ai-infrastr-82763) |

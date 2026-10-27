@@ -2,6 +2,8 @@
 
 [← back to FourKites](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Longest Run Achieving the Maximum Subarray Bitwise-AND | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bit Manipulation, Brainteaser, Greedy | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at FourKites | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-run-achieving-the-maximum-subarray-bitwise-and-d2274) |

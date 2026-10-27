@@ -2,6 +2,8 @@
 
 [← back to Qdrant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants Pinecone for RAG vector search; another wants pgvector on the existing Postgres they already operate — adjudicate build-vs-buy at your scale considering recall, index-rebuild cost, per-query economics, and one-more-datastore operational tax. | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Qdrant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-pinecone-for-rag-vector-search-another-wants-pgvector-on--112959) |

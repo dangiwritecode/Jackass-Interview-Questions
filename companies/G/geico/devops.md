@@ -2,6 +2,8 @@
 
 [← back to GEICO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd evaluate repatriating a specific high-egress workload from cloud to owned hardware in a colo. Walk me through the full TCO including the capacity you must buy for peak plus depreciation, versus cloud elasticity you'd give up. | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at GEICO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-evaluate-repatriating-a-specific-high-egress-workloa-52953) |

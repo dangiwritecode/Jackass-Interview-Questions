@@ -2,6 +2,8 @@
 
 [← back to F5](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a cutover and rollback strategy for a Rehost wave of 300 VMs where a bad DNS/routing switch could take down customer traffic. | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at F5 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-cutover-and-rollback-strategy-for-a-rehost-wave-of-300-vms--56547) |

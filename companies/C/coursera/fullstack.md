@@ -2,6 +2,8 @@
 
 [← back to Coursera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A partner integration fails only for credentialed cross-origin requests: cookies aren't sent despite CORS headers looking right. Walk through the fetch credentials mode, ACAO-not-wildcard rule, and Allow-Credentials interplay to fix it. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Coursera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-partner-integration-fails-only-for-credentialed-cross-origin-request-19156) |

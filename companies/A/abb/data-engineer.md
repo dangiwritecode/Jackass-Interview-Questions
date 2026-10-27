@@ -2,6 +2,8 @@
 
 [← back to ABB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle master data for IoT/device or account entities where volume is 100x customer volume and lifetimes are short — does classic MDM even apply, and what do you change? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Industrial companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-master-data-for-iot-device-or-account-entities-where-127781) |

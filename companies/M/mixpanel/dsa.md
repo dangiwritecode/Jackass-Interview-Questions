@@ -2,6 +2,8 @@
 
 [← back to Mixpanel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Iterator Over a Deeply Nested Integer Collection | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Depth-First Search, Design, Iterator, Queue, Recursion, Stack, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Mixpanel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=iterator-over-a-deeply-nested-integer-collection-d341) |

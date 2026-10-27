@@ -2,6 +2,8 @@
 
 [← back to Onfido](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you verify the identity of a DSAR requester in an automated pipeline without introducing a new privacy risk by collecting more personal data than you already hold? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Onfido | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-verify-the-identity-of-a-dsar-requester-in-an-automated--127334) |

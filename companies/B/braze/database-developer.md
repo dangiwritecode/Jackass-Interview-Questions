@@ -2,6 +2,8 @@
 
 [← back to Braze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a 'reverse-ETL' loop where OLAP-computed segments must flow back into the OLTP application safely — what consistency and blast-radius controls do you enforce? | expertise | SDE-2/3, Architect/Principal | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Braze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-reverse-etl-loop-where-olap-computed-segment-113475) |

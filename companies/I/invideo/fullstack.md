@@ -2,6 +2,8 @@
 
 [← back to InVideo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you use JavaScript transition hooks (like @enter and @leave) with a library such as GSAP? | deep understanding | Fresher, SDE-1 | Vue.js | Phone Screen, Onsite | Tech | Asked at InVideo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-javascript-transition-hooks-like-enter-and-leave-with-a-10678) |

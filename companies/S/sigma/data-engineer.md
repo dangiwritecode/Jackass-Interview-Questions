@@ -2,6 +2,8 @@
 
 [← back to Sigma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how Snowflake's QUALIFY clause is compiled and why it can avoid an extra subquery scan compared to filtering a window result in an outer WHERE. | intermediate experience | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Sigma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-snowflake-s-qualify-clause-is-compiled-and-why-it-can-avoi-123174) |

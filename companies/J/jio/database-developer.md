@@ -2,6 +2,8 @@
 
 [← back to Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd architect an authorization model that survives a major re-platforming from Oracle to PostgreSQL without silently loosening or tightening effective access. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-architect-an-authorization-model-that-survives-a-ma-114100) |

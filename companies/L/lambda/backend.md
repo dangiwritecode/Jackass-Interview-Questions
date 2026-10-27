@@ -2,6 +2,8 @@
 
 [← back to Lambda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your GPU-accelerated inference container works on one node and fails on another with driver mismatches. How do CUDA runtime, driver, and the NVIDIA container toolkit layer, and how would you make the image portable? | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Lambda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-gpu-accelerated-inference-container-works-on-one-node-and-fails-o-26774) |

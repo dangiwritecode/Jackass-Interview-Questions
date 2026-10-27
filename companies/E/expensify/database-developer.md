@@ -2,6 +2,8 @@
 
 [← back to Expensify](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When would you choose an embedded/edge database (SQLite/RocksDB/DuckDB) as part of the architecture, and how does that change the central datastore selection? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Expensify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-choose-an-embedded-edge-database-sqlite-rocksdb-duckdb--114381) |

@@ -2,6 +2,8 @@
 
 [← back to Byju's](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | For a kids' education product, would you tune your moderation filter for precision or recall, and how does that decision propagate through the whole pipeline? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AI Safety & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Byju's | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-kids-education-product-would-you-tune-your-moderation-filter-for-80836) |

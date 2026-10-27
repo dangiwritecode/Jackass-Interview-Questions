@@ -2,6 +2,8 @@
 
 [← back to Chainalysis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to prove to auditors that your event pipeline is tamper-evident: no event was silently altered or dropped between producer and system-of-record. What cryptographic and architectural mechanisms give you that guarantee without killing throughput? | expertise | SDE-2/3, Architect/Principal | Message Queues & Event-Driven Architecture | Phone Screen, Onsite | Tech | Asked at Chainalysis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-prove-to-auditors-that-your-event-pipeline-is-tamper-evide-32638) |

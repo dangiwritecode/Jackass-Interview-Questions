@@ -2,6 +2,8 @@
 
 [← back to Zendesk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A support-chat feature streams tokens fine locally but buffers the whole reply in prod behind your reverse proxy. How do you root-cause and fix the streaming break at the infra layer? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Zendesk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-support-chat-feature-streams-tokens-fine-locally-but-buffers-the-who-20314) |

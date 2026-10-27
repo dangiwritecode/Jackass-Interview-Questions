@@ -2,6 +2,8 @@
 
 [← back to Akamai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | CDNs and edge caches may hold personal data outside your governed region; how do you bring edge into your compliance boundary? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Akamai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cdns-and-edge-caches-may-hold-personal-data-outside-your-governed-regi-127360) |

@@ -2,6 +2,8 @@
 
 [← back to Axon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to design a CQRS platform where command and query sides may live on different CAP corners. How do you make the resulting read-after-write anomaly a documented, bounded, monitored property rather than an emergent surprise that confuses users? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Axon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-design-a-cqrs-platform-where-command-and-query-sides-m-32258) |

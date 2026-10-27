@@ -2,6 +2,8 @@
 
 [← back to Alloy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the reference architecture for a human-in-the-loop approval system scaling to thousands of pending high-risk tool actions with SLA-bound reviewer response, escalation, timeout defaults, and full auditability of who approved what and why. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Alloy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-reference-architecture-for-a-human-in-the-loop-approval-sys-83112) |

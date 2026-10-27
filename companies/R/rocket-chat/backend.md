@@ -2,6 +2,8 @@
 
 [← back to Rocket.Chat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design 'mark all as read up to message X' in a chat backend without touching every message row; how does a per-user watermark or interval structure make it O(1) instead of O(unread)? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Rocket.Chat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-mark-all-as-read-up-to-message-x-in-a-chat-backend-without-touc-22021) |

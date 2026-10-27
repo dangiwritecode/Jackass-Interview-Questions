@@ -2,6 +2,8 @@
 
 [← back to Portkey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the platform's routing tier scales to dynamically dispatch across model versions, sizes, and vendors under a cost/latency/quality budget, at millions of requests per second. Why is this router simultaneously your biggest efficiency lever and your most dangerous single point of failure? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Portkey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-platform-s-routing-tier-scales-to-dynamically-dispatch--100691) |

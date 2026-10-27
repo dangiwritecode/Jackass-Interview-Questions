@@ -2,6 +2,8 @@
 
 [← back to Axon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Constant-Time Set with Uniform Random Sampling | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Design, Hash Table, Randomized, Swap-Remove | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Axon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=constant-time-set-with-uniform-random-sampling-d380) |

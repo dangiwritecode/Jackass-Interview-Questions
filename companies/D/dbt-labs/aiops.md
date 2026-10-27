@@ -2,6 +2,8 @@
 
 [← back to dbt Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect silent-pipeline-breakage detection (nulled column, stuck value) as a data-contract layer rather than per-model checks scattered across teams? | expertise | SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at dbt Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-silent-pipeline-breakage-detection-nulled-column--101200) |

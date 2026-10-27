@@ -2,6 +2,8 @@
 
 [← back to Magnite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design frequency capping in ad serving so a user isn't shown the same ad more than N times in 24h across devices — where do you store the per-user counters and how do you keep the check under a few ms? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Magnite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-frequency-capping-in-ad-serving-so-a-user-isn-t-shown-the-same--28379) |

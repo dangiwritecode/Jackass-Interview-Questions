@@ -2,6 +2,8 @@
 
 [← back to Square](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A VP asks you to justify a two-year, eight-figure investment to move the core ledger from an AP store to a CP store. Build the business case where the CAP trade-off is the crux, and pre-empt the CFO's ROI objection. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Square | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vp-asks-you-to-justify-a-two-year-eight-figure-investment-to-move-th-32206) |

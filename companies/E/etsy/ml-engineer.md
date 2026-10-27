@@ -2,6 +2,8 @@
 
 [← back to Etsy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stakeholder asks why your offline NDCG went up 3% but the A/B test showed flat engagement. How do you investigate the gap between offline and online metrics? | deep understanding | SDE-1/2, SDE-2/3 | Recommendation Systems | Phone Screen, Onsite | Tech | Asked at Etsy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-asks-why-your-offline-ndcg-went-up-3-but-the-a-b-test-sh-66475) |

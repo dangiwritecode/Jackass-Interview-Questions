@@ -2,6 +2,8 @@
 
 [← back to Cohere](README.md)
 
+Questions 1–145 of 145.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is an embedding and why is it useful for representing text? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Cohere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-an-embedding-and-why-is-it-useful-for-representing-text-7094) |

@@ -2,6 +2,8 @@
 
 [← back to Ciena](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CDN/edge-compute decision affects perceived performance for a global audience. How do you decide, at portfolio level, what logic moves to the edge versus origin, and how do you profile the cost/latency frontier of edge compute? | expertise | SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at Telecom companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cdn-edge-compute-decision-affects-perceived-performance-for-a-global-39873) |

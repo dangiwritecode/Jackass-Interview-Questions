@@ -2,6 +2,8 @@
 
 [← back to Builder.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org wants an AI-assisted UI-generation pipeline that outputs production components — how do you architect the guardrails, design-token binding, and review gates so it doesn't drift from the design system? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Builder.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-wants-an-ai-assisted-ui-generation-pipeline-that-outputs-prod-40061) |

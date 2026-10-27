@@ -2,6 +2,8 @@
 
 [← back to SLURM](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide how the org handles cloud capacity for a training run that needs a large contiguous GPU cluster for days versus the steady inference fleet. How would you architect the sharing, preemption, and scheduling so neither starves the other? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at SLURM | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-how-the-org-handles-cloud-capacity-for-a-training-run--82812) |

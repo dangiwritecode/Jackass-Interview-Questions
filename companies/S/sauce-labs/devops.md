@@ -2,6 +2,8 @@
 
 [← back to Sauce Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is 'continuous testing' and how does it differ from testing only at the end? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | Asked at Sauce Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-continuous-testing-and-how-does-it-differ-from-testing-only-at-44798) |

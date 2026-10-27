@@ -2,6 +2,8 @@
 
 [← back to Vedantu](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must expose a public search endpoint. Threat-model it end to end: SQLi in the query, reflected XSS in results, CORS exposure of the JSON, and abuse/rate concerns. Present mitigations prioritized by risk. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Vedantu | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-expose-a-public-search-endpoint-threat-model-it-end-to-end-sq-19199) |

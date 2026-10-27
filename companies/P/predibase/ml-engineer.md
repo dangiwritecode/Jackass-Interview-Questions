@@ -2,6 +2,8 @@
 
 [← back to Predibase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe the architecture for serving thousands of LoRA post-trained adapters over a shared base model — how do you handle routing, batching, and cold starts? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Predibase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-architecture-for-serving-thousands-of-lora-post-trained-a-71288) |

@@ -2,6 +2,8 @@
 
 [← back to Redpanda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: your invalidation is exactly-once via a log. What is your architecture when a consumer replays the log from an old offset after a bug, re-issuing invalidations for keys that have since changed? How do you make replays safe? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Redpanda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-your-invalidation-is-exactly-once-via-a-log-what-i-38561) |

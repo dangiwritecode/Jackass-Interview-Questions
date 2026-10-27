@@ -2,6 +2,8 @@
 
 [← back to Urban Company](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A user complains their session dies exactly at 30 minutes despite activity. You use sliding expiration in Redis. What common bug (not refreshing TTL on read, or clock issues) causes this and how do you confirm it? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Urban Company | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-user-complains-their-session-dies-exactly-at-30-minutes-despite-acti-26167) |

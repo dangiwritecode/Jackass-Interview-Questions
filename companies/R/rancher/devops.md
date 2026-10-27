@@ -2,6 +2,8 @@
 
 [← back to Rancher](README.md)
 
+Questions 1–95 of 95.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal engineer proposes standardizing on Kubernetes as the only portability layer across clouds; where do you agree and where do you tell them that's a dangerous simplification? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | Asked at Rancher | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-engineer-proposes-standardizing-on-kubernetes-as-the-only--55232) |

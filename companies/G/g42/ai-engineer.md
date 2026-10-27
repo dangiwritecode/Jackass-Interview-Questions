@@ -2,6 +2,8 @@
 
 [← back to G42](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan spare capacity for a sovereign-AI deployment where you cannot burst to a public cloud during a spike? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | Asked at G42 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-spare-capacity-for-a-sovereign-ai-deployment-where-you-86695) |

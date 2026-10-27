@@ -2,6 +2,8 @@
 
 [← back to Behance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a photo gallery that supports both a masonry layout and a uniform grid — how do you compute layout without causing reflow jank? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Behance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-photo-gallery-that-supports-both-a-masonry-layout-and-a-unifo-21228) |

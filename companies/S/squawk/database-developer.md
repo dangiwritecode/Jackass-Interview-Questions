@@ -2,6 +2,8 @@
 
 [← back to Squawk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build an automated pre-flight advisor that estimates lock class, table-rewrite risk, and expected duration for any submitted migration before a human even reviews it? | expertise | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at Squawk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-an-automated-pre-flight-advisor-that-estimates-loc-114261) |

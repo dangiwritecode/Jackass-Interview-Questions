@@ -2,6 +2,8 @@
 
 [← back to Two Sigma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you architect the platform to keep its scheduling latency low as the job queue grows to hundreds of thousands of pending tasks? Where does a single scheduler's decision loop become the bottleneck, and how do you shard or two-level the scheduler without losing global fairness? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Two Sigma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-architect-the-platform-to-keep-its-schedulin-100705) |

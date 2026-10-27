@@ -2,6 +2,8 @@
 
 [← back to PwC India](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team classified an app as Retire but it's actually a compliance record-keeper; what governance would have caught this and how do you retrofit it mid-program? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at PwC India | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-classified-an-app-as-retire-but-it-s-actually-a-compliance-reco-56552) |

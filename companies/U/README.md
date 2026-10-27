@@ -4,7 +4,7 @@
 
 | Company | Tier | Questions Listed | Tagged Directly |
 |---|---|---:|---:|
-| [Uber](uber/README.md) | Tier 1 | 1,350 | 36,821 |
+| [Uber](uber/README.md) | Tier 1 | 39,713 | 36,821 |
 | [Ubisoft](ubisoft/README.md) | Tier 2 | 540 | 2 |
 | [UBS](ubs/README.md) | Tier 2 | 540 | 6 |
 | [Udaan](udaan/README.md) | Tier 3 | 540 | 1 |

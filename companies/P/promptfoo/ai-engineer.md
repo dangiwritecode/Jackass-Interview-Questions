@@ -2,6 +2,8 @@
 
 [← back to Promptfoo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you would design an automated regression suite that runs on every prompt change in CI. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Promptfoo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-would-design-an-automated-regression-suite-tha-79573) |

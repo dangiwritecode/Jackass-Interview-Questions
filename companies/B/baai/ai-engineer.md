@@ -2,6 +2,8 @@
 
 [← back to BAAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want to migrate from a hosted embedding API to a self-hosted open model to cut cost. Walk me through the validation and dual-index rollout so the agent's quality never drops. | deep understanding | SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | Asked at BAAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-migrate-from-a-hosted-embedding-api-to-a-self-hosted-open--78588) |

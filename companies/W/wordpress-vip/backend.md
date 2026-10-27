@@ -2,6 +2,8 @@
 
 [← back to WordPress-VIP](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a page cache versus an object cache in a web application? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at WordPress-VIP | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-page-cache-versus-an-object-cache-in-a-web-application-4986) |

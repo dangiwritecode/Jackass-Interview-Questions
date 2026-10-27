@@ -2,6 +2,8 @@
 
 [← back to Camunda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your incident-automation workflow spans five steps across services (diagnose, drain, scale, notify, verify) and a worker crashed after draining but before scaling. Explain how you'd make the workflow durable so it resumes from the drain step rather than re-draining, and the determinism constraints on the notify step. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Camunda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-incident-automation-workflow-spans-five-steps-across-services-dia-92933) |

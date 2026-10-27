@@ -2,6 +2,8 @@
 
 [← back to Tata 1mg](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the risk of asking a model for medical or legal advice from a prompt, and how would you word a safe disclaimer? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Tata 1mg | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-risk-of-asking-a-model-for-medical-or-legal-advice-from-a--76673) |

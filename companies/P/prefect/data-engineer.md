@@ -2,6 +2,8 @@
 
 [← back to Prefect](README.md)
 
+Questions 1–76 of 76.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cross-team data platform you sponsored — a self-service pipeline-authoring portal — is failing to gain adoption and sunk-cost pressure is real. How do you decide whether to double down, pivot, or kill it, and how do you communicate that across the teams involved? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Prefect | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cross-team-data-platform-you-sponsored-a-self-service-pipeline-autho-126181) |

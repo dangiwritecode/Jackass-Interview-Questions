@@ -2,6 +2,8 @@
 
 [← back to Shopee](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle multi-language product attributes in a conformed product dimension shared across India, SEA and EU regions without exploding the row count? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | Asked at Shopee | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-multi-language-product-attributes-in-a-conformed-pro-121408) |

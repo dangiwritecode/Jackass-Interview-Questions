@@ -2,6 +2,8 @@
 
 [← back to Cloudera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A long-running Spark job holds a dynamic DB lease that outlives its max_ttl and the job dies. Design a lease-lifecycle pattern for batch/streaming workloads that renew, checkpoint, or gracefully re-acquire. | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Cloudera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-long-running-spark-job-holds-a-dynamic-db-lease-that-outlives-its-ma-54963) |

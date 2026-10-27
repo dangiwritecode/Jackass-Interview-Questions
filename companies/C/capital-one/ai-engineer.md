@@ -2,6 +2,8 @@
 
 [← back to Capital-One](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: how would you decide the risk acceptability of a model that is more accurate on average but has worse worst-case error than the incumbent? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Capital-One | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-how-would-you-decide-the-risk-acceptability-of-a-86162) |

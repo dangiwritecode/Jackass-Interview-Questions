@@ -2,6 +2,8 @@
 
 [← back to Onehouse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle DR for a lakehouse table format (Iceberg/Delta/Hudi) where the metadata layer and the data files can diverge — recovering data files without a consistent metadata pointer gives you an unqueryable table. | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Onehouse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-dr-for-a-lakehouse-table-format-iceberg-delta-hudi-w-112917) |

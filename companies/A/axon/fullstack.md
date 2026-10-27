@@ -2,6 +2,8 @@
 
 [← back to Axon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: your enterprise adopted CQRS broadly and now every trivial CRUD screen has read and write models drifting apart. Diagnose where CQRS was over-applied and design the guardrail that keeps it to the contexts that genuinely need it. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Axon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-your-enterprise-adopted-cqrs-broadly-and-now-every-t-40726) |

@@ -2,6 +2,8 @@
 
 [← back to Gartner](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your board wants a single 'API maturity model' to rank all 200 services and gate promotions/funding on it. Design the rubric dimensions and defend why a rubric can be gamed — show the specific way teams would optimize the score without improving real DX or reliability. | deep understanding | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Gartner | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-board-wants-a-single-api-maturity-model-to-rank-all-200-services--40821) |

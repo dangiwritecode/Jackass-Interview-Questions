@@ -2,6 +2,8 @@
 
 [← back to Styra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a policy-as-code layer (OPA/Cedar) that enforces the same data-access rules across three clouds' native IAM systems without translating policies by hand? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Styra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-policy-as-code-layer-opa-cedar-that-enforces-th-127275) |

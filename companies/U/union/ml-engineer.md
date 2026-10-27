@@ -2,6 +2,8 @@
 
 [← back to Union](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a pipeline-orchestration backbone for ML (buy a managed pipeline service vs Kubeflow Pipelines/Metaflow/Flyte/Airflow) when it becomes the substrate every training and batch-scoring job runs on across the org? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Union | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-pipeline-orchestration-backbone-f-69787) |

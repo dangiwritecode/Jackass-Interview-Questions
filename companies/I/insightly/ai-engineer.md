@@ -2,6 +2,8 @@
 
 [← back to Insightly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you explain to a PM why 'temperature 0' does not mean 'always correct', separating determinism from accuracy? | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Insightly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-to-a-pm-why-temperature-0-does-not-mean-always-c-77974) |

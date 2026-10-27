@@ -2,6 +2,8 @@
 
 [← back to Grubhub](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your unit-economics dashboard shows cost-per-order rising, but nobody knows if it's mix shift, inefficiency, or a pricing change from the cloud vendor. Design the attribution and decomposition analysis that isolates the true driver. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Grubhub | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-unit-economics-dashboard-shows-cost-per-order-rising-but-nobody-k-37059) |

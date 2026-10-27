@@ -2,6 +2,8 @@
 
 [← back to LambdaTest](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Tell me about a time you had to lead the org's decision on how much to invest in automated testing infrastructure versus manual QA, when the numbers didn't obviously favor either. How did you make the strategic call? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at LambdaTest | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-s-decision-on-how-much-to-40456) |

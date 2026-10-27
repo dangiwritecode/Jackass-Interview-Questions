@@ -2,6 +2,8 @@
 
 [← back to Best Buy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff exists between running the exploratory/ad-hoc analytics workload on the same warehouse as the governed production pipelines (simplicity, no data copy) and isolating it in a separate compute pool (protection from runaway queries, extra cost). How do you scenario-test the isolation-vs-cost tension, and why do the two workloads need different response measures? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Best Buy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-exists-between-running-the-exploratory-ad-hoc-analytics-wor-125435) |

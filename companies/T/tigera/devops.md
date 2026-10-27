@@ -2,6 +2,8 @@
 
 [← back to Tigera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a multi-cluster networking / CNI layer (Cilium managed by Isovalent vs Calico Enterprise vs OSS + self-support) when cluster-mesh connectivity and network-policy enforcement span every workload? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Tigera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-multi-cluster-networking-cni-laye-53767) |

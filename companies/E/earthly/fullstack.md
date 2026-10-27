@@ -2,6 +2,8 @@
 
 [← back to Earthly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between building an image with BuildKit versus the legacy builder, and how do you enable BuildKit? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Earthly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-building-an-image-with-buildkit-versus--14277) |

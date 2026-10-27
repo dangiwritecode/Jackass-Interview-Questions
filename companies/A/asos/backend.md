@@ -2,6 +2,8 @@
 
 [← back to ASOS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're evolving a decade-old CP monolith datastore into domain-oriented services over three years using the strangler-fig pattern. Sequence the extraction so that at no cutover step do you accidentally weaken a consistency guarantee users depend on. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at ASOS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evolving-a-decade-old-cp-monolith-datastore-into-domain-oriente-32222) |

@@ -2,6 +2,8 @@
 
 [← back to Tekion](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you make an ML experiment reproducible for a teammate? | intermediate experience | Fresher | MLOps Basics | Phone Screen, Onsite | Tech | Asked at Tekion | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-make-an-ml-experiment-reproducible-for-a-teammate-61885) |

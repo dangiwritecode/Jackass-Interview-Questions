@@ -2,6 +2,8 @@
 
 [← back to NetSuite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Finance forecasts cloud spend with a flat YoY growth line and is off by 30% every quarter. Design a bottoms-up forecasting model driven by architecture and product signals, and explain how you'd reconcile it against the top-down finance model. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at NetSuite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=finance-forecasts-cloud-spend-with-a-flat-yoy-growth-line-and-is-off-b-37025) |

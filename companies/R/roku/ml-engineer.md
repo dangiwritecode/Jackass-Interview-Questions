@@ -2,6 +2,8 @@
 
 [← back to Roku](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you enforce a per-request inference latency budget in FastAPI so a slow model call is cancelled and a cheaper fallback model or cached prediction is returned instead? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Roku | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-enforce-a-per-request-inference-latency-budget-in-fastap-62895) |

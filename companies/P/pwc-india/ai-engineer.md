@@ -2,6 +2,8 @@
 
 [← back to PwC India](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design a golden eval harness owned centrally that every team's GraphRAG change must run against before release. | expertise | SDE-2/3, Architect/Principal | Advanced RAG (GraphRAG/Agentic RAG) | Phone Screen, Onsite | Tech | Asked at PwC India | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-a-golden-eval-harness-owned-centrally-that-e-85546) |

@@ -2,6 +2,8 @@
 
 [← back to Baseten](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must architect an LLM-inference gateway that batches requests across users applies per-key rate limits streams tokens and fairly schedules under GPU scarcity — how do you handle request queuing prompt-cache reuse and priority tiers without starving anyone? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Baseten | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-an-llm-inference-gateway-that-batches-requests-acro-39499) |

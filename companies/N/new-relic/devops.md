@@ -2,6 +2,8 @@
 
 [← back to New Relic](README.md)
 
+Questions 1–118 of 118.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cross-team architectural dispute: the observability team wants monitors co-located in each service's state (velocity), platform wants them central (consistency). As principal, adjudicate and design the split so a service teardown doesn't silently delete its own alerting, which is the exact moment you need the alert. | deep understanding | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at New Relic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cross-team-architectural-dispute-the-observability-team-wants-monito-53097) |

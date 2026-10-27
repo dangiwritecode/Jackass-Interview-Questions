@@ -2,6 +2,8 @@
 
 [← back to Coinbase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Argue whether drift detection should be a synchronous gate in the model CI/CD promotion pipeline or an asynchronous observability layer, and how you'd let both coexist by model tier. | deep understanding | SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Coinbase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-whether-drift-detection-should-be-a-synchronous-gate-in-the-mode-101135) |

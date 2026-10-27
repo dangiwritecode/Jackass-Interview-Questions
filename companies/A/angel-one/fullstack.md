@@ -2,6 +2,8 @@
 
 [← back to Angel One](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a real-time stock/crypto order-book streaming and matching system where market-data fan-out and order matching share infrastructure — how do you keep matching deterministic and low-latency while fanning out ticks to millions of retail clients? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Angel One | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-real-time-stock-crypto-order-book-streaming-and-matching-s-39440) |

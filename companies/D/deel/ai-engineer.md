@@ -2,6 +2,8 @@
 
 [← back to Deel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build a continuous eval that catches a silent quality regression introduced by a provider's model update you didn't control? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Deel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-continuous-eval-that-catches-a-silent-quality-re-86853) |

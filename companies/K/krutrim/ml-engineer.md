@@ -2,6 +2,8 @@
 
 [← back to Krutrim](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A scenario probes whether the platform can survive losing an entire GPU region mid-training within a defined RTO. During analysis you learn checkpoint-restore bandwidth and warm-standby GPU scarcity make the target physically impossible. How do you record and reframe the infeasible goal? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Krutrim | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-probes-whether-the-platform-can-survive-losing-an-entire-gp-69515) |

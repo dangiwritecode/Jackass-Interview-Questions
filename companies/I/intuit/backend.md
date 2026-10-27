@@ -2,6 +2,8 @@
 
 [← back to Intuit](README.md)
 
+Questions 1–93 of 93.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Conway's law is shaping your observability: each of 12 platform teams built its own dashboards, naming, and alerting conventions. How do you drive convergence on semantic conventions and a paved road without triggering a turf war, and what do you let teams keep? | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Intuit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=conway-s-law-is-shaping-your-observability-each-of-12-platform-teams-b-35113) |

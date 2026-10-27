@@ -2,6 +2,8 @@
 
 [← back to Guardrails AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A guardrail and the main model both need a GPU, but you only have one per node. Should they share via MIG, share a Pod, or run the guardrail on CPU? Walk through how you'd decide and the latency implications. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Guardrails AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-guardrail-and-the-main-model-both-need-a-gpu-but-you-only-have-one-p-77586) |

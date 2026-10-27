@@ -2,6 +2,8 @@
 
 [← back to Foursquare](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A workload needs geospatial queries at scale. How do you choose among PostGIS, a document store with geo indexes, a wide-column geohash scheme, and a purpose-built spatial engine? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Foursquare | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-workload-needs-geospatial-queries-at-scale-how-do-you-choose-among-p-114413) |

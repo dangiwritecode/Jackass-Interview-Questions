@@ -2,6 +2,8 @@
 
 [← back to LangChain](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the normalization degree for the metadata that governs an AI agent's tool and memory state at scale? | deep understanding | SDE-2/3, Architect/Principal | Normalization & Denormalization | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at LangChain | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-normalization-degree-for-the-metadata-that-gover-113411) |

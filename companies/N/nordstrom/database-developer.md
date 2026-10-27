@@ -2,6 +2,8 @@
 
 [← back to Nordstrom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal design deep-dive: architect a globally-distributed shopping cart + inventory hold where cart edits are eventual but the inventory decrement at checkout is strictly serializable. Where's the consensus boundary, and how do you prevent overselling during a flash sale? | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Retail companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-design-deep-dive-architect-a-globally-distributed-shopping-112191) |

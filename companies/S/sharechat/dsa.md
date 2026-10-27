@@ -2,6 +2,8 @@
 
 [← back to ShareChat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minutes for a Signal to Reach Every Node of a Binary Tree | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Breadth-First Search, Depth-First Search, Graph Traversal, Hash Table, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at ShareChat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minutes-for-a-signal-to-reach-every-node-of-a-binary-tree-d2242) |

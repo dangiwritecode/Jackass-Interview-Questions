@@ -2,6 +2,8 @@
 
 [← back to Nx](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a frontend build/CI platform that keeps CI under 10 minutes for a monorepo with 800 packages — caching, affected-graph builds, remote execution, and flaky-test quarantine. | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Nx | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-frontend-build-ci-platform-that-keeps-ci-under-10-minutes-for-40066) |

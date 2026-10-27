@@ -2,6 +2,8 @@
 
 [← back to Platform9](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the Container Runtime Interface (CRI) and why does it matter for Kubernetes portability? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Platform9 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-container-runtime-interface-cri-and-why-does-it-matter-for-14368) |

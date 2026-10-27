@@ -2,6 +2,8 @@
 
 [← back to PubMatic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Concurrent Rooms for Overlapping Bookings | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Heap (Priority Queue), Intervals, Prefix Sum, Sorting, Sweep Line, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at PubMatic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-concurrent-rooms-for-overlapping-bookings-d253) |

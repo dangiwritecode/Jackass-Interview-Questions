@@ -2,6 +2,8 @@
 
 [← back to Tigera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how conntrack works for a Linux host doing NAT/firewalling, why nf_conntrack_max exhaustion drops new connections with 'nf_conntrack: table full' in dmesg, and how you'd size it under high churn. | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tigera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-conntrack-works-for-a-linux-host-doing-nat-firewalling-why-26651) |

@@ -2,6 +2,8 @@
 
 [← back to OneTrust](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A scenario tests whether the system can add a new regulatory market (say EU data residency) without re-architecting. Walk through analyzing the multi-tenancy and data-partitioning sensitivity points this modifiability scenario exposes. | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at OneTrust | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-tests-whether-the-system-can-add-a-new-regulatory-market-sa-40545) |

@@ -2,6 +2,8 @@
 
 [← back to Fivetran](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team proposes routing all analytics-style reads to replicas. How do you evaluate whether that belongs on a replica versus a dedicated OLAP store or read model instead? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at Fivetran | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-proposes-routing-all-analytics-style-reads-to-replicas-how-do-y-115454) |

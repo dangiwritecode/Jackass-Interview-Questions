@@ -2,7 +2,7 @@
 
 - **Companies:** 2,246
 - **Questions in the bank:** 130,998
-- **Question entries listed here:** 1,278,582
+- **Question entries listed here:** 2,356,132
 
 ## Companies A-Z
 
@@ -35,7 +35,7 @@
 | [Abnormal Security](companies/A/abnormal-security/README.md) | Tier 3 | 540 | 1 |
 | [Abridge](companies/A/abridge/README.md) | Tier 4 | 540 | 3 |
 | [Acceldata](companies/A/acceldata/README.md) | Tier 3 | 540 | 25 |
-| [Accenture](companies/A/accenture/README.md) | Tier 5 | 1,319 | 15,784 |
+| [Accenture](companies/A/accenture/README.md) | Tier 5 | 16,780 | 15,784 |
 | [Accolite](companies/A/accolite/README.md) | Tier 4 | 540 | 9 |
 | [AccuWeather](companies/A/accuweather/README.md) | Tier 3 | 540 | 4 |
 | [ACKO](companies/A/acko/README.md) | Tier 3 | 540 | 8 |
@@ -52,9 +52,9 @@
 | [Adidas](companies/A/adidas/README.md) | Tier 3 | 540 | 1 |
 | [Aditya Birla](companies/A/aditya-birla/README.md) | Tier 4 | 540 | 6 |
 | [Adjust](companies/A/adjust/README.md) | Tier 3 | 540 | 1 |
-| [Adobe](companies/A/adobe/README.md) | Tier 2 | 1,200 | 4,361 |
+| [Adobe](companies/A/adobe/README.md) | Tier 2 | 5,190 | 4,361 |
 | [ADP](companies/A/adp/README.md) | Tier 2 | 540 | 2 |
-| [Adyen](companies/A/adyen/README.md) | Tier 2 | 815 | 951 |
+| [Adyen](companies/A/adyen/README.md) | Tier 2 | 1,151 | 951 |
 | [Aegon](companies/A/aegon/README.md) | Tier 3 | 540 | 1 |
 | [Aerospike](companies/A/aerospike/README.md) | Tier 3 | 540 | 61 |
 | [Aetna](companies/A/aetna/README.md) | Tier 3 | 540 | 31 |
@@ -65,9 +65,9 @@
 | [AI21 Labs](companies/A/ai21-labs/README.md) | Tier 3 | 540 | 24 |
 | [AI4Bharat](companies/A/ai4bharat/README.md) | Tier 4 | 540 | 10 |
 | [Aidoc](companies/A/aidoc/README.md) | Tier 3 | 540 | 2 |
-| [Airbnb](companies/A/airbnb/README.md) | Tier 1 | 1,189 | 3,741 |
+| [Airbnb](companies/A/airbnb/README.md) | Tier 1 | 3,848 | 3,741 |
 | [Airbus](companies/A/airbus/README.md) | Tier 2 | 540 | 12 |
-| [Airbyte](companies/A/airbyte/README.md) | Tier 3 | 630 | 507 |
+| [Airbyte](companies/A/airbyte/README.md) | Tier 3 | 936 | 507 |
 | [Airplane](companies/A/airplane/README.md) | Tier 4 | 540 | 2 |
 | [Airship](companies/A/airship/README.md) | Tier 3 | 540 | 1 |
 | [Airtable](companies/A/airtable/README.md) | Tier 2 | 540 | 100 |
@@ -75,16 +75,16 @@
 | [Airwallex](companies/A/airwallex/README.md) | Tier 3 | 540 | 2 |
 | [Aiven](companies/A/aiven/README.md) | Tier 3 | 540 | 38 |
 | [Ajio](companies/A/ajio/README.md) | Tier 3 | 540 | 73 |
-| [Akamai](companies/A/akamai/README.md) | Tier 2 | 828 | 1,207 |
+| [Akamai](companies/A/akamai/README.md) | Tier 2 | 1,629 | 1,207 |
 | [Akeneo](companies/A/akeneo/README.md) | Tier 3 | 540 | 1 |
 | [Akeyless](companies/A/akeyless/README.md) | Tier 3 | 540 | 11 |
 | [Akuity](companies/A/akuity/README.md) | Tier 3 | 559 | 87 |
 | [Akuna Capital](companies/A/akuna-capital/README.md) | Tier 2 | 540 | 16 |
 | [Alation](companies/A/alation/README.md) | Tier 4 | 540 | 87 |
 | [Aleph-Alpha](companies/A/aleph-alpha/README.md) | Tier 3 | 540 | 5 |
-| [Algolia](companies/A/algolia/README.md) | Tier 3 | 661 | 366 |
+| [Algolia](companies/A/algolia/README.md) | Tier 3 | 698 | 366 |
 | [Algorithmia](companies/A/algorithmia/README.md) | Tier 3 | 540 | 1 |
-| [Alibaba](companies/A/alibaba/README.md) | Tier 1 | 630 | 316 |
+| [Alibaba](companies/A/alibaba/README.md) | Tier 1 | 690 | 316 |
 | [Alibaba Cloud](companies/A/alibaba-cloud/README.md) | Tier 2 | 540 | 7 |
 | [Alipay](companies/A/alipay/README.md) | Tier 1 | 540 | 1 |
 | [Allen Institute](companies/A/allen-institute/README.md) | Tier 3 | 540 | 1 |
@@ -97,7 +97,7 @@
 | [Alteryx](companies/A/alteryx/README.md) | Tier 3 | 540 | 2 |
 | [Altimetrik](companies/A/altimetrik/README.md) | Tier 4 | 540 | 2 |
 | [Amadeus](companies/A/amadeus/README.md) | Tier 3 | 540 | 7 |
-| [Amazon](companies/A/amazon/README.md) | Tier 1 | 1,350 | 65,123 |
+| [Amazon](companies/A/amazon/README.md) | Tier 1 | 71,748 | 65,123 |
 | [Ambassador Labs](companies/A/ambassador-labs/README.md) | Tier 3 | 540 | 11 |
 | [AMD](companies/A/amd/README.md) | Tier 2 | 540 | 133 |
 | [Amdocs](companies/A/amdocs/README.md) | Tier 4 | 540 | 3 |
@@ -113,21 +113,21 @@
 | [Anduril Industries](companies/A/anduril-industries/README.md) | Tier 2 | 540 | 43 |
 | [Angel One](companies/A/angel-one/README.md) | Tier 3 | 540 | 20 |
 | [Anjuna](companies/A/anjuna/README.md) | Tier 4 | 540 | 14 |
-| [Anodot](companies/A/anodot/README.md) | Tier 3 | 630 | 200 |
+| [Anodot](companies/A/anodot/README.md) | Tier 3 | 676 | 200 |
 | [Anomalo](companies/A/anomalo/README.md) | Tier 3 | 540 | 30 |
 | [Ant Group](companies/A/ant-group/README.md) | Tier 1 | 540 | 5 |
 | [Anthem](companies/A/anthem/README.md) | Tier 2 | 540 | 12 |
-| [Anthropic](companies/A/anthropic/README.md) | Tier 1 | 1,060 | 10,793 |
+| [Anthropic](companies/A/anthropic/README.md) | Tier 1 | 11,445 | 10,793 |
 | [Antithesis](companies/A/antithesis/README.md) | Tier 4 | 540 | 1 |
 | [AntMedia](companies/A/antmedia/README.md) | Tier 3 | 540 | 1 |
-| [AnyScale](companies/A/anyscale/README.md) | Tier 2 | 720 | 1,153 |
+| [AnyScale](companies/A/anyscale/README.md) | Tier 2 | 1,528 | 1,153 |
 | [Anysphere](companies/A/anysphere/README.md) | Tier 2 | 540 | 2 |
 | [Anyword](companies/A/anyword/README.md) | Tier 4 | 540 | 1 |
 | [Aon](companies/A/aon/README.md) | Tier 3 | 540 | 3 |
 | [Apify](companies/A/apify/README.md) | Tier 4 | 540 | 1 |
 | [Apiiro](companies/A/apiiro/README.md) | Tier 3 | 540 | 3 |
 | [Apna](companies/A/apna/README.md) | Tier 3 | 540 | 1 |
-| [Apollo](companies/A/apollo/README.md) | Tier 3 | 630 | 274 |
+| [Apollo](companies/A/apollo/README.md) | Tier 3 | 731 | 274 |
 | [Apollo 24/7](companies/A/apollo-24-7/README.md) | Tier 3 | 540 | 1 |
 | [Apollo GraphQL](companies/A/apollo-graphql/README.md) | Tier 3 | 540 | 24 |
 | [Apollo-Hospitals](companies/A/apollo-hospitals/README.md) | Tier 3 | 540 | 4 |
@@ -137,7 +137,7 @@
 | [Appen](companies/A/appen/README.md) | Tier 3 | 540 | 44 |
 | [AppFolio](companies/A/appfolio/README.md) | Tier 3 | 540 | 3 |
 | [Appian](companies/A/appian/README.md) | Tier 3 | 540 | 1 |
-| [Apple](companies/A/apple/README.md) | Tier 1 | 1,050 | 1,585 |
+| [Apple](companies/A/apple/README.md) | Tier 1 | 1,671 | 1,585 |
 | [Applied Intuition](companies/A/applied-intuition/README.md) | Tier 2 | 540 | 10 |
 | [AppLovin](companies/A/applovin/README.md) | Tier 2 | 540 | 8 |
 | [AppNexus](companies/A/appnexus/README.md) | Tier 3 | 540 | 2 |
@@ -146,7 +146,7 @@
 | [AppSync](companies/A/appsync/README.md) | Tier 2 | 540 | 1 |
 | [AQR Capital Management](companies/A/aqr-capital-management/README.md) | Tier 2 | 540 | 4 |
 | [Aqua](companies/A/aqua/README.md) | Tier 2 | 540 | 17 |
-| [Aqua Security](companies/A/aqua-security/README.md) | Tier 3 | 630 | 193 |
+| [Aqua Security](companies/A/aqua-security/README.md) | Tier 3 | 632 | 193 |
 | [ArangoDB](companies/A/arangodb/README.md) | Tier 4 | 540 | 13 |
 | [Arcesium](companies/A/arcesium/README.md) | Tier 2 | 540 | 12 |
 | [Archer](companies/A/archer/README.md) | Tier 3 | 540 | 1 |
@@ -154,7 +154,7 @@
 | [Argilla](companies/A/argilla/README.md) | Tier 3 | 540 | 7 |
 | [Ariga-Atlas](companies/A/ariga-atlas/README.md) | Tier 3 | 540 | 3 |
 | [Arista Networks](companies/A/arista-networks/README.md) | Tier 2 | 540 | 87 |
-| [Arize](companies/A/arize/README.md) | Tier 3 | 802 | 700 |
+| [Arize](companies/A/arize/README.md) | Tier 3 | 1,049 | 700 |
 | [Arkose](companies/A/arkose/README.md) | Tier 3 | 540 | 1 |
 | [Arm](companies/A/arm/README.md) | Tier 2 | 540 | 59 |
 | [ARMO/Kubescape](companies/A/armo-kubescape/README.md) | Tier 4 | 540 | 1 |
@@ -171,13 +171,13 @@
 | [Aspect/Bazel](companies/A/aspect-bazel/README.md) | Tier 3 | 540 | 1 |
 | [AssemblyAI](companies/A/assemblyai/README.md) | Tier 3 | 540 | 15 |
 | [Astral](companies/A/astral/README.md) | Tier 2 | 540 | 8 |
-| [Astronomer](companies/A/astronomer/README.md) | Tier 3 | 630 | 638 |
+| [Astronomer](companies/A/astronomer/README.md) | Tier 3 | 982 | 638 |
 | [AT&T](companies/A/at-t/README.md) | Tier 3 | 540 | 10 |
 | [Ataccama](companies/A/ataccama/README.md) | Tier 3 | 540 | 10 |
 | [athenahealth](companies/A/athenahealth/README.md) | — | 1 | 1 |
 | [Ather](companies/A/ather/README.md) | Tier 3 | 540 | 11 |
-| [Atlan](companies/A/atlan/README.md) | Tier 3 | 630 | 256 |
-| [Atlassian](companies/A/atlassian/README.md) | Tier 2 | 1,260 | 12,484 |
+| [Atlan](companies/A/atlan/README.md) | Tier 3 | 700 | 256 |
+| [Atlassian](companies/A/atlassian/README.md) | Tier 2 | 15,080 | 12,484 |
 | [Atomikos](companies/A/atomikos/README.md) | Tier 3 | 540 | 1 |
 | [Atos](companies/A/atos/README.md) | Tier 3 | 540 | 1 |
 | [AtScale](companies/A/atscale/README.md) | Tier 4 | 540 | 14 |
@@ -185,7 +185,7 @@
 | [Attentive](companies/A/attentive/README.md) | Tier 3 | 540 | 6 |
 | [AuditBoard](companies/A/auditboard/README.md) | Tier 3 | 540 | 2 |
 | [Aurora](companies/A/aurora/README.md) | Tier 2 | 540 | 32 |
-| [Auth0](companies/A/auth0/README.md) | Tier 2 | 720 | 540 |
+| [Auth0](companies/A/auth0/README.md) | Tier 2 | 1,027 | 540 |
 | [Authzed](companies/A/authzed/README.md) | Tier 4 | 540 | 6 |
 | [Autodesk](companies/A/autodesk/README.md) | Tier 2 | 540 | 45 |
 | [Automation Anywhere](companies/A/automation-anywhere/README.md) | Tier 3 | 540 | 1 |
@@ -227,7 +227,7 @@
 | [Barclays](companies/B/barclays/README.md) | Tier 2 | 592 | 229 |
 | [Barracuda](companies/B/barracuda/README.md) | Tier 4 | 540 | 1 |
 | [Basecamp](companies/B/basecamp/README.md) | Tier 3 | 540 | 28 |
-| [Baseten](companies/B/baseten/README.md) | Tier 3 | 720 | 811 |
+| [Baseten](companies/B/baseten/README.md) | Tier 3 | 1,201 | 811 |
 | [Basho](companies/B/basho/README.md) | Tier 3 | 540 | 2 |
 | [Basho-Riak](companies/B/basho-riak/README.md) | Tier 3 | 540 | 1 |
 | [Basis Theory](companies/B/basis-theory/README.md) | Tier 4 | 540 | 2 |
@@ -247,7 +247,7 @@
 | [BigCommerce](companies/B/bigcommerce/README.md) | Tier 3 | 540 | 1 |
 | [Bigeye](companies/B/bigeye/README.md) | Tier 4 | 540 | 25 |
 | [BigID](companies/B/bigid/README.md) | Tier 4 | 540 | 62 |
-| [BigPanda](companies/B/bigpanda/README.md) | Tier 3 | 630 | 1,652 |
+| [BigPanda](companies/B/bigpanda/README.md) | Tier 3 | 2,129 | 1,652 |
 | [Binance](companies/B/binance/README.md) | Tier 2 | 540 | 13 |
 | [Bishop-Fox](companies/B/bishop-fox/README.md) | Tier 3 | 540 | 1 |
 | [BitGo](companies/B/bitgo/README.md) | Tier 3 | 540 | 10 |
@@ -265,7 +265,7 @@
 | [Blinkit](companies/B/blinkit/README.md) | Tier 3 | 540 | 95 |
 | [Blizzard](companies/B/blizzard/README.md) | Tier 1 | 540 | 1 |
 | [Block](companies/B/block/README.md) | Tier 2 | 540 | 14 |
-| [Bloomberg](companies/B/bloomberg/README.md) | Tier 2 | 935 | 2,005 |
+| [Bloomberg](companies/B/bloomberg/README.md) | Tier 2 | 2,438 | 2,005 |
 | [BloombergGPT](companies/B/bloomberggpt/README.md) | Tier 2 | 540 | 2 |
 | [Blue Prism](companies/B/blue-prism/README.md) | Tier 3 | 540 | 1 |
 | [Blue Yonder](companies/B/blue-yonder/README.md) | Tier 3 | 540 | 6 |
@@ -280,7 +280,7 @@
 | [Bobsled](companies/B/bobsled/README.md) | Tier 4 | 540 | 2 |
 | [Boeing](companies/B/boeing/README.md) | Tier 2 | 540 | 5 |
 | [Bolt](companies/B/bolt/README.md) | Tier 2 | 540 | 17 |
-| [Booking.com](companies/B/booking-com/README.md) | Tier 2 | 1,061 | 1,719 |
+| [Booking.com](companies/B/booking-com/README.md) | Tier 2 | 1,880 | 1,719 |
 | [BookMyShow](companies/B/bookmyshow/README.md) | Tier 3 | 587 | 180 |
 | [Boomi](companies/B/boomi/README.md) | Tier 3 | 540 | 2 |
 | [Booz-Allen](companies/B/booz-allen/README.md) | Tier 2 | 540 | 29 |
@@ -289,7 +289,7 @@
 | [Box](companies/B/box/README.md) | Tier 3 | 540 | 72 |
 | [Box8](companies/B/box8/README.md) | Tier 4 | 540 | 1 |
 | [BP](companies/B/bp/README.md) | Tier 2 | 540 | 3 |
-| [Braintrust](companies/B/braintrust/README.md) | Tier 3 | 630 | 337 |
+| [Braintrust](companies/B/braintrust/README.md) | Tier 3 | 759 | 337 |
 | [Branch International](companies/B/branch-international/README.md) | Tier 4 | 540 | 2 |
 | [Brave](companies/B/brave/README.md) | Tier 3 | 540 | 12 |
 | [Braze](companies/B/braze/README.md) | Tier 2 | 540 | 24 |
@@ -301,7 +301,7 @@
 | [British Airways/IAG](companies/B/british-airways-iag/README.md) | Tier 2 | 540 | 2 |
 | [Britive](companies/B/britive/README.md) | Tier 3 | 540 | 1 |
 | [Broad-Institute](companies/B/broad-institute/README.md) | Tier 2 | 540 | 1 |
-| [Broadcom](companies/B/broadcom/README.md) | Tier 2 | 789 | 1,007 |
+| [Broadcom](companies/B/broadcom/README.md) | Tier 2 | 1,314 | 1,007 |
 | [Broadridge](companies/B/broadridge/README.md) | Tier 3 | 540 | 2 |
 | [Browserbase](companies/B/browserbase/README.md) | Tier 4 | 540 | 5 |
 | [Browserless](companies/B/browserless/README.md) | Tier 3 | 540 | 2 |
@@ -321,7 +321,7 @@
 | [Busuu](companies/B/busuu/README.md) | Tier 4 | 540 | 1 |
 | [Byju's](companies/B/byju-s/README.md) | Tier 3 | 540 | 44 |
 | [Bytebase](companies/B/bytebase/README.md) | Tier 4 | 540 | 6 |
-| [ByteDance](companies/B/bytedance/README.md) | Tier 1 | 630 | 477 |
+| [ByteDance](companies/B/bytedance/README.md) | Tier 1 | 773 | 477 |
 
 [↑ back to A-Z](#companies-a-z)
 
@@ -336,9 +336,9 @@
 | [Canonical](companies/C/canonical/README.md) | Tier 3 | 582 | 148 |
 | [Canva](companies/C/canva/README.md) | Tier 2 | 628 | 231 |
 | [Cape Privacy](companies/C/cape-privacy/README.md) | Tier 4 | 540 | 1 |
-| [Capgemini](companies/C/capgemini/README.md) | Tier 5 | 1,260 | 9,963 |
+| [Capgemini](companies/C/capgemini/README.md) | Tier 5 | 10,431 | 9,963 |
 | [Capital-Float](companies/C/capital-float/README.md) | Tier 4 | 540 | 1 |
-| [Capital-One](companies/C/capital-one/README.md) | Tier 1 | 655 | 474 |
+| [Capital-One](companies/C/capital-one/README.md) | Tier 1 | 716 | 474 |
 | [Carahsoft](companies/C/carahsoft/README.md) | Tier 4 | 540 | 1 |
 | [Cars24](companies/C/cars24/README.md) | Tier 3 | 540 | 7 |
 | [Carta](companies/C/carta/README.md) | Tier 3 | 540 | 5 |
@@ -367,7 +367,7 @@
 | [CGI-Federal](companies/C/cgi-federal/README.md) | Tier 3 | 540 | 1 |
 | [Chai Point](companies/C/chai-point/README.md) | Tier 4 | 540 | 1 |
 | [Chainalysis](companies/C/chainalysis/README.md) | Tier 3 | 540 | 8 |
-| [Chainguard](companies/C/chainguard/README.md) | Tier 3 | 633 | 453 |
+| [Chainguard](companies/C/chainguard/README.md) | Tier 3 | 795 | 453 |
 | [Chainlink](companies/C/chainlink/README.md) | Tier 3 | 540 | 1 |
 | [Chakra-UI](companies/C/chakra-ui/README.md) | Tier 4 | 540 | 3 |
 | [Chalk](companies/C/chalk/README.md) | Tier 4 | 540 | 2 |
@@ -376,7 +376,7 @@
 | [Chaos Search](companies/C/chaos-search/README.md) | Tier 4 | 540 | 1 |
 | [ChaosNative](companies/C/chaosnative/README.md) | Tier 3 | 540 | 4 |
 | [Character AI](companies/C/character-ai/README.md) | Tier 2 | 576 | 131 |
-| [Chargebee](companies/C/chargebee/README.md) | Tier 4 | 738 | 471 |
+| [Chargebee](companies/C/chargebee/README.md) | Tier 4 | 854 | 471 |
 | [Charles Schwab](companies/C/charles-schwab/README.md) | Tier 3 | 540 | 3 |
 | [Charles/Proxyman](companies/C/charles-proxyman/README.md) | Tier 4 | 540 | 1 |
 | [Checkly](companies/C/checkly/README.md) | Tier 3 | 540 | 9 |
@@ -390,16 +390,16 @@
 | [Chingari](companies/C/chingari/README.md) | Tier 4 | 540 | 1 |
 | [Chroma](companies/C/chroma/README.md) | Tier 3 | 600 | 120 |
 | [Chromatic](companies/C/chromatic/README.md) | Tier 3 | 540 | 6 |
-| [Chronosphere](companies/C/chronosphere/README.md) | Tier 3 | 639 | 1,032 |
+| [Chronosphere](companies/C/chronosphere/README.md) | Tier 3 | 1,388 | 1,032 |
 | [CIBIL](companies/C/cibil/README.md) | Tier 3 | 540 | 4 |
 | [Ciena](companies/C/ciena/README.md) | Tier 3 | 540 | 2 |
 | [Cigna](companies/C/cigna/README.md) | Tier 2 | 540 | 29 |
-| [Cilium](companies/C/cilium/README.md) | Tier 3 | 654 | 412 |
+| [Cilium](companies/C/cilium/README.md) | Tier 3 | 777 | 412 |
 | [Cilium-maintainer-cos](companies/C/cilium-maintainer-cos/README.md) | Tier 2 | 540 | 1 |
 | [Circle](companies/C/circle/README.md) | Tier 3 | 540 | 3 |
 | [CircleCI](companies/C/circleci/README.md) | Tier 3 | 625 | 238 |
 | [Circonus](companies/C/circonus/README.md) | Tier 3 | 540 | 1 |
-| [Cisco](companies/C/cisco/README.md) | Tier 2 | 902 | 1,828 |
+| [Cisco](companies/C/cisco/README.md) | Tier 2 | 2,130 | 1,828 |
 | [Citadel](companies/C/citadel/README.md) | Tier 1 | 559 | 122 |
 | [Citi](companies/C/citi/README.md) | Tier 2 | 541 | 99 |
 | [Citibank](companies/C/citibank/README.md) | Tier 2 | 540 | 8 |
@@ -417,7 +417,7 @@
 | [Clerk](companies/C/clerk/README.md) | Tier 3 | 540 | 3 |
 | [Cleveland Clinic](companies/C/cleveland-clinic/README.md) | Tier 1 | 540 | 1 |
 | [CleverTap](companies/C/clevertap/README.md) | Tier 3 | 540 | 51 |
-| [ClickHouse](companies/C/clickhouse/README.md) | Tier 3 | 666 | 468 |
+| [ClickHouse](companies/C/clickhouse/README.md) | Tier 3 | 748 | 468 |
 | [ClickUp](companies/C/clickup/README.md) | Tier 3 | 540 | 9 |
 | [Close](companies/C/close/README.md) | Tier 4 | 540 | 1 |
 | [Cloud Carbon Footprint](companies/C/cloud-carbon-footprint/README.md) | Tier 4 | 540 | 1 |
@@ -426,8 +426,8 @@
 | [Cloudability-Apptio](companies/C/cloudability-apptio/README.md) | Tier 3 | 540 | 1 |
 | [CloudAMQP](companies/C/cloudamqp/README.md) | Tier 4 | 540 | 7 |
 | [CloudBees](companies/C/cloudbees/README.md) | Tier 3 | 540 | 26 |
-| [Cloudera](companies/C/cloudera/README.md) | Tier 3 | 683 | 1,376 |
-| [Cloudflare](companies/C/cloudflare/README.md) | Tier 1 | 1,240 | 14,549 |
+| [Cloudera](companies/C/cloudera/README.md) | Tier 3 | 1,591 | 1,376 |
+| [Cloudflare](companies/C/cloudflare/README.md) | Tier 1 | 16,062 | 14,549 |
 | [Cloudinary](companies/C/cloudinary/README.md) | Tier 3 | 540 | 69 |
 | [CloudNativePG](companies/C/cloudnativepg/README.md) | Tier 3 | 540 | 6 |
 | [Cloudreach](companies/C/cloudreach/README.md) | Tier 3 | 540 | 1 |
@@ -438,7 +438,7 @@
 | [Coalesce](companies/C/coalesce/README.md) | Tier 4 | 540 | 2 |
 | [Coalfire](companies/C/coalfire/README.md) | Tier 3 | 542 | 62 |
 | [Coca-Cola](companies/C/coca-cola/README.md) | Tier 3 | 540 | 5 |
-| [CockroachDB](companies/C/cockroachdb/README.md) | Tier 3 | 823 | 1,660 |
+| [CockroachDB](companies/C/cockroachdb/README.md) | Tier 3 | 1,950 | 1,660 |
 | [Coda](companies/C/coda/README.md) | Tier 3 | 540 | 41 |
 | [Codefresh](companies/C/codefresh/README.md) | Tier 3 | 540 | 40 |
 | [Codeium](companies/C/codeium/README.md) | Tier 4 | 540 | 5 |
@@ -446,13 +446,13 @@
 | [Codesandbox](companies/C/codesandbox/README.md) | Tier 3 | 540 | 3 |
 | [CodeScene](companies/C/codescene/README.md) | Tier 3 | 540 | 1 |
 | [Coforge](companies/C/coforge/README.md) | Tier 3 | 540 | 77 |
-| [Cognition Technologies](companies/C/cognition-technologies/README.md) | Tier 2 | 630 | 207 |
-| [Cognizant](companies/C/cognizant/README.md) | Tier 5 | 1,260 | 24,802 |
-| [Cohere](companies/C/cohere/README.md) | Tier 2 | 909 | 6,623 |
+| [Cognition Technologies](companies/C/cognition-technologies/README.md) | Tier 2 | 653 | 207 |
+| [Cognizant](companies/C/cognizant/README.md) | Tier 5 | 27,195 | 24,802 |
+| [Cohere](companies/C/cohere/README.md) | Tier 2 | 6,925 | 6,623 |
 | [Cohesity](companies/C/cohesity/README.md) | Tier 2 | 540 | 44 |
-| [Coinbase](companies/C/coinbase/README.md) | Tier 2 | 920 | 966 |
+| [Coinbase](companies/C/coinbase/README.md) | Tier 2 | 1,147 | 966 |
 | [CoinDCX](companies/C/coindcx/README.md) | Tier 3 | 540 | 2 |
-| [Collibra](companies/C/collibra/README.md) | Tier 3 | 653 | 346 |
+| [Collibra](companies/C/collibra/README.md) | Tier 3 | 691 | 346 |
 | [Comcast](companies/C/comcast/README.md) | Tier 3 | 540 | 64 |
 | [Comet](companies/C/comet/README.md) | Tier 3 | 596 | 140 |
 | [CometML](companies/C/cometml/README.md) | Tier 3 | 540 | 1 |
@@ -466,7 +466,7 @@
 | [Confident-AI](companies/C/confident-ai/README.md) | Tier 3 | 540 | 12 |
 | [ConfigCat](companies/C/configcat/README.md) | Tier 4 | 540 | 2 |
 | [ConfirmTkt](companies/C/confirmtkt/README.md) | Tier 4 | 540 | 1 |
-| [Confluent](companies/C/confluent/README.md) | Tier 2 | 1,260 | 17,491 |
+| [Confluent](companies/C/confluent/README.md) | Tier 2 | 18,559 | 17,491 |
 | [Consensus](companies/C/consensus/README.md) | Tier 3 | 540 | 2 |
 | [ConsenSys](companies/C/consensys/README.md) | Tier 3 | 540 | 2 |
 | [Consilient](companies/C/consilient/README.md) | Tier 3 | 540 | 1 |
@@ -481,7 +481,7 @@
 | [Copy.ai](companies/C/copy-ai/README.md) | Tier 4 | 540 | 2 |
 | [Copyleaks](companies/C/copyleaks/README.md) | Tier 4 | 540 | 1 |
 | [Coralogix](companies/C/coralogix/README.md) | Tier 4 | 540 | 25 |
-| [CoreWeave](companies/C/coreweave/README.md) | Tier 2 | 720 | 608 |
+| [CoreWeave](companies/C/coreweave/README.md) | Tier 2 | 971 | 608 |
 | [Cornami](companies/C/cornami/README.md) | Tier 3 | 540 | 1 |
 | [Cornelis](companies/C/cornelis/README.md) | Tier 3 | 540 | 1 |
 | [Cosmonic](companies/C/cosmonic/README.md) | Tier 4 | 540 | 5 |
@@ -492,13 +492,13 @@
 | [Coursera](companies/C/coursera/README.md) | Tier 2 | 540 | 61 |
 | [Coveo](companies/C/coveo/README.md) | Tier 3 | 540 | 11 |
 | [Craft](companies/C/craft/README.md) | Tier 4 | 540 | 1 |
-| [CRED](companies/C/cred/README.md) | Tier 2 | 1,260 | 28,040 |
+| [CRED](companies/C/cred/README.md) | Tier 2 | 32,199 | 28,040 |
 | [Credit Suisse](companies/C/credit-suisse/README.md) | Tier 2 | 540 | 1 |
 | [Credo AI](companies/C/credo-ai/README.md) | Tier 4 | 540 | 25 |
 | [Cresta](companies/C/cresta/README.md) | Tier 3 | 540 | 12 |
 | [Crew](companies/C/crew/README.md) | Tier 2 | 540 | 1 |
 | [crewAI](companies/C/crewai/README.md) | Tier 3 | 582 | 110 |
-| [Cribl](companies/C/cribl/README.md) | Tier 4 | 630 | 239 |
+| [Cribl](companies/C/cribl/README.md) | Tier 4 | 705 | 239 |
 | [Cricbuzz](companies/C/cricbuzz/README.md) | Tier 3 | 540 | 3 |
 | [Criteo](companies/C/criteo/README.md) | Tier 2 | 540 | 92 |
 | [Croma](companies/C/croma/README.md) | Tier 3 | 540 | 6 |
@@ -543,8 +543,8 @@
 | [Darwinbox](companies/D/darwinbox/README.md) | Tier 3 | 540 | 10 |
 | [Dashworks](companies/D/dashworks/README.md) | Tier 4 | 540 | 2 |
 | [Dassault](companies/D/dassault/README.md) | Tier 3 | 540 | 1 |
-| [Databricks](companies/D/databricks/README.md) | Tier 2 | 1,260 | 26,929 |
-| [Datadog](companies/D/datadog/README.md) | Tier 2 | 1,260 | 26,174 |
+| [Databricks](companies/D/databricks/README.md) | Tier 2 | 27,506 | 26,929 |
+| [Datadog](companies/D/datadog/README.md) | Tier 2 | 27,217 | 26,174 |
 | [Datadome](companies/D/datadome/README.md) | Tier 3 | 540 | 2 |
 | [Datafold](companies/D/datafold/README.md) | Tier 3 | 540 | 20 |
 | [Dataiku](companies/D/dataiku/README.md) | Tier 3 | 540 | 2 |
@@ -559,7 +559,7 @@
 | [Daytona](companies/D/daytona/README.md) | Tier 4 | 540 | 2 |
 | [Dazn](companies/D/dazn/README.md) | Tier 2 | 540 | 6 |
 | [DBS](companies/D/dbs/README.md) | Tier 2 | 540 | 2 |
-| [dbt Labs](companies/D/dbt-labs/README.md) | Tier 3 | 719 | 1,523 |
+| [dbt Labs](companies/D/dbt-labs/README.md) | Tier 3 | 1,836 | 1,523 |
 | [DE Shaw](companies/D/de-shaw/README.md) | Tier 1 | 573 | 155 |
 | [Decagon](companies/D/decagon/README.md) | Tier 3 | 540 | 14 |
 | [Decathlon](companies/D/decathlon/README.md) | Tier 2 | 540 | 1 |
@@ -578,11 +578,11 @@
 | [Delivery Hero](companies/D/delivery-hero/README.md) | Tier 2 | 540 | 39 |
 | [Dell Boomi](companies/D/dell-boomi/README.md) | Tier 2 | 540 | 2 |
 | [Dell Technologies](companies/D/dell-technologies/README.md) | Tier 3 | 540 | 82 |
-| [Deloitte](companies/D/deloitte/README.md) | Tier 3 | 940 | 1,313 |
+| [Deloitte](companies/D/deloitte/README.md) | Tier 3 | 1,396 | 1,313 |
 | [Delphix](companies/D/delphix/README.md) | Tier 4 | 540 | 15 |
 | [Delta](companies/D/delta/README.md) | Tier 2 | 540 | 3 |
 | [DeltaX](companies/D/deltax/README.md) | Tier 4 | 540 | 3 |
-| [Deno](companies/D/deno/README.md) | Tier 4 | 630 | 188 |
+| [Deno](companies/D/deno/README.md) | Tier 4 | 644 | 188 |
 | [Denodo](companies/D/denodo/README.md) | Tier 3 | 540 | 5 |
 | [Densify](companies/D/densify/README.md) | Tier 4 | 540 | 5 |
 | [Depot](companies/D/depot/README.md) | Tier 4 | 540 | 11 |
@@ -608,10 +608,10 @@
 | [Digimarc](companies/D/digimarc/README.md) | Tier 3 | 540 | 1 |
 | [Digit](companies/D/digit/README.md) | Tier 3 | 540 | 2 |
 | [Digital Realty](companies/D/digital-realty/README.md) | Tier 3 | 540 | 8 |
-| [DigitalOcean](companies/D/digitalocean/README.md) | Tier 3 | 720 | 404 |
+| [DigitalOcean](companies/D/digitalocean/README.md) | Tier 3 | 803 | 404 |
 | [Dineout](companies/D/dineout/README.md) | Tier 4 | 540 | 1 |
 | [Directi](companies/D/directi/README.md) | Tier 3 | 540 | 48 |
-| [Discord](companies/D/discord/README.md) | Tier 2 | 807 | 1,096 |
+| [Discord](companies/D/discord/README.md) | Tier 2 | 1,519 | 1,096 |
 | [Discourse](companies/D/discourse/README.md) | Tier 3 | 540 | 1 |
 | [Discover](companies/D/discover/README.md) | Tier 3 | 540 | 15 |
 | [Disney](companies/D/disney/README.md) | Tier 1 | 540 | 80 |
@@ -620,14 +620,14 @@
 | [Ditto](companies/D/ditto/README.md) | Tier 4 | 540 | 3 |
 | [DMart](companies/D/dmart/README.md) | Tier 3 | 540 | 5 |
 | [DNAnexus](companies/D/dnanexus/README.md) | Tier 3 | 540 | 1 |
-| [Docker](companies/D/docker/README.md) | Tier 2 | 730 | 553 |
+| [Docker](companies/D/docker/README.md) | Tier 2 | 900 | 553 |
 | [Docsumo](companies/D/docsumo/README.md) | Tier 4 | 540 | 1 |
 | [Docugami](companies/D/docugami/README.md) | Tier 4 | 540 | 2 |
 | [DocuSign](companies/D/docusign/README.md) | Tier 2 | 540 | 44 |
 | [Dolt DoltHub](companies/D/dolt-dolthub/README.md) | Tier 3 | 540 | 2 |
 | [Domino](companies/D/domino/README.md) | Tier 3 | 540 | 3 |
 | [Domino's](companies/D/domino-s/README.md) | Tier 3 | 540 | 3 |
-| [DoorDash](companies/D/doordash/README.md) | Tier 1 | 695 | 810 |
+| [DoorDash](companies/D/doordash/README.md) | Tier 1 | 1,010 | 810 |
 | [Doppler](companies/D/doppler/README.md) | Tier 4 | 540 | 59 |
 | [DP World](companies/D/dp-world/README.md) | Tier 3 | 540 | 12 |
 | [DraftKings](companies/D/draftkings/README.md) | Tier 2 | 540 | 1 |
@@ -635,9 +635,9 @@
 | [DragonflyDB](companies/D/dragonflydb/README.md) | Tier 3 | 540 | 4 |
 | [Drata](companies/D/drata/README.md) | Tier 3 | 540 | 58 |
 | [DRDO](companies/D/drdo/README.md) | Tier 3 | 540 | 1 |
-| [Dream11](companies/D/dream11/README.md) | Tier 2 | 1,260 | 13,189 |
-| [Dremio](companies/D/dremio/README.md) | Tier 4 | 630 | 199 |
-| [Dropbox](companies/D/dropbox/README.md) | Tier 2 | 702 | 607 |
+| [Dream11](companies/D/dream11/README.md) | Tier 2 | 13,973 | 13,189 |
+| [Dremio](companies/D/dremio/README.md) | Tier 4 | 654 | 199 |
+| [Dropbox](companies/D/dropbox/README.md) | Tier 2 | 924 | 607 |
 | [Druva](companies/D/druva/README.md) | Tier 3 | 540 | 11 |
 | [DRW](companies/D/drw/README.md) | Tier 2 | 540 | 2 |
 | [DTDC](companies/D/dtdc/README.md) | Tier 4 | 540 | 1 |
@@ -649,7 +649,7 @@
 | [Duolingo](companies/D/duolingo/README.md) | Tier 2 | 540 | 94 |
 | [DX](companies/D/dx/README.md) | Tier 3 | 540 | 33 |
 | [DXC](companies/D/dxc/README.md) | Tier 4 | 540 | 63 |
-| [Dynatrace](companies/D/dynatrace/README.md) | Tier 2 | 630 | 4,813 |
+| [Dynatrace](companies/D/dynatrace/README.md) | Tier 2 | 5,264 | 4,813 |
 
 [↑ back to A-Z](#companies-a-z)
 
@@ -676,7 +676,7 @@
 | [EdTech-Byjus](companies/E/edtech-byjus/README.md) | Tier 3 | 540 | 3 |
 | [Egnyte](companies/E/egnyte/README.md) | Tier 3 | 540 | 3 |
 | [Ekart](companies/E/ekart/README.md) | Tier 3 | 540 | 3 |
-| [Elastic](companies/E/elastic/README.md) | Tier 2 | 1,170 | 5,903 |
+| [Elastic](companies/E/elastic/README.md) | Tier 2 | 6,164 | 5,903 |
 | [ElectricSQL](companies/E/electricsql/README.md) | Tier 3 | 540 | 2 |
 | [Electronic Arts](companies/E/electronic-arts/README.md) | Tier 2 | 540 | 1 |
 | [Elementary](companies/E/elementary/README.md) | Tier 3 | 540 | 4 |
@@ -690,11 +690,11 @@
 | [Encord](companies/E/encord/README.md) | Tier 4 | 540 | 2 |
 | [Endor Labs](companies/E/endor-labs/README.md) | Tier 3 | 540 | 7 |
 | [Enphase](companies/E/enphase/README.md) | Tier 3 | 540 | 1 |
-| [EnterpriseDB](companies/E/enterprisedb/README.md) | Tier 2 | 630 | 211 |
+| [EnterpriseDB](companies/E/enterprisedb/README.md) | Tier 2 | 671 | 211 |
 | [Entrust](companies/E/entrust/README.md) | Tier 3 | 540 | 11 |
 | [env0](companies/E/env0/README.md) | Tier 3 | 540 | 69 |
 | [Enveil](companies/E/enveil/README.md) | Tier 3 | 540 | 1 |
-| [Epam](companies/E/epam/README.md) | Tier 3 | 630 | 244 |
+| [Epam](companies/E/epam/README.md) | Tier 3 | 694 | 244 |
 | [Epic](companies/E/epic/README.md) | Tier 1 | 540 | 86 |
 | [Epic Games](companies/E/epic-games/README.md) | Tier 2 | 540 | 12 |
 | [Epicor](companies/E/epicor/README.md) | Tier 3 | 540 | 42 |
@@ -740,7 +740,7 @@
 | [Faros](companies/F/faros/README.md) | Tier 3 | 540 | 1 |
 | [Fastenal](companies/F/fastenal/README.md) | Tier 5 | 540 | 1 |
 | [FasterXML](companies/F/fasterxml/README.md) | Tier 3 | 540 | 1 |
-| [Fastly](companies/F/fastly/README.md) | Tier 2 | 827 | 1,595 |
+| [Fastly](companies/F/fastly/README.md) | Tier 2 | 1,984 | 1,595 |
 | [Fathom](companies/F/fathom/README.md) | Tier 4 | 540 | 1 |
 | [Fauna](companies/F/fauna/README.md) | Tier 3 | 540 | 21 |
 | [FaunaDB](companies/F/faunadb/README.md) | Tier 3 | 540 | 28 |
@@ -757,7 +757,7 @@
 | [FICO](companies/F/fico/README.md) | Tier 3 | 540 | 3 |
 | [Fiddler AI](companies/F/fiddler-ai/README.md) | Tier 4 | 614 | 228 |
 | [Fidelity](companies/F/fidelity/README.md) | Tier 3 | 540 | 27 |
-| [Figma](companies/F/figma/README.md) | Tier 2 | 707 | 627 |
+| [Figma](companies/F/figma/README.md) | Tier 2 | 1,045 | 627 |
 | [Filecoin](companies/F/filecoin/README.md) | Tier 4 | 540 | 1 |
 | [Finicity](companies/F/finicity/README.md) | Tier 3 | 540 | 1 |
 | [Finout](companies/F/finout/README.md) | Tier 5 | 540 | 4 |
@@ -766,7 +766,7 @@
 | [Fireflies](companies/F/fireflies/README.md) | Tier 4 | 540 | 3 |
 | [Firefly](companies/F/firefly/README.md) | Tier 3 | 540 | 8 |
 | [FireHydrant](companies/F/firehydrant/README.md) | Tier 3 | 540 | 16 |
-| [Fireworks AI](companies/F/fireworks-ai/README.md) | Tier 2 | 720 | 857 |
+| [Fireworks AI](companies/F/fireworks-ai/README.md) | Tier 2 | 1,256 | 857 |
 | [FIRST/EPSS](companies/F/first-epss/README.md) | Tier 3 | 540 | 1 |
 | [FirstCry](companies/F/firstcry/README.md) | Tier 3 | 540 | 2 |
 | [FIS](companies/F/fis/README.md) | Tier 3 | 540 | 4 |
@@ -774,7 +774,7 @@
 | [Fishtown](companies/F/fishtown/README.md) | Tier 3 | 540 | 7 |
 | [Fitbit](companies/F/fitbit/README.md) | Tier 3 | 540 | 1 |
 | [Fiverr](companies/F/fiverr/README.md) | — | 2 | 2 |
-| [Fivetran](companies/F/fivetran/README.md) | Tier 3 | 630 | 1,059 |
+| [Fivetran](companies/F/fivetran/README.md) | Tier 3 | 1,430 | 1,059 |
 | [Fixie](companies/F/fixie/README.md) | Tier 4 | 540 | 3 |
 | [Flagsmith](companies/F/flagsmith/README.md) | Tier 4 | 540 | 13 |
 | [Flatiron](companies/F/flatiron/README.md) | Tier 3 | 540 | 2 |
@@ -782,7 +782,7 @@
 | [Flexera](companies/F/flexera/README.md) | Tier 4 | 540 | 34 |
 | [Flexport](companies/F/flexport/README.md) | Tier 2 | 540 | 11 |
 | [Flickr](companies/F/flickr/README.md) | Tier 3 | 540 | 1 |
-| [Flipkart](companies/F/flipkart/README.md) | Tier 2 | 1,289 | 42,910 |
+| [Flipkart](companies/F/flipkart/README.md) | Tier 2 | 48,350 | 42,910 |
 | [FLIR](companies/F/flir/README.md) | Tier 3 | 540 | 1 |
 | [Flower](companies/F/flower/README.md) | Tier 3 | 540 | 2 |
 | [Fly.io](companies/F/fly-io/README.md) | Tier 4 | 581 | 152 |
@@ -799,10 +799,10 @@
 | [Foursquare](companies/F/foursquare/README.md) | Tier 3 | 540 | 2 |
 | [Foxconn](companies/F/foxconn/README.md) | Tier 3 | 540 | 1 |
 | [FPT](companies/F/fpt/README.md) | Tier 4 | 540 | 1 |
-| [Fractal Analytics](companies/F/fractal-analytics/README.md) | Tier 3 | 842 | 2,468 |
+| [Fractal Analytics](companies/F/fractal-analytics/README.md) | Tier 3 | 2,759 | 2,468 |
 | [Framer](companies/F/framer/README.md) | Tier 3 | 540 | 14 |
 | [Freecharge](companies/F/freecharge/README.md) | Tier 4 | 540 | 5 |
-| [Freshworks](companies/F/freshworks/README.md) | Tier 3 | 1,260 | 26,558 |
+| [Freshworks](companies/F/freshworks/README.md) | Tier 3 | 31,196 | 26,558 |
 | [Front](companies/F/front/README.md) | Tier 3 | 540 | 6 |
 | [Frontegg](companies/F/frontegg/README.md) | Tier 4 | 540 | 1 |
 | [Fugue](companies/F/fugue/README.md) | Tier 5 | 540 | 1 |
@@ -843,30 +843,30 @@
 | [GitBook](companies/G/gitbook/README.md) | Tier 3 | 540 | 2 |
 | [Gitea](companies/G/gitea/README.md) | Tier 4 | 540 | 4 |
 | [GitGuardian](companies/G/gitguardian/README.md) | Tier 2 | 540 | 13 |
-| [GitLab](companies/G/gitlab/README.md) | Tier 2 | 1,026 | 3,687 |
+| [GitLab](companies/G/gitlab/README.md) | Tier 2 | 4,213 | 3,687 |
 | [GitPod](companies/G/gitpod/README.md) | Tier 3 | 540 | 13 |
 | [Gladly](companies/G/gladly/README.md) | Tier 3 | 540 | 1 |
 | [Glance](companies/G/glance/README.md) | Tier 3 | 540 | 1 |
 | [Glassdoor](companies/G/glassdoor/README.md) | Tier 3 | 540 | 2 |
-| [Glean](companies/G/glean/README.md) | Tier 2 | 709 | 1,502 |
+| [Glean](companies/G/glean/README.md) | Tier 2 | 1,827 | 1,502 |
 | [Global Payments](companies/G/global-payments/README.md) | Tier 2 | 540 | 3 |
 | [Glovo](companies/G/glovo/README.md) | Tier 3 | 540 | 1 |
 | [GoCardless](companies/G/gocardless/README.md) | Tier 3 | 540 | 10 |
 | [GoDaddy](companies/G/godaddy/README.md) | Tier 3 | 549 | 94 |
 | [Goibibo](companies/G/goibibo/README.md) | Tier 3 | 540 | 14 |
 | [Gojek](companies/G/gojek/README.md) | Tier 2 | 540 | 122 |
-| [Goldman Sachs](companies/G/goldman-sachs/README.md) | Tier 1 | 938 | 1,001 |
+| [Goldman Sachs](companies/G/goldman-sachs/README.md) | Tier 1 | 1,028 | 1,001 |
 | [Golioth](companies/G/golioth/README.md) | Tier 4 | 540 | 1 |
 | [Gong](companies/G/gong/README.md) | Tier 2 | 540 | 3 |
 | [GoodData](companies/G/gooddata/README.md) | Tier 3 | 540 | 4 |
-| [Google](companies/G/google/README.md) | Tier 1 | 1,350 | 63,310 |
+| [Google](companies/G/google/README.md) | Tier 1 | 68,924 | 63,310 |
 | [Gopuff](companies/G/gopuff/README.md) | Tier 2 | 540 | 1 |
 | [GoReplay](companies/G/goreplay/README.md) | Tier 3 | 540 | 1 |
 | [Gorgias](companies/G/gorgias/README.md) | Tier 3 | 540 | 2 |
 | [Government](companies/G/government/README.md) | Tier 4 | 540 | 1 |
-| [Grab](companies/G/grab/README.md) | Tier 2 | 950 | 1,233 |
+| [Grab](companies/G/grab/README.md) | Tier 2 | 1,405 | 1,233 |
 | [Gradle/Develocity](companies/G/gradle-develocity/README.md) | Tier 3 | 540 | 1 |
-| [Grafana Labs](companies/G/grafana-labs/README.md) | Tier 2 | 1,190 | 8,969 |
+| [Grafana Labs](companies/G/grafana-labs/README.md) | Tier 2 | 9,196 | 8,969 |
 | [Grammarly](companies/G/grammarly/README.md) | Tier 2 | 551 | 171 |
 | [Graphcore](companies/G/graphcore/README.md) | Tier 3 | 540 | 10 |
 | [Graphite](companies/G/graphite/README.md) | Tier 3 | 540 | 6 |
@@ -874,7 +874,7 @@
 | [Gravitee](companies/G/gravitee/README.md) | Tier 3 | 540 | 1 |
 | [Gray Swan](companies/G/gray-swan/README.md) | Tier 3 | 540 | 2 |
 | [Graylog](companies/G/graylog/README.md) | Tier 4 | 540 | 2 |
-| [Great Expectations](companies/G/great-expectations/README.md) | Tier 4 | 630 | 232 |
+| [Great Expectations](companies/G/great-expectations/README.md) | Tier 4 | 632 | 232 |
 | [Greenhouse](companies/G/greenhouse/README.md) | Tier 3 | 540 | 2 |
 | [Gremlin](companies/G/gremlin/README.md) | Tier 3 | 616 | 305 |
 | [Gretel](companies/G/gretel/README.md) | Tier 4 | 540 | 29 |
@@ -883,10 +883,10 @@
 | [greytHR](companies/G/greythr/README.md) | Tier 4 | 540 | 2 |
 | [Grid-Singularity](companies/G/grid-singularity/README.md) | Tier 4 | 540 | 1 |
 | [Grid.ai](companies/G/grid-ai/README.md) | Tier 3 | 540 | 1 |
-| [Groq](companies/G/groq/README.md) | Tier 2 | 630 | 262 |
+| [Groq](companies/G/groq/README.md) | Tier 2 | 675 | 262 |
 | [Groundcover](companies/G/groundcover/README.md) | Tier 4 | 540 | 7 |
 | [Groupon](companies/G/groupon/README.md) | Tier 3 | 540 | 2 |
-| [Groww](companies/G/groww/README.md) | Tier 2 | 1,260 | 18,662 |
+| [Groww](companies/G/groww/README.md) | Tier 2 | 20,289 | 18,662 |
 | [Grubhub](companies/G/grubhub/README.md) | Tier 3 | 540 | 5 |
 | [Gruntwork](companies/G/gruntwork/README.md) | Tier 3 | 540 | 27 |
 | [GSA Capital](companies/G/gsa-capital/README.md) | Tier 2 | 540 | 2 |
@@ -917,18 +917,18 @@
 | [Halodoc](companies/H/halodoc/README.md) | Tier 2 | 540 | 2 |
 | [Handshake](companies/H/handshake/README.md) | Tier 3 | 540 | 1 |
 | [Haptik](companies/H/haptik/README.md) | Tier 4 | 540 | 6 |
-| [Harness](companies/H/harness/README.md) | Tier 2 | 720 | 506 |
-| [Harvey](companies/H/harvey/README.md) | Tier 3 | 630 | 211 |
+| [Harness](companies/H/harness/README.md) | Tier 2 | 876 | 506 |
+| [Harvey](companies/H/harvey/README.md) | Tier 3 | 654 | 211 |
 | [HashedIn](companies/H/hashedin/README.md) | Tier 4 | 540 | 15 |
-| [HashiCorp](companies/H/hashicorp/README.md) | Tier 2 | 1,099 | 6,284 |
+| [HashiCorp](companies/H/hashicorp/README.md) | Tier 2 | 6,688 | 6,284 |
 | [Hashnode](companies/H/hashnode/README.md) | Tier 4 | 540 | 15 |
-| [Hasura](companies/H/hasura/README.md) | Tier 3 | 701 | 369 |
+| [Hasura](companies/H/hasura/README.md) | Tier 3 | 771 | 369 |
 | [Havells](companies/H/havells/README.md) | Tier 4 | 540 | 1 |
 | [Haystack](companies/H/haystack/README.md) | Tier 4 | 540 | 3 |
 | [Hazelcast](companies/H/hazelcast/README.md) | Tier 3 | 540 | 32 |
 | [Hazy](companies/H/hazy/README.md) | Tier 3 | 540 | 2 |
-| [HCLTech](companies/H/hcltech/README.md) | Tier 5 | 1,260 | 2,706 |
-| [HDFC-Bank](companies/H/hdfc-bank/README.md) | Tier 3 | 1,237 | 1,518 |
+| [HCLTech](companies/H/hcltech/README.md) | Tier 5 | 2,920 | 2,706 |
+| [HDFC-Bank](companies/H/hdfc-bank/README.md) | Tier 3 | 1,644 | 1,518 |
 | [Headspace](companies/H/headspace/README.md) | Tier 3 | 540 | 1 |
 | [Healthify](companies/H/healthify/README.md) | Tier 3 | 540 | 1 |
 | [HealthKart](companies/H/healthkart/README.md) | Tier 3 | 540 | 2 |
@@ -964,7 +964,7 @@
 | [Holistic AI](companies/H/holistic-ai/README.md) | Tier 4 | 540 | 4 |
 | [Home-Credit](companies/H/home-credit/README.md) | Tier 3 | 540 | 1 |
 | [Honey](companies/H/honey/README.md) | Tier 2 | 540 | 1 |
-| [Honeycomb.io](companies/H/honeycomb-io/README.md) | Tier 3 | 929 | 1,961 |
+| [Honeycomb.io](companies/H/honeycomb-io/README.md) | Tier 3 | 2,173 | 1,961 |
 | [Honeywell](companies/H/honeywell/README.md) | Tier 3 | 540 | 36 |
 | [Hookdeck](companies/H/hookdeck/README.md) | Tier 3 | 540 | 5 |
 | [Hootsuite](companies/H/hootsuite/README.md) | Tier 3 | 540 | 1 |
@@ -972,7 +972,7 @@
 | [Hortonworks](companies/H/hortonworks/README.md) | Tier 2 | 540 | 39 |
 | [Hostinger](companies/H/hostinger/README.md) | Tier 4 | 540 | 5 |
 | [Hotjar](companies/H/hotjar/README.md) | Tier 3 | 540 | 1 |
-| [Hotstar](companies/H/hotstar/README.md) | Tier 2 | 1,260 | 10,966 |
+| [Hotstar](companies/H/hotstar/README.md) | Tier 2 | 11,296 | 10,966 |
 | [Houzz](companies/H/houzz/README.md) | Tier 3 | 540 | 2 |
 | [Howzat](companies/H/howzat/README.md) | Tier 3 | 540 | 1 |
 | [HP](companies/H/hp/README.md) | Tier 3 | 540 | 4 |
@@ -981,7 +981,7 @@
 | [Huawei](companies/H/huawei/README.md) | Tier 2 | 540 | 11 |
 | [HubSpot](companies/H/hubspot/README.md) | Tier 2 | 615 | 263 |
 | [Hudson River Trading](companies/H/hudson-river-trading/README.md) | Tier 1 | 540 | 13 |
-| [Hugging Face](companies/H/hugging-face/README.md) | Tier 2 | 801 | 3,002 |
+| [Hugging Face](companies/H/hugging-face/README.md) | Tier 2 | 3,307 | 3,002 |
 | [HUL](companies/H/hul/README.md) | Tier 2 | 540 | 1 |
 | [Hulu](companies/H/hulu/README.md) | Tier 2 | 540 | 7 |
 | [HUMAN](companies/H/human/README.md) | Tier 3 | 540 | 4 |
@@ -996,7 +996,7 @@
 
 | Company | Tier | Questions Listed | Tagged Directly |
 |---|---|---:|---:|
-| [IBM](companies/I/ibm/README.md) | Tier 3 | 1,048 | 2,199 |
+| [IBM](companies/I/ibm/README.md) | Tier 3 | 2,255 | 2,199 |
 | [Icertis](companies/I/icertis/README.md) | Tier 3 | 540 | 1 |
 | [ICICI Direct](companies/I/icici-direct/README.md) | Tier 3 | 540 | 3 |
 | [ICICI-Bank](companies/I/icici-bank/README.md) | Tier 3 | 572 | 295 |
@@ -1014,7 +1014,7 @@
 | [iMerit](companies/I/imerit/README.md) | Tier 4 | 540 | 10 |
 | [Imgix](companies/I/imgix/README.md) | Tier 3 | 540 | 15 |
 | [ImmuDB](companies/I/immudb/README.md) | Tier 4 | 540 | 6 |
-| [Immuta](companies/I/immuta/README.md) | Tier 3 | 630 | 287 |
+| [Immuta](companies/I/immuta/README.md) | Tier 3 | 655 | 287 |
 | [Imperva](companies/I/imperva/README.md) | Tier 3 | 540 | 38 |
 | [Imply](companies/I/imply/README.md) | Tier 5 | 540 | 10 |
 | [incident.io](companies/I/incident-io/README.md) | Tier 3 | 587 | 141 |
@@ -1031,7 +1031,7 @@
 | [Infor](companies/I/infor/README.md) | Tier 3 | 540 | 1 |
 | [Informatica](companies/I/informatica/README.md) | Tier 2 | 580 | 148 |
 | [InfoSum](companies/I/infosum/README.md) | Tier 4 | 540 | 7 |
-| [Infosys](companies/I/infosys/README.md) | Tier 5 | 1,283 | 24,938 |
+| [Infosys](companies/I/infosys/README.md) | Tier 5 | 27,656 | 24,938 |
 | [Infracost](companies/I/infracost/README.md) | Tier 3 | 540 | 13 |
 | [ING](companies/I/ing/README.md) | Tier 2 | 540 | 27 |
 | [Ink & Switch](companies/I/ink-switch/README.md) | Tier 4 | 540 | 1 |
@@ -1043,16 +1043,16 @@
 | [Inshorts](companies/I/inshorts/README.md) | Tier 4 | 540 | 3 |
 | [Insightly](companies/I/insightly/README.md) | Tier 4 | 540 | 1 |
 | [Instabase](companies/I/instabase/README.md) | Tier 3 | 540 | 6 |
-| [Instacart](companies/I/instacart/README.md) | Tier 2 | 648 | 413 |
+| [Instacart](companies/I/instacart/README.md) | Tier 2 | 670 | 413 |
 | [Instaclustr](companies/I/instaclustr/README.md) | Tier 3 | 540 | 12 |
 | [Instahyre](companies/I/instahyre/README.md) | Tier 4 | 540 | 4 |
 | [Instamart](companies/I/instamart/README.md) | Tier 3 | 540 | 1 |
 | [Instamojo](companies/I/instamojo/README.md) | Tier 4 | 540 | 3 |
 | [InsuranceCo-Lemonade](companies/I/insuranceco-lemonade/README.md) | Tier 3 | 540 | 1 |
-| [Intel](companies/I/intel/README.md) | Tier 2 | 810 | 516 |
+| [Intel](companies/I/intel/README.md) | Tier 2 | 939 | 516 |
 | [Interactive Brokers](companies/I/interactive-brokers/README.md) | Tier 2 | 540 | 6 |
-| [Intercom](companies/I/intercom/README.md) | Tier 3 | 635 | 344 |
-| [Intuit](companies/I/intuit/README.md) | Tier 2 | 779 | 706 |
+| [Intercom](companies/I/intercom/README.md) | Tier 3 | 682 | 344 |
+| [Intuit](companies/I/intuit/README.md) | Tier 2 | 841 | 706 |
 | [Invicti](companies/I/invicti/README.md) | Tier 3 | 540 | 1 |
 | [InVideo](companies/I/invideo/README.md) | Tier 4 | 540 | 7 |
 | [Invisible](companies/I/invisible/README.md) | Tier 4 | 540 | 3 |
@@ -1083,8 +1083,8 @@
 | [Jeli](companies/J/jeli/README.md) | Tier 4 | 540 | 2 |
 | [Jellyfish](companies/J/jellyfish/README.md) | Tier 4 | 540 | 1 |
 | [Jepsen](companies/J/jepsen/README.md) | Tier 2 | 540 | 10 |
-| [JetBrains](companies/J/jetbrains/README.md) | Tier 2 | 640 | 215 |
-| [JFrog](companies/J/jfrog/README.md) | Tier 3 | 630 | 227 |
+| [JetBrains](companies/J/jetbrains/README.md) | Tier 2 | 667 | 215 |
+| [JFrog](companies/J/jfrog/README.md) | Tier 3 | 638 | 227 |
 | [Jina AI](companies/J/jina-ai/README.md) | Tier 4 | 540 | 61 |
 | [Jio](companies/J/jio/README.md) | Tier 2 | 540 | 199 |
 | [JioCinema](companies/J/jiocinema/README.md) | Tier 3 | 540 | 73 |
@@ -1094,7 +1094,7 @@
 | [Josh](companies/J/josh/README.md) | Tier 4 | 540 | 84 |
 | [Josh-DailyHunt](companies/J/josh-dailyhunt/README.md) | Tier 3 | 540 | 1 |
 | [JotForm](companies/J/jotform/README.md) | Tier 4 | 540 | 1 |
-| [JPMorgan Chase](companies/J/jpmorgan-chase/README.md) | Tier 2 | 1,215 | 2,904 |
+| [JPMorgan Chase](companies/J/jpmorgan-chase/README.md) | Tier 2 | 2,929 | 2,904 |
 | [jsDelivr](companies/J/jsdelivr/README.md) | Tier 3 | 540 | 3 |
 | [JSTOR](companies/J/jstor/README.md) | Tier 4 | 540 | 1 |
 | [JuiceFS](companies/J/juicefs/README.md) | Tier 3 | 540 | 1 |
@@ -1144,7 +1144,7 @@
 | [KNIME](companies/K/knime/README.md) | Tier 4 | 540 | 1 |
 | [Komodo Health](companies/K/komodo-health/README.md) | Tier 3 | 540 | 1 |
 | [Komprise](companies/K/komprise/README.md) | Tier 4 | 540 | 3 |
-| [Kong](companies/K/kong/README.md) | Tier 3 | 768 | 506 |
+| [Kong](companies/K/kong/README.md) | Tier 3 | 863 | 506 |
 | [Koo](companies/K/koo/README.md) | Tier 4 | 540 | 43 |
 | [Kore.ai](companies/K/kore-ai/README.md) | Tier 3 | 540 | 3 |
 | [Kotak](companies/K/kotak/README.md) | Tier 3 | 540 | 38 |
@@ -1172,18 +1172,18 @@
 | [Lacework](companies/L/lacework/README.md) | Tier 2 | 540 | 7 |
 | [lakeFS](companies/L/lakefs/README.md) | Tier 4 | 540 | 30 |
 | [Lakera](companies/L/lakera/README.md) | Tier 3 | 617 | 155 |
-| [Lambda](companies/L/lambda/README.md) | Tier 3 | 659 | 263 |
+| [Lambda](companies/L/lambda/README.md) | Tier 3 | 664 | 263 |
 | [LambdaTest](companies/L/lambdatest/README.md) | Tier 4 | 540 | 2 |
 | [Laminar](companies/L/laminar/README.md) | Tier 4 | 540 | 1 |
 | [Lamini](companies/L/lamini/README.md) | Tier 4 | 540 | 8 |
 | [LanceDB](companies/L/lancedb/README.md) | Tier 3 | 540 | 2 |
-| [LangChain](companies/L/langchain/README.md) | Tier 3 | 764 | 1,535 |
+| [LangChain](companies/L/langchain/README.md) | Tier 3 | 1,824 | 1,535 |
 | [Langfuse](companies/L/langfuse/README.md) | Tier 4 | 543 | 64 |
 | [Larsen & Toubro](companies/L/larsen-toubro/README.md) | Tier 4 | 540 | 2 |
 | [Lasso](companies/L/lasso/README.md) | Tier 3 | 540 | 1 |
 | [LastPass](companies/L/lastpass/README.md) | Tier 2 | 540 | 1 |
-| [Latentview](companies/L/latentview/README.md) | Tier 3 | 730 | 515 |
-| [LaunchDarkly](companies/L/launchdarkly/README.md) | Tier 3 | 826 | 611 |
+| [Latentview](companies/L/latentview/README.md) | Tier 3 | 876 | 515 |
+| [LaunchDarkly](companies/L/launchdarkly/README.md) | Tier 3 | 897 | 611 |
 | [Lawrence-Livermore](companies/L/lawrence-livermore/README.md) | Tier 4 | 540 | 1 |
 | [Lazada](companies/L/lazada/README.md) | Tier 2 | 540 | 3 |
 | [LazyPay](companies/L/lazypay/README.md) | Tier 3 | 540 | 1 |
@@ -1210,10 +1210,10 @@
 | [Lilac](companies/L/lilac/README.md) | Tier 4 | 540 | 1 |
 | [Lindy](companies/L/lindy/README.md) | Tier 3 | 540 | 1 |
 | [LINE](companies/L/line/README.md) | Tier 1 | 540 | 8 |
-| [Linear](companies/L/linear/README.md) | Tier 3 | 652 | 372 |
+| [Linear](companies/L/linear/README.md) | Tier 3 | 798 | 372 |
 | [LinearB](companies/L/linearb/README.md) | Tier 3 | 540 | 10 |
 | [Lingoda](companies/L/lingoda/README.md) | Tier 4 | 540 | 1 |
-| [LinkedIn](companies/L/linkedin/README.md) | Tier 1 | 1,282 | 7,907 |
+| [LinkedIn](companies/L/linkedin/README.md) | Tier 1 | 8,223 | 7,907 |
 | [Linode](companies/L/linode/README.md) | Tier 4 | 540 | 9 |
 | [Liquibase](companies/L/liquibase/README.md) | Tier 3 | 540 | 54 |
 | [LiteLLM/BerriAI](companies/L/litellm-berriai/README.md) | Tier 4 | 540 | 5 |
@@ -1221,7 +1221,7 @@
 | [Liveblocks](companies/L/liveblocks/README.md) | Tier 3 | 540 | 6 |
 | [LiveKit](companies/L/livekit/README.md) | Tier 4 | 540 | 2 |
 | [LiveRamp](companies/L/liveramp/README.md) | Tier 3 | 540 | 37 |
-| [LlamaIndex](companies/L/llamaindex/README.md) | Tier 3 | 630 | 383 |
+| [LlamaIndex](companies/L/llamaindex/README.md) | Tier 3 | 802 | 383 |
 | [Lloyds](companies/L/lloyds/README.md) | Tier 2 | 540 | 1 |
 | [LMAX](companies/L/lmax/README.md) | Tier 1 | 540 | 4 |
 | [LocalStack](companies/L/localstack/README.md) | Tier 3 | 540 | 5 |
@@ -1240,7 +1240,7 @@
 | [Loqate](companies/L/loqate/README.md) | Tier 3 | 540 | 3 |
 | [Lowe's India](companies/L/lowe-s-india/README.md) | Tier 4 | 540 | 4 |
 | [LSEG](companies/L/lseg/README.md) | Tier 2 | 540 | 3 |
-| [LTIMindtree](companies/L/ltimindtree/README.md) | Tier 5 | 1,073 | 1,187 |
+| [LTIMindtree](companies/L/ltimindtree/README.md) | Tier 5 | 1,357 | 1,187 |
 | [Lucid](companies/L/lucid/README.md) | Tier 3 | 540 | 5 |
 | [Lucidworks](companies/L/lucidworks/README.md) | Tier 3 | 540 | 1 |
 | [Luma AI](companies/L/luma-ai/README.md) | Tier 3 | 540 | 2 |
@@ -1295,7 +1295,7 @@
 | [Medik8s](companies/M/medik8s/README.md) | Tier 3 | 540 | 1 |
 | [Medium](companies/M/medium/README.md) | Tier 2 | 540 | 51 |
 | [Medtronic](companies/M/medtronic/README.md) | Tier 2 | 540 | 4 |
-| [Meesho](companies/M/meesho/README.md) | Tier 3 | 1,260 | 24,127 |
+| [Meesho](companies/M/meesho/README.md) | Tier 3 | 26,885 | 24,127 |
 | [Megaport](companies/M/megaport/README.md) | Tier 3 | 540 | 14 |
 | [Meilisearch](companies/M/meilisearch/README.md) | Tier 4 | 540 | 23 |
 | [Meituan](companies/M/meituan/README.md) | Tier 2 | 540 | 2 |
@@ -1312,7 +1312,7 @@
 | [Mergify](companies/M/mergify/README.md) | Tier 3 | 540 | 1 |
 | [Meru](companies/M/meru/README.md) | Tier 4 | 540 | 2 |
 | [Mesosphere/D2iQ](companies/M/mesosphere-d2iq/README.md) | Tier 3 | 540 | 1 |
-| [Meta](companies/M/meta/README.md) | Tier 1 | 1,277 | 18,280 |
+| [Meta](companies/M/meta/README.md) | Tier 1 | 19,543 | 18,280 |
 | [Metaflow](companies/M/metaflow/README.md) | Tier 3 | 540 | 1 |
 | [Metaphor](companies/M/metaphor/README.md) | Tier 4 | 540 | 1 |
 | [Metaplane](companies/M/metaplane/README.md) | Tier 4 | 540 | 2 |
@@ -1322,11 +1322,11 @@
 | [Metronome](companies/M/metronome/README.md) | Tier 3 | 540 | 3 |
 | [Micro-Focus](companies/M/micro-focus/README.md) | Tier 3 | 540 | 3 |
 | [Micron](companies/M/micron/README.md) | Tier 3 | 540 | 5 |
-| [Microsoft](companies/M/microsoft/README.md) | Tier 1 | 1,317 | 28,900 |
+| [Microsoft](companies/M/microsoft/README.md) | Tier 1 | 31,967 | 28,900 |
 | [MicroStrategy](companies/M/microstrategy/README.md) | Tier 3 | 540 | 8 |
 | [Midjourney](companies/M/midjourney/README.md) | Tier 2 | 540 | 22 |
 | [Millennium](companies/M/millennium/README.md) | Tier 1 | 540 | 8 |
-| [Milvus](companies/M/milvus/README.md) | Tier 3 | 690 | 381 |
+| [Milvus](companies/M/milvus/README.md) | Tier 3 | 734 | 381 |
 | [Mimecast](companies/M/mimecast/README.md) | Tier 3 | 540 | 1 |
 | [Mindtickle](companies/M/mindtickle/README.md) | Tier 3 | 540 | 4 |
 | [MiniMax](companies/M/minimax/README.md) | Tier 3 | 540 | 2 |
@@ -1334,7 +1334,7 @@
 | [Mirantis](companies/M/mirantis/README.md) | Tier 3 | 540 | 24 |
 | [Miro](companies/M/miro/README.md) | Tier 3 | 548 | 106 |
 | [Missive](companies/M/missive/README.md) | Tier 4 | 540 | 1 |
-| [Mistral AI](companies/M/mistral-ai/README.md) | Tier 2 | 720 | 992 |
+| [Mistral AI](companies/M/mistral-ai/README.md) | Tier 2 | 1,349 | 992 |
 | [MIT](companies/M/mit/README.md) | Tier 1 | 540 | 2 |
 | [Mitsogo](companies/M/mitsogo/README.md) | Tier 4 | 540 | 13 |
 | [Mixedbread](companies/M/mixedbread/README.md) | Tier 4 | 540 | 10 |
@@ -1342,7 +1342,7 @@
 | [MobiKwik](companies/M/mobikwik/README.md) | Tier 3 | 540 | 3 |
 | [Mobile Premier League](companies/M/mobile-premier-league/README.md) | Tier 3 | 540 | 2 |
 | [Mobileye](companies/M/mobileye/README.md) | Tier 2 | 540 | 7 |
-| [Modal Labs](companies/M/modal-labs/README.md) | Tier 3 | 720 | 500 |
+| [Modal Labs](companies/M/modal-labs/README.md) | Tier 3 | 893 | 500 |
 | [ModelOp](companies/M/modelop/README.md) | Tier 4 | 540 | 1 |
 | [Modern Treasury](companies/M/modern-treasury/README.md) | Tier 3 | 540 | 2 |
 | [Modular](companies/M/modular/README.md) | Tier 3 | 540 | 20 |
@@ -1352,11 +1352,11 @@
 | [Momento](companies/M/momento/README.md) | Tier 4 | 540 | 15 |
 | [Monday.com](companies/M/monday-com/README.md) | Tier 2 | 540 | 9 |
 | [moneyview](companies/M/moneyview/README.md) | Tier 3 | 540 | 1 |
-| [MongoDB](companies/M/mongodb/README.md) | Tier 2 | 990 | 3,520 |
-| [Monte Carlo](companies/M/monte-carlo/README.md) | Tier 4 | 635 | 532 |
+| [MongoDB](companies/M/mongodb/README.md) | Tier 2 | 4,053 | 3,520 |
+| [Monte Carlo](companies/M/monte-carlo/README.md) | Tier 4 | 881 | 532 |
 | [Monzo](companies/M/monzo/README.md) | Tier 3 | 540 | 29 |
 | [Moody's](companies/M/moody-s/README.md) | Tier 2 | 540 | 5 |
-| [Moogsoft](companies/M/moogsoft/README.md) | Tier 3 | 630 | 2,014 |
+| [Moogsoft](companies/M/moogsoft/README.md) | Tier 3 | 2,492 | 2,014 |
 | [Moonshot](companies/M/moonshot/README.md) | Tier 3 | 540 | 4 |
 | [Morgan Stanley](companies/M/morgan-stanley/README.md) | Tier 1 | 540 | 119 |
 | [Morningstar](companies/M/morningstar/README.md) | Tier 3 | 540 | 1 |
@@ -1370,14 +1370,14 @@
 | [MPL](companies/M/mpl/README.md) | Tier 3 | 540 | 83 |
 | [MSCI](companies/M/msci/README.md) | Tier 3 | 540 | 1 |
 | [MSG91](companies/M/msg91/README.md) | Tier 4 | 540 | 11 |
-| [Mu Sigma](companies/M/mu-sigma/README.md) | Tier 3 | 744 | 728 |
+| [Mu Sigma](companies/M/mu-sigma/README.md) | Tier 3 | 1,084 | 728 |
 | [Mulesoft](companies/M/mulesoft/README.md) | Tier 2 | 540 | 15 |
 | [Multion](companies/M/multion/README.md) | Tier 4 | 540 | 1 |
 | [Muthoot](companies/M/muthoot/README.md) | Tier 3 | 540 | 1 |
 | [Mux](companies/M/mux/README.md) | Tier 4 | 540 | 7 |
 | [MX](companies/M/mx/README.md) | Tier 3 | 540 | 2 |
 | [My11Circle](companies/M/my11circle/README.md) | Tier 3 | 540 | 1 |
-| [Myntra](companies/M/myntra/README.md) | Tier 2 | 842 | 1,070 |
+| [Myntra](companies/M/myntra/README.md) | Tier 2 | 1,372 | 1,070 |
 | [MyTeam11](companies/M/myteam11/README.md) | Tier 3 | 540 | 1 |
 
 [↑ back to A-Z](#companies-a-z)
@@ -1389,7 +1389,7 @@
 | [N26](companies/N/n26/README.md) | Tier 3 | 540 | 9 |
 | [n8n](companies/N/n8n/README.md) | Tier 4 | 540 | 1 |
 | [Nabla](companies/N/nabla/README.md) | Tier 2 | 540 | 3 |
-| [Nagarro](companies/N/nagarro/README.md) | Tier 4 | 752 | 569 |
+| [Nagarro](companies/N/nagarro/README.md) | Tier 4 | 975 | 569 |
 | [Nagios](companies/N/nagios/README.md) | Tier 4 | 540 | 20 |
 | [Namecheap](companies/N/namecheap/README.md) | Tier 4 | 540 | 4 |
 | [Namespace](companies/N/namespace/README.md) | Tier 3 | 540 | 2 |
@@ -1419,14 +1419,14 @@
 | [Netdata](companies/N/netdata/README.md) | Tier 3 | 540 | 15 |
 | [NetEase](companies/N/netease/README.md) | Tier 3 | 540 | 2 |
 | [Netezza](companies/N/netezza/README.md) | Tier 2 | 540 | 7 |
-| [Netflix](companies/N/netflix/README.md) | Tier 1 | 1,260 | 36,842 |
-| [Netlify](companies/N/netlify/README.md) | Tier 3 | 677 | 359 |
+| [Netflix](companies/N/netflix/README.md) | Tier 1 | 39,303 | 36,842 |
+| [Netlify](companies/N/netlify/README.md) | Tier 3 | 784 | 359 |
 | [Netmagic](companies/N/netmagic/README.md) | Tier 4 | 540 | 1 |
 | [Netmeds](companies/N/netmeds/README.md) | Tier 4 | 540 | 1 |
 | [Netskope](companies/N/netskope/README.md) | Tier 3 | 540 | 29 |
 | [NetSuite](companies/N/netsuite/README.md) | Tier 3 | 540 | 4 |
 | [Neural Magic](companies/N/neural-magic/README.md) | Tier 3 | 540 | 27 |
-| [New Relic](companies/N/new-relic/README.md) | Tier 3 | 784 | 4,360 |
+| [New Relic](companies/N/new-relic/README.md) | Tier 3 | 4,600 | 4,360 |
 | [Nextcloud](companies/N/nextcloud/README.md) | Tier 4 | 540 | 1 |
 | [Nextdata](companies/N/nextdata/README.md) | Tier 4 | 540 | 2 |
 | [Nextdoor](companies/N/nextdoor/README.md) | Tier 4 | 540 | 10 |
@@ -1449,21 +1449,21 @@
 | [Not Diamond](companies/N/not-diamond/README.md) | Tier 3 | 540 | 28 |
 | [Notary](companies/N/notary/README.md) | Tier 2 | 540 | 4 |
 | [Nothing](companies/N/nothing/README.md) | Tier 4 | 540 | 5 |
-| [Notion](companies/N/notion/README.md) | Tier 2 | 990 | 3,718 |
+| [Notion](companies/N/notion/README.md) | Tier 2 | 4,478 | 3,718 |
 | [Nous](companies/N/nous/README.md) | Tier 3 | 540 | 4 |
 | [Novartis](companies/N/novartis/README.md) | Tier 2 | 540 | 16 |
 | [NPCI](companies/N/npci/README.md) | Tier 2 | 540 | 2 |
 | [Nscale](companies/N/nscale/README.md) | Tier 3 | 540 | 2 |
 | [NSE](companies/N/nse/README.md) | Tier 2 | 540 | 12 |
 | [Nuance](companies/N/nuance/README.md) | Tier 3 | 540 | 7 |
-| [Nubank](companies/N/nubank/README.md) | Tier 1 | 812 | 637 |
+| [Nubank](companies/N/nubank/README.md) | Tier 1 | 839 | 637 |
 | [Numbers Station](companies/N/numbers-station/README.md) | Tier 4 | 540 | 1 |
 | [Numenta](companies/N/numenta/README.md) | Tier 3 | 540 | 1 |
 | [Nuro](companies/N/nuro/README.md) | Tier 3 | 540 | 21 |
-| [Nutanix](companies/N/nutanix/README.md) | Tier 2 | 855 | 1,853 |
-| [NVIDIA](companies/N/nvidia/README.md) | Tier 1 | 1,028 | 7,217 |
+| [Nutanix](companies/N/nutanix/README.md) | Tier 2 | 2,242 | 1,853 |
+| [NVIDIA](companies/N/nvidia/README.md) | Tier 1 | 7,579 | 7,217 |
 | [Nx](companies/N/nx/README.md) | Tier 3 | 540 | 28 |
-| [Nykaa](companies/N/nykaa/README.md) | Tier 3 | 808 | 749 |
+| [Nykaa](companies/N/nykaa/README.md) | Tier 3 | 1,026 | 749 |
 
 [↑ back to A-Z](#companies-a-z)
 
@@ -1481,10 +1481,10 @@
 | [Odigos](companies/O/odigos/README.md) | Tier 3 | 540 | 1 |
 | [Odoo](companies/O/odoo/README.md) | Tier 3 | 540 | 2 |
 | [Ohmconnect](companies/O/ohmconnect/README.md) | Tier 4 | 540 | 1 |
-| [Okta](companies/O/okta/README.md) | Tier 2 | 898 | 1,469 |
+| [Okta](companies/O/okta/README.md) | Tier 2 | 1,790 | 1,469 |
 | [Okteto](companies/O/okteto/README.md) | Tier 3 | 540 | 7 |
 | [OKX](companies/O/okx/README.md) | Tier 3 | 540 | 1 |
-| [Ola](companies/O/ola/README.md) | Tier 2 | 759 | 484 |
+| [Ola](companies/O/ola/README.md) | Tier 2 | 770 | 484 |
 | [Ola Electric](companies/O/ola-electric/README.md) | Tier 2 | 540 | 14 |
 | [Ola Krutrim](companies/O/ola-krutrim/README.md) | Tier 3 | 540 | 70 |
 | [Ollama](companies/O/ollama/README.md) | Tier 3 | 540 | 18 |
@@ -1499,7 +1499,7 @@
 | [Ontotext](companies/O/ontotext/README.md) | Tier 3 | 540 | 4 |
 | [Opal](companies/O/opal/README.md) | Tier 4 | 540 | 1 |
 | [Opaque Systems](companies/O/opaque-systems/README.md) | Tier 3 | 540 | 1 |
-| [OpenAI](companies/O/openai/README.md) | Tier 1 | 1,068 | 12,379 |
+| [OpenAI](companies/O/openai/README.md) | Tier 1 | 12,959 | 12,379 |
 | [OpenBao](companies/O/openbao/README.md) | Tier 4 | 540 | 1 |
 | [OpenMeter](companies/O/openmeter/README.md) | Tier 3 | 540 | 5 |
 | [OpenMined](companies/O/openmined/README.md) | Tier 5 | 540 | 9 |
@@ -1515,7 +1515,7 @@
 | [Optiver](companies/O/optiver/README.md) | Tier 1 | 540 | 39 |
 | [Optum](companies/O/optum/README.md) | Tier 3 | 613 | 297 |
 | [Optuna/PFN](companies/O/optuna-pfn/README.md) | Tier 3 | 540 | 3 |
-| [Oracle](companies/O/oracle/README.md) | Tier 2 | 1,279 | 7,208 |
+| [Oracle](companies/O/oracle/README.md) | Tier 2 | 8,024 | 7,208 |
 | [Orange](companies/O/orange/README.md) | Tier 3 | 540 | 2 |
 | [Orb](companies/O/orb/README.md) | Tier 4 | 540 | 2 |
 | [Orca](companies/O/orca/README.md) | Tier 3 | 540 | 4 |
@@ -1552,10 +1552,10 @@
 | [PactFlow](companies/P/pactflow/README.md) | Tier 3 | 540 | 1 |
 | [Paddle](companies/P/paddle/README.md) | Tier 3 | 540 | 2 |
 | [Pagaya](companies/P/pagaya/README.md) | Tier 3 | 540 | 2 |
-| [PagerDuty](companies/P/pagerduty/README.md) | Tier 3 | 792 | 4,377 |
-| [Palantir](companies/P/palantir/README.md) | Tier 2 | 725 | 574 |
+| [PagerDuty](companies/P/pagerduty/README.md) | Tier 3 | 4,578 | 4,377 |
+| [Palantir](companies/P/palantir/README.md) | Tier 2 | 783 | 574 |
 | [Palo](companies/P/palo/README.md) | Tier 2 | 540 | 7 |
-| [Palo Alto Networks](companies/P/palo-alto-networks/README.md) | Tier 2 | 797 | 775 |
+| [Palo Alto Networks](companies/P/palo-alto-networks/README.md) | Tier 2 | 971 | 775 |
 | [Pandera](companies/P/pandera/README.md) | Tier 4 | 540 | 1 |
 | [Panther](companies/P/panther/README.md) | Tier 3 | 540 | 15 |
 | [Paperspace](companies/P/paperspace/README.md) | Tier 3 | 540 | 14 |
@@ -1567,9 +1567,9 @@
 | [Patreon](companies/P/patreon/README.md) | Tier 3 | 540 | 3 |
 | [Patronus AI](companies/P/patronus-ai/README.md) | Tier 3 | 540 | 42 |
 | [Paycom](companies/P/paycom/README.md) | Tier 4 | 540 | 2 |
-| [PayPal](companies/P/paypal/README.md) | Tier 1 | 868 | 1,043 |
+| [PayPal](companies/P/paypal/README.md) | Tier 1 | 1,250 | 1,043 |
 | [PayPay](companies/P/paypay/README.md) | Tier 3 | 540 | 5 |
-| [Paytm](companies/P/paytm/README.md) | Tier 2 | 930 | 1,202 |
+| [Paytm](companies/P/paytm/README.md) | Tier 2 | 1,547 | 1,202 |
 | [PayU](companies/P/payu/README.md) | Tier 3 | 540 | 21 |
 | [pCloud](companies/P/pcloud/README.md) | Tier 4 | 540 | 1 |
 | [PEAK6](companies/P/peak6/README.md) | Tier 3 | 540 | 2 |
@@ -1577,9 +1577,9 @@
 | [Pega](companies/P/pega/README.md) | Tier 3 | 540 | 2 |
 | [Peloton](companies/P/peloton/README.md) | Tier 3 | 540 | 3 |
 | [Pepperfry](companies/P/pepperfry/README.md) | Tier 4 | 540 | 1 |
-| [Percona](companies/P/percona/README.md) | Tier 3 | 668 | 361 |
+| [Percona](companies/P/percona/README.md) | Tier 3 | 760 | 361 |
 | [Permit](companies/P/permit/README.md) | Tier 3 | 540 | 2 |
-| [Perplexity](companies/P/perplexity/README.md) | Tier 2 | 863 | 2,125 |
+| [Perplexity](companies/P/perplexity/README.md) | Tier 2 | 2,489 | 2,125 |
 | [Persistent](companies/P/persistent/README.md) | Tier 4 | 628 | 329 |
 | [Persona](companies/P/persona/README.md) | Tier 3 | 540 | 2 |
 | [Perspective](companies/P/perspective/README.md) | Tier 3 | 540 | 2 |
@@ -1589,23 +1589,23 @@
 | [pganalyze](companies/P/pganalyze/README.md) | Tier 3 | 540 | 18 |
 | [PharmEasy](companies/P/pharmeasy/README.md) | Tier 2 | 540 | 8 |
 | [Philips](companies/P/philips/README.md) | Tier 3 | 540 | 38 |
-| [PhonePe](companies/P/phonepe/README.md) | Tier 2 | 1,274 | 28,127 |
+| [PhonePe](companies/P/phonepe/README.md) | Tier 2 | 30,968 | 28,127 |
 | [Photoroom](companies/P/photoroom/README.md) | Tier 3 | 540 | 1 |
 | [Physics Wallah](companies/P/physics-wallah/README.md) | Tier 3 | 540 | 3 |
 | [Pi](companies/P/pi/README.md) | Tier 3 | 540 | 1 |
 | [Pika](companies/P/pika/README.md) | Tier 3 | 540 | 3 |
 | [Pine Labs](companies/P/pine-labs/README.md) | Tier 3 | 540 | 4 |
-| [Pinecone](companies/P/pinecone/README.md) | Tier 2 | 817 | 3,156 |
+| [Pinecone](companies/P/pinecone/README.md) | Tier 2 | 3,388 | 3,156 |
 | [Ping](companies/P/ping/README.md) | Tier 3 | 540 | 12 |
 | [Ping An](companies/P/ping-an/README.md) | Tier 2 | 540 | 1 |
 | [Ping Identity](companies/P/ping-identity/README.md) | Tier 2 | 540 | 31 |
 | [Pingdom](companies/P/pingdom/README.md) | Tier 3 | 540 | 14 |
 | [Pingdom-SolarWinds](companies/P/pingdom-solarwinds/README.md) | Tier 3 | 540 | 4 |
-| [Pinterest](companies/P/pinterest/README.md) | Tier 2 | 782 | 1,189 |
+| [Pinterest](companies/P/pinterest/README.md) | Tier 2 | 1,330 | 1,189 |
 | [Pipedrive](companies/P/pipedrive/README.md) | Tier 4 | 540 | 1 |
 | [Pizza Hut](companies/P/pizza-hut/README.md) | Tier 3 | 540 | 1 |
-| [Plaid](companies/P/plaid/README.md) | Tier 2 | 687 | 359 |
-| [PlanetScale](companies/P/planetscale/README.md) | Tier 3 | 763 | 690 |
+| [Plaid](companies/P/plaid/README.md) | Tier 2 | 715 | 359 |
+| [PlanetScale](companies/P/planetscale/README.md) | Tier 3 | 1,028 | 690 |
 | [Platform-One](companies/P/platform-one/README.md) | Tier 3 | 540 | 2 |
 | [Platform9](companies/P/platform9/README.md) | Tier 4 | 540 | 3 |
 | [Pleo](companies/P/pleo/README.md) | Tier 4 | 540 | 1 |
@@ -1632,7 +1632,7 @@
 | [Portworx](companies/P/portworx/README.md) | Tier 3 | 540 | 28 |
 | [Poshmark](companies/P/poshmark/README.md) | Tier 3 | 540 | 3 |
 | [PostHog](companies/P/posthog/README.md) | Tier 3 | 540 | 8 |
-| [Postman](companies/P/postman/README.md) | Tier 3 | 1,260 | 21,864 |
+| [Postman](companies/P/postman/README.md) | Tier 3 | 26,141 | 21,864 |
 | [Postmark](companies/P/postmark/README.md) | Tier 4 | 540 | 5 |
 | [Postmates](companies/P/postmates/README.md) | Tier 3 | 540 | 3 |
 | [PowerSync](companies/P/powersync/README.md) | Tier 3 | 540 | 1 |
@@ -1679,10 +1679,10 @@
 
 | Company | Tier | Questions Listed | Tagged Directly |
 |---|---|---:|---:|
-| [Qdrant](companies/Q/qdrant/README.md) | Tier 3 | 762 | 1,235 |
+| [Qdrant](companies/Q/qdrant/README.md) | Tier 3 | 1,569 | 1,235 |
 | [Qlik](companies/Q/qlik/README.md) | Tier 3 | 540 | 6 |
 | [Qt](companies/Q/qt/README.md) | Tier 2 | 540 | 18 |
-| [Qualcomm](companies/Q/qualcomm/README.md) | Tier 2 | 768 | 423 |
+| [Qualcomm](companies/Q/qualcomm/README.md) | Tier 2 | 791 | 423 |
 | [Qualtrics](companies/Q/qualtrics/README.md) | Tier 2 | 540 | 7 |
 | [Qualys](companies/Q/qualys/README.md) | Tier 3 | 540 | 10 |
 | [Quantexa](companies/Q/quantexa/README.md) | Tier 3 | 540 | 7 |
@@ -1724,7 +1724,7 @@
 | [Ravelin](companies/R/ravelin/README.md) | Tier 3 | 540 | 1 |
 | [Raycast](companies/R/raycast/README.md) | Tier 3 | 540 | 1 |
 | [Raytheon](companies/R/raytheon/README.md) | Tier 3 | 540 | 3 |
-| [Razorpay](companies/R/razorpay/README.md) | Tier 2 | 1,260 | 45,271 |
+| [Razorpay](companies/R/razorpay/README.md) | Tier 2 | 52,393 | 45,271 |
 | [RBC](companies/R/rbc/README.md) | — | 2 | 2 |
 | [RBI](companies/R/rbi/README.md) | Tier 1 | 540 | 3 |
 | [RBI-partner](companies/R/rbi-partner/README.md) | Tier 2 | 540 | 2 |
@@ -1735,9 +1735,9 @@
 | [Rebrandly](companies/R/rebrandly/README.md) | Tier 4 | 540 | 2 |
 | [Recorded Future](companies/R/recorded-future/README.md) | Tier 2 | 540 | 2 |
 | [Recurly](companies/R/recurly/README.md) | Tier 3 | 540 | 7 |
-| [Red Hat](companies/R/red-hat/README.md) | Tier 2 | 900 | 2,381 |
+| [Red Hat](companies/R/red-hat/README.md) | Tier 2 | 2,710 | 2,381 |
 | [RedBus](companies/R/redbus/README.md) | Tier 3 | 540 | 16 |
-| [Reddit](companies/R/reddit/README.md) | Tier 2 | 669 | 394 |
+| [Reddit](companies/R/reddit/README.md) | Tier 2 | 689 | 394 |
 | [Redfin](companies/R/redfin/README.md) | Tier 2 | 540 | 3 |
 | [Redgate](companies/R/redgate/README.md) | Tier 3 | 540 | 4 |
 | [Redocly](companies/R/redocly/README.md) | Tier 4 | 540 | 4 |
@@ -1803,7 +1803,7 @@
 | [Rubrik](companies/R/rubrik/README.md) | Tier 2 | 540 | 142 |
 | [RudderStack](companies/R/rudderstack/README.md) | Tier 3 | 540 | 5 |
 | [Rumble](companies/R/rumble/README.md) | Tier 2 | 540 | 1 |
-| [Rundeck](companies/R/rundeck/README.md) | Tier 3 | 630 | 195 |
+| [Rundeck](companies/R/rundeck/README.md) | Tier 3 | 675 | 195 |
 | [Runpod](companies/R/runpod/README.md) | Tier 3 | 540 | 33 |
 | [Runway](companies/R/runway/README.md) | Tier 2 | 540 | 29 |
 | [Rytr](companies/R/rytr/README.md) | Tier 4 | 540 | 1 |
@@ -1821,28 +1821,28 @@
 | [SailPoint](companies/S/sailpoint/README.md) | Tier 3 | 540 | 39 |
 | [Sakana AI](companies/S/sakana-ai/README.md) | Tier 3 | 540 | 1 |
 | [Salad](companies/S/salad/README.md) | Tier 3 | 540 | 1 |
-| [Salesforce](companies/S/salesforce/README.md) | Tier 2 | 1,333 | 6,158 |
+| [Salesforce](companies/S/salesforce/README.md) | Tier 2 | 6,658 | 6,158 |
 | [Salsify](companies/S/salsify/README.md) | Tier 3 | 540 | 1 |
 | [Salt-Security](companies/S/salt-security/README.md) | Tier 3 | 540 | 1 |
 | [Sama](companies/S/sama/README.md) | Tier 4 | 540 | 5 |
 | [SambaNova](companies/S/sambanova/README.md) | Tier 2 | 540 | 20 |
 | [Samsara](companies/S/samsara/README.md) | Tier 2 | 540 | 7 |
-| [Samsung](companies/S/samsung/README.md) | Tier 2 | 810 | 537 |
+| [Samsung](companies/S/samsung/README.md) | Tier 2 | 1,056 | 537 |
 | [Sana](companies/S/sana/README.md) | Tier 3 | 540 | 1 |
 | [SandboxAQ](companies/S/sandboxaq/README.md) | Tier 4 | 540 | 1 |
 | [Sanity](companies/S/sanity/README.md) | Tier 3 | 540 | 11 |
 | [Sanofi](companies/S/sanofi/README.md) | Tier 2 | 540 | 1 |
-| [SAP](companies/S/sap/README.md) | Tier 2 | 1,188 | 2,799 |
+| [SAP](companies/S/sap/README.md) | Tier 2 | 3,110 | 2,799 |
 | [Sapient](companies/S/sapient/README.md) | Tier 4 | 540 | 2 |
 | [Sardine](companies/S/sardine/README.md) | Tier 3 | 540 | 2 |
-| [Sarvam AI](companies/S/sarvam-ai/README.md) | Tier 3 | 720 | 772 |
+| [Sarvam AI](companies/S/sarvam-ai/README.md) | Tier 3 | 1,149 | 772 |
 | [SAS](companies/S/sas/README.md) | Tier 2 | 540 | 16 |
 | [Satori](companies/S/satori/README.md) | Tier 4 | 540 | 2 |
 | [Sauce Labs](companies/S/sauce-labs/README.md) | Tier 3 | 540 | 8 |
 | [Saviynt](companies/S/saviynt/README.md) | Tier 3 | 540 | 3 |
 | [SBI](companies/S/sbi/README.md) | Tier 4 | 540 | 20 |
 | [SBI-Card](companies/S/sbi-card/README.md) | Tier 2 | 540 | 1 |
-| [Scale AI](companies/S/scale-ai/README.md) | Tier 2 | 720 | 1,551 |
+| [Scale AI](companies/S/scale-ai/README.md) | Tier 2 | 1,894 | 1,551 |
 | [Scalr](companies/S/scalr/README.md) | Tier 4 | 540 | 2 |
 | [Schellman](companies/S/schellman/README.md) | Tier 3 | 540 | 10 |
 | [Schneider](companies/S/schneider/README.md) | Tier 3 | 540 | 6 |
@@ -1850,7 +1850,7 @@
 | [Schwarz Group](companies/S/schwarz-group/README.md) | Tier 2 | 540 | 1 |
 | [Score-CNCF](companies/S/score-cncf/README.md) | Tier 3 | 540 | 1 |
 | [Scrapybara](companies/S/scrapybara/README.md) | Tier 4 | 540 | 1 |
-| [Scylla](companies/S/scylla/README.md) | Tier 3 | 714 | 454 |
+| [Scylla](companies/S/scylla/README.md) | Tier 3 | 826 | 454 |
 | [Sea Group](companies/S/sea-group/README.md) | Tier 2 | 540 | 4 |
 | [Seagate](companies/S/seagate/README.md) | Tier 3 | 540 | 1 |
 | [SeatGeek](companies/S/seatgeek/README.md) | Tier 2 | 540 | 1 |
@@ -1860,7 +1860,7 @@
 | [Secureframe](companies/S/secureframe/README.md) | Tier 3 | 540 | 2 |
 | [Securiti](companies/S/securiti/README.md) | Tier 3 | 540 | 2 |
 | [SecurityScorecard](companies/S/securityscorecard/README.md) | Tier 4 | 540 | 2 |
-| [Segment](companies/S/segment/README.md) | Tier 3 | 762 | 636 |
+| [Segment](companies/S/segment/README.md) | Tier 3 | 937 | 636 |
 | [Seldon](companies/S/seldon/README.md) | Tier 4 | 540 | 42 |
 | [SELECT](companies/S/select/README.md) | Tier 3 | 540 | 3 |
 | [Select Star](companies/S/select-star/README.md) | Tier 4 | 540 | 27 |
@@ -1876,25 +1876,25 @@
 | [Senzing](companies/S/senzing/README.md) | Tier 4 | 540 | 11 |
 | [Sephora](companies/S/sephora/README.md) | Tier 2 | 540 | 1 |
 | [Serverless](companies/S/serverless/README.md) | Tier 3 | 540 | 11 |
-| [ServiceNow](companies/S/servicenow/README.md) | Tier 2 | 1,103 | 5,209 |
+| [ServiceNow](companies/S/servicenow/README.md) | Tier 2 | 5,256 | 5,209 |
 | [Setu](companies/S/setu/README.md) | Tier 3 | 540 | 17 |
 | [Shadowfax](companies/S/shadowfax/README.md) | Tier 3 | 540 | 1 |
-| [ShareChat](companies/S/sharechat/README.md) | Tier 3 | 740 | 468 |
+| [ShareChat](companies/S/sharechat/README.md) | Tier 3 | 807 | 468 |
 | [Shein](companies/S/shein/README.md) | Tier 2 | 540 | 1 |
 | [Shell](companies/S/shell/README.md) | Tier 2 | 540 | 3 |
 | [Shiprocket](companies/S/shiprocket/README.md) | Tier 3 | 540 | 3 |
 | [Shopee](companies/S/shopee/README.md) | Tier 2 | 540 | 13 |
-| [Shopify](companies/S/shopify/README.md) | Tier 2 | 1,151 | 3,797 |
+| [Shopify](companies/S/shopify/README.md) | Tier 2 | 4,227 | 3,797 |
 | [Shortcut](companies/S/shortcut/README.md) | Tier 4 | 540 | 1 |
 | [Shutterstock](companies/S/shutterstock/README.md) | Tier 2 | 540 | 15 |
 | [Sidero](companies/S/sidero/README.md) | Tier 3 | 540 | 2 |
 | [Siemens](companies/S/siemens/README.md) | Tier 3 | 540 | 109 |
 | [Siemens Healthineers](companies/S/siemens-healthineers/README.md) | Tier 3 | 540 | 2 |
-| [Sierra](companies/S/sierra/README.md) | Tier 3 | 630 | 275 |
+| [Sierra](companies/S/sierra/README.md) | Tier 3 | 732 | 275 |
 | [Sift](companies/S/sift/README.md) | Tier 3 | 540 | 17 |
 | [SIG](companies/S/sig/README.md) | Tier 1 | 540 | 10 |
 | [Sigma](companies/S/sigma/README.md) | Tier 5 | 540 | 6 |
-| [Sigmoid](companies/S/sigmoid/README.md) | Tier 3 | 720 | 440 |
+| [Sigmoid](companies/S/sigmoid/README.md) | Tier 3 | 849 | 440 |
 | [Signadot](companies/S/signadot/README.md) | Tier 4 | 540 | 6 |
 | [Signal](companies/S/signal/README.md) | Tier 3 | 540 | 31 |
 | [Signifyd](companies/S/signifyd/README.md) | Tier 3 | 540 | 9 |
@@ -1924,15 +1924,15 @@
 | [SmartBear](companies/S/smartbear/README.md) | Tier 3 | 540 | 7 |
 | [smartnews](companies/S/smartnews/README.md) | Tier 3 | 540 | 2 |
 | [Smartsheet](companies/S/smartsheet/README.md) | Tier 3 | 540 | 2 |
-| [Snap Inc.](companies/S/snap-inc/README.md) | Tier 2 | 644 | 459 |
+| [Snap Inc.](companies/S/snap-inc/README.md) | Tier 2 | 750 | 459 |
 | [Snapchat](companies/S/snapchat/README.md) | Tier 1 | 540 | 26 |
 | [Snapdeal](companies/S/snapdeal/README.md) | Tier 3 | 540 | 47 |
 | [Snorkel AI](companies/S/snorkel-ai/README.md) | Tier 3 | 540 | 94 |
 | [Snow-Software](companies/S/snow-software/README.md) | Tier 3 | 540 | 1 |
 | [Snowball](companies/S/snowball/README.md) | Tier 2 | 540 | 1 |
-| [Snowflake](companies/S/snowflake/README.md) | Tier 2 | 1,282 | 16,887 |
+| [Snowflake](companies/S/snowflake/README.md) | Tier 2 | 17,228 | 16,887 |
 | [Snowplow](companies/S/snowplow/README.md) | Tier 3 | 540 | 8 |
-| [Snyk](companies/S/snyk/README.md) | Tier 3 | 801 | 777 |
+| [Snyk](companies/S/snyk/README.md) | Tier 3 | 1,099 | 777 |
 | [Societe Generale](companies/S/societe-generale/README.md) | Tier 3 | 540 | 2 |
 | [Socket](companies/S/socket/README.md) | Tier 4 | 540 | 6 |
 | [Soda](companies/S/soda/README.md) | Tier 3 | 540 | 60 |
@@ -1968,12 +1968,12 @@
 | [Split-Harness](companies/S/split-harness/README.md) | Tier 3 | 540 | 6 |
 | [Splitit](companies/S/splitit/README.md) | Tier 3 | 540 | 1 |
 | [Splitwise](companies/S/splitwise/README.md) | Tier 2 | 540 | 9 |
-| [Splunk](companies/S/splunk/README.md) | Tier 2 | 826 | 7,540 |
+| [Splunk](companies/S/splunk/README.md) | Tier 2 | 7,707 | 7,540 |
 | [Sportskeeda](companies/S/sportskeeda/README.md) | Tier 3 | 540 | 1 |
 | [Spot-by-NetApp](companies/S/spot-by-netapp/README.md) | Tier 3 | 540 | 13 |
 | [Spot-NetApp](companies/S/spot-netapp/README.md) | Tier 3 | 540 | 7 |
 | [Spot.io](companies/S/spot-io/README.md) | Tier 4 | 540 | 22 |
-| [Spotify](companies/S/spotify/README.md) | Tier 2 | 1,148 | 2,771 |
+| [Spotify](companies/S/spotify/README.md) | Tier 2 | 2,892 | 2,771 |
 | [Springer](companies/S/springer/README.md) | Tier 3 | 540 | 1 |
 | [Sprinklr](companies/S/sprinklr/README.md) | Tier 3 | 540 | 127 |
 | [Sqitch](companies/S/sqitch/README.md) | Tier 3 | 540 | 5 |
@@ -2019,15 +2019,15 @@
 | [StreamNative](companies/S/streamnative/README.md) | Tier 2 | 540 | 13 |
 | [StreamSets](companies/S/streamsets/README.md) | Tier 3 | 540 | 9 |
 | [Striim](companies/S/striim/README.md) | Tier 4 | 540 | 1 |
-| [Stripe](companies/S/stripe/README.md) | Tier 1 | 1,260 | 16,174 |
+| [Stripe](companies/S/stripe/README.md) | Tier 1 | 17,580 | 16,174 |
 | [StrongDM](companies/S/strongdm/README.md) | Tier 4 | 540 | 9 |
 | [Styra](companies/S/styra/README.md) | Tier 3 | 615 | 214 |
 | [Stytch](companies/S/stytch/README.md) | Tier 3 | 540 | 1 |
 | [Suborbital](companies/S/suborbital/README.md) | Tier 4 | 540 | 5 |
 | [Substack](companies/S/substack/README.md) | Tier 3 | 540 | 10 |
 | [Sucuri](companies/S/sucuri/README.md) | Tier 4 | 540 | 1 |
-| [Sumo Logic](companies/S/sumo-logic/README.md) | Tier 3 | 630 | 610 |
-| [Supabase](companies/S/supabase/README.md) | Tier 3 | 775 | 517 |
+| [Sumo Logic](companies/S/sumo-logic/README.md) | Tier 3 | 1,061 | 610 |
+| [Supabase](companies/S/supabase/README.md) | Tier 3 | 850 | 517 |
 | [SuperAnnotate](companies/S/superannotate/README.md) | Tier 4 | 540 | 1 |
 | [Superblocks](companies/S/superblocks/README.md) | Tier 4 | 540 | 1 |
 | [Supercell](companies/S/supercell/README.md) | Tier 2 | 540 | 6 |
@@ -2042,7 +2042,7 @@
 | [SwaggerHub](companies/S/swaggerhub/README.md) | Tier 3 | 540 | 1 |
 | [Swarmia](companies/S/swarmia/README.md) | Tier 3 | 540 | 3 |
 | [SWIFT](companies/S/swift/README.md) | Tier 2 | 540 | 2 |
-| [Swiggy](companies/S/swiggy/README.md) | Tier 2 | 1,260 | 32,513 |
+| [Swiggy](companies/S/swiggy/README.md) | Tier 2 | 36,922 | 32,513 |
 | [Sybase](companies/S/sybase/README.md) | Tier 3 | 540 | 1 |
 | [Symantec](companies/S/symantec/README.md) | Tier 3 | 540 | 1 |
 | [Synadia](companies/S/synadia/README.md) | Tier 4 | 540 | 1 |
@@ -2062,7 +2062,7 @@
 | [T-Systems](companies/T/t-systems/README.md) | Tier 3 | 540 | 1 |
 | [Tabnine](companies/T/tabnine/README.md) | Tier 4 | 540 | 7 |
 | [Taboola](companies/T/taboola/README.md) | Tier 3 | 540 | 11 |
-| [Tabular](companies/T/tabular/README.md) | Tier 4 | 630 | 189 |
+| [Tabular](companies/T/tabular/README.md) | Tier 4 | 652 | 189 |
 | [Tailscale](companies/T/tailscale/README.md) | Tier 3 | 540 | 12 |
 | [Talabat](companies/T/talabat/README.md) | Tier 3 | 540 | 1 |
 | [Talend](companies/T/talend/README.md) | Tier 3 | 540 | 10 |
@@ -2075,7 +2075,7 @@
 | [Tata 1mg](companies/T/tata-1mg/README.md) | Tier 4 | 540 | 5 |
 | [Tata Cliq](companies/T/tata-cliq/README.md) | Tier 3 | 540 | 12 |
 | [Tata Communications](companies/T/tata-communications/README.md) | Tier 3 | 540 | 2 |
-| [Tata Consultancy Services](companies/T/tata-consultancy-services/README.md) | Tier 5 | 1,350 | 23,493 |
+| [Tata Consultancy Services](companies/T/tata-consultancy-services/README.md) | Tier 5 | 25,621 | 23,493 |
 | [Tata Elxsi](companies/T/tata-elxsi/README.md) | Tier 3 | 540 | 1 |
 | [Tata Neu](companies/T/tata-neu/README.md) | Tier 3 | 540 | 3 |
 | [Tata Technologies](companies/T/tata-technologies/README.md) | Tier 4 | 540 | 23 |
@@ -2085,7 +2085,7 @@
 | [Tavily](companies/T/tavily/README.md) | Tier 3 | 540 | 2 |
 | [Tealium](companies/T/tealium/README.md) | Tier 4 | 540 | 2 |
 | [Tech Mahindra](companies/T/tech-mahindra/README.md) | Tier 5 | 598 | 341 |
-| [Tecton](companies/T/tecton/README.md) | Tier 3 | 630 | 551 |
+| [Tecton](companies/T/tecton/README.md) | Tier 3 | 894 | 551 |
 | [Tekion](companies/T/tekion/README.md) | Tier 3 | 540 | 21 |
 | [Teladoc](companies/T/teladoc/README.md) | Tier 3 | 540 | 15 |
 | [Telegraf](companies/T/telegraf/README.md) | Tier 4 | 540 | 2 |
@@ -2095,7 +2095,7 @@
 | [TELUS Digital](companies/T/telus-digital/README.md) | Tier 3 | 540 | 3 |
 | [Tembo](companies/T/tembo/README.md) | Tier 3 | 540 | 1 |
 | [Temenos](companies/T/temenos/README.md) | Tier 3 | 540 | 3 |
-| [Temporal Technologies](companies/T/temporal-technologies/README.md) | Tier 2 | 667 | 521 |
+| [Temporal Technologies](companies/T/temporal-technologies/README.md) | Tier 2 | 741 | 521 |
 | [Tempus](companies/T/tempus/README.md) | Tier 2 | 540 | 18 |
 | [Tenable](companies/T/tenable/README.md) | Tier 2 | 540 | 12 |
 | [Tencent](companies/T/tencent/README.md) | Tier 1 | 540 | 27 |
@@ -2105,7 +2105,7 @@
 | [Teradata](companies/T/teradata/README.md) | Tier 3 | 628 | 218 |
 | [Terrateam](companies/T/terrateam/README.md) | Tier 4 | 540 | 2 |
 | [Tesco](companies/T/tesco/README.md) | Tier 1 | 540 | 9 |
-| [Tesla](companies/T/tesla/README.md) | Tier 2 | 630 | 290 |
+| [Tesla](companies/T/tesla/README.md) | Tier 2 | 677 | 290 |
 | [Testsigma](companies/T/testsigma/README.md) | Tier 4 | 540 | 1 |
 | [Tetrate](companies/T/tetrate/README.md) | Tier 4 | 540 | 42 |
 | [Texas Instruments](companies/T/texas-instruments/README.md) | Tier 3 | 540 | 8 |
@@ -2120,21 +2120,21 @@
 | [Thomson Reuters](companies/T/thomson-reuters/README.md) | Tier 2 | 540 | 58 |
 | [Thorn](companies/T/thorn/README.md) | Tier 4 | 540 | 1 |
 | [ThoughtSpot](companies/T/thoughtspot/README.md) | Tier 3 | 540 | 26 |
-| [ThoughtWorks](companies/T/thoughtworks/README.md) | Tier 3 | 900 | 953 |
+| [ThoughtWorks](companies/T/thoughtworks/README.md) | Tier 3 | 1,319 | 953 |
 | [ThousandEyes](companies/T/thousandeyes/README.md) | Tier 2 | 540 | 22 |
 | [Thumbtack](companies/T/thumbtack/README.md) | Tier 3 | 540 | 1 |
 | [TIBCO](companies/T/tibco/README.md) | Tier 3 | 540 | 7 |
 | [Ticketmaster](companies/T/ticketmaster/README.md) | Tier 2 | 540 | 14 |
 | [TiDB](companies/T/tidb/README.md) | Tier 2 | 619 | 173 |
-| [Tiger Analytics](companies/T/tiger-analytics/README.md) | Tier 3 | 720 | 810 |
+| [Tiger Analytics](companies/T/tiger-analytics/README.md) | Tier 3 | 1,196 | 810 |
 | [Tigera](companies/T/tigera/README.md) | Tier 3 | 540 | 17 |
 | [Tigera-Calico](companies/T/tigera-calico/README.md) | Tier 3 | 540 | 2 |
 | [TigerBeetle](companies/T/tigerbeetle/README.md) | Tier 4 | 540 | 8 |
 | [TigerGraph](companies/T/tigergraph/README.md) | Tier 3 | 540 | 58 |
-| [TikTok](companies/T/tiktok/README.md) | Tier 1 | 649 | 438 |
+| [TikTok](companies/T/tiktok/README.md) | Tier 1 | 815 | 438 |
 | [Times](companies/T/times/README.md) | Tier 3 | 540 | 1 |
 | [Times Internet](companies/T/times-internet/README.md) | Tier 3 | 540 | 3 |
-| [Timescale](companies/T/timescale/README.md) | Tier 3 | 630 | 285 |
+| [Timescale](companies/T/timescale/README.md) | Tier 3 | 657 | 285 |
 | [Tinder](companies/T/tinder/README.md) | Tier 1 | 540 | 8 |
 | [Tines](companies/T/tines/README.md) | Tier 3 | 540 | 1 |
 | [Tinkoff](companies/T/tinkoff/README.md) | Tier 3 | 540 | 15 |
@@ -2143,7 +2143,7 @@
 | [Toast](companies/T/toast/README.md) | Tier 2 | 540 | 5 |
 | [Tobiko](companies/T/tobiko/README.md) | Tier 4 | 540 | 1 |
 | [Todoist](companies/T/todoist/README.md) | Tier 4 | 540 | 7 |
-| [Together AI](companies/T/together-ai/README.md) | Tier 2 | 720 | 1,973 |
+| [Together AI](companies/T/together-ai/README.md) | Tier 2 | 2,325 | 1,973 |
 | [Tokopedia](companies/T/tokopedia/README.md) | Tier 3 | 540 | 1 |
 | [Toloka](companies/T/toloka/README.md) | Tier 4 | 540 | 9 |
 | [Tonic](companies/T/tonic/README.md) | Tier 3 | 540 | 21 |
@@ -2155,7 +2155,7 @@
 | [Transform](companies/T/transform/README.md) | Tier 3 | 540 | 5 |
 | [TransUnion](companies/T/transunion/README.md) | Tier 2 | 540 | 4 |
 | [Travis CI](companies/T/travis-ci/README.md) | Tier 4 | 540 | 1 |
-| [Tredence](companies/T/tredence/README.md) | Tier 3 | 754 | 427 |
+| [Tredence](companies/T/tredence/README.md) | Tier 3 | 787 | 427 |
 | [Treebo](companies/T/treebo/README.md) | Tier 4 | 540 | 1 |
 | [Trend Micro](companies/T/trend-micro/README.md) | Tier 3 | 540 | 1 |
 | [Tresorit](companies/T/tresorit/README.md) | Tier 4 | 540 | 1 |
@@ -2184,9 +2184,9 @@
 | [Turvo](companies/T/turvo/README.md) | Tier 4 | 540 | 2 |
 | [TuSimple](companies/T/tusimple/README.md) | Tier 3 | 540 | 4 |
 | [Twelve Labs](companies/T/twelve-labs/README.md) | Tier 3 | 540 | 5 |
-| [Twilio](companies/T/twilio/README.md) | Tier 2 | 1,112 | 2,943 |
+| [Twilio](companies/T/twilio/README.md) | Tier 2 | 3,557 | 2,943 |
 | [Twingate](companies/T/twingate/README.md) | Tier 4 | 540 | 1 |
-| [Twitter](companies/T/twitter/README.md) | Tier 1 | 748 | 767 |
+| [Twitter](companies/T/twitter/README.md) | Tier 1 | 1,014 | 767 |
 | [Two Sigma](companies/T/two-sigma/README.md) | Tier 1 | 540 | 120 |
 | [Tyk](companies/T/tyk/README.md) | Tier 3 | 540 | 12 |
 | [Typeface](companies/T/typeface/README.md) | Tier 3 | 540 | 4 |
@@ -2199,7 +2199,7 @@
 
 | Company | Tier | Questions Listed | Tagged Directly |
 |---|---|---:|---:|
-| [Uber](companies/U/uber/README.md) | Tier 1 | 1,350 | 36,821 |
+| [Uber](companies/U/uber/README.md) | Tier 1 | 39,713 | 36,821 |
 | [Ubisoft](companies/U/ubisoft/README.md) | Tier 2 | 540 | 2 |
 | [UBS](companies/U/ubs/README.md) | Tier 2 | 540 | 6 |
 | [Udaan](companies/U/udaan/README.md) | Tier 3 | 540 | 1 |
@@ -2262,7 +2262,7 @@
 | [Venafi](companies/V/venafi/README.md) | Tier 3 | 540 | 17 |
 | [Veracode](companies/V/veracode/README.md) | Tier 3 | 540 | 2 |
 | [Verana](companies/V/verana/README.md) | Tier 3 | 540 | 1 |
-| [Vercel](companies/V/vercel/README.md) | Tier 2 | 869 | 2,350 |
+| [Vercel](companies/V/vercel/README.md) | Tier 2 | 2,970 | 2,350 |
 | [Verica](companies/V/verica/README.md) | Tier 3 | 540 | 1 |
 | [Verily](companies/V/verily/README.md) | Tier 2 | 540 | 14 |
 | [Verisign](companies/V/verisign/README.md) | Tier 3 | 540 | 7 |
@@ -2270,7 +2270,7 @@
 | [Verizon](companies/V/verizon/README.md) | Tier 3 | 540 | 41 |
 | [Verkada](companies/V/verkada/README.md) | Tier 3 | 540 | 16 |
 | [Vertica](companies/V/vertica/README.md) | Tier 3 | 546 | 69 |
-| [Ververica](companies/V/ververica/README.md) | Tier 3 | 630 | 213 |
+| [Ververica](companies/V/ververica/README.md) | Tier 3 | 669 | 213 |
 | [Ververica-Flink](companies/V/ververica-flink/README.md) | Tier 3 | 540 | 5 |
 | [Very Good Security](companies/V/very-good-security/README.md) | Tier 4 | 540 | 11 |
 | [Vespa](companies/V/vespa/README.md) | Tier 2 | 583 | 139 |
@@ -2278,7 +2278,7 @@
 | [Vimeo](companies/V/vimeo/README.md) | Tier 3 | 540 | 30 |
 | [Virtu Financial](companies/V/virtu-financial/README.md) | Tier 2 | 540 | 5 |
 | [Virtusa](companies/V/virtusa/README.md) | Tier 4 | 540 | 4 |
-| [Visa](companies/V/visa/README.md) | Tier 2 | 906 | 1,005 |
+| [Visa](companies/V/visa/README.md) | Tier 2 | 1,067 | 1,005 |
 | [Vista Equity](companies/V/vista-equity/README.md) | Tier 3 | 540 | 2 |
 | [Viz.ai](companies/V/viz-ai/README.md) | Tier 3 | 540 | 1 |
 | [VK](companies/V/vk/README.md) | Tier 3 | 540 | 8 |
@@ -2299,7 +2299,7 @@
 | Company | Tier | Questions Listed | Tagged Directly |
 |---|---|---:|---:|
 | [Waii](companies/W/waii/README.md) | Tier 4 | 540 | 1 |
-| [Walmart](companies/W/walmart/README.md) | Tier 2 | 988 | 874 |
+| [Walmart](companies/W/walmart/README.md) | Tier 2 | 1,149 | 874 |
 | [Warner](companies/W/warner/README.md) | Tier 3 | 540 | 3 |
 | [Warnermedia](companies/W/warnermedia/README.md) | Tier 3 | 540 | 6 |
 | [Warpstream](companies/W/warpstream/README.md) | Tier 3 | 540 | 10 |
@@ -2313,9 +2313,9 @@
 | [WazirX](companies/W/wazirx/README.md) | Tier 3 | 540 | 2 |
 | [Wealthfront](companies/W/wealthfront/README.md) | Tier 2 | 540 | 3 |
 | [Weaveworks](companies/W/weaveworks/README.md) | Tier 3 | 621 | 169 |
-| [Weaviate](companies/W/weaviate/README.md) | Tier 3 | 810 | 1,604 |
+| [Weaviate](companies/W/weaviate/README.md) | Tier 3 | 1,889 | 1,604 |
 | [Webflow](companies/W/webflow/README.md) | Tier 2 | 540 | 2 |
-| [Weights & Biases](companies/W/weights-biases/README.md) | Tier 2 | 720 | 811 |
+| [Weights & Biases](companies/W/weights-biases/README.md) | Tier 2 | 1,194 | 811 |
 | [Weka](companies/W/weka/README.md) | Tier 3 | 540 | 7 |
 | [WekaIO](companies/W/wekaio/README.md) | Tier 3 | 540 | 1 |
 | [Wellfound](companies/W/wellfound/README.md) | Tier 3 | 540 | 1 |
@@ -2331,12 +2331,12 @@
 | [WhyLabs](companies/W/whylabs/README.md) | Tier 3 | 540 | 96 |
 | [Wiley](companies/W/wiley/README.md) | Tier 3 | 540 | 1 |
 | [Winzo](companies/W/winzo/README.md) | Tier 4 | 540 | 17 |
-| [Wipro](companies/W/wipro/README.md) | Tier 5 | 1,260 | 21,244 |
+| [Wipro](companies/W/wipro/README.md) | Tier 5 | 22,901 | 21,244 |
 | [Wise](companies/W/wise/README.md) | Tier 2 | 645 | 378 |
 | [Wish](companies/W/wish/README.md) | Tier 3 | 540 | 3 |
 | [Wissen Technology](companies/W/wissen-technology/README.md) | Tier 3 | 540 | 2 |
 | [Wix](companies/W/wix/README.md) | Tier 3 | 540 | 103 |
-| [Wiz](companies/W/wiz/README.md) | Tier 2 | 630 | 339 |
+| [Wiz](companies/W/wiz/README.md) | Tier 2 | 709 | 339 |
 | [Wolfram](companies/W/wolfram/README.md) | Tier 3 | 540 | 9 |
 | [WordPress](companies/W/wordpress/README.md) | Tier 3 | 540 | 8 |
 | [WordPress-VIP](companies/W/wordpress-vip/README.md) | Tier 3 | 540 | 3 |
@@ -2388,7 +2388,7 @@
 | [Yotta](companies/Y/yotta/README.md) | Tier 4 | 540 | 8 |
 | [You.com](companies/Y/you-com/README.md) | Tier 3 | 540 | 25 |
 | [Yubico](companies/Y/yubico/README.md) | Tier 2 | 540 | 6 |
-| [YugabyteDB](companies/Y/yugabytedb/README.md) | Tier 3 | 720 | 568 |
+| [YugabyteDB](companies/Y/yugabytedb/README.md) | Tier 3 | 940 | 568 |
 
 [↑ back to A-Z](#companies-a-z)
 
@@ -2414,25 +2414,25 @@
 | [Zep](companies/Z/zep/README.md) | Tier 4 | 540 | 7 |
 | [Zeplin](companies/Z/zeplin/README.md) | Tier 4 | 540 | 1 |
 | [Zepto](companies/Z/zepto/README.md) | Tier 3 | 540 | 139 |
-| [Zerodha](companies/Z/zerodha/README.md) | Tier 2 | 1,260 | 15,425 |
+| [Zerodha](companies/Z/zerodha/README.md) | Tier 2 | 17,242 | 15,425 |
 | [Zerto](companies/Z/zerto/README.md) | Tier 3 | 540 | 1 |
 | [Zest AI](companies/Z/zest-ai/README.md) | Tier 3 | 540 | 14 |
 | [ZestMoney](companies/Z/zestmoney/README.md) | Tier 4 | 540 | 1 |
 | [Zesty](companies/Z/zesty/README.md) | Tier 5 | 540 | 5 |
-| [Zeta](companies/Z/zeta/README.md) | Tier 3 | 690 | 389 |
+| [Zeta](companies/Z/zeta/README.md) | Tier 3 | 794 | 389 |
 | [Zeta Suite](companies/Z/zeta-suite/README.md) | Tier 3 | 540 | 1 |
 | [Zilliz](companies/Z/zilliz/README.md) | Tier 3 | 576 | 128 |
 | [Zillow](companies/Z/zillow/README.md) | Tier 1 | 540 | 22 |
 | [Zingg](companies/Z/zingg/README.md) | Tier 3 | 540 | 1 |
 | [ZipRecruiter](companies/Z/ziprecruiter/README.md) | Tier 3 | 540 | 6 |
 | [Zluri](companies/Z/zluri/README.md) | Tier 4 | 540 | 1 |
-| [Zoho](companies/Z/zoho/README.md) | Tier 3 | 1,334 | 24,441 |
-| [Zomato](companies/Z/zomato/README.md) | Tier 2 | 1,260 | 16,388 |
+| [Zoho](companies/Z/zoho/README.md) | Tier 3 | 29,135 | 24,441 |
+| [Zomato](companies/Z/zomato/README.md) | Tier 2 | 18,179 | 16,388 |
 | [Zoom](companies/Z/zoom/README.md) | Tier 2 | 554 | 154 |
 | [Zoox](companies/Z/zoox/README.md) | Tier 2 | 540 | 14 |
 | [Zopsmart](companies/Z/zopsmart/README.md) | Tier 4 | 540 | 12 |
 | [ZS Associates](companies/Z/zs-associates/README.md) | Tier 3 | 540 | 69 |
-| [Zscaler](companies/Z/zscaler/README.md) | Tier 2 | 724 | 459 |
+| [Zscaler](companies/Z/zscaler/README.md) | Tier 2 | 778 | 459 |
 | [Zuora](companies/Z/zuora/README.md) | Tier 3 | 540 | 22 |
 | [Zupee](companies/Z/zupee/README.md) | Tier 4 | 540 | 7 |
 | [Zuplo](companies/Z/zuplo/README.md) | Tier 4 | 540 | 6 |

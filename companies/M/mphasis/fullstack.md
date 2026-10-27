@@ -2,6 +2,8 @@
 
 [← back to Mphasis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you iterate over a dictionary's keys, values, and key-value pairs? Show all three. | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Mphasis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-iterate-over-a-dictionary-s-keys-values-and-key-value-pairs-9242) |

@@ -2,6 +2,8 @@
 
 [← back to Groundcover](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd govern the deployment of eBPF-based observability agents across mixed-kernel fleets on three clouds so you get deep signals without a rogue agent destabilizing hosts. | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at Groundcover | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-govern-the-deployment-of-ebpf-based-observability-ag-100876) |

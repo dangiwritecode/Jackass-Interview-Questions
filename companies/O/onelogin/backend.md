@@ -2,6 +2,8 @@
 
 [← back to OneLogin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your service accepts tokens from a partner IdP via federation. The partner's token includes group claims you map to your roles. How do you handle a partner renaming a group without silently escalating or dropping access? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at OneLogin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-service-accepts-tokens-from-a-partner-idp-via-federation-the-part-26214) |

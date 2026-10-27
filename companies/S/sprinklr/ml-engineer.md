@@ -2,6 +2,8 @@
 
 [← back to Sprinklr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You classify 100k tickets nightly. When do you send them to the Batch API for a discount instead of real-time, and how does out-of-order result delivery change your write path? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Sprinklr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-classify-100k-tickets-nightly-when-do-you-send-them-to-the-batch-a-64128) |

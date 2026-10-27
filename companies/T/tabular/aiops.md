@@ -2,6 +2,8 @@
 
 [← back to Tabular](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd support 'time travel' queries on the lake so during a postmortem you can see exactly what the data looked like at incident time. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Observability Data Lake | Onsite, Hiring Manager | Tech | Asked at Tabular | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-support-time-travel-queries-on-the-lake-so-during-a--98117) |

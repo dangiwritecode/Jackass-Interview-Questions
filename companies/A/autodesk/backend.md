@@ -2,6 +2,8 @@
 
 [← back to Autodesk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do C++20 modules change the include model, and what real problems (ODR violations, macro leakage, header ordering, compile time) do they solve? What migration risks would you flag for a large codebase? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Autodesk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-c-20-modules-change-the-include-model-and-what-real-problems-od-16829) |

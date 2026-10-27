@@ -2,6 +2,8 @@
 
 [← back to pganalyze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you influence the org to invest in a shared database-observability and query-performance platform when slow queries and their cost are everyone's problem and therefore no one's? What ownership and funding model actually works at scale? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at pganalyze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-influence-the-org-to-invest-in-a-shared-database-observabil-113221) |

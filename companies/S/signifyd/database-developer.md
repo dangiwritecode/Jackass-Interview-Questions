@@ -2,6 +2,8 @@
 
 [← back to Signifyd](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your read replicas serve stale snapshots and a fraud check reads a replica while writing the primary. What isolation/consistency framing tells you this design is unsafe, and how do you fix it? | deep understanding | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Signifyd | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-read-replicas-serve-stale-snapshots-and-a-fraud-check-reads-a-rep-113681) |

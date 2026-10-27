@@ -2,6 +2,8 @@
 
 [← back to mParticle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast MDM with the modern 'Customer Data Platform' — a stakeholder wants to buy a CDP instead of doing MDM; where do they overlap, where do they diverge, and what would you tell them? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at mParticle | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-mdm-with-the-modern-customer-data-platform-a-stakeholder-want-127737) |

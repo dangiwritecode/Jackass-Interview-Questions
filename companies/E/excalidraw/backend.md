@@ -2,6 +2,8 @@
 
 [← back to Excalidraw](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design multi-region for a real-time collaborative product (docs/whiteboard) where users in different regions edit the same document. How do you keep latency low and merges correct? | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Excalidraw | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-multi-region-for-a-real-time-collaborative-product-docs-whitebo-36658) |

@@ -2,6 +2,8 @@
 
 [← back to Evidently](README.md)
 
+Questions 1–66 of 66.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a system to detect and quantify training-serving skew automatically across the whole feature catalog, surfacing the worst offenders to owners weekly. | expertise | SDE-2/3, Architect/Principal | Feature Stores | Phone Screen, Onsite | Tech | Asked at Evidently | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-to-detect-and-quantify-training-serving-skew-automatic-70815) |

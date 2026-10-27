@@ -2,6 +2,8 @@
 
 [← back to Feedzai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks you to defend running an AP store for a fraud-decisioning feature store where a stale feature could approve a fraudulent transaction; reconstruct the guardrails (bounded staleness, fail-closed on critical features) that make that bet defensible. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Feedzai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-to-defend-running-an-ap-store-for-a-fraud-decisi-111589) |

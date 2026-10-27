@@ -2,6 +2,8 @@
 
 [← back to FaunaDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect availability for a system where correctness requires a single global writer per entity but latency requires local reads everywhere, and where does the speed of light plus your compliance boundaries genuinely cap what you can promise? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at FaunaDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-availability-for-a-system-where-correctness-requi-52066) |

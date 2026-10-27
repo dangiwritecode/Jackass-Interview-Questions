@@ -2,6 +2,8 @@
 
 [← back to Netskope](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An engineer exported a prod table of PII to a personal drive — lead the retro on what egress and just-in-time-access controls would have made it impossible, prioritized against velocity. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Netskope | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-engineer-exported-a-prod-table-of-pii-to-a-personal-drive-lead-the--48016) |

@@ -2,6 +2,8 @@
 
 [← back to Backblaze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A pentester chains a low-privilege API that returns a signed URL with an admin-only download. Explain how signed-URL misuse becomes an authorization bypass and how you'd scope and expire them correctly. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Backblaze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pentester-chains-a-low-privilege-api-that-returns-a-signed-url-with--26160) |

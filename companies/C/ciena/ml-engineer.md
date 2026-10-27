@@ -2,6 +2,8 @@
 
 [← back to Ciena](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect throughput optimization for the SFT stage across a mixed fleet of GPU generations so older and newer hardware are both well-utilized? | deep understanding | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Telecom companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-throughput-optimization-for-the-sft-stage-across--71356) |

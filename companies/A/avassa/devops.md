@@ -2,6 +2,8 @@
 
 [← back to Avassa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org wants a single mesh spanning EKS, on-prem OpenShift, and edge k3s clusters with intermittent connectivity. Architect how proxies survive control-plane disconnection at the edge, cache config, and reconcile on reconnect without a thundering-herd. | expertise | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Avassa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-wants-a-single-mesh-spanning-eks-on-prem-openshift-and-edge-k-52679) |

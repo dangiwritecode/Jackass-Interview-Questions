@@ -2,6 +2,8 @@
 
 [← back to Matillion](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach vendor and DPA due diligence at an architecture level so that every ingestion connector you add carries a verified data-processing agreement and residency guarantee? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Matillion | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-vendor-and-dpa-due-diligence-at-an-architecture-le-127387) |

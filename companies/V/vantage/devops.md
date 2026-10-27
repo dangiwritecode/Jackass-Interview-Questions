@@ -2,6 +2,8 @@
 
 [← back to Vantage](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks about incentive design: your best engineers optimize what's measured, so the moment you publish a cost leaderboard, teams start gaming it by moving cost off their tags. How do you design a cost-visibility system that's hard to game by construction rather than by policing? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Vantage | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-about-incentive-design-your-best-engineers-optimize--53836) |

@@ -2,6 +2,8 @@
 
 [← back to Dassault](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect caching for a bill-of-materials recursive query so a single node edit invalidates only the affected subtree of cached flattened results, not the entire hierarchy? | deep understanding | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Dassault | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-bill-of-materials-recursive-quer-111492) |

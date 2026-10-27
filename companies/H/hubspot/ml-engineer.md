@@ -2,6 +2,8 @@
 
 [← back to HubSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A model trained on customer-support transcripts is now shared across business units. How do you enforce purpose limitation so the model isn't used beyond consented scope? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at HubSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-trained-on-customer-support-transcripts-is-now-shared-across-b-72595) |

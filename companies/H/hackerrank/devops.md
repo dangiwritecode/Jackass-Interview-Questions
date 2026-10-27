@@ -2,6 +2,8 @@
 
 [← back to HackerRank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org runs a code-execution product accepting untrusted user code and needs stronger isolation than seccomp. How would you architect gVisor versus Kata versus microVM-per-request, decide the tenancy boundary, and honestly characterize the residual escape risk you'd sign off to security leadership? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at HackerRank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-a-code-execution-product-accepting-untrusted-user-code-a-52199) |

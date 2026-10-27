@@ -2,6 +2,8 @@
 
 [← back to Neo4j](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Discuss how you'd retrofit a knowledge-graph / semantic layer over your metadata so you can answer relationship questions ('which datasets are governed by policy X and owned by team Y and feed a Tier-1 report'). Is a KG worth the complexity? | expertise | SDE-2/3, Architect/Principal | Data Catalog & Metadata Engineering | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Neo4j | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=discuss-how-you-d-retrofit-a-knowledge-graph-semantic-layer-over-your--126602) |

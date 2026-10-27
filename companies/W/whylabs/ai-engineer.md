@@ -2,6 +2,8 @@
 
 [← back to WhyLabs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A postmortem reveals an agent silently started calling the wrong tool for two weeks after a subtle prompt change and corrupted data. Design the systemic controls (canary, drift detection, differential testing, guarded writes) that catch this in hours, not weeks. | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at WhyLabs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-postmortem-reveals-an-agent-silently-started-calling-the-wrong-tool--83076) |

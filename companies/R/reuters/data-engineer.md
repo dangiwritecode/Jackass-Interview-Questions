@@ -2,6 +2,8 @@
 
 [← back to Reuters](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach reference data management (currencies, country codes, product categories, industry codes) versus master data, and why do teams that conflate the two get burned? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Reuters | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-reference-data-management-currencies-country-codes-127732) |

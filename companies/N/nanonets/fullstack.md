@@ -2,6 +2,8 @@
 
 [← back to Nanonets](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a document-processing pipeline that OCRs classifies and extracts structured data from millions of uploaded PDFs/images with an LLM step — how do you handle the async long-running jobs cost control and human-in-the-loop correction at scale? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nanonets | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-document-processing-pipeline-that-ocrs-classifies-and-extr-39497) |

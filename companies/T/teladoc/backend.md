@@ -2,6 +2,8 @@
 
 [← back to Teladoc](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an event-driven architecture for a healthcare platform where HL7/FHIR clinical events carry PHI, must be auditable, and where a dropped or reordered event can be a patient-safety issue. What guarantees are non-negotiable and how does that constrain your broker choice? | expertise | SDE-2/3, Architect/Principal | Message Queues & Event-Driven Architecture | Phone Screen, Onsite | Tech | Asked at Teladoc | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-event-driven-architecture-for-a-healthcare-platform-where-hl-32663) |

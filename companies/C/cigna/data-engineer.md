@@ -2,6 +2,8 @@
 
 [← back to Cigna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A factless fact table is proposed to model coverage/eligibility. When is that elegant versus a sign someone doesn't understand the actual event grain? | deep understanding | SDE-2/3, Architect/Principal | Data Modeling Judgment (Kimball/Inmon/Data Vault) | Phone Screen, Onsite | Tech | Asked at Cigna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-factless-fact-table-is-proposed-to-model-coverage-eligibility-when-i-127662) |

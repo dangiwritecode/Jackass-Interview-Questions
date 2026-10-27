@@ -2,6 +2,8 @@
 
 [← back to Redpanda](README.md)
 
+Questions 1–65 of 65.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges your choice of a single Kafka as the org-wide backbone: what are the risks of a shared streaming substrate versus per-domain streams? | expertise | SDE-2/3, Architect/Principal | Real-time Analytics Architecture | Onsite | Tech | Asked at Redpanda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-choice-of-a-single-kafka-as-the-org-wid-127613) |

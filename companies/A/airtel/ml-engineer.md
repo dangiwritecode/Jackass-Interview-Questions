@@ -2,6 +2,8 @@
 
 [← back to Airtel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is your multi-region and DR strategy for a post-training platform when a single RLHF run can span weeks and consume a datacenter's worth of GPUs? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Airtel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-multi-region-and-dr-strategy-for-a-post-training-platform-71276) |

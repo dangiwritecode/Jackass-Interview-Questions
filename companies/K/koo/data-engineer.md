@@ -2,6 +2,8 @@
 
 [← back to Koo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What happens if you forget ORDER BY inside OVER when using ROW_NUMBER()? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Koo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-happens-if-you-forget-order-by-inside-over-when-using-row-number-118988) |

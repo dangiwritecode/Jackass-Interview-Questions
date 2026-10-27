@@ -2,6 +2,8 @@
 
 [← back to Digit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you model an insurance policy-claim scenario where a claim's dimensional context evolves through a long lifecycle with reopenings, without losing history? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | Asked at Digit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-an-insurance-policy-claim-scenario-where-a-claim-s-121462) |

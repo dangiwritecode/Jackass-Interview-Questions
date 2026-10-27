@@ -2,6 +2,8 @@
 
 [← back to Booz-Allen](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you operationalize NIST AI RMF's govern-map-measure-manage as concrete platform primitives rather than a slide deck the compliance team owns? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Booz-Allen | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-operationalize-nist-ai-rmf-s-govern-map-measure-manage-as-c-86113) |

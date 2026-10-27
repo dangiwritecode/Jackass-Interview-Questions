@@ -2,6 +2,8 @@
 
 [← back to Etsy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you influence the culture of an org where every incident becomes a witch-hunt, so engineers stop hiding failures and cross-team blameless postmortems on shared infra become the norm? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Etsy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-influence-the-culture-of-an-org-where-every-incident-become-54480) |

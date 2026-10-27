@@ -2,6 +2,8 @@
 
 [← back to Basecamp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser final: 'Sell me on keeping the monolith for another 18 months.' Construct the strongest good-faith argument to defer decomposition, then honestly state the one condition that would flip your recommendation. | expertise | SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Basecamp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-final-sell-me-on-keeping-the-monolith-for-another-18-mont-31800) |

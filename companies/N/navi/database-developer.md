@@ -2,6 +2,8 @@
 
 [← back to Navi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A PL/SQL cursor uses a bind variable but the plan is still bad because of bind peeking / skewed data; how does adaptive cursor sharing change your approach? | expertise | SDE-1, SDE-1/2 | PL/SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Navi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pl-sql-cursor-uses-a-bind-variable-but-the-plan-is-still-bad-because-108514) |

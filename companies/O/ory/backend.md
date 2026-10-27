@@ -2,6 +2,8 @@
 
 [← back to Ory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design token issuance so an attacker who steals your database of hashed refresh tokens still cannot forge a valid access token? What must be kept out of the DB entirely? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Ory | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-token-issuance-so-an-attacker-who-steals-your-dat-26217) |

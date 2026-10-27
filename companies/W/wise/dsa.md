@@ -2,6 +2,8 @@
 
 [← back to Wise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Largest Solid Square in a Binary Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | 2D DP, Array, Dynamic Programming, Matrix | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Wise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-solid-square-in-a-binary-grid-d221) |

@@ -2,6 +2,8 @@
 
 [← back to Gaana](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What does it mean for OLAP data to be 'historical' and why is that useful for a business? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Gaana | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-it-mean-for-olap-data-to-be-historical-and-why-is-that-usefu-118791) |

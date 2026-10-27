@@ -2,6 +2,8 @@
 
 [← back to Vimeo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does bounded-load consistent hashing (consistent hashing with bounded loads) cap the load on any single node? Explain the ε parameter and its trade-off. | expertise | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Consistent Hashing | Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Vimeo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-bounded-load-consistent-hashing-consistent-hashing-with-bound-28643) |

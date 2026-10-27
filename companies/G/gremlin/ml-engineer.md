@@ -2,6 +2,8 @@
 
 [← back to Gremlin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a compliance-aware chaos-engineering practice for the ML platform — deliberately failing the consent-check the feature-store PII masking or the erasure job — to prove the failure modes fail-closed and compliant-by-default without a real violation? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Gremlin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-compliance-aware-chaos-engineering-practice-for-70022) |

@@ -2,6 +2,8 @@
 
 [← back to CrowdStrike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bash command from the model is untrusted output. Design the sandboxing, allowlist, and resource limits you would apply, and explain why a blocklist of dangerous commands is insufficient. | expertise | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at CrowdStrike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bash-command-from-the-model-is-untrusted-output-design-the-sandboxin-20368) |

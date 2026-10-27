@@ -2,6 +2,8 @@
 
 [← back to Reliance Retail](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you compute a per-region cumulative share of company revenue in descending order in a single scan, and why is the ORDER BY direction inside OVER load-bearing here? | deep understanding | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Reliance Retail | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compute-a-per-region-cumulative-share-of-company-revenue-123265) |

@@ -2,6 +2,8 @@
 
 [← back to Nium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a time you had to make a build-vs-partner decision for a capability core to your product but far from your core competency. How did you decide where the line of strategic differentiation actually was? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-make-a-build-vs-partner-decision-for-a-capa-40433) |

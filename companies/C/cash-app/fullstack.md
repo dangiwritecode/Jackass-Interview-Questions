@@ -2,6 +2,8 @@
 
 [← back to Cash App](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding whether to adopt a durable-execution/workflow engine (Temporal-style) as org-wide infrastructure — a skeptical staff engineer says it adds a new failure mode and lock-in; make the architectural case and mark where you wouldn't use it. | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cash App | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-adopt-a-durable-execution-workflow-engine-t-39449) |

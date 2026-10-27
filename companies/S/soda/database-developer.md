@@ -2,6 +2,8 @@
 
 [← back to Soda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a data-quality / validation / anomaly-detection layer on your pipelines and tables (Great Expectations/dbt-tests OSS vs Monte Carlo/managed vs bespoke) when trust in every downstream metric depends on it? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Soda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-quality-validation-anomaly-d-113021) |

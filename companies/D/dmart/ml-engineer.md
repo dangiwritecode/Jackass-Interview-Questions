@@ -2,6 +2,8 @@
 
 [← back to DMart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the right forecast granularity (SKU-store vs SKU-region) balancing accuracy, cost, and business need? | deep understanding | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | Asked at DMart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-right-forecast-granularity-sku-store-vs-sku-regi-66446) |

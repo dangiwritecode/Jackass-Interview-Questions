@@ -2,6 +2,8 @@
 
 [← back to StackBlitz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a real-time collaborative code-editing backend (like a browser IDE with multiplayer) — how do you sync a shared filesystem run per-user language servers and keep the container-per-session model cost-bounded at 100K daily sessions? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at StackBlitz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-real-time-collaborative-code-editing-backend-like-a-browser-i-39434) |

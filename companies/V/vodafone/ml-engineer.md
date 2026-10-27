@@ -2,6 +2,8 @@
 
 [← back to Vodafone](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a DPIA (data-protection-impact-assessment) gate for new ML use cases so it's a fast automated check in the model-onboarding flow rather than a bureaucratic blocker — what does it actually inspect in the training config and data manifest? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Vodafone | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-dpia-data-protection-impact-assessment-gate-for-70010) |

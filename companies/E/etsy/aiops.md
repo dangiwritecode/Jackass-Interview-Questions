@@ -2,6 +2,8 @@
 
 [← back to Etsy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're migrating 300 teams off a legacy StatsD/Graphite stack to OTel+Prometheus over 18 months. Sequence the migration so dashboards, alerts, and muscle memory survive, and define the concrete rollback and dual-run points for each phase. | expertise | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Etsy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-migrating-300-teams-off-a-legacy-statsd-graphite-stack-to-otel--99054) |

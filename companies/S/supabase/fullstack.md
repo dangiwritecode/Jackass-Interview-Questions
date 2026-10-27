@@ -2,6 +2,8 @@
 
 [← back to Supabase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A full-stack feature needs an API Gateway route, a Lambda, and a DynamoDB table provisioned together, but the frontend deploy depends on the API URL being known first. How do you sequence Terraform outputs into the frontend build so the URL isn't hardcoded or stale? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Supabase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-full-stack-feature-needs-an-api-gateway-route-a-lambda-and-a-dynamod-30210) |

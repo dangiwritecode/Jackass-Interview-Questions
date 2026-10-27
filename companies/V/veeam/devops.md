@@ -2,6 +2,8 @@
 
 [← back to Veeam](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd run migration and DR strategy together so migrated workloads land already-compliant with multi-AZ/multi-region resilience targets. | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Veeam | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-run-migration-and-dr-strategy-together-so-migrated--56613) |

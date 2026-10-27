@@ -2,6 +2,8 @@
 
 [← back to Ola](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cluster's Argo Image Updater writes a new tag back to Git on every image build, and the write-back commits are flooding history and racing with human PRs. How would you tame the write-back loop without losing automated promotion? | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Ola | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cluster-s-argo-image-updater-writes-a-new-tag-back-to-git-on-every-i-45639) |

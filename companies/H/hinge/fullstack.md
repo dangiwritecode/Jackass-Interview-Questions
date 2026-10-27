@@ -2,6 +2,8 @@
 
 [← back to Hinge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you implement and query a friends/follows graph with mutual-connection and second-degree lookups in Postgres, and at what scale would you move to a graph store? | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Hinge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-and-query-a-friends-follows-graph-with-mutual--18211) |

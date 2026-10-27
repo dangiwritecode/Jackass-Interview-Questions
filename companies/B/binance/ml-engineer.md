@@ -2,6 +2,8 @@
 
 [← back to Binance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set up a backtesting harness for an XGBoost time-aware model so evaluation respects temporal ordering and no lookahead bias? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Binance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-a-backtesting-harness-for-an-xgboost-time-aware-m-65951) |

@@ -2,6 +2,8 @@
 
 [← back to Abnormal Security](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What happens when you type a URL into the browser for a cloud-hosted app until the page loads? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Security companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-happens-when-you-type-a-url-into-the-browser-for-a-cloud-hosted-a-6820) |

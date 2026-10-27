@@ -2,6 +2,8 @@
 
 [← back to LinearB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What DORA metrics do you actually trust as signals of developer experience versus which ones get gamed, and how would you instrument them without turning them into a surveillance tool that erodes trust? | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at LinearB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-dora-metrics-do-you-actually-trust-as-signals-of-developer-experi-37420) |

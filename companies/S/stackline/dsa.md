@@ -2,6 +2,8 @@
 
 [← back to Stackline](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Maximizing Funds by Completing Capital-Gated Projects | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Greedy, Heap (Priority Queue), Sorting, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Stackline | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximizing-funds-by-completing-capital-gated-projects-d502) |

@@ -2,6 +2,8 @@
 
 [← back to Stanford HAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design an eval to distinguish a genuinely better model from one that merely memorized your leaked eval set through training data contamination? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Stanford HAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-eval-to-distinguish-a-genuinely-better-model-f-72240) |

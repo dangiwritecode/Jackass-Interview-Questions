@@ -2,6 +2,8 @@
 
 [← back to MPL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A frontend dashboard polls counts that you serve from Redis, and it hammers a single hot counter key — how do you shard the counter and reconcile the shards for display? | deep understanding | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | Asked at MPL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-frontend-dashboard-polls-counts-that-you-serve-from-redis-and-it-ham-18365) |

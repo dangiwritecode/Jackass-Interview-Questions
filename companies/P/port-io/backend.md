@@ -2,6 +2,8 @@
 
 [← back to Port IO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a service-catalog and software-templates system (a la Backstage scaffolder) that stays coherent as hundreds of teams add templates? How do you govern template quality and lifecycle? | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at Port IO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-service-catalog-and-software-templates-system-a-37464) |

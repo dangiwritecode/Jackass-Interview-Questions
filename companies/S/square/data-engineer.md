@@ -2,6 +2,8 @@
 
 [← back to Square](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you compute a streaming running-total revenue per merchant that survives restarts and never double-counts? | deep understanding | SDE-1/2, SDE-2/3 | Stream Processing (Apache Flink) | Phone Screen, Onsite | Tech | Asked at Square | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compute-a-streaming-running-total-revenue-per-merchant-t-121322) |

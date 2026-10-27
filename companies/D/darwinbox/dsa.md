@@ -2,6 +2,8 @@
 
 [← back to Darwinbox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Split-and-Swap String Transformation Check | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Divide and Conquer, Dynamic Programming, Memoization, Recursion, String | DSA/Coding Round, Onsite | DSA | Asked at Darwinbox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=split-and-swap-string-transformation-check-d87) |

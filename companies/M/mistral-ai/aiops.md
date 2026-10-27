@@ -2,6 +2,8 @@
 
 [← back to Mistral AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when the org should self-host an open-weight model for incident agents versus staying on a frontier API, at scale and under a strict data-residency mandate? | expertise | SDE-2/3, Architect/Principal | Agentic Incident Automation | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Mistral AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-the-org-should-self-host-an-open-weight-model-f-102245) |

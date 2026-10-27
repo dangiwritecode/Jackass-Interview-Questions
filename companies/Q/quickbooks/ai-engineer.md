@@ -2,6 +2,8 @@
 
 [← back to QuickBooks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why an LLM's answer to '2+2' can differ across calls, and use that to argue where an LLM must never be the arithmetic authority. | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at QuickBooks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-an-llm-s-answer-to-2-2-can-differ-across-calls-and-use-tha-77997) |

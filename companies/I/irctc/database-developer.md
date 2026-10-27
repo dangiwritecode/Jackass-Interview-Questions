@@ -2,6 +2,8 @@
 
 [← back to IRCTC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd handle read/write splitting for time-sensitive reads like inventory or seat availability where even 200ms of lag oversells. | expertise | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at IRCTC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-handle-read-write-splitting-for-time-sensitive-reads-115493) |

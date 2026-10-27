@@ -2,6 +2,8 @@
 
 [← back to Twitter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: 'a single celebrity/viral entity makes one partition 1000x hotter than the rest and hammers one worker.' Architect the enterprise-standard patterns for hot-key skew in both batch (salting, adaptive execution) and streaming (key-splitting), and how you detect skew before it pages someone. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Twitter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-a-single-celebrity-viral-entity-makes-one-partition--125668) |

@@ -2,6 +2,8 @@
 
 [← back to AI4Bharat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the org strategy for aligning multilingual/India-first models via post-training while keeping English capabilities and controlling annotation cost? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at AI4Bharat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-strategy-for-aligning-multilingual-india-fir-71315) |

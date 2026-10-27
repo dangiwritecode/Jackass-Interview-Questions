@@ -2,6 +2,8 @@
 
 [← back to Parse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your framework for pricing the risk of a vendor deprecating a service you depend on mid-contract and forcing a costly migration? | deep understanding | SDE-2/3, Architect/Principal | Vendor & Cloud Cost Negotiation | Hiring Manager | Tech | Asked at Parse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-pricing-the-risk-of-a-vendor-deprecating-a-s-56686) |

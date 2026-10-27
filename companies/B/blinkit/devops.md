@@ -2,6 +2,8 @@
 
 [← back to Blinkit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you configure your CI pipeline to fail a build when a Terraform plan would create an unencrypted RDS instance or a public S3 bucket — which tool would you reach for and where does it sit in the pipeline? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Blinkit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-configure-your-ci-pipeline-to-fail-a-build-when-a-terraform-47929) |

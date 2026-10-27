@@ -2,6 +2,8 @@
 
 [← back to AppNexus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Adjudicate the trade-off: buffering absorbs bursts but adds latency and hides overload; shedding preserves latency but loses work. For a real-time bidding system defend where you draw the line and how you tune it. | expertise | SDE-2/3, Architect/Principal | Backpressure & Flow Control | Phone Screen, Onsite | Tech | Asked at AppNexus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=adjudicate-the-trade-off-buffering-absorbs-bursts-but-adds-latency-and-37740) |

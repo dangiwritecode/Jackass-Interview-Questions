@@ -2,6 +2,8 @@
 
 [← back to FPT](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Express a Number as the Sum of Three Consecutive Integers | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Arithmetic Progression, Constructive, Math, Number Theory, Simulation | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at FPT | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=express-a-number-as-the-sum-of-three-consecutive-integers-d2052) |

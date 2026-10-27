@@ -2,6 +2,8 @@
 
 [← back to Twilio](README.md)
 
+Questions 1–143 of 143.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Cassandra table with a wide partition (millions of rows per partition key) times out on reads — how do you re-model the partition key to bound partition size? | deep understanding | SDE-1/2, SDE-2/3 | Partitioning & Bucketing | Phone Screen, Onsite | Tech | Asked at Twilio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cassandra-table-with-a-wide-partition-millions-of-rows-per-partition-123123) |

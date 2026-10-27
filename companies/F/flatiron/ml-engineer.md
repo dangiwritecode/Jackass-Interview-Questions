@@ -2,6 +2,8 @@
 
 [← back to Flatiron](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect governance for a healthcare ML platform to satisfy HIPAA while still enabling research teams to iterate on de-identified datasets? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Flatiron | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-governance-for-a-healthcare-ml-platform-to-sat-72130) |

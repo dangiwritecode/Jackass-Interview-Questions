@@ -2,6 +2,8 @@
 
 [← back to Bhashini](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would handle mixed-script tokens where Latin and Devanagari appear in a single word from Indian-language input. | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Bhashini | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-handle-mixed-script-tokens-where-latin-and-devan-79470) |

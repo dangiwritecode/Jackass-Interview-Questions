@@ -2,6 +2,8 @@
 
 [← back to JioCinema](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regional failover melted your origin because every cold cache refilled at once — walk me through the architectural fixes (origin shield, request collapsing, jittered warm-up, staged failover) and how you'd prove they hold before the next real failover. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at JioCinema | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regional-failover-melted-your-origin-because-every-cold-cache-refill-52344) |

@@ -2,6 +2,8 @@
 
 [← back to Reliance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare a hub-and-spoke warehouse topology (central + domain marts) vs a full mesh vs a single monolithic warehouse for a 10-BU conglomerate. Which fits which org shape, and how do you evolve between them? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Reliance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-a-hub-and-spoke-warehouse-topology-central-domain-marts-vs-a-f-36593) |

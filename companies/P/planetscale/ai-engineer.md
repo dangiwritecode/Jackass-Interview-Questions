@@ -2,6 +2,8 @@
 
 [← back to PlanetScale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare event-sourcing, snapshot-plus-log, and CRUD-on-Postgres for the state architecture of millions of long-lived resumable agent conversations. Which wins on durability, replay, and read performance at that scale, and where does each bite you? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at PlanetScale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-event-sourcing-snapshot-plus-log-and-crud-on-postgres-for-the--83057) |

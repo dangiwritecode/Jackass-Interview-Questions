@@ -2,6 +2,8 @@
 
 [← back to Dailyhunt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate cross-lingual quality parity so an English-first model isn't shipped with a silent 30% quality gap in Hindi or Tamil? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Dailyhunt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-cross-lingual-quality-parity-so-an-english-first-m-86877) |

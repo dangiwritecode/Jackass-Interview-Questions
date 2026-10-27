@@ -2,6 +2,8 @@
 
 [← back to Nubank](README.md)
 
+Questions 1–115 of 115.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A class-imbalanced training loop must draw examples per class in O(1); what data structure lets you sample from each class efficiently and how do you avoid rebuilding it each epoch? | intermediate experience | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Nubank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-class-imbalanced-training-loop-must-draw-examples-per-class-in-o-1-w-62514) |

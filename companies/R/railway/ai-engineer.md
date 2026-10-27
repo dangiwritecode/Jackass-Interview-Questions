@@ -2,6 +2,8 @@
 
 [← back to Railway](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a self-serve platform contract so a product team can onboard a new corpus to agent-retrieval in a day without touching your team. What defaults, guardrails, and paved-road primitives must you expose, and where do you deliberately refuse to make it self-serve? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Railway | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-self-serve-platform-contract-so-a-product-team-can-onboard-a--82516) |

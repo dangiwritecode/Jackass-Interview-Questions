@@ -2,6 +2,8 @@
 
 [← back to ClickHouse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A BRIN index on a timestamp works great until inserts arrive out of order and correlation degrades. Explain how BRIN summarization breaks and how you'd detect and repair it. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at ClickHouse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-brin-index-on-a-timestamp-works-great-until-inserts-arrive-out-of-or-25819) |

@@ -2,6 +2,8 @@
 
 [← back to Cribl](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the case where your SLI is computed from logs but logs are sampled and buffered so budget calculations lag reality by minutes — how does that lag change your alerting and can you make it real-time? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cribl | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-case-where-your-sli-is-computed-from-logs-but-lo-41389) |

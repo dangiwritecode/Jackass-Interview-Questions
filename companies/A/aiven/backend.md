@@ -2,6 +2,8 @@
 
 [← back to Aiven](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A broker's disk hit 95% and it started throttling. Walk through your immediate mitigation and the longer-term retention or tiered-storage change you'd make. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kafka | Phone Screen, Onsite | Tech | Asked at Aiven | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-broker-s-disk-hit-95-and-it-started-throttling-walk-through-your-imm-24857) |

@@ -2,6 +2,8 @@
 
 [← back to AssemblyAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A prompt template change improved one intent but regressed another. How do you slice your drift metrics by intent to catch that? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at AI companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-prompt-template-change-improved-one-intent-but-regressed-another-how-97854) |

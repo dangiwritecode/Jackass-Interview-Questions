@@ -2,6 +2,8 @@
 
 [← back to Seldon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a self-service ML-model-deployment path on your platform (buy SageMaker/Vertex endpoints vs build on KServe/Seldon + your IDP) when ML teams want push-button serving but you own the GPU-cost and reliability? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Seldon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-self-service-ml-model-deployment--53787) |

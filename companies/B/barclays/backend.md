@@ -2,6 +2,8 @@
 
 [← back to Barclays](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator demands you prove no PII from EU customers ever entered a US-hosted dataset. Given a sprawling lake, how do you architect for provable data-flow containment rather than after-the-fact scanning? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Barclays | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-demands-you-prove-no-pii-from-eu-customers-ever-entered-a--36589) |

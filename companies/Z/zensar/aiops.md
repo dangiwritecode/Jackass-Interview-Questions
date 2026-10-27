@@ -2,6 +2,8 @@
 
 [← back to Zensar](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What happens if your Kafka consumer lag spikes during a traffic surge? How does that affect anomaly detection correctness and what do you do? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Real-time Anomaly Detection at Scale | Phone Screen, Onsite | Tech | Asked at Zensar | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-happens-if-your-kafka-consumer-lag-spikes-during-a-traffic-surge--97335) |

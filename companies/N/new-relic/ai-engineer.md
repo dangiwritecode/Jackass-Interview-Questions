@@ -2,6 +2,8 @@
 
 [← back to New Relic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are defining the cloud observability standard for every AI service in the org. What signals would you make mandatory beyond the usual golden ones so that a degraded model — not just degraded infrastructure — is detectable, and how do you keep the telemetry bill in check? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at New Relic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-defining-the-cloud-observability-standard-for-every-ai-service-82758) |

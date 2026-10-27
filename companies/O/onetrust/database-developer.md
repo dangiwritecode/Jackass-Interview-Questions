@@ -2,6 +2,8 @@
 
 [← back to OneTrust](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a data-retention and legal-basis expiry engine that automatically triggers crypto-erasure per data category per jurisdiction — how do you avoid over-retention penalties under GDPR? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at OneTrust | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-data-retention-and-legal-basis-expiry-engine-that-automatical-115313) |

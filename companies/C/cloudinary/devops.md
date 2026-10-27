@@ -2,6 +2,8 @@
 
 [← back to Cloudinary](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What does the client_max_body_size directive control in Nginx? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | Asked at Cloudinary | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-the-client-max-body-size-directive-control-in-nginx-43854) |

@@ -2,6 +2,8 @@
 
 [← back to Samsara](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect SLOs for an IoT/edge fleet of millions of devices with intermittent connectivity where most "failures" are the device's network — what SLI fairly separates device-side from platform-side reliability? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Samsara | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-slos-for-an-iot-edge-fleet-of-millions-of-devices-54206) |

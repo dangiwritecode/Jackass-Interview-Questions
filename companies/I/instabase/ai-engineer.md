@@ -2,6 +2,8 @@
 
 [← back to Instabase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your with_structured_output calls intermittently fail schema validation under high volume. How would you make structured extraction robust without dropping requests? | deep understanding | SDE-1/2, SDE-2/3 | LangChain | Phone Screen, Onsite | Tech | Asked at Instabase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-with-structured-output-calls-intermittently-fail-schema-validatio-79704) |

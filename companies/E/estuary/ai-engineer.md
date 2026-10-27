@@ -2,6 +2,8 @@
 
 [← back to Estuary](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your agent writes to a system of record and an event stream, and the two can diverge if one succeeds and the other fails mid-loop. Design the architecture that guarantees they stay consistent, and the reconciliation when they don't. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Estuary | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-agent-writes-to-a-system-of-record-and-an-event-stream-and-the-tw-83130) |

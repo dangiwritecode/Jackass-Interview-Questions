@@ -2,6 +2,8 @@
 
 [← back to Cube](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd architect a semantic/metrics layer (dbt Semantic Layer / Cube / LookML) as the single governed entry point so BI, notebooks, and even LLM agents all resolve 'revenue' identically. Where does pushing all query through a semantic layer break down for complex analytical SQL, and what's your escape hatch? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cube | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-architect-a-semantic-metrics-layer-dbt-semantic-laye-112739) |

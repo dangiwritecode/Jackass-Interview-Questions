@@ -2,6 +2,8 @@
 
 [← back to Axon-Framework](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide whether caching belongs at the CQRS read model or in a separate cache in front of it, and when is a cache redundant with a well-designed, already-denormalized read model? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Axon-Framework | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-caching-belongs-at-the-cqrs-read-model-or-in-111506) |

@@ -2,6 +2,8 @@
 
 [← back to Robust Intelligence](README.md)
 
+Questions 1–71 of 71.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A postmortem shows a prompt-injection in a user-uploaded document made your RAG agent leak another user's data — how do you re-architect the retrieval-and-tool-call boundary on AWS so untrusted retrieved content can never be treated as trusted instructions? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Robust Intelligence | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-postmortem-shows-a-prompt-injection-in-a-user-uploaded-document-made-82719) |

@@ -2,6 +2,8 @@
 
 [← back to Visa](README.md)
 
+Questions 1–81 of 81.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A board member asks for a single number that captures the company's regulatory risk exposure across GDPR SOC2 and PCI — as principal what composite risk metric would you defend defining and what are the honest limits of reducing governance posture to one figure? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Visa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-board-member-asks-for-a-single-number-that-captures-the-company-s-re-54024) |

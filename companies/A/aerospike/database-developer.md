@@ -2,6 +2,8 @@
 
 [← back to Aerospike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach vendor selection when a key non-functional requirement is deterministic sub-millisecond p99 latency at high concurrency? | expertise | SDE-2/3, Architect/Principal | Database Vendor & Tooling Strategy | Onsite, Hiring Manager | Tech | Asked at Aerospike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-vendor-selection-when-a-key-non-functional-require-115427) |

@@ -2,6 +2,8 @@
 
 [← back to Dhan](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through architecting a capacity plan for a system with a hard regulatory latency ceiling (e.g. exchange order-matching) where you cannot trade latency for cost. How do you still find savings when the usual lever — running hotter — is off the table? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Dhan | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-architecting-a-capacity-plan-for-a-system-with-a-hard--52947) |

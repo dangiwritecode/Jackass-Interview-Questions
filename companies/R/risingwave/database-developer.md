@@ -2,6 +2,8 @@
 
 [← back to RisingWave](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're choosing whether the org's real-time analytics run on materialized views in Postgres/ksqlDB versus a streaming database (Materialize/RisingWave) versus a stream processor writing to OLAP. For an ops dashboard needing incremental, always-fresh joins, defend the choice and its scaling ceiling. | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at RisingWave | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-choosing-whether-the-org-s-real-time-analytics-run-on-materiali-112677) |

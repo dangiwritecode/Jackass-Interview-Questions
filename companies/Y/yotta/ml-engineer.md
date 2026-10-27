@@ -2,6 +2,8 @@
 
 [← back to Yotta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan GPU capacity strategy across reserved, on-demand, and spot capacity for both training and inference of foundation models over a multi-year horizon? | expertise | SDE-2/3, Architect/Principal | Foundation Model Strategy | Onsite, Hiring Manager | Tech | Asked at Yotta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-gpu-capacity-strategy-across-reserved-on-demand-and-sp-72287) |

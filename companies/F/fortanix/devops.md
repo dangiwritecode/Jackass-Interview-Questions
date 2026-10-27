@@ -2,6 +2,8 @@
 
 [← back to Fortanix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An auditor asks you to prove that no single operator can both unseal Vault and read production secrets. Design the separation-of-duties and quorum controls, and explain where auto-unseal complicates that story. | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Fortanix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-auditor-asks-you-to-prove-that-no-single-operator-can-both-unseal-v-54942) |

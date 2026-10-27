@@ -2,6 +2,8 @@
 
 [← back to Media.net](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Build a min-heap from an unsorted array in O(n) and explain why it is not O(n log n). | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Media.net | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=build-a-min-heap-from-an-unsorted-array-in-o-n-and-explain-why-it-is-n-8207) |

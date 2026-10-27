@@ -2,6 +2,8 @@
 
 [← back to Agoda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the trade-off between building one big multilingual index vs per-language indices for a global product. | deep understanding | SDE-1/2, SDE-2/3 | Semantic Search | Phone Screen, Onsite | Tech | Asked at Agoda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-trade-off-between-building-one-big-multilingual-index-vs-p-80463) |

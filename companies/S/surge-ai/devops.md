@@ -2,6 +2,8 @@
 
 [← back to Surge AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern the compliance of an internal data-labeling or human-in-the-loop pipeline where contractors view raw PII to annotate it — how do you architect minimum-necessary exposure attribution and erasure for a workforce you partly don't employ? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Surge AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-the-compliance-of-an-internal-dat-54117) |

@@ -2,6 +2,8 @@
 
 [← back to Ather](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design an endpoint that must return within a fixed byte budget for constrained IoT clients, dynamically trimming the representation and signaling truncation without breaking parsers? | deep understanding | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Ather | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-endpoint-that-must-return-within-a-fixed-byte-bud-23973) |

@@ -2,6 +2,8 @@
 
 [← back to Amplitude](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | After sessionizing with window functions, how do you handle events that arrive after the session was already emitted in a batch pipeline, and does the window approach need a reprocessing window? | deep understanding | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Amplitude | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=after-sessionizing-with-window-functions-how-do-you-handle-events-that-123192) |

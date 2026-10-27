@@ -2,6 +2,8 @@
 
 [← back to Kotak](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vendor's AIOps model is a black box you can't audit during a regulatory incident review — how does the requirement to explain 'why did the system suppress that alert' to an auditor change your build-vs-buy calculus for a regulated bank? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Kotak | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-s-aiops-model-is-a-black-box-you-can-t-audit-during-a-regulat-100046) |

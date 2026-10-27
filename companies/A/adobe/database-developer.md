@@ -2,6 +2,8 @@
 
 [← back to Adobe](README.md)
 
+Questions 1–111 of 111.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants strong consistency in Cosmos across three regions — how do you explain the latency and availability tax of Strong consistency in a globally distributed setup, and what do you recommend instead? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Adobe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-strong-consistency-in-cosmos-across-three-regions-how-do--115230) |

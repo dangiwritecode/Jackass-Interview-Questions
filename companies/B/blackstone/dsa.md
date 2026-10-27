@@ -2,6 +2,8 @@
 
 [← back to BlackStone](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Reachable Coordinate Pair by Repeated Sum Growth | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Euclidean Algorithm, Greedy, Math, Modular Arithmetic, Number Theory, Reverse Simulation | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at BlackStone | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reachable-coordinate-pair-by-repeated-sum-growth-d765) |

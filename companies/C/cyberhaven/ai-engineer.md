@@ -2,6 +2,8 @@
 
 [← back to Cyberhaven](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an eval to measure whether an agent respects authorization boundaries and never acts on data it shouldn't access, at scale? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cyberhaven | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-eval-to-measure-whether-an-agent-respects-a-86923) |

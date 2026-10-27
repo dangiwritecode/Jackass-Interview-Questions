@@ -2,6 +2,8 @@
 
 [← back to Mozilla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a privacy-preserving telemetry/analytics architecture (differential privacy on-device aggregation k-anonymity) so you can measure product usage across hundreds of millions of users without the raw event stream being regulated personal data. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Mozilla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-privacy-preserving-telemetry-analytics-architecture-different-37267) |

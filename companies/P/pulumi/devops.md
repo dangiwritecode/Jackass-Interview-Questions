@@ -2,6 +2,8 @@
 
 [← back to Pulumi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A large chunk of your infra was clicked into consoles and never captured as code. How do you scope, sequence, and fund an 'import-to-IaC' campaign across dozens of accounts without breaking the running systems you're importing? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Pulumi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-large-chunk-of-your-infra-was-clicked-into-consoles-and-never-captur-54326) |

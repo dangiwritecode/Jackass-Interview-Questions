@@ -2,6 +2,8 @@
 
 [← back to Wise](README.md)
 
+Questions 1–69 of 69.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A multi-day backfill is at 60% when you find a logic bug that corrupted the already-written rows. Walk me through the recovery without restarting from scratch. | expertise | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at Wise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-multi-day-backfill-is-at-60-when-you-find-a-logic-bug-that-corrupted-114292) |

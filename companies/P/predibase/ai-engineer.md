@@ -2,6 +2,8 @@
 
 [← back to Predibase](README.md)
 
+Questions 1–94 of 94.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A downstream fine-tuning job is triggered via REST and can run for hours on GPUs. How do you design the training-job API: submit, monitor status/metrics, stream logs, cancel, and fetch the resulting model artifact reference? | deep understanding | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Predibase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-fine-tuning-job-is-triggered-via-rest-and-can-run-for-hou-77157) |

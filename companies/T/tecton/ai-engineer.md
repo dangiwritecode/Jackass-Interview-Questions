@@ -2,6 +2,8 @@
 
 [← back to Tecton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a platform mechanism that guarantees a model's serving-time preprocessing is byte-identical to its training-time preprocessing by shipping one compiled artifact used in both, and explain where windowed aggregations and time-dependent features make that ideal genuinely hard to honor. | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tecton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-platform-mechanism-that-guarantees-a-model-s-serving-time-pre-84115) |

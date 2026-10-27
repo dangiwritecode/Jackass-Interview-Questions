@@ -2,6 +2,8 @@
 
 [← back to WorldQuant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you weight the six pillars differently for a latency-critical trading platform versus a batch analytics platform, and who owns that weighting decision? | expertise | SDE-2/3, Architect/Principal | Well-Architected Framework | Phone Screen, Onsite | Tech | Asked at Quant-Finance companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weight-the-six-pillars-differently-for-a-latency-critical-t-56138) |

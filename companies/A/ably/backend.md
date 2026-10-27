@@ -2,6 +2,8 @@
 
 [← back to Ably](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CRDT-based collaborative counter shows drift under concurrent increments across regions; explain the state structure that makes merges commutative and idempotent and how you detect a broken merge. | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Ably | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-crdt-based-collaborative-counter-shows-drift-under-concurrent-increm-21981) |

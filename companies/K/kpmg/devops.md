@@ -2,6 +2,8 @@
 
 [← back to KPMG](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: you claim multi-cloud reduces vendor risk, but 90% of your revenue path still runs on one cloud; how do you honestly characterize your risk posture to auditors? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | Asked at KPMG | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-you-claim-multi-cloud-reduces-vendor-risk-but-90-55245) |

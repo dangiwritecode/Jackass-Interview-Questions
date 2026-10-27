@@ -2,6 +2,8 @@
 
 [← back to GDPR-scoped-SaaS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your mesh must enforce data-residency where EU-user traffic never leaves EU clusters even during failover. Architect geo-fenced routing plus identity that encodes region, and prove to auditors it holds when a region fails and traffic wants to spill over. | expertise | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at GDPR-scoped-SaaS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-mesh-must-enforce-data-residency-where-eu-user-traffic-never-leav-52689) |

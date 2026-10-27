@@ -2,6 +2,8 @@
 
 [← back to Darwinbox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design authorization for a 'reports to' org hierarchy where a manager inherits view access to all reports transitively, and a re-org (moving a subtree) must update effective access without a giant recompute stall? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Darwinbox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-authorization-for-a-reports-to-org-hierarchy-wher-26227) |

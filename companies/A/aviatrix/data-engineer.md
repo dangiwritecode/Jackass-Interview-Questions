@@ -2,6 +2,8 @@
 
 [← back to Aviatrix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the tradeoffs of centralizing all cross-cloud traffic through one egress/ingress hub (hub-and-spoke) versus mesh peering — how does each scale operationally and financially? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Aviatrix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-tradeoffs-of-centralizing-all-cross-cloud-traffic-through--127278) |

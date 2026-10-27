@@ -2,6 +2,8 @@
 
 [← back to GE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A machine's output increases by 20 percent each year. If it produces 8640 units after 2 years what did it produce initially? | intermediate experience | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at GE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-machine-s-output-increases-by-20-percent-each-year-if-it-produces-86-15850) |

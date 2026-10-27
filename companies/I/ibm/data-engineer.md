@@ -2,6 +2,8 @@
 
 [← back to IBM](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a chargeback model that fairly bills domain teams for cross-cloud data-transfer costs they cause — how do you attribute egress to the consumer who triggered it? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at IBM | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-chargeback-model-that-fairly-bills-domain-teams-for-cross-clo-127262) |

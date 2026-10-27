@@ -2,6 +2,8 @@
 
 [← back to Sana](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the risk that your own responsible-AI classifiers (toxicity / PII / jailbreak) are themselves biased or have blind spots for certain languages and dialects? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Sana | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-risk-that-your-own-responsible-ai-classifiers-to-86048) |

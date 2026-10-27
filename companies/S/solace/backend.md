@@ -2,6 +2,8 @@
 
 [← back to Solace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the pattern trade-offs between a shared enterprise message bus with topic-based routing versus point-to-point queues per integration. At what number of integrations does the bus's operational leverage outweigh its coupling and noisy-neighbor risks? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Solace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-pattern-trade-offs-between-a-shared-enterprise-message-bus-36357) |

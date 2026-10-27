@@ -2,6 +2,8 @@
 
 [← back to Cloudreach](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate a build-vs-buy decision for the migration platform itself (custom tooling vs AWS MGN/Azure Migrate vs partner factory)? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Cloudreach | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-a-build-vs-buy-decision-for-the-migration-platform-56606) |

@@ -2,6 +2,8 @@
 
 [← back to Datakin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for the data-lineage capability specifically when you need column-level lineage across SQL, Spark, and BI tools — buy a lineage product vs build on OpenLineage/Marquez + parsers — given lineage completeness gates impact analysis, incident RCA, and compliance? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Datakin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-the-data-lineage-capability-specifi-125846) |

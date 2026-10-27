@@ -2,6 +2,8 @@
 
 [← back to TIBCO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast the 'dumb pipes, smart endpoints' microservices philosophy with the ESB's 'smart pipe' model for enterprise integration. In which enterprise realities (heavy transformation, legacy protocols, low team maturity) does the smart-pipe still earn its keep? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at TIBCO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-the-dumb-pipes-smart-endpoints-microservices-philosophy-with--36344) |

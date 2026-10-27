@@ -2,6 +2,8 @@
 
 [← back to Spotify](README.md)
 
+Questions 1–101 of 101.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you'd measure whether the change-risk program improved the org's engineering culture, not just its metrics. What would you look for and how do you avoid Goodhart's law? | expertise | SDE-2/3, Architect/Principal | Change Risk Prediction | Phone Screen, Onsite | Tech | Asked at Spotify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-d-measure-whether-the-change-risk-program-im-102572) |

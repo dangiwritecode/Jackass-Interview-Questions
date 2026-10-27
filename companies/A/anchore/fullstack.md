@@ -2,6 +2,8 @@
 
 [← back to Anchore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to generate and attach an SBOM to every image and use it during incident response. Explain what an SBOM buys you when a new zero-day drops and how you'd query it fast. | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Anchore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-generate-and-attach-an-sbom-to-every-image-and-use-it--19450) |

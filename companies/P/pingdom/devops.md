@@ -2,6 +2,8 @@
 
 [← back to Pingdom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build a synthetic-monitoring canary using CloudWatch Synthetics that exercises your login flow every minute from multiple regions, and how do you alert on it without paging on a single blip? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Pingdom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-synthetic-monitoring-canary-using-cloudwatch-syn-46184) |

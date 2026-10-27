@@ -2,6 +2,8 @@
 
 [← back to xAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the platform so a single team's runaway distributed job can't degrade the shared collective-communication fabric for every other training job. What isolation, rate-limiting, or topology-partitioning makes noisy-neighbor contention on the interconnect structurally impossible? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at xAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-platform-so-a-single-team-s-runaway-distributed-job-can-t-d-100673) |

@@ -2,6 +2,8 @@
 
 [← back to Lakera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle prompt-injection risk when the LLM has tool/DB access in production? Design defense-in-depth at the serving layer. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Lakera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-prompt-injection-risk-when-the-llm-has-tool-db-acces-30892) |

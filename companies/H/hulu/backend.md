@@ -2,6 +2,8 @@
 
 [← back to Hulu](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | For a global streaming platform, build the top two levels of a utility tree (quality attributes and their refinements) and justify why you ordered availability and performance the way you did given the business. | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Hulu | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-global-streaming-platform-build-the-top-two-levels-of-a-utility--36158) |

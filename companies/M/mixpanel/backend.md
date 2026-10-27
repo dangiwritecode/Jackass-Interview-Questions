@@ -2,6 +2,8 @@
 
 [← back to Mixpanel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a durable write-heavy analytics ingestion path that must never lose an event even during a multi-hour downstream outage — where do buffering durable storage and replay live and how do you prove zero-loss to auditors? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Mixpanel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-durable-write-heavy-analytics-ingestion-path-that-must-nev-33256) |

@@ -2,6 +2,8 @@
 
 [← back to Reddit](README.md)
 
+Questions 1–94 of 94.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your client caches a paginated list and a user reports a duplicated row across pages during active writes. How does non-stable ordering plus OFFSET cause this, and how does keyset fix it? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Reddit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-client-caches-a-paginated-list-and-a-user-reports-a-duplicated-ro-25802) |

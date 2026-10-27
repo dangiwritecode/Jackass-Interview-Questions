@@ -2,6 +2,8 @@
 
 [← back to Riot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A leaderboard table needs both 'top 100 globally' and 'rank of arbitrary user' cheaply. Discuss a covering index versus a Redis sorted set as the source of truth. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Riot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-leaderboard-table-needs-both-top-100-globally-and-rank-of-arbitrary--25747) |

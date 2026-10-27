@@ -2,6 +2,8 @@
 
 [← back to Supabase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set the org's connection-management standard for a large serverless and container fleet that periodically exhausts RDS connections — compare RDS Proxy, PgBouncer sidecars, and Aurora Serverless v2, and defend one default with documented exceptions? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Supabase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-the-org-s-connection-management-standard-for-a-large-52421) |

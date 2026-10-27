@@ -2,6 +2,8 @@
 
 [← back to Vellum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd architect the platform's approach to prompt and context management for LLM apps — treating prompts as versioned, tested, deployable artifacts rather than strings in code. | deep understanding | SDE-2/3, Architect/Principal | ML Platform Architecture | Onsite, Hiring Manager | Tech | Asked at Vellum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-architect-the-platform-s-approach-to-prompt-and-con-72038) |

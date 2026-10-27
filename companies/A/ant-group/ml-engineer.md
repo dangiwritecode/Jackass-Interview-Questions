@@ -2,6 +2,8 @@
 
 [← back to Ant Group](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate whether to adopt Ray + PyTorch as the org's distributed compute layer versus native torchrun/Slurm, and what does the migration cost look like? | deep understanding | SDE-2/3, Architect/Principal | PyTorch | Phone Screen, Onsite | Tech | Asked at Ant Group | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-to-adopt-ray-pytorch-as-the-org-s-distribu-70311) |

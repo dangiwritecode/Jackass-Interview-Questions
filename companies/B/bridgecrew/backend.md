@@ -2,6 +2,8 @@
 
 [← back to Bridgecrew](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an authorization policy test harness that generates adversarial requests (wrong tenant, missing scope, tampered id) and asserts every one is denied, integrated into CI as a gate. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Bridgecrew | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-authorization-policy-test-harness-that-generates-adversarial-26166) |

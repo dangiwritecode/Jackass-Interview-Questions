@@ -2,6 +2,8 @@
 
 [← back to ByteDance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd store and query a 200GB embedding table that won't fit on one node for a recommender. Compare sharding by key, a parameter-server design, and a distributed KV store, on lookup latency, hot-key risk, and how you'd co-locate related lookups. | deep understanding | SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at ByteDance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-store-and-query-a-200gb-embedding-table-that-won-t-f-112124) |

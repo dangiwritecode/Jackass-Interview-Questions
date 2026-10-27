@@ -2,6 +2,8 @@
 
 [← back to Cashfree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the architecture to scope which pipelines and data stores are actually in PCI scope in a data platform that touches payment events — what tokenization network segmentation and derived-signal design shrinks the cardholder-data environment to the smallest possible surface? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Cashfree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-to-scope-which-pipelines-and-data-stores-are-a-126067) |

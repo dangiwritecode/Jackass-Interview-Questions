@@ -2,6 +2,8 @@
 
 [← back to EY (Ernst & Young)](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a load balancer and why do backend systems need one? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Load Balancing | Phone Screen, Onsite | Tech | Asked at EY (Ernst & Young) | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-load-balancer-and-why-do-backend-systems-need-one-5022) |

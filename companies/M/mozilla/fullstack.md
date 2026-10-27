@@ -2,6 +2,8 @@
 
 [← back to Mozilla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a cache-first, network-first, and stale-while-revalidate strategy in a service worker and when each fits. | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Mozilla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-cache-first-network-first-and-stale-while-revalidate-strate-12881) |

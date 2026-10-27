@@ -2,6 +2,8 @@
 
 [← back to CircleCI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how AIOps ingests metrics from thousands of ephemeral CI and preview-environment Pods that live minutes. How would you architect the pipeline so short-lived Pod telemetry is useful for anomaly detection without exploding cardinality or leaving the model confused by constant churn? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at CircleCI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-aiops-ingests-metrics-from-thousands-of-ephemeral-ci-and-pr-98647) |

@@ -2,6 +2,8 @@
 
 [← back to ING](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a multi-region Vault topology using performance replication with a global secondary in each region. How do you reason about write locality, replication lag, and read-your-writes for dynamic secrets? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at ING | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-multi-region-vault-topology-using-performance-replication-wit-54924) |

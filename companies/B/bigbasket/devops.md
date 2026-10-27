@@ -2,6 +2,8 @@
 
 [← back to bigbasket](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: you chose eventual consistency for checkout. Walk through every user-visible anomaly that admits (double-submit, read-your-writes gaps, inventory oversell) and how you make each acceptable to the business rather than hand-waving it away. | deep understanding | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at bigbasket | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-you-chose-eventual-consistency-for-checkout-walk-51979) |

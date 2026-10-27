@@ -2,6 +2,8 @@
 
 [← back to Juspay](README.md)
 
+Questions 1–69 of 69.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A C++ service serializes timestamps and a bug appears only around DST transitions and leap seconds. How do you standardize on UTC/monotonic internally, and what invariants prevent time-based bugs across the boundary? | intermediate experience | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Juspay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-c-service-serializes-timestamps-and-a-bug-appears-only-around-dst-tr-22799) |

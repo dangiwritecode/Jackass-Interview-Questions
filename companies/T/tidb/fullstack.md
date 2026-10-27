@@ -2,6 +2,8 @@
 
 [← back to TiDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a consensus-based configuration/coordination service (like an internal etcd/Zookeeper) that hundreds of services depend on — how do you keep it available under a node loss bound its write throughput and stop it being the single dependency that fails everything? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at TiDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-consensus-based-configuration-coordination-service-like-an-39513) |

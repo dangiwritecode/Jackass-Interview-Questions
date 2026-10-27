@@ -2,6 +2,8 @@
 
 [← back to GitPod](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect golden paths to support ephemeral preview environments per pull request without exploding cluster cost? | expertise | SDE-2/3, Architect/Principal | Golden Paths & Paved Roads | Onsite, Hiring Manager | Tech | Asked at GitPod | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-golden-paths-to-support-ephemeral-preview-envi-55898) |

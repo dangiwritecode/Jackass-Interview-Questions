@@ -2,6 +2,8 @@
 
 [← back to Dun & Bradstreet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle third-party enrichment (D&B, Experian, address verification) inside MDM survivorship — when should external data beat internal, and how do you avoid overwriting good internal truth with stale vendor data? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Dun & Bradstreet | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-third-party-enrichment-d-and-b-experian-address-veri-127741) |

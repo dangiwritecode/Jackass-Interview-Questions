@@ -2,6 +2,8 @@
 
 [← back to HiveMQ](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does RabbitMQ over WebSockets (Web STOMP/MQTT plugins) let a browser talk to the broker, and what are the risks of exposing it? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | RabbitMQ | Phone Screen, Onsite | Tech | Asked at HiveMQ | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-rabbitmq-over-websockets-web-stomp-mqtt-plugins-let-a-browser-12528) |

@@ -2,6 +2,8 @@
 
 [← back to Modern Treasury](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design multi-region for a system with a hard requirement that money is never created or destroyed (double-entry accounting) even during partitions and failovers. What invariants do you enforce and how? | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Modern Treasury | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-multi-region-for-a-system-with-a-hard-requirement-that-money-is-36677) |

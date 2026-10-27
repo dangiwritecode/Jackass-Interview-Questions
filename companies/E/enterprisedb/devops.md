@@ -2,6 +2,8 @@
 
 [← back to EnterpriseDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd monitor and alert on the divergence between primary and replica (row counts, checksums, last-applied LSN) so silent replication stalls are caught before a failover exposes them. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at EnterpriseDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-monitor-and-alert-on-the-divergence-between-primary--47563) |

@@ -2,6 +2,8 @@
 
 [← back to Optiver](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Maximum Total Gain with Unlimited Buy-Sell Transactions | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy, Peak-Valley, Single Pass | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Optiver | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-total-gain-with-unlimited-buy-sell-transactions-d122) |

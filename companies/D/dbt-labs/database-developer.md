@@ -2,6 +2,8 @@
 
 [← back to dbt Labs](README.md)
 
+Questions 1–149 of 149.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A domain's data product is 'live' but its schema, its dbt lineage, and its catalog entry all disagree because they're maintained separately. As principal, how do you architect the single source that drives schema, catalog, contract, and docs together so they can't drift? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at dbt Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-domain-s-data-product-is-live-but-its-schema-its-dbt-lineage-and-its-112676) |

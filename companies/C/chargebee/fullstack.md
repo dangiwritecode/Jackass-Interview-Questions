@@ -2,6 +2,8 @@
 
 [← back to Chargebee](README.md)
 
+Questions 1–145 of 145.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A dashboard aggregates orders per day and you cache results in the app. When a late order arrives, which days must you recompute, and how does the index support incremental refresh? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Chargebee | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dashboard-aggregates-orders-per-day-and-you-cache-results-in-the-app-25757) |

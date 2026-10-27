@@ -2,6 +2,8 @@
 
 [← back to ServiceNow](README.md)
 
+Questions 1–129 of 129.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you'd design a Proxy layer for data-residency so a query for an EU user is transparently routed to EU storage without every caller threading a region flag, and how you prove compliance is structural not incidental. | expertise | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at ServiceNow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-d-design-a-proxy-layer-for-data-residency-so-38506) |

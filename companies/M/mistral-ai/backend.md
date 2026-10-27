@@ -2,6 +2,8 @@
 
 [← back to Mistral AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A GPU training fleet for LLM work is your fastest-growing cost line and utilization sits at 35%. Architect the scheduling, quota, and cost-accountability model that raises utilization to 70%+ without starving research teams. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Mistral AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-gpu-training-fleet-for-llm-work-is-your-fastest-growing-cost-line-an-37032) |

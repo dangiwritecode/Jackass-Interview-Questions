@@ -2,6 +2,8 @@
 
 [← back to HUMAN](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a capacity-and-cost strategy for a workload whose demand is adversarial — bots, scrapers, credential-stuffing — where naive autoscaling literally pays attackers to consume you. How do you plan capacity that separates real from abusive load economically? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at HUMAN | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-capacity-and-cost-strategy-for-a-workload-whose-demand-is-adv-52941) |

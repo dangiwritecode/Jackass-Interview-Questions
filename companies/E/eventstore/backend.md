@@ -2,6 +2,8 @@
 
 [← back to EventStore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You inherited three services that each reinvented an event store on Postgres, Kafka, and DynamoDB respectively. As principal, do you consolidate onto one platform, buy a managed event store, or let them diverge? Walk me through the migration and standardization decision at org scale. | expertise | SDE-2/3, Architect/Principal | CQRS & Event Sourcing | Phone Screen, Onsite | Tech | Asked at EventStore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherited-three-services-that-each-reinvented-an-event-store-on-po-34210) |

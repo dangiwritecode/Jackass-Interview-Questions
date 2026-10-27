@@ -2,6 +2,8 @@
 
 [← back to Nutanix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Cosmos DB offers five consistency levels — how do you map an org's mixed workloads onto Strong/Bounded-Staleness/Session/Consistent-Prefix/Eventual, and what governance stops teams over-provisioning Strong? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Nutanix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cosmos-db-offers-five-consistency-levels-how-do-you-map-an-org-s-mixed-115146) |

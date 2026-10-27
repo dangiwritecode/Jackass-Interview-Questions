@@ -2,6 +2,8 @@
 
 [← back to Cribl](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your DR design: you replicate audit logs to a second region for availability, but the auditor asks how you prove the replica wasn't tampered with during a failover. How do you architect provable log integrity that survives cross-region replication and DR failover? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Cribl | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-dr-design-you-replicate-audit-logs-to-a-sec-54089) |

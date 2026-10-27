@@ -2,6 +2,8 @@
 
 [← back to OrientDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect caching for a multi-model database (document, graph, relational in one engine) so a read migrating from the relational to the graph model never gets served from a cache keyed on the old model? | deep understanding | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at OrientDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-multi-model-database-document-gr-111466) |

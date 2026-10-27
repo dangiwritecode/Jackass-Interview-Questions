@@ -2,6 +2,8 @@
 
 [← back to Orb](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Product wants exact per-call billing for your AI API even across retries, timeouts, and streamed partial responses. How do you meter token usage so a caller is never double-charged and a failed stream isn't billed as a full generation? | expertise | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Orb | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=product-wants-exact-per-call-billing-for-your-ai-api-even-across-retri-77108) |

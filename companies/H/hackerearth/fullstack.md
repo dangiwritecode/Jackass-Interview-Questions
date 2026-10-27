@@ -2,6 +2,8 @@
 
 [← back to HackerEarth](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between the AVG, SUM, MIN, and MAX aggregate functions when NULLs are present? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at HackerEarth | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-the-avg-sum-min-and-max-aggregate-funct-11857) |

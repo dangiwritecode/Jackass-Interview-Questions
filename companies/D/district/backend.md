@@ -2,6 +2,8 @@
 
 [← back to District](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a seat-booking system for a 100k-seat concert on-sale where inventory is finite and demand is 50x supply in the first second. How do you prevent oversell and keep the queue fair? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at District | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-seat-booking-system-for-a-100k-seat-concert-on-sale-where-inv-16324) |

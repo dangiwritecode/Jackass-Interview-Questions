@@ -2,6 +2,8 @@
 
 [← back to Robust Intelligence](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build an org-wide red-teaming and safety-evidence pipeline whose findings automatically feed back into DPO/RLHF training data? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Robust Intelligence | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-an-org-wide-red-teaming-and-safety-evidence-pipeline--71297) |

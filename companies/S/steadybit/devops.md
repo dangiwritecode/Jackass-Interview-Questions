@@ -2,6 +2,8 @@
 
 [← back to Steadybit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a chaos-engineering platform that can safely inject correlated regional and dependency failures across many teams' production systems, and how do you get an org to accept the blast-radius risk of deliberately testing at that scale? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Steadybit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-chaos-engineering-platform-that-can-safely-inje-52048) |

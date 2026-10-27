@@ -2,6 +2,8 @@
 
 [← back to AtScale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd architect query result caching and materialized-cube pre-aggregation for a BI layer serving 10k dashboards, so 90% of dashboard loads never touch the warehouse. Where does cube maintenance cost exceed the query savings, and how do you decide what to pre-aggregate? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at AtScale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-architect-query-result-caching-and-materialized-cube-112723) |

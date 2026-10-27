@@ -2,6 +2,8 @@
 
 [← back to Excalidraw](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a real-time collaborative whiteboard (Figma/Miro-style) — how do you sync shapes across clients, handle large canvases, and keep rendering at 60fps? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Excalidraw | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-real-time-collaborative-whiteboard-figma-miro-style-how-do-yo-20689) |

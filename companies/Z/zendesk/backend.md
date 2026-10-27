@@ -2,6 +2,8 @@
 
 [← back to Zendesk](README.md)
 
+Questions 1–69 of 69.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A newly acquired company runs an AP-first stack and your core is CP-first. Design the multi-year integration architecture so the two consistency philosophies interoperate at the data plane without one silently corrupting the other's invariants. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Zendesk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-newly-acquired-company-runs-an-ap-first-stack-and-your-core-is-cp-fi-32216) |

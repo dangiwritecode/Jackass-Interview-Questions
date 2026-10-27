@@ -2,6 +2,8 @@
 
 [← back to Flexera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you manage cost anomaly detection across three billing accounts with different granularity and lag — what's your architecture for near-real-time cross-cloud spend guardrails? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Flexera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-manage-cost-anomaly-detection-across-three-billing-accounts-127252) |

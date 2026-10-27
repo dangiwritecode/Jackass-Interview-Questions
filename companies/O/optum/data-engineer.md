@@ -2,6 +2,8 @@
 
 [← back to Optum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect audit logging so a single compliance query can prove who touched a given record across all three clouds within a retention window regulators accept? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Optum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-audit-logging-so-a-single-compliance-query-can-pr-127268) |

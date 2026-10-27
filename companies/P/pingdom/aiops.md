@@ -2,6 +2,8 @@
 
 [← back to Pingdom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the RTO for the platform's synthetic-monitoring / blackbox probes, given that during a disaster synthetics may be the only signal working when real-user telemetry has stopped? Argue whether synthetics deserve an even stricter RTO than the ingest path. | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Pingdom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-rto-for-the-platform-s-synthetic-monitoring-blac-99983) |

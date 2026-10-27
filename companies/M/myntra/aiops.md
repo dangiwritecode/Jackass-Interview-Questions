@@ -2,6 +2,8 @@
 
 [← back to Myntra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an event calendar the monitoring platform is aware of, so planned shifts (launches, festival sales) suppress drift alerts without hard-coding per model? | deep understanding | SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Myntra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-event-calendar-the-monitoring-platform-is-awar-101174) |

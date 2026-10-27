@@ -2,6 +2,8 @@
 
 [← back to ACKO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd model 'effective dating' (a price/policy that has different values over time and you must query 'what was true on date D') as a first-class org pattern; what does the temporal value object and repository look like, and how do you avoid off-by-one boundary bugs? | deep understanding | SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at ACKO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-model-effective-dating-a-price-policy-th-38339) |

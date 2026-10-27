@@ -2,6 +2,8 @@
 
 [← back to HumanLoop](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the right way to version and govern prompts and system-prompt templates as production assets, including change review and rollback? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at HumanLoop | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-right-way-to-version-and-govern-prompts-and-system-prompt--71703) |

@@ -2,6 +2,8 @@
 
 [← back to Tembo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the cost of ephemeral database branches/clones spun up per pull request (via PlanetScale/Neon-style branching)? At scale these can rival production DB spend — what TTLs, sizing defaults, and quotas keep them from becoming a surprise line? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Tembo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-cost-of-ephemeral-database-branches-clones-spun--112319) |

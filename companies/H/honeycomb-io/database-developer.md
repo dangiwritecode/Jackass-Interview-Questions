@@ -2,6 +2,8 @@
 
 [← back to Honeycomb.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how encryption interacts with database observability — you can't log PII but you need query performance metrics; how do you get diagnostics without decrypting or leaking? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Honeycomb.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-encryption-interacts-with-database-observability-you-can-t--115319) |

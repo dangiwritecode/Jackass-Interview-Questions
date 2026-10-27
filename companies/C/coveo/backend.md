@@ -2,6 +2,8 @@
 
 [← back to Coveo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You have to justify keeping a dedicated search platform team versus outsourcing everything to a managed vendor and cutting the team. Steelman the outsourcing case, then make the strategic argument for retaining in-house search competence as a differentiator. | expertise | SDE-2/3, Architect/Principal | Elasticsearch & Search Systems | Phone Screen, Onsite | Tech | Asked at Coveo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-to-justify-keeping-a-dedicated-search-platform-team-versus-ou-34950) |

@@ -2,6 +2,8 @@
 
 [← back to CyberArk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect trust boundaries so a compromised AIOps agent in one cloud cannot pivot to remediate (or damage) resources in another cloud? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | Asked at CyberArk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-trust-boundaries-so-a-compromised-aiops-agent-in--103830) |

@@ -2,6 +2,8 @@
 
 [← back to Vercel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants read/write splitting but the app runs in serverless functions with ephemeral connections. How do you route reads without exhausting connection limits? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at Vercel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-read-write-splitting-but-the-app-runs-in-serverless-funct-115480) |

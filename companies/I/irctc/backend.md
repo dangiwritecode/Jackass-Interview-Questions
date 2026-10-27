@@ -2,6 +2,8 @@
 
 [← back to IRCTC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a real-time seat-inventory system for concert bookings on Redis where holds expire automatically and confirmed seats are never double-sold under a flash sale. | expertise | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | Asked at IRCTC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-real-time-seat-inventory-system-for-concert-bookings-on-redis-24652) |

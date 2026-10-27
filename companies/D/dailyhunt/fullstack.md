@@ -2,6 +2,8 @@
 
 [← back to Dailyhunt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the component architecture for an infinite-scrolling news feed so that appending thousands of items doesn't degrade scroll performance? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Dailyhunt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-component-architecture-for-an-infinite-scroll-21212) |

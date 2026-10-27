@@ -2,6 +2,8 @@
 
 [← back to Reltio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you define and enforce a single golden record in a master data management program when three business units each insist their customer record is canonical? | expertise | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | Asked at Reltio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-define-and-enforce-a-single-golden-record-in-a-master-data--114751) |

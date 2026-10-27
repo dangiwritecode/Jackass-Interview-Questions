@@ -2,6 +2,8 @@
 
 [← back to Arista Networks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a context switch and what happens during one? | intermediate experience | Fresher, SDE-1 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Arista Networks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-context-switch-and-what-happens-during-one-418) |

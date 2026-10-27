@@ -2,6 +2,8 @@
 
 [← back to Todoist](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a class model for optimistic mutation with rollback on the client (like a to-do reorder) that must survive a failed server sync and offline; what does the mutation queue and rollback stack look like? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Todoist | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-class-model-for-optimistic-mutation-with-rollback-on-the-clie-22405) |

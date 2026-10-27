@@ -2,6 +2,8 @@
 
 [← back to Nightfall](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect PII redaction in an LLM pipeline so sensitive data never lands in prompts sent to a third-party provider or in your logs? What are the leakage points you'd close? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nightfall | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-pii-redaction-in-an-llm-pipeline-so-sensitive--79065) |

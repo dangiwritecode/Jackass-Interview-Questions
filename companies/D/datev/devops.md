@@ -2,6 +2,8 @@
 
 [← back to Datev](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a governance program that must satisfy both a US SOC2 auditor's culture of narrative controls and an EU regulator's culture of demonstrable technical measures — where do these two philosophies conflict and how do you build one system that serves both? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Datev | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-governance-program-that-must-satisfy-both-a-us--54058) |

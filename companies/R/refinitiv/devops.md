@@ -2,6 +2,8 @@
 
 [← back to Refinitiv](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a system whose true bottleneck is a licensing-limited or entitlement-capped third-party component (fixed seat count or QPS entitlement), so a demand spike doesn't hit a hard wall you can't autoscale past — and how do you negotiate that cap into your capacity model? | deep understanding | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Refinitiv | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-system-whose-true-bottleneck-is-a-licensing--52121) |

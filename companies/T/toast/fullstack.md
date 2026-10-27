@@ -2,6 +2,8 @@
 
 [← back to Toast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you assess whether adopting a monorepo with a build system like Bazel/Nx pays down your fragmented-tooling debt, given the migration itself will consume a full team for a year across frontend and backend? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Toast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-assess-whether-adopting-a-monorepo-with-a-build-system-l-41439) |

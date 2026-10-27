@@ -2,6 +2,8 @@
 
 [← back to Basecamp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle an ATAM where the architecture is a well-run monolith and the pressure to review it comes purely from a 'microservices are modern' bias? How do you keep the analysis honest and defend the monolith if scenarios show it satisfies the drivers? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Basecamp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-an-atam-where-the-architecture-is-a-well-run-monolit-40612) |

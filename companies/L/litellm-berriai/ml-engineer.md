@@ -2,6 +2,8 @@
 
 [← back to LiteLLM/BerriAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd build a fallback chain across two providers so a refusal or 5xx transparently retries elsewhere without duplicating side effects. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at LiteLLM/BerriAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-build-a-fallback-chain-across-two-providers-so-a-ref-63856) |

@@ -2,6 +2,8 @@
 
 [← back to IriusRisk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a threat-modeling program that scales to hundreds of services — how do you make it lightweight, repeatable, and tied to the SDLC without a security bottleneck? | deep understanding | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at IriusRisk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-threat-modeling-program-that-scales-to-hundreds-of-services-h-55046) |

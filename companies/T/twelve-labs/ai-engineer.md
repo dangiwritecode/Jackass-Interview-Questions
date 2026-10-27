@@ -2,6 +2,8 @@
 
 [← back to Twelve Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you would handle multi-modal RAG where users upload images and PDFs that must be indexed and retrieved. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Twelve Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-would-handle-multi-modal-rag-where-users-uploa-79557) |

@@ -2,6 +2,8 @@
 
 [← back to PostHog](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design a schema for storing feature flags and A/B experiment assignments so lookups are O(1)-ish per request and rollouts are safe to change live? | intermediate experience | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at PostHog | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-schema-for-storing-feature-flags-and-a-b-experimen-18164) |

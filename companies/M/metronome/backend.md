@@ -2,6 +2,8 @@
 
 [← back to Metronome](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a billing/metering/invoicing system (Stripe Billing/Metronome vs bespoke) when your pricing model is unusual and changes frequently — where does flexibility tip it? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Metronome | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-billing-metering-invoicing-system-37002) |

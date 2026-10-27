@@ -2,6 +2,8 @@
 
 [← back to Grammarly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A service using std::regex is a CPU hog. How would you profile it, and when would you replace std::regex with RE2, a hand-written scanner, or a compile-time matcher? What makes std::regex slow? | intermediate experience | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Grammarly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-service-using-std-regex-is-a-cpu-hog-how-would-you-profile-it-and-wh-16891) |

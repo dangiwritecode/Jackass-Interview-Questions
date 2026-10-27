@@ -2,6 +2,8 @@
 
 [← back to Prefect](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org runs thousands of scheduled/cron jobs whose aggregate cost nobody owns because each is tiny. How would you build capacity and cost governance for the 'cron sprawl' problem so this diffuse spend becomes visible and attributable? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Prefect | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-thousands-of-scheduled-cron-jobs-whose-aggregate-cost-no-52983) |

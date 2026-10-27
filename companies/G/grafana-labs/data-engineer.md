@@ -2,6 +2,8 @@
 
 [← back to Grafana Labs](README.md)
 
+Questions 1–137 of 137.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Application logs and traces routinely capture PII; how do you build a redaction and retention strategy for observability data that keeps SREs productive but compliant? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Grafana Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=application-logs-and-traces-routinely-capture-pii-how-do-you-build-a-r-127339) |

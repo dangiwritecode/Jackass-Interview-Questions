@@ -2,6 +2,8 @@
 
 [← back to Astronomer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you assess and manage the debt of a batch-oriented data/ETL platform that the business now needs to be near-real-time, without a rip-and-replace that risks the pipelines feeding the numbers reported to investors? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Astronomer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-assess-and-manage-the-debt-of-a-batch-oriented-data-etl-pla-54395) |

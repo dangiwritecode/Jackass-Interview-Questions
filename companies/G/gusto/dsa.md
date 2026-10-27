@@ -2,6 +2,8 @@
 
 [← back to Gusto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Versioned Value Store with Point-in-Time Lookup | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Data Structure, Design, Hash Table, String | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Gusto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=versioned-value-store-with-point-in-time-lookup-d966) |

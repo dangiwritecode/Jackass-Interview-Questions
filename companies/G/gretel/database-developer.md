@@ -2,6 +2,8 @@
 
 [← back to Gretel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a compliant test-data-management pipeline that produces realistic non-production datasets from PHI/PII without exposing real data — synthetic vs masked vs subsetted, and the fidelity trade-off. | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Gretel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-compliant-test-data-management-pipeline-that-produces-real-115324) |

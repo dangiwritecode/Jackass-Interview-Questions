@@ -2,6 +2,8 @@
 
 [← back to Klarna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A data-residency mandate says EU credentials never leave the EU, yet you want one global login UX and one identity graph. Architect region-pinned issuance and session storage plus a routing layer that keeps the residency guarantee while still letting an EU user use the global app. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Klarna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-data-residency-mandate-says-eu-credentials-never-leave-the-eu-yet-yo-38869) |

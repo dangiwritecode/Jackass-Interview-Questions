@@ -2,6 +2,8 @@
 
 [← back to StarRocks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a sub-second real-time OLAP tier (ClickHouse/Pinot/StarRocks) as a serving layer over a lakehouse of record, and keep the two from silently diverging? Where does the dual-write versus materialize-from-lake decision determine your correctness guarantees? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at StarRocks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-sub-second-real-time-olap-tier-clickhouse-pinot-112647) |

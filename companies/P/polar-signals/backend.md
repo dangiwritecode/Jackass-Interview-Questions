@@ -2,6 +2,8 @@
 
 [← back to Polar Signals](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org wants continuous profiling (Pyroscope/Parca) as a fourth pillar. Make the architectural and cost case: where does it pay off beyond traces, what's the org-wide overhead budget, and how do you keep it from becoming another unqueried expensive stream? | expertise | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Polar Signals | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-wants-continuous-profiling-pyroscope-parca-as-a-fourth-pillar-35156) |

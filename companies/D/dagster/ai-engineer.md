@@ -2,6 +2,8 @@
 
 [← back to Dagster](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design one platform whose control flow spans fully-scripted single-shot tool workflows to fully-autonomous exploratory agents, chosen per use case via configuration. What's the unifying execution abstraction that avoids two separate systems? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Dagster | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-one-platform-whose-control-flow-spans-fully-scripted-single-sho-83115) |

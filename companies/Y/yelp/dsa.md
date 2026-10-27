@@ -2,6 +2,8 @@
 
 [← back to Yelp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Cluster Words That Share the Same Letters | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Grouping, Hash Table, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Yelp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cluster-words-that-share-the-same-letters-d49) |

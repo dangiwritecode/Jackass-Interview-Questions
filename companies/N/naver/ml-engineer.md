@@ -2,6 +2,8 @@
 
 [← back to Naver](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Decide the org's stance on learned sparse retrieval (SPLADE-style) versus BM25 versus dense as a shared default, weighing index size, interpretability, and recall on out-of-domain queries. What experiment justifies adopting learned sparse platform-wide? | deep understanding | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Naver | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=decide-the-org-s-stance-on-learned-sparse-retrieval-splade-style-versu-68955) |

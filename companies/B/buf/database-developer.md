@@ -2,6 +2,8 @@
 
 [← back to Buf](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a schema registry / data-contract system on your event and CDC streams, given it sits on the critical path of every producer and consumer and a bad bet ossifies your whole data plane? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Buf | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-schema-registry-data-contract-sys-112992) |

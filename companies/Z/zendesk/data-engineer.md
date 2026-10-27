@@ -2,6 +2,8 @@
 
 [← back to Zendesk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle DSARs and erasure for data that lives inside SaaS tools you don't control like Salesforce HubSpot or Zendesk but which are part of your data estate? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Zendesk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-dsars-and-erasure-for-data-that-lives-inside-saas-to-127386) |

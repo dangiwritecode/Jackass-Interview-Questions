@@ -2,6 +2,8 @@
 
 [← back to Speakeasy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a class model for a typed API-client generator's runtime: given an OpenAPI spec, how do you structure request builders, response parsers, and error mapping so a spec change regenerates cleanly? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Speakeasy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-class-model-for-a-typed-api-client-generator-s-runtime-given--22409) |

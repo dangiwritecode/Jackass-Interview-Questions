@@ -2,6 +2,8 @@
 
 [← back to Zscaler](README.md)
 
+Questions 1–124 of 124.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a zero-trust network architecture on AWS where nothing is trusted by network location — how do PrivateLink service meshes SigV4 and mTLS combine and what's your migration path from a flat VPC-trust model without breaking everything? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zscaler | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-zero-trust-network-architecture-on-aws-where-nothing-is-trust-33263) |

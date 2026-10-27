@@ -2,6 +2,8 @@
 
 [← back to Meituan](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the availability architecture of a food-delivery platform during peak dinner hours across many cities, where you have three coupled real-time systems (search, dispatch, tracking) and any one saturating cascades into the others? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Meituan | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-availability-architecture-of-a-food-delivery--32166) |

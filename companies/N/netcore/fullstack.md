@@ -2,6 +2,8 @@
 
 [← back to Netcore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a notification-preferences and delivery system supporting email, SMS, and push, per-user channel opt-outs, quiet hours, and dedupe so a user never gets the same alert twice. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Netcore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-notification-preferences-and-delivery-system-supporting-email-16370) |

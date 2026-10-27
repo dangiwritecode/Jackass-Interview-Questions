@@ -2,6 +2,8 @@
 
 [← back to Cilium](README.md)
 
+Questions 1–84 of 84.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how AIOps detects and responds to a DNS-latency incident inside a busy cluster from telemetry. How would you architect the feature pipeline to spot CoreDNS or conntrack saturation and recommend or trigger the right fix (NodeLocal DNSCache scale CoreDNS) without misattributing it to the app? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Cilium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-aiops-detects-and-responds-to-a-dns-latency-incident-inside-98689) |

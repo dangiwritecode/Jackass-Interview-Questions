@@ -2,6 +2,8 @@
 
 [← back to Nomic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would evaluate whether a heavier contextual embedding is worth its serving cost versus cheaper static embeddings for your task. | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Nomic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-evaluate-whether-a-heavier-contextual-embedding--79488) |

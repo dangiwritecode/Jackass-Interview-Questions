@@ -2,6 +2,8 @@
 
 [← back to Cedexis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the traffic-steering brain for an active-active multi-CDN setup: RUM-based vs DNS-based vs BGP-based steering, how you weight by cost/latency/health per region, and how you avoid oscillation and cache-warmth loss when you shift traffic. | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at Cedexis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-traffic-steering-brain-for-an-active-active-multi-cdn-setup-35018) |

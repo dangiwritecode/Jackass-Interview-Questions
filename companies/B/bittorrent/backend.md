@@ -2,6 +2,8 @@
 
 [← back to BitTorrent](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Argue when a CDN is the wrong tool and a different architecture (regional replication, P2P, client-side caching, ISP peering/PNI) is the right primary strategy. Give a workload where you'd deliberately minimize CDN reliance and why. | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at BitTorrent | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-when-a-cdn-is-the-wrong-tool-and-a-different-architecture-region-35038) |

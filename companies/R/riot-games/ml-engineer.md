@@ -2,6 +2,8 @@
 
 [← back to Riot Games](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a safe rollback and canary system so a regressive post-trained model can be reverted across all regions within minutes of detection? | deep understanding | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Gaming companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-safe-rollback-and-canary-system-so-a-regressive-71293) |

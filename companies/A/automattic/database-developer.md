@@ -2,6 +2,8 @@
 
 [← back to Automattic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a data-modeling strategy that removes the need for Serializable on your hottest path by making conflicting operations commutative. When is CRDT-style modeling the wrong answer? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Automattic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-data-modeling-strategy-that-removes-the-need-for-serializable-113652) |

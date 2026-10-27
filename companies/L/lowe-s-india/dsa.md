@@ -2,6 +2,8 @@
 
 [← back to Lowe's India](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Count Possible Original Entries with One Sticky Key | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Run-Length Grouping, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Lowe's India | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-possible-original-entries-with-one-sticky-key-d3001) |

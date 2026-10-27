@@ -2,6 +2,8 @@
 
 [← back to SendGrid](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must set an isolation policy for a system where some transactions are safe to retry and some are not (external side effects). How do you architect the boundary and enforce it? | deep understanding | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at SendGrid | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-set-an-isolation-policy-for-a-system-where-some-transactions--113674) |

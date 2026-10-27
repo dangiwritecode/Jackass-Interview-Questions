@@ -2,6 +2,8 @@
 
 [← back to Thales](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide the org's cloud approach to encryption-key ownership for AI workloads — provider-managed, customer-managed, or bring-your-own-key with an HSM — when enterprise customers demand cryptographic control over their prompts and embeddings? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Thales | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-org-s-cloud-approach-to-encryption-key-owners-82795) |

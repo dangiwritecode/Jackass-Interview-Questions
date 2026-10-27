@@ -2,6 +2,8 @@
 
 [← back to Apollo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Interviewer probe: your org wants to enter a regulated healthcare imaging market with a multimodal model. As architect what data safety validation and liability guardrails would you demand before greenlighting a single deployment? | expertise | SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | Asked at Apollo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=interviewer-probe-your-org-wants-to-enter-a-regulated-healthcare-imagi-84720) |

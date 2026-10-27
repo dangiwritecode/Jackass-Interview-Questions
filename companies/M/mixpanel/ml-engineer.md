@@ -2,6 +2,8 @@
 
 [← back to Mixpanel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Argue for or against local differential privacy vs central DP for telemetry collection feeding your ML — what's the utility and infra cost difference at scale? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Mixpanel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-for-or-against-local-differential-privacy-vs-central-dp-for-tele-72644) |

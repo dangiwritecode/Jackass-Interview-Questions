@@ -2,6 +2,8 @@
 
 [← back to EventStore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect erasure in an append-only event-sourced system where the event log is supposed to be immutable and is the source of truth? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at EventStore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-erasure-in-an-append-only-event-sourced-system-127362) |

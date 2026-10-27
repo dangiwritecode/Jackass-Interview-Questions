@@ -2,6 +2,8 @@
 
 [← back to Morgan Stanley](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to keep a Java Lambda's cold start under 500ms — walk through SnapStart, priming, and the state-restoration hazards you must guard against. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Serverless | Phone Screen, Onsite | Tech | Asked at Morgan Stanley | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-keep-a-java-lambda-s-cold-start-under-500ms-walk-throu-18435) |

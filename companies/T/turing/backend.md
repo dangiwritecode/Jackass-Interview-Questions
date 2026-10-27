@@ -2,6 +2,8 @@
 
 [← back to Turing](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What does the term "undifferentiated heavy lifting" mean and how does the cloud remove it for a small team? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Turing | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-the-term-undifferentiated-heavy-lifting-mean-and-how-does-th-14666) |

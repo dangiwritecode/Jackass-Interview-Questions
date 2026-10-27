@@ -2,6 +2,8 @@
 
 [← back to Retell AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the latency architecture for a real-time voice agent where STT, LLM reasoning, and TTS must overlap to hit sub-800ms turn latency, and defend where you'd stream partial hypotheses versus wait for finality. | expertise | SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | Asked at Retell AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-latency-architecture-for-a-real-time-voice-agent-where-stt--83172) |

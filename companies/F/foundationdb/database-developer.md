@@ -2,6 +2,8 @@
 
 [← back to FoundationDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate whether a multi-model database that claims to serve document graph and relational in one engine actually removes your polyglot complexity or just relocates it? | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | Asked at FoundationDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-a-multi-model-database-that-claims-to-serv-114552) |

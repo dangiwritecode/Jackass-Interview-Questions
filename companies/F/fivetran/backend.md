@@ -2,6 +2,8 @@
 
 [← back to Fivetran](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're accountable for a bulk-import platform where users provide file paths for COPY/LOAD operations. Architect the identifier/path-handling boundary as a distinct injection surface from value binding, and design the sandbox/allowlist so no import can read arbitrary server files. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Fivetran | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-accountable-for-a-bulk-import-platform-where-users-provide-file-32885) |

@@ -2,6 +2,8 @@
 
 [← back to Replit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you manage the debt created by AI-assisted code generation at scale — high-volume, plausible-looking code with subtle correctness and consistency issues that traditional review misses? What guardrails do you install? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Replit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-manage-the-debt-created-by-ai-assisted-code-generation-at-s-41459) |

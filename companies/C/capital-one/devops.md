@@ -2,6 +2,8 @@
 
 [← back to Capital-One](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A director challenges the ROI of Vault Enterprise versus OSS plus glue code. Build the case: which Enterprise features are non-negotiable at your scale, and which could you replicate with tooling? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Capital-One | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-director-challenges-the-roi-of-vault-enterprise-versus-oss-plus-glue-54951) |

@@ -2,6 +2,8 @@
 
 [← back to ChaosNative](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you test that a kill switch actually works before you need it in an incident — describe a game-day exercise for flag-based kill switches. | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ChaosNative | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-test-that-a-kill-switch-actually-works-before-you-need-it-i-47341) |

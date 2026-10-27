@@ -2,6 +2,8 @@
 
 [← back to ImmuDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect audit-trail integrity for compliance — how do you make the encryption/access audit log itself tamper-evident (hash-chaining WORM) and provable to an auditor? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ImmuDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-audit-trail-integrity-for-compliance-how-do-you-make-the-enc-115283) |

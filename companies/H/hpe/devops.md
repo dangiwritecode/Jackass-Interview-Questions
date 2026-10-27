@@ -2,6 +2,8 @@
 
 [← back to HPE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd architect a fleet-wide policy for zero-trust workload identity (SPIFFE/SPIRE) enforcement — every pod must have a verifiable identity — and where OPA sits versus the identity issuer. | expertise | SDE-2/3, Architect/Principal | Policy as Code (OPA/Gatekeeper) | Phone Screen, Onsite | Tech | Asked at HPE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-architect-a-fleet-wide-policy-for-zero-trust-worklo-55363) |

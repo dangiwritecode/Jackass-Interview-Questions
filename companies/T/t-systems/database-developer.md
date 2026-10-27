@@ -2,6 +2,8 @@
 
 [← back to T-Systems](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design governance for a database that must comply with data-sovereignty mandates requiring in-country nationals as operators and sovereign-owned infrastructure — how do you architect a sovereign database enclave (keys operators storage) without forking your whole DBA operating model? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at T-Systems | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-for-a-database-that-must-comply-with-data-sovereignt-113109) |

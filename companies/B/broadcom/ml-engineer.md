@@ -2,6 +2,8 @@
 
 [← back to Broadcom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Triton Inference Server custom backend written in C++ leaks GPU memory across requests. How would you use the backend memory-management API and RAII to guarantee every allocation is released even on an error path? | deep understanding | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Broadcom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-triton-inference-server-custom-backend-written-in-c-leaks-gpu-memory-62782) |

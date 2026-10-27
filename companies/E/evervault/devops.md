@@ -2,6 +2,8 @@
 
 [← back to Evervault](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must architect a compliance approach for confidential-computing workloads (enclaves TEEs) that process PII/PAN where even your own operators can't see the data — how does this change your audit-evidence model when the trust root shifts to attestation hardware? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Evervault | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-a-compliance-approach-for-confidential-computing-wo-54075) |

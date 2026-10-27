@@ -2,6 +2,8 @@
 
 [← back to Oscar Health](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants to add exceptions to a codebase currently compiled with -fno-exceptions. What breaks, what's the migration cost, and how do you evaluate whether error-code plumbing or exceptions serve the codebase better? | deep understanding | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Healthcare companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-to-add-exceptions-to-a-codebase-currently-compiled-with-f-16909) |

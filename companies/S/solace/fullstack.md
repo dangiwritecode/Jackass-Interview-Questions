@@ -2,6 +2,8 @@
 
 [← back to Solace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A shared Mediator event-router became the org's implicit schema authority and every producer change now blocks on it. How do you invert control so producers own their contracts while the mediator only routes, without a coordinated migration? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Solace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-shared-mediator-event-router-became-the-org-s-implicit-schema-author-38423) |

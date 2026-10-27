@@ -2,6 +2,8 @@
 
 [← back to Airtel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect how you'd federate signing identity across a partner ecosystem so that vendors can sign artifacts you consume, and you can verify them, without sharing keys or trust roots. | expertise | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at Airtel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-how-you-d-federate-signing-identity-across-a-partner-ecosyst-55442) |

@@ -2,6 +2,8 @@
 
 [← back to Braze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the enterprise reverse-ETL architecture that syncs warehouse-derived audiences and scores back into 20 SaaS operational tools. How do you prevent the warehouse becoming an accidental system-of-record, handle each SaaS API's rate limits and eventual consistency, and govern which data may flow out? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Braze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-reverse-etl-architecture-that-syncs-warehouse-de-125646) |

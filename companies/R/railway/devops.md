@@ -2,6 +2,8 @@
 
 [← back to Railway](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design a compliance program for a platform that spins ephemeral preview environments per pull request — dozens created and destroyed hourly — so that transient infra doesn't create scope gaps or blind spots the auditor can exploit? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Railway | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-compliance-program-for-a-platform-that-spins-ephem-54040) |

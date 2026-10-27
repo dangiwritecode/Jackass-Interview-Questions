@@ -2,6 +2,8 @@
 
 [← back to Groundcover](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect reliability accountability for an eBPF-based observability rollout — when the SLI derivation moves into the kernel, how do you validate that the low-overhead telemetry is actually correct before betting budgets on it? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Groundcover | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-reliability-accountability-for-an-ebpf-based-obse-54151) |

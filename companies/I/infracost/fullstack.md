@@ -2,6 +2,8 @@
 
 [← back to Infracost](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Leadership wants a carbon-aware and cost-aware scheduling strategy so batch runs when grid intensity and spot prices are low. How would you architect carbon-aware placement across regions and time, what SLO and data-locality constraints bound it, and how would you report the emissions and dollar savings credibly? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Infracost | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=leadership-wants-a-carbon-aware-and-cost-aware-scheduling-strategy-so--39024) |

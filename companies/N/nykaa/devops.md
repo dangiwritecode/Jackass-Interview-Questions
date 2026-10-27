@@ -2,6 +2,8 @@
 
 [← back to Nykaa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach capacity planning when the leading demand signal is a business metric (orders, streams, trades) rather than raw QPS, and the mapping from business metric to infra load drifts as the product evolves? How do you keep the model calibrated? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Nykaa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-capacity-planning-when-the-leading-demand-signal-i-52934) |

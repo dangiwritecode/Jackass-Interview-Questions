@@ -2,6 +2,8 @@
 
 [← back to EY (Ernst & Young)](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are asked to define what 'cloud maturity' means for the AI org and set a two-year target. What capability model would you use and which milestones would you refuse to skip? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Consulting companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-asked-to-define-what-cloud-maturity-means-for-the-ai-org-and-s-82742) |

@@ -2,6 +2,8 @@
 
 [← back to Tigera-Calico](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare enforcing identity at L7 (proxy/mesh) versus L3/L4 (eBPF/CNI policy) versus the host firewall. In a defense-in-depth model, how do you layer these without contradictory policy? | expertise | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | Asked at Tigera-Calico | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-enforcing-identity-at-l7-proxy-mesh-versus-l3-l4-ebpf-cni-poli-56851) |

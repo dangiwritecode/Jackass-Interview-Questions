@@ -2,6 +2,8 @@
 
 [← back to Backblaze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle encryption for a hot-cold tiered architecture where cold data goes to object storage and glacier — do keys rotate independently and how do you decrypt 5-year-old archives? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Backblaze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-encryption-for-a-hot-cold-tiered-architecture-where--115282) |

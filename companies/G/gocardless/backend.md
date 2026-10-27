@@ -2,6 +2,8 @@
 
 [← back to GoCardless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Define a data contract precisely. What does it cover beyond schema, how is it enforced in CI/CD, and what happens at runtime when a producer breaks it? Who is paged? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at GoCardless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=define-a-data-contract-precisely-what-does-it-cover-beyond-schema-how--36516) |

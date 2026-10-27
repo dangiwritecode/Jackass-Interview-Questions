@@ -2,6 +2,8 @@
 
 [← back to WorkOS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal peer wants to standardize on ABAC everywhere; another wants ReBAC (Zanzibar-style). As the deciding architect for a 10-year horizon, how do you evaluate which failure modes each hides at scale and what the migration cost is if you pick wrong? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at WorkOS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-wants-to-standardize-on-abac-everywhere-another-wants-53935) |

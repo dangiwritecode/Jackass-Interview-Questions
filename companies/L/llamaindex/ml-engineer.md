@@ -2,6 +2,8 @@
 
 [← back to LlamaIndex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare naive RAG with GraphRAG for questions that require connecting facts across many documents. What does the graph buy you and what does it cost to build? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at LlamaIndex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-naive-rag-with-graphrag-for-questions-that-require-connecting--63791) |

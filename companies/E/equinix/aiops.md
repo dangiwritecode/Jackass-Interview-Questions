@@ -2,6 +2,8 @@
 
 [← back to Equinix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design cross-cloud network observability so AIOps can attribute latency to peering transit or a specific interconnect rather than the app? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | Asked at Equinix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-cross-cloud-network-observability-so-aiops-can-at-103778) |

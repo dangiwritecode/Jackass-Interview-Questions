@@ -2,6 +2,8 @@
 
 [← back to Wolfram](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why is it risky to let the model do arithmetic or date math directly, and how does giving it a tool fix that? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Wolfram | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-it-risky-to-let-the-model-do-arithmetic-or-date-math-directly-a-73566) |

@@ -2,6 +2,8 @@
 
 [← back to PEAK6](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Best Standing Point for Maximum Combined Signal | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Brute Force, Enumeration, Geometry, Simulation | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at PEAK6 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=best-standing-point-for-maximum-combined-signal-d1545) |

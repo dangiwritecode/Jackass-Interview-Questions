@@ -2,6 +2,8 @@
 
 [← back to crewAI](README.md)
 
+Questions 1–102 of 102.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A beginner asks why we call it an 'agent loop'. Walk through why one model call is usually not enough for a tool-using task. | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at crewAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-beginner-asks-why-we-call-it-an-agent-loop-walk-through-why-one-mode-73593) |

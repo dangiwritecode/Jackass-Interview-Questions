@@ -2,6 +2,8 @@
 
 [← back to Gainsight](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you version schema for a hybrid where some tenants are shared-schema and others are isolated-database, keeping a single logical migration definition? | deep understanding | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at Gainsight | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-version-schema-for-a-hybrid-where-some-tenants-are-shared-s-114273) |

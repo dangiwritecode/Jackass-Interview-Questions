@@ -2,6 +2,8 @@
 
 [← back to Automerge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide, when modeling a new aggregate, whether it should live as a single consensus-replicated entity (linearizable) or as a set of CRDT-mergeable fields (eventual)? Give the modeling heuristic and a concrete case where you split one entity across both. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Automerge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-modeling-a-new-aggregate-whether-it-should-live-112149) |

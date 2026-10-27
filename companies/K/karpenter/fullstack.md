@@ -2,6 +2,8 @@
 
 [← back to Karpenter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare Cluster Autoscaler and Karpenter for a workload with bursty, heterogeneous Pods. Which would you pick and why, and how does node-provisioning latency affect your autoscaling design? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Karpenter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-cluster-autoscaler-and-karpenter-for-a-workload-with-bursty-he-19554) |

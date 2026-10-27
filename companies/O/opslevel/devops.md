@@ -2,6 +2,8 @@
 
 [← back to OpsLevel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the platform to keep the developer-portal catalog authoritative when it depends on hundreds of teams keeping metadata fresh — what automation, discovery, and decay-detection makes 'who owns this' resolvable during a 3am incident? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at OpsLevel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-platform-to-keep-the-developer-portal-cata-54282) |

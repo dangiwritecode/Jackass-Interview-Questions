@@ -2,6 +2,8 @@
 
 [← back to Deci](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain speculative decoding: how a small draft model accelerates a large target model and what happens to latency when the draft's acceptance rate is low. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Deci | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-speculative-decoding-how-a-small-draft-model-accelerates-a-lar-63781) |

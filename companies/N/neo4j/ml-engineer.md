@@ -2,6 +2,8 @@
 
 [← back to Neo4j](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through the architecture for supporting feature computation over graph/relationship data (user-merchant-device) in a store designed around flat entities. | expertise | SDE-2/3, Architect/Principal | Feature Stores | Phone Screen, Onsite | Tech | Asked at Neo4j | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-the-architecture-for-supporting-feature-computation-ov-70859) |

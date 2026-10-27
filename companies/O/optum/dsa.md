@@ -2,6 +2,8 @@
 
 [← back to Optum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Length of the Longest Shared Ordered Subsequence | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | 2D DP, Dynamic Programming, Grid DP, Space Optimization, String, Subsequence, Tabulation | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Optum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=length-of-the-longest-shared-ordered-subsequence-d1114) |

@@ -2,6 +2,8 @@
 
 [← back to Wells Fargo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator flags that an unmaintained compliance-critical module is a systemic risk. How do you fast-track paydown of compliance debt while keeping the rest of the roadmap intact, and who signs off on the risk you can't retire in time? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Wells Fargo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-flags-that-an-unmaintained-compliance-critical-module-is-a-38063) |

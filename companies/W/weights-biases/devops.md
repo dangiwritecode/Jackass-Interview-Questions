@@ -2,6 +2,8 @@
 
 [← back to Weights & Biases](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect incident management for ML/AI systems where the failure is a silent quality regression — model drift, poisoned data, prompt-injection — and there is no 5xx to alert on? What does 'the SLI' even mean? | expertise | SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Weights & Biases | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-incident-management-for-ml-ai-systems-where-the-f-53158) |

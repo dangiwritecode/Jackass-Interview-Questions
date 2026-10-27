@@ -2,6 +2,8 @@
 
 [← back to DigitalOcean](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal-loop scenario: you must decide whether to run one large shared consensus cluster (etcd) for the whole platform's coordination or many small ones per domain; frame the CAP-operability and blast-radius trade-off and pick a default with its risks. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at DigitalOcean | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-loop-scenario-you-must-decide-whether-to-run-one-large-sha-111582) |

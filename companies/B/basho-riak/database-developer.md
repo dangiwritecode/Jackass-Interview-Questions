@@ -2,6 +2,8 @@
 
 [← back to Basho-Riak](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | For an active-active multi-master setup where both regions took writes during a partition, walk me through your conflict-resolution doctrine (LWW vs CRDT vs app-level merge) and how it shapes your effective RPO. | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Basho-Riak | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-an-active-active-multi-master-setup-where-both-regions-took-writes-112857) |

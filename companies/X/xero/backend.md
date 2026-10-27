@@ -2,6 +2,8 @@
 
 [← back to Xero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a developer portal and DX strategy for a partner API program going from 50 to 5000 partners. What's your self-serve onboarding, sandbox, key management, and docs architecture, and how do you measure time-to-first-successful-call as a north-star metric? | expertise | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Xero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-developer-portal-and-dx-strategy-for-a-partner-api-program-go-36413) |

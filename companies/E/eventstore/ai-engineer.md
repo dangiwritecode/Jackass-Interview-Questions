@@ -2,6 +2,8 @@
 
 [← back to EventStore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an event-sourced architecture for agents where every state transition is an immutable event. What are the replay, audit, and debugging benefits versus the storage and complexity costs? | deep understanding | SDE-2/3, Architect/Principal | Agentic System Architecture | Phone Screen, Onsite | Tech | Asked at EventStore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-event-sourced-architecture-for-agents-where-every-state-tran-87003) |

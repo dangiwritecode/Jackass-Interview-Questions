@@ -2,6 +2,8 @@
 
 [← back to ByteDance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants to cache authorization decisions at the CDN edge for speed. Threat-model the staleness window: how long can a revoked user keep access, and how do you architect near-instant cache invalidation without inventing a global lock? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at ByteDance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-to-cache-authorization-decisions-at-the-cdn-edge-for-spee-41263) |

@@ -2,6 +2,8 @@
 
 [← back to Very Good Security](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for tokenization vault scaling and availability when every online feature lookup needs a detokenization call in the critical inference path? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Very Good Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-tokenization-vault-scaling-and-availability-w-72599) |

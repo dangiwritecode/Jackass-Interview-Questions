@@ -2,6 +2,8 @@
 
 [← back to Starburst](README.md)
 
+Questions 1–149 of 149.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A reporting service wants a shared writable volume mounted across 6 Spark or query Pods on Kubernetes. How would you evaluate ReadWriteMany options versus redesigning to avoid shared writable state for a data workload? | expertise | SDE-1/2, SDE-2/3 | Kubernetes | Phone Screen, Onsite | Tech | Asked at Starburst | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-reporting-service-wants-a-shared-writable-volume-mounted-across-6-sp-120338) |

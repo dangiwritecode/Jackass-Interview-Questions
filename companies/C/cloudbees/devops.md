@@ -2,6 +2,8 @@
 
 [← back to CloudBees](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the FinOps story for supply chain security: thousands of SBOMs, signatures and rescans have real storage and compute cost — how do you keep it under budget without weakening coverage? | deep understanding | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at CloudBees | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-finops-story-for-supply-chain-security-thousands-of-sbom-55433) |

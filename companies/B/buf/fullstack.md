@@ -2,6 +2,8 @@
 
 [← back to Buf](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer drops: "you standardized on gRPC internally but the frontend and partners need REST/JSON." Architect the translation boundary (gRPC-web, transcoding gateway, or hand-written adapters) and explain the ownership and drift hazards of each. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Buf | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-drops-you-standardized-on-grpc-internally-but-the-front-40731) |

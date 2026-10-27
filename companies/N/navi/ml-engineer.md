@@ -2,6 +2,8 @@
 
 [← back to Navi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator requires that any credit-scoring model's decision be explainable and its training data auditable years later — how do you architect model and data lineage on AWS (SageMaker Lineage, Model Cards, immutable dataset snapshots) so this is provable, not reconstructed? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Navi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-requires-that-any-credit-scoring-model-s-decision-be-expla-68583) |

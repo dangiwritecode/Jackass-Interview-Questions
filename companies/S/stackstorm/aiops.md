@@ -2,6 +2,8 @@
 
 [← back to StackStorm](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you monitor whether an auto-remediation model's actions are actually resolving incidents versus masking symptoms that recur later? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at StackStorm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-whether-an-auto-remediation-model-s-actions-are-act-95390) |

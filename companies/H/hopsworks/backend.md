@@ -2,6 +2,8 @@
 
 [← back to Hopsworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the cost-attribution model for a shared machine-learning feature store used by 30 teams, where storage, serving, and training compute are jointly consumed. How do you fairly split cost and drive efficient feature reuse instead of duplication? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Hopsworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-cost-attribution-model-for-a-shared-machine-learning-featur-37082) |

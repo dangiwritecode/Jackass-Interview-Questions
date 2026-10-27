@@ -2,6 +2,8 @@
 
 [← back to Garmin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect SLIs for a hybrid on-prem-plus-cloud AIOps deployment where the on-prem telemetry collectors have hard capacity ceilings — can you offer a uniform detection-latency SLO across both, and how do you budget the fundamentally different failure profiles? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Hardware companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-slis-for-a-hybrid-on-prem-plus-cloud-aiops-deploy-100376) |

@@ -2,6 +2,8 @@
 
 [← back to Runpod](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide whether an AI feature belongs on Kubernetes at all versus a serverless GPU platform (Modal/Runpod-style)? What traffic shape and cost profile pushes you each way? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Runpod | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-an-ai-feature-belongs-on-kubernetes-at-al-77584) |

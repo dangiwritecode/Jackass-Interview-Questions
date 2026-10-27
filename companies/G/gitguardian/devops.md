@@ -2,6 +2,8 @@
 
 [← back to GitGuardian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A developer commits an AWS key to a public repo and it's exploited within minutes. Walk me through prevention (pre-commit hooks, secret scanning), detection (GitHub push protection, credential monitoring), and the automated revocation you'd wire up. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at GitGuardian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-developer-commits-an-aws-key-to-a-public-repo-and-it-s-exploited-wit-47868) |

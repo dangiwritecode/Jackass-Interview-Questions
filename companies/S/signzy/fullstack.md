@@ -2,6 +2,8 @@
 
 [← back to Signzy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the FinOps of a third-party API dependency (payments, KYC, maps) priced per-call, where a client-side retry bug or a bot attack can 50x your external spend overnight? Design the architectural circuit-breaker. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Signzy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-finops-of-a-third-party-api-dependency-payments--41205) |

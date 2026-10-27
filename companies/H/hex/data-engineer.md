@@ -2,6 +2,8 @@
 
 [← back to Hex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance for a self-serve analytics platform where any analyst can spin up a notebook against the lake — so PII access is brokered masked and audited by default without killing exploratory data work or making them wait on a ticket? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Hex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-a-self-serve-analytics-platform-wh-126060) |

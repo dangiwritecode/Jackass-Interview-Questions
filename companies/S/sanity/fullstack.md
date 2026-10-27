@@ -2,6 +2,8 @@
 
 [← back to Sanity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how nested fragments compose, and whether a fragment can spread another fragment. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | GraphQL | Phone Screen, Onsite | Tech | Asked at Sanity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-nested-fragments-compose-and-whether-a-fragment-can-spread-11556) |

@@ -2,6 +2,8 @@
 
 [← back to Auth0](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between HTTP status codes 401 and 403? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite, Hiring Manager | Tech | Asked at Auth0 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-http-status-codes-401-and-403-3480) |

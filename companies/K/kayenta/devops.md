@@ -2,6 +2,8 @@
 
 [← back to Kayenta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set up automated canary analysis (e.g., Kayenta or Flagger metrics) to compare a flagged cohort against control on latency, errors, and saturation before ramping further? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Kayenta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-automated-canary-analysis-e-g-kayenta-or-flagger--47347) |

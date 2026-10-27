@@ -2,6 +2,8 @@
 
 [← back to Route](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your remote state in S3 has grown to 80MB because one module manages thousands of DNS records in a single resource map. Every plan reads and rewrites the whole blob. How do you diagnose the state-size bottleneck and decompose it without a big-bang cutover? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Route | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-remote-state-in-s3-has-grown-to-80mb-because-one-module-manages-t-30165) |

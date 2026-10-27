@@ -2,6 +2,8 @@
 
 [← back to NoBroker](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you pick between reporting mean and median error for a skewed regression target, and how do you communicate the tail? | intermediate experience | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at NoBroker | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-pick-between-reporting-mean-and-median-error-for-a-skewed-r-65865) |

@@ -2,6 +2,8 @@
 
 [← back to Zara](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a globally-consistent inventory-reservation platform for a company selling across regions where the same SKU pool is shared globally and oversell is unacceptable. Reconcile the single-source-of-truth requirement with the multi-region low-latency demand. | expertise | SDE-2/3, Architect/Principal | Cassandra/DynamoDB (Wide-Column NoSQL) | Phone Screen, Onsite | Tech | Asked at Zara | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-globally-consistent-inventory-reservation-platform-for-a-comp-34890) |

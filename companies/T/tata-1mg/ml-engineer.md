@@ -2,6 +2,8 @@
 
 [← back to Tata 1mg](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between precision and recall and why does the choice matter for a medical-screening ML system? | deep understanding | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Tata 1mg | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-precision-and-recall-and-why-does-the-c-62108) |

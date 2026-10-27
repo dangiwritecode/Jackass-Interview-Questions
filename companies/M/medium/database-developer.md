@@ -2,6 +2,8 @@
 
 [← back to Medium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you model a blog with users posts and comments in an ER diagram? | intermediate experience | Fresher, SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Medium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-blog-with-users-posts-and-comments-in-an-er-diag-106210) |

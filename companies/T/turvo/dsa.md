@@ -2,6 +2,8 @@
 
 [← back to Turvo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Least Total Effort to Split Ordered Tasks Across Days | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Interval Partition DP, Prefix DP, Range Maximum | DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at Turvo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=least-total-effort-to-split-ordered-tasks-across-days-d1288) |

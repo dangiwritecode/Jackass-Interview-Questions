@@ -2,6 +2,8 @@
 
 [← back to Aerospike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the platform handles scaling the 'write' side of the feature store: as producers multiply, materialization jobs contend for the same store and write amplification explodes. What partitioning, batching, and write-path isolation keeps ingestion scalable independent of read load? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Aerospike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-platform-handles-scaling-the-write-side-of-the-feature--100699) |

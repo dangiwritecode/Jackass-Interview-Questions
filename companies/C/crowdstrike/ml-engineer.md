@@ -2,6 +2,8 @@
 
 [← back to CrowdStrike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build differential access controls so that high-risk model capabilities (e.g. bio/chem/cyber) are gated to authorized users only? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at CrowdStrike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-differential-access-controls-so-that-high-risk-mod-71704) |

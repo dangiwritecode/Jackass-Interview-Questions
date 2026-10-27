@@ -2,6 +2,8 @@
 
 [← back to Census](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern data flowing into external SaaS and shadow data pipelines — reverse-ETL to Salesforce exports to Google Sheets a rogue Fivetran connector — so PII doesn't silently leave your compliance boundary through a dozen unsanctioned integrations. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Census | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-data-flowing-into-external-saas-a-126063) |

@@ -2,6 +2,8 @@
 
 [← back to Baffle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you make encryption transparent to legacy applications that can't be modified — proxy-based encryption gateways vs DB-native — and what are the failure and single-point-of-trust risks? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Baffle | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-make-encryption-transparent-to-legacy-applications-that-can-115312) |

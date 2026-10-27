@@ -2,6 +2,8 @@
 
 [← back to jsDelivr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You add Subresource Integrity (SRI) to third-party script tags; explain how SRI complements CSP against a compromised CDN delivering XSS, and what breaks when the third party updates the script without notice. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at jsDelivr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-add-subresource-integrity-sri-to-third-party-script-tags-explain-h-26408) |

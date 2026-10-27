@@ -2,6 +2,8 @@
 
 [← back to Camunda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan continuity for long-running stateful workflows and sagas that were mid-execution when a region failed, so business processes don't get stuck in limbo? | deep understanding | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | Asked at Camunda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-continuity-for-long-running-stateful-workflows-and-sag-56972) |

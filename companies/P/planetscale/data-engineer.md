@@ -2,6 +2,8 @@
 
 [← back to PlanetScale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the MySQL binlog and how is it related to CDC? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Change Data Capture (CDC) | Phone Screen, Onsite | Tech | Asked at PlanetScale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-mysql-binlog-and-how-is-it-related-to-cdc-119273) |

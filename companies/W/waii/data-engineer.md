@@ -2,6 +2,8 @@
 
 [← back to Waii](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: 'you added an LLM-powered text-to-SQL layer over the warehouse so analysts self-serve — how does the rest of your data architecture change to handle wrong-but-confident queries, governance, and runaway compute cost?' Architect the guardrails and the human-in-the-loop boundary. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Waii | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-you-added-an-llm-powered-text-to-sql-layer-over--125645) |

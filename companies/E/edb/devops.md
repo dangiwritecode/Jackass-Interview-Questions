@@ -2,6 +2,8 @@
 
 [← back to EDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cross-team dispute: the DBA team wants schema-as-code (Atlas/schema providers) inside the same Terraform apply that provisions RDS, so DB structure and instance are versioned together. As principal, adjudicate whether schema belongs in Terraform's apply and where mixing DDL with infra provisioning becomes a data-loss hazard. | deep understanding | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at EDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cross-team-dispute-the-dba-team-wants-schema-as-code-atlas-schema-pr-53043) |

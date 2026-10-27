@@ -2,6 +2,8 @@
 
 [← back to Tumblr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your model's answers subtly drifted after you added an emoji-laden brand voice to the system prompt. Explain how tokenizer behavior on emoji and formatting could have caused the shift. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Tumblr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-model-s-answers-subtly-drifted-after-you-added-an-emoji-laden-bra-77965) |

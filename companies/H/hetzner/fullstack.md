@@ -2,6 +2,8 @@
 
 [← back to Hetzner](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're evaluating whether to migrate a stable, predictable workload from a hyperscaler to a cheaper neo-cloud (Hetzner, OVH, bare metal). Build the honest risk-adjusted TCO including the exit-cost and reliability delta. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Hetzner | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-whether-to-migrate-a-stable-predictable-workload-fro-41141) |

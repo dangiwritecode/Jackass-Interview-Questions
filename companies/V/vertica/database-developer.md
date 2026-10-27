@@ -2,6 +2,8 @@
 
 [← back to Vertica](README.md)
 
+Questions 1–66 of 66.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Across a polyglot estate of Postgres OLTP and a columnar warehouse, how do you decide where bitmap-style low-cardinality filtering belongs versus B-tree covering indexes, and how do you document that boundary for engineers? | expertise | SDE-2/3, Architect/Principal | Advanced Indexing (Covering/Composite/Bitmap) | Phone Screen, Onsite | Tech | Asked at Vertica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=across-a-polyglot-estate-of-postgres-oltp-and-a-columnar-warehouse-how-113944) |

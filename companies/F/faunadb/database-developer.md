@@ -2,6 +2,8 @@
 
 [← back to FaunaDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: given the FLP result and CAP, what does it actually mean when your vendor markets a database as 'always consistent and always available'? Deconstruct the marketing claim into the precise operating assumptions (synchrony, single-region, failure model) that make it locally true. | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at FaunaDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-given-the-flp-result-and-cap-what-does-it-actually-m-112181) |

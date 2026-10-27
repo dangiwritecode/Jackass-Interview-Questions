@@ -2,6 +2,8 @@
 
 [← back to TIBCO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When you say 'golden record', what is the actual data model and lineage behind it — do you materialize one physical golden record, keep source-attributed survivorship, or expose a virtual golden view, and what drove that choice? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at TIBCO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-you-say-golden-record-what-is-the-actual-data-model-and-lineage-b-127716) |

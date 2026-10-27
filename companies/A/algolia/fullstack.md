@@ -2,6 +2,8 @@
 
 [← back to Algolia](README.md)
 
+Questions 1–78 of 78.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A search-as-you-type box hits your API every keystroke and each query is indexed but the endpoint still feels laggy. How do you separate index latency from network and debounce concerns? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Algolia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-search-as-you-type-box-hits-your-api-every-keystroke-and-each-query--25750) |

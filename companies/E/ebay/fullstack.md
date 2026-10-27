@@ -2,6 +2,8 @@
 
 [← back to eBay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the architecture for an event-driven commerce backbone where order inventory pricing and fulfillment are separate bounded contexts communicating via events — how do you avoid a distributed-ball-of-mud and keep the event contracts evolvable across teams? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at eBay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-an-event-driven-commerce-backbone-where-or-39453) |

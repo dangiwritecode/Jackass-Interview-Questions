@@ -2,6 +2,8 @@
 
 [← back to CGI-Federal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is your strategy for maintaining a FedRAMP System Security Plan (SSP) as living documentation when infrastructure changes hundreds of times per day via GitOps? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at CGI-Federal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-for-maintaining-a-fedramp-system-security-plan-s-56729) |

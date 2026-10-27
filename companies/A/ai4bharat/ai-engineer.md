@@ -2,6 +2,8 @@
 
 [← back to AI4Bharat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how the tokenizer choice affects both cost and quality when fine-tuning a model for a low-resource Indian language. | deep understanding | SDE-1/2, SDE-2/3 | Deep Learning (Neural Networks/CNN/RNN) | Phone Screen, Onsite | Tech | Asked at AI4Bharat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-the-tokenizer-choice-affects-both-cost-and-quality-when-fi-79126) |

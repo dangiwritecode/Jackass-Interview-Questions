@@ -2,6 +2,8 @@
 
 [← back to Fivetran](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Terraform module is vendored via a Git source ref pinned to a tag, but someone moved the tag to a new commit. What are the reproducibility risks of a mutable module tag, and how do you enforce immutable module versions across 40 root modules? | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Fivetran | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-terraform-module-is-vendored-via-a-git-source-ref-pinned-to-a-tag-bu-45625) |

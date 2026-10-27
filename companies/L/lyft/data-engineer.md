@@ -2,6 +2,8 @@
 
 [← back to Lyft](README.md)
 
+Questions 1–62 of 62.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probes your streaming design: 'what happens to a Flink job's exactly-once guarantee when you rescale parallelism, and how does that interact with your Kafka partition count and your sink's transaction support?' Walk through checkpoint/savepoint mechanics and where the guarantee silently degrades. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Lyft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-your-streaming-design-what-happens-to-a-flink-job--125648) |

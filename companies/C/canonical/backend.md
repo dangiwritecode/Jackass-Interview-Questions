@@ -2,6 +2,8 @@
 
 [← back to Canonical](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how systemd resource controls (MemoryMax, CPUQuota, TasksMax, IOWeight) map to cgroup v2 controllers, and how you'd use them to contain a noisy service on a shared VM without containers. | deep understanding | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Canonical | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-systemd-resource-controls-memorymax-cpuquota-tasksmax-iowe-26673) |

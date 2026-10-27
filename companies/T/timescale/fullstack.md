@@ -2,6 +2,8 @@
 
 [← back to Timescale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you run a database like Postgres in a container for local testing and seed it with initial schema/data? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Timescale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-a-database-like-postgres-in-a-container-for-local-te-14315) |

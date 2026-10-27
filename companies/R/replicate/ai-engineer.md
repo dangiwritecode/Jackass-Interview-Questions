@@ -2,6 +2,8 @@
 
 [← back to Replicate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide, at org scale, when a workload belongs on managed serverless GPU inference versus a dedicated always-on cluster, and how would you encode that decision as a repeatable platform policy rather than a per-team judgment call? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Replicate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-at-org-scale-when-a-workload-belongs-on-managed-s-82743) |

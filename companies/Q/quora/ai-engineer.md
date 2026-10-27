@@ -2,6 +2,8 @@
 
 [← back to Quora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stakeholder wants explainability for why a text was flagged. How would you surface interpretable evidence from a TF-IDF model versus a fine-tuned transformer? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Quora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-wants-explainability-for-why-a-text-was-flagged-how-woul-79410) |

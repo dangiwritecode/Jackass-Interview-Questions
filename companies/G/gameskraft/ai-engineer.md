@@ -2,6 +2,8 @@
 
 [← back to Gameskraft](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect capacity planning for an AI platform whose demand is driven by unpredictable product launches and viral moments, so you neither pay for idle GPUs nor cold-start your way through a launch? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Gaming companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-capacity-planning-for-an-ai-platform-whose-dem-82781) |

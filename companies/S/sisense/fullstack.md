@@ -2,6 +2,8 @@
 
 [← back to Sisense](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the frontend architecture for a data-visualization-heavy product (BI/observability) rendering millions of points — canvas vs WebGL vs SVG, downsampling, and worker offloading strategy. | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Sisense | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-frontend-architecture-for-a-data-visualization-heavy-produc-40075) |

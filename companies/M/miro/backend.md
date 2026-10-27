@@ -2,6 +2,8 @@
 
 [← back to Miro](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're designing a real-time collaboration platform (live cursors presence CRDT sync) for millions of concurrent users on AWS — compare AppSync API Gateway WebSockets and a managed pub/sub fabric and defend the choice at that concurrency. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Miro | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-a-real-time-collaboration-platform-live-cursors-prese-33250) |

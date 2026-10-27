@@ -2,6 +2,8 @@
 
 [← back to Sumo Logic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the logging architecture that satisfies audit/forensics requirements yet must NOT itself become a PII/PAN leak — how do you handle redaction at ingest field-level masking retention tiers and access control on the logs themselves? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Sumo Logic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-logging-architecture-that-satisfies-audit-forensics-require-37230) |

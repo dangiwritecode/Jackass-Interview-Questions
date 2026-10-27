@@ -2,6 +2,8 @@
 
 [← back to Anodot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design a real-time anomaly-detection layer on top of streaming metrics that adapts to seasonality without paging engineers every Monday morning. | expertise | SDE-2/3, Architect/Principal | Real-time Analytics Architecture | Onsite | Tech | Asked at Anodot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-a-real-time-anomaly-detection-layer-on-top-o-127577) |

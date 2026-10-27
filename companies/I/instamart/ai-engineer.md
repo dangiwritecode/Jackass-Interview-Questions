@@ -2,6 +2,8 @@
 
 [← back to Instamart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide a sensible max_tokens for a feature where answer length varies 10x, balancing truncation risk against reserving context and paying for unused headroom? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Instamart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-a-sensible-max-tokens-for-a-feature-where-answer-len-77935) |

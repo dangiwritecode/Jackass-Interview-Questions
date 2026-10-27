@@ -2,6 +2,8 @@
 
 [← back to Hortonworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You see 'Container killed by YARN for exceeding memory limits' — how do you reason about executor memory overhead vs heap and what knobs do you turn? | deep understanding | SDE-1/2, SDE-2/3 | PySpark | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Hortonworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-see-container-killed-by-yarn-for-exceeding-memory-limits-how-do-yo-123772) |

@@ -2,6 +2,8 @@
 
 [← back to Schneider Electric](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you quantify the carbon/energy benefit of prompt caching for an ESG-conscious org, and is it a real lever? | deep understanding | SDE-2/3, Architect/Principal | Prompt Caching Strategy | Phone Screen, Onsite | Tech | Asked at Schneider Electric | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-quantify-the-carbon-energy-benefit-of-prompt-caching-for-86615) |

@@ -2,6 +2,8 @@
 
 [← back to Momento](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a caching platform's API so that migrating from one backing store to another (Redis to a newer engine) is invisible to tenants? What abstraction do you commit to and what leaks through anyway? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Momento | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-caching-platform-s-api-so-that-migrating-from-o-31957) |

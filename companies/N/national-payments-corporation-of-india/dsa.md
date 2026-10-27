@@ -2,6 +2,8 @@
 
 [← back to National Payments Corporation of India](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Alternating Parity Check | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bit Manipulation, Iteration, Parity | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at National Payments Corporation of India | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=alternating-parity-check-d2864) |

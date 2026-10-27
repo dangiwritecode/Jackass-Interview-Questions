@@ -2,6 +2,8 @@
 
 [← back to Retool](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to build a compliance program that a Series-B startup can grow into without re-platforming at Series-D — what minimal governance primitives do you architect on day one so that scaling from 50 to 2000 engineers doesn't force a rip-and-replace of the control plane? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Retool | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-build-a-compliance-program-that-a-series-b-startup-can-54067) |

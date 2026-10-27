@@ -2,6 +2,8 @@
 
 [← back to Riot Games](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Validity Check for a Partially Filled 9x9 Number Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bit Manipulation, Hash Table, Matrix | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Riot Games | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=validity-check-for-a-partially-filled-9x9-number-grid-d36) |

@@ -2,6 +2,8 @@
 
 [← back to Verizon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how EXISTS versus IN versus JOIN differ in semantics and performance when the subquery can return NULLs. | deep understanding | SDE-1, SDE-1/2 | T-SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Verizon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-exists-versus-in-versus-join-differ-in-semantics-and-perfo-108632) |

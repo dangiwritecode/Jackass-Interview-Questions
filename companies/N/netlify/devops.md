@@ -2,6 +2,8 @@
 
 [← back to Netlify](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a per-PR ephemeral environment secrets model where hundreds of preview envs spin up and down daily. How do you avoid leaking prod secrets into previews and clean up dynamic leases automatically? | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Netlify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-per-pr-ephemeral-environment-secrets-model-where-hundreds-of--54960) |

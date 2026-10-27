@@ -2,6 +2,8 @@
 
 [← back to Groq](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for keeping the post-training platform hardware-portable across GPU vendors and accelerators to avoid single-vendor lock-in? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Groq | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-keeping-the-post-training-platform-hardware-p-71330) |

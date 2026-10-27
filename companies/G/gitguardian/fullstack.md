@@ -2,6 +2,8 @@
 
 [← back to GitGuardian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A secret was pushed to a public repo and possibly used. As principal, design the org-wide structural prevention (pre-commit and CI secret scanning, short-lived dynamic credentials, no-standing-secrets, auto-revoke on detection) so a leaked secret is worthless — not just the point fix for this leak. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at GitGuardian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-secret-was-pushed-to-a-public-repo-and-possibly-used-as-principal-de-38905) |

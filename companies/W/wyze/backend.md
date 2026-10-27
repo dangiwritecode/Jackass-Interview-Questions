@@ -2,6 +2,8 @@
 
 [← back to Wyze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a smart-home command system that supports macros, scheduling, and undo of a macro; the interviewer asks what happens if one command in the macro fails midway—atomicity or best-effort? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Wyze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-smart-home-command-system-that-supports-macros--16492) |

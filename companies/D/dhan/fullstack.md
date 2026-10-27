@@ -2,6 +2,8 @@
 
 [← back to Dhan](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a stock-trading order-matching engine's high-level architecture — how do you keep the matching deterministic, low-latency, and recoverable after a crash? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Dhan | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-stock-trading-order-matching-engine-s-high-level-architecture-20706) |

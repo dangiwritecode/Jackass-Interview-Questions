@@ -2,6 +2,8 @@
 
 [← back to Collibra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a data catalog / lineage / governance layer (Collibra/Alation vs OpenMetadata/DataHub OSS vs bespoke) that only pays off if adoption is near-universal across teams? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Collibra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-catalog-lineage-governance-l-41043) |

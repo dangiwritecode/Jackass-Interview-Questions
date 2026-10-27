@@ -2,6 +2,8 @@
 
 [← back to Palo Alto Networks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do encryption-at-rest and KMS key rotation interact with tiered/archived data — what happens to a Glacier object when its KMS key is disabled or rotated? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Palo Alto Networks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-encryption-at-rest-and-kms-key-rotation-interact-with-tiered-ar-126745) |

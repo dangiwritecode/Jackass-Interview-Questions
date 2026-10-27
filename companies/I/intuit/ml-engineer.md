@@ -2,6 +2,8 @@
 
 [← back to Intuit](README.md)
 
+Questions 1–87 of 87.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the use of customer data in prompts/context windows so PII isn't inadvertently sent to third-party model providers? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Intuit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-use-of-customer-data-in-prompts-context-windows--71731) |

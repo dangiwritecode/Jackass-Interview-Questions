@@ -2,6 +2,8 @@
 
 [← back to SonarSource](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a fitness-function test that fails CI when a service reaches around a Repository to run raw SQL, across a polyglot codebase where the violation looks different in Java, Go, and TypeScript? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at SonarSource | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-fitness-function-test-that-fails-ci-when-a-serv-38459) |

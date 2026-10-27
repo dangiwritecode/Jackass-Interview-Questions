@@ -2,6 +2,8 @@
 
 [← back to Venafi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd standardize mutual-TLS and certificate lifecycle for database connections across services when cert rotation must never cause a fleet-wide outage. | deep understanding | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Venafi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-standardize-mutual-tls-and-certificate-lifecycle-for-114082) |

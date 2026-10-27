@@ -2,6 +2,8 @@
 
 [← back to Fireworks AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a multi-provider LLM-inference fallback and capacity strategy so that when your primary model endpoint is rate-limited or degraded, traffic degrades to a smaller/cheaper model or a queue, without a jarring quality cliff and without unbounded per-token cost? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Fireworks AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-multi-provider-llm-inference-fallback-and-ca-52105) |

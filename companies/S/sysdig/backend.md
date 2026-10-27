@@ -2,6 +2,8 @@
 
 [← back to Sysdig](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A distroless container crashloops with no shell. Walk through using an ephemeral debug container (shared PID/network namespace) or nsenter to root-cause it without rebuilding to a shell image. | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Sysdig | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-distroless-container-crashloops-with-no-shell-walk-through-using-an--26776) |

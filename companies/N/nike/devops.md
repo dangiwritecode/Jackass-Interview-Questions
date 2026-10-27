@@ -2,6 +2,8 @@
 
 [← back to Nike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a Control Tower landing zone with Account Factory so cost-attribution, security baseline, and network baseline are guaranteed the instant a team vends a new account — and where do you draw the shared-services versus per-team account boundary? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Nike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-control-tower-landing-zone-with-account-fact-52358) |

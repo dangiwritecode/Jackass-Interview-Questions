@@ -2,6 +2,8 @@
 
 [← back to Optimizely](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you observe and govern feature-flag/experimentation systems so that a flag flip is a first-class deploy marker in your telemetry, its impact on SLOs is measurable, and a bad flag can be auto-detected and rolled back from error-budget burn? | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Optimizely | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-observe-and-govern-feature-flag-experimentation-systems-so--99078) |

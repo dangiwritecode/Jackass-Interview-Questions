@@ -2,6 +2,8 @@
 
 [← back to Neo4j](README.md)
 
+Questions 1–67 of 67.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A staff engineer proposes GraphRAG (graph-structured retrieval over entity relationships) to replace flat vector retrieval for a knowledge-heavy agent. As principal, when does a graph layer over your vector store earn its complexity, and when is it premature? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Neo4j | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-staff-engineer-proposes-graphrag-graph-structured-retrieval-over-ent-82473) |

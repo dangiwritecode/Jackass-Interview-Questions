@@ -2,6 +2,8 @@
 
 [← back to Tata Communications](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need a strategy for securing edge and IoT-style compute far from the core cluster — how does the DevSecOps model change when nodes are physically untrusted? | expertise | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tata Communications | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-a-strategy-for-securing-edge-and-iot-style-compute-far-from-t-55096) |

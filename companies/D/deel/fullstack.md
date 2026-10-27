@@ -2,6 +2,8 @@
 
 [← back to Deel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Tell me about a time you had to make a call on how much to formalize architecture ownership across an org that had grown from a startup with no titles. How did you introduce structure without alienating the founding engineers? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Deel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-make-a-call-on-how-much-to-formalize-a-40458) |

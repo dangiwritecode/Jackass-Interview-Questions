@@ -2,6 +2,8 @@
 
 [← back to Couchbase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why a leaderless multi-master database that behaves fine at 3 regions becomes a correctness and operability nightmare at 15. Identify what grows super-linearly (conflict rate, anti-entropy cost, reasoning load) and at what point you'd re-centralize writes behind a consensus group. | expertise | SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Couchbase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-leaderless-multi-master-database-that-behaves-fine-at-3--112062) |

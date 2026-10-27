@@ -2,6 +2,8 @@
 
 [← back to Allianz Technology](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: two jurisdictions' laws conflict — the EU AI Act demands you log all high-risk model decisions while GDPR data-minimization pushes to log less. As principal how do you architect the ML audit-log design that satisfies both without contradiction? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Allianz Technology | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-two-jurisdictions-laws-conflict-the-eu-ai-act-de-70017) |

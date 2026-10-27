@@ -2,6 +2,8 @@
 
 [← back to Guardrails AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between input guardrails and output guardrails, and give a concrete case where you need both on the same request. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Guardrails AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-input-guardrails-and-output-guardrails--63802) |

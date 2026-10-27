@@ -2,6 +2,8 @@
 
 [← back to dbt Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal probe: you run a large batch/ETL platform used by analysts who don't think about cost, and a single dbt/Airflow DAG change can 10x the daily bill. Design the pre-execution cost-preview, per-DAG budgets, and the governance that curbs runaway jobs without gatekeeping legitimate analysis. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at dbt Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-probe-you-run-a-large-batch-etl-platform-used-by-analysts--53917) |

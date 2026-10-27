@@ -2,6 +2,8 @@
 
 [← back to Arista Networks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design cluster network topology (NVLink domains, rail-optimized fabric, InfiniBand vs RoCE) as a strategic choice constraining every future parallelism decision. | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Arista Networks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-cluster-network-topology-nvlink-domains-rail-71090) |

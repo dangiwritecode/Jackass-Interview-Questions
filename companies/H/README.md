@@ -16,18 +16,18 @@
 | [Halodoc](halodoc/README.md) | Tier 2 | 540 | 2 |
 | [Handshake](handshake/README.md) | Tier 3 | 540 | 1 |
 | [Haptik](haptik/README.md) | Tier 4 | 540 | 6 |
-| [Harness](harness/README.md) | Tier 2 | 720 | 506 |
-| [Harvey](harvey/README.md) | Tier 3 | 630 | 211 |
+| [Harness](harness/README.md) | Tier 2 | 876 | 506 |
+| [Harvey](harvey/README.md) | Tier 3 | 654 | 211 |
 | [HashedIn](hashedin/README.md) | Tier 4 | 540 | 15 |
-| [HashiCorp](hashicorp/README.md) | Tier 2 | 1,099 | 6,284 |
+| [HashiCorp](hashicorp/README.md) | Tier 2 | 6,688 | 6,284 |
 | [Hashnode](hashnode/README.md) | Tier 4 | 540 | 15 |
-| [Hasura](hasura/README.md) | Tier 3 | 701 | 369 |
+| [Hasura](hasura/README.md) | Tier 3 | 771 | 369 |
 | [Havells](havells/README.md) | Tier 4 | 540 | 1 |
 | [Haystack](haystack/README.md) | Tier 4 | 540 | 3 |
 | [Hazelcast](hazelcast/README.md) | Tier 3 | 540 | 32 |
 | [Hazy](hazy/README.md) | Tier 3 | 540 | 2 |
-| [HCLTech](hcltech/README.md) | Tier 5 | 1,260 | 2,706 |
-| [HDFC-Bank](hdfc-bank/README.md) | Tier 3 | 1,237 | 1,518 |
+| [HCLTech](hcltech/README.md) | Tier 5 | 2,920 | 2,706 |
+| [HDFC-Bank](hdfc-bank/README.md) | Tier 3 | 1,644 | 1,518 |
 | [Headspace](headspace/README.md) | Tier 3 | 540 | 1 |
 | [Healthify](healthify/README.md) | Tier 3 | 540 | 1 |
 | [HealthKart](healthkart/README.md) | Tier 3 | 540 | 2 |
@@ -63,7 +63,7 @@
 | [Holistic AI](holistic-ai/README.md) | Tier 4 | 540 | 4 |
 | [Home-Credit](home-credit/README.md) | Tier 3 | 540 | 1 |
 | [Honey](honey/README.md) | Tier 2 | 540 | 1 |
-| [Honeycomb.io](honeycomb-io/README.md) | Tier 3 | 929 | 1,961 |
+| [Honeycomb.io](honeycomb-io/README.md) | Tier 3 | 2,173 | 1,961 |
 | [Honeywell](honeywell/README.md) | Tier 3 | 540 | 36 |
 | [Hookdeck](hookdeck/README.md) | Tier 3 | 540 | 5 |
 | [Hootsuite](hootsuite/README.md) | Tier 3 | 540 | 1 |
@@ -71,7 +71,7 @@
 | [Hortonworks](hortonworks/README.md) | Tier 2 | 540 | 39 |
 | [Hostinger](hostinger/README.md) | Tier 4 | 540 | 5 |
 | [Hotjar](hotjar/README.md) | Tier 3 | 540 | 1 |
-| [Hotstar](hotstar/README.md) | Tier 2 | 1,260 | 10,966 |
+| [Hotstar](hotstar/README.md) | Tier 2 | 11,296 | 10,966 |
 | [Houzz](houzz/README.md) | Tier 3 | 540 | 2 |
 | [Howzat](howzat/README.md) | Tier 3 | 540 | 1 |
 | [HP](hp/README.md) | Tier 3 | 540 | 4 |
@@ -80,7 +80,7 @@
 | [Huawei](huawei/README.md) | Tier 2 | 540 | 11 |
 | [HubSpot](hubspot/README.md) | Tier 2 | 615 | 263 |
 | [Hudson River Trading](hudson-river-trading/README.md) | Tier 1 | 540 | 13 |
-| [Hugging Face](hugging-face/README.md) | Tier 2 | 801 | 3,002 |
+| [Hugging Face](hugging-face/README.md) | Tier 2 | 3,307 | 3,002 |
 | [HUL](hul/README.md) | Tier 2 | 540 | 1 |
 | [Hulu](hulu/README.md) | Tier 2 | 540 | 7 |
 | [HUMAN](human/README.md) | Tier 3 | 540 | 4 |

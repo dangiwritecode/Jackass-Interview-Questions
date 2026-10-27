@@ -2,6 +2,8 @@
 
 [← back to StreamNative](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when a message queue or event log (Kafka/Pulsar) becomes the de facto source of truth versus staying a transport, and what does that imply for your database choices downstream? | expertise | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at StreamNative | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-a-message-queue-or-event-log-kafka-pulsar-becom-114366) |

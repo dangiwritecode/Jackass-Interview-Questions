@@ -2,6 +2,8 @@
 
 [← back to Mirantis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a compliance strategy for a fully GitOps-driven fleet where Argo/Flux reconciles thousands of clusters — how do you make the reconciliation loop itself the enforcement point and the evidence source simultaneously? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Mirantis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-compliance-strategy-for-a-fully-gitops-drive-54034) |

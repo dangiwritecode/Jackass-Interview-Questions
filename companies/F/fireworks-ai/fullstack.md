@@ -2,6 +2,8 @@
 
 [← back to Fireworks AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design load balancing for a batch-inference pipeline where throughput matters more than latency, so the balancer packs work to maximize GPU utilization (bin-packing) rather than spreading it. When does this conflict with the online path sharing the fleet? | expertise | SDE-2/3, Architect/Principal | Load Balancing | Phone Screen, Onsite | Tech | Asked at Fireworks AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-load-balancing-for-a-batch-inference-pipeline-38685) |

@@ -2,6 +2,8 @@
 
 [← back to Maersk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd stage a migration from on-prem SQL Server to Azure with Cosmos for some services and Managed Instance for others — how do you sequence it to de-risk the critical revenue path? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Maersk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-stage-a-migration-from-on-prem-sql-server-to-azure--115186) |

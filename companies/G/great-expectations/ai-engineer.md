@@ -2,6 +2,8 @@
 
 [← back to Great Expectations](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a data-quality gate that rejects malformed or garbage text before it enters your training pipeline? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Great Expectations | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-data-quality-gate-that-rejects-malformed-or-gar-79474) |

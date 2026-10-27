@@ -2,6 +2,8 @@
 
 [← back to Svix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd threat-model a webhook receiver that external systems POST to. Cover signature verification, replay protection, source-IP allowlisting versus HMAC, and why SSRF from webhook processing is a risk. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Svix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-threat-model-a-webhook-receiver-that-external-system-47882) |

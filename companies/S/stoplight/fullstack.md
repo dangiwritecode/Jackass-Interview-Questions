@@ -2,6 +2,8 @@
 
 [← back to Stoplight](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the governance for API changelogs and machine-readable diff artifacts so that every release publishes a structured 'what changed' that tooling can consume. How do you generate it from the spec diff, classify severity automatically, and make it the trigger for consumer-side compatibility checks? | deep understanding | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Stoplight | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-governance-for-api-changelogs-and-machine-readable-diff-art-40880) |

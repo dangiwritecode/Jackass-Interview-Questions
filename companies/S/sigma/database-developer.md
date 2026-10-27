@@ -2,6 +2,8 @@
 
 [← back to Sigma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org runs Snowflake and the warehouse auto-suspend/auto-resume is misconfigured so credits burn on idle. How would you capacity-plan warehouse sizing, multi-cluster scaling, and suspend policy to hit a cost-per-query target without hurting concurrency? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Sigma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-snowflake-and-the-warehouse-auto-suspend-auto-resume-is--112253) |

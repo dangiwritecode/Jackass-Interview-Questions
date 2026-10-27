@@ -2,6 +2,8 @@
 
 [← back to Mostly AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a data-masking / synthetic-test-data pipeline for lower environments — buy Gretel/Tonic vs build your own de-identification — when a vendor gives turnkey masking but building lets you prove your PII-scrubbing line-by-line to auditors? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Mostly AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-masking-synthetic-test-data--125842) |

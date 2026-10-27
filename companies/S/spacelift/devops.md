@@ -2,6 +2,8 @@
 
 [← back to Spacelift](README.md)
 
+Questions 1–95 of 95.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A half-applied Terraform run left prod infra corrupt and two engineers' changes collided in shared state — walk me through safe recovery, state reconciliation and import, and the locking/review process that prevents this class of incident org-wide. | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Spacelift | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-half-applied-terraform-run-left-prod-infra-corrupt-and-two-engineers-52394) |

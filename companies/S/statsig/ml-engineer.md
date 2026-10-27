@@ -2,6 +2,8 @@
 
 [← back to Statsig](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A feature-flag targeting system for model rollouts must evaluate which experiments apply to a request fast with thousands of overlapping segments; how do you structure the rules to prune quickly? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Statsig | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-feature-flag-targeting-system-for-model-rollouts-must-evaluate-which-62552) |

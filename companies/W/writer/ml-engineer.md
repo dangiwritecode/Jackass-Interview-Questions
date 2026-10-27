@@ -2,6 +2,8 @@
 
 [← back to Writer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vendor's managed inference API silently swaps the model behind the endpoint and breaks your evals. How does that non-determinism and lack of version pinning change your build-vs-buy calculus toward self-hosting open weights? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Writer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-s-managed-inference-api-silently-swaps-the-model-behind-the-e-69783) |

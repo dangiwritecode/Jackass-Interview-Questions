@@ -2,6 +2,8 @@
 
 [← back to Reliance Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide the org's default cloud region strategy — follow-the-user, follow-the-model-availability, or follow-the-cheapest-GPU — for a global AI product, and how do you resolve the tension when those three pull in different directions? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Reliance Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-org-s-default-cloud-region-strategy-follow-th-82827) |

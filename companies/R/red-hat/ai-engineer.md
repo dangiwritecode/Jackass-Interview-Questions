@@ -2,6 +2,8 @@
 
 [← back to Red Hat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide how much of the AI platform's control plane to run on managed Kubernetes versus fully serverless. What operational, cost, and hiring-market factors would drive that choice for a ten-year platform? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Red Hat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-how-much-of-the-ai-platform-s-control-plane-to-run-on--82776) |

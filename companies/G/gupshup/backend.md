@@ -2,6 +2,8 @@
 
 [← back to Gupshup](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a URL-metadata (link preview) service that fetches title/image for pasted links safely. How do you avoid SSRF, cache results, handle slow/huge pages, and respect timeouts? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Gupshup | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-url-metadata-link-preview-service-that-fetches-title-image-fo-16407) |

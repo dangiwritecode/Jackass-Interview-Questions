@@ -2,6 +2,8 @@
 
 [← back to Roche](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you migrate a monolith serving a healthcare/regulated workload where every cutover needs a validated change-control artifact — how does that reshape your slice cadence? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | Asked at Roche | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-migrate-a-monolith-serving-a-healthcare-regulated-workload--40950) |

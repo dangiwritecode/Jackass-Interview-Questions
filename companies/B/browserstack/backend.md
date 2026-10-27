@@ -2,6 +2,8 @@
 
 [← back to BrowserStack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A NoSQL login-bypass via operator injection (an object like $gt with an empty string) was found. Explain the class, then design input typing/validation at the API boundary so operator objects can never reach the query layer. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at BrowserStack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-nosql-login-bypass-via-operator-injection-an-object-like-gt-with-an--19153) |

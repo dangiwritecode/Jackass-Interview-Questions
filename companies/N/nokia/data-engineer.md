@@ -2,6 +2,8 @@
 
 [← back to Nokia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: 'your medallion pipeline reprocesses silver from bronze nightly, but a source sent corrected historical records last week — how do you propagate a late-arriving correction through gold without a full-history rebuild?' Walk through the incremental late-data handling pattern and its correctness guarantees. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Telecom companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-your-medallion-pipeline-reprocesses-silver-from-bron-125628) |

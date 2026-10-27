@@ -2,6 +2,8 @@
 
 [← back to Agoda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You inherit an org where every team invented its own logging schema so cross-service audit correlation is impossible — lay out a multi-quarter program to converge on a governed audit-event schema without halting feature work or invalidating past evidence. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Agoda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-an-org-where-every-team-invented-its-own-logging-schema-so-54035) |

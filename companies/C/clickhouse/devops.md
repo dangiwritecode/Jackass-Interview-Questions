@@ -2,6 +2,8 @@
 
 [← back to ClickHouse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd architect capacity planning for a workload where the cost driver is data-scan volume (columnar warehouse, log search) and small schema/query changes swing scan cost 100x. How do you govern query cost as a first-class capacity dimension? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at ClickHouse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-architect-capacity-planning-for-a-workload-where-the-53009) |

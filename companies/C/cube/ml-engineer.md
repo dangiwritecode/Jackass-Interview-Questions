@@ -2,6 +2,8 @@
 
 [← back to Cube](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you pick a metrics/semantic-layer strategy so the 'revenue' or 'active-user' feature every model consumes matches the definition finance reports on? What governance nightmare does a shared semantic layer prevent or create for ML? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cube | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-pick-a-metrics-semantic-layer-strategy-so-the-revenue-or-ac-69746) |

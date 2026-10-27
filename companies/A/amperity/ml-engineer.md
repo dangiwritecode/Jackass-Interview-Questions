@@ -2,6 +2,8 @@
 
 [← back to Amperity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a privacy-preserving identity resolution / entity matching system when you must join across sources without exposing raw identifiers? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Amperity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-privacy-preserving-identity-resolution-entit-72619) |

@@ -2,6 +2,8 @@
 
 [← back to Tetrate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your design caches at the mesh sidecar layer. What are the failure and observability implications of caching inside Envoy versus in application code, and who owns invalidation in that model? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Tetrate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-design-caches-at-the-mesh-sidecar-layer-wha-38525) |

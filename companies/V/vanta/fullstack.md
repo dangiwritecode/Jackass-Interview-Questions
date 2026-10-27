@@ -2,6 +2,8 @@
 
 [← back to Vanta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a time you had to lead the org's decision on how to handle a compliance certification (SOC2, ISO 27001, PCI-DSS) that forced architectural changes across every team on a hard deadline. How did you mobilize it? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Vanta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-lead-the-org-s-decision-on-how-to-handle-a--40487) |

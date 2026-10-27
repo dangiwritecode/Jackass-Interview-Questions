@@ -2,6 +2,8 @@
 
 [← back to Fly.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal peer argues the org should abandon self-managed Kubernetes for a managed serverless-container platform to cut ops toil. How would you construct the counter-analysis (or concede), quantify the operational tax versus flexibility, and define the workload profile where each is objectively right? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Fly.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-argues-the-org-should-abandon-self-managed-kubernetes-39040) |

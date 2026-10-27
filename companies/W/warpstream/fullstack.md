@@ -2,6 +2,8 @@
 
 [← back to Warpstream](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an SLI for a system whose primary interface is an event stream consumers subscribe to — is your reliability 'events published' 'events delivered' or 'consumers caught up' and who owns lag? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Warpstream | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-sli-for-a-system-whose-primary-interface-is-an-41403) |

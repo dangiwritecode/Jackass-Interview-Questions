@@ -2,6 +2,8 @@
 
 [← back to Airbyte](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a time you had to make a multi-year commitment to a data platform strategy while the underlying technology landscape was shifting fast enough that any bet risked obsolescence. How did you hedge without paralysis? | expertise | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Airbyte | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-had-to-make-a-multi-year-commitment-to-a-data-plat-40427) |

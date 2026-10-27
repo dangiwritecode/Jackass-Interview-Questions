@@ -2,6 +2,8 @@
 
 [← back to Morgan Stanley](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reconcile aggressive cold-tiering with SLA-bound restore latency for compliance queries, litigation holds, or audit requests? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Morgan Stanley | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reconcile-aggressive-cold-tiering-with-sla-bound-restore-la-126720) |

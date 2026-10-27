@@ -2,6 +2,8 @@
 
 [← back to LastPass](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an LRU cache with O(1) get and put operations — what data structures would you use? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Commonly asked at Tier 2 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-lru-cache-with-o-1-get-and-put-operations-what-data-structur-4938) |

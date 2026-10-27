@@ -2,6 +2,8 @@
 
 [← back to Arm](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the org's policy on edge/on-device inference for latency-critical or privacy-critical features versus centralized GPU serving, and how do the two share a model pipeline? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at Arm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-org-s-policy-on-edge-on-device-inference-for--85221) |

@@ -2,6 +2,8 @@
 
 [← back to Yelp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A collection's storageSize is far larger than its dataSize after heavy deletes; explain WiredTiger fragmentation, when space is or isn't returned to the OS, and whether compact is worth the lock cost. | deep understanding | SDE-1/2, SDE-2/3 | MongoDB | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Yelp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-collection-s-storagesize-is-far-larger-than-its-datasize-after-heavy-24534) |

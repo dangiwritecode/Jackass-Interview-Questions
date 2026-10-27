@@ -2,6 +2,8 @@
 
 [← back to Wasabi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd decide the org-wide policy on committed vs on-demand for storage (not compute) — reserved capacity, provisioned IOPS commitments, minimum-retention tiers. Storage commitments are stickier than compute; how does that change your risk posture? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Wasabi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-decide-the-org-wide-policy-on-committed-vs-on-demand-52957) |

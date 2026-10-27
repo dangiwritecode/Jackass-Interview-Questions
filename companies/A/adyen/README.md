@@ -1,17 +1,17 @@
 # Adyen
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 815  |  **Tagged directly to Adyen:** 951
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 1,151  |  **Tagged directly to Adyen:** 951
 
 Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
 
-Each role profile lists up to 150 questions, most-asked first. Adyen's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Adyen: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
+Every question tagged to Adyen is listed, most-asked first, split across pages of 800. The **Why It Is Listed** column says how each question reaches Adyen: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
 | Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 0 | 0 | 38 | 150 | 136 | 150 |
-| Fullstack | 2 | 2 | 49 | 150 | 125 | 150 |
+| Backend | 3 | 3 | 227 | 481 | 382 | 481 |
+| Fullstack | 2 | 2 | 49 | 155 | 130 | 155 |
 | DevOps | 0 | 0 | 9 | 112 | 112 | 112 |
 | AIOps | 2 | 2 | 3 | 60 | 59 | 60 |
 | Data Engineer | 0 | 0 | 5 | 60 | 56 | 60 |
@@ -22,12 +22,12 @@ Each role profile lists up to 150 questions, most-asked first. Adyen's own tags 
 
 ## Question lists
 
-- [Backend](backend.md) — 150 questions (top 150 of 481 tagged — open any one in Locus to filter the rest)
-- [Fullstack](fullstack.md) — 150 questions (top 150 of 155 tagged — open any one in Locus to filter the rest)
-- [DevOps](devops.md) — 112 questions
-- [AIOps](aiops.md) — 60 questions
-- [Data Engineer](data-engineer.md) — 60 questions
-- [Database Developer](database-developer.md) — 103 questions
-- [ML Engineer](ml-engineer.md) — 60 questions
-- [AI Engineer](ai-engineer.md) — 60 questions
-- [Data Structures & Algorithms](dsa.md) — 60 questions
+- **Backend** — 481 questions: [open](backend.md)
+- **Fullstack** — 155 questions: [open](fullstack.md)
+- **DevOps** — 112 questions: [open](devops.md)
+- **AIOps** — 60 questions: [open](aiops.md)
+- **Data Engineer** — 60 questions: [open](data-engineer.md)
+- **Database Developer** — 103 questions: [open](database-developer.md)
+- **ML Engineer** — 60 questions: [open](ml-engineer.md)
+- **AI Engineer** — 60 questions: [open](ai-engineer.md)
+- **Data Structures & Algorithms** — 60 questions: [open](dsa.md)

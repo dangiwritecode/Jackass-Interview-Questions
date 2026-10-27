@@ -2,6 +2,8 @@
 
 [← back to Adyen](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: 'you chose an ELT pattern loading raw then transforming in-warehouse, but a compliance rule says PII must be masked before it ever lands — doesn't ELT violate that?' Reconcile ELT's load-first model with pre-landing obligations, and where you'd fall back to ETL or tokenization-at-ingest. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Adyen | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-chose-an-elt-pattern-loading-raw-then-transformi-125662) |

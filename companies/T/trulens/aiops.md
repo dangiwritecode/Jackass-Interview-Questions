@@ -2,6 +2,8 @@
 
 [← back to TruLens](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build a lightweight in-request 'is the context actually used' check to detect prompt-ignores-retrieval drift? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at TruLens | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-lightweight-in-request-is-the-context-actually-u-97920) |

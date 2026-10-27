@@ -2,6 +2,8 @@
 
 [← back to Zepto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to guarantee sub-100ms lookups on 'latest known state per entity' derived from an append-only event lake with billions of events. Architect the compaction/serving strategy: log-structured-merge to a KV store, materialized latest-state table, or a real-time OLAP layer, and defend it. | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Zepto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-guarantee-sub-100ms-lookups-on-latest-known-state-per--112664) |

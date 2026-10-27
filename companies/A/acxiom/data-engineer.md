@@ -2,6 +2,8 @@
 
 [← back to Acxiom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you deal with a data broker or enrichment source that later turns out to have had no valid consent — how do you quarantine and remediate everything derived from it? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Acxiom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-deal-with-a-data-broker-or-enrichment-source-that-later--127378) |

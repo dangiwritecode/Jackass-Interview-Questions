@@ -2,6 +2,8 @@
 
 [← back to Anthropic](README.md)
 
+Questions 1–85 of 85.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: you've built an LLM gateway to give per-team token-spend visibility, but teams now route around it by calling providers directly for lower latency. How do you make the governed path the cheapest and fastest path so shadow AI spend can't escape your FinOps net? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Anthropic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-ve-built-an-llm-gateway-to-give-per-team-token-s-53863) |

@@ -2,6 +2,8 @@
 
 [← back to Checkmarx](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a cross-region capacity strategy for a global inference platform when GPU quota is the true constraint and it is unevenly available across regions and cloud accounts? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Security companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-cross-region-capacity-strategy-for-a-global--82736) |

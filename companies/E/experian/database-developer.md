@@ -2,6 +2,8 @@
 
 [← back to Experian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd implement GDPR pseudonymization versus anonymization in a data warehouse feeding analytics — where does re-identification risk creep back and how do you govern the mapping table? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Experian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-implement-gdpr-pseudonymization-versus-anonymization-115253) |

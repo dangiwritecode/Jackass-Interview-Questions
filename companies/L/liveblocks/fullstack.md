@@ -2,6 +2,8 @@
 
 [← back to Liveblocks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Build vs buy for a real-time collaboration/presence layer (Liveblocks/Ably vs building on your own WebSocket infra). Weigh scale economics, latency guarantees, and the depth of your differentiation. | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Liveblocks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=build-vs-buy-for-a-real-time-collaboration-presence-layer-liveblocks-a-36997) |

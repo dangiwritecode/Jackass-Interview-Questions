@@ -2,6 +2,8 @@
 
 [← back to DE Shaw](README.md)
 
+Questions 1–70 of 70.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the Global Interpreter Lock (GIL) and how does it affect multithreaded CPU-bound Python code? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at DE Shaw | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-global-interpreter-lock-gil-and-how-does-it-affect-multith-1196) |

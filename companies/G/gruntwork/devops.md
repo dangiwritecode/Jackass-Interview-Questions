@@ -2,6 +2,8 @@
 
 [← back to Gruntwork](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A downstream consumer pins your Terraform module by commit SHA, but you rebased the module repo to squash history and their SHA vanished. Explain the reproducibility contract you broke and how you'd version modules so consumers are never orphaned. | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Gruntwork | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-consumer-pins-your-terraform-module-by-commit-sha-but-you-45669) |

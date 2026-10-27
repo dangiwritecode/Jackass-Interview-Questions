@@ -2,6 +2,8 @@
 
 [← back to SBI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an anti-corruption boundary between a modern services estate and a legacy mainframe system-of-record that can't be retired for years, so mainframe semantics and its batch/latency profile don't leak org-wide? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at SBI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-anti-corruption-boundary-between-a-modern-serv-51986) |

@@ -2,6 +2,8 @@
 
 [← back to Depot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A build with BuildKit caches inconsistently because a RUN pulls the current date into a layer; how do you find and eliminate such cache-busting non-determinism? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Depot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-build-with-buildkit-caches-inconsistently-because-a-run-pulls-the-cu-45859) |

@@ -2,6 +2,8 @@
 
 [← back to Ping An](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design governance for synthetic-data generation so synthetic training data provably doesn't leak real individuals (membership-inference resistance) and can be used to unblock GDPR-constrained ML use cases — how do you measure and attest the privacy of the synthetic set? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Ping An | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-for-synthetic-data-generation-so-synthetic-training--69982) |

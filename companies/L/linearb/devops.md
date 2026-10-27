@@ -2,6 +2,8 @@
 
 [← back to LinearB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the governance architecture for internal developer analytics — DORA metrics build logs code-review data — so that measuring your own engineers doesn't itself become an unlawful employee-monitoring or works-council violation under EU law. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at LinearB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-governance-architecture-for-internal-developer-analytics-do-54059) |

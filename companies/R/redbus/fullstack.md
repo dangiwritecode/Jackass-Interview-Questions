@@ -2,6 +2,8 @@
 
 [← back to RedBus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A boat takes 6 hours to travel 36 km upstream and 3 hours for the same distance downstream. Find the speed of the boat in still water and the stream. | intermediate experience | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at RedBus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-boat-takes-6-hours-to-travel-36-km-upstream-and-3-hours-for-the-same-15856) |

@@ -2,6 +2,8 @@
 
 [← back to Portkey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An overloaded 529 and a rate-limit 429 from Anthropic are both retryable but mean different things. How do you tune backoff, jitter, and retry budget differently for each under sustained load? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Portkey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-overloaded-529-and-a-rate-limit-429-from-anthropic-are-both-retryab-64153) |

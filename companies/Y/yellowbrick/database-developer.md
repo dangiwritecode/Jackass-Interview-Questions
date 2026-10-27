@@ -2,6 +2,8 @@
 
 [← back to Yellowbrick](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between a rowstore nonclustered index and a nonclustered columnstore index and when each fits an analytical workload. | expertise | SDE-1, SDE-1/2 | T-SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Yellowbrick | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-a-rowstore-nonclustered-index-and-a-non-108555) |

@@ -2,6 +2,8 @@
 
 [← back to Glean](README.md)
 
+Questions 1–99 of 99.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is Retrieval-Augmented Generation and why is it useful for an LLM-backed application? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Glean | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-retrieval-augmented-generation-and-why-is-it-useful-for-an-llm-7286) |

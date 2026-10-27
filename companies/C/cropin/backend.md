@@ -2,6 +2,8 @@
 
 [← back to Cropin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd pick metaField and granularity for a time-series collection storing per-device sensor readings, and how a wrong metaField choice destroys bucketing efficiency. | deep understanding | SDE-1/2, SDE-2/3 | MongoDB | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Cropin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-pick-metafield-and-granularity-for-a-time-series-col-24569) |

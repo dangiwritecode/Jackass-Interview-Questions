@@ -2,6 +2,8 @@
 
 [← back to Volcano](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you use gang scheduling (Volcano or Kueue) on Kubernetes so a Spark or distributed job's executors all schedule together or not at all, and what waste does the default scheduler cause without it? | expertise | SDE-1/2, SDE-2/3 | Kubernetes | Phone Screen, Onsite | Tech | Asked at Volcano | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-gang-scheduling-volcano-or-kueue-on-kubernetes-so-a--120310) |

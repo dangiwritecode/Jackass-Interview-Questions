@@ -2,6 +2,8 @@
 
 [← back to Moody's](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design MDM for regulatory reporting (BCBS 239, LEI, KYC) where lineage and reproducibility of every master value is auditable and must be defensible to a regulator? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Moody's | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-mdm-for-regulatory-reporting-bcbs-239-lei-kyc-where--127803) |

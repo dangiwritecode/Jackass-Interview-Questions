@@ -2,6 +2,8 @@
 
 [← back to Deutsche Telekom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A single etcd and control plane whose loss halts all deploys is a top risk. As principal, how would you architect control-plane resilience (HA quorum sizing, regional isolation, upgrade safety) and prove to leadership that running workloads keep serving user traffic through a full control-plane outage window? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Deutsche Telekom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-single-etcd-and-control-plane-whose-loss-halts-all-deploys-is-a-top--39084) |

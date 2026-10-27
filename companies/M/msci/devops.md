@@ -2,6 +2,8 @@
 
 [← back to MSCI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to migrating analytics/data-warehouse workloads where data gravity and pipeline dependencies make a simple Rehost meaningless? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Analytics companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-migrating-analytics-data-warehouse-workloads-w-56623) |

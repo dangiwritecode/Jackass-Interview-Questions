@@ -2,6 +2,8 @@
 
 [← back to ICICI-Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team proposes replicating your entire warehouse into a second cloud 'just for DR' — pressure-test that: what RPO/RTO actually needs it versus what a well-designed backup-and-restore gives you cheaper? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at ICICI-Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-proposes-replicating-your-entire-warehouse-into-a-second-cloud--127233) |

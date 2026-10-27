@@ -2,6 +2,8 @@
 
 [← back to Martian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a model-router that sends easy queries to a cheap generator and hard ones to an expensive one across the whole platform. What signals drive routing, and how do you keep the router from silently becoming a quality landmine on edge cases? | deep understanding | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Martian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-model-router-that-sends-easy-queries-to-a-cheap-generator--68925) |

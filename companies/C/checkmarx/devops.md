@@ -2,6 +2,8 @@
 
 [← back to Checkmarx](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You inherit a program where every team bought a different scanner — how do you rationalize the tooling estate while managing the political fallout of retiring someone's tool? | deep understanding | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Checkmarx | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-a-program-where-every-team-bought-a-different-scanner-how--55040) |

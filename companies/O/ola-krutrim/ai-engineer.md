@@ -2,6 +2,8 @@
 
 [← back to Ola Krutrim](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would use GRPO instead of PPO for a reasoning task and what changes about the critic and advantage estimation. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Ola Krutrim | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-use-grpo-instead-of-ppo-for-a-reasoning-task-and-82056) |

@@ -2,6 +2,8 @@
 
 [← back to State Bank of India](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect topology so a full-scale multi-year cloud migration (thousands of services moving over 18 months) never leaves the graph in a misleading state during any cut-over window? | expertise | SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | Asked at State Bank of India | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-topology-so-a-full-scale-multi-year-cloud-migrati-102083) |

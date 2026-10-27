@@ -2,6 +2,8 @@
 
 [← back to Ververica](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate whether a real-time streaming pipeline is worth its operational cost versus micro-batching, given most models tolerate minutes of staleness? | deep understanding | SDE-2/3, Architect/Principal | Feature Stores | Phone Screen, Onsite | Tech | Asked at Ververica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-a-real-time-streaming-pipeline-is-worth-it-70810) |

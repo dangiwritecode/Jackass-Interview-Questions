@@ -2,6 +2,8 @@
 
 [← back to Kong](README.md)
 
+Questions 1–138 of 138.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the trade-off of caching at the API gateway (like Kong or AWS API Gateway) versus inside the service. | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Kong | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-trade-off-of-caching-at-the-api-gateway-like-kong-or-aws-a-12942) |

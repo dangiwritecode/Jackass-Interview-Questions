@@ -2,6 +2,8 @@
 
 [← back to Mixpanel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A COPY-based bulk import is slow and inflates WAL; walk through disabling indexes/constraints, using UNLOGGED tables, and the durability trade-offs of each speedup. | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Mixpanel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-copy-based-bulk-import-is-slow-and-inflates-wal-walk-through-disabli-18163) |

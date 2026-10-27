@@ -2,6 +2,8 @@
 
 [← back to Tiger Analytics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between SCD Type 1, Type 2, and Type 3. | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | Asked at Tiger Analytics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-scd-type-1-type-2-and-type-3-104768) |

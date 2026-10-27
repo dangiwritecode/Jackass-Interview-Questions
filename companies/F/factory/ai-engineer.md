@@ -2,6 +2,8 @@
 
 [← back to Factory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate long-horizon agent tasks where a full trajectory takes minutes and running thousands for statistical power is infeasible? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Factory | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-long-horizon-agent-tasks-where-a-full-trajectory-t-86869) |

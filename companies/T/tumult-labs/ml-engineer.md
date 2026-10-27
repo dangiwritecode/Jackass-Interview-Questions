@@ -2,6 +2,8 @@
 
 [← back to Tumult Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a privacy-budget accounting system across streaming and batch DP jobs so a user's cumulative epsilon spend never exceeds policy across all analyses. | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tumult Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-privacy-budget-accounting-system-across-streaming-and-batch-d-72603) |

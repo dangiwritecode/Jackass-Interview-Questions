@@ -2,6 +2,8 @@
 
 [← back to Roadie](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must set org policy on whether internal service APIs get published in the same catalog and held to the same discoverability rules as external ones. Argue the case that a unified catalog is worth the exposure risk, and design the classification/visibility model that keeps sensitive internal APIs from becoming attack surface. | deep understanding | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Roadie | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-set-org-policy-on-whether-internal-service-apis-get-published-40835) |

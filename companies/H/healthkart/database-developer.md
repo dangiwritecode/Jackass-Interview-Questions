@@ -2,6 +2,8 @@
 
 [← back to HealthKart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain a write-skew anomaly with a concrete example (e.g. two on-call doctors both going off shift) and which isolation level actually prevents it. | expertise | SDE-1, SDE-1/2 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at HealthKart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-a-write-skew-anomaly-with-a-concrete-example-e-g-two-on-call-d-106896) |

@@ -2,6 +2,8 @@
 
 [← back to Texas Instruments](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: you migrated to Aurora and costs went UP not down — how do you diagnose what went wrong and what's your remediation playbook? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Semiconductors companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-you-migrated-to-aurora-and-costs-went-up-not-dow-115240) |

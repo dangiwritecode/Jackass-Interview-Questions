@@ -2,6 +2,8 @@
 
 [← back to Stability AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you validate that a safety-tuned model hasn't regressed on safety after a routine capability fine-tune (safety-capability tension) — and gate it in the pipeline? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Stability AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-a-safety-tuned-model-hasn-t-regressed-on-safe-71699) |

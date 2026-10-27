@@ -2,6 +2,8 @@
 
 [← back to ThousandEyes](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe the trade-offs of an anti-corruption layer per vendor versus a single canonical event schema when integrating five telemetry sources. | expertise | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | Asked at ThousandEyes | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-trade-offs-of-an-anti-corruption-layer-per-vendor-versus--103251) |

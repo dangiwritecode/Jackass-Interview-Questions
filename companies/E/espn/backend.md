@@ -2,6 +2,8 @@
 
 [← back to ESPN](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare WebSockets, SSE, and long-polling for pushing live scores to 500k viewers. What breaks first at scale for each, and how do you scale the fan-out layer horizontally? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at ESPN | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-websockets-sse-and-long-polling-for-pushing-live-scores-to-500-22285) |

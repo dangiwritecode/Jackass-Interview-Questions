@@ -2,6 +2,8 @@
 
 [← back to incident.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design incident tooling so that declaring an incident auto-creates the channel, bridge, timeline, and status entry — what do you automate versus keep human? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | Asked at incident.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-incident-tooling-so-that-declaring-an-incident-au-30627) |

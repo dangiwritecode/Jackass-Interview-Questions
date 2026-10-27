@@ -2,6 +2,8 @@
 
 [← back to Intuit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal on another team argues online eval/quality monitoring is overkill and 'latency plus error SLOs are enough' for most GenAI features. Adjudicate at org scale: which feature classes genuinely need groundedness/safety monitoring, which don't, and how do you set a policy both sides can live with without under-monitoring a revenue feature? | expertise | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Intuit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-on-another-team-argues-online-eval-quality-monitoring-is-o-83299) |

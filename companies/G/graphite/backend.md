@@ -2,6 +2,8 @@
 
 [← back to Graphite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain stacked PRs for a backend feature broken into dependent layers: how they map to Git branches, and the exact pain when a lower PR is squash-merged or updated, and how tools like Graphite handle it. | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Graphite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-stacked-prs-for-a-backend-feature-broken-into-dependent-layers-26614) |

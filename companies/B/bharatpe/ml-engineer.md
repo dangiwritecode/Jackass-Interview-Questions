@@ -2,6 +2,8 @@
 
 [← back to BharatPe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a production incident you'd expect when an XGBoost model is served with a feature that silently changed units upstream, and how monitoring should catch it. | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at BharatPe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-production-incident-you-d-expect-when-an-xgboost-model-is-s-65880) |

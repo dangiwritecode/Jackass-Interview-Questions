@@ -2,6 +2,8 @@
 
 [← back to Explosion](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your PoS-tagging feature runs synchronously and blocks the request path. How would you re-architect for throughput without sacrificing accuracy? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Explosion | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-pos-tagging-feature-runs-synchronously-and-blocks-the-request-pat-79437) |

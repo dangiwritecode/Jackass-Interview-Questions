@@ -2,6 +2,8 @@
 
 [← back to Steampunk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an evidence-collection pipeline that produces machine-readable OSCAL artifacts directly from Terraform state and cloud config, minimizing manual auditor toil. | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Steampunk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-evidence-collection-pipeline-that-produces-machine-readable--56740) |

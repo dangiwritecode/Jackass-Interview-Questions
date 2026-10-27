@@ -2,6 +2,8 @@
 
 [← back to HubSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your warehouse auto-suspend and per-second billing still leave a huge bill because 300 dbt models run every hour whether data changed or not. Architect the incremental/freshness-aware orchestration that only recomputes what changed, and the governance that stops the model DAG from bloating again. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at HubSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-warehouse-auto-suspend-and-per-second-billi-125625) |

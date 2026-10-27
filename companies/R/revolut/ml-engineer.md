@@ -2,6 +2,8 @@
 
 [← back to Revolut](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle governance when a model's fairness is jurisdiction-dependent (a legitimate feature in one country is a prohibited discriminator in another)? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Revolut | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-governance-when-a-model-s-fairness-is-jurisdiction-d-71760) |

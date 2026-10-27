@@ -2,6 +2,8 @@
 
 [← back to Not Diamond](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a system that dynamically routes each request between a cheap small model and an expensive large model based on difficulty and business value while staying within budget? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Not Diamond | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-system-that-dynamically-routes-each-request-bet-70526) |

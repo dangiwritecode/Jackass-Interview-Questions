@@ -2,6 +2,8 @@
 
 [← back to BigID](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a governance model for the reality that your ML compliance scope is defined by data flows you don't fully know — build a discovery capability that continuously finds NEW undocumented feature pipelines and training jobs pulling PII before an auditor or attacker does. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at BigID | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-governance-model-for-the-reality-that-your-ml-compliance-scop-70051) |

@@ -2,6 +2,8 @@
 
 [← back to Adept](README.md)
 
+Questions 1–82 of 82.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A teammate wants to cut heads from 32 to 8 to save memory rather than switch to GQA; what would you warn them about regarding quality versus the KV savings? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Adept | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-teammate-wants-to-cut-heads-from-32-to-8-to-save-memory-rather-than--79305) |

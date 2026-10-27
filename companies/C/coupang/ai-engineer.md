@@ -2,6 +2,8 @@
 
 [← back to Coupang](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the seam between a candidate-generation tier and a heavy ranking tier so each can be re-platformed independently over a multi-year horizon without a coordinated flag day? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Coupang | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-seam-between-a-candidate-generation-tier-and--84331) |

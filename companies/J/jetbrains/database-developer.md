@@ -2,6 +2,8 @@
 
 [← back to JetBrains](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | For an on-prem product shipped to thousands of customers, how do you version and auto-apply schema upgrades safely when you don't control their databases or uptime windows? | expertise | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at JetBrains | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-an-on-prem-product-shipped-to-thousands-of-customers-how-do-you-ve-114300) |

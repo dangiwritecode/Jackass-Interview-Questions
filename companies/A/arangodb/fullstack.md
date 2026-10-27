@@ -2,6 +2,8 @@
 
 [← back to ArangoDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Tell me about a time you had to lead the org's decision on how much to invest in a graph/relationship data layer versus modeling relationships in existing stores. How did you evaluate whether the problem was truly graph-shaped? | deep understanding | SDE-2/3, Architect/Principal | Behavioral & Leadership Principles (STAR) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ArangoDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=tell-me-about-a-time-you-had-to-lead-the-org-s-decision-on-how-much-to-40510) |

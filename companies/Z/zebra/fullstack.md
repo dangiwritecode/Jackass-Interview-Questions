@@ -2,6 +2,8 @@
 
 [← back to Zebra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a zero-trust posture for an IoT/edge fleet of devices you ship to customer premises. They're physically accessible to attackers and rarely updated. How do you bootstrap identity, rotate keys, and revoke a cloned device at scale? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Zebra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-zero-trust-posture-for-an-iot-edge-fleet-of-devices-you-ship--41307) |

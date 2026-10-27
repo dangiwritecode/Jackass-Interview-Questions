@@ -2,6 +2,8 @@
 
 [← back to Casetext](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you evaluate and bound the risk of hallucination in an LLM used for medical or legal summarization, and what's your acceptance threshold? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Casetext | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-and-bound-the-risk-of-hallucination-in-an-llm-u-71826) |

@@ -2,6 +2,8 @@
 
 [← back to State Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you strangle a monolith whose 'API' is actually a stored-procedure-heavy database that other apps call directly — is there even a seam to insert a facade? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | Asked at State Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-strangle-a-monolith-whose-api-is-actually-a-stored-procedur-40952) |

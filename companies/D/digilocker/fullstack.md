@@ -2,6 +2,8 @@
 
 [← back to DigiLocker](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a system to detect duplicate file uploads and store each file once. | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at DigiLocker | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-to-detect-duplicate-file-uploads-and-store-each-file-o-8906) |

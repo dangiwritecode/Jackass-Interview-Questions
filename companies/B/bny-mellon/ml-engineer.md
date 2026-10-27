@@ -2,6 +2,8 @@
 
 [← back to BNY Mellon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your validation team lacks capacity to review the model backlog. How do you decide which models to validate first and defend that prioritization to a regulator? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at BNY Mellon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-validation-team-lacks-capacity-to-review-the-model-backlog-how-do-71793) |

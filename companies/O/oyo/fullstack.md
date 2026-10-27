@@ -2,6 +2,8 @@
 
 [← back to OYO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a booking system that must never double-book a resource; contrast a unique constraint, an exclusion constraint with tstzrange, and app-level locking including edge cases. | expertise | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at OYO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-booking-system-that-must-never-double-book-a-re-18127) |

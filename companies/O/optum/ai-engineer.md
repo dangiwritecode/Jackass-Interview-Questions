@@ -2,6 +2,8 @@
 
 [← back to Optum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an agent that must operate under a strict privacy budget (differential privacy or no-egress) over sensitive enterprise data, and what capabilities do you have to give up? | expertise | SDE-2/3, Architect/Principal | Agentic Workflows | Phone Screen, Onsite | Tech | Asked at Optum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-agent-that-must-operate-under-a-strict-priv-84607) |

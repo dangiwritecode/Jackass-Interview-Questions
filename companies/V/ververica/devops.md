@@ -2,6 +2,8 @@
 
 [← back to Ververica](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect exactly-once effect across a stream pipeline whose transport is only at-least-once, deciding where idempotency keys, transactional outbox, and dedup windows live — and how would you honestly explain to an interviewer where true exactly-once is impossible? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Ververica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-exactly-once-effect-across-a-stream-pipeline-whos-52100) |

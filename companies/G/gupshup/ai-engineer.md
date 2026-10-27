@@ -2,6 +2,8 @@
 
 [← back to Gupshup](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a context-window-management strategy on AWS for a long-running agent so as history grows you compress summarize or evict older turns — where does the decision live and how do you avoid dropping context the user still needs while bounding token cost? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Gupshup | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-context-window-management-strategy-on-aws-for-a-82726) |

@@ -2,6 +2,8 @@
 
 [← back to Cure53](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design a fuzzing/property-testing harness that proves a custom HTML sanitizer is closed under browser reparsing (mXSS-safe), and why is example-based unit testing structurally insufficient for this class? | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Cure53 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-fuzzing-property-testing-harness-that-proves-a-cus-38949) |

@@ -2,6 +2,8 @@
 
 [← back to Wasabi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reason about the durability math of your backup storage, and at what point do stated eleven-nines object-storage guarantees stop being sufficient for your risk model? | deep understanding | SDE-2/3, Architect/Principal | Backup & Recovery | Phone Screen, Onsite | Tech | Asked at Wasabi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-durability-math-of-your-backup-storage-and-114179) |

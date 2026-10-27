@@ -2,6 +2,8 @@
 
 [← back to Tailscale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a bastion or session-manager approach and why avoid exposing your vector database directly to the internet? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tailscale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-bastion-or-session-manager-approach-and-why-avoid-exposing-y-76561) |

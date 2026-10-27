@@ -2,6 +2,8 @@
 
 [← back to Cornami](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Probe: why might homomorphic encryption or secure multiparty computation still be impractical for your OLTP workload in 2026, and where is it actually viable today? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cornami | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=probe-why-might-homomorphic-encryption-or-secure-multiparty-computatio-115334) |

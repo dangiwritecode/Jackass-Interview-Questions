@@ -2,6 +2,8 @@
 
 [← back to Sony](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Present the architecture for supporting on-device/edge PyTorch inference (ExecuTorch) alongside cloud serving with one model pipeline — what breaks the shared-pipeline assumption? | expertise | SDE-2/3, Architect/Principal | PyTorch | Phone Screen, Onsite | Tech | Asked at Sony | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=present-the-architecture-for-supporting-on-device-edge-pytorch-inferen-70314) |

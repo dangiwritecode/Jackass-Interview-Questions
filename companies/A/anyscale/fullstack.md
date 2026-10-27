@@ -2,6 +2,8 @@
 
 [← back to AnyScale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org strategy for observing GPU/ML inference fleets: token throughput, batch efficiency, GPU utilization, KV-cache pressure, and cost-per-request. How does this integrate with the existing metrics stack without a bespoke silo? | expertise | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at AnyScale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-strategy-for-observing-gpu-ml-inference-fleets-token-th-39756) |

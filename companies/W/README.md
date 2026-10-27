@@ -5,7 +5,7 @@
 | Company | Tier | Questions Listed | Tagged Directly |
 |---|---|---:|---:|
 | [Waii](waii/README.md) | Tier 4 | 540 | 1 |
-| [Walmart](walmart/README.md) | Tier 2 | 988 | 874 |
+| [Walmart](walmart/README.md) | Tier 2 | 1,149 | 874 |
 | [Warner](warner/README.md) | Tier 3 | 540 | 3 |
 | [Warnermedia](warnermedia/README.md) | Tier 3 | 540 | 6 |
 | [Warpstream](warpstream/README.md) | Tier 3 | 540 | 10 |
@@ -19,9 +19,9 @@
 | [WazirX](wazirx/README.md) | Tier 3 | 540 | 2 |
 | [Wealthfront](wealthfront/README.md) | Tier 2 | 540 | 3 |
 | [Weaveworks](weaveworks/README.md) | Tier 3 | 621 | 169 |
-| [Weaviate](weaviate/README.md) | Tier 3 | 810 | 1,604 |
+| [Weaviate](weaviate/README.md) | Tier 3 | 1,889 | 1,604 |
 | [Webflow](webflow/README.md) | Tier 2 | 540 | 2 |
-| [Weights & Biases](weights-biases/README.md) | Tier 2 | 720 | 811 |
+| [Weights & Biases](weights-biases/README.md) | Tier 2 | 1,194 | 811 |
 | [Weka](weka/README.md) | Tier 3 | 540 | 7 |
 | [WekaIO](wekaio/README.md) | Tier 3 | 540 | 1 |
 | [Wellfound](wellfound/README.md) | Tier 3 | 540 | 1 |
@@ -37,12 +37,12 @@
 | [WhyLabs](whylabs/README.md) | Tier 3 | 540 | 96 |
 | [Wiley](wiley/README.md) | Tier 3 | 540 | 1 |
 | [Winzo](winzo/README.md) | Tier 4 | 540 | 17 |
-| [Wipro](wipro/README.md) | Tier 5 | 1,260 | 21,244 |
+| [Wipro](wipro/README.md) | Tier 5 | 22,901 | 21,244 |
 | [Wise](wise/README.md) | Tier 2 | 645 | 378 |
 | [Wish](wish/README.md) | Tier 3 | 540 | 3 |
 | [Wissen Technology](wissen-technology/README.md) | Tier 3 | 540 | 2 |
 | [Wix](wix/README.md) | Tier 3 | 540 | 103 |
-| [Wiz](wiz/README.md) | Tier 2 | 630 | 339 |
+| [Wiz](wiz/README.md) | Tier 2 | 709 | 339 |
 | [Wolfram](wolfram/README.md) | Tier 3 | 540 | 9 |
 | [WordPress](wordpress/README.md) | Tier 3 | 540 | 8 |
 | [WordPress-VIP](wordpress-vip/README.md) | Tier 3 | 540 | 3 |

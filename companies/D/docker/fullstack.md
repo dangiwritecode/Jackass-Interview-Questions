@@ -2,6 +2,8 @@
 
 [← back to Docker](README.md)
 
+Questions 1–73 of 73.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A background worker occasionally becomes a zombie under your custom parent process. Explain why, how SIGCHLD and wait() prevent it, and how PID 1 in a container changes the reaping responsibility. | deep understanding | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Docker | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-background-worker-occasionally-becomes-a-zombie-under-your-custom-pa-19344) |

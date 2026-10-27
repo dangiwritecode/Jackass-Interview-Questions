@@ -2,6 +2,8 @@
 
 [← back to Deliveroo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Duplicate Alert Suppression Within a Cooldown Window | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Data Stream, Design, Hash Table, Rate Limiting | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Deliveroo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=duplicate-alert-suppression-within-a-cooldown-window-d359) |

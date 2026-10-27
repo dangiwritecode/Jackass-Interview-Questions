@@ -2,6 +2,8 @@
 
 [← back to Hazelcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A PR fixes a bug by adding a `synchronized` block around a large method. How do you review the throughput impact and mentor the author on narrowing the critical section? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Code Review & Mentorship | Onsite, Hiring Manager | Tech | Asked at Hazelcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pr-fixes-a-bug-by-adding-a-synchronized-block-around-a-large-method--30689) |

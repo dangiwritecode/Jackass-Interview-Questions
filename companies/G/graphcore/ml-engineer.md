@@ -2,6 +2,8 @@
 
 [← back to Graphcore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vendor pitches a new accelerator with 2x claimed perf-per-dollar but an immature software stack. How do you run a de-risked pilot and set the bar for org-wide adoption? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Graphcore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-pitches-a-new-accelerator-with-2x-claimed-perf-per-dollar-but-71127) |

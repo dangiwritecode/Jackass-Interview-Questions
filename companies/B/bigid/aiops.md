@@ -2,6 +2,8 @@
 
 [← back to BigID](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you keep an ML log pipeline's training data free of PII when the raw logs might contain it? Where do you scrub, and how do you prove it? | deep understanding | SDE-1/2, SDE-2/3 | Log Aggregation & Analysis | Phone Screen, Onsite | Tech | Asked at BigID | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-an-ml-log-pipeline-s-training-data-free-of-pii-when-th-94148) |

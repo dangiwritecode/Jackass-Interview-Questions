@@ -2,6 +2,8 @@
 
 [← back to BookMyShow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A teammate proposes storing the JWT in Redux state that persists to localStorage for 'better UX'. Walk through the concrete risks and what you'd propose instead in the PR review. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at BookMyShow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-teammate-proposes-storing-the-jwt-in-redux-state-that-persists-to-lo-26151) |

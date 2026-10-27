@@ -2,6 +2,8 @@
 
 [← back to Feedzai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a real-time fraud/risk decisioning platform that must respond in under 50ms, combine dozens of features and rules, stay explainable for compliance, and let risk analysts change rules without a deploy? | expertise | SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Feedzai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-real-time-fraud-risk-decisioning-platform-that--31044) |

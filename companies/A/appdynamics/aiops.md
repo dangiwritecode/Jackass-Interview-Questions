@@ -2,6 +2,8 @@
 
 [← back to AppDynamics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team refuses to give up a niche APM tool citing a unique capability. How do you validate the claim and decide whether to grant an exception or engineer around it? | deep understanding | SDE-2/3, Architect/Principal | Vendor & Tooling Consolidation Strategy | Hiring Manager | Tech | Asked at AppDynamics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-refuses-to-give-up-a-niche-apm-tool-citing-a-unique-capability--103976) |

@@ -2,6 +2,8 @@
 
 [← back to Outbrain](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's the trade-off between DART booster and standard gbtree in XGBoost, and when would production constraints push you to pick one? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Outbrain | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-trade-off-between-dart-booster-and-standard-gbtree-in-xgboo-65945) |

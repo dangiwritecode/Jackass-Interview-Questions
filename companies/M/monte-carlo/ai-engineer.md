@@ -2,6 +2,8 @@
 
 [← back to Monte Carlo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an org-wide standard for how models declare their inputs so a schema change upstream fails loudly at deploy rather than silently at 3am? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Monte Carlo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-org-wide-standard-for-how-models-declare-their-84341) |

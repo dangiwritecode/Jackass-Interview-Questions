@@ -2,6 +2,8 @@
 
 [← back to Roku](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your product spans web, mobile, and TV apps that all hit the same edge. Design a delivery strategy that serves each client optimally (bundle strategy, HTTP/3, adaptive media) while keeping a single coherent, cost-governed edge platform. | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at Roku | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-product-spans-web-mobile-and-tv-apps-that-all-hit-the-same-edge-d-35049) |

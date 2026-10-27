@@ -2,6 +2,8 @@
 
 [← back to Karpenter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probes: you moved your ETL fleet to Spot instances to save 60%, but preemption mid-shuffle re-runs expensive stages and blows past SLA windows. How do you quantify the fully-loaded cost of Spot for stateful data pipelines and decide the Spot-to-on-demand mix per job class? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Karpenter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-you-moved-your-etl-fleet-to-spot-instances-to-save-125929) |

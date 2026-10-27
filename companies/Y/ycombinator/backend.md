@@ -2,6 +2,8 @@
 
 [← back to YCombinator](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide how much of the microservices tax (mesh, tracing, per-service infra) a small-but-growing startup should pay upfront versus defer. Frame the 'when does the operational investment pay back' decision as a function of team size and traffic growth curve. | deep understanding | SDE-2/3, Architect/Principal | Monolith vs Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at YCombinator | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-how-much-of-the-microservices-tax-mesh-tracing-per-ser-31802) |

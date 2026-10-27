@@ -2,6 +2,8 @@
 
 [← back to ICICI-Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect policy-as-code governance so remediation playbooks satisfy audit, compliance and change-management in a regulated bank? | expertise | SDE-2/3, Architect/Principal | Self-Healing Infrastructure Architecture | Onsite, Hiring Manager | Tech | Asked at ICICI-Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-policy-as-code-governance-so-remediation-playb-103467) |

@@ -2,6 +2,8 @@
 
 [← back to Talend](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast the 'dumb pipes, smart endpoints' microservices philosophy with a 'smart pipe' data-transformation ESB for enterprise data movement. In which enterprise realities (heavy legacy format conversion, low team data-engineering maturity) does the smart-pipe transformation layer still earn its keep? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Talend | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-the-dumb-pipes-smart-endpoints-microservices-philosophy-with--112579) |

@@ -2,6 +2,8 @@
 
 [← back to Polyai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design eval for a voice or speech agent at scale where ASR errors, latency, and response quality compound and can't be judged in isolation? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Polyai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-eval-for-a-voice-or-speech-agent-at-scale-where-a-86919) |

@@ -2,6 +2,8 @@
 
 [← back to Anjuna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design governance for confidential-computing ML where training runs inside TEEs/enclaves so even your operators can't see the data — how does the shift of trust root to attestation hardware change your audit-evidence model and what new failure modes appear? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Anjuna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-for-confidential-computing-ml-where-training-runs-in-70009) |

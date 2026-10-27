@@ -2,6 +2,8 @@
 
 [← back to uWebSockets](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd cap the total memory a single WebSocket connection can pin across its inbound parser, outbound buffer, and per-connection app state, and what you do when a connection breaches the cap. | deep understanding | SDE-1/2, SDE-2/3 | WebSockets | Phone Screen, Onsite | Tech | Asked at uWebSockets | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-cap-the-total-memory-a-single-websocket-connection-c-24166) |

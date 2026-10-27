@@ -2,6 +2,8 @@
 
 [← back to OLX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through modeling a marketplace where sellers and buyers are both users, listings belong to sellers, and orders link buyer, listing, and seller. | deep understanding | SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at OLX | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-modeling-a-marketplace-where-sellers-and-buyers-are-bo-109533) |

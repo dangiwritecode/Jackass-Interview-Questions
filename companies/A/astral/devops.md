@@ -2,6 +2,8 @@
 
 [← back to Astral](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd use uv or pip-tools in a Python project's Dockerfile to get fully reproducible, hash-locked builds, and why an unpinned pip install in a base image is a supply-chain risk. | deep understanding | SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Astral | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-use-uv-or-pip-tools-in-a-python-project-s-dockerfile-45177) |

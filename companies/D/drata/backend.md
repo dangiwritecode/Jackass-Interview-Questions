@@ -2,6 +2,8 @@
 
 [← back to Drata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an architecture where compliance evidence and controls are versioned as code and reviewed like software — how do control changes get proposed tested and rolled out and how do you prove to an auditor the control was continuously in force across a change? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Drata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-architecture-where-compliance-evidence-and-controls-are-vers-37295) |

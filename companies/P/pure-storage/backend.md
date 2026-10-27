@@ -2,6 +2,8 @@
 
 [← back to Pure Storage](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you use fallocate and sparse files to pre-allocate space for a large database file on Linux, and what's the risk of thin-provisioned storage lying to you about available space? | deep understanding | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Pure Storage | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-fallocate-and-sparse-files-to-pre-allocate-space-for-26640) |

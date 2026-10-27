@@ -2,6 +2,8 @@
 
 [← back to SolarWinds](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a heartbeat or availability check, and what happens if it stops responding? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | Asked at SolarWinds | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-heartbeat-or-availability-check-and-what-happens-if-it-stops-91584) |

@@ -2,6 +2,8 @@
 
 [← back to DigiLocker](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design an endpoint that returns a signed, self-describing response so a client can verify integrity offline (e.g. for audit), and what are the key-rotation and caching implications? | expertise | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at DigiLocker | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-endpoint-that-returns-a-signed-self-describing-24023) |

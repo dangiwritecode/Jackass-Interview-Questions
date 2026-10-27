@@ -2,6 +2,8 @@
 
 [← back to Bolt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is withIdleness / idle-source handling, and why is it essential for sparse per-region order streams? | deep understanding | SDE-1/2, SDE-2/3 | Stream Processing (Apache Flink) | Phone Screen, Onsite | Tech | Asked at Bolt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-withidleness-idle-source-handling-and-why-is-it-essential-for--121304) |

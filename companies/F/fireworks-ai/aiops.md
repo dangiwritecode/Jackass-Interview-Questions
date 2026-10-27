@@ -2,6 +2,8 @@
 
 [← back to Fireworks AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you architect the platform to keep p99 latency flat while throughput scales 100x, given that naive batching trades throughput for tail latency? Walk me through the continuous-batching and priority-aware scheduling that decouples the two curves. | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Fireworks AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-architect-the-platform-to-keep-p99-latency-f-100661) |

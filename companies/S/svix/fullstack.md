@@ -2,6 +2,8 @@
 
 [← back to Svix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: "your teams keep building point-to-point webhook integrations to each other and now there's a hairball — is an event bus the answer, or would that just move the coupling?" Adjudicate and design the target topology with a migration path. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Svix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-teams-keep-building-point-to-point-webhook--40786) |

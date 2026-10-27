@@ -2,6 +2,8 @@
 
 [← back to N26](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a login system that must work across three regions with data residency rules (EU users' credentials never leave the EU). How does this constrain your token issuance and session store? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at N26 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-login-system-that-must-work-across-three-regions-with-data-re-26163) |

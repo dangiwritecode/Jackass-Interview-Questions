@@ -2,6 +2,8 @@
 
 [← back to Hootsuite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a system to schedule and publish social media posts at a future time. | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Hootsuite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-to-schedule-and-publish-social-media-posts-at-a-future-8909) |

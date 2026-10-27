@@ -2,6 +2,8 @@
 
 [← back to Hebbia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Context editing clears old tool results while compaction summarizes history. For a long-running data agent, when do you reach for each, and can they coexist in the same serving loop? | expertise | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Hebbia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=context-editing-clears-old-tool-results-while-compaction-summarizes-hi-64136) |

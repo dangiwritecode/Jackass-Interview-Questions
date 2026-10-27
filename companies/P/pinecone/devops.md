@@ -2,6 +2,8 @@
 
 [← back to Pinecone](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probes your handling of cost-unknown adoption: a team wants to adopt a brand-new managed AI/vector service with no published pricing at scale and opaque egress behavior. Design the safe-adoption gate — bounded budget, kill-switch, mandatory cost instrumentation, exit criteria — before it touches production traffic. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Pinecone | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-your-handling-of-cost-unknown-adoption-a-team-want-53915) |

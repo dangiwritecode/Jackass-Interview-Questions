@@ -2,6 +2,8 @@
 
 [← back to Coalfire](README.md)
 
+Questions 1–62 of 62.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An auditor challenges your claim that your CI/CD pipeline enforces separation of duties; walk me through the technical evidence you'd present. | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Coalfire | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-auditor-challenges-your-claim-that-your-ci-cd-pipeline-enforces-sep-56731) |

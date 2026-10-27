@@ -2,6 +2,8 @@
 
 [← back to Deutsche Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An auditor under DORA wants proof that your incident-response tooling itself is resilience-tested. How do you architect continuous, evidenced DR drills of the AIOps platform that produce machine-readable attestation rather than an annual slide? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Deutsche Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-auditor-under-dora-wants-proof-that-your-incident-response-tooling--99943) |

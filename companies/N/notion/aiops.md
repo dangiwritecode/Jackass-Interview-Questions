@@ -2,6 +2,8 @@
 
 [← back to Notion](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: how do you keep incident response effective when engineers rotate out and tribal knowledge leaves the org? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Incident Response Strategy | Onsite, Hiring Manager | Tech | Asked at Notion | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-do-you-keep-incident-response-effective-when-e-103632) |

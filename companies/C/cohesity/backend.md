@@ -2,6 +2,8 @@
 
 [← back to Cohesity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a data-deduplication layer for a backup/storage service so identical file chunks are stored once — how do you chunk hash and index at scale and handle hash-collision and reference counting for deletes? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cohesity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-data-deduplication-layer-for-a-backup-storage-service-so-iden-28417) |

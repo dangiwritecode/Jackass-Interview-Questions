@@ -2,6 +2,8 @@
 
 [← back to Estuary](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you handle a FastAPI batch scoring endpoint that must process a 2GB uploaded file of records without loading it all into memory and while streaming partial progress back? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Estuary | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-a-fastapi-batch-scoring-endpoint-that-must-proces-62934) |

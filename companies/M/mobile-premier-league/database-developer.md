@@ -2,6 +2,8 @@
 
 [← back to Mobile Premier League](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Argue whether to maintain a materialized view refreshed by the database versus an app-side cache for a leaderboard updated every minute but read constantly, and what tips the decision either way at your scale. | deep understanding | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Mobile Premier League | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-whether-to-maintain-a-materialized-view-refreshed-by-the-databas-111482) |

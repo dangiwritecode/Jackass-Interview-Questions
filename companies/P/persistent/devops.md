@@ -2,6 +2,8 @@
 
 [← back to Persistent](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Have you ever configured or used a load balancer in a project or course? Describe what you did. | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Load Balancing | Phone Screen, Onsite | Tech | Asked at Persistent | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=have-you-ever-configured-or-used-a-load-balancer-in-a-project-or-cours-41922) |

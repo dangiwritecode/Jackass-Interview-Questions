@@ -2,6 +2,8 @@
 
 [← back to Innodata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you gather and label human preference data at scale while controlling annotator disagreement and bias? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Innodata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-gather-and-label-human-preference-data-at-scale-while-contr-68088) |

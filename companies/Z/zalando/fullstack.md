@@ -2,6 +2,8 @@
 
 [← back to Zalando](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probes: your microfrontend teams each define their own 'User' shape and shared header component breaks when one changes; how do you design the contract between the shell and microfrontends so the shared model evolves without a lockstep deploy of all teams? | expertise | SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Zalando | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-your-microfrontend-teams-each-define-their-own-use-38372) |

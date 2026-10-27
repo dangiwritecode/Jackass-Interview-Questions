@@ -2,6 +2,8 @@
 
 [← back to Scylla](README.md)
 
+Questions 1–144 of 144.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A peer architect wants to enable Cassandra's unclean-leader-equivalent (allowing writes at CL=ONE during partition) to keep availability. Push back on the data-loss and split-history risk, and specify exactly which tables, if any, may use it and how you'd reconcile divergence on heal. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Scylla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-peer-architect-wants-to-enable-cassandra-s-unclean-leader-equivalent-112224) |

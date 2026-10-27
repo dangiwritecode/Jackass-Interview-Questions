@@ -2,6 +2,8 @@
 
 [← back to Braze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A background job impersonates users to send reminders and one bug caused it to act as the wrong user. How do you design 'act-as' in async jobs so the intended subject is unambiguous and validated at execution time, not enqueue time? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Braze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-background-job-impersonates-users-to-send-reminders-and-one-bug-caus-26226) |

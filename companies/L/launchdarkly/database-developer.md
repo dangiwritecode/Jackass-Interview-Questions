@@ -2,6 +2,8 @@
 
 [← back to LaunchDarkly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design a feature flag / rollback plan when swapping the backing store of a live service from one database to another with zero downtime. | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | Asked at LaunchDarkly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-a-feature-flag-rollback-plan-when-swapping-t-114606) |

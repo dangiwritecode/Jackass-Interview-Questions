@@ -2,6 +2,8 @@
 
 [← back to Bugcrowd](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd set up a bug-bounty / responsible-disclosure program for jailbreaks. How do you triage, reward, and prevent duplicate reports of the same underlying weakness? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Prompt Injection & Jailbreak Defense | Phone Screen, Onsite | Tech | Asked at Bugcrowd | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-set-up-a-bug-bounty-responsible-disclosure-program--81985) |

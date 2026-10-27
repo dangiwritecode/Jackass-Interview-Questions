@@ -2,6 +2,8 @@
 
 [← back to DoorDash](README.md)
 
+Questions 1–84 of 84.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: 'your ingest is at-least-once and your warehouse merge isn't idempotent, so a retry double-counted GMV.' Walk through where you enforce idempotency and dedup across a heterogeneous ingest estate, how you audit it, and where you'd accept effectively-once rather than pay the exactly-once tax. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at DoorDash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-your-ingest-is-at-least-once-and-your-warehouse-merg-125692) |

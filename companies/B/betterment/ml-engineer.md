@@ -2,6 +2,8 @@
 
 [← back to Betterment](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you implement quantile or confidence-interval outputs from a FastAPI regression endpoint, and how do you validate the intervals stay calibrated in production? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Betterment | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-implement-quantile-or-confidence-interval-outputs-from-a-62914) |

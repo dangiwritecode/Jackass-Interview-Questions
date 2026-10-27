@@ -2,6 +2,8 @@
 
 [← back to Auth0](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your AIOps platform ingests third-party dependency telemetry (payment gateway CDN auth provider) whose data carries their end-users' PII under their DPAs — you're now a downstream processor of a partner's data. How do you govern flow-down obligations for telemetry you didn't originate? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Auth0 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-aiops-platform-ingests-third-party-dependen-100301) |

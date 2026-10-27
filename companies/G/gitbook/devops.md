@@ -2,6 +2,8 @@
 
 [← back to GitBook](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set the platform's approach to keeping documentation authoritative — techdocs-as-code in the portal versus a wiki — at the scale of hundreds of services, and how do you detect and act on doc decay rather than discovering it during an incident? | intermediate experience | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at GitBook | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-platform-s-approach-to-keeping-documentation-author-54305) |

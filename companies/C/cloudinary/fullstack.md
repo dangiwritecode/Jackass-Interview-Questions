@@ -2,6 +2,8 @@
 
 [← back to Cloudinary](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A near-miss shows an attacker used an SVG uploaded as an avatar rendered via CSS background — no inline SVG, yet it still executed in some browsers. Explain the SVG-in-CSS and content-type-sniffing nuances, and design an upload-serving architecture that neutralizes them fleet-wide. | deep understanding | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Cloudinary | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-near-miss-shows-an-attacker-used-an-svg-uploaded-as-an-avatar-render-38963) |

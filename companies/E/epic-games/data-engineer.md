@@ -2,6 +2,8 @@
 
 [← back to Epic Games](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach compliance for children's data under GDPR-K and COPPA in a data platform that wasn't built to segregate minors' records? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Epic Games | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-compliance-for-children-s-data-under-gdpr-k-and-co-127363) |

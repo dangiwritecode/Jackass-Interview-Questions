@@ -2,6 +2,8 @@
 
 [← back to Udaan](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're architecting the authorization boundary for a marketplace where the same person is a buyer in one context and a seller-org-admin in another. Design context/persona switching so a token or session can never carry both permission sets at once, and audit reflects the active persona. | deep understanding | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Udaan | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-architecting-the-authorization-boundary-for-a-marketplace-where-38832) |

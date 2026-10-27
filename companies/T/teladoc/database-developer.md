@@ -2,6 +2,8 @@
 
 [← back to Teladoc](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a break-glass access procedure for encrypted production PHI during an incident that is HIPAA-auditable and cannot be abused — who holds what and how is it evidenced? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Teladoc | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-break-glass-access-procedure-for-encrypted-production-phi-dur-115262) |

@@ -2,6 +2,8 @@
 
 [← back to Vercel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build cost governance for GenAI so a runaway agent loop or prompt-bomb can't rack up six figures before anyone notices? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Vercel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-cost-governance-for-genai-so-a-runaway-agent-loop--71719) |

@@ -2,6 +2,8 @@
 
 [← back to Ericsson](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the layers of the OSI model and give one protocol at each layer. | basic concept | Fresher, SDE-1, SDE-1/2 | Computer Networks | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Ericsson | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-layers-of-the-osi-model-and-give-one-protocol-at-each-laye-517) |

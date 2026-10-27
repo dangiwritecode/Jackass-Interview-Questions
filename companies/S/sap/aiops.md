@@ -2,6 +2,8 @@
 
 [← back to SAP](README.md)
 
+Questions 1–114 of 114.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator demands proof that no PII from EU customers ever entered a US-hosted telemetry dataset. Given a sprawling multi-region log lake, how do you architect for provable data-flow containment rather than after-the-fact scanning? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at SAP | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-demands-proof-that-no-pii-from-eu-customers-ever-entered-a-99908) |

@@ -2,6 +2,8 @@
 
 [← back to Apollo GraphQL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your view on serving master data via an API/GraphQL 'entity service' vs publishing to a shared data product in the lakehouse — when is each the right consumption pattern? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Apollo GraphQL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-view-on-serving-master-data-via-an-api-graphql-entity-serv-127788) |

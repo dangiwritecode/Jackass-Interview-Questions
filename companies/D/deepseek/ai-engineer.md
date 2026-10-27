@@ -2,6 +2,8 @@
 
 [← back to DeepSeek](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect an all-to-all communication strategy for MoE expert parallelism across nodes; how do you keep the dispatch/combine collectives from dominating decode latency at scale? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at DeepSeek | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-an-all-to-all-communication-strategy-for-moe-expert-parallel-85142) |

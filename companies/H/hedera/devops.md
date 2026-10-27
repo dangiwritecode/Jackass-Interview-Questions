@@ -2,6 +2,8 @@
 
 [← back to Hedera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance so that a control's evidence remains verifiable years later even after the tool that produced it is decommissioned — how do you avoid an audit-evidence bit-rot problem where old proofs can no longer be validated or trusted? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Hedera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-so-that-a-control-s-evidence-remains-v-54086) |

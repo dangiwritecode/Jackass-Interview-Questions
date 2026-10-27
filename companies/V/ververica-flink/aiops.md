@@ -2,6 +2,8 @@
 
 [← back to Ververica-Flink](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your streaming anomaly detector computes a 5-minute sliding-window rate served to alerting, and a task-manager crash mid-window lost state. Explain what checkpointing and exactly-once state give you and the recovery-time-versus-freshness trade-off of checkpoint frequency. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Ververica-Flink | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-streaming-anomaly-detector-computes-a-5-minute-sliding-window-rat-92949) |

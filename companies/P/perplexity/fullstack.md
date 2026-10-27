@@ -2,6 +2,8 @@
 
 [← back to Perplexity](README.md)
 
+Questions 1–113 of 113.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A model states a fabricated fact with high confidence. How do you surface uncertainty or ground the answer so users aren't misled? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Perplexity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-states-a-fabricated-fact-with-high-confidence-how-do-you-surfa-15062) |

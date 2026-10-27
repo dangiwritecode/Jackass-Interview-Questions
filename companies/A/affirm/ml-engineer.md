@@ -2,6 +2,8 @@
 
 [← back to Affirm](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator asks you to demonstrate that a denied loan decision was fair and explainable two years after the fact. Walk me through the controls that make that possible. | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Affirm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-asks-you-to-demonstrate-that-a-denied-loan-decision-was-fa-71867) |

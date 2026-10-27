@@ -2,6 +2,8 @@
 
 [← back to Loft-Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide the tenancy model for the org's AI platform: shared multi-tenant cluster with namespaces, virtual clusters per team, or dedicated clusters for regulated GenAI workloads. Map tenant classes to isolation models and justify against GPU-cost efficiency and blast-radius for a compromised agent. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Loft-Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-the-tenancy-model-for-the-org-s-ai-platform-shared-mul-82575) |

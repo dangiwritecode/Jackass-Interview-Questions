@@ -2,6 +2,8 @@
 
 [← back to LlamaIndex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when an agent should stop calling tools and return a final answer to the user? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at LlamaIndex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-an-agent-should-stop-calling-tools-and-return-a-7495) |

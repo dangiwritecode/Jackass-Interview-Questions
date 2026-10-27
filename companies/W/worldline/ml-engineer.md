@@ -2,6 +2,8 @@
 
 [← back to Worldline](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a multi-region ML serving architecture with active-active failover for a payments risk model where a regional outage cannot stop transaction scoring? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Worldline | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-multi-region-ml-serving-architecture-with-activ-70482) |

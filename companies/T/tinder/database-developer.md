@@ -2,6 +2,8 @@
 
 [← back to Tinder](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a DynamoDB single-table data model for a domain with a dozen access patterns while keeping GSI count bounded — walk me through the write-sharding, GSI-overloading, and sparse-index techniques and where each starts to hurt at scale. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tinder | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-dynamodb-single-table-data-model-for-a-domain-w-111848) |

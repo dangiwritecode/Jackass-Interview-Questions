@@ -2,6 +2,8 @@
 
 [← back to Tabular](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As principal, how do you evaluate whether adopting Apache Iceberg as the single table format across OLTP-adjacent staging and OLAP serving reduces or increases long-term operational risk? | expertise | SDE-2/3, Architect/Principal | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tabular | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-principal-how-do-you-evaluate-whether-adopting-apache-iceberg-as-th-113535) |

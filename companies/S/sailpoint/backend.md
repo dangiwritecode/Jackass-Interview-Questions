@@ -2,6 +2,8 @@
 
 [← back to SailPoint](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A major enterprise customer demands SCIM so deprovisioned employees lose all access within seconds. How does SCIM interplay with your session/token lifetimes, and how do you architect near-instant revocation without polling every IdP constantly? | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at SailPoint | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-major-enterprise-customer-demands-scim-so-deprovisioned-employees-lo-32761) |

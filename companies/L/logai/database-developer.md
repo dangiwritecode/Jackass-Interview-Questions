@@ -2,6 +2,8 @@
 
 [← back to LogAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you write a query to combine data from two regional order tables with identical schemas into one unified dataset? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Commonly asked at Tier 4 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-write-a-query-to-combine-data-from-two-regional-order-ta-115708) |

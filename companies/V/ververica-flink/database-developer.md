@@ -2,6 +2,8 @@
 
 [← back to Ververica-Flink](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect DR for a stateful stream-processing store (Flink/Kafka Streams state) so on failover you resume from consistent checkpoints without reprocessing or dropping events past your RPO? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Ververica-Flink | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-for-a-stateful-stream-processing-store-flink-k-112912) |

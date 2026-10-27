@@ -2,6 +2,8 @@
 
 [← back to CloudZero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a Composite-based cost-attribution tree for a multi-service platform so FinOps can roll spend up an ownership hierarchy while leaves stay independently instrumented and reassignable? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at CloudZero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-composite-based-cost-attribution-tree-for-a-mul-38422) |

@@ -2,6 +2,8 @@
 
 [← back to Comcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Length of the Longest Window with All Distinct Characters | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, Sliding Window, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Comcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=length-of-the-longest-window-with-all-distinct-characters-d3) |

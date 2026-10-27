@@ -2,6 +2,8 @@
 
 [← back to GitGuardian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A leaked database password was committed and pushed to an internal repo, then removed in a follow-up commit. Explain why deleting it in a new commit is useless, and the correct order of rotate, purge history, and notify. | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at GitGuardian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-leaked-database-password-was-committed-and-pushed-to-an-internal-rep-26547) |

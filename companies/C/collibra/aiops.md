@@ -2,6 +2,8 @@
 
 [← back to Collibra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator mandates full traceability of every telemetry flow touching customer financial data across your AIOps estate. Architect the metadata and access-lineage layer that satisfies audit without forcing every team to instrument by hand. What's the enforcement mechanism? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Collibra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-mandates-full-traceability-of-every-telemetry-flow-touchin-99774) |

@@ -2,6 +2,8 @@
 
 [← back to Redocly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an OpenAPI/spec-first governance pipeline: spec is source of truth, code and docs and mocks and tests all generate from it. What do you enforce in CI, how do you prevent spec-vs-implementation drift, and what's the migration for spec-after teams? | expertise | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Redocly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-openapi-spec-first-governance-pipeline-spec-is-source-of-tru-36441) |

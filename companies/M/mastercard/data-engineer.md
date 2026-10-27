@@ -2,6 +2,8 @@
 
 [← back to Mastercard](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design cross-cloud data sharing with a partner org where neither side trusts the other's cloud — how do you use clean rooms / Delta Sharing to expose only aggregates? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Mastercard | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-cross-cloud-data-sharing-with-a-partner-org-where-neither-side--127290) |

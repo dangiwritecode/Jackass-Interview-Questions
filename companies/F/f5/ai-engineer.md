@@ -2,6 +2,8 @@
 
 [← back to F5](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An MCP server behind a load balancer keeps losing SSE streams on scale-down. How do you make the connection lifecycle resilient? | expertise | SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | Asked at F5 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-mcp-server-behind-a-load-balancer-keeps-losing-sse-streams-on-scale-80946) |

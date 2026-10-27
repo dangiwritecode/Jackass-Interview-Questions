@@ -2,6 +2,8 @@
 
 [← back to Wynk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A recommendation service recomputes a sorted candidate set on every request; how would you incrementally maintain a heap of candidates as signals stream in, and what breaks when a score is updated in place? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Wynk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-recommendation-service-recomputes-a-sorted-candidate-set-on-every-re-21937) |

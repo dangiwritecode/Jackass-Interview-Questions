@@ -2,6 +2,8 @@
 
 [← back to Rivian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When leadership asks for a single 'model health' number for a board deck, how do you construct it without it becoming meaningless or gameable? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Rivian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-leadership-asks-for-a-single-model-health-number-for-a-board-deck-86836) |

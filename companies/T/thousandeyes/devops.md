@@ -2,6 +2,8 @@
 
 [← back to ThousandEyes](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set up cross-region monitoring of your DNS provider and edge itself, so you'd detect a routing-layer outage that health checks on your origin can't see? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at ThousandEyes | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-cross-region-monitoring-of-your-dns-provider-and--47613) |

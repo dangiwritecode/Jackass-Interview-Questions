@@ -2,6 +2,8 @@
 
 [← back to Experian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A VP wants to kill your MDM program and 'let each domain own its customer view' in a data mesh. Adjudicate: where do MDM's matching, survivorship, and stewardship responsibilities go in a mesh, who owns the cross-domain identity, and when is a lightweight ID-resolution service the right middle ground? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Experian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vp-wants-to-kill-your-mdm-program-and-let-each-domain-own-its-custom-125672) |

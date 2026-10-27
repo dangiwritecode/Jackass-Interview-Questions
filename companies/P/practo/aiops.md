@@ -2,6 +2,8 @@
 
 [← back to Practo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your AIOps event correlation infers sensitive attributes about users (a spike of health-app requests reveals a condition) even though you never stored the attribute. Is inferred operational data personal data under GDPR and how does that reshape your telemetry governance? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Practo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-aiops-event-correlation-infers-sensitive-at-100243) |

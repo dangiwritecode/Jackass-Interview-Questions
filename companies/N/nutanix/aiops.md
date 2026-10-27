@@ -2,6 +2,8 @@
 
 [← back to Nutanix](README.md)
 
+Questions 1–61 of 61.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would design an observability platform that spans on-prem, multi-cloud, and edge workloads with a single pane of glass. | deep understanding | SDE-2/3, Architect/Principal | Observability Platform Strategy | Onsite, Hiring Manager | Tech | Asked at Nutanix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-design-an-observability-platform-that-spans-on--102953) |

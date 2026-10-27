@@ -2,6 +2,8 @@
 
 [← back to GSN Games](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain what a Spark stage a task and a job are and how they map to the DAG when you run a single .write(). | basic concept | SDE-1/2, SDE-2/3 | PySpark | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite, Hiring Manager | Tech | Asked at Gaming companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-what-a-spark-stage-a-task-and-a-job-are-and-how-they-map-to-th-123786) |

@@ -2,6 +2,8 @@
 
 [← back to xAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CockroachDB range is repeatedly splitting and rebalancing under load, causing latency spikes; explain load-based splitting, the rebalancer, and how you'd tune or pin ranges to stabilize a hot workload. | expertise | SDE-2/3, Architect/Principal | NewSQL (CockroachDB/Spanner) | Phone Screen, Onsite | Tech | Asked at Consumer Internet companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cockroachdb-range-is-repeatedly-splitting-and-rebalancing-under-load-114463) |

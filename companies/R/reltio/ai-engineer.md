@@ -2,6 +2,8 @@
 
 [← back to Reltio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for governing a single canonical identity resolution so every retrieved fact about a customer maps to one entity across all data sources? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Reltio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-governing-a-single-canonical-identity-resolut-86805) |

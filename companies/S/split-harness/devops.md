@@ -2,6 +2,8 @@
 
 [← back to Split-Harness](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd architect a resilient global-config/feature-flag control plane that hundreds of services depend on, so that if it's unreachable, every service still starts and runs on safe local defaults, and a bad global flag can't fan out to the whole fleet. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Split-Harness | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-architect-a-resilient-global-config-feature-flag-con-52895) |

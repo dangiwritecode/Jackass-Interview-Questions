@@ -2,6 +2,8 @@
 
 [← back to Thomson Reuters](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Longest Run Containing All Vowels in Ascending Order | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Greedy, Sliding Window, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Thomson Reuters | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-run-containing-all-vowels-in-ascending-order-d1747) |

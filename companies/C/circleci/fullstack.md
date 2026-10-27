@@ -2,6 +2,8 @@
 
 [← back to CircleCI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A build works with the legacy builder but breaks with BuildKit enabled by default in newer Docker. What behavioral differences would you check to explain the regression? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at CircleCI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-build-works-with-the-legacy-builder-but-breaks-with-buildkit-enabled-19455) |

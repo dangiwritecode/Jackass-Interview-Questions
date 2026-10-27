@@ -2,6 +2,8 @@
 
 [← back to MetLife](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is your approach to modeling insurance policy-claim data where a claim's dimensional context evolves through a long lifecycle with reopenings? | deep understanding | SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | Asked at MetLife | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-approach-to-modeling-insurance-policy-claim-data-where-a--113319) |

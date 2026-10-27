@@ -2,6 +2,8 @@
 
 [← back to Paddle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A partner's webhook to you is authenticated by a shared secret, but they rotated it and now half your instances reject valid calls. How do you support overlapping old+new secrets during rotation with zero rejected events? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Paddle | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-partner-s-webhook-to-you-is-authenticated-by-a-shared-secret-but-the-26174) |

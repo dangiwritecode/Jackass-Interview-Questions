@@ -2,6 +2,8 @@
 
 [← back to Coupang](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Counting Monotone Paths Across a Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Combinatorics, Dynamic Programming, Grid / Lattice Paths, Math | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Coupang | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-monotone-paths-across-a-grid-d62) |

@@ -2,6 +2,8 @@
 
 [← back to Rubrik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a delivery system where every deployable artifact carries a cryptographically verifiable graph of exactly which source, dependencies, and build steps produced it, and why does that graph matter more than a single signature? | expertise | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at Rubrik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-delivery-system-where-every-deployable-artifact-39122) |

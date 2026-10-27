@@ -2,6 +2,8 @@
 
 [← back to NVIDIA](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design the data-tier for an AI/vector workload — pgvector on Aurora versus Cosmos DB vector search versus a dedicated vector DB — and what's the strategic bet? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at NVIDIA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-the-data-tier-for-an-ai-vector-workload-pgvector-on--115237) |

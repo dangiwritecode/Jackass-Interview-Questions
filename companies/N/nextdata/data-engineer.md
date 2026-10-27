@@ -2,6 +2,8 @@
 
 [← back to Nextdata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a data-product / data-mesh contract-and-SLA management layer (buy vs build product registration, freshness SLAs, and consumer subscriptions on your catalog) when the mesh only works if every domain publishes discoverable, guaranteed products? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Nextdata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-product-data-mesh-contract-a-125861) |

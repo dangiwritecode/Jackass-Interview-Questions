@@ -2,6 +2,8 @@
 
 [← back to Rippling](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does BigQuery's requirement that ORDER BY-less aggregate windows still scan the whole partition affect slot usage and cost, and how do you keep it cheap? | intermediate experience | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Rippling | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-bigquery-s-requirement-that-order-by-less-aggregate-windows-s-123172) |

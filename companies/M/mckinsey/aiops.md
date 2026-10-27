@@ -2,6 +2,8 @@
 
 [← back to McKinsey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you present a 'reliability posture across clouds' quarterly review to leadership that's honest about where automation is trusted and where it isn't? | deep understanding | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | Asked at McKinsey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-present-a-reliability-posture-across-clouds-quarterly-re-103843) |

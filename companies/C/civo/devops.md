@@ -2,6 +2,8 @@
 
 [← back to Civo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff exists between running a self-managed Kubernetes control plane (control, cost) and adopting a managed offering like EKS/GKE (operational maturity, lock-in). How do you scenario-test this build-vs-buy across upgrade toil, security patch latency, and exit cost? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Civo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-exists-between-running-a-self-managed-kubernetes-control-pl-53233) |

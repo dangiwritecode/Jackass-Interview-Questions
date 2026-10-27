@@ -2,6 +2,8 @@
 
 [← back to Gupshup](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a tiered-storage strategy for a chat/messaging product where the last 30 days is hot and years of history is cold but searchable — how do you move data between tiers transparently and keep a full-history search fast enough? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Gupshup | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-tiered-storage-strategy-for-a-chat-messaging-product-where-39472) |

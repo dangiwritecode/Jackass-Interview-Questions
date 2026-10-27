@@ -2,6 +2,8 @@
 
 [← back to Winzo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the 'settlement vs live' reconciliation for a real-money leaderboard/tournament so the live view is AP and roughly-right but the payout uses a CP snapshot, and prove a mid-window partition can't cause a payout the settlement wouldn't allow? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Winzo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-settlement-vs-live-reconciliation-for-a-re-111610) |

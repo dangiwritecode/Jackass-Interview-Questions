@@ -2,6 +2,8 @@
 
 [← back to Serverless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Lambda function's p99 is dominated by cold starts under bursty traffic. How do you profile init duration vs execution duration in CloudWatch, and decide between provisioned concurrency, SnapStart, or reducing the deployment package? | deep understanding | SDE-1/2, SDE-2/3 | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at Serverless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-lambda-function-s-p99-is-dominated-by-cold-starts-under-bursty-traff-47037) |

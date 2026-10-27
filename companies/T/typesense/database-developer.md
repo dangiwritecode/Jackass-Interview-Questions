@@ -2,6 +2,8 @@
 
 [← back to Typesense](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set the strategy for when read/write splitting should give way to a dedicated search/index tier (Elasticsearch/OpenSearch) instead of hammering replicas? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at Typesense | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-strategy-for-when-read-write-splitting-should-give--115538) |

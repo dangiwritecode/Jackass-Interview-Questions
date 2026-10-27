@@ -2,6 +2,8 @@
 
 [← back to Lingoda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between a model that is multilingual and one that is merely tokenizer-compatible with a language, and how you'd validate real quality per language. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Lingoda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-a-model-that-is-multilingual-and-one-th-77946) |

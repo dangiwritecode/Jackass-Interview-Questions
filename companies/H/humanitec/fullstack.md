@@ -2,6 +2,8 @@
 
 [← back to Humanitec](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the cost of a self-service internal developer platform where teams provision databases, queues, and clusters with a click? What defaults, quotas, and cost-preview do you bake into the golden path? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Humanitec | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-cost-of-a-self-service-internal-developer-platfo-41179) |

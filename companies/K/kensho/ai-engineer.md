@@ -2,6 +2,8 @@
 
 [← back to Kensho](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build an evaluation harness that scores an extractive QA model on both exact match and partial-span credit for your product's tolerance? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Kensho | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-an-evaluation-harness-that-scores-an-extractive-qa-79420) |

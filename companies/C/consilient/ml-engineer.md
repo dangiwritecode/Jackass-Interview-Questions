@@ -2,6 +2,8 @@
 
 [← back to Consilient](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your reference design for privacy-preserving fraud/risk models shared across a consortium of banks that legally cannot pool raw data? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Consilient | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-reference-design-for-privacy-preserving-fraud-risk-models--72659) |

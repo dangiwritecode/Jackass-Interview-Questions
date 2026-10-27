@@ -2,6 +2,8 @@
 
 [← back to Softwire](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Longest Substring That Reads the Same Forward and Backward | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Palindrome, String, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Softwire | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-substring-that-reads-the-same-forward-and-backward-d5) |

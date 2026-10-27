@@ -2,6 +2,8 @@
 
 [← back to Plaid](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design lifecycle policies that respect data-residency and regulatory retention (GDPR/DPDP/HIPAA) while still moving data to the cheapest tier? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Plaid | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-lifecycle-policies-that-respect-data-residency-an-126718) |

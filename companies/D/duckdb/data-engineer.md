@@ -2,6 +2,8 @@
 
 [← back to DuckDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You keep getting pitched streaming lakehouses, embedded OLAP engines, and vector-plus-relational hybrids, and being early can be an edge or a scar. Tell me about a time you jumped early and it paid off, and one where you should have waited — what was different about the signal you read, and what rule did you take away for the next frontier bet? | expertise | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | Asked at DuckDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-keep-getting-pitched-streaming-lakehouses-embedded-olap-engines-an-125582) |

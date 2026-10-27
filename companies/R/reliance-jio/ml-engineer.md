@@ -2,6 +2,8 @@
 
 [← back to Reliance Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you handle governance for a foundation model you train in-house — what pre-training data governance and documentation obligations do you take on? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Reliance Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-governance-for-a-foundation-model-you-train-in-ho-71740) |

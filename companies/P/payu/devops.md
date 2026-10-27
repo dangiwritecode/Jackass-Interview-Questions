@@ -2,6 +2,8 @@
 
 [← back to PayU](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a payment path to stay available and correct when the payment gateway is slow-but-not-erroring, so users don't abandon and you don't create duplicate charges — and how do you decide reconciliation windows and idempotency-key retention at scale? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at PayU | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-payment-path-to-stay-available-and-correct-when-52120) |

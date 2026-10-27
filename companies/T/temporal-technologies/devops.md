@@ -2,6 +2,8 @@
 
 [← back to Temporal Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A non-deterministic code change corrupted in-flight Temporal workflows during a deploy. Explain why event-history replay is sensitive to determinism and the versioning guardrails you'd enforce in the platform. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Temporal Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-non-deterministic-code-change-corrupted-in-flight-temporal-workflows-46495) |

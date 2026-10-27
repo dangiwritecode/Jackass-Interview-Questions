@@ -2,6 +2,8 @@
 
 [← back to Varonis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect access-governance telemetry so that a security team gets a real-time queryable graph of 'who can access what data through which path' across all engines and tools? | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Varonis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-access-governance-telemetry-so-that-a-security-126675) |

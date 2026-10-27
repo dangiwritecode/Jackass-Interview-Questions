@@ -2,6 +2,8 @@
 
 [← back to MakeMyTrip](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A test suite passes on your machine but fails in CI due to timezone. Walk through how you'd diagnose it and make date/time logic testable across regions permanently. | intermediate experience | SDE-1/2, SDE-2/3 | Testing (Unit/Integration) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at MakeMyTrip | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-test-suite-passes-on-your-machine-but-fails-in-ci-due-to-timezone-wa-19934) |

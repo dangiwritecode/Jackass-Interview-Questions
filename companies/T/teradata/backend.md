@@ -2,6 +2,8 @@
 
 [← back to Teradata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a phased exit from a warehouse vendor whose pricing just changed unfavorably, when you have 3 years of workloads deeply coupled to its proprietary SQL and features? What's your de-risking sequence? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Teradata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-phased-exit-from-a-warehouse-vendor-whose-prici-36606) |

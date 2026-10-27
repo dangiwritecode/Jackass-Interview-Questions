@@ -2,6 +2,8 @@
 
 [← back to Comcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Craft a multi-year tech vision for agentic automation where leadership is skeptical of LLM reliability. How do you sequence low-risk, high-trust wins to earn the mandate for higher-autonomy agents later, and what's the first thing you'd never automate? | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Comcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=craft-a-multi-year-tech-vision-for-agentic-automation-where-leadership-83101) |

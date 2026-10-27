@@ -2,6 +2,8 @@
 
 [← back to Buoyant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how AIOps handles telemetry from a service mesh's sidecars versus an ambient/sidecarless mesh, since the signal shape differs. As principal how would you architect the pipeline so migrating the mesh doesn't blind your anomaly models or force a full retrain? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Buoyant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-aiops-handles-telemetry-from-a-service-mesh-s-sidecars-vers-98679) |

@@ -2,6 +2,8 @@
 
 [← back to Expedia Group](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a GraphQL-federation architecture across 30 subgraph teams — how do you handle a slow subgraph in a query the N+1 problem across service boundaries and schema-composition breaking changes without a central bottleneck? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Expedia Group | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-graphql-federation-architecture-across-30-subgraph-teams-how--39462) |

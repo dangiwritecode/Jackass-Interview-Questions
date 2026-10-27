@@ -2,6 +2,8 @@
 
 [← back to Yubico](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser presses you: you claimed passkeys are 'phishing-resistant', but what's the residual account-takeover risk once recovery flows, device sync, and cross-platform authenticators are in play? Where does the real weakest link sit in a passkey-first design? | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Yubico | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-presses-you-you-claimed-passkeys-are-phishing-resistant-b-32740) |

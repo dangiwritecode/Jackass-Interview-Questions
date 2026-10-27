@@ -2,6 +2,8 @@
 
 [← back to RudderStack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a CDP / customer-event pipeline (buy Segment/mParticle vs build on Kafka + your warehouse) when data ownership, PII governance, and per-event pricing are board-level concerns and the event schema is central to every downstream model? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at RudderStack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-cdp-customer-event-pipeline-buy-s-125883) |

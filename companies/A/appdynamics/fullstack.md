@@ -2,6 +2,8 @@
 
 [← back to AppDynamics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A dashboard endpoint aggregates over 90 days on every load. Compare adding a covering index, a materialized rollup refreshed nightly, and caching the JSON response. Which fits a product that tolerates 5-min staleness? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Observability companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dashboard-endpoint-aggregates-over-90-days-on-every-load-compare-add-25811) |

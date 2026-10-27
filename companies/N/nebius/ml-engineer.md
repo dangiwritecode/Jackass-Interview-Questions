@@ -2,6 +2,8 @@
 
 [← back to Nebius](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probes migration economics: you're moving your training stack from a hyperscaler to a GPU neocloud that's 40% cheaper per GPU-hour, but the ecosystem (managed storage, networking, MLOps tooling) is thinner. Build the honest risk-adjusted TCO including migration effort, reliability delta, and exit cost. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Nebius | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-migration-economics-you-re-moving-your-training-st-69914) |

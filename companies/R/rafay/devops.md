@@ -2,6 +2,8 @@
 
 [← back to Rafay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you deal with a strong SRE on another team actively undermining a fleet standard by running an escape-hatch cluster and encouraging others to copy it? What's your escalation ladder and where does it stop being persuasion? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Rafay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-deal-with-a-strong-sre-on-another-team-actively-undermining-54476) |

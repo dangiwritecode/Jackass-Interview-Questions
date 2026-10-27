@@ -2,6 +2,8 @@
 
 [← back to Josh](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A user's feed shows a post they already saw hours ago as if it were new after a deploy — how do you debug feed dedup and ranking-cache invalidation issues in production? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Josh | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-user-s-feed-shows-a-post-they-already-saw-hours-ago-as-if-it-were-ne-20623) |

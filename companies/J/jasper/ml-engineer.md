@@ -2,6 +2,8 @@
 
 [← back to Jasper](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect guardrails and safety governance for a fleet of LLM-powered features on AWS — where do Bedrock Guardrails, a central content-moderation service, and per-team policy overrides fit, and how do you enforce a baseline no team can weaken? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Jasper | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-guardrails-and-safety-governance-for-a-fleet-o-68578) |

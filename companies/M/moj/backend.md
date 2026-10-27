@@ -2,6 +2,8 @@
 
 [← back to Moj](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A "like" button double-fires from a slow client and creates two rows — how do you design the endpoint and unique constraint so the second call is a safe no-op? | intermediate experience | SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Moj | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-like-button-double-fires-from-a-slow-client-and-creates-two-rows-how-24412) |

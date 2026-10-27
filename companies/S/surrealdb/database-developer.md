@@ -2,6 +2,8 @@
 
 [← back to SurrealDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you weigh ecosystem maturity, such as available drivers, ORMs, and connectors, when choosing between an established and an emerging database vendor? | deep understanding | SDE-2/3, Architect/Principal | Database Vendor & Tooling Strategy | Onsite, Hiring Manager | Tech | Asked at SurrealDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-ecosystem-maturity-such-as-available-drivers-orms-and-115399) |

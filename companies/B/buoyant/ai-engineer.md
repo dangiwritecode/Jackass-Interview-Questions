@@ -2,6 +2,8 @@
 
 [← back to Buoyant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your inference API needs mTLS between the gateway, guardrail, and model Pods without changing code. How would a service mesh provide that, and what's the latency cost you'd measure before adopting it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Buoyant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-inference-api-needs-mtls-between-the-gateway-guardrail-and-model--77566) |

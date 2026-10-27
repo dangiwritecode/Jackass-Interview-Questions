@@ -2,6 +2,8 @@
 
 [← back to Dagster](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A job scheduler scans all pending jobs each tick (O(pending) per tick); how do you reason about moving to a priority queue or timing wheel and the space/time trade each brings? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Dagster | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-job-scheduler-scans-all-pending-jobs-each-tick-o-pending-per-tick-ho-22085) |

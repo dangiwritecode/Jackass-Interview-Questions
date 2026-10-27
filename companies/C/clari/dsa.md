@@ -2,6 +2,8 @@
 
 [← back to Clari](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Counting Distinct Binary Search Tree Shapes | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search Tree, Catalan Numbers, Combinatorics, Dynamic Programming, Math, Tree | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Clari | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-distinct-binary-search-tree-shapes-d96) |

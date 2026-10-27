@@ -2,6 +2,8 @@
 
 [← back to Calendly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a webhooks/async-callback governance standard for a platform with 3000 integrators. Cover delivery guarantees, retry/backoff, signature verification, replay protection, ordering, and how you version webhook payloads without breaking consumers. | expertise | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Calendly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-webhooks-async-callback-governance-standard-for-a-platform-wi-36444) |

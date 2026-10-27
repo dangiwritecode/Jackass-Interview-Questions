@@ -2,6 +2,8 @@
 
 [← back to Plivo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A partner integration hammers your API with the exact same GET 50 times a second because their cache is broken. How do you protect yourself server-side without breaking legitimate partners, and what do you tell them? | intermediate experience | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Plivo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-partner-integration-hammers-your-api-with-the-exact-same-get-50-time-23938) |

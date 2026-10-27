@@ -2,6 +2,8 @@
 
 [← back to Canva](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a policy for secret sprawl prevention across 500 KV paths: naming taxonomy, ownership metadata, automated stale-secret detection, and reclamation. How do you enforce it without a central bottleneck team? | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Canva | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-policy-for-secret-sprawl-prevention-across-500-kv-paths-namin-54949) |

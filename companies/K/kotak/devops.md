@@ -2,6 +2,8 @@
 
 [← back to Kotak](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator mandates all Indian customer data stay in ap-south. How does your landing zone enforce data residency technically and prove it during an audit? | expertise | SDE-2/3, Architect/Principal | Landing Zones & Cloud Foundations | Onsite, Hiring Manager | Tech | Asked at Kotak | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-mandates-all-indian-customer-data-stay-in-ap-south-how-doe-56055) |

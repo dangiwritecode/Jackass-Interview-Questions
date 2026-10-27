@@ -2,6 +2,8 @@
 
 [← back to Poe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding whether to expose model choice to end customers (letting them trade cost for speed/quality) as a product lever. What architecture and business risks does that surface create? | expertise | SDE-2/3, Architect/Principal | LLM Cost & Latency Optimization | Phone Screen, Onsite | Tech | Asked at Poe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-expose-model-choice-to-end-customers-lettin-85320) |

@@ -2,6 +2,8 @@
 
 [← back to Armory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your CI/CD deploys to ECS but you have no way to know if the new version is actually healthy in prod for 10 minutes — how would you add deployment verification with automated canary analysis before declaring success? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Armory | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-ci-cd-deploys-to-ecs-but-you-have-no-way-to-know-if-the-new-versi-46194) |

@@ -2,6 +2,8 @@
 
 [← back to ixigo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What does NTILE(4) do and what would each row's value look like for 8 rows? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at ixigo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-ntile-4-do-and-what-would-each-row-s-value-look-like-for-8-r-118994) |

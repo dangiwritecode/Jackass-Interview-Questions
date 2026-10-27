@@ -2,6 +2,8 @@
 
 [← back to Quora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide between LightGBM and XGBoost when latency budget per prediction is under 5ms at p99 for a real-time ranking service? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Quora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-lightgbm-and-xgboost-when-latency-budget-per-65873) |

@@ -2,6 +2,8 @@
 
 [← back to Great Expectations](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect data quality as a first-class system rather than bolt-on tests? Define where checks live, how failures propagate, who owns them in a mesh, and how you avoid alert fatigue at 200k datasets. | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Great Expectations | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-data-quality-as-a-first-class-system-rather-than--36538) |

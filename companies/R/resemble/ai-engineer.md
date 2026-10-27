@@ -2,6 +2,8 @@
 
 [← back to Resemble](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern a deepfake and impersonation risk surface for a product that offers voice or avatar cloning, balancing legitimate creative use against non-consensual abuse? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Resemble | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-a-deepfake-and-impersonation-risk-surface-for-a-prod-86093) |

@@ -2,6 +2,8 @@
 
 [← back to SigTuple Technologies Private Limited](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you fine-tune a VLM for a medical imaging plus report-generation task with only a few thousand labeled pairs, and how would you guard against overfitting and unsafe outputs? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | Asked at SigTuple Technologies Private Limited | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-fine-tune-a-vlm-for-a-medical-imaging-plus-report-genera-80694) |

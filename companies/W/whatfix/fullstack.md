@@ -2,6 +2,8 @@
 
 [← back to Whatfix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design a DynamoDB single-table schema for a multi-tenant SaaS where you must query a tenant's recent orders, a user's activity, and global admin reports efficiently? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Serverless | Phone Screen, Onsite | Tech | Asked at Whatfix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-dynamodb-single-table-schema-for-a-multi-tenant-sa-18428) |

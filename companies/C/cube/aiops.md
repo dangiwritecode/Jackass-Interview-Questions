@@ -2,6 +2,8 @@
 
 [← back to Cube](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you govern a semantic/unified metrics layer so AIOps features and executive reliability reports resolve to the same governed definitions across the org? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Cube | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-a-semantic-unified-metrics-layer-so-aiops-feature-101407) |

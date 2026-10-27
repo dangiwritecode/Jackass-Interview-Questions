@@ -2,6 +2,8 @@
 
 [← back to BeReal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build and validate a capacity model for a brand-new product with no historical data — how do you seed the forecast and set early guardrails? | expertise | SDE-2/3, Architect/Principal | Database Capacity Planning | Onsite, Hiring Manager | Tech | Asked at BeReal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-and-validate-a-capacity-model-for-a-brand-new-product-115030) |

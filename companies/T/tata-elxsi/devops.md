@@ -2,6 +2,8 @@
 
 [← back to Tata Elxsi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a hybrid/on-prem control plane when one large regulated customer demands self-hosted deployment but the rest run in your cloud — does the deployment-topology split justify building for portability across the board? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Engineering-Services companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-hybrid-on-prem-control-plane-when-53795) |

@@ -2,6 +2,8 @@
 
 [← back to Cornelis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must set the org policy on when a workload earns InfiniBand versus RoCEv2 Ethernet fabric. What operational and cost factors drive the split, and what collective-communication pathologies does RoCE introduce at scale? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Cornelis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-set-the-org-policy-on-when-a-workload-earns-infiniband-versus-85032) |

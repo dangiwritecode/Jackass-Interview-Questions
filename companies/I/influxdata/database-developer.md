@@ -2,6 +2,8 @@
 
 [← back to InfluxData](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design replication for a system that mixes OLTP writes and heavy time-series ingestion, deciding what replicates natively versus what streams via CDC. | expertise | SDE-2/3, Architect/Principal | Database Replication (Master-Slave) | Phone Screen, Onsite | Tech | Asked at InfluxData | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-replication-for-a-system-that-mixes-oltp-writ-113894) |

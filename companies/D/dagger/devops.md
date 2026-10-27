@@ -2,6 +2,8 @@
 
 [← back to Dagger](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build a cost model that captures the amortized cost of build pipelines and artifact storage per deployment, so teams see the CI/CD cost of their release cadence? When does 'deploy 50 times a day' become a real line item worth governing? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Dagger | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-cost-model-that-captures-the-amortized-cost-of-b-52962) |

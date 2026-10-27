@@ -2,6 +2,8 @@
 
 [← back to Tencent](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect blast-radius containment for a super-app where many products share infra, so a failure in a non-critical product (games, rewards) can never degrade a critical one (payments)? Adjudicate shared-platform efficiency against hard product isolation. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Tencent | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-blast-radius-containment-for-a-super-app-where-ma-52896) |

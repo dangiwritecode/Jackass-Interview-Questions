@@ -2,6 +2,8 @@
 
 [← back to Paytm](README.md)
 
+Questions 1–82 of 82.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What are the ACID properties of a transaction? Explain each. | basic concept | Fresher, SDE-1, SDE-1/2 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Paytm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-acid-properties-of-a-transaction-explain-each-219) |

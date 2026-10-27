@@ -2,6 +2,8 @@
 
 [← back to Reliance Retail](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a hybrid edge-to-cloud topology (retail stores / factories) where thousands of edge sites must stay operational during a cloud disconnect? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud & Hybrid Cloud | Onsite, Hiring Manager | Tech | Asked at Reliance Retail | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-hybrid-edge-to-cloud-topology-retail-stores--55298) |

@@ -2,6 +2,8 @@
 
 [← back to Zylo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your integration strategy for third-party SaaS spend (not just cloud infra) so the FinOps+AIOps view of 'cost to run the product' is complete? Where does it break down? | deep understanding | SDE-2/3, Architect/Principal | CloudOps + FinOps + AIOps Integration | Onsite, Hiring Manager | Tech | Asked at Zylo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-integration-strategy-for-third-party-saas-spend-not-just-c-103427) |

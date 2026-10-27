@@ -2,6 +2,8 @@
 
 [← back to Zingg](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for blocking / candidate generation so you don't do O(n^2) comparisons at hundreds of millions of records — and how do you validate you're not losing true matches in the blocking step? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Zingg | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-blocking-candidate-generation-so-you-don-t-do-127745) |

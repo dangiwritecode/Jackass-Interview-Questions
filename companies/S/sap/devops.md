@@ -2,6 +2,8 @@
 
 [← back to SAP](README.md)
 
+Questions 1–114 of 114.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is abstraction and how is it different from encapsulation? | basic concept | Fresher, SDE-1 | OOPS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at SAP | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-abstraction-and-how-is-it-different-from-encapsulation-621) |

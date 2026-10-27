@@ -2,6 +2,8 @@
 
 [← back to EnterpriseDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Postgres endpoint's p99 is dominated by planning time, not execution. What causes plan-time blowup and how do you profile and fix it (prepared statements vs plan_cache_mode vs generic plans)? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at EnterpriseDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-postgres-endpoint-s-p99-is-dominated-by-planning-time-not-execution--29966) |

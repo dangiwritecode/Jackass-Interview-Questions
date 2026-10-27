@@ -2,6 +2,8 @@
 
 [← back to HiddenLayer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A prompt-injection attack embeds instructions in a retrieved document that tells the agent to call your admin REST tool. How do you architect the tool API and authorization so retrieved content can never escalate the agent's privileges? | expertise | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at HiddenLayer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-prompt-injection-attack-embeds-instructions-in-a-retrieved-document--77101) |

@@ -2,6 +2,8 @@
 
 [← back to Pact-SmartBear](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you handle a sprint where a critical dependency team promised an API but delivered only a mock; how do you contract-test and structure your stories so integration surprises don't leak into the next sprint? | intermediate experience | SDE-1/2, SDE-2/3 | Agile/Scrum | Phone Screen, Hiring Manager | Tech | Asked at Pact-SmartBear | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-a-sprint-where-a-critical-dependency-team-promise-46399) |

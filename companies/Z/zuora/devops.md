@@ -2,6 +2,8 @@
 
 [← back to Zuora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an at-most-once critical scheduled job (nightly billing) that must never double-run even if EventBridge delivers twice or two instances wake simultaneously — walk me through the distributed lock and idempotency and prove it under failover? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zuora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-at-most-once-critical-scheduled-job-nightly-bi-52418) |

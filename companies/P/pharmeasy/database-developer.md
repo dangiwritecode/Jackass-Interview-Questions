@@ -2,6 +2,8 @@
 
 [← back to PharmEasy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're designing the analytical estate for a healthcare org under HIPAA where PHI must be minimized. Architect the tokenization, de-identification, and re-identification-vault pattern so analysts get useful data while re-identification is a controlled, audited operation. Where does k-anonymity break at query time? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at PharmEasy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-the-analytical-estate-for-a-healthcare-org-under-hipa-112674) |

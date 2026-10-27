@@ -2,6 +2,8 @@
 
 [← back to Checkout.com](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you handle a scenario where XGBoost's built-in missing-value handling makes serving fragile because upstream stopped sending nulls and started sending zeros? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Checkout.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-a-scenario-where-xgboost-s-built-in-missing-value-65911) |

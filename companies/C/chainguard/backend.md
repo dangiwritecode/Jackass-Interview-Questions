@@ -2,6 +2,8 @@
 
 [← back to Chainguard](README.md)
 
+Questions 1–63 of 63.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A container's overlay writable layer keeps a deleted 2GB file 'alive' from an earlier RUN and the image is huge. Explain why the deletion in a later layer didn't help and show how to truly remove it. | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Chainguard | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-container-s-overlay-writable-layer-keeps-a-deleted-2gb-file-alive-fr-19508) |

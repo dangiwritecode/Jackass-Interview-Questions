@@ -2,6 +2,8 @@
 
 [← back to Sourcegraph](README.md)
 
+Questions 1–95 of 95.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | At a high level what steps are involved in building a simple MCP server? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Model Context Protocol (MCP) | Phone Screen, Onsite | Tech | Asked at Sourcegraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=at-a-high-level-what-steps-are-involved-in-building-a-simple-mcp-serve-76015) |

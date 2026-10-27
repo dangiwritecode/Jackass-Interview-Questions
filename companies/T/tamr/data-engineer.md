@@ -2,6 +2,8 @@
 
 [← back to Tamr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a master-data-management / entity-resolution capability at the core of a fraud or customer-360 product (buy Reltio/Informatica MDM vs build on your graph + probabilistic matching) — where does capability-fit to your proprietary identity graph override the vendor's cost advantage? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Tamr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-master-data-management-entity-res-125832) |

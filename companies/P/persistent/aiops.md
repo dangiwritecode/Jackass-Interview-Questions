@@ -2,6 +2,8 @@
 
 [← back to Persistent](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe the basic components of the Splunk architecture: forwarder, indexer, and search head. | basic concept | Fresher, SDE-1/2, SDE-2/3 | Splunk | Phone Screen, Onsite | Tech | Asked at Persistent | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-basic-components-of-the-splunk-architecture-forwarder-ind-91330) |

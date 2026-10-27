@@ -2,6 +2,8 @@
 
 [← back to JFrog](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the org's approach to model-artifact deployment so a new fine-tune ships across regions with the same rigor, rollback, and provenance as a code deploy, treating weights as a first-class release artifact? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at JFrog | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-org-s-approach-to-model-artifact-deploymen-82777) |

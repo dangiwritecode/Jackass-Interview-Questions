@@ -2,6 +2,8 @@
 
 [← back to American Airlines](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an API governance approach for a company adopting an internal developer platform (IDP/Backstage). How do API templates, scaffolding, and golden paths encode governance so compliance is the default, not a review gate people forget? | expertise | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at American Airlines | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-api-governance-approach-for-a-company-adopting-an-internal-d-36492) |

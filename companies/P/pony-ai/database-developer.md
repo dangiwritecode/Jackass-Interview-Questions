@@ -2,6 +2,8 @@
 
 [← back to Pony.ai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An exec pushes for a trendy vector database as the primary store for a RAG-heavy product. How do you separate the vector-search requirement from the system-of-record requirement in the architecture? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at AI companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-exec-pushes-for-a-trendy-vector-database-as-the-primary-store-for-a-114359) |

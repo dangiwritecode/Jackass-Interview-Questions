@@ -2,6 +2,8 @@
 
 [← back to PostHog](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a capacity-planning practice for a company where infra is a cost of goods sold that directly gates gross margin (a usage-priced SaaS)? How does every efficiency win map to margin, and how do you make engineers feel that connection? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at PostHog | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-capacity-planning-practice-for-a-company-whe-53014) |

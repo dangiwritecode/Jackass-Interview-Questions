@@ -2,6 +2,8 @@
 
 [← back to Segment](README.md)
 
+Questions 1–123 of 123.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you'd design a 'policy object' so business rules that change by tier/region/experiment are pulled out of entities into named, testable, swappable policies; how do you keep the policy-resolution logic from becoming a second god class? | deep understanding | SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Segment | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-d-design-a-policy-object-so-business-rules-t-38344) |

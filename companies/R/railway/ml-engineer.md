@@ -2,6 +2,8 @@
 
 [← back to Railway](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the control plane for a self-serve inference platform where product teams request an endpoint and get quantization/parallelism/autoscaling chosen for them? | deep understanding | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at Railway | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-control-plane-for-a-self-serve-inference-p-71185) |

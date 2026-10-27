@@ -2,6 +2,8 @@
 
 [← back to Nike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect brand-voice and tone compliance as an eval so a regulated brand's assistant is never flippant or off-brand — and how do you keep that judge aligned with the brand team's intent? | deep understanding | SDE-2/3, Architect/Principal | LLM Evaluation & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-brand-voice-and-tone-compliance-as-an-eval-so-a-r-84813) |

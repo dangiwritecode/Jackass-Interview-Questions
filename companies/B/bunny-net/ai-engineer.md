@@ -2,6 +2,8 @@
 
 [← back to Bunny.net](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a CDN and could it help serve a static AI-app frontend that talks to your LLM backend? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Bunny.net | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-cdn-and-could-it-help-serve-a-static-ai-app-frontend-that-ta-76508) |

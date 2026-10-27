@@ -2,6 +2,8 @@
 
 [← back to Calendly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the boundary so an LLM can propose a calendar booking but a deterministic service actually validates and commits it; where does authorization sit? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | Asked at Calendly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-boundary-so-an-llm-can-propose-a-calendar-booking-but-a-det-78427) |

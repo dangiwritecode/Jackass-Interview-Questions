@@ -2,6 +2,8 @@
 
 [← back to DE Shaw](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to reduce serialization-failure retries that are inflating tail latency in a trading system. Walk through the design levers, ordered by blast radius, that you'd pull. | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Quant-Finance companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-reduce-serialization-failure-retries-that-are-inflatin-113660) |

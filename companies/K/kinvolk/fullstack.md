@@ -2,6 +2,8 @@
 
 [← back to Kinvolk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide the org's node-image and OS strategy: general-purpose distro versus an immutable, minimal, container-optimized OS (Bottlerocket/Talos/Flatcar). Walk through the security, patch-cadence, and debuggability trade-offs, and how you'd migrate 80 clusters without losing the ability to break-glass onto a node. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Kinvolk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-the-org-s-node-image-and-os-strategy-general-purpose-d-39045) |

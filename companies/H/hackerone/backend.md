@@ -2,6 +2,8 @@
 
 [← back to HackerOne](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an internal 'security bug bounty for injection' — honeytokens, canary rows, deliberate detection tripwires across the estate — so that a successful SQLi exfiltration triggers an alert within seconds rather than being discovered months later in a breach disclosure? | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at HackerOne | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-internal-security-bug-bounty-for-injection--32843) |

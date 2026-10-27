@@ -2,6 +2,8 @@
 
 [← back to Second-Front](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An engineer wants to use a brand-new managed AI service that isn't FedRAMP-authorized; how do you evaluate whether it can be brought into scope versus rejected? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Second-Front | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-engineer-wants-to-use-a-brand-new-managed-ai-service-that-isn-t-fed-56743) |

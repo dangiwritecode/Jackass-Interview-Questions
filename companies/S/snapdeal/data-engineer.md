@@ -2,6 +2,8 @@
 
 [← back to Snapdeal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you describe the difference between 'processing an order' and 'analyzing all orders' to explain OLTP vs OLAP? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Snapdeal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-describe-the-difference-between-processing-an-order-and-ana-118789) |

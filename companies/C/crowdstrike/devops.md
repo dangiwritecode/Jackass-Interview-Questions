@@ -2,6 +2,8 @@
 
 [← back to CrowdStrike](README.md)
 
+Questions 1–128 of 128.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser: you standardized on OIDC-federated apply roles, but the central automation account that can assume into all 400 per-state roles is now the single most powerful identity in the org. How do you contain the containment mechanism itself, and what detects an anomalous assume-role chain from that account in real time? | expertise | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at CrowdStrike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-you-standardized-on-oidc-federated-apply-roles-but-the-ce-53092) |

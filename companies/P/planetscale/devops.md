@@ -2,6 +2,8 @@
 
 [← back to PlanetScale](README.md)
 
+Questions 1–74 of 74.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: 'You standardized on a globally-distributed SQL database. Now a team's workload is a poor fit for it and they want out. How does your org handle exceptions to the standard?' | deep understanding | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at PlanetScale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-you-standardized-on-a-globally-distributed-sql-d-53615) |

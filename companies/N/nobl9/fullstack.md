@@ -2,6 +2,8 @@
 
 [← back to Nobl9](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: you require every API to publish an SLO, but half the SLOs are set to values the team knows they always meet, making error budgets meaningless. How do you govern SLO honesty, tie SLOs to real customer harm, and stop teams sandbagging their own targets? | deep understanding | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Nobl9 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-you-require-every-api-to-publish-an-slo-but-half-40873) |

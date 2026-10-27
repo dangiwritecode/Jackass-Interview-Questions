@@ -2,6 +2,8 @@
 
 [← back to UnitedHealth](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you architect the decision on whether a healthcare or fintech assistant needs full RLHF or whether SFT with strong guardrails suffices, given the liability profile? | deep understanding | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at UnitedHealth | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-architect-the-decision-on-whether-a-healthca-85824) |

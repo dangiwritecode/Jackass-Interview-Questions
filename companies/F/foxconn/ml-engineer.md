@@ -2,6 +2,8 @@
 
 [← back to Foxconn](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A defect-detection model must never miss a critical defect. How would you tune the classification threshold and design the precision/recall trade-off for that business constraint? | deep understanding | SDE-1/2, SDE-2/3 | Computer Vision Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Foxconn | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-defect-detection-model-must-never-miss-a-critical-defect-how-would-y-66281) |

@@ -2,6 +2,8 @@
 
 [← back to PagerDuty](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the alerting and routing layer so quality signals reach the right owner with the right context instead of dumping into a shared Slack channel everyone mutes? | deep understanding | SDE-2/3, Architect/Principal | Data Quality Framework & SLAs | Phone Screen, Onsite, Hiring Manager | Tech | Asked at PagerDuty | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-alerting-and-routing-layer-so-quality-signals-126950) |

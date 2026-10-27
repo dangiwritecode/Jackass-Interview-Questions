@@ -2,6 +2,8 @@
 
 [← back to Turso](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are asked to evaluate whether to adopt an edge-database (data replicated to the edge) instead of an edge cache. Argue how the correctness and invalidation stories differ, and when a replicated edge store beats a cache at the edge. | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Turso | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-asked-to-evaluate-whether-to-adopt-an-edge-database-data-repli-38582) |

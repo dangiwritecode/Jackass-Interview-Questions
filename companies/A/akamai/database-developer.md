@@ -2,6 +2,8 @@
 
 [← back to Akamai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design authentication for a globally distributed database when your identity provider is in one region and you cannot accept added login latency worldwide. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Akamai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-authentication-for-a-globally-distributed-da-114076) |

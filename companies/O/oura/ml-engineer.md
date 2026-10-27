@@ -2,6 +2,8 @@
 
 [← back to Oura](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through the privacy architecture for on-device / edge ML (mobile keyboards, health) — what stays local, what syncs, and how DP fits federated aggregation. | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Oura | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-the-privacy-architecture-for-on-device-edge-ml-mobile--72622) |

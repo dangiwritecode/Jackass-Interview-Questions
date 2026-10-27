@@ -2,6 +2,8 @@
 
 [← back to NSE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle continuity for time-sensitive batch and financial-reconciliation jobs where missing a settlement window during an outage has legal and monetary consequences? | expertise | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | Asked at NSE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-continuity-for-time-sensitive-batch-and-financial-re-57016) |

@@ -2,6 +2,8 @@
 
 [← back to Tetrate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A sensitivity point is that your entire multi-cluster mesh depends on a single control-plane component (say the Istiod or a shared cert issuer). How do you scenario its failure across dependent clusters and record the blast radius as an ATAM finding with a response measure? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Tetrate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-sensitivity-point-is-that-your-entire-multi-cluster-mesh-depends-on--53229) |

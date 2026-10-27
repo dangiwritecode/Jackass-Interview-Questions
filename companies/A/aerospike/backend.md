@@ -2,6 +2,8 @@
 
 [← back to Aerospike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A C++ service occasionally serves a response from a freed buffer under load — a use-after-free reachable only when a timeout fires concurrently with completion. How would you reason about the race and redesign ownership so the winner cleans up exactly once? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Aerospike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-c-service-occasionally-serves-a-response-from-a-freed-buffer-under-l-22824) |

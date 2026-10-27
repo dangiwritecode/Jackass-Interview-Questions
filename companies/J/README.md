@@ -11,8 +11,8 @@
 | [Jeli](jeli/README.md) | Tier 4 | 540 | 2 |
 | [Jellyfish](jellyfish/README.md) | Tier 4 | 540 | 1 |
 | [Jepsen](jepsen/README.md) | Tier 2 | 540 | 10 |
-| [JetBrains](jetbrains/README.md) | Tier 2 | 640 | 215 |
-| [JFrog](jfrog/README.md) | Tier 3 | 630 | 227 |
+| [JetBrains](jetbrains/README.md) | Tier 2 | 667 | 215 |
+| [JFrog](jfrog/README.md) | Tier 3 | 638 | 227 |
 | [Jina AI](jina-ai/README.md) | Tier 4 | 540 | 61 |
 | [Jio](jio/README.md) | Tier 2 | 540 | 199 |
 | [JioCinema](jiocinema/README.md) | Tier 3 | 540 | 73 |
@@ -22,7 +22,7 @@
 | [Josh](josh/README.md) | Tier 4 | 540 | 84 |
 | [Josh-DailyHunt](josh-dailyhunt/README.md) | Tier 3 | 540 | 1 |
 | [JotForm](jotform/README.md) | Tier 4 | 540 | 1 |
-| [JPMorgan Chase](jpmorgan-chase/README.md) | Tier 2 | 1,215 | 2,904 |
+| [JPMorgan Chase](jpmorgan-chase/README.md) | Tier 2 | 2,929 | 2,904 |
 | [jsDelivr](jsdelivr/README.md) | Tier 3 | 540 | 3 |
 | [JSTOR](jstor/README.md) | Tier 4 | 540 | 1 |
 | [JuiceFS](juicefs/README.md) | Tier 3 | 540 | 1 |

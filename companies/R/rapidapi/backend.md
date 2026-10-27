@@ -2,6 +2,8 @@
 
 [← back to RapidAPI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a rate limiter that supports tiered plans (free/pro/enterprise) with different limits per endpoint per key — how do you store and hot-reload the limit config so a plan upgrade takes effect within seconds? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at RapidAPI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-rate-limiter-that-supports-tiered-plans-free-pro-enterprise-w-28344) |

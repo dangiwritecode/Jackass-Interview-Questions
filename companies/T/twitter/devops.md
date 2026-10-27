@@ -2,6 +2,8 @@
 
 [← back to Twitter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Snowflake-style ID generator hit a backwards clock jump and started risking duplicate IDs. Explain the failure mode and how you'd handle a backwards clock jump operationally without minting duplicates. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Twitter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-snowflake-style-id-generator-hit-a-backwards-clock-jump-and-started--46515) |

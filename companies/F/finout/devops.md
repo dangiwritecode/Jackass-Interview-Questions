@@ -2,6 +2,8 @@
 
 [← back to Finout](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build a FinOps showback/chargeback capability — buy Apptio Cloudability/CloudHealth vs build on CUR/billing exports + your own tagging model — when the value is behavioral cost accountability across 50 teams, not the tool? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Finout | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-finops-showback-chargeback-capability-buy-apptio-cl-53735) |

@@ -2,6 +2,8 @@
 
 [← back to Pusher](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why would a WebSocket or server-sent events be needed to stream chat responses from a cloud-hosted AI backend? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Pusher | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-would-a-websocket-or-server-sent-events-be-needed-to-stream-chat-r-76524) |

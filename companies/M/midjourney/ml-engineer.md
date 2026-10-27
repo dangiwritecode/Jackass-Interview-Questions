@@ -2,6 +2,8 @@
 
 [← back to Midjourney](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect abuse and misuse detection for a public-facing GenAI product, balancing false-positive user friction against real harm? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Midjourney | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-abuse-and-misuse-detection-for-a-public-facing-71715) |

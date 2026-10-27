@@ -2,6 +2,8 @@
 
 [← back to Twingate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want to add 'trusted internal callers can skip MFA but external users can't', keyed off network origin. Why is network location a weak authorization signal and what do you use instead in a zero-trust model? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Twingate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-add-trusted-internal-callers-can-skip-mfa-but-external-use-26165) |

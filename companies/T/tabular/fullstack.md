@@ -2,6 +2,8 @@
 
 [← back to Tabular](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a lakehouse architecture where the same tables serve BI ML-training and reverse-ETL back to production — how do you handle table-format choice (Iceberg/Delta/Hudi) schema evolution and the governance so product engineers and data scientists don't fork the truth? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tabular | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-lakehouse-architecture-where-the-same-tables-serve-bi-ml-trai-39428) |

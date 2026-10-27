@@ -2,6 +2,8 @@
 
 [← back to Temporal Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A retried orchestration step re-ran an expensive Spark job that had already succeeded because the success signal was lost. Explain how you'd make the trigger idempotent with a run-id and dedup so an at-least-once orchestrator can't double-launch. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Temporal Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-retried-orchestration-step-re-ran-an-expensive-spark-job-that-had-al-120839) |

@@ -2,6 +2,8 @@
 
 [← back to SafeBreach](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you would prove to a regulator that your zero-trust controls are continuously effective (not merely configured) using automated adversarial probes, and how you keep those probes from becoming a self-inflicted DoS or a false-assurance signal. | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at SafeBreach | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-would-prove-to-a-regulator-that-your-zero-trus-53951) |

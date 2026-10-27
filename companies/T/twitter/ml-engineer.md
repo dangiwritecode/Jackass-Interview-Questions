@@ -2,6 +2,8 @@
 
 [← back to Twitter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you'd handle a post-deployment incident where a model was found to systematically disadvantage a protected group — technically and organizationally. | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Twitter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-handle-a-post-deployment-incident-where-a-mo-71688) |

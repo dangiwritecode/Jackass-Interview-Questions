@@ -2,6 +2,8 @@
 
 [← back to Marqeta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a compliance posture that can absorb a same-day emergency change to a control framework (e.g. a new PCI DSS 4.0 requirement becoming mandatory) across hundreds of services without a fire drill each time — what makes controls versionable and hot-swappable? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Marqeta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-compliance-posture-that-can-absorb-a-same-day-e-54030) |

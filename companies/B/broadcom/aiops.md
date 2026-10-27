@@ -2,6 +2,8 @@
 
 [← back to Broadcom](README.md)
 
+Questions 1–88 of 88.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team complains OneAgent added CPU overhead on a latency-sensitive service. How do you measure the actual overhead and what tuning options in Dynatrace reduce it? | intermediate experience | SDE-1/2, SDE-2/3 | Dynatrace | Phone Screen, Onsite | Tech | Asked at Broadcom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-complains-oneagent-added-cpu-overhead-on-a-latency-sensitive-se-96643) |

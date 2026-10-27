@@ -2,6 +2,8 @@
 
 [← back to Coforge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Build an autocomplete component in the round. The interviewer asks why you chose a Trie over just filtering an array — defend your choice and say when the array approach is actually better. | deep understanding | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | Asked at Coforge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=build-an-autocomplete-component-in-the-round-the-interviewer-asks-why--21514) |

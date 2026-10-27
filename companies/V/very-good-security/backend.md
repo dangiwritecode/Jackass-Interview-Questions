@@ -2,6 +2,8 @@
 
 [← back to Very Good Security](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a PII tokenization/vault service that serves 500k tokenize/detokenize ops per second across regions — how do you meet latency SLOs while keeping the token vault as the only PCI/PII-in-scope component and surviving its failure? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Very Good Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-pii-tokenization-vault-service-that-serves-500k-tokenize-d-37223) |

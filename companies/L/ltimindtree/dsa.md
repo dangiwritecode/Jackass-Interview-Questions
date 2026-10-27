@@ -2,6 +2,8 @@
 
 [← back to LTIMindtree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Reverse the Digits of a Machine Integer | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Digit Processing, Integer Manipulation, Math, Overflow Handling | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at LTIMindtree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reverse-the-digits-of-a-machine-integer-d7) |

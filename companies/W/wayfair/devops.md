@@ -2,6 +2,8 @@
 
 [← back to Wayfair](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team accidentally deleted a production Cloud Storage bucket. How would you have designed retention, versioning, and bucket lock to make this recoverable and prevent recurrence? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | GCP | Phone Screen, Onsite | Tech | Asked at Wayfair | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-accidentally-deleted-a-production-cloud-storage-bucket-how-woul-49354) |

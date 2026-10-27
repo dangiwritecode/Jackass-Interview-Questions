@@ -2,6 +2,8 @@
 
 [← back to Hookdeck](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a webhook and how might an LLM provider use one to notify you when a long batch job finishes? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Hookdeck | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-webhook-and-how-might-an-llm-provider-use-one-to-notify-you--76556) |

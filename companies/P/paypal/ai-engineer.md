@@ -2,6 +2,8 @@
 
 [← back to PayPal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the disaster-recovery strategy for durable agents built on an event-sourced workflow engine. What are your RPO/RTO targets and how do you replay half-completed tool side effects safely? | expertise | SDE-2/3, Architect/Principal | Agentic Workflows | Phone Screen, Onsite | Tech | Asked at PayPal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-disaster-recovery-strategy-for-durable-agents-built-on-an-e-84532) |

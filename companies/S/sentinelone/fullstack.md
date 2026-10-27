@@ -2,6 +2,8 @@
 
 [← back to SentinelOne](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle a build-vs-buy decision where the vendor requires you to expose an inbound network path or embed their agent with broad privileges — does the trust/attack-surface cost ever exceed the feature value? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at SentinelOne | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-build-vs-buy-decision-where-the-vendor-requires-yo-41072) |

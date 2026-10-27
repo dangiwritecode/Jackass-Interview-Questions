@@ -2,6 +2,8 @@
 
 [← back to Ocado](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your ARIMA-based demand forecaster drifted after a supply chain shift — how do you decide between retraining, re-selecting orders, or switching to a global model? | deep understanding | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | Asked at Ocado | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-arima-based-demand-forecaster-drifted-after-a-supply-chain-shift--66371) |

@@ -2,6 +2,8 @@
 
 [← back to Anchore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A zero-day drops in a widely-used ML library (say a serialization lib). Using image SBOMs, how would you identify every affected running model container across your fleet within minutes? | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Anchore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-zero-day-drops-in-a-widely-used-ml-library-say-a-serialization-lib-u-63326) |

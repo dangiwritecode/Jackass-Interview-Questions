@@ -2,6 +2,8 @@
 
 [← back to RegScale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd implement Plan of Action and Milestones (POA&M) tracking that stays synchronized with your actual vulnerability-management and Jira workflows. | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at RegScale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-implement-plan-of-action-and-milestones-poa-and-m-t-56744) |

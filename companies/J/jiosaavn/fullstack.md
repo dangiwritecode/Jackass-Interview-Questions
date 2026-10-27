@@ -2,6 +2,8 @@
 
 [← back to JioSaavn](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a music-player playlist supporting shuffle, repeat-one, and repeat-all where switching modes mid-song behaves predictably; which pattern owns 'what plays next' and how do you unit-test shuffle fairness? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at JioSaavn | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-music-player-playlist-supporting-shuffle-repeat-one-and-repea-16486) |

@@ -2,6 +2,8 @@
 
 [← back to ImageKit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why is storing large BLOBs directly in MySQL often discouraged and what is the common alternative? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at ImageKit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-storing-large-blobs-directly-in-mysql-often-discouraged-and-wha-11852) |

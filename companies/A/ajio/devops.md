@@ -2,6 +2,8 @@
 
 [← back to Ajio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a flash-sale platform where load is 100x normal for exactly ten minutes, deciding what you pre-scale, what you queue, and what you shed while keeping the checkout path alive — and how do you prevent overselling under that contention without collapsing on lock waits? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Ajio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-flash-sale-platform-where-load-is-100x-norma-52119) |

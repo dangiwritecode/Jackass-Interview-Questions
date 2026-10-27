@@ -2,6 +2,8 @@
 
 [← back to Snapdeal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you combine a text filter (like "under 1000 rupees") with an image similarity search in a shopping app? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Multimodal AI | Phone Screen, Onsite | Tech | Asked at Snapdeal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-combine-a-text-filter-like-under-1000-rupees-with-an-ima-75767) |

@@ -2,6 +2,8 @@
 
 [← back to SonarSource](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A SonarQube quality gate blocks the pipeline on a legacy module nobody owns. How do you handle gating pragmatically without disabling quality checks? | intermediate experience | SDE-1/2, SDE-2/3 | Jenkins | Phone Screen, Onsite | Tech | Asked at SonarSource | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-sonarqube-quality-gate-blocks-the-pipeline-on-a-legacy-module-nobody-48301) |

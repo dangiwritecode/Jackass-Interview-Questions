@@ -2,6 +2,8 @@
 
 [← back to Customer.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide between a probabilistic filter and an exact index for 'have we emailed this address before'; how do you reason about the business cost of a false positive versus the memory of an exact set? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Customer.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-between-a-probabilistic-filter-and-an-exact-index-for--22015) |

@@ -2,6 +2,8 @@
 
 [← back to Camunda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Steelman the position that your org should NOT build an agent framework and should compose stateless LLM calls with a workflow engine instead; then present when you'd override that and adopt a real agent runtime. | expertise | SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | Asked at Camunda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=steelman-the-position-that-your-org-should-not-build-an-agent-framewor-68982) |

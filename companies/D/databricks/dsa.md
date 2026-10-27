@@ -2,6 +2,8 @@
 
 [← back to Databricks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Maximum Sum of a Non-Adjacent Subset | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Databricks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-sum-of-a-non-adjacent-subset-d198) |

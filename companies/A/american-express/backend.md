@@ -2,6 +2,8 @@
 
 [← back to American Express](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Define how you'd architect audit and compliance evidence (SOX/SOC2) generation from the data platform itself. How do lineage, access logs, and immutability combine to make audits a query rather than a fire drill? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at American Express | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=define-how-you-d-architect-audit-and-compliance-evidence-sox-soc2-gene-36569) |

@@ -2,6 +2,8 @@
 
 [← back to DuckDuckGo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a URL/web crawler that fetches billions of pages — how do you handle politeness, dedup of URLs, distributed frontier management, and re-crawl scheduling? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at DuckDuckGo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-url-web-crawler-that-fetches-billions-of-pages-how-do-you-han-20654) |

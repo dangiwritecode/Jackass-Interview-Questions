@@ -2,6 +2,8 @@
 
 [← back to Modal Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect cost governance for a system where the same GPU cluster serves both latency-sensitive inference and best-effort batch training, and you want to bill each fairly for the shared capacity it consumed? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Modal Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-cost-governance-for-a-system-where-the-same-gpu-c-41196) |

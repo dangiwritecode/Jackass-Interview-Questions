@@ -2,6 +2,8 @@
 
 [← back to DeepSeek](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between an LLM's 'reasoning' models and standard chat models? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at DeepSeek | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-an-llm-s-reasoning-models-and-standard--7173) |

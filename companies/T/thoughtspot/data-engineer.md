@@ -2,6 +2,8 @@
 
 [← back to ThoughtSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants to expose a Silver table directly to a BI dashboard to 'save a hop.' What's the trade-off and where do you draw the governance line? | deep understanding | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | Asked at ThoughtSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-to-expose-a-silver-table-directly-to-a-bi-dashboard-to-sa-126219) |

@@ -2,6 +2,8 @@
 
 [← back to Setu](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd build resilience into a system that integrates dozens of unreliable external partner APIs (banks, carriers, KYC vendors). Design an org-wide integration-gateway pattern with per-partner isolation, breakers, SLA enforcement, and a multi-day-partner-outage exit plan. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Setu | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-build-resilience-into-a-system-that-integrates-dozen-52897) |

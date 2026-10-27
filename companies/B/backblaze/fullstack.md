@@ -2,6 +2,8 @@
 
 [← back to Backblaze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the storage and dedupe for a Dropbox-like sync where identical file blocks across users are stored once. How does content-addressed chunking work and where does it break down? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Backblaze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-storage-and-dedupe-for-a-dropbox-like-sync-where-identical--16373) |

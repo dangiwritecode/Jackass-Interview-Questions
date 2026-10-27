@@ -2,6 +2,8 @@
 
 [← back to KNIME](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you reduce the training cost of a Random Forest that uses 2000 deep trees without meaningfully hurting accuracy? | intermediate experience | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at KNIME | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-reduce-the-training-cost-of-a-random-forest-that-uses-20-65914) |

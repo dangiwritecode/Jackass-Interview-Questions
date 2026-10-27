@@ -2,6 +2,8 @@
 
 [← back to Valohai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you structure a FastAPI service that pulls the latest production model from an MLflow model registry at startup and supports promoting a new version without a full redeploy? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Valohai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-structure-a-fastapi-service-that-pulls-the-latest-produc-62883) |

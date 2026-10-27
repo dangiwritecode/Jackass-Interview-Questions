@@ -2,6 +2,8 @@
 
 [← back to AppNexus-Xandr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect caching for a real-time bidding path backed by a low-latency DB where a decision that is milliseconds stale costs money, reconciling sub-millisecond reads with near-zero staleness tolerance? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at AppNexus-Xandr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-real-time-bidding-path-backed-by-111528) |

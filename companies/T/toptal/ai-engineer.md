@@ -2,6 +2,8 @@
 
 [← back to Toptal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you evaluate whether to adopt a cloud provider's proprietary managed foundation-model service versus keeping model access provider-neutral behind your own abstraction, weighing lock-in, price movement, and feature velocity over three years? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at IT-Services companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-whether-to-adopt-a-cloud-provider-s-proprietary-82753) |

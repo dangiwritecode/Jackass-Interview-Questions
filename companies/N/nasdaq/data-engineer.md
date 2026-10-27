@@ -2,6 +2,8 @@
 
 [← back to Nasdaq](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team needs to restore 500TB from Deep Archive by tomorrow for a regulator. Walk me through cost, throughput, and how you'd sequence it under the deadline. | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Nasdaq | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-needs-to-restore-500tb-from-deep-archive-by-tomorrow-for-a-regu-126779) |

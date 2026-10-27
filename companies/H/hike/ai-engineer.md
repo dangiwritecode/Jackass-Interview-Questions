@@ -2,6 +2,8 @@
 
 [← back to Hike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate safety and toxicity at scale in a way that respects locale and culture, so a globally-deployed model isn't judged by one region's norms? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Hike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-safety-and-toxicity-at-scale-in-a-way-that-respect-86855) |

@@ -2,6 +2,8 @@
 
 [← back to Snapchat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a photo-sharing service (Instagram-like) — how do you store and serve billions of images with thumbnails at multiple resolutions and a global CDN? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Snapchat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-photo-sharing-service-instagram-like-how-do-you-store-and-ser-20658) |

@@ -2,6 +2,8 @@
 
 [← back to PharmEasy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | If a hospital app records each patient visit live, but wants 'average visits per month', which parts are OLTP and OLAP? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at PharmEasy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-a-hospital-app-records-each-patient-visit-live-but-wants-average-vi-118853) |

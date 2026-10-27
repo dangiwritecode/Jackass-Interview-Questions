@@ -2,6 +2,8 @@
 
 [← back to MPL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the scaling and availability of a multiplayer game backend where state must be low-latency and regionally sharded, matchmaking is global, and a viral spike can 10x concurrent players in a day — and how do you keep matchmaking available when a region overflows? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at MPL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-scaling-and-availability-of-a-multiplayer-gam-52117) |

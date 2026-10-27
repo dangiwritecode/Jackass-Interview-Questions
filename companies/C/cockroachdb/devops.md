@@ -2,6 +2,8 @@
 
 [← back to CockroachDB](README.md)
 
+Questions 1–146 of 146.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A junior architect proposes replicating everything synchronously to a second region for zero RPO everywhere. What's your critique, and how do you redirect that instinct? | deep understanding | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | Asked at CockroachDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-junior-architect-proposes-replicating-everything-synchronously-to-a--56976) |

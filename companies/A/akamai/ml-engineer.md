@@ -2,6 +2,8 @@
 
 [← back to Akamai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design an experiment to measure the impact of a model latency reduction on user engagement when quality is held constant? | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at Akamai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-experiment-to-measure-the-impact-of-a-model-laten-67752) |

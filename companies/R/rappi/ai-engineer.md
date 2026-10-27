@@ -2,6 +2,8 @@
 
 [← back to Rappi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk through how you would design an A/B test to compare a TF-IDF baseline against a transformer classifier when your online conversion metric is noisy and low-volume. | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Rappi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-through-how-you-would-design-an-a-b-test-to-compare-a-tf-idf-base-79407) |

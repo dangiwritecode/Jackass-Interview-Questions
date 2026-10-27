@@ -2,6 +2,8 @@
 
 [← back to Zalando](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A skeptical engineering director says platform engineering is just rebranded DevOps. How do you define the platform-as-product operating model, prove it with adoption and satisfaction metrics, and avoid building a golden cage teams route around? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Zalando | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-skeptical-engineering-director-says-platform-engineering-is-just-reb-51957) |

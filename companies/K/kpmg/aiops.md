@@ -2,6 +2,8 @@
 
 [← back to KPMG](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you explain the value of ITOM to a non-technical stakeholder? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | Asked at KPMG | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-the-value-of-itom-to-a-non-technical-stakeholder-91589) |

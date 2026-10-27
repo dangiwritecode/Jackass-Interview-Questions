@@ -2,6 +2,8 @@
 
 [← back to Cribl](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect an anomaly-detection layer that catches novel agent failure modes (a tool called 10x more, new argument distribution, spiking loop lengths) from backend telemetry alone, and cleanly separates model-behavior drift from tool-side changes. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Cribl | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-an-anomaly-detection-layer-that-catches-novel-agent-failure--83077) |

@@ -2,6 +2,8 @@
 
 [← back to Checkout.com](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Threat-model a payment-tokenization / vault-boundary design where card data must be isolated from the rest of the app for PCI scope reduction. How do you architect the trust boundary so the main app never touches PAN yet UX stays seamless? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Checkout.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=threat-model-a-payment-tokenization-vault-boundary-design-where-card-d-41251) |

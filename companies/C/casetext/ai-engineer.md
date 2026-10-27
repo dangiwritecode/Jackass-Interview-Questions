@@ -2,6 +2,8 @@
 
 [← back to Casetext](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a retrieval layer for an agent that must cite sources with legal-grade reproducibility years later, despite ANN non-determinism, nightly reindexes, and model upgrades. What must you persist, and what's the honest cost of true reproducibility at scale? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Casetext | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-retrieval-layer-for-an-agent-that-must-cite-sources-with-lega-82456) |

@@ -2,6 +2,8 @@
 
 [← back to HyperVerge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must architect a KYC/onboarding orchestration flow that calls multiple external verification vendors with different SLAs and failure modes — how do you make the flow resilient to a vendor outage retry idempotently and let the user resume where they left off? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at HyperVerge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-a-kyc-onboarding-orchestration-flow-that-calls-mult-39504) |

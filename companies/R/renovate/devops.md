@@ -2,6 +2,8 @@
 
 [← back to Renovate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A security team wants every dependency update to block on a full scan plus manual review; product teams say it halves velocity. As the architect, design a risk-tiered automation that auto-merges low-risk patch bumps, gates major/transitive changes, and satisfies security intent without stalling routine updates. | deep understanding | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at Renovate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-security-team-wants-every-dependency-update-to-block-on-a-full-scan--52306) |

@@ -2,6 +2,8 @@
 
 [← back to Codeium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As principal how do you set the policy for AI-assisted coding tools (Copilot-style) touching a PCI/PHI codebase — what governance stops training-data exfiltration model-suggested insecure code or secrets leaking into a third-party model, and how do you evidence it? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Codeium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-principal-how-do-you-set-the-policy-for-ai-assisted-coding-tools-co-54051) |

@@ -2,6 +2,8 @@
 
 [← back to Barclays](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your multi-year strategy: three years in, half the org has adopted your governance platform and half runs legacy controls. How do you avoid a permanent two-speed compliance estate and what forcing function finally retires the old world? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Barclays | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-multi-year-strategy-three-years-in-half-the-54113) |

@@ -2,6 +2,8 @@
 
 [← back to Rippling](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A kubectl apply succeeds but the Deployment behaves as if a field was ignored. How would you confirm whether the field is unknown to the schema versus dropped by strategic-merge, given apply does not error on unknown YAML keys by default? | deep understanding | SDE-1/2, SDE-2/3 | YAML | Online Assessment (OA), Phone Screen | Tech | Asked at Rippling | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-kubectl-apply-succeeds-but-the-deployment-behaves-as-if-a-field-was--48929) |

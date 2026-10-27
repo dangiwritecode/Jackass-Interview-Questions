@@ -2,6 +2,8 @@
 
 [← back to CircleCI](README.md)
 
+Questions 1–145 of 145.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CI job's YAML uses a folded scalar for a multi-command script and lines got joined wrong, breaking the shell. Why did folding collapse the newlines and how would you fix it? | intermediate experience | SDE-1/2, SDE-2/3 | YAML | Online Assessment (OA), Phone Screen | Tech | Asked at CircleCI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-ci-job-s-yaml-uses-a-folded-scalar-for-a-multi-command-script-and-li-48980) |

@@ -2,6 +2,8 @@
 
 [← back to LiveRamp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Can Every Build Task Be Completed With Dependencies | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Breadth-First Search, Cycle Detection, Depth-First Search, Graph, In-degree / Kahn's Algorithm, Topological Sort | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at LiveRamp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-every-build-task-be-completed-with-dependencies-d207) |

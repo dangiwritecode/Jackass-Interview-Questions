@@ -2,6 +2,8 @@
 
 [← back to Segment](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A postmortem shows S3 event notifications were best-effort and silently dropped some events, causing missed downstream processing — how do you re-architect the ingestion so no upload is ever missed and you can prove completeness end to end? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Segment | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-postmortem-shows-s3-event-notifications-were-best-effort-and-silentl-52424) |

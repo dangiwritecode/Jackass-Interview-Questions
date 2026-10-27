@@ -2,6 +2,8 @@
 
 [← back to Outbrain](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to atomically reserve budget from a shared pool across many ad-serving nodes so you never overspend a campaign — design the Redis operation and the reconciliation. | expertise | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | Asked at Outbrain | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-atomically-reserve-budget-from-a-shared-pool-across-many-a-24690) |

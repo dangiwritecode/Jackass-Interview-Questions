@@ -2,6 +2,8 @@
 
 [← back to Sarvam AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An LLM feature fans out to model, retrieval, and re-ranking services with wildly different latency profiles. How do you set per-hop timeout budgets, semantic caching, and streaming so a slow model degrades gracefully instead of cascading? | deep understanding | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Sarvam AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-llm-feature-fans-out-to-model-retrieval-and-re-ranking-services-wit-51949) |

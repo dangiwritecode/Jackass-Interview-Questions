@@ -2,6 +2,8 @@
 
 [← back to Ampere](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your cluster runs mixed x86 and arm64 nodes and a team's image only exists for amd64, causing exec-format errors on arm nodes. How would you prevent mis-scheduling and manage multi-arch images cleanly? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Ampere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-cluster-runs-mixed-x86-and-arm64-nodes-and-a-team-s-image-only-ex-45967) |

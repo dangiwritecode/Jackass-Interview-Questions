@@ -2,6 +2,8 @@
 
 [← back to OVHcloud](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect data residency and sovereignty controls so telemetry from an EU region never leaves it even though the AIOps brain is global? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | Asked at OVHcloud | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-data-residency-and-sovereignty-controls-so-teleme-103780) |

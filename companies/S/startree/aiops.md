@@ -2,6 +2,8 @@
 
 [← back to StarTree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you govern the trade-off between real-time streaming analytics and cheaper batch analysis of telemetry across clouds so critical detection stays fast without runaway compute cost? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at StarTree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-the-trade-off-between-real-time-streaming-analyti-100881) |

@@ -2,6 +2,8 @@
 
 [← back to Bugcrowd](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're standing up a bug-bounty and coordinated-disclosure program — how does it integrate into your DevSecOps remediation flow so findings don't die in a triage queue? | deep understanding | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Bugcrowd | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standing-up-a-bug-bounty-and-coordinated-disclosure-program-how-55072) |

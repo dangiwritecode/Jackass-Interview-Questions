@@ -2,6 +2,8 @@
 
 [← back to Bolt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Facade over four downstream services returns partial data when one dependency times out, but callers can't tell which fields are stale. How do you evolve the Facade's contract to communicate partial success and per-source freshness without leaking every subsystem's shape? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Bolt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-facade-over-four-downstream-services-returns-partial-data-when-one-d-22439) |

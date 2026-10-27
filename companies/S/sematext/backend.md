@@ -2,6 +2,8 @@
 
 [← back to Sematext](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your metrics pipeline needs quantile queries per tag combination in real time; how would a t-digest or DDSketch structure work, and what merge property lets you aggregate across shards without recomputation? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Sematext | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-metrics-pipeline-needs-quantile-queries-per-tag-combination-in-re-21943) |

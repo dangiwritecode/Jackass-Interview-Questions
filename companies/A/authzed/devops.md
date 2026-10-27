@@ -2,6 +2,8 @@
 
 [← back to Authzed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a policy-decision-point for authorization at fleet scale (Zanzibar-style relationship-based access) so 500 services enforce consistent fine-grained authz without each embedding brittle if-checks, and what's the caching/consistency trade-off? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Authzed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-policy-decision-point-for-authorization-at-flee-51974) |

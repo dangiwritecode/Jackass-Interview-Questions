@@ -2,6 +2,8 @@
 
 [← back to Runpod](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your inference fleet could run cheaper on spot GPUs but a preemption mid-generation ruins user experience. Design the hybrid spot/on-demand GPU serving architecture and the cost-versus-UX policy that governs the mix. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Runpod | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-inference-fleet-could-run-cheaper-on-spot-gpus-but-a-preemption-m-41164) |

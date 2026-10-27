@@ -2,6 +2,8 @@
 
 [← back to ConfirmTkt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A train 150 m long crosses a bridge 350 m long in 25 seconds. Find its speed in km/h. | intermediate experience | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at ConfirmTkt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-train-150-m-long-crosses-a-bridge-350-m-long-in-25-seconds-find-its--15813) |

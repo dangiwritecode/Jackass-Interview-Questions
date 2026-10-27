@@ -2,6 +2,8 @@
 
 [← back to Otter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Segment a String Using a Token Dictionary | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Dynamic Programming, Hash Table, Memoization, Recursion, String, Trie | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Otter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=segment-a-string-using-a-token-dictionary-d139) |

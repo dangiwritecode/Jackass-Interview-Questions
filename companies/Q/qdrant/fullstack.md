@@ -2,6 +2,8 @@
 
 [← back to Qdrant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vector-search feature's tail latency spikes as the index grows. How do you profile ANN recall-vs-latency trade-offs (HNSW ef, IVF nprobe), and how do you set an org policy so teams don't silently trade recall for speed? | deep understanding | SDE-2/3, Architect/Principal | Performance Tuning & Profiling | Phone Screen, Onsite | Tech | Asked at Qdrant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vector-search-feature-s-tail-latency-spikes-as-the-index-grows-how-d-39846) |

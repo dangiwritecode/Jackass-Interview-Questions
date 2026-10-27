@@ -2,6 +2,8 @@
 
 [← back to Honeycomb.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A metrics agent for model monitoring must answer both 'sum of last N scores' and 'sum over last T seconds'; why does the time-window version need bucketing over a plain ring buffer and how do you bound bucket count? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Honeycomb.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-metrics-agent-for-model-monitoring-must-answer-both-sum-of-last-n-sc-62543) |

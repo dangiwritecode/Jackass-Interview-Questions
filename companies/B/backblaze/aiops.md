@@ -2,6 +2,8 @@
 
 [← back to Backblaze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect DR for the platform's long-term cold storage (S3/GCS/Blob) holding years of telemetry for compliance and trend analysis, where a full cross-region copy is prohibitive — replication vs versioning vs re-derivation, tiered by retention class? | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Backblaze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-for-the-platform-s-long-term-cold-storage-s3-g-99964) |

@@ -2,6 +2,8 @@
 
 [← back to Runpod](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: why not just autoscale Transformer inference like any stateless service? Explain what makes GPU-backed attention serving fundamentally different. | deep understanding | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Runpod | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-why-not-just-autoscale-transformer-inference-lik-70374) |

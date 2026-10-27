@@ -2,6 +2,8 @@
 
 [← back to Authzed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an entitlement service that answers 'can user U do action A on resource R' in under 10ms p99 at 200k QPS while keeping policy evaluation auditable and centrally managed? | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Authzed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-entitlement-service-that-answers-can-user-u-126658) |

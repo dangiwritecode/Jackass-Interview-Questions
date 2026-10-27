@@ -2,6 +2,8 @@
 
 [← back to Practo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are defining the org's stance on synthetic-data and PII handling in the cloud for training and eval. How would you architect the pipelines so sensitive data is minimized, tokenized, or synthesized before it ever touches a model or a shared store? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Practo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-defining-the-org-s-stance-on-synthetic-data-and-pii-handling-i-82788) |

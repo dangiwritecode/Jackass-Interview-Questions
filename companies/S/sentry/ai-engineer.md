@@ -2,6 +2,8 @@
 
 [← back to SENTRY](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe an incident where a bad cache breakpoint silently degraded output quality — how would your observability catch it? | expertise | SDE-2/3, Architect/Principal | Prompt Caching Strategy | Phone Screen, Onsite | Tech | Asked at SENTRY | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-an-incident-where-a-bad-cache-breakpoint-silently-degraded-ou-86538) |

@@ -2,6 +2,8 @@
 
 [← back to Jina AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect an inference platform that must serve embedding, reranker, and generative models with wildly different profiles on a shared fleet; how do you avoid one profile dictating the whole design? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at Jina AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-an-inference-platform-that-must-serve-embedding-reranker-and-71210) |

@@ -2,6 +2,8 @@
 
 [← back to AppsFlyer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design real-time attribution analytics for ad spend, where conversions can arrive days after the click and must retroactively update spend efficiency. | expertise | SDE-2/3, Architect/Principal | Real-time Analytics Architecture | Onsite | Tech | Asked at AppsFlyer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-real-time-attribution-analytics-for-ad-spend-127585) |

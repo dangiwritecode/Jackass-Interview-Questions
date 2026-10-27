@@ -2,6 +2,8 @@
 
 [← back to Cure.fit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Replacements to Equalize All Mirror-Pair Sums | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Difference Array, Hash Table, Line Sweep, Prefix Sum | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Cure.fit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-replacements-to-equalize-all-mirror-pair-sums-d1595) |

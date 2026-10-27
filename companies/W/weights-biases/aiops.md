@@ -2,6 +2,8 @@
 
 [← back to Weights & Biases](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd use a small held-out evaluation harness running continuously as a synthetic drift monitor and its limitations. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Weights & Biases | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-use-a-small-held-out-evaluation-harness-running-cont-97902) |

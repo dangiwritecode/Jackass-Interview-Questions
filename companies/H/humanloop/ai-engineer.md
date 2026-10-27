@@ -2,6 +2,8 @@
 
 [← back to HumanLoop](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff exists between a push-based prompt-deploy model (CI pushes prompts+config to serving) and a pull-based registry-driven model (serving reconciles its own desired prompt version). How do you scenario-test this across security surface, version-drift detection, and disaster recovery for a large assistant fleet? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at HumanLoop | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-exists-between-a-push-based-prompt-deploy-model-ci-pushes-p-83592) |

@@ -2,6 +2,8 @@
 
 [← back to Spot-by-NetApp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the guardrails around cost-optimization automation (rightsizing scaling down) so an AIOps action to save money doesn't inadvertently cause a reliability incident across clouds? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at Spot-by-NetApp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-guardrails-around-cost-optimization-automation-r-100911) |

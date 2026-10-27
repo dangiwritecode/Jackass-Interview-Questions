@@ -2,6 +2,8 @@
 
 [← back to Stytch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to governing tool-call authorization for agents so each tool invocation is checked against the invoking user's permissions, not the agent's service account? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Stytch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-tool-call-authorization-for-agents-s-86120) |

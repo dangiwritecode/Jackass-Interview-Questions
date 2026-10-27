@@ -2,6 +2,8 @@
 
 [← back to Hudson River Trading](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Given a stream of trades you must maintain a live order book with fast best-bid/best-ask and price-level aggregation; which combination of a tree map and intrusive lists would you use and where do naive approaches choke? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Hudson River Trading | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=given-a-stream-of-trades-you-must-maintain-a-live-order-book-with-fast-21936) |

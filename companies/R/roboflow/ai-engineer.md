@@ -2,6 +2,8 @@
 
 [← back to Roboflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A prompt-injection payload is embedded as text inside an image you pass to a vision model. Why is this harder to filter than text injection, and how would you defend a document-understanding pipeline against it? | expertise | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Roboflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-prompt-injection-payload-is-embedded-as-text-inside-an-image-you-pas-78033) |

@@ -2,6 +2,8 @@
 
 [← back to EventStore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: "your event-sourced services and your synchronous REST services both need the same 'current balance' — how do you avoid two sources of truth?" Walk through reconciliation, projection consistency, and which pattern you'd make authoritative. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at EventStore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-your-event-sourced-services-and-your-synchronous-res-40746) |

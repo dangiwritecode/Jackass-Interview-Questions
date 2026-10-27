@@ -2,6 +2,8 @@
 
 [← back to Fairwinds](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must design how the org handles Kubernetes deprecated-API detection and remediation continuously so an upgrade never surprises anyone. How would you wire scanning (Pluto/kubent), admission-time blocking of deprecated APIs, and an org policy that keeps the long tail of manifests current across dozens of teams? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Fairwinds | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-design-how-the-org-handles-kubernetes-deprecated-api-detectio-39059) |

@@ -2,6 +2,8 @@
 
 [← back to Teleport](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A new mandate: every production access must be just-in-time with no standing privileges, across SSH, DB, and admin consoles. Architect the JIT-elevation system (request, approve, time-box, auto-revoke, audit) and how you keep on-call engineers unblocked at 3am during an outage. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Teleport | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-new-mandate-every-production-access-must-be-just-in-time-with-no-sta-38855) |

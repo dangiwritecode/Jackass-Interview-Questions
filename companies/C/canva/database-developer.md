@@ -2,6 +2,8 @@
 
 [← back to Canva](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an org-wide standard for handling large-object data associated with database rows (documents, images, blobs) so the row stays small — where do S3 pointers, pre-signed access, and lifecycle tiering fit, and how do you keep the pointer and blob consistent under deletes? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Canva | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-org-wide-standard-for-handling-large-object-111930) |

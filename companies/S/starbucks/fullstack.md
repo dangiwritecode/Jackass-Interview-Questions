@@ -2,6 +2,8 @@
 
 [← back to Starbucks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the Decorator pattern? How does it differ from inheritance for adding behavior? | deep understanding | Fresher, SDE-1 | OOPS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Starbucks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-decorator-pattern-how-does-it-differ-from-inheritance-for--667) |

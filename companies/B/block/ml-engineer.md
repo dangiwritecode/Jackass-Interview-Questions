@@ -2,6 +2,8 @@
 
 [← back to Block](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between an in-process function tool and an MCP server tool, and where do the server's credentials live so they never enter the prompt? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Block | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-an-in-process-function-tool-and-an-mcp--63875) |

@@ -2,6 +2,8 @@
 
 [← back to Headspace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you run an experiment when you can only observe outcomes with a long delay (e.g., a 30-day retention model)? | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at Headspace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-run-an-experiment-when-you-can-only-observe-outcomes-wit-67725) |

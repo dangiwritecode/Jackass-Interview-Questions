@@ -2,6 +2,8 @@
 
 [← back to BigPanda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd architect resilience against alert fatigue as a failure mode: during a major incident 4000 alerts fire and on-call can't find root cause. Design fleet-level signal prioritization, dependency-aware inhibition, and correlated-alert suppression at the platform layer. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at BigPanda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-architect-resilience-against-alert-fatigue-as-a-fail-52892) |

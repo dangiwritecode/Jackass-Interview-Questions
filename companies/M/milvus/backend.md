@@ -2,6 +2,8 @@
 
 [← back to Milvus](README.md)
 
+Questions 1–107 of 107.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A batch reindex doubled your index memory temporarily and OOM-killed the node. How do you make reindexing memory-safe on a live service? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Milvus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-batch-reindex-doubled-your-index-memory-temporarily-and-oom-killed-t-24735) |

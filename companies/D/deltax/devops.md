@@ -2,6 +2,8 @@
 
 [← back to DeltaX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a reliability contract for a real-time bidding or high-frequency system where availability is meaningless but a p99.99 single-digit-millisecond latency SLO is the real constraint — and how do you budget the tail? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at AdTech companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-reliability-contract-for-a-real-time-bidding-or-54204) |

@@ -2,6 +2,8 @@
 
 [← back to ModelOp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle model governance and approval workflows so an XGBoost model can't reach production without documented evaluation and sign-off? | expertise | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at ModelOp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-model-governance-and-approval-workflows-so-an-xgboos-65967) |

@@ -2,6 +2,8 @@
 
 [← back to Fi Money](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A ledger stores debits and credits, and you must produce a statement with a running balance that resets each account. How do you partition and order the window, and why must you break ties deterministically to keep balances stable across reruns? | deep understanding | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Fi Money | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-ledger-stores-debits-and-credits-and-you-must-produce-a-statement-wi-22157) |

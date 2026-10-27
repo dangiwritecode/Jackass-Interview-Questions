@@ -2,6 +2,8 @@
 
 [← back to Lacework](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A security review flags that your S3 buckets are 'private' but accessible from any principal in the account. Explain the difference between bucket ACLs, bucket policies, and IAM policies, and how you'd enforce least-privilege so only the ingestion service reads a given bucket. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Lacework | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-security-review-flags-that-your-s3-buckets-are-private-but-accessibl-47840) |

@@ -2,6 +2,8 @@
 
 [← back to TigerGraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reason about the complexity of a graph traversal feature stored in a relational DB, where the theoretical O(V+E) is dominated by per-edge query round-trips, and when to switch to a graph DB or CTE? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at TigerGraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-a-graph-traversal-feature-st-22082) |

@@ -2,6 +2,8 @@
 
 [← back to Scylla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An org-wide incident: a single popular entity created a hot partition that browned out the online store for all models. Post-mortem it and propose systemic guards. | expertise | SDE-2/3, Architect/Principal | Feature Stores | Phone Screen, Onsite | Tech | Asked at Scylla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-org-wide-incident-a-single-popular-entity-created-a-hot-partition-t-70787) |

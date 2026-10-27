@@ -2,6 +2,8 @@
 
 [← back to Zoom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evolve schema when the app runs N versions in production simultaneously (long-tail mobile clients, slow-upgrading enterprise on-prem installs)? | expertise | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at Zoom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evolve-schema-when-the-app-runs-n-versions-in-production-si-114299) |

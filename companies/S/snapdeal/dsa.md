@@ -2,6 +2,8 @@
 
 [← back to Snapdeal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Longest Path Between Two Nodes in a Binary Tree | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Depth-First Search, Recursion, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Snapdeal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=longest-path-between-two-nodes-in-a-binary-tree-d541) |

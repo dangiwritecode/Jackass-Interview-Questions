@@ -2,6 +2,8 @@
 
 [← back to Gartner](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build and maintain a benchmark of what 'good' discount depth looks like across peers when vendor pricing is under NDA and deliberately opaque? | expertise | SDE-2/3, Architect/Principal | Vendor & Cloud Cost Negotiation | Hiring Manager | Tech | Asked at Gartner | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-and-maintain-a-benchmark-of-what-good-discount-depth--56652) |

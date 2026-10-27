@@ -2,6 +2,8 @@
 
 [← back to Cleric](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the AIOps platform's agentic incident-response workflow — an LLM agent that investigates and proposes fixes — while keeping guardrails on the actions it can take and the cost it can incur? | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at Cleric | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-aiops-platform-s-agentic-incident-response-wo-100475) |

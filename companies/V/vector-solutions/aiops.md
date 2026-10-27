@@ -2,6 +2,8 @@
 
 [← back to Vector Solutions](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect DR for the platform's rate-limiting and quota enforcement so that during a disaster, when telemetry volume spikes 10x from retries and error logs, the platform doesn't shed exactly the high-signal error telemetry you need? Design volume-aware, priority-preserving admission control. | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Vector Solutions | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-for-the-platform-s-rate-limiting-and-quota-enf-99993) |

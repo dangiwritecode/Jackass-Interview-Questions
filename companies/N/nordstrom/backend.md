@@ -2,6 +2,8 @@
 
 [← back to Nordstrom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the integration architecture for an omnichannel retailer where inventory truth must be consistent-enough across web, app, stores, and warehouses in near-real-time. Adjudicate the consistency-vs-availability trade-off per channel and justify where you accept overselling. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Nordstrom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-integration-architecture-for-an-omnichannel-retailer-where--36391) |

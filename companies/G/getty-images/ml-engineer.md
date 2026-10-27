@@ -2,6 +2,8 @@
 
 [← back to Getty Images](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern data used for fine-tuning and RAG, including copyright, PII, and licensing risk, at ingestion time rather than after models are trained? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Getty Images | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-data-used-for-fine-tuning-and-rag-including-copyrigh-71697) |

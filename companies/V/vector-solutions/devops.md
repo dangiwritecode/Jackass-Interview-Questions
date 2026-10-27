@@ -2,6 +2,8 @@
 
 [← back to Vector Solutions](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your log-parsing Python job that tails Kubernetes container logs falls behind during a traffic spike and OOMs. How would you rearchitect it for backpressure and bounded memory? | expertise | SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Vector Solutions | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-log-parsing-python-job-that-tails-kubernetes-container-logs-falls-45137) |

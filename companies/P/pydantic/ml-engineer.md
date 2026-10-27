@@ -2,6 +2,8 @@
 
 [← back to Pydantic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A downstream model depends on the LLM returning valid JSON but it occasionally returns an extra or wrong field. How do you make the integration robust and still fail loudly when the contract truly breaks? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Pydantic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-downstream-model-depends-on-the-llm-returning-valid-json-but-it-occa-64149) |

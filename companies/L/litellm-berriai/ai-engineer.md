@@ -2,6 +2,8 @@
 
 [← back to LiteLLM/BerriAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a multi-model router that trades quality against attention/serving cost per request, and prove to leadership the cascade never regresses the p99 worst-case answer? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at LiteLLM/BerriAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-multi-model-router-that-trades-quality-again-84245) |

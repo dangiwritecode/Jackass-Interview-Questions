@@ -2,6 +2,8 @@
 
 [← back to Datadog](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Fewest Pieces to Reach an Exact Target | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Dynamic Programming, Unbounded Knapsack | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Datadog | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=fewest-pieces-to-reach-an-exact-target-d322) |

@@ -2,6 +2,8 @@
 
 [← back to Groq](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What model-routing strategy do you use across the agent platform — when do you route to a small fast model vs a frontier model vs a fine-tuned local model for cost and latency trade-offs? | deep understanding | SDE-2/3, Architect/Principal | Agentic Orchestration Platform | Onsite, Hiring Manager | Tech | Asked at Groq | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-model-routing-strategy-do-you-use-across-the-agent-platform-when--102867) |

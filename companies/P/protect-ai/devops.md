@@ -2,6 +2,8 @@
 
 [← back to Protect AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect signing and provenance for AI/ML supply chains — model weights, datasets, fine-tuning lineage — given that models are opaque binaries with poisoning risks an SBOM barely captures? | expertise | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at Protect AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-signing-and-provenance-for-ai-ml-supply-chains-55462) |

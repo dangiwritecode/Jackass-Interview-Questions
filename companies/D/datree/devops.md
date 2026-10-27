@@ -2,6 +2,8 @@
 
 [← back to Datree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the config-validation pipeline (schema, policy, dry-run render, diff-preview) so a broken manifest can never reach reconciliation, and quantify where each gate catches what. | expertise | SDE-2/3, Architect/Principal | GitOps | Phone Screen, Onsite | Tech | Asked at Datree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-config-validation-pipeline-schema-policy-dry-run-render--54896) |

@@ -2,6 +2,8 @@
 
 [← back to Ola Electric](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're architecting an IoT-scale telemetry platform ingesting from 10M devices sending every few seconds — how do you design device-connection management (MQTT) ingestion downsampling and command-and-control back to devices under intermittent connectivity? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Ola Electric | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-architecting-an-iot-scale-telemetry-platform-ingesting-from-10m-39496) |

@@ -2,6 +2,8 @@
 
 [← back to Zepto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A follow-up on graceful degradation: design the exact fallback ladder (strong → bounded-stale → cached → static default → error) for a pricing service, and map each rung to what CAP property you're trading. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Zepto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-follow-up-on-graceful-degradation-design-the-exact-fallback-ladder-s-25708) |

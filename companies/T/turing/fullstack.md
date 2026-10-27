@@ -2,6 +2,8 @@
 
 [← back to Turing](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: after refactoring to <script setup> a child no longer updates when the parent passes a new prop reference. How do you debug the reactivity chain? | deep understanding | Fresher, SDE-1 | Vue.js | Phone Screen, Onsite | Tech | Asked at Turing | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-after-refactoring-to-script-setup-a-child-no-longe-10744) |

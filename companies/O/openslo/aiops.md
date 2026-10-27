@@ -2,6 +2,8 @@
 
 [← back to OpenSLO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd adopt OpenSLO or a similar spec so SLO definitions are portable across your observability and automation tooling. | deep understanding | SDE-2/3, Architect/Principal | SLO-driven Automation | Phone Screen, Onsite, Hiring Manager | Tech | Asked at OpenSLO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-adopt-openslo-or-a-similar-spec-so-slo-definitions-a-102478) |

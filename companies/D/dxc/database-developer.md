@@ -2,6 +2,8 @@
 
 [← back to DXC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between an Oracle instance and an Oracle database? | basic concept | Fresher, SDE-1, SDE-1/2 | Oracle Database | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at DXC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-an-oracle-instance-and-an-oracle-databa-106241) |

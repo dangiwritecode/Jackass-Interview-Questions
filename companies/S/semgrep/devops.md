@@ -2,6 +2,8 @@
 
 [← back to Semgrep](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set the org standard for handling a deeply-embedded dependency with a known CVE and no fix — architecturally isolate, vendor, or accept the risk? | deep understanding | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Semgrep | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-the-org-standard-for-handling-a-deeply-embedded-depende-55099) |

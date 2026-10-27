@@ -2,6 +2,8 @@
 
 [← back to Meilisearch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect isolation across a read-through cache, primary, and async search index so a user's own write is reflected coherently in all three within their session? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Meilisearch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-isolation-across-a-read-through-cache-primary-and-113716) |

@@ -2,6 +2,8 @@
 
 [← back to Palantir](README.md)
 
+Questions 1–115 of 115.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probe: you say your golden module makes resources compliant-by-construction, but a team can call the module then bolt on a non-compliant sibling resource in the same config. How do you make compliance a property of the whole config, not just the module's own resources? | expertise | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Palantir | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probe-you-say-your-golden-module-makes-resources-complian-53072) |

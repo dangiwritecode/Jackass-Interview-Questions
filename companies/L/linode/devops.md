@@ -2,6 +2,8 @@
 
 [← back to Linode](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a compute instance and what do you typically install on it after it launches? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Linode | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-compute-instance-and-what-do-you-typically-install-on-it-aft-42619) |

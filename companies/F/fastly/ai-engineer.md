@@ -2,6 +2,8 @@
 
 [← back to Fastly](README.md)
 
+Questions 1–74 of 74.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the org's approach to detecting and containing a correlated failure where a shared cloud dependency — a KMS key, a DNS zone, an auth service — takes down many AI services at once, given so many big outages are exactly this pattern? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Fastly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-org-s-approach-to-detecting-and-containing-82797) |

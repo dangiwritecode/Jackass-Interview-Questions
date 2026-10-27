@@ -2,6 +2,8 @@
 
 [← back to Okteto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the platform's ephemeral-environment strategy at org scale so that per-PR full-stack environments across hundreds of teams don't become the single largest line item on the cloud bill? What sharing and TTL mechanics do you mandate? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at Okteto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-platform-s-ephemeral-environment-strategy-at--54255) |

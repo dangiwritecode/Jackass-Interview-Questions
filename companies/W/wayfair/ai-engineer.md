@@ -2,6 +2,8 @@
 
 [← back to Wayfair](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff point pits a centralized AI platform team owning all prompts, models, and guardrails (consistency, governance) against giving each product team full autonomy (velocity, fit). How do you quantify both response measures so a leadership team decides on evidence rather than preference? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Wayfair | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-point-pits-a-centralized-ai-platform-team-owning-all-prompt-83542) |

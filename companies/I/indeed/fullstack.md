@@ -2,6 +2,8 @@
 
 [← back to Indeed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Product wants users to preview each other's HTML resumes in-app; design the rendering isolation (sandboxed iframe on a separate origin, CSP, sanitizer) so one user's resume can't steal another's session or CSRF them. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Indeed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=product-wants-users-to-preview-each-other-s-html-resumes-in-app-design-26398) |

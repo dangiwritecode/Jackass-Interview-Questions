@@ -2,6 +2,8 @@
 
 [← back to Exa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you let an agentic RAG system decide it needs a fresh web search vs its indexed corpus? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Advanced RAG (GraphRAG/Agentic RAG) | Phone Screen, Onsite | Tech | Asked at Exa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-let-an-agentic-rag-system-decide-it-needs-a-fresh-web-se-81860) |

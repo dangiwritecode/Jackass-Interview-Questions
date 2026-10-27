@@ -2,6 +2,8 @@
 
 [← back to Mad Street Den](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a time you changed the technical direction of an ML team you had no authority over. What levers did you actually pull, and how did you know it worked? | intermediate experience | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Mad Street Den | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-time-you-changed-the-technical-direction-of-an-ml-team-you--70174) |

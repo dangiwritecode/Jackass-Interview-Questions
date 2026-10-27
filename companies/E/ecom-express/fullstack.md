@@ -2,6 +2,8 @@
 
 [← back to Ecom Express](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an event-driven order-status system where a package moves through placed → picked → shipped → delivered across 3 services. How do you keep the status consistent and handle out-of-order events? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Ecom Express | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-event-driven-order-status-system-where-a-package-moves-throu-16405) |

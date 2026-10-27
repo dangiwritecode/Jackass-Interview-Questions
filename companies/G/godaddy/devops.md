@@ -2,6 +2,8 @@
 
 [← back to GoDaddy](README.md)
 
+Questions 1–69 of 69.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's approach to Terraform for a resource that must be created once and never re-provisioned even across a full DR rebuild (a globally-unique identifier, a domain registration, a KMS key with a long deletion window). How do you separate 'rebuildable' from 'irreplaceable' infra into different state tiers with different lifecycle guarantees? | deep understanding | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at GoDaddy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-approach-to-terraform-for-a-resource-that-must-be-cre-53101) |

@@ -2,6 +2,8 @@
 
 [← back to Condé Nast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the observability so a spike in field CLS can be traced to the exact ad slot, embed, or late-injected element and its owning team, at billions of impressions, without shipping a heavy client agent. | expertise | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | Asked at Condé Nast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-observability-so-a-spike-in-field-cls-can-be-traced-to-the--40265) |

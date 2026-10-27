@@ -2,6 +2,8 @@
 
 [← back to Reddit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Argue for keeping raw bronze data hot forever versus tiering it aggressively — what does the org lose or gain in each case at petabyte scale? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Reddit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-for-keeping-raw-bronze-data-hot-forever-versus-tiering-it-aggres-126789) |

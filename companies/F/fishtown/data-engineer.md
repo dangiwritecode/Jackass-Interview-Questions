@@ -2,6 +2,8 @@
 
 [← back to Fishtown](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | In dbt, how would you build an incremental model that uses a window function only over the newly loaded slice without recomputing historical running totals? | deep understanding | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Fishtown | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-dbt-how-would-you-build-an-incremental-model-that-uses-a-window-fun-123181) |

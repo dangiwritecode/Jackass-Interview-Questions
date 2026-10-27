@@ -2,6 +2,8 @@
 
 [← back to Goibibo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you model a seat-booking system (movies/flights) so two users can't book the same seat, and where does the constraint live in the ER design? | deep understanding | SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Goibibo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-seat-booking-system-movies-flights-so-two-users--109505) |

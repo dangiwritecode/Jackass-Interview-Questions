@@ -2,6 +2,8 @@
 
 [← back to LambdaTest](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the purpose of the Test stage in the DevOps lifecycle? | basic concept | Fresher, SDE-1/2, SDE-2/3 | SDLC & DevOps Lifecycle | Phone Screen, Hiring Manager | Tech | Asked at LambdaTest | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-purpose-of-the-test-stage-in-the-devops-lifecycle-44729) |

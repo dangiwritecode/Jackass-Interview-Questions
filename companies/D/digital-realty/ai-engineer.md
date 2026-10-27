@@ -2,6 +2,8 @@
 
 [← back to Digital Realty](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan power and cooling as a first-class limiter on your GPU strategy, and how does a datacenter power ceiling reshape which accelerators you can even deploy? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Digital Realty | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-power-and-cooling-as-a-first-class-limiter-on-your-gpu-85101) |

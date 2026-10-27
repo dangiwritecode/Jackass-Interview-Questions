@@ -2,6 +2,8 @@
 
 [← back to Anchore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A zero-day drops in a serialization library your log-parsing and detector containers both depend on. Using image SBOMs, how would you identify every affected running AIOps container across your fleet within minutes? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Anchore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-zero-day-drops-in-a-serialization-library-your-log-parsing-and-detec-92389) |

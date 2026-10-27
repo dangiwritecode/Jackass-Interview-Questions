@@ -2,6 +2,8 @@
 
 [← back to Huawei](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design encryption and key management for an edge/IoT healthcare deployment where devices sync ePHI intermittently to a central DB — how do you handle keys on constrained untrusted devices? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Hardware companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-encryption-and-key-management-for-an-edge-iot-healthcare-deploy-115294) |

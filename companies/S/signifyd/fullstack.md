@@ -2,6 +2,8 @@
 
 [← back to Signifyd](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a fraud/risk decisioning rules engine when you need to change rules hourly during an attack, and a vendor's change-deployment latency could cost you money in real time? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Signifyd | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-fraud-risk-decisioning-rules-engi-41069) |

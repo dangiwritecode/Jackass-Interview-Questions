@@ -2,6 +2,8 @@
 
 [← back to Apollo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a GraphQL federation gateway's injection-and-authorization architecture where a single federated field can reach a downstream resolver's raw query the caller never obviously targeted. How do you contain resolver-level trust across teams that own subgraphs independently? | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Apollo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-graphql-federation-gateway-s-injection-and-authorization-arch-32846) |

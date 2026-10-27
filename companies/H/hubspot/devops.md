@@ -2,6 +2,8 @@
 
 [← back to HubSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the boundary so a compromised feature owned by a low-code/no-code automation platform your customers use (Zapier-style) cannot become a fleet-wide credential-abuse vector? Who holds the credential and what bounds the blast radius? | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at HubSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-boundary-so-a-compromised-feature-owned-by-a--54020) |

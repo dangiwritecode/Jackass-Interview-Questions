@@ -2,6 +2,8 @@
 
 [← back to Loco](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're architecting live-streaming ingest-to-playback for user-generated live video (creators go live to thousands) — how do you design ingest transcode-ladder low-latency delivery (LL-HLS/WebRTC) and chat overlay so glass-to-glass latency stays low? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Loco | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-architecting-live-streaming-ingest-to-playback-for-user-generat-39490) |

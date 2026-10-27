@@ -2,6 +2,8 @@
 
 [← back to Contentful](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you keep a system prompt in a separate file so non-engineers can edit the wording without touching code? What are the risks? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Contentful | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-keep-a-system-prompt-in-a-separate-file-so-non-engineers-73546) |

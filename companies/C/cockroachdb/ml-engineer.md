@@ -2,6 +2,8 @@
 
 [← back to CockroachDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect for consistency between the ANN index and the metadata store, which must agree, without a distributed transaction on the hot path. What's your convergence model, and what's the user-visible window of inconsistency you accept? | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at CockroachDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-for-consistency-between-the-ann-index-and-the-metadata-store-68947) |

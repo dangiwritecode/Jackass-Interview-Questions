@@ -2,6 +2,8 @@
 
 [← back to Snowball](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the network egress and data-transfer cost of moving PBs across regions or from on-prem to cloud during migration — what tools and tactics keep the bill sane? | deep understanding | SDE-2/3, Architect/Principal | Lakehouse Migration Strategy | Onsite, Hiring Manager | Tech | Asked at Snowball | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-network-egress-and-data-transfer-cost-of-moving--126858) |

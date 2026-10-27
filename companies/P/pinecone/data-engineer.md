@@ -2,6 +2,8 @@
 
 [← back to Pinecone](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the enterprise strategy for embedding a vector store / retrieval layer as a shared data-platform capability across LLM-using product teams. Where does vector data live relative to the lakehouse, how do you keep embeddings fresh with source changes, and how do you avoid 12 teams running 12 vector DBs? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Pinecone | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-strategy-for-embedding-a-vector-store-retrieval--125644) |

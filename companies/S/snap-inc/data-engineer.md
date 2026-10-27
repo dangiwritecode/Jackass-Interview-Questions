@@ -2,6 +2,8 @@
 
 [← back to Snap Inc.](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | BigQuery auto-drops table partitions to long-term storage after 90 days of no edits. How do you exploit or work around that behavior in a partitioning + tiering design? | deep understanding | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Snap Inc. | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=bigquery-auto-drops-table-partitions-to-long-term-storage-after-90-day-126786) |

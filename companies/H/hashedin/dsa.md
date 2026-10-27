@@ -2,6 +2,8 @@
 
 [← back to HashedIn](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Largest Product of a Contiguous Block | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Kadane's Algorithm | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at HashedIn | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-product-of-a-contiguous-block-d152) |

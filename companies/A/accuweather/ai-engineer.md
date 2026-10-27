@@ -2,6 +2,8 @@
 
 [← back to AccuWeather](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An agent must ask the user a clarifying question before it can call a tool (missing city). How would you handle this in the loop? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at AccuWeather | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-agent-must-ask-the-user-a-clarifying-question-before-it-can-call-a--73632) |

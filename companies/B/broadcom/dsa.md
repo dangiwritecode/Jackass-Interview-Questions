@@ -2,6 +2,8 @@
 
 [← back to Broadcom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Median of Two Sorted Sequences in Logarithmic Time | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Divide and Conquer, Two Pointers | Phone Screen, DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at Broadcom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=median-of-two-sorted-sequences-in-logarithmic-time-d4) |

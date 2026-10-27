@@ -2,6 +2,8 @@
 
 [← back to Workato](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the governance framework that lets a platform expose the same capability through a low-code/no-code connector, a REST API, and an event stream without three divergent implementations. Where's the single source of truth, and how do you version a change that must land consistently across all three surfaces? | deep understanding | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Workato | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-governance-framework-that-lets-a-platform-expose-the-same-c-40863) |

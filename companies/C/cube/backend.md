@@ -2,6 +2,8 @@
 
 [← back to Cube](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You have to pick a metrics/semantic layer strategy for the org (dbt semantic layer vs a headless BI vs warehouse-native). What problem does it actually solve and what governance nightmare does it prevent or create? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cube | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-to-pick-a-metrics-semantic-layer-strategy-for-the-org-dbt-sem-36534) |

@@ -2,6 +2,8 @@
 
 [← back to Nielsen](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the interaction between a GenAI platform and a legacy data-warehouse of record so the AI never contradicts the authoritative numbers? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Analytics companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-interaction-between-a-genai-platform-and-a-legac-86792) |

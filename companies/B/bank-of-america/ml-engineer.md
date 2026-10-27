@@ -2,6 +2,8 @@
 
 [← back to Bank of America](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you quantify and aggregate model risk exposure across a portfolio of thousands of production models to give leadership a single risk posture view? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Bank of America | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-quantify-and-aggregate-model-risk-exposure-across-a-portfol-71771) |

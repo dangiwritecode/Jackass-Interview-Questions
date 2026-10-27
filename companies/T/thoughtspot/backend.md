@@ -2,6 +2,8 @@
 
 [← back to ThoughtSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the medallion (bronze/silver/gold) architecture's real limitations at org scale. When does the layering become a liability rather than clarity, and what do you use instead? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Analytics companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-medallion-bronze-silver-gold-architecture-s-real-limitatio-36510) |

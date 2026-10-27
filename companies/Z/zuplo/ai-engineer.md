@@ -2,6 +2,8 @@
 
 [← back to Zuplo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is rate limiting and how would you cap how many LLM requests a single user can make per minute? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zuplo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-rate-limiting-and-how-would-you-cap-how-many-llm-requests-a-si-76550) |

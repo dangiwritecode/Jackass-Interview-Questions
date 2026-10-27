@@ -2,6 +2,8 @@
 
 [← back to StreamNative](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect DR for the streaming ingestion tier (Kafka/Kinesis/Pulsar) that fans telemetry into your platform, so that consumer offsets and in-flight events don't produce gaps or duplicate anomalies past your RPO on failover? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at StreamNative | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-dr-for-the-streaming-ingestion-tier-kafka-kinesis-99938) |

@@ -2,6 +2,8 @@
 
 [← back to Proton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the tension between wanting rich audit logs and the fact that those logs may themselves contain the sensitive prompts and outputs you're liable for? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Proton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-tension-between-wanting-rich-audit-logs-and-the--86042) |

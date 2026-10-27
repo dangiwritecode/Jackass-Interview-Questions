@@ -2,6 +2,8 @@
 
 [← back to DuckDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you evaluate whether to adopt an embedded analytics database like DuckDB for local processing versus a centralized warehouse? | deep understanding | SDE-2/3, Architect/Principal | Database Vendor & Tooling Strategy | Onsite, Hiring Manager | Tech | Asked at DuckDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-whether-to-adopt-an-embedded-analytics-database-115432) |

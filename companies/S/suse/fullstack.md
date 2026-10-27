@@ -2,6 +2,8 @@
 
 [← back to SUSE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must run Kubernetes at the edge (thousands of retail/IoT sites) with K3s/KubeEdge and intermittent connectivity. How would you architect fleet management, GitOps to disconnected clusters, and local autonomy when the control plane is unreachable for hours, and where does the standard reconcile model break? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at SUSE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-run-kubernetes-at-the-edge-thousands-of-retail-iot-sites-with-39033) |

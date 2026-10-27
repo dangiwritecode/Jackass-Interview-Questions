@@ -2,6 +2,8 @@
 
 [← back to Credit Suisse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you treat AI governance (model approval, prompt audit trail, red-team records, EU AI Act conformity) as a first-class quality attribute in the utility tree for a regulated lending copilot, and where does it most often become a tradeoff point against iteration speed? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Credit Suisse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-treat-ai-governance-model-approval-prompt-audit-trail-red-t-83559) |

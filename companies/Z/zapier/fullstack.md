@@ -2,6 +2,8 @@
 
 [← back to Zapier](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a WebAssembly-based plugin/extension architecture where third-party developers run untrusted code inside your product — how do you sandbox resource-limit and give plugins a capability-scoped API without letting one crash or exfiltrate host data? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Zapier | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-webassembly-based-plugin-extension-architecture-where-third-p-39430) |

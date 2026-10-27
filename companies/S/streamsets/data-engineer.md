@@ -2,6 +2,8 @@
 
 [← back to StreamSets](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would detect and remediate duplicate records introduced by an at-least-once Kafka consumer feeding the lake. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | Asked at StreamSets | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-detect-and-remediate-duplicate-records-introduce-122425) |

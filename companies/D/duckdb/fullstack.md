@@ -2,6 +2,8 @@
 
 [← back to DuckDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the security architecture for an in-browser SQL sandbox feature (users run SQL against their own data in the browser via WASM SQLite)? Where does the injection threat model change when the DB is client-side, and what server-side data can still leak? | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at DuckDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-security-architecture-for-an-in-browser-sql-s-39005) |

@@ -2,6 +2,8 @@
 
 [← back to Index Exchange](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the real-time bidding (RTB) path for an ad exchange that must respond to bid requests in under 80ms at millions of QPS — how do you keep the candidate lookup and scoring hot and handle timeouts gracefully? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Index Exchange | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-real-time-bidding-rtb-path-for-an-ad-exchange-that-must-res-28377) |

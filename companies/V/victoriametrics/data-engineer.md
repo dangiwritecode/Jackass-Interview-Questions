@@ -2,6 +2,8 @@
 
 [← back to VictoriaMetrics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you monitor a self-serve data platform where dozens of teams write their own pipelines, so a bad tenant's runaway job (or runaway metric emission) doesn't degrade shared Prometheus for everyone? What per-tenant limits do you enforce? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at VictoriaMetrics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-a-self-serve-data-platform-where-dozens-of-teams-120950) |

@@ -2,6 +2,8 @@
 
 [← back to Tata Elxsi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reconcile the AI roadmap with an org that has multiple P&Ls, each wanting AI investment prioritized for their own outcomes? | deep understanding | SDE-2/3, Architect/Principal | AI Strategy & Roadmap | Onsite, Hiring Manager | Tech | Asked at Engineering-Services companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reconcile-the-ai-roadmap-with-an-org-that-has-multiple-p-an-71659) |

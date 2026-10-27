@@ -2,6 +2,8 @@
 
 [← back to dbt Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal round asks how you'd design a 'specification pattern' style query model so complex business predicates (eligible customers) are composable, reusable across in-memory checks and DB queries, and testable in isolation; where does the translation to SQL live and what's the leak risk? | deep understanding | SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at dbt Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-round-asks-how-you-d-design-a-specification-pattern-style--38325) |

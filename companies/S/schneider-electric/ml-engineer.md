@@ -2,6 +2,8 @@
 
 [← back to Schneider Electric](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you factor carbon/energy efficiency into accelerator selection and scheduling as an org, balancing sustainability commitments against pure cost and performance? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Schneider Electric | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-factor-carbon-energy-efficiency-into-accelerator-selection--71133) |

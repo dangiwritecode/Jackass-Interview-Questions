@@ -2,6 +2,8 @@
 
 [← back to Cigna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare application-layer encryption versus database-native TDE for a HIPAA ePHI store — what threat model does each defeat and where does TDE give you a false sense of security? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cigna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-application-layer-encryption-versus-database-native-tde-for-a--115246) |

@@ -2,6 +2,8 @@
 
 [← back to Retool](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A client-side data grid keeps a full in-memory index for instant filtering; how do you reason about the browser memory (space) budget and when to push filtering server-side instead? | intermediate experience | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Retool | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-client-side-data-grid-keeps-a-full-in-memory-index-for-instant-filte-16163) |

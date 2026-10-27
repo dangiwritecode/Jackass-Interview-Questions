@@ -2,6 +2,8 @@
 
 [← back to GoodData](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you align a data-platform strategy with a go-to-market shift from selling analytics dashboards to selling data-sharing and embedded analytics to customers? What bets — secure data sharing, per-tenant isolation, usage metering — does that pivot force, and how do you sequence them? | expertise | SDE-2/3, Architect/Principal | Technical Strategy & Roadmapping | Onsite, Hiring Manager | Tech | Asked at GoodData | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-align-a-data-platform-strategy-with-a-go-to-market-shift-fr-125560) |

@@ -2,6 +2,8 @@
 
 [← back to AI21 Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you architect the platform so that scaling the number of shared base models (each with hundreds of fine-tuned derivatives) doesn't create a dependency explosion? What versioning and re-validation-wave machinery keeps a base-model update from cascading unpredictably? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at AI21 Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-architect-the-platform-so-that-scaling-the-n-100690) |

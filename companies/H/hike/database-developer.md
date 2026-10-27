@@ -2,6 +2,8 @@
 
 [← back to Hike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through selecting the datastore for a chat/messaging system with billions of messages, read-your-writes needs, and unbounded history. Which subsystems diverge in their database choice? | expertise | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Hike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-selecting-the-datastore-for-a-chat-messaging-system-wi-114419) |

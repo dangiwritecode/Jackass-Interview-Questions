@@ -2,6 +2,8 @@
 
 [← back to AMD](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the compliance implications of adopting confidential computing / TEEs to reduce your PHI attack surface when the control catalog has no explicit mapping? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at AMD | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-compliance-implications-of-adopting-confidential-56797) |

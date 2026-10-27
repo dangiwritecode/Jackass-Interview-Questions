@@ -2,6 +2,8 @@
 
 [← back to Census](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build a unit-economics model that ties infrastructure cost to a business KPI (cost per active user, per API call, per GB stored) so product managers can reason about margin? What breaks when you try to make that number trustworthy? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Census | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-unit-economics-model-that-ties-infrastructure-cost--37023) |

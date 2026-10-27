@@ -2,6 +2,8 @@
 
 [← back to Spot-NetApp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's approach to Terraform for spot/preemptible-heavy compute where the fleet composition churns constantly and Terraform must own the ASG/mixed-instances-policy shape but not the live instance set. How do you draw the ownership line so a spot reclamation event doesn't show up as drift that on-call chases? | deep understanding | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Spot-NetApp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-approach-to-terraform-for-spot-preemptible-heavy-comp-53083) |

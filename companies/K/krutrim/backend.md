@@ -2,6 +2,8 @@
 
 [← back to Krutrim](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An extraction prompt performs well on English but silently degrades on Hindi and code-mixed input. How do you diagnose whether it's tokenization, examples, or model capability, and how do you fix per-language quality? | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Krutrim | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-extraction-prompt-performs-well-on-english-but-silently-degrades-on-27571) |

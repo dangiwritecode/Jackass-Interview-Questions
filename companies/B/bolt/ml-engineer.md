@@ -2,6 +2,8 @@
 
 [← back to Bolt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When would you prefer quantile regression with XGBoost over point prediction, and how does that change your serving and monitoring? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Bolt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-prefer-quantile-regression-with-xgboost-over-point-pred-65913) |

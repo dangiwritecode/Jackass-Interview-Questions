@@ -2,6 +2,8 @@
 
 [← back to Texas Instruments](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Enumerate All Balanced Bracket Sequences | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Combinatorics, Dynamic Programming, Recursion, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Texas Instruments | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=enumerate-all-balanced-bracket-sequences-d22) |

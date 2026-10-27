@@ -2,6 +2,8 @@
 
 [← back to Gable](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to defining and enforcing data contracts between the producing store and every downstream consumer store to prevent breaking changes? | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | Asked at Gable | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-defining-and-enforcing-data-contracts-between--114624) |

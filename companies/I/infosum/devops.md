@@ -2,6 +2,8 @@
 
 [← back to InfoSum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must architect governance for cross-account and cross-org resource sharing (AWS RAM shared VPCs marketplace data products) — how do you keep a shared resource from silently pulling a partner org's data into your compliance scope or vice versa? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at InfoSum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-governance-for-cross-account-and-cross-org-resource-54083) |

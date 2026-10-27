@@ -2,6 +2,8 @@
 
 [← back to Feature-store-Tecton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you'd design a training pipeline for a daily-retrained XGBoost fraud model that ingests 200M rows and must finish inside a 90-minute SLA. | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Feature-store-Tecton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-design-a-training-pipeline-for-a-daily-retra-65871) |

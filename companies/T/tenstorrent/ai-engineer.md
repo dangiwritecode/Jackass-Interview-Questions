@@ -2,6 +2,8 @@
 
 [← back to Tenstorrent](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vendor pitches a new accelerator claiming 2x perf-per-dollar but an immature compiler stack. How do you structure a de-risked pilot and set the bar that gates org-wide adoption? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Tenstorrent | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-pitches-a-new-accelerator-claiming-2x-perf-per-dollar-but-an--85047) |

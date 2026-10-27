@@ -2,6 +2,8 @@
 
 [← back to Aviatrix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the network exposure of Vault so the API is reachable by Agent Injectors and ESO across clusters but never from the public internet or low-trust segments? Discuss private endpoints, mTLS, and zero-trust segmentation. | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Aviatrix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-network-exposure-of-vault-so-the-api-is-reach-54974) |

@@ -2,6 +2,8 @@
 
 [← back to LogRocket](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a client-side error-tracking and session-replay setup that helps you debug prod frontend issues. What do you capture, how do you avoid leaking PII, and how do you limit payload size? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at LogRocket | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-client-side-error-tracking-and-session-replay-setup-that-help-16384) |

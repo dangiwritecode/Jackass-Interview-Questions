@@ -4,7 +4,7 @@
 
 | Company | Tier | Questions Listed | Tagged Directly |
 |---|---|---:|---:|
-| [IBM](ibm/README.md) | Tier 3 | 1,048 | 2,199 |
+| [IBM](ibm/README.md) | Tier 3 | 2,255 | 2,199 |
 | [Icertis](icertis/README.md) | Tier 3 | 540 | 1 |
 | [ICICI Direct](icici-direct/README.md) | Tier 3 | 540 | 3 |
 | [ICICI-Bank](icici-bank/README.md) | Tier 3 | 572 | 295 |
@@ -22,7 +22,7 @@
 | [iMerit](imerit/README.md) | Tier 4 | 540 | 10 |
 | [Imgix](imgix/README.md) | Tier 3 | 540 | 15 |
 | [ImmuDB](immudb/README.md) | Tier 4 | 540 | 6 |
-| [Immuta](immuta/README.md) | Tier 3 | 630 | 287 |
+| [Immuta](immuta/README.md) | Tier 3 | 655 | 287 |
 | [Imperva](imperva/README.md) | Tier 3 | 540 | 38 |
 | [Imply](imply/README.md) | Tier 5 | 540 | 10 |
 | [incident.io](incident-io/README.md) | Tier 3 | 587 | 141 |
@@ -39,7 +39,7 @@
 | [Infor](infor/README.md) | Tier 3 | 540 | 1 |
 | [Informatica](informatica/README.md) | Tier 2 | 580 | 148 |
 | [InfoSum](infosum/README.md) | Tier 4 | 540 | 7 |
-| [Infosys](infosys/README.md) | Tier 5 | 1,283 | 24,938 |
+| [Infosys](infosys/README.md) | Tier 5 | 27,656 | 24,938 |
 | [Infracost](infracost/README.md) | Tier 3 | 540 | 13 |
 | [ING](ing/README.md) | Tier 2 | 540 | 27 |
 | [Ink & Switch](ink-switch/README.md) | Tier 4 | 540 | 1 |
@@ -51,16 +51,16 @@
 | [Inshorts](inshorts/README.md) | Tier 4 | 540 | 3 |
 | [Insightly](insightly/README.md) | Tier 4 | 540 | 1 |
 | [Instabase](instabase/README.md) | Tier 3 | 540 | 6 |
-| [Instacart](instacart/README.md) | Tier 2 | 648 | 413 |
+| [Instacart](instacart/README.md) | Tier 2 | 670 | 413 |
 | [Instaclustr](instaclustr/README.md) | Tier 3 | 540 | 12 |
 | [Instahyre](instahyre/README.md) | Tier 4 | 540 | 4 |
 | [Instamart](instamart/README.md) | Tier 3 | 540 | 1 |
 | [Instamojo](instamojo/README.md) | Tier 4 | 540 | 3 |
 | [InsuranceCo-Lemonade](insuranceco-lemonade/README.md) | Tier 3 | 540 | 1 |
-| [Intel](intel/README.md) | Tier 2 | 810 | 516 |
+| [Intel](intel/README.md) | Tier 2 | 939 | 516 |
 | [Interactive Brokers](interactive-brokers/README.md) | Tier 2 | 540 | 6 |
-| [Intercom](intercom/README.md) | Tier 3 | 635 | 344 |
-| [Intuit](intuit/README.md) | Tier 2 | 779 | 706 |
+| [Intercom](intercom/README.md) | Tier 3 | 682 | 344 |
+| [Intuit](intuit/README.md) | Tier 2 | 841 | 706 |
 | [Invicti](invicti/README.md) | Tier 3 | 540 | 1 |
 | [InVideo](invideo/README.md) | Tier 4 | 540 | 7 |
 | [Invisible](invisible/README.md) | Tier 4 | 540 | 3 |

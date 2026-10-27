@@ -2,6 +2,8 @@
 
 [← back to BrowserStack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A design review flags that your prompt template is assembled with string concatenation of untrusted user fields. What concrete refactor would you propose and why does it matter beyond injection? | intermediate experience | SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at BrowserStack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-design-review-flags-that-your-prompt-template-is-assembled-with-stri-20114) |

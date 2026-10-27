@@ -2,6 +2,8 @@
 
 [← back to ArchUnit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how ATAM interacts with a formal fitness-function / architecture-as-code practice. Once you've identified sensitivity points, how do you encode a subset as automated fitness functions so the architecture stays evaluated between ATAMs? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at ArchUnit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-atam-interacts-with-a-formal-fitness-function-architecture-40587) |

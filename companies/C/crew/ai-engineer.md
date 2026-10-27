@@ -2,6 +2,8 @@
 
 [← back to Crew](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a multi-agent system on AWS where a planner agent orchestrates specialist agents — where do the shared memory the message bus and cost/step ceilings live and how do you keep agents from deadlocking or fanning out uncontrollably? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Crew | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-multi-agent-system-on-aws-where-a-planner-ag-82676) |

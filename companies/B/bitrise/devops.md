@@ -2,6 +2,8 @@
 
 [← back to Bitrise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design DevEx for mobile app teams whose build test and release constraints differ from backend services? | deep understanding | SDE-2/3, Architect/Principal | Developer Experience (DevEx) Strategy | Onsite, Hiring Manager | Tech | Asked at Bitrise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-devex-for-mobile-app-teams-whose-build-test-and-rele-56396) |

@@ -2,6 +2,8 @@
 
 [← back to Binance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator's enforcement action against a competitor just made a previously 'recommended' practice effectively mandatory — as principal how do you architect a horizon-scanning process that turns regulatory signals into prioritized platform work before it becomes an audit finding? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Binance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-s-enforcement-action-against-a-competitor-just-made-a-prev-54037) |

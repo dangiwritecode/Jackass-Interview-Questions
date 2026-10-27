@@ -2,6 +2,8 @@
 
 [← back to Practo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect Backstage to represent and enforce compliance controls (PCI, HIPAA, SOX) as catalog metadata that gates deployments? | expertise | SDE-2/3, Architect/Principal | Internal Developer Platform (Backstage) | Onsite, Hiring Manager | Tech | Asked at Practo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-backstage-to-represent-and-enforce-compliance--55586) |

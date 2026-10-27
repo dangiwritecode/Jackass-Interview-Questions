@@ -2,6 +2,8 @@
 
 [← back to AttackIQ](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you validate that your Zero Trust controls actually work, continuously? Describe purple-teaming, attack simulation, and control assurance you'd embed rather than relying on annual audits. | expertise | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | Asked at AttackIQ | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-your-zero-trust-controls-actually-work-contin-56878) |

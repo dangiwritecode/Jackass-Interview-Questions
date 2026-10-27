@@ -2,6 +2,8 @@
 
 [← back to Dremio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A skeptical VP asks 'why are we paying Snowflake $3M/yr when we have data engineers who could run Trino on Iceberg?' — defend either side rigorously; what data, workload shapes, and framing do you bring to the room? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Dremio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-skeptical-vp-asks-why-are-we-paying-snowflake-3m-yr-when-we-have-dat-112954) |

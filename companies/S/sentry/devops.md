@@ -2,6 +2,8 @@
 
 [← back to SENTRY](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CI pipeline builds an image, pushes it, then commits the new digest back to the GitOps repo, but the push failed after the image was published, leaving Git and the registry inconsistent. How would you make the build-then-commit step atomic or self-healing? | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at SENTRY | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-ci-pipeline-builds-an-image-pushes-it-then-commits-the-new-digest-ba-45646) |

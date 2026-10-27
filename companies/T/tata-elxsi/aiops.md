@@ -2,6 +2,8 @@
 
 [← back to Tata Elxsi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast a hub-and-spoke observability architecture (central data lake all telemetry flows into) with a decentralized observability mesh for a conglomerate with 15 regional units. Under what org and failure-domain conditions does hub-and-spoke actually win despite the central bottleneck critique? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Engineering-Services companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-a-hub-and-spoke-observability-architecture-central-data-lake--99731) |

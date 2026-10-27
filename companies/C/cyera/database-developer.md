@@ -2,6 +2,8 @@
 
 [← back to Cyera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd detect and prevent 'silent decryption' — an app or job that legitimately holds a DEK but exfiltrates decrypted PII in bulk. What telemetry catches it? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cyera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-detect-and-prevent-silent-decryption-an-app-or-job-t-115310) |

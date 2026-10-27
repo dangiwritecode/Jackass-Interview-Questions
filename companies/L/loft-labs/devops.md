@@ -2,6 +2,8 @@
 
 [← back to Loft-Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff point sits between namespace-based soft multi-tenancy (cheap, dense) and cluster-per-tenant hard isolation (blast-radius containment, noisy-neighbor immunity). How do you scenario-test both against a container-escape security scenario and a resource-contention scenario? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Loft-Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-point-sits-between-namespace-based-soft-multi-tenancy-cheap-53252) |

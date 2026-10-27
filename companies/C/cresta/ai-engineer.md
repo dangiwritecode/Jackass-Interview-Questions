@@ -2,6 +2,8 @@
 
 [← back to Cresta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a progressive-autonomy architecture: an agent starts suggest-only, graduates to auto-execute-with-undo, then full autonomy, gated by measured trust. What signals promote or demote autonomy automatically, and what stops gaming of those signals? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Cresta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-progressive-autonomy-architecture-an-agent-starts-suggest-onl-83085) |

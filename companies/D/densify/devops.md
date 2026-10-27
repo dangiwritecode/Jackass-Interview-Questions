@@ -2,6 +2,8 @@
 
 [← back to Densify](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you apply the Cost Optimization pillar to Kubernetes right-sizing, bin-packing, and autoscaling across a fleet without harming tail latency? | deep understanding | SDE-2/3, Architect/Principal | Well-Architected Framework | Phone Screen, Onsite | Tech | Asked at Densify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-apply-the-cost-optimization-pillar-to-kubernetes-right-sizi-56176) |

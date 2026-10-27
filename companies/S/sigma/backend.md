@@ -2,6 +2,8 @@
 
 [← back to Sigma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A single tenant's abusive query pattern is silently costing you 8% of your data-warehouse bill. Architect the per-tenant cost-guardrail, throttling, and workload-isolation strategy so one customer can't blow up your COGS. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Sigma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-single-tenant-s-abusive-query-pattern-is-silently-costing-you-8-of-y-37066) |

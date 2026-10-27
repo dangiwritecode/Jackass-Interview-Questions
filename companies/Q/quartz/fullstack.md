@@ -2,6 +2,8 @@
 
 [← back to Quartz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reason about the complexity of a job scheduler that scans all pending jobs each tick (O(n) per tick), and when do you move to a priority queue or timing wheel? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Quartz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-a-job-scheduler-that-scans-a-16175) |

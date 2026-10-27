@@ -2,6 +2,8 @@
 
 [← back to Gorgias](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A feature needs the model to answer only from provided context and say 'not found' otherwise, but it keeps volunteering training knowledge. How do you debug and enforce this at the prompt and validation layers? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Gorgias | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-feature-needs-the-model-to-answer-only-from-provided-context-and-say-77924) |

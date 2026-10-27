@@ -2,6 +2,8 @@
 
 [← back to Discourse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your Q&A reputation computation is recalculated on every page load and is now the slowest query; how do you redesign so reputation is maintained incrementally and stays consistent after a vote is retracted? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Discourse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-q-and-a-reputation-computation-is-recalculated-on-every-page-load-16470) |

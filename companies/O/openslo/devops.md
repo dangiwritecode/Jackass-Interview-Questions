@@ -2,6 +2,8 @@
 
 [← back to OpenSLO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want every team's service to declare a machine-readable 'resilience contract' (SLO, degradation ladder, max dependencies, failure modes) that the platform validates at deploy time. Design that contract and the enforcement mechanism, and defend it against teams who call it bureaucracy. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at OpenSLO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-every-team-s-service-to-declare-a-machine-readable-resilience-52837) |

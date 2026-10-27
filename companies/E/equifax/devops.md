@@ -2,6 +2,8 @@
 
 [← back to Equifax](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your consent and purpose model works for structured writes, but analytics teams derive new inferred attributes (predicted income health signals) that the user never provided. How do you govern lawful basis and sensitivity of INFERRED personal data? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Equifax | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-consent-and-purpose-model-works-for-structu-54105) |

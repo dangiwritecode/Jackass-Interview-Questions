@@ -2,6 +2,8 @@
 
 [← back to UiPath](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A scenario tests whether an agent can safely roll back a partially completed multi-step workflow (it already sent an email and created a ticket) when a later step fails. Walk me through the compensation/saga sensitivity points and where rollback becomes a correctness-vs-latency tradeoff. | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at UiPath | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-tests-whether-an-agent-can-safely-roll-back-a-partially-com-83550) |

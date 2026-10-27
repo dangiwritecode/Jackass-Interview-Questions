@@ -2,6 +2,8 @@
 
 [← back to Factory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you build organizational consensus and a decision framework when research, product, safety, and infra disagree on the next post-training investment? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at AI companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-build-organizational-consensus-and-a-decisio-71367) |

@@ -2,6 +2,8 @@
 
 [← back to Snow-Software](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build a self-service disposition tool that ingests CMDB usage and cost data and recommends an R, and where must a human still override the machine? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Snow-Software | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-self-service-disposition-tool-that-ingests-cmdb--56544) |

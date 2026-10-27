@@ -2,6 +2,8 @@
 
 [← back to Netdata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Cilium eBPF program is dropping packets intermittently under load. How would you use bpftool and the verifier logs to figure out where in the datapath the drop happens? | expertise | SDE-1/2, SDE-2/3 | eBPF | Phone Screen, Onsite | Tech | Asked at Netdata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cilium-ebpf-program-is-dropping-packets-intermittently-under-load-ho-51828) |

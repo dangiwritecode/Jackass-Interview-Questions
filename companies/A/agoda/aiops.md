@@ -2,6 +2,8 @@
 
 [← back to Agoda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An exec asks why the observability platform can't just run on the cheapest spot capacity everywhere. As principal how do you explain which parts of an AIOps stack tolerate interruption and which must be on committed or on-demand capacity? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Travel companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-exec-asks-why-the-observability-platform-can-t-just-run-on-the-chea-98828) |

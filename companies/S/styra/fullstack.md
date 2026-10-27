@@ -2,6 +2,8 @@
 
 [← back to Styra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal argues you should push all authorization into an OPA sidecar per pod. Critique the operational blast radius of a bad policy bundle rollout to 10000 sidecars and design the safe-deploy pipeline you would mandate. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Styra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-argues-you-should-push-all-authorization-into-an-opa-sidec-41222) |

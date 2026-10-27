@@ -21,4 +21,4 @@
 | [Yotta](yotta/README.md) | Tier 4 | 540 | 8 |
 | [You.com](you-com/README.md) | Tier 3 | 540 | 25 |
 | [Yubico](yubico/README.md) | Tier 2 | 540 | 6 |
-| [YugabyteDB](yugabytedb/README.md) | Tier 3 | 720 | 568 |
+| [YugabyteDB](yugabytedb/README.md) | Tier 3 | 940 | 568 |

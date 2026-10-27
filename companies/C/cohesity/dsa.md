@@ -2,6 +2,8 @@
 
 [← back to Cohesity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Running Median of a Number Stream | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Data Stream, Design, Heap (Priority Queue), Sorting, Two Heaps | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Cohesity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=running-median-of-a-number-stream-d295) |

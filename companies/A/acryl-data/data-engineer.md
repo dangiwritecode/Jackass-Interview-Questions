@@ -2,6 +2,8 @@
 
 [← back to Acryl Data](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A migration will change a contract for 50 downstream jobs. How do you plan and sequence it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Contracts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Acryl Data | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-migration-will-change-a-contract-for-50-downstream-jobs-how-do-you-p-125150) |

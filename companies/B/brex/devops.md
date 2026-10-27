@@ -2,6 +2,8 @@
 
 [← back to Brex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your migration plan: you propose moving 300 services behind a data-access broker over 3 years — what is the risk that the broker becomes an ossified chokepoint that no one can evolve, and how do you architect for its own eventual replacement? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Brex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-migration-plan-you-propose-moving-300-servi-54053) |

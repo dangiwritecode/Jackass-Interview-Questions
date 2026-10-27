@@ -2,6 +2,8 @@
 
 [← back to Manta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your lineage is column-level for SQL transforms but goes dark inside a Spark UDF or a Python pandas step where PII gets copied into a new column. How do you architect lineage capture that survives opaque code transforms so classification propagates to derived columns? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Manta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-lineage-is-column-level-for-sql-transforms--126022) |

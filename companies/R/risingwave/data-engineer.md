@@ -2,6 +2,8 @@
 
 [← back to RisingWave](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A well-liked team wants to adopt a shiny new stream-processing engine you believe adds long-term operational burden the data platform can't sustain org-wide. How do you say no while keeping their trust intact? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at RisingWave | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-well-liked-team-wants-to-adopt-a-shiny-new-stream-processing-engine--126145) |

@@ -2,6 +2,8 @@
 
 [← back to Reliance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect anomaly detection for a hybrid edge-plus-cloud fleet (IoT, retail POS, CDN nodes) where connectivity is intermittent and you can't ship everything centrally? | expertise | SDE-2/3, Architect/Principal | Real-time Anomaly Detection at Scale | Phone Screen, Onsite | Tech | Asked at Reliance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-anomaly-detection-for-a-hybrid-edge-plus-cloud-101773) |

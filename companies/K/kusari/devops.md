@@ -2,6 +2,8 @@
 
 [← back to Kusari](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges: your program produces mountains of attestations nobody reads until an incident — how do you make attestation data actively useful day-to-day rather than write-only compliance data? | deep understanding | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at Kusari | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-program-produces-mountains-of-attestati-55484) |

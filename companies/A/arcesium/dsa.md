@@ -2,6 +2,8 @@
 
 [← back to Arcesium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Character Edits to Transform One String into Another | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | 2D DP, Dynamic Programming, Edit Distance, String | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Arcesium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-character-edits-to-transform-one-string-into-another-d72) |

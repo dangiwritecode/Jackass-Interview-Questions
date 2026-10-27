@@ -2,6 +2,8 @@
 
 [← back to InfluxData](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a time-series / metrics storage tier at billions of active series feeding operational analytics (managed InfluxDB/TimescaleDB/Mimir vs bespoke) when cardinality economics — not query patterns — dominate the cost and reliability picture? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at InfluxData | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-time-series-metrics-storage-tier--125844) |

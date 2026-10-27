@@ -2,6 +2,8 @@
 
 [← back to Quantum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When is tape (physical or virtual) still the right cold tier over Glacier Deep Archive, and how would you defend that to a cloud-first executive? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Quantum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-is-tape-physical-or-virtual-still-the-right-cold-tier-over-glacie-126798) |

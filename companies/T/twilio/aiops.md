@@ -2,6 +2,8 @@
 
 [← back to Twilio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A support-bot's answer quality dropped but latency and error rates are green. How does your telemetry surface a silent quality regression? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Twilio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-support-bot-s-answer-quality-dropped-but-latency-and-error-rates-are-97832) |

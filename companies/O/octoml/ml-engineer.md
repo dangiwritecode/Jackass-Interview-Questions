@@ -2,6 +2,8 @@
 
 [← back to OctoML](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect model compression (quantization pruning distillation) as a first-class automated stage of the platform rather than a per-model manual effort? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at OctoML | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-model-compression-quantization-pruning-distill-70540) |

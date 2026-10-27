@@ -2,6 +2,8 @@
 
 [← back to Framer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A designer wants generated microcopy to always fit specific UI character budgets across a whole app. How do you enforce hard length constraints reliably, and what post-processing backstop do you add when the model overshoots? | intermediate experience | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Framer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-designer-wants-generated-microcopy-to-always-fit-specific-ui-charact-27587) |

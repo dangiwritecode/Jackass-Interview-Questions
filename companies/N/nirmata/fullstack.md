@@ -2,6 +2,8 @@
 
 [← back to Nirmata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's compliance-and-cost policy-as-code strategy enforced at admission uniformly across the fleet (resource limits, non-root, pinned digests, labels for chargeback). As principal, how would you compare owning Gatekeeper versus Kyverno versus in-tree CEL policies at org scale, and how would you roll out a new policy without breaking existing workloads? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Nirmata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-compliance-and-cost-policy-as-code-strategy-enforced--39116) |

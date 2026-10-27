@@ -2,6 +2,8 @@
 
 [← back to Protecto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a PII-detection/redaction service in your prompt and RAG pipelines (buy Presidio-based/cloud DLP vs build classifiers) when a leak of customer PII into a prompt or fine-tune is a compliance incident with legal weight? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Protecto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-pii-detection-redaction-service-i-83756) |

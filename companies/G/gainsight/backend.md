@@ -2,6 +2,8 @@
 
 [← back to Gainsight](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you authorize a 'system admin acting inside a customer tenant for support' so that the tenant's own audit log shows a support session, the admin can't see other tenants, and access auto-expires? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Gainsight | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-authorize-a-system-admin-acting-inside-a-customer-tenant-fo-26213) |

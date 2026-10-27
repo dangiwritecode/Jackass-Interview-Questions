@@ -2,6 +2,8 @@
 
 [← back to Ripple](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the tension between GDPR erasure and blockchain or other immutable ledgers your platform ingests from? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Ripple | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-tension-between-gdpr-erasure-and-blockchain-or-o-127381) |

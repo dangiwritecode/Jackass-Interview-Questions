@@ -2,6 +2,8 @@
 
 [← back to Zendesk](README.md)
 
+Questions 1–81 of 81.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser scenario: leadership wants 'ship an agent that resolves support tickets end-to-end.' As principal, sequence the deployment maturity ladder (read-only assist to suggest to act-with-approval to autonomous) and the gate each rung must pass. | expertise | SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Zendesk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-scenario-leadership-wants-ship-an-agent-that-resolves-sup-83502) |

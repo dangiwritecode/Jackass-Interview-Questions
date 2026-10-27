@@ -2,6 +2,8 @@
 
 [← back to Tredence](README.md)
 
+Questions 1–147 of 147.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a slowly changing dimension and what are the differences between Type 1 Type 2 and Type 3? | intermediate experience | Fresher, SDE-2/3 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tredence | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-slowly-changing-dimension-and-what-are-the-differences-betwe-115545) |

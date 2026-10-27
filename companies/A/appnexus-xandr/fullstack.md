@@ -2,6 +2,8 @@
 
 [← back to AppNexus-Xandr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the architecture for load balancing a real-time bidding or ad-serving path where the whole request must complete in under 100ms including the LB hop. How do you cut LB-added latency and still keep health-based routing? | expertise | SDE-2/3, Architect/Principal | Load Balancing | Phone Screen, Onsite | Tech | Asked at AppNexus-Xandr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-architecture-for-load-balancing-a-real-time-bidding-or-ad--38673) |

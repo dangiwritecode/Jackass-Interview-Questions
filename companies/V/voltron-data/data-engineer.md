@@ -2,6 +2,8 @@
 
 [← back to Voltron-Data](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to decide between shared memory (mmap), a pipe, and a Unix socket for high-throughput IPC between two colocated data-processing stages on Linux. Compare copies, synchronization, and lifecycle for moving Arrow record batches between them. | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Voltron-Data | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-decide-between-shared-memory-mmap-a-pipe-and-a-unix-socket-120156) |

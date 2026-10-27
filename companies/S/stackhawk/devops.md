@@ -2,6 +2,8 @@
 
 [← back to StackHawk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach fuzzing or security testing of your own APIs in CI, and is it worth it for a mid-sized service? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at StackHawk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-fuzzing-or-security-testing-of-your-own-apis-in-ci-50714) |

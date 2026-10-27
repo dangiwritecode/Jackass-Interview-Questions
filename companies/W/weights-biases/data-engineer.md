@@ -2,6 +2,8 @@
 
 [← back to Weights & Biases](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stakeholder wants ML training data 'always warm' but the budget says otherwise. How do you negotiate and design a tier for training/feature data that balances both? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Weights & Biases | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-wants-ml-training-data-always-warm-but-the-budget-says-o-126748) |

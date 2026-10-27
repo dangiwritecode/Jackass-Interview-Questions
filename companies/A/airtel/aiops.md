@@ -2,6 +2,8 @@
 
 [← back to Airtel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a mobile/edge/IoT telemetry-collection tier feeding AIOps where you can't assume connectivity to a vendor's cloud — does the disconnected/intermittent-operation constraint force building your own store-and-forward collector? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Airtel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-mobile-edge-iot-telemetry-collect-100106) |

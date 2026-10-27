@@ -2,6 +2,8 @@
 
 [← back to Lenskart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle cold-start SKUs in a demand forecasting pipeline where a global model has no history for a new product? | deep understanding | SDE-1/2, SDE-2/3 | Time Series Analysis | Phone Screen, Onsite | Tech | Asked at Lenskart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-cold-start-skus-in-a-demand-forecasting-pipeline-whe-66388) |

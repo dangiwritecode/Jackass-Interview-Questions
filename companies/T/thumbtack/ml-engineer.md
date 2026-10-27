@@ -2,6 +2,8 @@
 
 [← back to Thumbtack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide whether feature preprocessing should live inside the FastAPI service or be pushed into the model artifact itself, and how does that choice affect training-serving skew? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Thumbtack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-feature-preprocessing-should-live-inside-the-62911) |

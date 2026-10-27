@@ -2,6 +2,8 @@
 
 [← back to Liquibase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An applied warehouse migration was later edited in place on a feature branch to 'fix' it, and now dev and prod schemas diverge because the runner tracks a checksum. Explain why migrations are immutable-once-applied and how a checksum-validation CI gate enforces it. | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Liquibase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-applied-warehouse-migration-was-later-edited-in-place-on-a-feature--119983) |

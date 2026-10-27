@@ -2,6 +2,8 @@
 
 [← back to Criteo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect governance for continuous/online learning models where the model updates itself in production between formal reviews? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Criteo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-governance-for-continuous-online-learning-mode-71742) |

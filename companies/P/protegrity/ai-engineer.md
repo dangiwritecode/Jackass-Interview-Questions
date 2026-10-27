@@ -2,6 +2,8 @@
 
 [← back to Protegrity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to governing a redaction/tokenization layer so reversible pseudonymization keys are protected and re-identification is tightly controlled? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Protegrity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-a-redaction-tokenization-layer-so-re-86789) |

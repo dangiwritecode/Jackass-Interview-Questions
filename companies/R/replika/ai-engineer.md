@@ -2,6 +2,8 @@
 
 [← back to Replika](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a tiered memory architecture for a long-lived personal assistant — working memory, episodic recall, and consolidated long-term facts — and defend the consistency and privacy model when a user asks to forget a specific fact. | expertise | SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | Asked at Replika | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-tiered-memory-architecture-for-a-long-lived-personal-assistan-83164) |

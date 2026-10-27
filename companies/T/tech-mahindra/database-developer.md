@@ -2,6 +2,8 @@
 
 [← back to Tech Mahindra](README.md)
 
+Questions 1–109 of 109.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between an INNER JOIN and an OUTER JOIN in Oracle? | basic concept | Fresher, SDE-1, SDE-1/2 | Oracle Database | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Tech Mahindra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-an-inner-join-and-an-outer-join-in-orac-106272) |

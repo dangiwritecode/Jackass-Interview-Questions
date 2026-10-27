@@ -2,6 +2,8 @@
 
 [← back to Checkout.com](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect for the case where your 'partition' is really a dependency on an external SaaS or payment gateway that has its own CAP choices you don't control? Design the boundary so their consistency posture doesn't dictate yours. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Checkout.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-for-the-case-where-your-partition-is-really-a-dep-32257) |

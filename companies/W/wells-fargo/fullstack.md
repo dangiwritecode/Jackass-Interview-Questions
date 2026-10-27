@@ -2,6 +2,8 @@
 
 [← back to Wells Fargo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you manage debt at the boundary between a legacy SOAP/XML enterprise integration layer and your modern JSON/gRPC stack, where the translation shims have become a fragile, single-owner liability? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Wells Fargo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-manage-debt-at-the-boundary-between-a-legacy-soap-xml-enter-41510) |

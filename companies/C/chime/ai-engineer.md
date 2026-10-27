@@ -2,6 +2,8 @@
 
 [← back to Chime](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the escalation threshold at which an AI decision must be handed to a human, and how do you keep that threshold from silently drifting as volume grows? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Chime | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-escalation-threshold-at-which-an-ai-decision-mus-86051) |

@@ -2,6 +2,8 @@
 
 [← back to Telegram](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how read/write splitting can create hidden write amplification when 'reads' trigger lazy writes (last-seen updates, counters). How do you catch these? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at Telegram | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-read-write-splitting-can-create-hidden-write-amplification-115482) |

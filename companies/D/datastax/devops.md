@@ -2,6 +2,8 @@
 
 [← back to DataStax](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd operate a quorum-configured MongoDB or Cassandra write with w=majority and what a user-visible stale read still looks like even with majority reads and writes. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at DataStax | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-operate-a-quorum-configured-mongodb-or-cassandra-wri-46508) |

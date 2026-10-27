@@ -2,6 +2,8 @@
 
 [← back to Rasa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A retrieval-augmented feature returns the right chunk but the answer still contradicts it. What concrete experiments isolate whether the fault is prompt design, chunk formatting, or model behavior? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Rasa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-retrieval-augmented-feature-returns-the-right-chunk-but-the-answer-s-79403) |

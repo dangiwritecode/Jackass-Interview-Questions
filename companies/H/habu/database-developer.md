@@ -2,6 +2,8 @@
 
 [← back to Habu](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a data-sharing arrangement with a partner (clean room) so both parties compute on PII without either seeing the other's raw data — GDPR/HIPAA constraints and the crypto used? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Habu | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-sharing-arrangement-with-a-partner-clean-r-115297) |

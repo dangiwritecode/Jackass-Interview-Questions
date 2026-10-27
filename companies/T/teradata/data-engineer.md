@@ -2,6 +2,8 @@
 
 [← back to Teradata](README.md)
 
+Questions 1–123 of 123.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A reconciliation query joins today's load to yesterday's snapshot on account_id. What indexes on both tables make it efficient? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Teradata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-reconciliation-query-joins-today-s-load-to-yesterday-s-snapshot-on-a-116002) |

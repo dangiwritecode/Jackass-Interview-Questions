@@ -2,6 +2,8 @@
 
 [← back to Momento](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A junior on your team wants to cache LLM responses by exact prompt string. Why is that mostly useless for your chat product, and what caching layer would actually cut cost and latency here? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Momento | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-junior-on-your-team-wants-to-cache-llm-responses-by-exact-prompt-str-79005) |

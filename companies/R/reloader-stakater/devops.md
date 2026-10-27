@@ -2,6 +2,8 @@
 
 [← back to Reloader-Stakater](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A ConfigMap-based flag needs a pod restart to take effect but you need it live in seconds during an incident — how do you architect hot-reload without restarting pods? | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Reloader-Stakater | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-configmap-based-flag-needs-a-pod-restart-to-take-effect-but-you-need-47346) |

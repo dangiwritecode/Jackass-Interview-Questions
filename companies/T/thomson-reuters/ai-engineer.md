@@ -2,6 +2,8 @@
 
 [← back to Thomson Reuters](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stakeholder complains your RAG bot cites the wrong document. How would you instrument the Python pipeline to attach and verify source attribution so a citation always maps to the chunk that produced the claim? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Thomson Reuters | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-complains-your-rag-bot-cites-the-wrong-document-how-woul-76886) |

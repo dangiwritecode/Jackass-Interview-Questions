@@ -2,6 +2,8 @@
 
 [← back to Braze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach a build-vs-buy for a consent management platform that must integrate with your ML feature lineage — what integration points are non-negotiable? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Braze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-a-build-vs-buy-for-a-consent-management-platform-t-72610) |

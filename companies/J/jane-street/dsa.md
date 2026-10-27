@@ -2,6 +2,8 @@
 
 [← back to Jane Street](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Resolve Ratio Queries Over a Web of Known Proportions | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Depth-First Search, Graph, Hash Table, Shortest Path, String, Union Find | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Jane Street | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=resolve-ratio-queries-over-a-web-of-known-proportions-d399) |

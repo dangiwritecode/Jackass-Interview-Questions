@@ -2,6 +2,8 @@
 
 [← back to Temenos](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a phased modernization program for a 15-year-old monolithic Oracle database serving 400 downstream integrations. Combine strangler-fig, branch-by-abstraction (at the data-access layer), and CDC-based event-interception, and explain how you know when to stop and leave a legacy schema alone. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Temenos | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-phased-modernization-program-for-a-15-year-old-monolithic-ora-112588) |

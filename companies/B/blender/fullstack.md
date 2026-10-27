@@ -2,6 +2,8 @@
 
 [← back to Blender](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're building a plugin system where third-party .so files are loaded at runtime. What ABI-stability rules must the interface follow, why does the pimpl idiom help, and what breaks if you expose STL types across the boundary? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Blender | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-building-a-plugin-system-where-third-party-so-files-are-loaded--16821) |

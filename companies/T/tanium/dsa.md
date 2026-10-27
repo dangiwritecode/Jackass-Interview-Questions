@@ -2,6 +2,8 @@
 
 [← back to Tanium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Reverse Only the Alphabetic Characters | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | In-place Manipulation, String, Two Pointers | Online Assessment (OA), Phone Screen | DSA | Asked at Tanium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reverse-only-the-alphabetic-characters-d902) |

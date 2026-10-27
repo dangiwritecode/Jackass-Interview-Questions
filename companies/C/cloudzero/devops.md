@@ -2,6 +2,8 @@
 
 [← back to CloudZero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CFO asks why your cloud bill grew 50% while traffic grew 15%. You believe it's architecture debt — over-provisioning to paper over inefficiency. How do you build the analysis to prove or disprove that, and what if the data shows it's NOT debt? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at CloudZero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cfo-asks-why-your-cloud-bill-grew-50-while-traffic-grew-15-you-belie-54382) |

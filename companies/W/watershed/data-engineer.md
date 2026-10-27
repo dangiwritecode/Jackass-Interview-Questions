@@ -2,6 +2,8 @@
 
 [← back to Watershed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd govern the joint cost-and-carbon of a data platform, choosing regions and schedule windows for cheaper and greener batch compute, given the cheapest region for warehouse capacity is often carbon-heavy. Where do cost and carbon optimization align for data workloads, and where do they conflict? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Watershed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-govern-the-joint-cost-and-carbon-of-a-data-platform--125977) |

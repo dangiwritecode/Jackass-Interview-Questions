@@ -2,6 +2,8 @@
 
 [← back to Philips](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design compliance for edge/IoT medical-device telemetry that must feed a HIPAA cloud without turning every device into a boundary component? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Philips | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-compliance-for-edge-iot-medical-device-telemetry--56813) |

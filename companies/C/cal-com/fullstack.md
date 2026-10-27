@@ -2,6 +2,8 @@
 
 [← back to Cal.com](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're architecting a calendar-and-scheduling backend that resolves availability across timezones recurring events and free-busy from external providers — how do you model recurrence expansion conflict detection and keep invites consistent across attendees' calendars? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cal.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-architecting-a-calendar-and-scheduling-backend-that-resolves-av-39507) |

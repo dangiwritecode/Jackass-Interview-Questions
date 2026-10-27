@@ -2,6 +2,8 @@
 
 [← back to Duolingo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cheaper model wins your offline eval but users complain about 'tone' after you route them to it. How do you incorporate subjective/qualitative signals into routing decisions? | deep understanding | SDE-2/3, Architect/Principal | Model Tiering & Routing | Phone Screen, Onsite | Tech | Asked at Duolingo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cheaper-model-wins-your-offline-eval-but-users-complain-about-tone-a-86464) |

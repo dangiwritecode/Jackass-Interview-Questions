@@ -2,6 +2,8 @@
 
 [← back to Vanta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges: your continuous-compliance dashboard powered by AIOps is all green yet you just had a PII exposure through a monitoring integration. Diagnose the class of failure where observability-driven control monitoring gives false assurance and how you'd architect controls whose green truly implies compliant. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Vanta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-continuous-compliance-dashboard-powered-100273) |

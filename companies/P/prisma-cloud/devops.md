@@ -2,6 +2,8 @@
 
 [← back to Prisma Cloud](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the difference between a preventive and a detective control in cloud governance, and give a concrete AWS example of each you have actually deployed. | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Prisma Cloud | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-difference-between-a-preventive-and-a-detective-control-in-47931) |

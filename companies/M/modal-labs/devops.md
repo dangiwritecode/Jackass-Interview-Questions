@@ -2,6 +2,8 @@
 
 [← back to Modal Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect autoscaling and cost governance for inference microservices where cold-start of a model pod is minutes and GPUs are scarce, versus a normal stateless service scaling in seconds? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Modal Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-autoscaling-and-cost-governance-for-inference-mic-51950) |

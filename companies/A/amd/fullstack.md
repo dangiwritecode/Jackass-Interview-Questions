@@ -2,6 +2,8 @@
 
 [← back to AMD](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A performance-critical matrix routine underperforms hand-tuned code. How would you approach SIMD — intrinsics, std::experimental::simd, or trusting the auto-vectorizer — and how do you keep the code portable across architectures? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at AMD | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-performance-critical-matrix-routine-underperforms-hand-tuned-code-ho-16883) |

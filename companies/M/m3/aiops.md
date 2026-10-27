@@ -2,6 +2,8 @@
 
 [← back to M3](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you detect and control cardinality explosion when normalizing labels from multiple metrics vendors into one store? | deep understanding | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | Asked at M3 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-detect-and-control-cardinality-explosion-when-normalizin-103268) |

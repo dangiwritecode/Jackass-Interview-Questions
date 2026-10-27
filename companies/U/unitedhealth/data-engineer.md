@@ -2,6 +2,8 @@
 
 [← back to UnitedHealth](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A dataset is under legal hold but your lifecycle rule tried to expire it. How do you architect lifecycle so legal holds and retention locks always win over cost policies? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at UnitedHealth | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dataset-is-under-legal-hold-but-your-lifecycle-rule-tried-to-expire--126740) |

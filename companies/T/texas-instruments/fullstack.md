@@ -2,6 +2,8 @@
 
 [← back to Texas Instruments](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between a hard real-time and a soft real-time operating system? | deep understanding | Fresher, SDE-1 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Texas Instruments | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-a-hard-real-time-and-a-soft-real-time-o-500) |

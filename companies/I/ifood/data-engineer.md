@@ -2,6 +2,8 @@
 
 [← back to iFood](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle Brazil's LGPD and other emerging privacy laws so the platform is regime-agnostic and a new law becomes a config change not a re-architecture? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at iFood | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-brazil-s-lgpd-and-other-emerging-privacy-laws-so-the-127398) |

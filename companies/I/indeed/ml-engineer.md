@@ -2,6 +2,8 @@
 
 [← back to Indeed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design a fairness-monitoring pipeline that works across dozens of models with different protected attributes, when in many jurisdictions you're legally barred from collecting those attributes directly? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Indeed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-fairness-monitoring-pipeline-that-works-across-doz-71671) |

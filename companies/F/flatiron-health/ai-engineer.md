@@ -2,6 +2,8 @@
 
 [← back to Flatiron Health](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the boundary between what the LLM plans/reasons and what a deterministic policy engine controls for high-value flows (payments, medical, legal), so the model has agency but hard invariants are enforced outside it. Where exactly does that seam sit? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Flatiron Health | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-boundary-between-what-the-llm-plans-reasons-and-what-a-dete-83084) |

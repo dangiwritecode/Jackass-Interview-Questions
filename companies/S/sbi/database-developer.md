@@ -2,6 +2,8 @@
 
 [← back to SBI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the data-residency and sovereignty architecture for a bank that must keep Indian data in India but wants a single global CockroachDB schema; how do RBAC, super regions, and locality enforce compliance? | expertise | SDE-2/3, Architect/Principal | NewSQL (CockroachDB/Spanner) | Phone Screen, Onsite | Tech | Asked at SBI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-data-residency-and-sovereignty-architecture-for-a-bank-that-114517) |

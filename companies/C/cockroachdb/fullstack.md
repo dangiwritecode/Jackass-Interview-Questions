@@ -2,6 +2,8 @@
 
 [← back to CockroachDB](README.md)
 
+Questions 1–77 of 77.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cost model comparing two vendor databases hinges entirely on the assumed read/write ratio and cache-hit rate. How do you stress-test a TCO comparison against wrong assumptions before you commit the org to a multi-year contract? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at CockroachDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cost-model-comparing-two-vendor-databases-hinges-entirely-on-the-ass-41195) |

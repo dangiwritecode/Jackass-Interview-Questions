@@ -2,6 +2,8 @@
 
 [← back to McKinsey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A pilot Refactor took 4x longer than estimated; how do you recalibrate the whole portfolio's disposition estimates and communicate the schedule impact upward? | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at McKinsey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pilot-refactor-took-4x-longer-than-estimated-how-do-you-recalibrate--56563) |

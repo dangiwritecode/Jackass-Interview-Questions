@@ -2,6 +2,8 @@
 
 [← back to Harness](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CTO asks you to reconcile a "ship fast" product culture with the audit/compliance controls (SOX, change-management) that enterprise demands. Architect the delivery pipeline so controls are automated evidence, not manual gates that kill velocity. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Harness | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cto-asks-you-to-reconcile-a-ship-fast-product-culture-with-the-audit-40758) |

@@ -2,6 +2,8 @@
 
 [← back to Upstox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are asked to add a 'get_stock_quote' tool to a chatbot. Walk through the steps from writing the function to seeing the model call it. | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Upstox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-asked-to-add-a-get-stock-quote-tool-to-a-chatbot-walk-through--73664) |

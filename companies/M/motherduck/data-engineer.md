@@ -2,6 +2,8 @@
 
 [← back to MotherDuck](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the target compute layer — Spark, Trino/Presto, Snowflake-on-Iceberg, Databricks Photon, DuckDB — and can you decouple that decision from the storage/table-format decision? | expertise | SDE-2/3, Architect/Principal | Lakehouse Migration Strategy | Onsite, Hiring Manager | Tech | Asked at MotherDuck | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-target-compute-layer-spark-trino-presto-snowflak-126837) |

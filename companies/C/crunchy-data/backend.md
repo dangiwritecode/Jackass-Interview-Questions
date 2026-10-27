@@ -2,6 +2,8 @@
 
 [← back to Crunchy Data](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to run a stateful Postgres cluster on Kubernetes with failover. Walk through the design choices: StatefulSet vs operator, storage class guarantees, and how you'd handle a node loss without data loss. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Crunchy Data | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-run-a-stateful-postgres-cluster-on-kubernetes-with-failove-19525) |

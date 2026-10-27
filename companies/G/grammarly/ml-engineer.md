@@ -2,6 +2,8 @@
 
 [← back to Grammarly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how your ML governance adapts when the business pivots from a few enterprise models (bounded data contracts) to a consumer product with millions of users exercising individual rights — what must be re-architected in the erasure and consent control plane? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Grammarly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-your-ml-governance-adapts-when-the-business-pi-70053) |

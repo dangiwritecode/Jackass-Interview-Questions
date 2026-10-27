@@ -2,6 +2,8 @@
 
 [← back to JanusGraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd choose between snapshot isolation and serializable for a graph database traversal where nodes are being concurrently rewired. What anomalies are graph-specific? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at JanusGraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-choose-between-snapshot-isolation-and-serializable-f-113698) |

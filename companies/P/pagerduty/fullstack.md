@@ -2,6 +2,8 @@
 
 [← back to PagerDuty](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team's SLO is green but their on-call is drowning in noise from a dependency's flapping. How do you diagnose whether the problem is a bad SLO a bad alert or a genuinely unreliable dependency they're absorbing? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at PagerDuty | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-s-slo-is-green-but-their-on-call-is-drowning-in-noise-from-a-de-41348) |

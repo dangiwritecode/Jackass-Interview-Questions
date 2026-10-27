@@ -2,6 +2,8 @@
 
 [← back to Riot Games](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a real-time leaderboard for a fantasy sports app during a live match with millions of concurrent users and hard fairness requirements? | expertise | SDE-2/3, Architect/Principal | Real-time Analytics Architecture | Onsite | Tech | Asked at Riot Games | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-real-time-leaderboard-for-a-fantasy-sports-app--127548) |

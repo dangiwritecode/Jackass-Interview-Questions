@@ -2,6 +2,8 @@
 
 [← back to Bigeye](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect data observability for ML data (distinct from data quality): which signals (freshness, volume, schema, distribution, lineage) do you instrument first so a model team detects a stale or shifted feature before a bad prediction ships? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Bigeye | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-data-observability-for-ml-data-distinct-from-data-quality-wh-69722) |

@@ -2,6 +2,8 @@
 
 [← back to Mostly AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What governance would you build around synthetic data generation so that generated data doesn't inadvertently reproduce or leak real records? | deep understanding | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | Asked at Mostly AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-governance-would-you-build-around-synthetic-data-generation-so-th-114823) |

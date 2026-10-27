@@ -2,6 +2,8 @@
 
 [← back to Warpstream](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a safe self-service capability for adding a new consumer that must replay months of history, so it never overloads brokers or starves live consumers, using tiered storage, replay clusters, or fan-out isolation? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Warpstream | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-safe-self-service-capability-for-adding-a-new-c-51994) |

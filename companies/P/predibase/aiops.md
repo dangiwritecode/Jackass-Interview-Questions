@@ -2,6 +2,8 @@
 
 [← back to Predibase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You deploy a fine-tuned LoRA adapter per major customer so the copilot speaks their service topology, on top of one shared base model. How do you hot-swap adapters per request without keeping every customer's adapter warm 24/7, and what limits adapter count? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Predibase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-deploy-a-fine-tuned-lora-adapter-per-major-customer-so-the-copilot-93308) |

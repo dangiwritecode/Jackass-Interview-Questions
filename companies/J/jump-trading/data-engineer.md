@@ -2,6 +2,8 @@
 
 [← back to Jump Trading](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you compute a rolling standard deviation over a 30-row frame and why can naive STDDEV OVER be numerically unstable, and what would you monitor? | expertise | SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Trading companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compute-a-rolling-standard-deviation-over-a-30-row-frame-123213) |

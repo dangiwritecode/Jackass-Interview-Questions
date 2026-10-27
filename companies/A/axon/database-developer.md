@@ -2,6 +2,8 @@
 
 [← back to Axon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design HA for a database backing an event-sourced system. Can you rebuild state from the event log, and how does that change your RPO and standby requirements? | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at Axon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-ha-for-a-database-backing-an-event-sourced-s-114703) |

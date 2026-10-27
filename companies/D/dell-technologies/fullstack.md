@@ -2,6 +2,8 @@
 
 [← back to Dell Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's approach to Terraform for infrastructure that spans a hybrid on-prem-plus-cloud full-stack app, where the on-prem side uses a vSphere/bare-metal provider and the cloud side AWS. How do you keep one logical service's infra coherent across two very different provider trees and state boundaries? | deep understanding | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Dell Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-approach-to-terraform-for-infrastructure-that-spans-a-39973) |

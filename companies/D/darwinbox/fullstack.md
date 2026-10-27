@@ -2,6 +2,8 @@
 
 [← back to Darwinbox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your enterprise B2B product must support each tenant bringing SAML or OIDC, custom roles, SCIM, and JIT provisioning behind one login endpoint. Architect tenant-routing (how you resolve which IdP before knowing the user) and keep enforcement uniform across the tenant zoo. | deep understanding | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Darwinbox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-enterprise-b2b-product-must-support-each-tenant-bringing-saml-or--38874) |

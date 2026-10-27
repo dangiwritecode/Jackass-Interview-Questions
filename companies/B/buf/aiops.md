@@ -2,6 +2,8 @@
 
 [← back to Buf](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd map dependencies for gRPC/streaming connections that are long-lived, versus request/response HTTP where each call is an edge event. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | Asked at Buf | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-map-dependencies-for-grpc-streaming-connections-that-97696) |

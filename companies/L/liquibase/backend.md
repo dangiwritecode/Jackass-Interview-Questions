@@ -2,6 +2,8 @@
 
 [← back to Liquibase](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | On this project, how did you handle a migration that needed a data transform, so old-format and new-format rows had to be read simultaneously? | deep understanding | SDE-1/2, SDE-2/3 | Projects (Resume Deep-Dive) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Liquibase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=on-this-project-how-did-you-handle-a-migration-that-needed-a-data-tran-28269) |

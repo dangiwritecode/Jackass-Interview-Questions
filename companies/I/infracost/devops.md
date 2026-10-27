@@ -2,6 +2,8 @@
 
 [← back to Infracost](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cost spike traced to a Terraform change that resized instances 10x, and the PR was approved by someone who didn't understand the cost impact. How would you surface estimated cost delta on every infra PR so approvers see the FinOps impact before merging? | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Infracost | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cost-spike-traced-to-a-terraform-change-that-resized-instances-10x-a-45713) |

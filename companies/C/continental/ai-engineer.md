@@ -2,6 +2,8 @@
 
 [← back to Continental](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a multi-region RLHF pipeline where preference data cannot leave its jurisdiction but the resulting reward model can — what does the federated boundary look like? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Industrial companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-multi-region-rlhf-pipeline-where-preference-dat-85747) |

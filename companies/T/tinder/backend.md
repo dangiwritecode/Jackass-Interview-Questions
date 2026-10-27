@@ -2,6 +2,8 @@
 
 [← back to Tinder](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your DynamoDB table has a celebrity partition (one user is 90% of traffic) and you're getting throttled while overall consumed capacity is low. Explain what's happening and three concrete ways to fix it. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cassandra/DynamoDB (Wide-Column NoSQL) | Phone Screen, Onsite | Tech | Asked at Tinder | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-dynamodb-table-has-a-celebrity-partition-one-user-is-90-of-traffi-29440) |

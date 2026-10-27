@@ -2,6 +2,8 @@
 
 [← back to DX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Six months in, exec sponsorship for the platform is wavering because the wins are invisible. How do you make platform value legible to leadership on an ongoing basis without inventing vanity metrics? | deep understanding | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at DX | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=six-months-in-exec-sponsorship-for-the-platform-is-wavering-because-th-37504) |

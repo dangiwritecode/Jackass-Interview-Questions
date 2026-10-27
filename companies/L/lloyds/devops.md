@@ -2,6 +2,8 @@
 
 [← back to Lloyds](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through a 3-year strategy to migrate 600 on-prem VMs and a dozen legacy .NET monoliths onto Azure while keeping the business running; what's your wave-planning and dependency-mapping approach? | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at Lloyds | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-a-3-year-strategy-to-migrate-600-on-prem-vms-and-a-doz-54523) |

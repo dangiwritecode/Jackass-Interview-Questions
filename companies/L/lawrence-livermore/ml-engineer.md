@@ -2,6 +2,8 @@
 
 [← back to Lawrence-Livermore](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding whether to run distributed training on Kubernetes at all versus a dedicated Slurm/HPC scheduler. Present the build-vs-adopt analysis a principal would take to an architecture board, including operability, ecosystem, and researcher experience. | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Lawrence-Livermore | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-run-distributed-training-on-kubernetes-at-a-68491) |

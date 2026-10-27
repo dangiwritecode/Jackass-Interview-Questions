@@ -2,6 +2,8 @@
 
 [← back to Wiz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a continuous red-team pipeline for agents (injection fuzzing, tool-abuse fuzzing, jailbreak regression) that gates every release, and how do you keep it from becoming a flaky, ignored CI stage? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Wiz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-continuous-red-team-pipeline-for-agents-injecti-83051) |

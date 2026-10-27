@@ -2,6 +2,8 @@
 
 [← back to SolarWinds](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you'd design covering-index strategy in SQL Server to eliminate key lookups on the top-50 costliest queries fleet-wide, and how you'd measure the aggregate logical-read reduction. | expertise | SDE-2/3, Architect/Principal | Advanced Indexing (Covering/Composite/Bitmap) | Phone Screen, Onsite | Tech | Asked at SolarWinds | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-design-covering-index-strategy-in-sql-server-113983) |

@@ -2,6 +2,8 @@
 
 [← back to Datomic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design an isolation strategy for a system that must satisfy both a hard regulatory audit (immutable consistent history) and low-latency serving. | deep understanding | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Datomic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-an-isolation-strategy-for-a-system-that-must--113666) |

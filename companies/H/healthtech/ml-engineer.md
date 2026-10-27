@@ -2,6 +2,8 @@
 
 [← back to Healthtech](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the org's approach so that within hours of a privacy incident you can answer which models were trained on a given customer's data, where those models are deployed, and what predictions they produced? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Healthtech | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-org-s-approach-so-that-within-hours-of-a-priv-68729) |

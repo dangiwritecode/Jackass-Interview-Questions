@@ -2,6 +2,8 @@
 
 [← back to Sonar](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a CI gate that fails builds on new unsafe query construction across an ORM+raw+stored-proc polyglot without drowning teams in false positives on legitimate dynamic SQL? Describe the taint-analysis approach and the appeal/suppression workflow. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Sonar | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-ci-gate-that-fails-builds-on-new-unsafe-quer-38985) |

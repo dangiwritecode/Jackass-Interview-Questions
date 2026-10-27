@@ -2,6 +2,8 @@
 
 [← back to Tesla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a globally-distributed IoT ingestion platform: 50M devices across regions writing telemetry, with each region owning its devices but needing global aggregate queries. Lay out the wide-column topology, regional partitioning, and how you reconcile global rollups. | expertise | SDE-2/3, Architect/Principal | Cassandra/DynamoDB (Wide-Column NoSQL) | Phone Screen, Onsite | Tech | Asked at Tesla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-globally-distributed-iot-ingestion-platform-50m-devices-acros-34847) |

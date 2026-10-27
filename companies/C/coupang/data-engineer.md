@@ -2,6 +2,8 @@
 
 [← back to Coupang](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When is it safe to run a Spark batch on spot instances, and specifically how would you configure the driver, core, and task nodes so a spot interruption doesn't kill the whole job? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Coupang | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-is-it-safe-to-run-a-spark-batch-on-spot-instances-and-specificall-120574) |

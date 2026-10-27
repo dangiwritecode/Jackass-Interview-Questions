@@ -2,6 +2,8 @@
 
 [← back to Juspay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Command-based audit log is now your event-sourcing store, but replay is slow after months of events. How do you introduce snapshots and compaction without losing auditability? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Juspay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-command-based-audit-log-is-now-your-event-sourcing-store-but-replay--16558) |

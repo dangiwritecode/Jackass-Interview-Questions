@@ -2,6 +2,8 @@
 
 [← back to SUSE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how rootless Docker/Podman achieves builds without a privileged daemon, and what limitations (networking, port binding, storage) you'd plan around when migrating CI to rootless. | expertise | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at SUSE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-rootless-docker-podman-achieves-builds-without-a-privilege-26806) |

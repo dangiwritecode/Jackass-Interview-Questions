@@ -2,6 +2,8 @@
 
 [← back to Ford](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd retrofit cost tagging and allocation onto a legacy estate with 200000 untagged resources across 40 AWS accounts. What's your sequencing, automation, and enforcement plan so you don't spend a year tagging manually? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Ford | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-retrofit-cost-tagging-and-allocation-onto-a-legacy-e-37067) |

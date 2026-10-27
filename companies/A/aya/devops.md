@@ -2,6 +2,8 @@
 
 [← back to Aya](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A teammate proposes writing eBPF programs in Rust with Aya instead of C with libbpf. What are the practical pros and cons for a production DevOps team? | intermediate experience | SDE-1/2, SDE-2/3 | eBPF | Phone Screen, Onsite | Tech | Asked at Aya | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-teammate-proposes-writing-ebpf-programs-in-rust-with-aya-instead-of--51875) |

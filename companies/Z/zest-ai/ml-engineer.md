@@ -2,6 +2,8 @@
 
 [← back to Zest AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes automated-decision rights under GDPR Article 22: your credit or hiring model makes decisions with legal effect. How do you architect a right-to-explanation and human-review path end-to-end without maintaining a shadow manual model? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Zest AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-automated-decision-rights-under-gdpr-article-22--69984) |

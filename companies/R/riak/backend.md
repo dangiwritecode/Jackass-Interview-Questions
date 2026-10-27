@@ -2,6 +2,8 @@
 
 [← back to Riak](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A follow-up on anti-entropy at scale: 'your Merkle-tree repair after a long partition is O(divergence) and could take days across a petabyte store. How do you bound recovery time so the heal itself doesn't become an availability incident?' Design the repair budget. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Riak | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-follow-up-on-anti-entropy-at-scale-your-merkle-tree-repair-after-a-l-32291) |

@@ -2,6 +2,8 @@
 
 [← back to Flexport](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a saga with compensation for a multi-step order-fulfillment flow spanning inventory, payment, and shipping — and defend your compensation strategy when a mid-saga service is down for hours and messages keep redelivering? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Logistics companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-saga-with-compensation-for-a-multi-step-orde-52379) |

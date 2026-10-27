@@ -2,6 +2,8 @@
 
 [← back to Skyflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a data pipeline on AWS to build a fine-tuning dataset from production logs while stripping PII and deduplicating near-identical examples? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Skyflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-pipeline-on-aws-to-build-a-fine-tuning-dat-77797) |

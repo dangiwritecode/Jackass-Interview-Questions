@@ -2,6 +2,8 @@
 
 [← back to CrowdStrike](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Crypto-shredding is often proposed for erasure of archived data. Explain how you'd implement it and where it fails as a strategy. | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at CrowdStrike | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=crypto-shredding-is-often-proposed-for-erasure-of-archived-data-explai-126753) |

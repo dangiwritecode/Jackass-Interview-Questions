@@ -2,6 +2,8 @@
 
 [← back to Materialize](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is your data pipeline architecture for streaming telemetry into a real-time remediation decision engine with sub-second latency budgets? | expertise | SDE-2/3, Architect/Principal | Self-Healing Infrastructure Architecture | Onsite, Hiring Manager | Tech | Asked at Materialize | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-data-pipeline-architecture-for-streaming-telemetry-into-a-103488) |

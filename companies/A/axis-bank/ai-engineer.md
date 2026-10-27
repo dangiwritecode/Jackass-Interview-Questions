@@ -2,6 +2,8 @@
 
 [← back to Axis Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | For a regulated bank, design the compliance architecture covering explainability of tool decisions, immutable audit trails, model-change approvals, and proving a specific automated action to a regulator years later. What can't the agent be allowed to decide? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Axis Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-regulated-bank-design-the-compliance-architecture-covering-expla-83081) |

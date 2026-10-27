@@ -2,6 +2,8 @@
 
 [← back to Getty](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you incorporate IP and indemnification terms — who owns fine-tune weights, copyright indemnity on outputs — into a build-vs-buy legal and technical decision? | expertise | SDE-2/3, Architect/Principal | LLM Architecture Selection (Build vs Buy vs Fine-tune) | Onsite, Hiring Manager | Tech | Asked at Getty | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-incorporate-ip-and-indemnification-terms-who-owns-fine-tune-86260) |

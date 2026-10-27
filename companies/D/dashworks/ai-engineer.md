@@ -2,6 +2,8 @@
 
 [← back to Dashworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a knowledge-assistant over enterprise data (buy Glean/Copilot vs assemble your own connectors + RAG) when the differentiator is your proprietary corpus and permission model, not the underlying model? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Dashworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-knowledge-assistant-over-enterpri-83766) |

@@ -2,6 +2,8 @@
 
 [← back to BharatPe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | If a table gets thousands of small INSERTs per second, which category of system is it most likely part of? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at BharatPe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=if-a-table-gets-thousands-of-small-inserts-per-second-which-category-o-118779) |

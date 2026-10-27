@@ -2,6 +2,8 @@
 
 [← back to Didomi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a consent management architecture that acts as the single source of truth feeding every pipeline decision about whether a given processing purpose is allowed for a given subject. | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Didomi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-consent-management-architecture-that-acts-as-the-single-sourc-127329) |

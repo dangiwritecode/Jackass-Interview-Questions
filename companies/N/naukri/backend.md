@@ -2,6 +2,8 @@
 
 [← back to Naukri](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need case-insensitive prefix search on names at 200M rows. Compare a functional index on lower(name) with text_pattern_ops, a trigram index, and a dedicated search service. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Naukri | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-case-insensitive-prefix-search-on-names-at-200m-rows-compare--25756) |

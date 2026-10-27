@@ -2,6 +2,8 @@
 
 [← back to Cloudability](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you incorporate FinOps practices into observability so every dashboard and alert has a visible cost attached to inform trade-offs? | deep understanding | SDE-2/3, Architect/Principal | Observability Platform Strategy | Onsite, Hiring Manager | Tech | Asked at Cloudability | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-incorporate-finops-practices-into-observability-so-every-da-103041) |

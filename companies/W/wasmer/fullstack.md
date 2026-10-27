@@ -2,6 +2,8 @@
 
 [← back to Wasmer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide whether a plugin system should sandbox third-party Strategies via WASM, a separate process, or just a language interface, given hard requirements on CPU/memory isolation and a low-latency call budget? | expertise | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Wasmer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-a-plugin-system-should-sandbox-third-part-38497) |

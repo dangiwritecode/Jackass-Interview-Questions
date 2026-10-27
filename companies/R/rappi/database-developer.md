@@ -2,6 +2,8 @@
 
 [← back to Rappi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the data layer for a global ride/food/payments super-app where each subdomain genuinely needs a different store but they share identity and money? | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | Asked at Rappi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-data-layer-for-a-global-ride-food-payments-114621) |

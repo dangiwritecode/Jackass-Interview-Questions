@@ -2,6 +2,8 @@
 
 [← back to BalleBaazi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must architect a fantasy-sports contest platform that locks lineups at match start scores millions of teams live and pays winners atomically — how do you compute live leaderboards handle a mid-match data correction and settle prize money correctly? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at BalleBaazi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-a-fantasy-sports-contest-platform-that-locks-lineup-39493) |

@@ -2,6 +2,8 @@
 
 [← back to Monzo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's the trade-off between using SHAP for per-prediction explanations in real time versus precomputing global importances, given latency constraints? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Monzo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-trade-off-between-using-shap-for-per-prediction-explanation-65900) |

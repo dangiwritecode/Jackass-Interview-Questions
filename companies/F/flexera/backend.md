@@ -2,6 +2,8 @@
 
 [← back to Flexera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your amortized-versus-blended cost views tell two different stories and executives lose trust in FinOps numbers. Explain when to use amortized versus blended versus unblended cost, and how you'd standardize the 'source of truth' across finance and engineering. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Flexera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-amortized-versus-blended-cost-views-tell-two-different-stories-an-37048) |

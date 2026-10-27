@@ -2,6 +2,8 @@
 
 [← back to Chess.com](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Model a chess board and pieces with OOP; how do you enforce each piece's move rules? | deep understanding | Fresher, SDE-1 | OOPS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Chess.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=model-a-chess-board-and-pieces-with-oop-how-do-you-enforce-each-piece--700) |

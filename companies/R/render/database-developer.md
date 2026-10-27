@@ -2,6 +2,8 @@
 
 [← back to Render](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd integrate a linter like squawk or eugene into CI to statically reject unsafe Postgres migrations, and where static analysis falls short. | deep understanding | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at Render | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-integrate-a-linter-like-squawk-or-eugene-into-ci-to--114262) |

@@ -2,6 +2,8 @@
 
 [← back to Sonatype](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You suspect a CSRF token is leaking via a compression side-channel (BREACH-style) because it shares a compressed response with reflected input. Explain the mechanism and your mitigation options. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Sonatype | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-suspect-a-csrf-token-is-leaking-via-a-compression-side-channel-bre-19163) |

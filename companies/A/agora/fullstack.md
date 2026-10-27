@@ -2,6 +2,8 @@
 
 [← back to Agora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the end-to-end architecture for a WebRTC group-video product scaling to 500 participants per room — how do you decide SFU vs MCU handle simulcast/SVC and place media servers geographically to keep p95 join latency low? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Agora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-end-to-end-architecture-for-a-webrtc-group-video-product-sc-39423) |

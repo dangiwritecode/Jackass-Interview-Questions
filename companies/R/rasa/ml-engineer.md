@@ -2,6 +2,8 @@
 
 [← back to Rasa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you A/B test a new LLM prompt versus the current one for a customer-support assistant where quality is subjective? | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at Rasa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-a-b-test-a-new-llm-prompt-versus-the-current-one-for-a-c-67707) |

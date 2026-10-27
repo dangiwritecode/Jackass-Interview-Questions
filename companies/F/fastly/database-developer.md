@@ -2,6 +2,8 @@
 
 [← back to Fastly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A product needs strong global consistency with sub-100ms reads on five continents. Compare Spanner-class NewSQL, multi-region Aurora, and an eventually-consistent global store as candidate approaches. | expertise | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Fastly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-product-needs-strong-global-consistency-with-sub-100ms-reads-on-five-114352) |

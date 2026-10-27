@@ -2,6 +2,8 @@
 
 [← back to Bunny.net](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges your assumption that the CDN and origin agree on freshness. Walk me through every place their notions of TTL and validity can diverge, and how you architect a single authoritative freshness source both honor. | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Bunny.net | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-assumption-that-the-cdn-and-origin-agre-38613) |

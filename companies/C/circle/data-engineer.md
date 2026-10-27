@@ -2,6 +2,8 @@
 
 [← back to Circle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: 'your daily reconciliation between the ledger service and the warehouse shows a persistent small drift.' Architect the enterprise reconciliation and control-total pattern that catches data loss/duplication end-to-end, and explain who's accountable when the numbers don't tie out at close. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Crypto companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-your-daily-reconciliation-between-the-ledger-service-125676) |

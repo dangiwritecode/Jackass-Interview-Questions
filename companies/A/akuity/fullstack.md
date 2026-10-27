@@ -2,6 +2,8 @@
 
 [← back to Akuity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the org standardizes deletion-safety across the fleet so a bad GitOps prune or a fat-fingered namespace delete can't wipe production. What combination of finalizers, deletion-protection policies, backup, and prune-scoping would you mandate, and how do you keep the guardrails from blocking legitimate cleanups? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Akuity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-org-standardizes-deletion-safety-across-the-fleet-so-a--39055) |

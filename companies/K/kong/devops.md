@@ -2,6 +2,8 @@
 
 [← back to Kong](README.md)
 
+Questions 1–115 of 115.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A story adds per-tenant rate limiting and quotas but you don't yet know each tenant's real traffic profile; would you spike a measurement phase first, and how do you scope the unknown? | intermediate experience | SDE-1/2, SDE-2/3 | Agile/Scrum | Phone Screen, Hiring Manager | Tech | Asked at Kong | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-story-adds-per-tenant-rate-limiting-and-quotas-but-you-don-t-yet-kno-46381) |

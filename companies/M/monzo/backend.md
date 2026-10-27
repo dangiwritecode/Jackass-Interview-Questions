@@ -2,6 +2,8 @@
 
 [← back to Monzo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator mandates that certain records be provably consistent-at-time-of-decision. How does that compliance requirement constrain your CAP choices, and how do you architect an audit trail that survives partitions to prove the guarantee held? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Monzo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-mandates-that-certain-records-be-provably-consistent-at-ti-32212) |

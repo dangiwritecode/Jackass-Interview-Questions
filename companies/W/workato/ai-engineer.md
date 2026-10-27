@@ -2,6 +2,8 @@
 
 [← back to Workato](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A scenario tests whether a critical schema change to a tool's API can be rolled out without breaking every agent whose prompt hard-codes the old tool signature. Walk me through the tool-contract-versioning and capability-discovery sensitivity points, and where rollback becomes a correctness tradeoff. | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Workato | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-tests-whether-a-critical-schema-change-to-a-tool-s-api-can--83598) |

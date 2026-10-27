@@ -2,6 +2,8 @@
 
 [← back to Firebolt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your data-warehouse spend scales with query volume from self-serve analysts who don't feel the cost. How would you architect governance — query cost limits, materialized-view strategy, workload isolation — that curbs runaway spend without gatekeeping legitimate analysis? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Firebolt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-data-warehouse-spend-scales-with-query-volume-from-self-serve-ana-52955) |

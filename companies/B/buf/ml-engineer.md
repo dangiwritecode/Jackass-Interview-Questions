@@ -2,6 +2,8 @@
 
 [← back to Buf](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you validate a FastAPI inference contract against consumers so a change in the response_model (like renaming a score field) is caught before it breaks a downstream ML pipeline? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Buf | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-a-fastapi-inference-contract-against-consumers-so--62957) |

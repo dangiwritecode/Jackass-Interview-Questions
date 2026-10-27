@@ -2,6 +2,8 @@
 
 [← back to Lightning AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through designing a LoRA fine-tuning pipeline for a 7B model and how you would decide rank alpha and which layers to adapt. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Lightning AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-designing-a-lora-fine-tuning-pipeline-for-a-7b-model-a-79509) |

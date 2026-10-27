@@ -2,6 +2,8 @@
 
 [← back to GoodData](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an analytics platform that must serve both internal analysts (broad OLAP) and customer-facing embedded analytics (bounded low-latency OLAP) from overlapping OLTP sources? | expertise | SDE-2/3, Architect/Principal | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at GoodData | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-analytics-platform-that-must-serve-both-int-113490) |

@@ -2,6 +2,8 @@
 
 [← back to HireVue](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern bias and fairness as a compliance obligation (not just ethics) — architect continuous fairness monitoring so a model that drifts into disparate impact on a protected class is caught and blocked before it becomes a regulatory finding. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at HireVue | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-bias-and-fairness-as-a-compliance-69993) |

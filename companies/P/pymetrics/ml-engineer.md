@@ -2,6 +2,8 @@
 
 [← back to Pymetrics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd measure and bound fairness/bias risk across protected groups in a lending or hiring model, and what you do when metrics conflict. | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Pymetrics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-measure-and-bound-fairness-bias-risk-across-protecte-71797) |

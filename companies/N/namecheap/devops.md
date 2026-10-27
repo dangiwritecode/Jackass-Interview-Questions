@@ -2,6 +2,8 @@
 
 [← back to Namecheap](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between a domain registrar and a DNS hosting provider? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Networking Fundamentals (DNS/TCP-IP/Firewalls) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Namecheap | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-a-domain-registrar-and-a-dns-hosting-pr-44309) |

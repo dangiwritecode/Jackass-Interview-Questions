@@ -2,6 +2,8 @@
 
 [← back to Descope](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tenant admin can create API keys, but you discover they can create keys with scopes broader than their own role. How do you enforce 'you can only grant permissions you hold' (privilege attenuation) at key-creation time? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Descope | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tenant-admin-can-create-api-keys-but-you-discover-they-can-create-ke-26231) |

@@ -2,6 +2,8 @@
 
 [← back to Ververica-Flink](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd load balance a fleet of stateful stream processors (e.g. Flink task managers) where key-group assignment must stay stable across rescales, so the 'balancer' is really the state-assignment planner. What are the rebalance-cost trade-offs? | expertise | SDE-2/3, Architect/Principal | Load Balancing | Phone Screen, Onsite | Tech | Asked at Ververica-Flink | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-load-balance-a-fleet-of-stateful-stream-processors-e-38651) |

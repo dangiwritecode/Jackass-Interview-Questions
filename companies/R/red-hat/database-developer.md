@@ -2,6 +2,8 @@
 
 [← back to Red Hat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would evaluate the maturity of a vendor's schema-registry and contract-enforcement tooling for event-driven data. | deep understanding | SDE-2/3, Architect/Principal | Database Vendor & Tooling Strategy | Onsite, Hiring Manager | Tech | Asked at Red Hat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-evaluate-the-maturity-of-a-vendor-s-schema-regi-115419) |

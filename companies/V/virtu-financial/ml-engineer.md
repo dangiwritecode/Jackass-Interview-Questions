@@ -2,6 +2,8 @@
 
 [← back to Virtu Financial](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser: your Python inference fleet occasionally returns different predictions on different replicas for the same input. How would you trace this to thread counts/BLAS/unseeded randomness and make deterministic serving a platform guarantee? | expertise | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Trading companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-your-python-inference-fleet-occasionally-returns-differen-68425) |

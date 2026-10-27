@@ -4,10 +4,10 @@
 
 | Company | Tier | Questions Listed | Tagged Directly |
 |---|---|---:|---:|
-| [Qdrant](qdrant/README.md) | Tier 3 | 762 | 1,235 |
+| [Qdrant](qdrant/README.md) | Tier 3 | 1,569 | 1,235 |
 | [Qlik](qlik/README.md) | Tier 3 | 540 | 6 |
 | [Qt](qt/README.md) | Tier 2 | 540 | 18 |
-| [Qualcomm](qualcomm/README.md) | Tier 2 | 768 | 423 |
+| [Qualcomm](qualcomm/README.md) | Tier 2 | 791 | 423 |
 | [Qualtrics](qualtrics/README.md) | Tier 2 | 540 | 7 |
 | [Qualys](qualys/README.md) | Tier 3 | 540 | 10 |
 | [Quantexa](quantexa/README.md) | Tier 3 | 540 | 7 |

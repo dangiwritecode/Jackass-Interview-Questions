@@ -2,6 +2,8 @@
 
 [← back to Palo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must provision cross-account infra where the prod-account role can only be assumed after MFA, but CI has no human to enter MFA. How do you architect the assume-role chain and session policies so automated applies work without weakening the human MFA requirement? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Palo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-provision-cross-account-infra-where-the-prod-account-role-can-30213) |

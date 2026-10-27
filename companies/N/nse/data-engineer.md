@@ -2,6 +2,8 @@
 
 [← back to NSE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why not just use one cloud and accept the concentration risk — quantify for me what a full regional outage of your primary provider would cost the business versus your multi-cloud DR spend. | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at NSE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-not-just-use-one-cloud-and-accept-the-concentration-risk-quantify--127222) |

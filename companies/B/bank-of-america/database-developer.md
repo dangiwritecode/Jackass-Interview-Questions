@@ -2,6 +2,8 @@
 
 [← back to Bank of America](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd run a multi-year program to encrypt a 30-year-old mainframe/DB2 estate holding regulated data — sequencing, risk gates, and how you avoid a big-bang cutover. | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Bank of America | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-run-a-multi-year-program-to-encrypt-a-30-year-old-ma-115316) |

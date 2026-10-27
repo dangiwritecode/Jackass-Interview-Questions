@@ -2,6 +2,8 @@
 
 [← back to OpenXLA](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an abstraction so model teams target GPUs, TPUs, and custom silicon without rewriting code, and where does that abstraction inevitably leak in ways you have to plan for? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at OpenXLA | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-abstraction-so-model-teams-target-gpus-tpus-an-85091) |

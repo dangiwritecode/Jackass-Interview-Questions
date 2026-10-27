@@ -2,6 +2,8 @@
 
 [← back to Deutsche Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator asks: 'prove that this GDPR-deleted customer's data no longer feeds any downstream report.' How does your metadata/lineage system answer that, and where are the blind spots? | expertise | SDE-2/3, Architect/Principal | Data Catalog & Metadata Engineering | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Deutsche Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-asks-prove-that-this-gdpr-deleted-customer-s-data-no-longe-126518) |

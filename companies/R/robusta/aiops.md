@@ -2,6 +2,8 @@
 
 [← back to Robusta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an incident-automation that captures a full diagnostic bundle (pod describe, recent events, logs, node conditions) the moment an alert fires, so the snapshot survives even if Pods are recreated. Why is capture-at-fire critical? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Robusta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-incident-automation-that-captures-a-full-diagnostic-bundle-p-92486) |

@@ -2,6 +2,8 @@
 
 [← back to Inngest](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a background job trigger from a Server Action (e.g. send email, resize image) that doesn't block the response and survives the serverless function ending. | deep understanding | SDE-1/2, SDE-2/3 | Next.js | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Inngest | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-background-job-trigger-from-a-server-action-e-g-send-email-re-17225) |

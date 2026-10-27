@@ -2,6 +2,8 @@
 
 [← back to 37signals](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when to repatriate a data workload from an expensive managed cloud service back to self-managed compute — and does multi-cloud make repatriation easier or harder? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at 37signals | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-to-repatriate-a-data-workload-from-an-expensive-127297) |

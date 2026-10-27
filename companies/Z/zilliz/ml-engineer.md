@@ -2,6 +2,8 @@
 
 [← back to Zilliz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain semantic caching with an embedding-similarity threshold and the failure mode where a near-duplicate query returns a wrong cached answer. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Zilliz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-semantic-caching-with-an-embedding-similarity-threshold-and-th-63817) |

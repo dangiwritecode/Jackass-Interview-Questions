@@ -2,6 +2,8 @@
 
 [← back to Weights & Biases](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your GraphQL resolver for a list field triggers one indexed query per parent (N+1). Compare DataLoader batching against a single covering-index query and explain the index the batched query needs. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at AI companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-graphql-resolver-for-a-list-field-triggers-one-indexed-query-per--25777) |

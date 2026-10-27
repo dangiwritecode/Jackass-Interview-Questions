@@ -2,6 +2,8 @@
 
 [← back to Netdata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You containerize an anomaly-detection service that scores a per-service metric stream, but during a metrics storm it falls behind and starts flagging stale windows. How would you design the container's concurrency, buffering, and readiness so it sheds load rather than emitting false anomalies? | deep understanding | SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Netdata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-containerize-an-anomaly-detection-service-that-scores-a-per-servic-92327) |

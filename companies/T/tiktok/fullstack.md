@@ -2,6 +2,8 @@
 
 [← back to TikTok](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A product team wants to ship a feature that will triple their infra cost for a 5% engagement lift. As the architect who owns the platform budget, how do you adjudicate this, and what data-and-governance mechanism makes this decision repeatable? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at TikTok | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-product-team-wants-to-ship-a-feature-that-will-triple-their-infra-co-37039) |

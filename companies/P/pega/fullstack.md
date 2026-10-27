@@ -2,6 +2,8 @@
 
 [← back to Pega](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must architect a workflow/approval engine where business users configure multi-step approval flows without code — how do you model the flow-definition versioning in-flight instances during a definition change and long-running human waits? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Pega | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-architect-a-workflow-approval-engine-where-business-users-con-39465) |

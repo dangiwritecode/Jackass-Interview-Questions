@@ -2,6 +2,8 @@
 
 [← back to Nagarro](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a pattern in ServiceNow Service Mapping, and roughly what does it define? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | Asked at Nagarro | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-pattern-in-servicenow-service-mapping-and-roughly-what-does--91615) |

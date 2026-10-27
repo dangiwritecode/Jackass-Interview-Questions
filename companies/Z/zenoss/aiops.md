@@ -2,6 +2,8 @@
 
 [← back to Zenoss](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You run adaptive/dynamic alert thresholds trained on historical telemetry. During a genuine regime change (a new deploy shifts the baseline), the model treats the new normal as anomalous and floods pages. How do you architect resilience against model-induced alert storms? | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Zenoss | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-run-adaptive-dynamic-alert-thresholds-trained-on-historical-teleme-99129) |

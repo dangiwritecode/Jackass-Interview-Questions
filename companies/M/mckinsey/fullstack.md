@@ -2,6 +2,8 @@
 
 [← back to McKinsey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you estimate the number of piano tuners in a large city and what assumptions drive your answer? | expertise | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at McKinsey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-estimate-the-number-of-piano-tuners-in-a-large-city-and--7998) |

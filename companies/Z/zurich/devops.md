@@ -2,6 +2,8 @@
 
 [← back to Zurich](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you assess whether to invest in a warm standby, pilot-light, or backup-restore DR pattern per workload tier on Azure, and how do you keep the standby from silently rotting? | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at Zurich | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-assess-whether-to-invest-in-a-warm-standby-pilot-light-or-b-54613) |

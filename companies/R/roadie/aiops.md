@@ -2,6 +2,8 @@
 
 [← back to Roadie](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're evaluating whether to build an internal developer portal (Backstage) that surfaces each service's SLOs, dashboards, and on-call from your observability platform. What's the integration architecture, and where does a portal help discoverability versus becoming another stale layer? | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Roadie | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-whether-to-build-an-internal-developer-portal-backst-99071) |

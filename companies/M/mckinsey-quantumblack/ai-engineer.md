@@ -2,6 +2,8 @@
 
 [← back to McKinsey QuantumBlack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to define what 'RAG maturity' means for the org so leadership can measure progress. Propose a maturity model with concrete levels spanning ingestion hygiene, eval rigor, governance, and cost discipline, and what unlocks moving up a level. | deep understanding | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at McKinsey QuantumBlack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-define-what-rag-maturity-means-for-the-org-so-leadersh-82944) |

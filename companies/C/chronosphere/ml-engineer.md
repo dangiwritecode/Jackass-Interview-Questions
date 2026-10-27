@@ -2,6 +2,8 @@
 
 [← back to Chronosphere](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you expose model-serving metrics such as inference latency histogram, queue depth, and GPU utilization from a FastAPI service to Prometheus without adding measurable request overhead? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Chronosphere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-expose-model-serving-metrics-such-as-inference-latency-hist-62900) |

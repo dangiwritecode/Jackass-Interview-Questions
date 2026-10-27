@@ -2,6 +2,8 @@
 
 [← back to Deutsche Telekom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for cross-region data residency when a global GenAI product must retrieve region-local knowledge but serve a single conversational experience? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Deutsche Telekom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-cross-region-data-residency-when-a-global-gen-86745) |

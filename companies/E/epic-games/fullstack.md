@@ -2,6 +2,8 @@
 
 [← back to Epic Games](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stateful game/session server needs users to reconnect to the same node, but that node must sometimes be drained. Design the routing + reconnection handshake that survives a planned drain. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Load Balancing | Phone Screen, Onsite | Tech | Asked at Epic Games | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stateful-game-session-server-needs-users-to-reconnect-to-the-same-no-18677) |

@@ -2,6 +2,8 @@
 
 [← back to Zilliz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain at a high level how the HNSW (Hierarchical Navigable Small World) index works. | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | Asked at Zilliz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-at-a-high-level-how-the-hnsw-hierarchical-navigable-small-worl-7703) |

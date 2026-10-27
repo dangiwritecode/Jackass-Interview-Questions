@@ -2,6 +2,8 @@
 
 [← back to Numenta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the numenta anomaly benchmark scoring window idea and when a time-weighted reward for early detection is better than binary hit/miss. | expertise | SDE-1/2, SDE-2/3 | Model Evaluation Metrics | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Numenta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-numenta-anomaly-benchmark-scoring-window-idea-and-when-a-t-94838) |

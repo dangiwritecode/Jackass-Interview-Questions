@@ -2,6 +2,8 @@
 
 [← back to Fiserv](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When would you choose format-preserving encryption over tokenization for card PAN in a PCI-plus-GDPR context — what does FPE break in your indexes and joins? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Fiserv | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-choose-format-preserving-encryption-over-tokenization-f-115257) |

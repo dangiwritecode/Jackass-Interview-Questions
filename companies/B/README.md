@@ -21,7 +21,7 @@
 | [Barclays](barclays/README.md) | Tier 2 | 592 | 229 |
 | [Barracuda](barracuda/README.md) | Tier 4 | 540 | 1 |
 | [Basecamp](basecamp/README.md) | Tier 3 | 540 | 28 |
-| [Baseten](baseten/README.md) | Tier 3 | 720 | 811 |
+| [Baseten](baseten/README.md) | Tier 3 | 1,201 | 811 |
 | [Basho](basho/README.md) | Tier 3 | 540 | 2 |
 | [Basho-Riak](basho-riak/README.md) | Tier 3 | 540 | 1 |
 | [Basis Theory](basis-theory/README.md) | Tier 4 | 540 | 2 |
@@ -41,7 +41,7 @@
 | [BigCommerce](bigcommerce/README.md) | Tier 3 | 540 | 1 |
 | [Bigeye](bigeye/README.md) | Tier 4 | 540 | 25 |
 | [BigID](bigid/README.md) | Tier 4 | 540 | 62 |
-| [BigPanda](bigpanda/README.md) | Tier 3 | 630 | 1,652 |
+| [BigPanda](bigpanda/README.md) | Tier 3 | 2,129 | 1,652 |
 | [Binance](binance/README.md) | Tier 2 | 540 | 13 |
 | [Bishop-Fox](bishop-fox/README.md) | Tier 3 | 540 | 1 |
 | [BitGo](bitgo/README.md) | Tier 3 | 540 | 10 |
@@ -59,7 +59,7 @@
 | [Blinkit](blinkit/README.md) | Tier 3 | 540 | 95 |
 | [Blizzard](blizzard/README.md) | Tier 1 | 540 | 1 |
 | [Block](block/README.md) | Tier 2 | 540 | 14 |
-| [Bloomberg](bloomberg/README.md) | Tier 2 | 935 | 2,005 |
+| [Bloomberg](bloomberg/README.md) | Tier 2 | 2,438 | 2,005 |
 | [BloombergGPT](bloomberggpt/README.md) | Tier 2 | 540 | 2 |
 | [Blue Prism](blue-prism/README.md) | Tier 3 | 540 | 1 |
 | [Blue Yonder](blue-yonder/README.md) | Tier 3 | 540 | 6 |
@@ -74,7 +74,7 @@
 | [Bobsled](bobsled/README.md) | Tier 4 | 540 | 2 |
 | [Boeing](boeing/README.md) | Tier 2 | 540 | 5 |
 | [Bolt](bolt/README.md) | Tier 2 | 540 | 17 |
-| [Booking.com](booking-com/README.md) | Tier 2 | 1,061 | 1,719 |
+| [Booking.com](booking-com/README.md) | Tier 2 | 1,880 | 1,719 |
 | [BookMyShow](bookmyshow/README.md) | Tier 3 | 587 | 180 |
 | [Boomi](boomi/README.md) | Tier 3 | 540 | 2 |
 | [Booz-Allen](booz-allen/README.md) | Tier 2 | 540 | 29 |
@@ -83,7 +83,7 @@
 | [Box](box/README.md) | Tier 3 | 540 | 72 |
 | [Box8](box8/README.md) | Tier 4 | 540 | 1 |
 | [BP](bp/README.md) | Tier 2 | 540 | 3 |
-| [Braintrust](braintrust/README.md) | Tier 3 | 630 | 337 |
+| [Braintrust](braintrust/README.md) | Tier 3 | 759 | 337 |
 | [Branch International](branch-international/README.md) | Tier 4 | 540 | 2 |
 | [Brave](brave/README.md) | Tier 3 | 540 | 12 |
 | [Braze](braze/README.md) | Tier 2 | 540 | 24 |
@@ -95,7 +95,7 @@
 | [British Airways/IAG](british-airways-iag/README.md) | Tier 2 | 540 | 2 |
 | [Britive](britive/README.md) | Tier 3 | 540 | 1 |
 | [Broad-Institute](broad-institute/README.md) | Tier 2 | 540 | 1 |
-| [Broadcom](broadcom/README.md) | Tier 2 | 789 | 1,007 |
+| [Broadcom](broadcom/README.md) | Tier 2 | 1,314 | 1,007 |
 | [Broadridge](broadridge/README.md) | Tier 3 | 540 | 2 |
 | [Browserbase](browserbase/README.md) | Tier 4 | 540 | 5 |
 | [Browserless](browserless/README.md) | Tier 3 | 540 | 2 |
@@ -115,4 +115,4 @@
 | [Busuu](busuu/README.md) | Tier 4 | 540 | 1 |
 | [Byju's](byju-s/README.md) | Tier 3 | 540 | 44 |
 | [Bytebase](bytebase/README.md) | Tier 4 | 540 | 6 |
-| [ByteDance](bytedance/README.md) | Tier 1 | 630 | 477 |
+| [ByteDance](bytedance/README.md) | Tier 1 | 773 | 477 |

@@ -2,6 +2,8 @@
 
 [← back to DuckDuckGo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would satisfy GDPR data-minimization and purpose-limitation at the ingestion layer rather than after the fact in a warehouse — what does that change architecturally? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at DuckDuckGo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-satisfy-gdpr-data-minimization-and-purpose-limit-127322) |

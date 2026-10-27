@@ -2,6 +2,8 @@
 
 [← back to Disney](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A postmortem reveals a thundering herd on a cold cache during a regional failover melted your origin and turned a minor blip into an hour-long outage — walk me through the architectural fixes and how you'd prove they work before the next failover. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Disney | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-postmortem-reveals-a-thundering-herd-on-a-cold-cache-during-a-region-33236) |

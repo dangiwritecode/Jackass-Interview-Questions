@@ -2,6 +2,8 @@
 
 [← back to Prefect](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to detect a cycle in a dependency/task graph before running it; explain the complexity of the detection, how you'd surface the offending cycle, and the space cost of tracking visited state. | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Prefect | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-detect-a-cycle-in-a-dependency-task-graph-before-running-i-16182) |

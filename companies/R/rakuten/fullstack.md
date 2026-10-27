@@ -2,6 +2,8 @@
 
 [← back to Rakuten](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regional cloud provider outage is a realistic threat and leadership wants true multi-cloud portability for the tier-1 estate. As principal, how would you honestly assess whether multi-cloud Kubernetes is worth its complexity tax, what portions you'd actually make portable, and where you'd deliberately accept lock-in? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Rakuten | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regional-cloud-provider-outage-is-a-realistic-threat-and-leadership--39066) |

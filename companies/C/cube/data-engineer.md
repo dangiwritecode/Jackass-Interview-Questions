@@ -2,6 +2,8 @@
 
 [← back to Cube](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: your data mesh gave every domain autonomy but three domains re-derive 'active user' with subtly different logic and finance now gets three numbers. How do you reconcile domain autonomy with the need for a single canonical metric, and where does a shared semantic layer sit in the mesh? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Cube | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-your-data-mesh-gave-every-domain-autonomy-but-three--125618) |

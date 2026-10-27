@@ -2,6 +2,8 @@
 
 [← back to Collibra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd fold data governance, residency, and lineage concerns into a WAF review that predates strong data-pillar guidance. | deep understanding | SDE-2/3, Architect/Principal | Well-Architected Framework | Phone Screen, Onsite | Tech | Asked at Collibra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-fold-data-governance-residency-and-lineage-concerns--56165) |

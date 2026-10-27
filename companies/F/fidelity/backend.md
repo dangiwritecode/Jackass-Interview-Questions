@@ -2,6 +2,8 @@
 
 [← back to Fidelity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a governance model for reserved-capacity commitments across a portfolio of business units with different risk appetites. How do you decide the org-wide commitment coverage ratio and who bears the risk of unused commitments? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Fidelity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-governance-model-for-reserved-capacity-commitments-across-a-37058) |

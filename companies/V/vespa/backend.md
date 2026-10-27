@@ -2,6 +2,8 @@
 
 [← back to Vespa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the reference architecture for a search platform that must serve lexical, semantic, and hybrid retrieval as first-class products to any team. What abstractions do you expose so teams don't need to understand HNSW or BM25 internals? | expertise | SDE-2/3, Architect/Principal | Elasticsearch & Search Systems | Phone Screen, Onsite | Tech | Asked at Vespa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-reference-architecture-for-a-search-platform-that-must-serv-34918) |

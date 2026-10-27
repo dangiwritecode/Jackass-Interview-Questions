@@ -2,6 +2,8 @@
 
 [← back to Mphasis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A drift job you own started missing its daily SLA because the reference dataset grew. How would you make the computation scale without losing sensitivity? | intermediate experience | SDE-1/2, SDE-2/3 | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Mphasis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-drift-job-you-own-started-missing-its-daily-sla-because-the-referenc-81106) |

@@ -2,6 +2,8 @@
 
 [← back to OctoAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a model-compression/optimization toolchain (quantization, distillation, pruning) — buy an inference-optimization vendor vs build on TensorRT-LLM/vLLM/GGUF — when squeezing serving cost is worth an ML-systems team's full-time effort? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at OctoAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-model-compression-optimization-to-69801) |

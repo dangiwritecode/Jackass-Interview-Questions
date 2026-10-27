@@ -2,6 +2,8 @@
 
 [← back to Navi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Reaching the Final Cell With Forward Hops | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Greedy | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Navi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reaching-the-final-cell-with-forward-hops-d55) |

@@ -2,6 +2,8 @@
 
 [← back to Yotta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach when the 'right' datastore for a workload isn't available in your cloud region or has weak managed support there? How does cloud-provider reality constrain ideal selection? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Yotta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-when-the-right-datastore-for-a-workload-isn-t-ava-114395) |

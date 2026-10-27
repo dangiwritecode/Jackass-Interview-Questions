@@ -2,6 +2,8 @@
 
 [← back to Machine Zone](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Half-Open Interval Coverage Tracker | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Search, Design, Interval Merging, Ordered Set, Segment Tree, TreeMap | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Machine Zone | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=half-open-interval-coverage-tracker-d700) |

@@ -2,6 +2,8 @@
 
 [← back to Alation](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect end-to-end lineage so that when a PII column is discovered mid-pipeline, you can enumerate every downstream copy and enforce access retroactively? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Alation | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-end-to-end-lineage-so-that-when-a-pii-column-is-d-114059) |

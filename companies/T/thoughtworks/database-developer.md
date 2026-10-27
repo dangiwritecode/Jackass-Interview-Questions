@@ -2,6 +2,8 @@
 
 [← back to ThoughtWorks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An architecture review committee is split 50/50 between two databases. How do you structure the decision so it's made on evidence, reversibility, and risk rather than tenure and volume? | expertise | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ThoughtWorks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-architecture-review-committee-is-split-50-50-between-two-databases--114375) |

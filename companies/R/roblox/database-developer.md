@@ -2,6 +2,8 @@
 
 [← back to Roblox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how DynamoDB adaptive capacity and instant-split-on-throttle actually work under the hood, and how you'd design a partition-key strategy that keeps per-partition throughput below the physical 3000 RCU / 1000 WCU ceiling for a high-cardinality write workload. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Roblox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-dynamodb-adaptive-capacity-and-instant-split-on-throttle-a-111849) |

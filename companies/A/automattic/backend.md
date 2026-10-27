@@ -2,6 +2,8 @@
 
 [← back to Automattic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a class model for optimistic UI reconciliation on the server side of a collaborative counter, where two clients increment concurrently; compare a CRDT counter vs a serialized-through-primary approach. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Automattic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-class-model-for-optimistic-ui-reconciliation-on-the-server-si-22375) |

@@ -2,6 +2,8 @@
 
 [← back to Waymo](README.md)
 
+Questions 1–67 of 67.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A non-max-suppression step in an object-detection pipeline is the latency bottleneck; how do sorting by score plus an interval/spatial structure reduce the pairwise IoU comparisons, and what's the worst case? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Waymo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-non-max-suppression-step-in-an-object-detection-pipeline-is-the-late-62516) |

@@ -2,6 +2,8 @@
 
 [← back to Mesosphere/D2iQ](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your biggest platform debt is a homegrown orchestration framework a whole generation of the org built on, and half the SREs love it. How do you make the case to migrate to standard Kubernetes tooling without alienating the internal community around it? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Mesosphere/D2iQ | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-biggest-platform-debt-is-a-homegrown-orchestration-framework-a-wh-54420) |

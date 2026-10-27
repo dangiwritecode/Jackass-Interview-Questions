@@ -2,6 +2,8 @@
 
 [← back to Spot.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team argues that spot-instance interruptions cost more in on-call toil and SLA breaches than they save. As the architect, how do you quantify the true fully-loaded cost of spot and decide the right spot-to-on-demand ratio per workload class? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Spot.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-argues-that-spot-instance-interruptions-cost-more-in-on-call-to-37061) |

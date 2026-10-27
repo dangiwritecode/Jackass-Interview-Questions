@@ -2,6 +2,8 @@
 
 [← back to Turnitin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a rolling-hash-based approach to find duplicate substrings across a large corpus (plagiarism/near-dup); how do you avoid re-hashing from scratch and manage hash collisions? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Turnitin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-rolling-hash-based-approach-to-find-duplicate-substrings-acro-16080) |

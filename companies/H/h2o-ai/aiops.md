@@ -2,6 +2,8 @@
 
 [← back to H2O.ai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you cache Python dependencies in a pipeline that builds a telemetry-analysis tool, and why does caching speed it up? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | CI/CD | Phone Screen, Onsite | Tech | Asked at H2O.ai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cache-python-dependencies-in-a-pipeline-that-builds-a-te-87967) |

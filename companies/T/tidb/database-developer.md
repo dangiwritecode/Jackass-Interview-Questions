@@ -2,6 +2,8 @@
 
 [← back to TiDB](README.md)
 
+Questions 1–139 of 139.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cross-shard transaction in your multi-raft store must be atomic and serializable. Compare 2PC-over-Raft with parallel commits (where the transaction record itself is consensus-replicated) and explain how parallel commits cut a network round-trip. What's the recovery protocol? | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at TiDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cross-shard-transaction-in-your-multi-raft-store-must-be-atomic-and--112151) |

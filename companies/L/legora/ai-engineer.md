@@ -2,6 +2,8 @@
 
 [← back to Legora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You picked SentenceWindowNodeParser over a plain SentenceSplitter for a legal-docs RAG — justify the trade-off and what breaks at query time if MetadataReplacementPostProcessor is misconfigured. | deep understanding | SDE-1/2, SDE-2/3 | LlamaIndex | Phone Screen, Onsite | Tech | Asked at Legora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-picked-sentencewindownodeparser-over-a-plain-sentencesplitter-for--79804) |

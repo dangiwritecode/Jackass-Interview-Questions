@@ -2,6 +2,8 @@
 
 [← back to Temporal Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A newly-hired principal calls your entire agentic stack over-engineered; walk through how you'd separate the parts justified by real compliance and scale needs from genuine gold-plating, and how you'd simplify without losing future headroom. | expertise | SDE-2/3, Architect/Principal | GenAI System Design | Phone Screen, Onsite | Tech | Asked at Temporal Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-newly-hired-principal-calls-your-entire-agentic-stack-over-engineere-69015) |

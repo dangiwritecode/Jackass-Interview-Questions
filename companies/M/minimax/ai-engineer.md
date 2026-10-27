@@ -2,6 +2,8 @@
 
 [← back to MiniMax](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd sanity-check whether a model actually supports the context length it advertises for your task, before relying on it in production. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at MiniMax | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-sanity-check-whether-a-model-actually-supports-the-c-77995) |

@@ -2,6 +2,8 @@
 
 [← back to EnterpriseDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A JSONB column started as a convenience and now half your queries filter deep into it and it's slow. How do you index JSONB (GIN, expression indexes) and when do you promote fields to real columns? | deep understanding | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at EnterpriseDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-jsonb-column-started-as-a-convenience-and-now-half-your-queries-filt-16283) |

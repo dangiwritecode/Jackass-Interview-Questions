@@ -2,6 +2,8 @@
 
 [← back to CyberArk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An auditor asks you to prove that no standing 'god-mode' privileges exist and all elevated access is just-in-time. Architect a JIT-privilege-elevation system (request, approve, time-box, auto-revoke, audit) for production access across your fleet. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at CyberArk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-auditor-asks-you-to-prove-that-no-standing-god-mode-privileges-exis-32771) |

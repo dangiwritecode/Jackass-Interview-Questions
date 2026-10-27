@@ -2,6 +2,8 @@
 
 [← back to Teladoc](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build a guardrail that lets high-stakes financial or medical queries through to a human while still auto-handling the rest? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Evaluation & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Teladoc | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-guardrail-that-lets-high-stakes-financial-or-medica-80780) |

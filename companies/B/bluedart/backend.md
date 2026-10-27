@@ -2,6 +2,8 @@
 
 [← back to BlueDart](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A batch that computes shortest paths between all warehouse pairs is too slow with repeated Dijkstra; when would you switch to Floyd-Warshall or Johnson's algorithm, and how does graph density drive the choice? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at BlueDart | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-batch-that-computes-shortest-paths-between-all-warehouse-pairs-is-to-21964) |

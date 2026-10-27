@@ -2,6 +2,8 @@
 
 [← back to Visa](README.md)
 
+Questions 1–67 of 67.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator asks how you validate that AI grading AI is defensible for a lending-decision assistant. What documentation, human oversight, and validation evidence do you present? | expertise | SDE-2/3, Architect/Principal | Evaluation Frameworks (LLM-as-Judge) | Phone Screen, Onsite | Tech | Asked at Visa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-asks-how-you-validate-that-ai-grading-ai-is-defensible-for-85448) |

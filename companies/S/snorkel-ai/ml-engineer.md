@@ -2,6 +2,8 @@
 
 [← back to Snorkel AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A model occasionally returns duplicated or looping text near max_tokens in your extraction feature. How do you detect degenerate output programmatically and decide whether to retry or truncate? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Snorkel AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-occasionally-returns-duplicated-or-looping-text-near-max-token-64162) |

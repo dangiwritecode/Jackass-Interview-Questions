@@ -2,6 +2,8 @@
 
 [← back to Otter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your framework for evaluating a summarization model at scale when both faithfulness and informativeness matter and improving one hurts the other? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Otter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-evaluating-a-summarization-model-at-scale-wh-86906) |

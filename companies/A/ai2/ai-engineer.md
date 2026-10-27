@@ -2,6 +2,8 @@
 
 [← back to AI2](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to detecting benchmark contamination when you can't inspect a third-party model's training data before evaluating it? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at AI2 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-detecting-benchmark-contamination-when-you-can-86880) |

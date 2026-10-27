@@ -2,6 +2,8 @@
 
 [← back to SecurityScorecard](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a compliant audit for third-party vendors who process your PII — what technical attestations do you require on their encryption and how do you continuously verify? | deep understanding | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at SecurityScorecard | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-compliant-audit-for-third-party-vendors-who-pro-115306) |

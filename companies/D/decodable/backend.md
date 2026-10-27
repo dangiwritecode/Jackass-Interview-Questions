@@ -2,6 +2,8 @@
 
 [← back to Decodable](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stream processor must join a fast event stream against a slowly-changing dimension table; what in-memory structure holds the dimension, and how do you handle updates without stalling the join? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Decodable | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stream-processor-must-join-a-fast-event-stream-against-a-slowly-chan-21991) |

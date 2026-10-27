@@ -2,6 +2,8 @@
 
 [← back to Modal Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | After quantizing a self-hosted model, aggregate eval scores held but a specific capability (long-form code generation) regressed. Explain why quantization damages some capabilities more than others, and design an eval slice and a mixed-precision or selective-routing mitigation rather than reverting entirely. | deep understanding | SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Modal Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=after-quantizing-a-self-hosted-model-aggregate-eval-scores-held-but-a--27521) |

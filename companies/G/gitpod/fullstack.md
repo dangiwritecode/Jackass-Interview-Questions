@@ -2,6 +2,8 @@
 
 [← back to GitPod](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must build a preview-environment-per-pull-request platform for hundreds of engineers on Kubernetes. As principal, how would you architect it for cost, isolation, fast spin-up, ephemeral secrets, and automatic teardown so it stays cheap and doesn't leave thousands of orphaned namespaces, and how would you measure whether it improved DX? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at GitPod | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-build-a-preview-environment-per-pull-request-platform-for-hun-39113) |

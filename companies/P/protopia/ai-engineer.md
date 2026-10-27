@@ -2,6 +2,8 @@
 
 [← back to Protopia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the org enforces PII redaction and content policy uniformly across every GenAI request at the platform layer, not per-team. Would you enforce it as a mesh filter, a mandated sidecar, or a gateway stage, and how would you prove to an auditor the redaction is applied to 100% of traffic? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Protopia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-org-enforces-pii-redaction-and-content-policy-uniformly-82587) |

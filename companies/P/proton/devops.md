@@ -2,6 +2,8 @@
 
 [← back to Proton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design encryption-as-a-service using Vault transit for 100 apps needing envelope encryption, with key rotation, keyring versioning, and a path to crypto-agility if an algorithm is deprecated. Where's the throughput ceiling? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Proton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-encryption-as-a-service-using-vault-transit-for-100-apps-needin-54957) |

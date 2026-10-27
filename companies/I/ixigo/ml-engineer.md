@@ -2,6 +2,8 @@
 
 [← back to ixigo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you explain why an agent might need both a 'search flights' and a 'book flight' tool, and why the second is riskier? | basic concept | Fresher, SDE-1/2, SDE-2/3 | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at ixigo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-explain-why-an-agent-might-need-both-a-search-flights-an-58724) |

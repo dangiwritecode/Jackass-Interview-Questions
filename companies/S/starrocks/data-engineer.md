@@ -2,6 +2,8 @@
 
 [← back to StarRocks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the changelog vs append-only distinction in Flink SQL when your source is CDC and your sink is an OLAP store? | deep understanding | SDE-1/2, SDE-2/3 | Stream Processing (Apache Flink) | Phone Screen, Onsite | Tech | Asked at StarRocks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-changelog-vs-append-only-distinction-in-flink-sq-121345) |

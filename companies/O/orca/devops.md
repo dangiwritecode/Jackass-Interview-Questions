@@ -2,6 +2,8 @@
 
 [← back to Orca](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the migration so that green/brown workloads share a consistent security baseline and you don't create two security postures? | expertise | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Orca | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-migration-so-that-green-brown-workloads-share-56622) |

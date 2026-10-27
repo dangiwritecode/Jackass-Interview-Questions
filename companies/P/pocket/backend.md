@@ -2,6 +2,8 @@
 
 [← back to Pocket](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a bookmark/save-for-later feature across web and mobile. | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Pocket | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-bookmark-save-for-later-feature-across-web-and-mobile-8886) |

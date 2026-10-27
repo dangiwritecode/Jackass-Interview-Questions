@@ -2,6 +2,8 @@
 
 [← back to Rockset](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for an OLTP-to-OLAP replication path (self-run CDC-to-warehouse vs a managed operational-analytics store like SingleStore/Rockset) when you need sub-second freshness for real-time dashboards without hammering the primary? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Rockset | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-oltp-to-olap-replication-path-se-113026) |

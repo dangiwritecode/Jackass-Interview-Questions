@@ -2,6 +2,8 @@
 
 [← back to AssemblyAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you monitor an ASR or transcription front-end feeding your NLP model so audio drift doesn't silently degrade text quality? | intermediate experience | SDE-1/2, SDE-2/3 | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at AssemblyAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-an-asr-or-transcription-front-end-feeding-your-nlp--81149) |

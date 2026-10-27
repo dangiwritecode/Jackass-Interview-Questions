@@ -2,6 +2,8 @@
 
 [← back to Tetrate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the skills and hiring strategy for owning a mesh at scale: what expertise the platform team needs, whether you build it in-house or partner with a vendor for support, and how you avoid a single-person bus-factor on mesh operability. | expertise | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Tetrate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-skills-and-hiring-strategy-for-owning-a-mesh-at-scale-what--34674) |

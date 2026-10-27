@@ -2,6 +2,8 @@
 
 [← back to BlazeMeter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a load/performance-testing platform for release gating (k6 Cloud/Grafana vs BlazeMeter vs self-hosted k6/Gatling) when reproducible load at scale must run in CI without becoming a cost sink? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at BlazeMeter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-load-performance-testing-platform-53769) |

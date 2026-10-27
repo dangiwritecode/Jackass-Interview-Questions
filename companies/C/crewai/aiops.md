@@ -2,6 +2,8 @@
 
 [← back to crewAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you monitor an agentic workflow where drift in one tool-call cascades into wrong downstream decisions? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at crewAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-an-agentic-workflow-where-drift-in-one-tool-call-97881) |

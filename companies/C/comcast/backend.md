@@ -2,6 +2,8 @@
 
 [← back to Comcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A skeptical VP says 'data mesh is just microservices hype for data — it'll fragment our governance and blow up costs.' How do you respond, and what evidence would change your own mind? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Comcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-skeptical-vp-says-data-mesh-is-just-microservices-hype-for-data-it-l-36512) |

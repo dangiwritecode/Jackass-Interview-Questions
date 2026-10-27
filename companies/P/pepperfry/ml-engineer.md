@@ -2,6 +2,8 @@
 
 [← back to Pepperfry](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the cold-start problem for a Random Forest recommendation model when a new product category launches with no history? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Pepperfry | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-cold-start-problem-for-a-random-forest-recommend-65929) |

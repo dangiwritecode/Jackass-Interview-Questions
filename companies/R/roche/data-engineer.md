@@ -2,6 +2,8 @@
 
 [← back to Roche](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build a data quality framework that treats PII and regulated data differently — quarantine, masking, and stricter SLAs — without duplicating the entire check infrastructure? | expertise | SDE-2/3, Architect/Principal | Data Quality Framework & SLAs | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Roche | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-data-quality-framework-that-treats-pii-and-regulate-126948) |

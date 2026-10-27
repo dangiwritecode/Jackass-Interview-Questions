@@ -2,6 +2,8 @@
 
 [← back to Nagarro](README.md)
 
+Questions 1–92 of 92.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Does Snowflake use indexes and how does it optimize queries without them? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Snowflake | Phone Screen, Onsite | Tech | Asked at Nagarro | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=does-snowflake-use-indexes-and-how-does-it-optimize-queries-without-th-117935) |

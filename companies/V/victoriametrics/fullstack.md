@@ -2,6 +2,8 @@
 
 [← back to VictoriaMetrics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org-wide policy for how long each telemetry type lives and at what fidelity, tied to the questions each answers over time. Defend why you'd keep 13 months of downsampled metrics but only 7 days of full-fidelity traces. | deep understanding | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at VictoriaMetrics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-wide-policy-for-how-long-each-telemetry-type-lives-and--39732) |

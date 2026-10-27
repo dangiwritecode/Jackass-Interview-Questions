@@ -2,6 +2,8 @@
 
 [← back to Reka](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you weigh build-vs-buy for a foundation-model itself: pretrain your own vs fine-tune open weights vs consume a frontier API — how do you decide which layer of the model stack is genuinely differentiating for your business? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Reka | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-weigh-build-vs-buy-for-a-foundation-model-itself-pretrain-y-69785) |

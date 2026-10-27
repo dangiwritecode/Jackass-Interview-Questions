@@ -2,6 +2,8 @@
 
 [← back to Deutsche Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator requires that a specific customer segment's data never leaves a region during training or inference. How would you enforce data-residency for ML workloads on a multi-region Kubernetes fleet and prove compliance? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Deutsche Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-requires-that-a-specific-customer-segment-s-data-never-lea-68490) |

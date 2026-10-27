@@ -2,6 +2,8 @@
 
 [← back to Chegg](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You grade free-text answers against a rubric with an LLM and need consistency across runs and across human reviewers. How do you design the grading prompt and process so scores are reproducible and defensible? | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Chegg | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-grade-free-text-answers-against-a-rubric-with-an-llm-and-need-cons-27616) |

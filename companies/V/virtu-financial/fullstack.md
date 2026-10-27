@@ -2,6 +2,8 @@
 
 [← back to Virtu Financial](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A latency-sensitive path calls new/delete millions of times per second. How would you replace it with a fixed-size block allocator or object pool, and how do you make the pool thread-safe without killing throughput? | expertise | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Trading companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-latency-sensitive-path-calls-new-delete-millions-of-times-per-second-16841) |

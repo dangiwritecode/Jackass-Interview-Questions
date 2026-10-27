@@ -24,7 +24,7 @@
 | [Ravelin](ravelin/README.md) | Tier 3 | 540 | 1 |
 | [Raycast](raycast/README.md) | Tier 3 | 540 | 1 |
 | [Raytheon](raytheon/README.md) | Tier 3 | 540 | 3 |
-| [Razorpay](razorpay/README.md) | Tier 2 | 1,260 | 45,271 |
+| [Razorpay](razorpay/README.md) | Tier 2 | 52,393 | 45,271 |
 | [RBC](rbc/README.md) | — | 2 | 2 |
 | [RBI](rbi/README.md) | Tier 1 | 540 | 3 |
 | [RBI-partner](rbi-partner/README.md) | Tier 2 | 540 | 2 |
@@ -35,9 +35,9 @@
 | [Rebrandly](rebrandly/README.md) | Tier 4 | 540 | 2 |
 | [Recorded Future](recorded-future/README.md) | Tier 2 | 540 | 2 |
 | [Recurly](recurly/README.md) | Tier 3 | 540 | 7 |
-| [Red Hat](red-hat/README.md) | Tier 2 | 900 | 2,381 |
+| [Red Hat](red-hat/README.md) | Tier 2 | 2,710 | 2,381 |
 | [RedBus](redbus/README.md) | Tier 3 | 540 | 16 |
-| [Reddit](reddit/README.md) | Tier 2 | 669 | 394 |
+| [Reddit](reddit/README.md) | Tier 2 | 689 | 394 |
 | [Redfin](redfin/README.md) | Tier 2 | 540 | 3 |
 | [Redgate](redgate/README.md) | Tier 3 | 540 | 4 |
 | [Redocly](redocly/README.md) | Tier 4 | 540 | 4 |
@@ -103,7 +103,7 @@
 | [Rubrik](rubrik/README.md) | Tier 2 | 540 | 142 |
 | [RudderStack](rudderstack/README.md) | Tier 3 | 540 | 5 |
 | [Rumble](rumble/README.md) | Tier 2 | 540 | 1 |
-| [Rundeck](rundeck/README.md) | Tier 3 | 630 | 195 |
+| [Rundeck](rundeck/README.md) | Tier 3 | 675 | 195 |
 | [Runpod](runpod/README.md) | Tier 3 | 540 | 33 |
 | [Runway](runway/README.md) | Tier 2 | 540 | 29 |
 | [Rytr](rytr/README.md) | Tier 4 | 540 | 1 |

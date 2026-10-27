@@ -2,6 +2,8 @@
 
 [← back to Zeta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Make the strategic case for or against adopting late-interaction retrieval (ColBERT-style multi-vector) as the org's default over single-vector dense retrieval, given its storage blowup and index complexity. At what corpus and quality bar does it earn its keep? | expertise | SDE-2/3, Architect/Principal | RAG (Retrieval-Augmented Generation) | Phone Screen, Onsite | Tech | Asked at Zeta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=make-the-strategic-case-for-or-against-adopting-late-interaction-retri-68872) |

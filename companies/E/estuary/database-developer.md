@@ -2,6 +2,8 @@
 
 [← back to Estuary](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for an ELT/ingestion layer feeding your warehouse (Fivetran/Airbyte-managed vs self-run Airbyte vs custom connectors) when connector breakage during source-API changes is a recurring reliability tax on your data models? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Estuary | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-elt-ingestion-layer-feeding-your-113010) |

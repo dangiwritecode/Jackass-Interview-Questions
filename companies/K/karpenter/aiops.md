@@ -2,6 +2,8 @@
 
 [← back to Karpenter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want to predict node-level saturation to pre-scale the cluster autoscaler ahead of a known 9am spike. What historical signals would you forecast on, and why is reactive cluster-autoscaling too slow for cold-start-sensitive workloads? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Karpenter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-predict-node-level-saturation-to-pre-scale-the-cluster-aut-92508) |

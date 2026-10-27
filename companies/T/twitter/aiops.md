@@ -2,6 +2,8 @@
 
 [← back to Twitter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the lake so a single tenant's runaway ingestion or query cannot degrade AIOps for the other 200 tenants sharing the platform? | deep understanding | SDE-2/3, Architect/Principal | Observability Data Lake | Onsite, Hiring Manager | Tech | Asked at Twitter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-lake-so-a-single-tenant-s-runaway-ingestio-102343) |

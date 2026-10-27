@@ -2,6 +2,8 @@
 
 [← back to Pingdom-SolarWinds](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd add a synthetic monitoring check that continuously exercises both the flag-on and flag-off code paths so a regression in either is caught before real users hit it. | deep understanding | SDE-1/2, SDE-2/3 | Feature Flags & Progressive Rollouts | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Pingdom-SolarWinds | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-add-a-synthetic-monitoring-check-that-continuously--47377) |

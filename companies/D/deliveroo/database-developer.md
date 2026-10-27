@@ -2,6 +2,8 @@
 
 [← back to Deliveroo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a provable right-to-be-forgotten across every datastore a customer's data touches — the OLTP row, Streams-derived read models, the search index, the Redshift warehouse, and backups under retention lock — reconciling GDPR erasure with immutability requirements? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Deliveroo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-provable-right-to-be-forgotten-across-every--111892) |

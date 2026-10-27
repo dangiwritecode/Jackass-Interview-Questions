@@ -2,6 +2,8 @@
 
 [← back to Revolut](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator requires that EU customer data never leave the EU while your primary cloud region is us-east-1 — architect data residency enforcement that is technically provable, not just policy on paper. | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Revolut | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-requires-that-eu-customer-data-never-leave-the-eu-while-yo-127221) |

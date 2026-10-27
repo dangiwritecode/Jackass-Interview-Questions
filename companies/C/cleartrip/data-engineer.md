@@ -2,6 +2,8 @@
 
 [← back to Cleartrip](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you use MATCH_RECOGNIZE / CEP to detect a checkout funnel dropout pattern in real time? | deep understanding | SDE-1/2, SDE-2/3 | Stream Processing (Apache Flink) | Phone Screen, Onsite | Tech | Asked at Cleartrip | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-match-recognize-cep-to-detect-a-checkout-funnel-drop-121284) |

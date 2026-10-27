@@ -2,6 +2,8 @@
 
 [← back to Reddit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a capacity plan that stays robust to a step-change discontinuity — a viral moment, a competitor's outage sending you their traffic, a regulatory mandate. How do you build 'surge insurance' capacity that's cheap when unused? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Reddit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-capacity-plan-that-stays-robust-to-a-step-c-52977) |

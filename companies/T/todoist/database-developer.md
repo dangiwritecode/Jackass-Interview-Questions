@@ -2,6 +2,8 @@
 
 [← back to Todoist](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd reason about CAP for a 'local-first' mobile app where each device holds an authoritative replica that syncs opportunistically; why is such a system fundamentally AP, and how do you preserve business invariants across long device partitions? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Todoist | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-reason-about-cap-for-a-local-first-mobile-app-where--111560) |

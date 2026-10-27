@@ -2,6 +2,8 @@
 
 [← back to PortSwigger](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain cache deception attacks (e.g., /account/profile.css tricking the CDN into caching a private page). How do you configure path-based caching rules to be safe? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at PortSwigger | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-cache-deception-attacks-e-g-account-profile-css-tricking-the-c-20859) |

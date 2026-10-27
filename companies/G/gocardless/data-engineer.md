@@ -2,6 +2,8 @@
 
 [← back to GoCardless](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how a data contract enforced at ingestion prevents a cross-cloud consumer from silently breaking when a producer in another cloud changes a field — what tooling enforces it and where does it leak? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at GoCardless | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-a-data-contract-enforced-at-ingestion-prevents-a-cross-clo-127255) |

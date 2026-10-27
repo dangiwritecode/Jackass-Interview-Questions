@@ -2,6 +2,8 @@
 
 [← back to HDFC-Bank](README.md)
 
+Questions 1–127 of 127.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator demands proof that your AIOps auto-remediation never silently altered a customer transaction to keep an SLO green. How do you architect immutable, tamper-evident audit provenance linking every automated action to the SLO state that triggered it? | expertise | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at HDFC-Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-demands-proof-that-your-aiops-auto-remediation-never-silen-100368) |

@@ -2,6 +2,8 @@
 
 [← back to NannyML](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect unlabeled performance estimation (importance weighting / ATC / confidence-based) as a platform service so teams get live accuracy proxies without a labeling pipeline? | expertise | SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at NannyML | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-unlabeled-performance-estimation-importance-weigh-101153) |

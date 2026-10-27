@@ -2,6 +2,8 @@
 
 [← back to Agoda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd combine experiment results across multiple markets/countries when treatment effects differ by region. | deep understanding | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at Agoda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-combine-experiment-results-across-multiple-markets--67764) |

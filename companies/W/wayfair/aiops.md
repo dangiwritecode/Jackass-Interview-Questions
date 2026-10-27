@@ -2,6 +2,8 @@
 
 [← back to Wayfair](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As the platform crosses a thousand consumer teams the metadata store itself becomes the scaling bottleneck: registry writes lock and lineage queries time out. Design a horizontally-shardable metadata architecture and defend your partition key against the cross-cutting queries auditors actually run. | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Wayfair | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-the-platform-crosses-a-thousand-consumer-teams-the-metadata-store-i-100632) |

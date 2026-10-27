@@ -2,6 +2,8 @@
 
 [← back to Domino's](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you add features like extra cheese and toppings to a base coffee/pizza order dynamically? Which pattern fits? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Domino's | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-add-features-like-extra-cheese-and-toppings-to-a-base-co-959) |

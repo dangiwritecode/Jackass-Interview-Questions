@@ -2,6 +2,8 @@
 
 [← back to Sardine](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design an approval and exception workflow for legitimate PII-in-training use cases (fraud, safety) that would otherwise be blocked by policy? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Sardine | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-approval-and-exception-workflow-for-legitimate-pi-72623) |

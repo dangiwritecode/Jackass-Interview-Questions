@@ -2,6 +2,8 @@
 
 [← back to Vanta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your AI platform must pass a SOC 2 and an EU AI Act readiness audit. How would you architect the cloud control and evidence plane so compliance is a byproduct of the platform rather than a quarterly scramble? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Vanta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-ai-platform-must-pass-a-soc-2-and-an-eu-ai-act-readiness-audit-ho-82770) |

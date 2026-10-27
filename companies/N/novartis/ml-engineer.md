@@ -2,6 +2,8 @@
 
 [← back to Novartis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges your privacy design: pseudonymized training data can be re-identified by a model that learns spurious correlations. As principal how do you measure re-identification risk of a trained model and defend that residual risk to a skeptical DPO? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Novartis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-privacy-design-pseudonymized-training-d-70008) |

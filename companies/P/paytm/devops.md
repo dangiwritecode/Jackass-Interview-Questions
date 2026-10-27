@@ -2,6 +2,8 @@
 
 [← back to Paytm](README.md)
 
+Questions 1–135 of 135.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants exactly-once end-to-end for financial events but every AWS messaging primitive is at-least-once — how do you architect the org's shared idempotency-and-dedup layer, and how do you honestly frame to leadership where exactly-once is a fiction versus effectively-once? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Paytm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-exactly-once-end-to-end-for-financial-events-but-every-aw-52363) |

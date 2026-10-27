@@ -2,6 +2,8 @@
 
 [← back to EY](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An audit finds 30% of your archived objects have no owner and unknown retention requirements. How do you remediate at scale without deleting something critical? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at EY | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-audit-finds-30-of-your-archived-objects-have-no-owner-and-unknown-r-126756) |

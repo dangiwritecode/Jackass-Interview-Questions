@@ -2,6 +2,8 @@
 
 [← back to Superhuman](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why an agent that can 'read email and take actions' is one of the most dangerous injection surfaces, and design the minimal-privilege architecture you'd insist on before shipping it. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Prompt Injection & Jailbreak Defense | Phone Screen, Onsite | Tech | Asked at Superhuman | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-an-agent-that-can-read-email-and-take-actions-is-one-of-th-82022) |

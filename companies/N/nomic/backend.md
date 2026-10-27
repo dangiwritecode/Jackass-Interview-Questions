@@ -2,6 +2,8 @@
 
 [← back to Nomic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What are Matryoshka embeddings and how would truncating dimensions let you trade accuracy for speed? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Nomic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-matryoshka-embeddings-and-how-would-truncating-dimensions-let-12297) |

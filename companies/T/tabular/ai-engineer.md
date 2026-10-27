@@ -2,6 +2,8 @@
 
 [← back to Tabular](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a lakehouse layer on AWS with S3 Iceberg and Glue that feeds both RAG retrieval and fine-tuning corpora — governing snapshot expiry and time-travel reads so a model can always be retrained or a RAG index rebuilt from the exact historical data? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tabular | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-lakehouse-layer-on-aws-with-s3-iceberg-and-g-82690) |

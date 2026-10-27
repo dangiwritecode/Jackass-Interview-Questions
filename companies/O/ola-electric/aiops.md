@@ -2,6 +2,8 @@
 
 [← back to Ola Electric](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect telemetry for edge and IoT fleets where connectivity is intermittent and you can't stream everything back — what do you compute at the edge? | deep understanding | SDE-2/3, Architect/Principal | Unified Observability (Logs/Metrics/Traces) | Phone Screen, Onsite | Tech | Asked at Ola Electric | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-telemetry-for-edge-and-iot-fleets-where-connectiv-101695) |

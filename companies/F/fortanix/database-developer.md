@@ -2,6 +2,8 @@
 
 [← back to Fortanix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An auditor asks you to prove encryption keys were never accessible to your cloud provider — how do you evidence that with External Key Store / Hold-Your-Own-Key and what's the operational cost? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Fortanix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-auditor-asks-you-to-prove-encryption-keys-were-never-accessible-to--115274) |

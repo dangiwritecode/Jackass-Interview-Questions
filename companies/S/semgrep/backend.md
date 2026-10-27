@@ -2,6 +2,8 @@
 
 [← back to Semgrep](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the CI/build architecture that structurally prevents anyone from concatenating a variable into SQL across a polyglot codebase mixing ORM, raw queries, and stored procs. Discuss the static-analysis approach, false-positive management, and how you make the gate non-bypassable without blocking legit dynamic SQL. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Semgrep | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-ci-build-architecture-that-structurally-prevents-anyone-fro-32871) |

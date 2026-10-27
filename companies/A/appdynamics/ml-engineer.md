@@ -2,6 +2,8 @@
 
 [← back to AppDynamics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd instrument continuous bias/drift monitoring so that a fairness regression triggers the same alerting and rollback machinery as an accuracy regression. | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Observability companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-instrument-continuous-bias-drift-monitoring-so-that-71682) |

@@ -2,6 +2,8 @@
 
 [← back to Scylla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design failure detection for a 10,000-node fleet where you must distinguish partial partitions from node death, and why a naive all-to-all heartbeat both scales badly and produces correlated false positives. What membership protocol do you standardize and why? | expertise | SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Scylla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-failure-detection-for-a-10-000-node-fleet-whe-52556) |

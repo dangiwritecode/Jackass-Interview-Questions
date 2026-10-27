@@ -2,6 +2,8 @@
 
 [← back to Snyk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the org's approach to policy-as-code (OPA/Kyverno) so guardrails on the AIOps platform (no public buckets, mandatory tags, allowlisted egress) are enforced at admission time rather than caught after the fact in an audit? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Snyk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-org-s-approach-to-policy-as-code-opa-kyver-98904) |

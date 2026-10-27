@@ -2,6 +2,8 @@
 
 [← back to Informatica](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide what belongs in a central data dictionary versus a business glossary, and how do you keep technical and business definitions from drifting apart? | deep understanding | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | Asked at Informatica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-what-belongs-in-a-central-data-dictionary-versus-a-b-114770) |

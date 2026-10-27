@@ -2,6 +2,8 @@
 
 [← back to Milvus](README.md)
 
+Questions 1–73 of 73.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your embedding store: vector embeddings of PII support similarity search but an inversion attack can partially reconstruct the input. How do you govern embedding stores as regulated PII including access encryption and erasure of individual vectors? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Milvus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-embedding-store-vector-embeddings-of-pii-su-70029) |

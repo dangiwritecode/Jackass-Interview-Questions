@@ -2,6 +2,8 @@
 
 [← back to MSG91](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An attacker is draining your OTP SMS budget by triggering millions of sends to numbers they control. Architect the multi-layer economic defense — per-number and per-account limits, pre-send risk scoring, cost caps, provider fallback — so weaponizing your send path is impossible. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at MSG91 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-attacker-is-draining-your-otp-sms-budget-by-triggering-millions-of--38890) |

@@ -2,6 +2,8 @@
 
 [← back to Chewy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | The K Most Frequently Occurring Values in an Array | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bucket Sort, Counting, Divide and Conquer, Hash Table, Heap (Priority Queue), Quickselect, Sorting | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Chewy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-k-most-frequently-occurring-values-in-an-array-d347) |

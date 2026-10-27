@@ -2,6 +2,8 @@
 
 [← back to TigerGraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect caching for a multi-model datastore migration where reads move from a relational store to a graph store gradually, so cached values keyed on the old model never leak into the new-model read path? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at TigerGraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-multi-model-datastore-migration--38550) |

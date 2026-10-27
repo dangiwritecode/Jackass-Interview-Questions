@@ -2,6 +2,8 @@
 
 [← back to Snap Inc.](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance so that a compliance requirement expressed by legal (e.g. 'processing must have a documented lawful basis') is provably enforced in the runtime data path — describe the full translation chain from legal text to a query-time check. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Snap Inc. | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-so-that-a-compliance-requirement-expre-54044) |

@@ -2,6 +2,8 @@
 
 [← back to Astronomer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the enterprise pattern for background jobs and scheduled work (many teams, mixed brokers/cron/serverless) so job ownership, retries, and idempotency are standardized. How do you retire a sprawl of unmonitored cron boxes without missing an SLA? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Astronomer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-pattern-for-background-jobs-and-scheduled-work-m-40742) |

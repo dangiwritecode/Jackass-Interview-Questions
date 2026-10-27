@@ -2,6 +2,8 @@
 
 [← back to PostHog](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a system that automatically bisects and attributes a schema-change-induced performance regression when plans shift after a migration adds or drops an index. | expertise | SDE-2/3, Architect/Principal | Database Migrations & Versioning | Phone Screen, Onsite | Tech | Asked at PostHog | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-system-that-automatically-bisects-and-attributes-a-schema-cha-114310) |

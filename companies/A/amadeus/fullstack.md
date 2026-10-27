@@ -2,6 +2,8 @@
 
 [← back to Amadeus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you strangle a monolith where downstream partners' contracts specify exact response byte formats — does the anti-corruption layer live on the ingress or the egress side? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | Asked at Amadeus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-strangle-a-monolith-where-downstream-partners-contracts-spe-40967) |

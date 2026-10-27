@@ -2,6 +2,8 @@
 
 [← back to Turvo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you'd design a 'state pattern where transitions themselves carry side effects' (entering 'shipped' sends an email) so the side effect fires exactly once even on replay/retry; where do you put the effect so the state machine stays pure and testable? | deep understanding | SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Logistics companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-d-design-a-state-pattern-where-transitions-t-38392) |

@@ -2,6 +2,8 @@
 
 [← back to Vimeo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect an end-to-end backpressure design where a browser upload flows through an edge worker a queue and a slow processor — how do you signal slowdown all the way back to the client and decide what to shed under sustained overload? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Vimeo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-an-end-to-end-backpressure-design-where-a-browser-upload-flo-39480) |

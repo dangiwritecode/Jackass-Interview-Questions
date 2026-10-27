@@ -2,6 +2,8 @@
 
 [← back to Docker](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you attach labels to a container (via Compose or docker run) so your telemetry pipeline can tag its metrics and logs by service? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Docker | Phone Screen, Onsite | Tech | Asked at Docker | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-attach-labels-to-a-container-via-compose-or-docker-run-so-y-87760) |

@@ -2,6 +2,8 @@
 
 [← back to Redpanda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A background worker deserializes millions of jobs and your `Zod` schema does a `.parse` per job. Walk me through when you'd switch to `.safeParse`, a compiled validator, or hand-written type guards, and how you measure the throughput difference under load. | deep understanding | SDE-1/2, SDE-2/3 | TypeScript | Phone Screen, Onsite | Tech | Asked at Redpanda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-background-worker-deserializes-millions-of-jobs-and-your-zod-schema--22935) |

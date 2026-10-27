@@ -2,6 +2,8 @@
 
 [← back to AT&T](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how the query optimizer uses statistics and what the density vector and histogram tell you about estimated versus actual rows. | deep understanding | SDE-1, SDE-1/2 | T-SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at AT&T | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-the-query-optimizer-uses-statistics-and-what-the-density-v-108550) |

@@ -2,6 +2,8 @@
 
 [← back to DragonflyDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a self-hosted Redis/Valkey/Dragonfly caching tier vs managed ElastiCache/MemoryDB when the Redis license change, tail-latency guarantees, and cost-per-GB at fleet scale all bear on the call? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at DragonflyDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-self-hosted-redis-valkey-dragonfl-53809) |

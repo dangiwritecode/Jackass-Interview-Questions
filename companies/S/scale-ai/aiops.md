@@ -2,6 +2,8 @@
 
 [← back to Scale AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd govern label/annotation quality for supervised incident-classification models when the labels come from noisy human on-call feedback. | deep understanding | SDE-2/3, Architect/Principal | AIOps Data Governance & Standardization | Onsite, Hiring Manager | Tech | Asked at Scale AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-govern-label-annotation-quality-for-supervised-inci-103061) |

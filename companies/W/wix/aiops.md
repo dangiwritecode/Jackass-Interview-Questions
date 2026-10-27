@@ -2,6 +2,8 @@
 
 [← back to Wix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a cell-based architecture for the ML platform so that scaling out means adding independent cells rather than growing one shared blast radius. How do you route tenants to cells, rebalance a hot cell, and keep cross-cell features consistent? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Wix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-cell-based-architecture-for-the-ml-platform-so-that-scaling-o-100639) |

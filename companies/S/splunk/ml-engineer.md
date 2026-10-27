@@ -2,6 +2,8 @@
 
 [← back to Splunk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build a governance evidence pipeline so that every audit request is satisfied by querying immutable logs rather than a scramble of manual evidence-gathering? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Splunk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-governance-evidence-pipeline-so-that-every-audit-71695) |

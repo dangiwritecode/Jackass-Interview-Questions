@@ -2,6 +2,8 @@
 
 [← back to Krisp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a speech/ASR + TTS capability (buy Deepgram/ElevenLabs/Azure Speech vs fine-tune Whisper/self-host) when per-minute pricing at scale, latency, and accent/domain accuracy on your data define the call? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Krisp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-speech-asr-tts-capability-buy-dee-69810) |

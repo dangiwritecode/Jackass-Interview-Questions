@@ -2,6 +2,8 @@
 
 [← back to Martian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A sensitivity analysis shows a single tuning parameter — the router's confidence threshold for escalating from a cheap model to the frontier model — dominates both blended cost and answer quality. How do you document a parameter as an architectural sensitivity point and what follow-up do you demand? | deep understanding | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Martian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-sensitivity-analysis-shows-a-single-tuning-parameter-the-router-s-co-83595) |

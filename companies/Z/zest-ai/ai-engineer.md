@@ -2,6 +2,8 @@
 
 [← back to Zest AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the choice among competing fairness definitions (demographic parity / equalized odds / calibration) when they're mathematically incompatible for a given problem? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Zest AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-choice-among-competing-fairness-definitions-demo-86104) |

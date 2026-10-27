@@ -2,6 +2,8 @@
 
 [← back to Fermyon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A candidate proposes O(n) space auxiliary memory but you're on a memory-tight edge/serverless runtime; how do you evaluate whether the space budget is the real constraint, not time? | intermediate experience | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Fermyon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-candidate-proposes-o-n-space-auxiliary-memory-but-you-re-on-a-memory-16180) |

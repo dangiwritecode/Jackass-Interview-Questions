@@ -2,6 +2,8 @@
 
 [← back to Azul](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how coordinated omission distorts your latency measurements when a system is applying backpressure and how you'd correct your load-testing and metrics to see the true tail under overload. | expertise | SDE-2/3, Architect/Principal | Backpressure & Flow Control | Phone Screen, Onsite | Tech | Asked at Azul | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-coordinated-omission-distorts-your-latency-measurements-wh-37749) |

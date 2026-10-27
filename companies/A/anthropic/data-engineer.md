@@ -2,6 +2,8 @@
 
 [← back to Anthropic](README.md)
 
+Questions 1–105 of 105.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A committed notebook leaked the LLM API key into git history in your data repo. What do you do immediately, and what pipeline-side controls prevent recurrence? | intermediate experience | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Anthropic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-committed-notebook-leaked-the-llm-api-key-into-git-history-in-your-d-120758) |

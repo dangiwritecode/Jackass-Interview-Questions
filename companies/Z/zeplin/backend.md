@@ -2,6 +2,8 @@
 
 [← back to Zeplin](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design an authorization model where a resource can be shared with specific users, entire teams, OR made public-by-link — and a single check answers 'can this viewer read it'? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Zeplin | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-an-authorization-model-where-a-resource-can-be-share-26144) |

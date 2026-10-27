@@ -2,6 +2,8 @@
 
 [← back to iMerit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build a labeling QA loop that catches when annotators drift in how they mark entity boundaries over a multi-month project? | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at iMerit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-labeling-qa-loop-that-catches-when-annotators-dr-79426) |

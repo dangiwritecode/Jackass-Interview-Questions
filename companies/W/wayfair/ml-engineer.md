@@ -2,6 +2,8 @@
 
 [← back to Wayfair](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A model team's serving cost tripled after moving to Kubernetes because each model got its own dedicated pods at low utilization. As principal, how would you architect model-density (multi-model serving, model mesh) to consolidate without cross-model interference? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Wayfair | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-team-s-serving-cost-tripled-after-moving-to-kubernetes-because-68563) |

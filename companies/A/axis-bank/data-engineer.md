@@ -2,6 +2,8 @@
 
 [← back to Axis Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What does it mean that OLTP cares about 'correctness of each record' and OLAP cares about 'correctness of the totals'? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Axis Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-does-it-mean-that-oltp-cares-about-correctness-of-each-record-and-118818) |

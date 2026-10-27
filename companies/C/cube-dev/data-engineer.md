@@ -2,6 +2,8 @@
 
 [← back to Cube-dev](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your warehouse has 14 different definitions of 'active user' scattered across queries. Before proposing a semantic layer, how do you diagnose whether this is a modeling, governance, or people problem? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cube-dev | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-warehouse-has-14-different-definitions-of-active-user-scattered-a-121002) |

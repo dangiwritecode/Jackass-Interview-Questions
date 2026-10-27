@@ -2,6 +2,8 @@
 
 [← back to Apple](README.md)
 
+Questions 1–68 of 68.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks you to name the single architectural decision in your streaming platform that, if wrong, is hardest to reverse later. What is it, why is it a one-way door, and how do you buy optionality before committing? | expertise | SDE-2/3, Architect/Principal | Real-time Streaming Architecture | Phone Screen, Onsite | Tech | Asked at Apple | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-to-name-the-single-architectural-decision-in-you-100555) |

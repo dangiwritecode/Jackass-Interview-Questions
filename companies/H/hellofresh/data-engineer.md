@@ -2,6 +2,8 @@
 
 [← back to HelloFresh](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build tiering into a self-serve data platform so domain teams get sane defaults but can't accidentally archive data that needs to stay hot? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at HelloFresh | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-tiering-into-a-self-serve-data-platform-so-domain-tea-126757) |

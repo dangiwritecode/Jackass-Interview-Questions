@@ -2,6 +2,8 @@
 
 [← back to Delivery Hero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You inherit a full-stack platform where the same domain concept (e.g. 'order') is modeled differently in the DB, the API, and three frontends. How do you drive a canonical domain model across the stack and pay down the translation debt? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Delivery Hero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherit-a-full-stack-platform-where-the-same-domain-concept-e-g-or-41424) |

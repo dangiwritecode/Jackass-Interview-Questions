@@ -2,6 +2,8 @@
 
 [← back to Solo.io](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding whether to adopt an emerging open-source gateway (e.g., a new Envoy-based project) or stay on a mature commercial one; how do you evaluate the org-level bet on an immature-but-strategic technology, and what de-risking (dual-run, exit plan) do you require? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Solo.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-adopt-an-emerging-open-source-gateway-e-g-a-34574) |

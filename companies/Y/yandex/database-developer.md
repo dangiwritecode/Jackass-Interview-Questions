@@ -2,6 +2,8 @@
 
 [← back to Yandex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you manage read/write splitting when using connection poolers in transaction mode, where a transaction can't safely span primary and replica? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at Yandex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-manage-read-write-splitting-when-using-connection-poolers-i-115494) |

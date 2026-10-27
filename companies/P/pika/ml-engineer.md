@@ -2,6 +2,8 @@
 
 [← back to Pika](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your platform must support training on both text and multimodal (video) data where per-sample sizes vary 100x. How does that variance change your data-parallel sharding and load-balancing design? | expertise | SDE-2/3, Architect/Principal | Distributed Training (Data/Model Parallelism) | Phone Screen, Onsite | Tech | Asked at Pika | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-platform-must-support-training-on-both-text-and-multimodal-video--70721) |

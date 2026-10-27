@@ -2,6 +2,8 @@
 
 [← back to Postmates](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Can One String Be Rearranged and Relabeled Into Another | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Counting, Frequency Count, Hash Table, Sorting, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Postmates | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-one-string-be-rearranged-and-relabeled-into-another-d1578) |

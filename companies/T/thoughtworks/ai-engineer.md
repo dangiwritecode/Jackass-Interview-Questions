@@ -2,6 +2,8 @@
 
 [← back to ThoughtWorks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Build a mentoring and technical-review culture so senior engineers converge on good agent patterns (idempotent tools, bounded loops, guarded writes) without you personally reviewing every design. What artifacts and rituals scale your architectural judgment? | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at ThoughtWorks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=build-a-mentoring-and-technical-review-culture-so-senior-engineers-con-83128) |

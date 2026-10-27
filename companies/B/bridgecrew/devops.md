@@ -2,6 +2,8 @@
 
 [← back to Bridgecrew](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd enforce that infrastructure changes go through policy checks (OPA/Conftest, Checkov) at plan time so a Terraform change can't silently open a public S3 bucket or a 0.0.0.0/0 security group before it's applied. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Bridgecrew | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-enforce-that-infrastructure-changes-go-through-polic-47925) |

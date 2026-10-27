@@ -2,6 +2,8 @@
 
 [← back to TuSimple](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare workload identity federation (SPIFFE/SPIRE feeding Vault) versus native Vault Kubernetes/JWT auth as your identity foundation across heterogeneous compute. When does SPIFFE earn its complexity? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Autonomous-Driving companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-workload-identity-federation-spiffe-spire-feeding-vault-versus-54937) |

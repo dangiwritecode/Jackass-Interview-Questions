@@ -2,6 +2,8 @@
 
 [← back to Virtu Financial](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator requires proof that once a trade is confirmed it is immutable and totally ordered with all prior trades. Explain how you architect an append-only consensus log as the system of record, and what caveats (leader-term boundaries, uncommitted tail) you must disclose. | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Trading companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-requires-proof-that-once-a-trade-is-confirmed-it-is-immuta-112203) |

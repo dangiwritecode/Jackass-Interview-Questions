@@ -2,6 +2,8 @@
 
 [← back to 2ndQuadrant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your team wants bidirectional (multi-master) logical replication between two Postgres regions. Explain the conflict classes you'll hit (insert-insert PK collisions, update-update, delete-update) and how you'd resolve each while keeping referential integrity intact. | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at 2ndQuadrant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-team-wants-bidirectional-multi-master-logical-replication-between-112750) |

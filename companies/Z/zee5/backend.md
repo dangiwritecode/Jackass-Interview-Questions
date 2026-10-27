@@ -2,6 +2,8 @@
 
 [← back to Zee5](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a cross-region "max concurrent sessions per user = 1" enforcement. Explain why this needs a CP coordination point, what happens under partition, and the UX you'd choose when coordination is unavailable. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Zee5 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-cross-region-max-concurrent-sessions-per-user-1-enforcement-e-25722) |

@@ -2,6 +2,8 @@
 
 [← back to WordPress](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you quantify the debt of an over-abstracted plugin/extension architecture that made everything configurable, so now nobody can reason about what the system actually does at runtime? Design the simplification. | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at WordPress | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-quantify-the-debt-of-an-over-abstracted-plugin-extension-ar-41498) |

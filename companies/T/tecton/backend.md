@@ -2,6 +2,8 @@
 
 [← back to Tecton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a feature store that serves ML features online at low latency and computes them offline consistently — how do you avoid train/serve skew and keep online features fresh from streaming updates? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tecton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-feature-store-that-serves-ml-features-online-at-low-latency-a-28425) |

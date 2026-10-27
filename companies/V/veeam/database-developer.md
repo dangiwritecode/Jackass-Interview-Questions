@@ -2,6 +2,8 @@
 
 [← back to Veeam](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design the backup topology so that each region's backups are geo-redundant enough to survive that region's loss, yet residency-scoped enough to satisfy sovereignty, and cheap enough to not dominate storage cost? Where do these three goals collide? | deep understanding | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Veeam | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-the-backup-topology-so-that-each-region-s-backups-ar-112788) |

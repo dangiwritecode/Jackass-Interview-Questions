@@ -2,6 +2,8 @@
 
 [← back to Reliance Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's approach to AIOps for edge Kubernetes (thousands of retail/IoT clusters) with intermittent connectivity. How would you architect local anomaly detection and remediation that runs autonomously when the central AIOps plane is unreachable, then reconciles when connectivity returns? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Reliance Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-approach-to-aiops-for-edge-kubernetes-thousands-of-re-98687) |

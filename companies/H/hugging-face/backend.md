@@ -2,6 +2,8 @@
 
 [← back to Hugging Face](README.md)
 
+Questions 1–141 of 141.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the serving and cost-control layer for an LLM-powered feature on AWS where inference is expensive and bursty — where do Bedrock provisioned throughput caching and request-batching sit and how do you keep unit economics sane? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Hugging Face | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-serving-and-cost-control-layer-for-an-llm-pow-33255) |

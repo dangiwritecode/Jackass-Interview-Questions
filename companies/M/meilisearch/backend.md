@@ -2,6 +2,8 @@
 
 [← back to Meilisearch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A full-text search platform passes user queries to to_tsquery, where the tsquery grammar itself is an injection surface distinct from value binding. Architect a grammar-sanitizing / query-parsing layer as a shared capability across search consumers, and explain what you'd fuzz to prove it safe. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Meilisearch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-full-text-search-platform-passes-user-queries-to-to-tsquery-where-th-32901) |

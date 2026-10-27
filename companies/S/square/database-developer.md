@@ -2,6 +2,8 @@
 
 [← back to Square](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd stage a zero-downtime cutover from RC to SSI on a live payments system, including canary metrics that would trigger an automatic rollback. | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Square | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-stage-a-zero-downtime-cutover-from-rc-to-ssi-on-a-li-113672) |

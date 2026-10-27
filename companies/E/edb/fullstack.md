@@ -2,6 +2,8 @@
 
 [← back to EDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the enterprise approach to blue-green and canary at the data layer — not just stateless services. How do you canary a schema/algorithm change that writes to a shared datastore, and how do you roll back writes that already happened during the canary? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at EDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-enterprise-approach-to-blue-green-and-canary-at-the-data-40796) |

@@ -2,6 +2,8 @@
 
 [← back to Camunda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design a saga or process-manager that coordinates state changes across payment relational store inventory key-value and notification queue with compensations? | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | Asked at Camunda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-saga-or-process-manager-that-coordinates-state-cha-114581) |

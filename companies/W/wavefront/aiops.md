@@ -2,6 +2,8 @@
 
 [← back to Wavefront](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your node_exporter reports node_cpu_seconds_total but your CPU-utilization panel is wrong after a core-count change. Explain how you'd derive per-core utilization correctly from that counter and why irate over a raw counter matters on Linux. | intermediate experience | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Wavefront | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-node-exporter-reports-node-cpu-seconds-total-but-your-cpu-utiliza-92228) |

@@ -2,6 +2,8 @@
 
 [← back to Discord](README.md)
 
+Questions 1–89 of 89.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A base64-encoded jailbreak slipped past your input filter; how do you generalize the fix beyond blocking that one encoding? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | AI Safety & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Discord | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-base64-encoded-jailbreak-slipped-past-your-input-filter-how-do-you-g-80824) |

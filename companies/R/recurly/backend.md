@@ -2,6 +2,8 @@
 
 [← back to Recurly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A pricing engine evaluates n rules against m line items per request as O(n*m); how do you reason about indexing rules by applicability to reduce the effective work, and when is caching per-item results worth the space? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Recurly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pricing-engine-evaluates-n-rules-against-m-line-items-per-request-as-22060) |

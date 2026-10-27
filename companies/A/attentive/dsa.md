@@ -2,6 +2,8 @@
 
 [← back to Attentive](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | First and Last Occurrence in a Sorted Array | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Attentive | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=first-and-last-occurrence-in-a-sorted-array-d34) |

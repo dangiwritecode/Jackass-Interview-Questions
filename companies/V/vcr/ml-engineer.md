@@ -2,6 +2,8 @@
 
 [← back to VCR](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want reproducible integration tests for LLM-calling code without paying the provider. How do you record real responses once and replay them, and keep the recordings from silently going stale after a model update? | intermediate experience | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at VCR | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-reproducible-integration-tests-for-llm-calling-code-without-p-64094) |

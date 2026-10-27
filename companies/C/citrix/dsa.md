@@ -2,6 +2,8 @@
 
 [← back to Citrix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Delete the K-th Node Counting From the End of a Singly Linked List | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Linked List, Sentinel Node, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Citrix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=delete-the-k-th-node-counting-from-the-end-of-a-singly-linked-list-d19) |

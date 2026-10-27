@@ -2,6 +2,8 @@
 
 [← back to Cloudinary](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect an edge-vs-origin split for a global product — what logic belongs at the edge (auth, personalization, caching) versus origin, and how does that boundary change your reliability and cost story? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cloudinary | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-an-edge-vs-origin-split-for-a-global-product-what-logic-belo-33746) |

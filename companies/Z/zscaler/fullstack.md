@@ -2,6 +2,8 @@
 
 [← back to Zscaler](README.md)
 
+Questions 1–90 of 90.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A code path uses a stored procedure that internally builds dynamic SQL with EXEC on concatenated input. Explain why 'we use stored procs' isn't a SQLi defense here and how you'd remediate inside the proc. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zscaler | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-code-path-uses-a-stored-procedure-that-internally-builds-dynamic-sql-19159) |

@@ -2,6 +2,8 @@
 
 [← back to Fauna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd capacity-plan a globally-replicated database (e.g. Spanner/CockroachDB) where write capacity is bounded by the slowest region in the quorum. How does that change your instance sizing versus a single-region deployment? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Fauna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-capacity-plan-a-globally-replicated-database-e-g-spa-52943) |

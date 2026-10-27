@@ -2,6 +2,8 @@
 
 [← back to BMC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect GitOps to reconcile with an existing enterprise CMDB and change-approval workflow so the pull model and ITIL processes coexist without either being subverted? | expertise | SDE-2/3, Architect/Principal | GitOps | Phone Screen, Onsite | Tech | Asked at BMC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-gitops-to-reconcile-with-an-existing-enterpris-54891) |

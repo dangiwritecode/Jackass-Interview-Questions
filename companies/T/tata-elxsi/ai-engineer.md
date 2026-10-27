@@ -2,6 +2,8 @@
 
 [← back to Tata Elxsi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you plan capacity for an Indian-market AI product where GPU availability and data-residency laws push you to local providers? | expertise | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | Asked at Engineering-Services companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-plan-capacity-for-an-indian-market-ai-product-where-gpu--86697) |

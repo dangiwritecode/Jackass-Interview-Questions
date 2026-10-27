@@ -2,6 +2,8 @@
 
 [← back to tRPC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | On this project, how did you keep the API contract in sync with clients using generated types or a schema, and where did drift still sneak in? | deep understanding | SDE-1/2, SDE-2/3 | Projects (Resume Deep-Dive) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at tRPC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=on-this-project-how-did-you-keep-the-api-contract-in-sync-with-clients-28329) |

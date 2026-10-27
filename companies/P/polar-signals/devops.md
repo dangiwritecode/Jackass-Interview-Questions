@@ -2,6 +2,8 @@
 
 [← back to Polar Signals](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you profile off-CPU time (blocked threads) with eBPF to find lock contention or IO waits that on-CPU profiling misses? | expertise | SDE-1/2, SDE-2/3 | eBPF | Phone Screen, Onsite | Tech | Asked at Polar Signals | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-profile-off-cpu-time-blocked-threads-with-ebpf-to-find-l-51874) |

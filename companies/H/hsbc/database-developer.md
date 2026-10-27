@@ -2,6 +2,8 @@
 
 [← back to HSBC](README.md)
 
+Questions 1–120 of 120.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator asks you to prove that a specific report was generated from data that was correct and unaltered at report time. Architect the immutability, hashing, and lineage evidence so the proof is a query, not a forensic reconstruction. Where do lake time-travel guarantees fall short of legal non-repudiation? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at HSBC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-asks-you-to-prove-that-a-specific-report-was-generated-fro-112683) |

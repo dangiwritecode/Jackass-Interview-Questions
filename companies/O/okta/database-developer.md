@@ -2,6 +2,8 @@
 
 [← back to Okta](README.md)
 
+Questions 1–76 of 76.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a self-service data-access platform where analysts request PII and get time-boxed decryption grants that auto-expire and are fully audited — what's the approval and revocation flow? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Okta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-self-service-data-access-platform-where-analysts-request-p-115302) |

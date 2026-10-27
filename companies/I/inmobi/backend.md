@@ -2,6 +2,8 @@
 
 [← back to InMobi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A resolver that fans out to a downstream gRPC service saturates its connection pool under a burst of GraphQL queries. How do you size the pool, add a queue, and decide between shedding load versus queuing at the resolver boundary? | deep understanding | SDE-1/2, SDE-2/3 | GraphQL | Phone Screen, Onsite | Tech | Asked at InMobi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-resolver-that-fans-out-to-a-downstream-grpc-service-saturates-its-co-24033) |

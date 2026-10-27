@@ -2,6 +2,8 @@
 
 [← back to Fivetran](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is ETL and how does it map to a metrics-collection pipeline in an AIOps setup? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Data Pipelines (Airflow/Spark) | Phone Screen, Onsite | Tech | Asked at Fivetran | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-etl-and-how-does-it-map-to-a-metrics-collection-pipeline-in-an-89962) |

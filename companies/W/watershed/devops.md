@@ -2,6 +2,8 @@
 
 [← back to Watershed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect Backstage to expose cost-and-carbon (sustainability) signals per service, and how do you source credible emissions data across clouds? | deep understanding | SDE-2/3, Architect/Principal | Internal Developer Platform (Backstage) | Onsite, Hiring Manager | Tech | Asked at Watershed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-backstage-to-expose-cost-and-carbon-sustainabi-55566) |

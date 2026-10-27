@@ -2,6 +2,8 @@
 
 [← back to Ping Identity](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the identity and delegated-authorization architecture where an agent acts on-behalf-of a user across many downstream tools. Compare token-exchange, delegated OAuth, and OBO flows for propagating scoped, short-lived authority the model never sees. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Ping Identity | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-identity-and-delegated-authorization-architecture-where-an--83053) |

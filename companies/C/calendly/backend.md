@@ -2,6 +2,8 @@
 
 [← back to Calendly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A REST endpoint accepts user-supplied timezone and date-range filters, and you keep getting off-by-one-day bugs at DST boundaries. How do you design the contract and server logic to make date handling unambiguous? | intermediate experience | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Calendly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-rest-endpoint-accepts-user-supplied-timezone-and-date-range-filters--24018) |

@@ -2,6 +2,8 @@
 
 [← back to Workday](README.md)
 
+Questions 1–74 of 74.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal probe: what governance controls prevent an engineer from choosing a partition key that leaks a cross-tenant hotspot or a security boundary violation? | expertise | SDE-2/3, Architect/Principal | Database Partitioning (Range/Hash/List) | Phone Screen, Onsite | Tech | Asked at Workday | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-probe-what-governance-controls-prevent-an-engineer-from-ch-113634) |

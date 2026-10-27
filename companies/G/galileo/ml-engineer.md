@@ -2,6 +2,8 @@
 
 [← back to Galileo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd wire an LLM golden-set eval into CI so a prompt or model change can't merge if it regresses, while tolerating non-deterministic output. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Galileo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-wire-an-llm-golden-set-eval-into-ci-so-a-prompt-or-m-63870) |

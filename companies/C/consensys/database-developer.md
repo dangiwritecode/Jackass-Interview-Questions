@@ -2,6 +2,8 @@
 
 [← back to ConsenSys](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does a permissioned blockchain's BFT consensus (e.g. PBFT-style) differ from Raft/Paxos in its CAP posture, and why does tolerating Byzantine nodes cost you even more availability under partition than crash-fault CP systems? | deep understanding | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at ConsenSys | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-a-permissioned-blockchain-s-bft-consensus-e-g-pbft-style-diff-111557) |

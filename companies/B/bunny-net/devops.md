@@ -2,6 +2,8 @@
 
 [← back to Bunny.net](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect origin shielding and multi-tier caching for a global content platform so a cache purge or a viral miss storm doesn't stampede origin, treating cache hit ratio as a first-class availability lever rather than merely a performance metric? | deep understanding | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Bunny.net | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-origin-shielding-and-multi-tier-caching-for-a-glo-52094) |

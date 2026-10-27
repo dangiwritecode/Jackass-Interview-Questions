@@ -2,6 +2,8 @@
 
 [← back to SST](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why is infrastructure as code useful even for a small AI project deployed to the cloud? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at SST | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-is-infrastructure-as-code-useful-even-for-a-small-ai-project-deplo-76560) |

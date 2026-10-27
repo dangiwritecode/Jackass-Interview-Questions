@@ -2,6 +2,8 @@
 
 [← back to Instahyre](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | For a 'similar candidates' feature on a hiring product, what would you embed and what filters would you layer on? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Embeddings & Vector Search | Phone Screen, Onsite | Tech | Asked at Instahyre | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=for-a-similar-candidates-feature-on-a-hiring-product-what-would-you-em-15657) |

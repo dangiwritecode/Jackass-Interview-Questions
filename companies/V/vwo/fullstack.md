@@ -2,6 +2,8 @@
 
 [← back to VWO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd reason about the performance impact of an A/B test platform that mutates the DOM post-load, and design a delivery model that gives marketing experimentation power without CLS or INP damage at scale. | expertise | SDE-2/3, Architect/Principal | Web Performance Optimization | Phone Screen, Onsite | Tech | Asked at VWO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-reason-about-the-performance-impact-of-an-a-b-test-p-40276) |

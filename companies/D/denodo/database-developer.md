@@ -2,6 +2,8 @@
 
 [← back to Denodo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd run a query that must join data physically living in three different stores and when you'd introduce a federation/query engine versus materializing a joined view. | expertise | SDE-2/3, Architect/Principal | Polyglot Persistence | Phone Screen, Onsite | Tech | Asked at Denodo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-run-a-query-that-must-join-data-physically-living-in-114567) |

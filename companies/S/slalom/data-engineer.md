@@ -2,6 +2,8 @@
 
 [← back to Slalom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide the target file size for OPTIMIZE on a Delta table given a mix of streaming and hourly batch writers? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | Asked at Slalom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-target-file-size-for-optimize-on-a-delta-tabl-122370) |

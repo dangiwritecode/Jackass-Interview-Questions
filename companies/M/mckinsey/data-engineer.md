@@ -2,6 +2,8 @@
 
 [← back to McKinsey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd run a proof-of-value / pilot for MDM in 90 days that de-risks the multi-year program — what one domain and metric would you pick and why? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at McKinsey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-run-a-proof-of-value-pilot-for-mdm-in-90-days-that-d-127783) |

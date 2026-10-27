@@ -2,6 +2,8 @@
 
 [← back to Snyk](README.md)
 
+Questions 1–98 of 98.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the gateway supports an org's shift-left security program: it must enforce schema validation, injection protection, and auth at the edge while security policy is owned by the security team and routes by the platform team; how do you split ownership without gaps or friction? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Snyk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-gateway-supports-an-org-s-shift-left-security-program-i-34583) |

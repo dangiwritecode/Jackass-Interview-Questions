@@ -2,6 +2,8 @@
 
 [← back to Buf](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the enterprise strategy for schema evolution across an Avro/Protobuf schema registry that hundreds of producers and consumers depend on. How do you enforce backward/forward compatibility, handle the one breaking change that's genuinely needed, and who arbitrates when compatibility blocks a critical business change? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Buf | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-strategy-for-schema-evolution-across-an-avro-pro-125669) |

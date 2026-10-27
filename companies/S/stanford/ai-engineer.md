@@ -2,6 +2,8 @@
 
 [← back to Stanford](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A ColBERT-style multi-vector retriever stores many token embeddings per document; how does late-interaction MaxSim scoring change the data-structure and complexity picture versus a single-vector index? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Stanford | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-colbert-style-multi-vector-retriever-stores-many-token-embeddings-pe-76703) |

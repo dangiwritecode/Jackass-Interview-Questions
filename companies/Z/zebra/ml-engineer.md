@@ -2,6 +2,8 @@
 
 [← back to Zebra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your object detector's mAP looks fine but customers complain about missed small objects. How would you break down mAP by object size to confirm and then fix it? | deep understanding | SDE-1/2, SDE-2/3 | Computer Vision Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Zebra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-object-detector-s-map-looks-fine-but-customers-complain-about-mis-66275) |

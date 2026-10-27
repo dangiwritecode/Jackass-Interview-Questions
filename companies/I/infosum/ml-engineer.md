@@ -2,6 +2,8 @@
 
 [← back to InfoSum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate whether a 'privacy-preserving' feature (e.g. hashed emails as join keys) is actually pseudonymous vs still legally personal data? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at InfoSum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-whether-a-privacy-preserving-feature-e-g-hashed-em-72633) |

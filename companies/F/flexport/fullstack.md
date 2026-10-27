@@ -2,6 +2,8 @@
 
 [← back to Flexport](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for migrating a monolith where a single ORM entity maps to 40 tables — do you strangle at the aggregate boundary or the table boundary first? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | Asked at Flexport | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-migrating-a-monolith-where-a-single-orm-entit-40974) |

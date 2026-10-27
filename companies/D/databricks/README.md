@@ -1,33 +1,33 @@
 # Databricks
 
-**Tier:** Tier 2  |  **Business domain:** Cloud / Data  |  **Questions listed:** 1,260  |  **Tagged directly to Databricks:** 26,929
+**Tier:** Tier 2  |  **Business domain:** Cloud / Data  |  **Questions listed:** 27,506  |  **Tagged directly to Databricks:** 26,929
 
 Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
 
-Each role profile lists up to 150 questions, most-asked first. Databricks's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Databricks: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
+Every question tagged to Databricks is listed, most-asked first, split across pages of 800. The **Why It Is Listed** column says how each question reaches Databricks: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
 | Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 5 | 5 | 44 | 150 | 120 | 150 |
-| Fullstack | 8 | 8 | 97 | 150 | 61 | 150 |
-| DevOps | 3 | 0 | 8 | 150 | 147 | 150 |
-| AIOps | 0 | 0 | 44 | 150 | 129 | 150 |
-| Data Engineer | 5 | 1 | 111 | 150 | 64 | 150 |
-| Database Developer | 3 | 25 | 26 | 127 | 126 | 150 |
-| ML Engineer | 0 | 0 | 0 | 150 | 150 | 150 |
-| AI Engineer | 1 | 1 | 28 | 150 | 136 | 150 |
+| Backend | 564 | 564 | 1547 | 4024 | 3156 | 4071 |
+| Fullstack | 154 | 154 | 516 | 756 | 324 | 768 |
+| DevOps | 22 | 0 | 209 | 624 | 511 | 624 |
+| AIOps | 159 | 0 | 852 | 1545 | 1047 | 1560 |
+| Data Engineer | 2198 | 1 | 5779 | 7352 | 3791 | 7588 |
+| Database Developer | 130 | 778 | 779 | 1024 | 1023 | 1519 |
+| ML Engineer | 834 | 0 | 3662 | 6165 | 4027 | 6260 |
+| AI Engineer | 561 | 1 | 2750 | 5009 | 3708 | 5056 |
 | Data Structures & Algorithms (all profiles) | 60 | 60 | 60 | 60 | 60 | 60 |
 
 ## Question lists
 
-- [Backend](backend.md) — 150 questions (top 150 of 4,071 tagged — open any one in Locus to filter the rest)
-- [Fullstack](fullstack.md) — 150 questions (top 150 of 768 tagged — open any one in Locus to filter the rest)
-- [DevOps](devops.md) — 150 questions (top 150 of 624 tagged — open any one in Locus to filter the rest)
-- [AIOps](aiops.md) — 150 questions (top 150 of 1,560 tagged — open any one in Locus to filter the rest)
-- [Data Engineer](data-engineer.md) — 150 questions (top 150 of 7,588 tagged — open any one in Locus to filter the rest)
-- [Database Developer](database-developer.md) — 150 questions (top 150 of 1,519 tagged — open any one in Locus to filter the rest)
-- [ML Engineer](ml-engineer.md) — 150 questions (top 150 of 6,260 tagged — open any one in Locus to filter the rest)
-- [AI Engineer](ai-engineer.md) — 150 questions (top 150 of 5,056 tagged — open any one in Locus to filter the rest)
-- [Data Structures & Algorithms](dsa.md) — 60 questions
+- **Backend** — 4,071 questions: [page 1](backend-1.md) · [page 2](backend-2.md) · [page 3](backend-3.md) · [page 4](backend-4.md) · [page 5](backend-5.md) · [page 6](backend-6.md)
+- **Fullstack** — 768 questions: [open](fullstack.md)
+- **DevOps** — 624 questions: [open](devops.md)
+- **AIOps** — 1,560 questions: [page 1](aiops-1.md) · [page 2](aiops-2.md)
+- **Data Engineer** — 7,588 questions: [page 1](data-engineer-1.md) · [page 2](data-engineer-2.md) · [page 3](data-engineer-3.md) · [page 4](data-engineer-4.md) · [page 5](data-engineer-5.md) · [page 6](data-engineer-6.md) · [page 7](data-engineer-7.md) · [page 8](data-engineer-8.md) · [page 9](data-engineer-9.md) · [page 10](data-engineer-10.md)
+- **Database Developer** — 1,519 questions: [page 1](database-developer-1.md) · [page 2](database-developer-2.md)
+- **ML Engineer** — 6,260 questions: [page 1](ml-engineer-1.md) · [page 2](ml-engineer-2.md) · [page 3](ml-engineer-3.md) · [page 4](ml-engineer-4.md) · [page 5](ml-engineer-5.md) · [page 6](ml-engineer-6.md) · [page 7](ml-engineer-7.md) · [page 8](ml-engineer-8.md)
+- **AI Engineer** — 5,056 questions: [page 1](ai-engineer-1.md) · [page 2](ai-engineer-2.md) · [page 3](ai-engineer-3.md) · [page 4](ai-engineer-4.md) · [page 5](ai-engineer-5.md) · [page 6](ai-engineer-6.md) · [page 7](ai-engineer-7.md)
+- **Data Structures & Algorithms** — 60 questions: [open](dsa.md)

@@ -2,6 +2,8 @@
 
 [← back to Hinge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you cache the results of a graph traversal (like a friends-of-friends query) where the answer is expensive but the graph mutates constantly? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Hinge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cache-the-results-of-a-graph-traversal-like-a-friends-of-25386) |

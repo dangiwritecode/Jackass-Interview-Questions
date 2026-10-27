@@ -2,6 +2,8 @@
 
 [← back to Chalk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the platform so training and serving share a single compiled feature-transform artifact that scales: the same DSL compiles to a streaming operator for serving and a batch operator for training, at petabyte throughput. Where do windowed aggregations make one-artifact parity break at scale? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Chalk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-platform-so-training-and-serving-share-a-sing-100692) |

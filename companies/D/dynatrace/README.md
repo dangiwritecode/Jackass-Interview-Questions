@@ -1,10 +1,10 @@
 # Dynatrace
 
-**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 630  |  **Tagged directly to Dynatrace:** 4,813
+**Tier:** Tier 2  |  **Business domain:** —  |  **Questions listed:** 5,264  |  **Tagged directly to Dynatrace:** 4,813
 
 Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
 
-Each role profile lists up to 150 questions, most-asked first. Dynatrace's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches Dynatrace: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
+Every question tagged to Dynatrace is listed, most-asked first, split across pages of 800. The **Why It Is Listed** column says how each question reaches Dynatrace: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
@@ -13,7 +13,7 @@ Each role profile lists up to 150 questions, most-asked first. Dynatrace's own t
 | Backend | 4 | 4 | 22 | 59 | 54 | 60 |
 | Fullstack | 20 | 20 | 50 | 55 | 22 | 60 |
 | DevOps | 30 | 21 | 33 | 58 | 43 | 60 |
-| AIOps | 3 | 0 | 46 | 150 | 121 | 150 |
+| AIOps | 1731 | 0 | 3345 | 4609 | 2116 | 4784 |
 | Data Engineer | 13 | 5 | 40 | 58 | 24 | 60 |
 | Database Developer | 13 | 19 | 20 | 49 | 41 | 60 |
 | ML Engineer | 0 | 0 | 1 | 60 | 59 | 60 |
@@ -22,12 +22,12 @@ Each role profile lists up to 150 questions, most-asked first. Dynatrace's own t
 
 ## Question lists
 
-- [Backend](backend.md) — 60 questions
-- [Fullstack](fullstack.md) — 60 questions
-- [DevOps](devops.md) — 60 questions
-- [AIOps](aiops.md) — 150 questions (top 150 of 4,784 tagged — open any one in Locus to filter the rest)
-- [Data Engineer](data-engineer.md) — 60 questions
-- [Database Developer](database-developer.md) — 60 questions
-- [ML Engineer](ml-engineer.md) — 60 questions
-- [AI Engineer](ai-engineer.md) — 60 questions
-- [Data Structures & Algorithms](dsa.md) — 60 questions
+- **Backend** — 60 questions: [open](backend.md)
+- **Fullstack** — 60 questions: [open](fullstack.md)
+- **DevOps** — 60 questions: [open](devops.md)
+- **AIOps** — 4,784 questions: [page 1](aiops-1.md) · [page 2](aiops-2.md) · [page 3](aiops-3.md) · [page 4](aiops-4.md) · [page 5](aiops-5.md) · [page 6](aiops-6.md)
+- **Data Engineer** — 60 questions: [open](data-engineer.md)
+- **Database Developer** — 60 questions: [open](database-developer.md)
+- **ML Engineer** — 60 questions: [open](ml-engineer.md)
+- **AI Engineer** — 60 questions: [open](ai-engineer.md)
+- **Data Structures & Algorithms** — 60 questions: [open](dsa.md)

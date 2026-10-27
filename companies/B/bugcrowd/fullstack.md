@@ -2,6 +2,8 @@
 
 [← back to Bugcrowd](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a red-team program that continuously attempts XSS/SQLi/CSRF against production behind feature flags, with honeytokens and canary rows, so successful exploitation triggers alerts in seconds? Define the guardrails that keep the red team from causing real harm. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Bugcrowd | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-red-team-program-that-continuously-attempts--38999) |

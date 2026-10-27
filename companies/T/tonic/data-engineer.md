@@ -2,6 +2,8 @@
 
 [← back to Tonic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your team copies prod PII into a staging lake so pipeline development is realistic. As principal reject or reshape this — architect a synthetic-data and subsetting-plus-masking approach that gives realistic test data with zero compliance exposure, and quantify the trade-offs. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Tonic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-team-copies-prod-pii-into-a-staging-lake-so-126059) |

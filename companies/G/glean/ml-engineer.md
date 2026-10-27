@@ -2,6 +2,8 @@
 
 [← back to Glean](README.md)
 
+Questions 1–100 of 100.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect end-to-end auditability for a RAG system so you can trace an answer back to the exact retrieved chunks, model version, and prompt? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Glean | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-end-to-end-auditability-for-a-rag-system-so-yo-71709) |

@@ -2,6 +2,8 @@
 
 [← back to Barclays](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A model with strict fairness constraints must have its inference decisions logged immutably for later audit, but stdout logging drops lines under load. How would you architect durable, tamper-evident decision logging for models on Kubernetes without coupling latency to the log sink? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Barclays | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-with-strict-fairness-constraints-must-have-its-inference-decis-68569) |

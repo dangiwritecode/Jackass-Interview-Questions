@@ -2,6 +2,8 @@
 
 [← back to ICICI-Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the governance decision of when to accept a risk exception versus fix it — what's your framework for a formal risk-acceptance process that is auditable time-boxed re-evaluated and can't quietly become permanent technical and compliance debt? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at ICICI-Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-governance-decision-of-when-to-accept-a-risk--54092) |

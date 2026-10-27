@@ -2,6 +2,8 @@
 
 [← back to ING](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | GDPR erasure on an append-only Kafka log is physically impossible per-record — walk me through how you'd use per-user encryption keys and crypto-shredding so deleting a key renders that user's events across all topics and compacted state unreadable, and where this design leaks. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at ING | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=gdpr-erasure-on-an-append-only-kafka-log-is-physically-impossible-per--126020) |

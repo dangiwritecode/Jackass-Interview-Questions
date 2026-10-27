@@ -2,6 +2,8 @@
 
 [← back to Skyflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you protect PII inside the MDM hub — tokenization, encryption, attribute-level access — while still allowing the matching engine to compare sensitive fields like SSN or Aadhaar? | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Skyflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-protect-pii-inside-the-mdm-hub-tokenization-encryption-attr-127763) |

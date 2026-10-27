@@ -2,6 +2,8 @@
 
 [← back to Sysdig](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you keep a FastAPI model container's dependency surface minimal and secure given heavy ML libraries pull in many transitive packages with CVEs? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Sysdig | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-a-fastapi-model-container-s-dependency-surface-minimal-62953) |

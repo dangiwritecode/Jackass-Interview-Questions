@@ -2,6 +2,8 @@
 
 [← back to Ramp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal-level probe: your team argues Python is 'too slow' and wants to rewrite the whole feature layer in Rust. How do you evaluate the claim quantitatively and decide what actually needs to leave Python? | expertise | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Ramp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-level-probe-your-team-argues-python-is-too-slow-and-wants--68383) |

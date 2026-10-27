@@ -2,6 +2,8 @@
 
 [← back to Alpaca](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As data architect you're asked whether Redpanda's Raft-per-partition model is worth switching to from Kafka's ISR. Compare the durability/consistency semantics of Raft-replicated partitions vs. ISR + acks=all, and the operational trade-offs at your scale. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Alpaca | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-data-architect-you-re-asked-whether-redpanda-s-raft-per-partition-m-112194) |

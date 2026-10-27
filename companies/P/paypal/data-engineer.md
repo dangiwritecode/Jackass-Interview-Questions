@@ -2,6 +2,8 @@
 
 [← back to PayPal](README.md)
 
+Questions 1–104 of 104.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cascading data-quality incident last quarter crossed four teams when a silent null-flood in one upstream feed corrupted three downstream aggregates and the exec dashboard; each postmortem blamed the others. As the principal running the joint retro, how do you get to shared truth and durable fixes? | expertise | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at PayPal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cascading-data-quality-incident-last-quarter-crossed-four-teams-when-126143) |

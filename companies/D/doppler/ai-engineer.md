@@ -2,6 +2,8 @@
 
 [← back to Doppler](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle secrets and API keys for third-party model providers (OpenAI/Anthropic) called from AWS Lambda so nothing leaks into logs or the deployment package? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Doppler | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-secrets-and-api-keys-for-third-party-model-providers-77713) |

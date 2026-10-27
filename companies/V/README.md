@@ -29,7 +29,7 @@
 | [Venafi](venafi/README.md) | Tier 3 | 540 | 17 |
 | [Veracode](veracode/README.md) | Tier 3 | 540 | 2 |
 | [Verana](verana/README.md) | Tier 3 | 540 | 1 |
-| [Vercel](vercel/README.md) | Tier 2 | 869 | 2,350 |
+| [Vercel](vercel/README.md) | Tier 2 | 2,970 | 2,350 |
 | [Verica](verica/README.md) | Tier 3 | 540 | 1 |
 | [Verily](verily/README.md) | Tier 2 | 540 | 14 |
 | [Verisign](verisign/README.md) | Tier 3 | 540 | 7 |
@@ -37,7 +37,7 @@
 | [Verizon](verizon/README.md) | Tier 3 | 540 | 41 |
 | [Verkada](verkada/README.md) | Tier 3 | 540 | 16 |
 | [Vertica](vertica/README.md) | Tier 3 | 546 | 69 |
-| [Ververica](ververica/README.md) | Tier 3 | 630 | 213 |
+| [Ververica](ververica/README.md) | Tier 3 | 669 | 213 |
 | [Ververica-Flink](ververica-flink/README.md) | Tier 3 | 540 | 5 |
 | [Very Good Security](very-good-security/README.md) | Tier 4 | 540 | 11 |
 | [Vespa](vespa/README.md) | Tier 2 | 583 | 139 |
@@ -45,7 +45,7 @@
 | [Vimeo](vimeo/README.md) | Tier 3 | 540 | 30 |
 | [Virtu Financial](virtu-financial/README.md) | Tier 2 | 540 | 5 |
 | [Virtusa](virtusa/README.md) | Tier 4 | 540 | 4 |
-| [Visa](visa/README.md) | Tier 2 | 906 | 1,005 |
+| [Visa](visa/README.md) | Tier 2 | 1,067 | 1,005 |
 | [Vista Equity](vista-equity/README.md) | Tier 3 | 540 | 2 |
 | [Viz.ai](viz-ai/README.md) | Tier 3 | 540 | 1 |
 | [VK](vk/README.md) | Tier 3 | 540 | 8 |

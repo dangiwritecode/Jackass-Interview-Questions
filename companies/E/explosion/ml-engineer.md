@@ -2,6 +2,8 @@
 
 [← back to Explosion](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your PoS-tagger-based feature pipeline is slow because spaCy runs synchronously per request. How would you re-architect it for throughput? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Explosion | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-pos-tagger-based-feature-pipeline-is-slow-because-spacy-runs-sync-66218) |

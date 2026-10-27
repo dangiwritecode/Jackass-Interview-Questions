@@ -2,6 +2,8 @@
 
 [← back to Cars24](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide the trade-off between partition projection and a Glue crawler for keeping an S3-backed Athena table's partitions current? | deep understanding | SDE-1/2, SDE-2/3 | Partitioning & Bucketing | Phone Screen, Onsite | Tech | Asked at Cars24 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-trade-off-between-partition-projection-and-a--123072) |

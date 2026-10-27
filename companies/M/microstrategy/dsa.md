@@ -2,6 +2,8 @@
 
 [← back to MicroStrategy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Generate All Orderings of Distinct Values | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Depth-First Search, Recursion | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at MicroStrategy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=generate-all-orderings-of-distinct-values-d46) |

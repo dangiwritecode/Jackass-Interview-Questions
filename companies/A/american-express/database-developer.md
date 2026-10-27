@@ -2,6 +2,8 @@
 
 [← back to American Express](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would design retention and legal-hold policies that are enforced automatically at the database layer while surviving audit scrutiny. | deep understanding | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | Asked at American Express | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-design-retention-and-legal-hold-policies-that-ar-114756) |

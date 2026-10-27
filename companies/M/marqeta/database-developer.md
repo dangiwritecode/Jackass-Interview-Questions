@@ -2,6 +2,8 @@
 
 [← back to Marqeta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is your position on running mission-critical databases on Aurora Serverless v2 versus provisioned — where's the reliability line you won't cross for a payments ledger? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Marqeta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-position-on-running-mission-critical-databases-on-aurora--115207) |

@@ -2,6 +2,8 @@
 
 [← back to Snowplow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must dedup a huge event stream with limited memory; how do you compare exact O(n)-space hash dedup versus a rotating Bloom filter, and defend the false-positive trade-off you'd ship? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Snowplow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-dedup-a-huge-event-stream-with-limited-memory-how-do-you-comp-22113) |

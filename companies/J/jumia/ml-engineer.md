@@ -2,6 +2,8 @@
 
 [← back to Jumia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd choose between one big XGBoost model and many per-segment models for a multi-country product, considering ops overhead. | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Jumia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-choose-between-one-big-xgboost-model-and-many-per-se-65903) |

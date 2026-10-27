@@ -2,6 +2,8 @@
 
 [← back to HubSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design HA for a multi-tenant SaaS where noisy-neighbor tenants must not cause a failover storm across shared clusters. How does tenant isolation interact with HA? | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at HubSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-ha-for-a-multi-tenant-saas-where-noisy-neighb-114659) |

@@ -2,6 +2,8 @@
 
 [← back to Compass](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a cloud-based evaluation and canary system that can safely promote a new model version across the whole fleet, and how do you prevent a subtle quality regression from reaching all users before it's caught? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Commonly asked at Tier 3 companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-cloud-based-evaluation-and-canary-system-tha-82759) |

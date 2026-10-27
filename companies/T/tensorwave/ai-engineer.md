@@ -2,6 +2,8 @@
 
 [← back to TensorWave](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through architecting a strategy for AMD MI300X adoption alongside NVIDIA, and how you'd de-risk the ROCm/vLLM kernel-maturity gap for production traffic. | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at TensorWave | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-architecting-a-strategy-for-amd-mi300x-adoption-alongs-85174) |

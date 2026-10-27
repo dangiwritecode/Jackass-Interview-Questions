@@ -2,6 +2,8 @@
 
 [← back to Sidero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're standardizing the org on an immutable minimal node OS (Talos/Bottlerocket) to shrink attack surface and speed patching. How would you preserve a break-glass debugging path onto a node when there's no SSH and no package manager, and migrate 80 clusters without losing incident-response capability? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Sidero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-standardizing-the-org-on-an-immutable-minimal-node-os-talos-bot-52155) |

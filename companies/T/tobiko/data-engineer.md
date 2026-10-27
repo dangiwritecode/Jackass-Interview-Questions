@@ -2,6 +2,8 @@
 
 [← back to Tobiko](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you frame build-vs-buy for the transformation framework at the center of your platform — dbt Cloud vs dbt-core self-run vs SQLMesh vs bespoke — knowing every analytics engineer's model DAG will be authored in it and switching later strands thousands of models? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Tobiko | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-frame-build-vs-buy-for-the-transformation-framework-at-the--125818) |

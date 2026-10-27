@@ -2,6 +2,8 @@
 
 [← back to Gaana](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you model a many-to-many relationship that also needs an ordering (e.g., playlist tracks in sequence) while keeping reorders cheap? | deep understanding | SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Gaana | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-model-a-many-to-many-relationship-that-also-needs-an-ord-109482) |

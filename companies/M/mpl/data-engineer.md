@@ -2,6 +2,8 @@
 
 [← back to MPL](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you use PERCENT_RANK to keep only rows in the top 10% of a distribution? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at MPL | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-percent-rank-to-keep-only-rows-in-the-top-10-of-a-distr-119048) |

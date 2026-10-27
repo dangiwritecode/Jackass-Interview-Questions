@@ -2,6 +2,8 @@
 
 [← back to LiveKit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the cost/latency strategy for a real-time voice agent at scale where ASR, LLM, and TTS all compete for a tight budget, and where do you invest to claw back the most? | expertise | SDE-2/3, Architect/Principal | LLM Cost & Latency Optimization | Phone Screen, Onsite | Tech | Asked at LiveKit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-cost-latency-strategy-for-a-real-time-voic-85299) |

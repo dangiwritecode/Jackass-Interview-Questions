@@ -2,6 +2,8 @@
 
 [← back to Medik8s](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A single bad node with failing disks kept getting pods scheduled onto it that then failed. How do you detect and cordon unhealthy nodes automatically so the scheduler stops placing work on them? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Medik8s | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-single-bad-node-with-failing-disks-kept-getting-pods-scheduled-onto--47012) |

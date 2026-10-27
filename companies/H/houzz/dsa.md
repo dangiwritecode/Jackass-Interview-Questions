@@ -2,6 +2,8 @@
 
 [← back to Houzz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Evaluate an Integer Arithmetic Expression with Parentheses | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Expression Evaluation, Math, Parsing, Recursion, Stack, String | DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at Houzz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=evaluate-an-integer-arithmetic-expression-with-parentheses-d757) |

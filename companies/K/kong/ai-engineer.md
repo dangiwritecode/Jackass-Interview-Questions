@@ -2,6 +2,8 @@
 
 [← back to Kong](README.md)
 
+Questions 1–65 of 65.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an org-wide model gateway as a shared cloud service that meters, rate-limits, and cost-attributes every LLM call across all teams, without becoming a single point of failure or a throughput bottleneck? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Kong | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-org-wide-model-gateway-as-a-shared-cloud-se-82751) |

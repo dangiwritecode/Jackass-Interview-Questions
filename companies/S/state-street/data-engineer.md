@@ -2,6 +2,8 @@
 
 [← back to State Street](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does S3 Object Lock (governance vs compliance mode) interact with lifecycle transitions and expirations, and how do you design around WORM requirements? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at State Street | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-s3-object-lock-governance-vs-compliance-mode-interact-with-li-126741) |

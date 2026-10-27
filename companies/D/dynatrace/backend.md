@@ -2,6 +2,8 @@
 
 [← back to Dynatrace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the observability signals (metrics, SLIs, alerts) that would let you distinguish 'Redis is slow' from 'the network to Redis is slow' from 'my client pool is exhausted'. | deep understanding | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | Asked at Dynatrace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-observability-signals-metrics-slis-alerts-that-would-let-yo-24709) |

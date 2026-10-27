@@ -2,6 +2,8 @@
 
 [← back to Faire](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an edge-personalization and A/B-experimentation platform on CloudFront Functions and Lambda@Edge that dozens of product teams share — how do you keep experiment logic from bloating the edge and blowing latency budgets? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Marketplace companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-edge-personalization-and-a-b-experimentation-p-33275) |

@@ -2,6 +2,8 @@
 
 [← back to Xiaomi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design governance for edge/on-device ML where models run on devices you don't control — how do you prove to an auditor what a shipped mobile model actually does with PII and honor erasure for data processed entirely on-device? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Xiaomi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-for-edge-on-device-ml-where-models-run-on-devices-yo-70024) |

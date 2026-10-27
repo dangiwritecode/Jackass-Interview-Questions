@@ -2,6 +2,8 @@
 
 [← back to Nothing](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to eval when a model is deployed on-device and you have no server-side telemetry to observe its production quality? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nothing | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-eval-when-a-model-is-deployed-on-device-and-yo-86904) |

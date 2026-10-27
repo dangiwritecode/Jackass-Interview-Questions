@@ -2,6 +2,8 @@
 
 [← back to FedEx](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the architecture for a logistics org that needs geospatial analytics (route optimization, geofencing) at scale. Where do specialized spatial indexes and datatypes belong across your OLTP, lake, and warehouse, and where does forcing geospatial into a generic columnar store fall apart? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at FedEx | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-architecture-for-a-logistics-org-that-needs-geospatial-anal-112680) |

@@ -2,6 +2,8 @@
 
 [← back to DeltaX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cascading failure in your consent service caused ads to serve to users who had opted out for 40 minutes — a GDPR violation. Lead the postmortem: what fail-safe defaults (deny-by-default on consent lookup failure) and architectural guarantees prevent a consent-check outage from becoming a compliance breach? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at AdTech companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cascading-failure-in-your-consent-service-caused-ads-to-serve-to-use-37287) |

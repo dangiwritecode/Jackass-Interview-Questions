@@ -2,6 +2,8 @@
 
 [← back to Buildkite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you validate at CI time that a model artifact and the FastAPI serving code agree on feature names, order, and dtypes before the container is ever deployed? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Buildkite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-validate-at-ci-time-that-a-model-artifact-and-the-fastap-62930) |

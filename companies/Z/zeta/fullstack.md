@@ -2,6 +2,8 @@
 
 [← back to Zeta](README.md)
 
+Questions 1–120 of 120.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the Saga pattern and how does it manage distributed transactions? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Zeta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-saga-pattern-and-how-does-it-manage-distributed-transactio-994) |

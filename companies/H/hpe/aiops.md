@@ -2,6 +2,8 @@
 
 [← back to HPE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect closed-loop automation across a hybrid estate spanning on-prem, three clouds, and edge, where action APIs and permissions differ everywhere? | expertise | SDE-2/3, Architect/Principal | Closed-Loop Automation Architecture | Onsite, Hiring Manager | Tech | Asked at HPE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-closed-loop-automation-across-a-hybrid-estate--102759) |

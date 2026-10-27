@@ -2,6 +2,8 @@
 
 [← back to Zuora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a subscription-billing engine that computes prorated charges on mid-cycle plan changes and handles dunning for failed renewals — how do you model billing periods invoices and retry schedules? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Zuora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-subscription-billing-engine-that-computes-prorated-charges-on-28337) |

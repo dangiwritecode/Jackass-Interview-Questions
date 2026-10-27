@@ -2,6 +2,8 @@
 
 [← back to Arm](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the org's stance on running the AIOps platform on Graviton/ARM instances for cost-per-throughput gains, and how do you manage the multi-arch build and validation burden across the fleet? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Arm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-s-stance-on-running-the-aiops-platform-on-gr-98899) |

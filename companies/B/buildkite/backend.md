@@ -2,6 +2,8 @@
 
 [← back to Buildkite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd build a golden-set regression gate in CI that runs on every prompt PR, is fast enough not to block merges, and fails loudly on a real quality drop but tolerates model nondeterminism. | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at Buildkite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-build-a-golden-set-regression-gate-in-ci-that-runs-o-27565) |

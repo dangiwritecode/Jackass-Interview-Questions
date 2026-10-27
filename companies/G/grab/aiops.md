@@ -2,6 +2,8 @@
 
 [← back to Grab](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you architect the platform to absorb a step-change in scale from a single acquisition or viral product that instantly doubles the tenant count? What has to be elastic by design versus what will require a scramble, and how do you shrink the scramble surface in advance? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Grab | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-architect-the-platform-to-absorb-a-step-chan-100674) |

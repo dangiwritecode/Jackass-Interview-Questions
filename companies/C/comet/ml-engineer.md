@@ -2,6 +2,8 @@
 
 [← back to Comet](README.md)
 
+Questions 1–116 of 116.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a model-lineage and metadata system that lets you trace any production model back through every SFT, DPO, and RLHF stage and the exact data used. | deep understanding | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Comet | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-model-lineage-and-metadata-system-that-lets-you-trace-any-pro-71278) |

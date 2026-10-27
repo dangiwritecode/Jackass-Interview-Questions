@@ -2,6 +2,8 @@
 
 [← back to Charles Schwab](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You want to centralize commitment purchasing so no single team over-commits, but teams complain the central pool 'steals' their savings. Design the internal RI/Savings-Plan sharing and rate-card model that keeps incentives aligned. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Charles Schwab | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-centralize-commitment-purchasing-so-no-single-team-over-co-37020) |

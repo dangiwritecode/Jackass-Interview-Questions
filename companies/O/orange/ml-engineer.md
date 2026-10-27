@@ -2,6 +2,8 @@
 
 [← back to Orange](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design governance for a model that must comply with data-sovereignty mandates requiring EU-national operators and EU-owned infrastructure (sovereign-cloud) for the whole training-to-serving pipeline — how do you build a sovereign ML enclave without forking all of MLOps? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Orange | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-governance-for-a-model-that-must-comply-with-data-sovereignty-m-70027) |

@@ -2,6 +2,8 @@
 
 [← back to Chainalysis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern and detect data poisoning or integrity attacks on datasets that feed critical automated decisions such as credit or fraud scoring? | expertise | SDE-2/3, Architect/Principal | Data Governance & Stewardship | Onsite, Hiring Manager | Tech | Asked at Chainalysis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-and-detect-data-poisoning-or-integrity-attacks-on-da-114811) |

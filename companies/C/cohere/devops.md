@@ -2,6 +2,8 @@
 
 [← back to Cohere](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a policy for how AI/ML workloads and agents obtain secrets (model API keys, data-store creds) at scale, given they may spawn many short-lived jobs. How do you prevent an agent from over-fetching secrets it doesn't need? | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Cohere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-policy-for-how-ai-ml-workloads-and-agents-obtain-secrets-mode-55006) |

@@ -2,6 +2,8 @@
 
 [← back to Dev.to](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design authorization for a public-facing 'read' path that must be extremely fast and mostly anonymous, while the same objects have a strict 'write' path — without duplicating the permission model? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Dev.to | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-authorization-for-a-public-facing-read-path-that--26175) |

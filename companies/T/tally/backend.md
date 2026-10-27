@@ -2,6 +2,8 @@
 
 [← back to Tally](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd guarantee monotonic, gapless per-tenant document numbers under concurrency without a global lock bottleneck, and why a single shared sequence both leaks gaps and becomes a hotspot. | expertise | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Tally | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-guarantee-monotonic-gapless-per-tenant-document-numb-22202) |

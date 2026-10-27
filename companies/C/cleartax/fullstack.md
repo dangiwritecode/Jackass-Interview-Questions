@@ -2,6 +2,8 @@
 
 [← back to ClearTax](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your form saves a parent and its child rows (invoice + line items) in one request. How do you make the multi-statement write atomic, return the generated ids to the client, and handle a partial validation failure cleanly? | intermediate experience | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at ClearTax | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-form-saves-a-parent-and-its-child-rows-invoice-line-items-in-one--22228) |

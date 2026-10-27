@@ -2,6 +2,8 @@
 
 [← back to Cerbos](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A recursive tree-walk builds a permission decision by merging inherited grants; it re-visits shared subtrees repeatedly; how do you add memoization keyed on subtree identity and prove it stays correct with cycles? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Cerbos | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-recursive-tree-walk-builds-a-permission-decision-by-merging-inherite-21956) |

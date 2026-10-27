@@ -2,6 +2,8 @@
 
 [← back to Salad](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when idle GPU capacity should be sold/lent externally versus held as strategic reserve? | deep understanding | SDE-2/3, Architect/Principal | GPU Fleet & Capacity Planning | Onsite, Hiring Manager | Tech | Asked at Salad | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-idle-gpu-capacity-should-be-sold-lent-externall-71916) |

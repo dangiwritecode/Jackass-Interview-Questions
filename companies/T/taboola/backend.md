@@ -2,6 +2,8 @@
 
 [← back to Taboola](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design multi-region for a low-latency real-time bidding / ad-serving system where a 50ms cross-region hop kills the business. How do you get correctness and freshness without paying that latency? | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Taboola | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-multi-region-for-a-low-latency-real-time-bidding-ad-serving-sys-36701) |

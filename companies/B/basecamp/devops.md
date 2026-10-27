@@ -2,6 +2,8 @@
 
 [← back to Basecamp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks you to steelman NOT investing in multi-region: when is single-region with excellent backups, fast rebuild automation, and a warm standby actually the more-resilient and more-defensible choice? Argue both sides and give your decision criteria per service. | expertise | SDE-2/3, Architect/Principal | Fault Tolerance & Resiliency | Phone Screen, Onsite | Tech | Asked at Basecamp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-to-steelman-not-investing-in-multi-region-when-i-52880) |

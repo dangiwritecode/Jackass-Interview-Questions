@@ -2,6 +2,8 @@
 
 [← back to Synthesia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would serve a text-to-speech-plus-lip-sync avatar model in real time. Where are the latency budgets and how do you split the pipeline? | expertise | SDE-1/2, SDE-2/3 | Multimodal AI | Phone Screen, Onsite | Tech | Asked at Synthesia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-serve-a-text-to-speech-plus-lip-sync-avatar-mode-67105) |

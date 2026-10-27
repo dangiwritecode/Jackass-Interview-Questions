@@ -2,6 +2,8 @@
 
 [← back to Ory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tradeoff exists between building a bespoke internal auth/authz system (fit, control) and adopting a managed identity provider (speed, security maturity). How do you scenario-test this build-vs-buy decision on security, extensibility, and lock-in? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Ory | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tradeoff-exists-between-building-a-bespoke-internal-auth-authz-syste-40599) |

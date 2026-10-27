@@ -2,6 +2,8 @@
 
 [← back to Chaos Search](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a company-wide 'partition game day' program that exercises CAP behavior across dozens of interdependent services at once. How do you scope blast radius, sequence the injections, and turn findings into standing architectural fixes? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Chaos Search | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-company-wide-partition-game-day-program-that-exercises-cap-be-32219) |

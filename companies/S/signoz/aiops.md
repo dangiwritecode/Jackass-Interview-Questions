@@ -2,6 +2,8 @@
 
 [← back to SigNoz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evaluate ClickHouse-based observability stacks (SigNoz/self-hosted) against SaaS vendors for a cost-constrained enterprise? | expertise | SDE-2/3, Architect/Principal | Observability Platform Strategy | Onsite, Hiring Manager | Tech | Asked at SigNoz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evaluate-clickhouse-based-observability-stacks-signoz-self--102996) |

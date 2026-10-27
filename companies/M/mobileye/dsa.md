@@ -2,6 +2,8 @@
 
 [← back to Mobileye](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Deep Copy a Linked List With Arbitrary Cross-Links | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Hash Table, In-place Manipulation, Linked List, Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Mobileye | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=deep-copy-a-linked-list-with-arbitrary-cross-links-d138) |

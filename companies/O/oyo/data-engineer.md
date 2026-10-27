@@ -2,6 +2,8 @@
 
 [← back to OYO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you dual-run an old and new pipeline to prove parity before cutover, when the two use different engines and floating-point ordering makes exact equality impossible. Architect the comparison/diff strategy, tolerance bands, and the sign-off gate that lets you retire the old system. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Travel companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-dual-run-an-old-and-new-pipeline-to-prove-pa-125682) |

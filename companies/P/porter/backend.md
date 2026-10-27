@@ -2,6 +2,8 @@
 
 [← back to Porter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design geo-proximity driver matching that returns nearby drivers in <100ms at city scale. Compare a geohash index vs a quadtree vs Redis GEO, and how you'd handle drivers moving constantly. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Porter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-geo-proximity-driver-matching-that-returns-nearby-drivers-in-10-16334) |

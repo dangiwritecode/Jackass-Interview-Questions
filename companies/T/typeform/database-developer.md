@@ -2,6 +2,8 @@
 
 [← back to Typeform](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd model a survey/form builder where admins define fields dynamically and responses must still be queryable. | deep understanding | SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Typeform | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-a-survey-form-builder-where-admins-define-fiel-109517) |

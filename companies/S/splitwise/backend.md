@@ -2,6 +2,8 @@
 
 [← back to Splitwise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | The interviewer asks you to add input validation to your Splitwise expense creation (negative amounts, self-splits, empty groups). Where does validation live — model, service, or UI — and why not just the UI? | intermediate experience | SDE-1/2, SDE-2/3 | Machine Coding Round | DSA/Coding Round, Onsite | Tech | Asked at Splitwise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-interviewer-asks-you-to-add-input-validation-to-your-splitwise-exp-21610) |

@@ -2,6 +2,8 @@
 
 [← back to Byju's](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain a factless fact table and give a warehouse case (e.g. student-course enrollment or promotion coverage) where you'd model events with no measures, and how you query coverage gaps. | intermediate experience | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Byju's | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-a-factless-fact-table-and-give-a-warehouse-case-e-g-student-co-119401) |

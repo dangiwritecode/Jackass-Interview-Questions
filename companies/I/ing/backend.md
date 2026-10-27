@@ -2,6 +2,8 @@
 
 [← back to ING](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal-level question: how do you evolve an enterprise from project-based funding (each integration is a one-off project) to product-based platform funding? What org and finance changes are prerequisites, and how do you win that argument with a skeptical PMO? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at ING | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-level-question-how-do-you-evolve-an-enterprise-from-projec-36390) |

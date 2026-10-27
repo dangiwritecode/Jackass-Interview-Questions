@@ -2,6 +2,8 @@
 
 [← back to BookMyShow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how a virtual waiting room protects downstreams during a surge and the subtle ways it becomes the correlated SPOF itself. How do you size and shard it, and what's the plan if the waiting-room service is exactly what fails under the surge it was meant to absorb? | expertise | SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at BookMyShow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-a-virtual-waiting-room-protects-downstreams-during-a-surge-52623) |

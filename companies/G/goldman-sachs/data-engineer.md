@@ -2,6 +2,8 @@
 
 [← back to Goldman Sachs](README.md)
 
+Questions 1–68 of 68.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A dataset is under legal hold but your lifecycle rule tried to expire it. How do you architect lifecycle so legal holds and retention locks always win over cost policies? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Goldman Sachs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dataset-is-under-legal-hold-but-your-lifecycle-rule-tried-to-expire--126740) |

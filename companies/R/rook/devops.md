@@ -2,6 +2,8 @@
 
 [← back to Rook](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you replicate a stateful workload on Kubernetes (a StatefulSet with PVCs) across regions, and why is storage the hardest part of multi-region k8s? What operators help? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Rook | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-replicate-a-stateful-workload-on-kubernetes-a-statefulse-47584) |

@@ -2,6 +2,8 @@
 
 [← back to Reliance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: how do you validate that a vendor's claimed SLSA level and signed provenance are genuine before you build a critical dependency on their attestations — what's your due-diligence process? | deep understanding | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at Reliance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-do-you-validate-that-a-vendor-s-claimed-slsa-l-55488) |

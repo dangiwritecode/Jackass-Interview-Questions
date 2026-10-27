@@ -2,6 +2,8 @@
 
 [← back to Vodafone](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern a data-residency-aware routing layer so a query from a regulated region is served only by in-region models and in-region retrieval? | expertise | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Vodafone | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-a-data-residency-aware-routing-layer-so-a-query-from-86788) |

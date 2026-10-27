@@ -2,6 +2,8 @@
 
 [← back to DoorDash](README.md)
 
+Questions 1–101 of 101.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal-level probe: 'you architected the system to fail-closed under partition for correctness, but revenue drops 40% every time. How do you find the specific sub-set of operations that can safely fail-open without violating the core invariant?' Reason it through. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at DoorDash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-level-probe-you-architected-the-system-to-fail-closed-unde-32287) |

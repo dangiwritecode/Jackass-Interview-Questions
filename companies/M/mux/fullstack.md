@@ -2,6 +2,8 @@
 
 [← back to Mux](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the pattern for handling file/asset uploads and media pipelines at enterprise scale (many apps, virus scanning, transcoding, CDN, signed URLs) so no team hand-rolls insecure direct-to-S3 flows. Where's the shared service boundary versus a library? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Mux | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-pattern-for-handling-file-asset-uploads-and-media-pipeli-40740) |

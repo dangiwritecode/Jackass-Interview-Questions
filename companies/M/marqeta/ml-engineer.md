@@ -2,6 +2,8 @@
 
 [← back to Marqeta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance for a feature that trains on payment/PAN-adjacent data in a fraud model so the ML pipeline stays out of PCI scope — what tokenization and derived-signal design keeps raw PAN away from feature engineering and model serving? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Marqeta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-a-feature-that-trains-on-payment-p-69978) |

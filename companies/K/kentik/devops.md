@@ -2,6 +2,8 @@
 
 [← back to Kentik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a network-observability / flow-log analysis layer (Kentik/ThousandEyes vs building on VPC flow logs + your own analytics) when diagnosing cross-cloud latency incidents is the recurring pain? | intermediate experience | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Kentik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-network-observability-flow-log-an-53793) |

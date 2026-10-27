@@ -2,6 +2,8 @@
 
 [← back to Lumigo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect observability for serverless functions across clouds where the runtime is opaque and cold-start noise pollutes anomaly detection? | expertise | SDE-2/3, Architect/Principal | Hybrid & Multi-Cloud Operations Architecture | Onsite, Hiring Manager | Tech | Asked at Lumigo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-observability-for-serverless-functions-across-clo-103803) |

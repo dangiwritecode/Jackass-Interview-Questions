@@ -2,6 +2,8 @@
 
 [← back to Dgraph](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A service allocates heavily on the hot path and GC CPU is 30% of total. Walk me through using pprof allocs and escape analysis output to cut allocations without a rewrite. | deep understanding | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Dgraph | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-service-allocates-heavily-on-the-hot-path-and-gc-cpu-is-30-of-total--23033) |

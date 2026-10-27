@@ -2,6 +2,8 @@
 
 [← back to Materialize](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must standardize on lambda or kappa for feature computation across the org; which do you pick, what do you give up, and how do you sell the trade-off? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Materialize | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-standardize-on-lambda-or-kappa-for-feature-computation-across-84354) |

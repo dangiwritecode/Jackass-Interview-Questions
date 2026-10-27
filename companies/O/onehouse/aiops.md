@@ -2,6 +2,8 @@
 
 [← back to Onehouse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide the standard table format for the whole org between Iceberg Delta and Hudi given a decade-long lock-in and a mixed Spark and Trino ecosystem? | deep understanding | SDE-2/3, Architect/Principal | Observability Data Lake | Onsite, Hiring Manager | Tech | Asked at Onehouse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-standard-table-format-for-the-whole-org-betwe-102371) |

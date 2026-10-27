@@ -2,6 +2,8 @@
 
 [← back to Aetna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe a case where a SARGable predicate rewrite eliminated an index scan. What patterns make a WHERE clause non-SARGable? | deep understanding | SDE-1, SDE-1/2 | T-SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Aetna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-a-case-where-a-sargable-predicate-rewrite-eliminated-an-index-108547) |

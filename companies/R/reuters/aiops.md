@@ -2,6 +2,8 @@
 
 [← back to Reuters](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd set a drift baseline for a RAG pipeline that legitimately changes as fresh documents get ingested daily. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Reuters | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-set-a-drift-baseline-for-a-rag-pipeline-that-legitim-97833) |

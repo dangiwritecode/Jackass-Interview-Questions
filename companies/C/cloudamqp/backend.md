@@ -2,6 +2,8 @@
 
 [← back to CloudAMQP](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do RabbitMQ mirrored/quorum queues provide high availability, and what is the trade-off with throughput? | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Message Queues & Event-Driven Architecture | Phone Screen, Onsite | Tech | Asked at CloudAMQP | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-rabbitmq-mirrored-quorum-queues-provide-high-availability-and-w-13655) |

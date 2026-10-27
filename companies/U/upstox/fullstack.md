@@ -2,6 +2,8 @@
 
 [← back to Upstox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A legacy embed feature added the literal string null to your CORS origin allowlist so a sandboxed iframe would work. During a review you flag it as critical. Reconstruct the exact exploit path a sandboxed document uses and design the correct replacement that keeps the iframe working. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Upstox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-legacy-embed-feature-added-the-literal-string-null-to-your-cors-orig-19177) |

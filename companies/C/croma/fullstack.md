@@ -2,6 +2,8 @@
 
 [← back to Croma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect an inventory-availability system across 5000 physical stores plus warehouses where stock must be near-real-time accurate for online buyers — how do you reconcile in-store POS events with online reservations and avoid overselling a store's last unit? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Croma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-an-inventory-availability-system-across-5000-physical-stores-39485) |

@@ -2,6 +2,8 @@
 
 [← back to Zest AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the automated decision-making and profiling provisions of GDPR Article 22 in your feature and model pipelines including the right to human review? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Zest AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-automated-decision-making-and-profiling-provisio-127367) |

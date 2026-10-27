@@ -2,6 +2,8 @@
 
 [← back to Restate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When your agentic workflow needs durable, resumable long-running execution with retries and human-in-the-loop pauses, how do you decide between buying a managed agent-runtime and building on a workflow engine like Temporal — where does execution-substrate control tip it? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Restate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-your-agentic-workflow-needs-durable-resumable-long-running-execut-83742) |

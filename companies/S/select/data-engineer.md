@@ -2,6 +2,8 @@
 
 [← back to SELECT](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your cost model: 'your warehouse virtual-warehouse-per-team isolation is clean but idle warehouses and duplicated data blew the bill.' Architect the trade-off between isolation and cost efficiency, and how you get consolidation without reintroducing the noisy-neighbor problem you were avoiding. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at SELECT | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-cost-model-your-warehouse-virtual-warehouse-125695) |

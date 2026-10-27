@@ -2,6 +2,8 @@
 
 [← back to Zapier](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org runs Airflow with thousands of DAGs and the scheduler/worker fleet costs more than some of the pipelines it runs. How would you right-size the orchestration tier, and when is the fixed cost of the orchestrator itself worth attacking versus the jobs it triggers? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Zapier | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-airflow-with-thousands-of-dags-and-the-scheduler-worker--125326) |

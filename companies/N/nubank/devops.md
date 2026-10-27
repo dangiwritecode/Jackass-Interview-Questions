@@ -2,6 +2,8 @@
 
 [← back to Nubank](README.md)
 
+Questions 1–150 of 150.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks how you quantify and reduce the 'coordination cost' of an event-driven estate: the human overhead of teams negotiating schema and ordering changes. What metrics and org mechanisms actually move that number? | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Nubank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-how-you-quantify-and-reduce-the-coordination-cost-of-51932) |

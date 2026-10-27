@@ -2,6 +2,8 @@
 
 [← back to Hippocratic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain why a model that scores well on MMLU can still fail on your domain, and how you'd build a domain-specific eval instead of trusting benchmarks. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Hippocratic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-why-a-model-that-scores-well-on-mmlu-can-still-fail-on-your-do-63850) |

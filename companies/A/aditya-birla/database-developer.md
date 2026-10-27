@@ -2,6 +2,8 @@
 
 [← back to Aditya Birla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal-level question: how do you evolve the enterprise from project-based funding (each database migration is a one-off) to product-based data-platform funding? What org and finance changes are prerequisites, and how do you win that argument with a skeptical PMO that measures features shipped? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Aditya Birla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-level-question-how-do-you-evolve-the-enterprise-from-proje-112624) |

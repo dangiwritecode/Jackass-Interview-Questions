@@ -2,6 +2,8 @@
 
 [← back to Pega](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the pattern for handling long-running human-in-the-loop business processes (approvals that take days) in an event-driven enterprise. How do you model wait states, timeouts, and escalations without holding threads/connections open, and where does a workflow engine belong? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Pega | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-pattern-for-handling-long-running-human-in-the-loop-busines-36362) |

@@ -2,6 +2,8 @@
 
 [← back to Braze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to architect governance for browser-side and mobile-SDK data collection where the code runs on devices you don't control — how do you prove to an auditor what a shipped mobile app actually does with PII when you can't inspect every user's runtime? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Braze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-architect-governance-for-browser-side-and-mobile-sdk-data--54099) |

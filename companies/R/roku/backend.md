@@ -2,6 +2,8 @@
 
 [← back to Roku](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org runs both a strongly consistent core and a constellation of eventually consistent edge services. Define the architectural contract at the boundary so the edge can never leak an unsafe stale value back into a decision the core treats as authoritative. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Roku | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-runs-both-a-strongly-consistent-core-and-a-constellation-of-e-32211) |

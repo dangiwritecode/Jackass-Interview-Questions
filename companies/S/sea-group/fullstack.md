@@ -2,6 +2,8 @@
 
 [← back to Sea Group](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding whether to run one global authorization PDP or regional PDPs. A latency-sensitive team in Singapore can't tolerate a cross-Atlantic hop, but policy must be globally consistent. Architect the split and the policy-distribution mechanism, and state the staleness you accept. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Sea Group | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-run-one-global-authorization-pdp-or-regiona-38847) |

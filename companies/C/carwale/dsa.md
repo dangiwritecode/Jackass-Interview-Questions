@@ -2,6 +2,8 @@
 
 [← back to CarWale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Reflection Pairing Score of a Letter Sequence | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Greedy, Hash Table, Simulation, Stack, String | Online Assessment (OA), DSA/Coding Round | DSA | Asked at CarWale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reflection-pairing-score-of-a-letter-sequence-d3067) |

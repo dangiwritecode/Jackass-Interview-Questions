@@ -2,6 +2,8 @@
 
 [← back to Roblox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would detect and handle Unicode confusables (homoglyph attacks) in a text-moderation pipeline. | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Roblox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-detect-and-handle-unicode-confusables-homoglyph--79429) |

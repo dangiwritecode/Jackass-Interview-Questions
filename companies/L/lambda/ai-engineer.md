@@ -2,6 +2,8 @@
 
 [← back to Lambda](README.md)
 
+Questions 1–89 of 89.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are asked to justify keeping a slice of the AI platform on-prem or in a colo despite a cloud-first mandate. Under what GenAI workload economics does owning GPUs actually beat renting them, and how would you model the crossover? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Lambda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-asked-to-justify-keeping-a-slice-of-the-ai-platform-on-prem-or-82754) |

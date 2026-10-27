@@ -2,6 +2,8 @@
 
 [← back to DocuSign](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A finance leader wants cloud cost to be a COGS line with monthly variance under 5% for board reporting, but your architecture is inherently elastic and spiky. How do you reconcile financial predictability with technical elasticity? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at DocuSign | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-finance-leader-wants-cloud-cost-to-be-a-cogs-line-with-monthly-varia-37045) |

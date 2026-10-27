@@ -2,6 +2,8 @@
 
 [← back to Meru](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A colleague calls a query 'a point lookup' — what does that tell you about whether it's OLTP or OLAP? | basic concept | Fresher, SDE-1/2, SDE-2/3 | OLTP vs OLAP | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Meru | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-colleague-calls-a-query-a-point-lookup-what-does-that-tell-you-about-118776) |

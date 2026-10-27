@@ -2,6 +2,8 @@
 
 [← back to Practo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As principal architect, how would you reconcile GDPR, DPDP, PCI-DSS, and HIPAA access-control obligations into one enforceable data-access framework instead of four overlapping ones? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Practo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-principal-architect-how-would-you-reconcile-gdpr-dpdp-pci-dss-and-h-114049) |

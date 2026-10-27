@@ -2,6 +2,8 @@
 
 [← back to Decodable](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect PII scrubbing in a streaming pipeline (Kafka/Flink) where you can't buffer whole records but must mask before anything lands downstream? | deep understanding | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Decodable | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-pii-scrubbing-in-a-streaming-pipeline-kafka-fl-72625) |

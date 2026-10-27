@@ -2,6 +2,8 @@
 
 [← back to Getty](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you strategically handle the roadmap implications of AI-generated content liability, IP, and provenance for a media or marketplace business? | expertise | SDE-2/3, Architect/Principal | AI Strategy & Roadmap | Onsite, Hiring Manager | Tech | Asked at Getty | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-strategically-handle-the-roadmap-implications-of-ai-gene-71656) |

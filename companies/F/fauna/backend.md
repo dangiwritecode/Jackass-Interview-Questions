@@ -2,6 +2,8 @@
 
 [← back to Fauna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design authentication and authorization for a multi-region active-active deployment where a user might log in in region A and make a request served by region B before the session replicates. How do you avoid a spurious 401? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Fauna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-authentication-and-authorization-for-a-multi-region-active-acti-26229) |

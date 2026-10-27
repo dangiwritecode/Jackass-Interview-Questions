@@ -2,6 +2,8 @@
 
 [← back to Texas Instruments](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As a principal, how do you decide the org standard between DPO, PPO-based RLHF, and newer methods like GRPO for the next two years of model development? | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Semiconductors companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-a-principal-how-do-you-decide-the-org-standard-between-dpo-ppo-base-71273) |

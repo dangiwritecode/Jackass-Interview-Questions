@@ -2,6 +2,8 @@
 
 [← back to Tesco](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a data platform where the same conformed dimension (say 'product') is authored once but physically replicated into every domain's data product in a mesh? What keeps the copies consistent, and how do you avoid the central-model chokepoint you were trying to escape? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tesco | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-platform-where-the-same-conformed-dimensio-112665) |

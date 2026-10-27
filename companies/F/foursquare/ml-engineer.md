@@ -2,6 +2,8 @@
 
 [← back to Foursquare](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle privacy for time-series / location data where trajectories are highly re-identifying even after removing direct identifiers? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Foursquare | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-privacy-for-time-series-location-data-where-trajecto-72643) |

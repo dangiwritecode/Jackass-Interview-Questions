@@ -2,6 +2,8 @@
 
 [← back to Chaos](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build a "partition drill" into your CI/CD so that every release automatically verifies the service still honors its declared CP-or-AP contract before it ships? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Chaos | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-partition-drill-into-your-ci-cd-so-that-every-re-25648) |

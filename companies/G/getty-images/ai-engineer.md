@@ -2,6 +2,8 @@
 
 [← back to Getty Images](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the risk that a model's training data includes copyrighted or licensed content that creates legal exposure downstream? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Getty Images | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-risk-that-a-model-s-training-data-includes-copyr-86193) |

@@ -2,6 +2,8 @@
 
 [← back to StarTree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the cost-optimal storage engine and compression codec for a column-store analytical table — dictionary vs run-length vs delta encoding — where aggressive compression cuts scan cost but raises CPU on write? Where's the break-even? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at StarTree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-cost-optimal-storage-engine-and-compression-code-112303) |

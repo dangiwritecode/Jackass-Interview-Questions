@@ -2,6 +2,8 @@
 
 [← back to Guidewire](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Moves to Put Exactly One Token in Every Cell of a 3×3 Board | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Assignment Problem, Backtracking, Greedy vs Optimal, Manhattan Distance, Matrix, Minimum-Cost Matching, Permutations | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Guidewire | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-moves-to-put-exactly-one-token-in-every-cell-of-a-3-3-board-d2635) |

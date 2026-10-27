@@ -2,6 +2,8 @@
 
 [← back to Deutsche Telekom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are asked to set the governance strategy for a platform that must comply with sovereignty requirements demanding EU-national-only operators and EU-owned infrastructure (e.g. sovereign-cloud mandates) — how do you architect a sovereign enclave without forking your entire operations model? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Deutsche Telekom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-asked-to-set-the-governance-strategy-for-a-platform-that-must--54087) |

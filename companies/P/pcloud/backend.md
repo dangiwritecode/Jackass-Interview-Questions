@@ -2,6 +2,8 @@
 
 [← back to pCloud](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd implement authorization for a 'shared drive' where permissions are inherited from parent folders but can be overridden per-file, and a move operation must recompute effective access. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at pCloud | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-implement-authorization-for-a-shared-drive-where-per-26157) |

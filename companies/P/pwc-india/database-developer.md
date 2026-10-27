@@ -2,6 +2,8 @@
 
 [← back to PwC India](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the org's data-governance model on AWS so PII is classified, encrypted with the right KMS key, access-tiered, and provably deletable — where do Lake Formation, Glue Data Catalog, and Macie fit, and where do they leave gaps an auditor would catch? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at PwC India | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-org-s-data-governance-model-on-aws-so-pii-is--111891) |

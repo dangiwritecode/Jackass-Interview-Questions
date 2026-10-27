@@ -2,6 +2,8 @@
 
 [← back to Metaflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design your platform so a data scientist's prototyping notebook for a RAG chain can be promoted to a governed production service with minimal rewrite? What do you standardize? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Metaflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-your-platform-so-a-data-scientist-s-prototyping-n-79062) |

@@ -2,6 +2,8 @@
 
 [← back to Reltio](README.md)
 
+Questions 1–91 of 91.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stakeholder wants MDM to be the single system every application writes to directly. Why is that centralized transactional style so hard to sustain, and what's your counter-proposal? | deep understanding | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Reltio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-wants-mdm-to-be-the-single-system-every-application-writ-127747) |

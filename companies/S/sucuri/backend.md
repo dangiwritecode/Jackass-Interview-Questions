@@ -2,6 +2,8 @@
 
 [← back to Sucuri](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your login is protected by a WAF that started blocking legitimate users after a rule update. How do you tell a WAF false-positive from a real attack, and how would you design a safe rollback path for auth-path rules? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Sucuri | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-login-is-protected-by-a-waf-that-started-blocking-legitimate-user-26206) |

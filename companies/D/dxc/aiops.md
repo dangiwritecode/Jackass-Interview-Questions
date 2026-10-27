@@ -2,6 +2,8 @@
 
 [← back to DXC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Can you name the main modules that make up ServiceNow ITOM? | basic concept | Fresher, SDE-1/2, SDE-2/3 | ServiceNow ITOM | Phone Screen, Onsite | Tech | Asked at DXC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-you-name-the-main-modules-that-make-up-servicenow-itom-91527) |

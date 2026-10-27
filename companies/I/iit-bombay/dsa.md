@@ -2,6 +2,8 @@
 
 [← back to IIT Bombay](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | First Position Where a Pattern Appears Inside a Text | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | KMP, Prefix Function, String, String Matching, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at IIT Bombay | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=first-position-where-a-pattern-appears-inside-a-text-d28) |

@@ -2,6 +2,8 @@
 
 [← back to SonyLiv](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd expand (subscription_id, start_date, end_date) ranges into a daily 'active subscriptions per day' series without naively generating a row per subscription per day. | deep understanding | SDE-1, SDE-1/2 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at SonyLiv | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-expand-subscription-id-start-date-end-date-ranges-in-107006) |

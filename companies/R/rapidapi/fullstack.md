@@ -2,6 +2,8 @@
 
 [← back to RapidAPI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your strategy: you claim 'APIs are the product,' yet your API has no pricing, no packaging, and no self-serve signup. What's the minimum viable product-ization you'd stand up first, and how do you sequence turning an internal API into a monetizable product without a full platform rebuild? | deep understanding | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at RapidAPI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-strategy-you-claim-apis-are-the-product-yet-40901) |

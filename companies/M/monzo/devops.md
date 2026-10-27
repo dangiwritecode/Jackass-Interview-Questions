@@ -2,6 +2,8 @@
 
 [← back to Monzo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cascading failure took down five services when one dependency slowed — walk me through the retrospective and how you'd redesign with bulkheads, circuit breakers, and load shedding so a slow dependency can't take the whole system down again. | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Monzo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cascading-failure-took-down-five-services-when-one-dependency-slowed-52384) |

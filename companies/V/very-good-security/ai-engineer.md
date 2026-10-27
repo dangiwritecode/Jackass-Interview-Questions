@@ -2,6 +2,8 @@
 
 [← back to Very Good Security](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect PII redaction in the LLM request/response path on AWS so no customer identifier lands in prompt logs the vector store or a fine-tuning dataset — where does detection happen and what's the trade-off between redacting pre-model and post-model? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Very Good Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-pii-redaction-in-the-llm-request-response-path-on-82653) |

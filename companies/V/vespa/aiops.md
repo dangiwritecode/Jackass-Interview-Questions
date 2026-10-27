@@ -2,6 +2,8 @@
 
 [← back to Vespa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Distinguish concept drift in the underlying corpus from retrieval drift in the ranker. How do you tell the AIOps oncall which one fired? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Vespa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=distinguish-concept-drift-in-the-underlying-corpus-from-retrieval-drif-97829) |

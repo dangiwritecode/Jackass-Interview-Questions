@@ -2,6 +2,8 @@
 
 [← back to Midjourney](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the retrieval platform so adding a new modality (image, audio, code) doesn't fork ingestion, indexing, and query. What abstraction lets multiple vector spaces coexist, and where does that abstraction genuinely break down for cross-modal agent retrieval? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Midjourney | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-retrieval-platform-so-adding-a-new-modality-image-audio--82471) |

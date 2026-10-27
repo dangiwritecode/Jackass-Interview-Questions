@@ -2,6 +2,8 @@
 
 [← back to Capital-One](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the org's landing-zone strategy so that a newly onboarded AIOps data pipeline inherits guardrails (encryption tagging network egress) by default rather than each team re-deriving them? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Capital-One | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-org-s-landing-zone-strategy-so-that-a-newly-o-98827) |

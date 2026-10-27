@@ -2,6 +2,8 @@
 
 [← back to Cisco](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a policy-as-code layer (e.g. OPA-style) for ML pipelines so governance rules are versioned, testable, and enforced in CI/CD. | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Cisco | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-policy-as-code-layer-e-g-opa-style-for-ml-p-71678) |

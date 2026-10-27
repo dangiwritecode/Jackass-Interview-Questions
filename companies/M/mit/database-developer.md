@@ -2,6 +2,8 @@
 
 [← back to MIT](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a formal or semi-formal spec (TLA+/Alloy) of a critical transaction to prove the chosen isolation level actually prevents the anomaly you care about. | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at MIT | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-formal-or-semi-formal-spec-tla-alloy-of-a-c-113690) |

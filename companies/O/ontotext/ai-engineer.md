@@ -2,6 +2,8 @@
 
 [← back to Ontotext](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you validate that entities extracted for GraphRAG map to a controlled ontology rather than free text? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Advanced RAG (GraphRAG/Agentic RAG) | Phone Screen, Onsite | Tech | Asked at Ontotext | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-validate-that-entities-extracted-for-graphrag-map-to-a-cont-81862) |

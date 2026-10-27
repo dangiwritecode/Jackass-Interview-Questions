@@ -2,6 +2,8 @@
 
 [← back to OKX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A prompt-injection attack in your RAG system caused the model to exfiltrate a system prompt. How would you architect Python-side defenses (content isolation, tool allowlists, output scanning) and prove the mitigation with a red-team eval suite? | expertise | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Crypto companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-prompt-injection-attack-in-your-rag-system-caused-the-model-to-exfil-82354) |

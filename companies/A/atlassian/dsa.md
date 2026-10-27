@@ -2,6 +2,8 @@
 
 [← back to Atlassian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Encode a Binary Tree to a String and Rebuild It | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Binary Tree, Breadth-First Search, Depth-First Search, Design, Recursion, Serialization, String, Tree | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Atlassian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=encode-a-binary-tree-to-a-string-and-rebuild-it-d297) |

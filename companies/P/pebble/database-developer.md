@@ -2,6 +2,8 @@
 
 [← back to Pebble](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | CockroachDB uses Pebble (an LSM store); explain how LSM compaction, write amplification, and read amplification manifest under a heavy update workload, and how you'd tune or model storage for it. | expertise | SDE-2/3, Architect/Principal | NewSQL (CockroachDB/Spanner) | Phone Screen, Onsite | Tech | Asked at Pebble | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=cockroachdb-uses-pebble-an-lsm-store-explain-how-lsm-compaction-write--114490) |

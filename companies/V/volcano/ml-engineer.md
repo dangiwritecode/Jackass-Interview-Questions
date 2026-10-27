@@ -2,6 +2,8 @@
 
 [← back to Volcano](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A large-model training job needs all-or-nothing scheduling of 256 GPU pods, but the default kube-scheduler places them one at a time and deadlocks under contention. How would you design gang scheduling and what does Volcano or Kueue give you that plain Kubernetes doesn't? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Volcano | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-large-model-training-job-needs-all-or-nothing-scheduling-of-256-gpu--68472) |

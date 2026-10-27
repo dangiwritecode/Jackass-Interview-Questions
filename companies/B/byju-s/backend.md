@@ -2,6 +2,8 @@
 
 [← back to Byju's](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design tables for a many-to-many relationship between students and courses? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Byju's | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-tables-for-a-many-to-many-relationship-between-st-371) |

@@ -2,6 +2,8 @@
 
 [← back to Kong](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern model access via internal APIs so cost, safety, and data-classification policies are enforced at the gateway, not per-application? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Kong | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-model-access-via-internal-apis-so-cost-safety-and-da-71717) |

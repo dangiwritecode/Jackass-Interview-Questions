@@ -2,6 +2,8 @@
 
 [← back to VK](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Shift All Zeros to the End In Place | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, In-place Partitioning, Stable Partition, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at VK | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=shift-all-zeros-to-the-end-in-place-d283) |

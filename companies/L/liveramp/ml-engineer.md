@@ -2,6 +2,8 @@
 
 [← back to LiveRamp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance for cross-org data collaboration in ML — data clean rooms and secure multi-party computation so partners jointly train a model without either exposing raw PII to the other — and prove to regulators no side saw the other's data? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at LiveRamp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-cross-org-data-collaboration-in-ml-69998) |

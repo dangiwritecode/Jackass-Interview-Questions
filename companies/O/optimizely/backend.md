@@ -2,6 +2,8 @@
 
 [← back to Optimizely](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to design a global feature-flag/config plane that must be available on every request path yet must not let a bad flag persist after a partition heals. What's the architecture, and what's the exact CAP trade you accept on the write path? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Optimizely | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-design-a-global-feature-flag-config-plane-that-must-be-32274) |

@@ -2,6 +2,8 @@
 
 [← back to ClickHouse](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org standard for structured high-cardinality canonical generation events — one wide event per LLM call with model, prompt-version, retrieved-doc-ids, token counts, judge score, safety flags, and latency breakdown. Which fields are mandatory, how do you cap cost and redact PII, and how do you migrate 300 features off narrow logging without a big-bang rewrite? | expertise | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at ClickHouse | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-standard-for-structured-high-cardinality-canonical-gene-83314) |

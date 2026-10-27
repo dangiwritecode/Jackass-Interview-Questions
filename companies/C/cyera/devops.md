@@ -2,6 +2,8 @@
 
 [← back to Cyera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a data-classification and PII-discovery engine at petabyte scale — where does a commercial scanner win where must you build custom detectors and how do you avoid vendor lock-in on your classification ground truth? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Cyera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-classification-and-pii-disco-54054) |

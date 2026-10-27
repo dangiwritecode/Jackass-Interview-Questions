@@ -2,6 +2,8 @@
 
 [← back to Honeycomb.io](README.md)
 
+Questions 1–133 of 133.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the org's incident-response playbook for the AI platform so that when inference degrades, on-call can distinguish in five minutes between a cloud-infra problem, a model-provider problem, a retrieval problem, and a bad deploy, and act on the right one? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Honeycomb.io | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-org-s-incident-response-playbook-for-the-a-82831) |

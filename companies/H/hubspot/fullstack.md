@@ -2,6 +2,8 @@
 
 [← back to HubSpot](README.md)
 
+Questions 1–82 of 82.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding the org's Next.js/SSR hosting strategy on AWS — Amplify Hosting vs Lambda@Edge/CloudFront vs ECS — for dozens of apps; how do you weigh cold-start cost operational ownership and the frontend team's velocity? | intermediate experience | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at HubSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-the-org-s-next-js-ssr-hosting-strategy-on-aws-amplify--33274) |

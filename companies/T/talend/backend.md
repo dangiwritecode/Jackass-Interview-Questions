@@ -2,6 +2,8 @@
 
 [← back to Talend](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's approach to 'data mesh vs data fabric' — are they competing or complementary? Where does automated metadata-driven integration (fabric) sit relative to decentralized ownership (mesh) in your target architecture? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Talend | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-approach-to-data-mesh-vs-data-fabric-are-they-competi-36579) |

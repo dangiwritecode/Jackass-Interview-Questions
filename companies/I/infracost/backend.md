@@ -2,6 +2,8 @@
 
 [← back to Infracost](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd embed FinOps into the CI/CD and IaC pipeline so cost impact is visible at PR time. What do you show the engineer, what do you block on, and how do you avoid alert fatigue? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Infracost | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-embed-finops-into-the-ci-cd-and-iac-pipeline-so-cos-37031) |

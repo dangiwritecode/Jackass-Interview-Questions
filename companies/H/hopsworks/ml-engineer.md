@@ -2,6 +2,8 @@
 
 [← back to Hopsworks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your feature store has a real-time and offline half. How do you guarantee consistent PII masking/consent enforcement across both without training-serving skew? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Hopsworks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-feature-store-has-a-real-time-and-offline-half-how-do-you-guarant-72609) |

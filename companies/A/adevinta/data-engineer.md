@@ -2,6 +2,8 @@
 
 [← back to Adevinta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | In a data mesh where each domain owns its products independently how do you enforce a single consistent DSAR fulfillment SLA without recentralizing ownership? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Adevinta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-a-data-mesh-where-each-domain-owns-its-products-independently-how-d-127317) |

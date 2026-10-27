@@ -2,6 +2,8 @@
 
 [← back to Palantir](README.md)
 
+Questions 1–61 of 61.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Spark shuffle-heavy job spills gigabytes to the local disk and slows down. How would you check on the Linux node whether spark.local.dir is on a slow or nearly-full volume, and confirm the disk is the bottleneck with iostat? | deep understanding | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Palantir | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-spark-shuffle-heavy-job-spills-gigabytes-to-the-local-disk-and-slows-120068) |

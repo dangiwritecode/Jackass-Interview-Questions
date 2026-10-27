@@ -2,6 +2,8 @@
 
 [← back to Agora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is jitter and why does it matter more for a voice call than a file download? | intermediate experience | Fresher, SDE-1 | Computer Networks | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Agora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-jitter-and-why-does-it-matter-more-for-a-voice-call-than-a-fil-8654) |

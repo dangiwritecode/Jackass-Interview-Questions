@@ -2,6 +2,8 @@
 
 [← back to Upstash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a prompt-caching strategy for large shared tool blocks and system prompts across many tenants and roles that maximizes hit rate while preventing cross-tenant leakage and prompt-cache poisoning. What's your cache-key and prefix-ordering design? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Upstash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-prompt-caching-strategy-for-large-shared-tool-blocks-and-syst-83069) |

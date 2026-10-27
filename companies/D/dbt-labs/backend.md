@@ -2,6 +2,8 @@
 
 [← back to dbt Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're designing a data-governance program where lineage and correctness matter. How do CAP choices at each hop of a multi-store data pipeline compound into an end-to-end consistency guarantee (or lack thereof), and how do you make that guarantee auditable? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at dbt Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-a-data-governance-program-where-lineage-and-correctne-32264) |

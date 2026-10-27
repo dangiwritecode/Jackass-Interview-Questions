@@ -2,6 +2,8 @@
 
 [← back to Tecton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the RPO of an in-memory feature store that serves ML inference — is stale-but-available better than fresh-but-down, and who decides? | deep understanding | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Tecton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-rpo-of-an-in-memory-feature-store-that-serves-ml-53630) |

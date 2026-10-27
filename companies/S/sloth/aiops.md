@@ -2,6 +2,8 @@
 
 [← back to Sloth](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the reliability of an SLO-as-code control plane where a bad commit to a shared library of SLI definitions could misconfigure alerting for thousands of services at once — what review, canary, and blast-radius cap protect the definition pipeline? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Sloth | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-reliability-of-an-slo-as-code-control-plane-w-100371) |

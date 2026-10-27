@@ -2,6 +2,8 @@
 
 [← back to Elementary](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build observability that gives you a per-pipeline data-quality trend over time, not just point-in-time pass/fail? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Data Observability | Phone Screen, Onsite | Tech | Asked at Elementary | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-observability-that-gives-you-a-per-pipeline-data-qual-124560) |

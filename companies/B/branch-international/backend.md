@@ -2,6 +2,8 @@
 
 [← back to Branch International](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A report must attribute revenue to the first marketing touch per user (first-touch attribution) across an events table. How do you pick the earliest touch per user with a window function and join it back, and why is a MIN subquery join subtly wrong? | deep understanding | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Branch International | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-report-must-attribute-revenue-to-the-first-marketing-touch-per-user--22217) |

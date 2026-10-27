@@ -2,6 +2,8 @@
 
 [← back to Urban Company](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you set reliability targets for a two-sided marketplace where the supply side and demand side have asymmetric tolerance for failure — do drivers and riders (or buyers and sellers) get different SLOs on the same platform? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Urban Company | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-set-reliability-targets-for-a-two-sided-marketplace-where-t-41412) |

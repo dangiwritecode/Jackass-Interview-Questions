@@ -2,6 +2,8 @@
 
 [← back to Byju's](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When would you deliberately violate the "platform as a product" principle and impose a mandated platform standard top-down — and how do you contain the political fallout? | expertise | SDE-2/3, Architect/Principal | Team Topologies | Onsite, Hiring Manager | Tech | Asked at Byju's | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-would-you-deliberately-violate-the-platform-as-a-product-principl-57032) |

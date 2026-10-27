@@ -2,6 +2,8 @@
 
 [← back to Wasabi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you store the documents that feed a RAG pipeline in the cloud before they are chunked and embedded? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Wasabi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-store-the-documents-that-feed-a-rag-pipeline-in-the-clou-76487) |

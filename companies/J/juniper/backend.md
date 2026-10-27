@@ -2,6 +2,8 @@
 
 [← back to Juniper](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how the Linux receive path uses softirqs and NAPI, why a single-queue NIC can bottleneck on one core under high packet rate, and how RSS/RPS/RFS spread the load across cores. | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Juniper | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-the-linux-receive-path-uses-softirqs-and-napi-why-a-single-26649) |

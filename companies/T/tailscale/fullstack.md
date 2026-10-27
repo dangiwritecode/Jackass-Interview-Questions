@@ -2,6 +2,8 @@
 
 [← back to Tailscale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you threat-model the developer's laptop as part of the production trust boundary? Local secrets, kubeconfigs, and cloud creds all sit there. Design the architecture that keeps a compromised endpoint from becoming production access. | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Tailscale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-threat-model-the-developer-s-laptop-as-part-of-the-producti-41266) |

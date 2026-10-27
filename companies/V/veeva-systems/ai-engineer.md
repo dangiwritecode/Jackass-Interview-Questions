@@ -2,6 +2,8 @@
 
 [← back to Veeva Systems](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a data-governance and lineage architecture where any tool an agent calls may touch regulated data: track what the model saw, prove compliance to auditors, and enforce purpose limitation across tool calls without storing raw prompts forever. | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Healthcare companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-data-governance-and-lineage-architecture-where-any-tool-an-ag-83080) |

@@ -2,6 +2,8 @@
 
 [← back to Typeface](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're consolidating 30 LoRA-adapter deployments onto a shared base-model fleet; how do you design tenancy, isolation, and cost attribution for multi-LoRA at org scale? | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at Typeface | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-consolidating-30-lora-adapter-deployments-onto-a-shared-base-mo-71186) |

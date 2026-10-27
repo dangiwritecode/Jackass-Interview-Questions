@@ -2,6 +2,8 @@
 
 [← back to Styra](README.md)
 
+Questions 1–135 of 135.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal peer argues ATAM is obsolete for platform work because 'we govern with policy-as-code and fitness functions now.' Defend or refute: where does a formal ATAM still add value that automated architecture checks structurally cannot? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Styra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-argues-atam-is-obsolete-for-platform-work-because-we--53264) |

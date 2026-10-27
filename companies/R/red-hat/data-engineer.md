@@ -2,6 +2,8 @@
 
 [← back to Red Hat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you tell the difference between a data standard worth mandating org-wide — say mandatory schema-registry-enforced Avro for all events — and one that should stay a recommendation? Give me your framework and a case where you deliberately chose not to mandate. | expertise | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Red Hat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-tell-the-difference-between-a-data-standard-worth-mandating-126129) |

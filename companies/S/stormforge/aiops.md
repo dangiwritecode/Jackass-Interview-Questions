@@ -2,6 +2,8 @@
 
 [← back to StormForge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd build a remediation that automatically increases a Deployment's memory limit when your detector confirms repeated OOMKills, while capping the total and requiring approval past a threshold to avoid runaway cost. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at StormForge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-build-a-remediation-that-automatically-increases-a-d-92512) |

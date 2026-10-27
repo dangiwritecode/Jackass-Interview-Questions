@@ -2,6 +2,8 @@
 
 [← back to Paramify](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your view on using compliance-automation SaaS (Vanta/Drata/RegScale) for a FedRAMP program versus building bespoke tooling, given the boundary implications of the tool itself? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Paramify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-view-on-using-compliance-automation-saas-vanta-drata-regsc-56788) |

@@ -2,6 +2,8 @@
 
 [← back to Alibaba](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd architect HA for a hybrid transactional-analytical (HTAP) database. Does adding analytics replicas help or hurt your OLTP failover posture? | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at Alibaba | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-architect-ha-for-a-hybrid-transactional-analytical-h-114718) |

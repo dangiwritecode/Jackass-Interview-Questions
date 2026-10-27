@@ -2,6 +2,8 @@
 
 [← back to BigID](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a data-classification-driven access model where labels attached to data flow into runtime authorization decisions, and what stops label drift from silently downgrading protection over years across dozens of teams? | deep understanding | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at BigID | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-classification-driven-access-model-where-l-53988) |

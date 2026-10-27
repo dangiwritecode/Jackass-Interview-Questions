@@ -2,6 +2,8 @@
 
 [← back to Getir](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a quick-commerce ETA-and-dispatch system that predicts delivery time and assigns riders across dark stores in real time — how do you combine live inventory rider positions and traffic into a decision under a tight latency budget at city scale? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Getir | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-quick-commerce-eta-and-dispatch-system-that-predicts-deliv-39454) |

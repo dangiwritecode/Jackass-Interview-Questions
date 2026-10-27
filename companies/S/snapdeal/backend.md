@@ -2,6 +2,8 @@
 
 [← back to Snapdeal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An attacker discovered they can enumerate valid coupon-linked accounts by timing your 'apply coupon' endpoint's authorization check. How do you find and eliminate authorization-driven timing leaks beyond just login? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Snapdeal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-attacker-discovered-they-can-enumerate-valid-coupon-linked-accounts-26194) |

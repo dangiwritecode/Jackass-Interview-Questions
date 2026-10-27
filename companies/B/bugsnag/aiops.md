@@ -2,6 +2,8 @@
 
 [← back to Bugsnag](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you use clustering to bucket similar exceptions so developers fix classes of bugs instead of individual reports? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Bugsnag | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-use-clustering-to-bucket-similar-exceptions-so-developer-89674) |

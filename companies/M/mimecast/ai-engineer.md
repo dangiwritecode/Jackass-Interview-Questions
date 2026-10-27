@@ -2,6 +2,8 @@
 
 [← back to Mimecast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your spam classifier's recall collapsed after attackers rephrased. How would you make the pipeline robust to adversarial text drift? | deep understanding | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Mimecast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-spam-classifier-s-recall-collapsed-after-attackers-rephrased-how--79475) |

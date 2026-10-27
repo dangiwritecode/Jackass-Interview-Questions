@@ -2,6 +2,8 @@
 
 [← back to CERN](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You have 30 AKS clusters drifting in Kubernetes versions and add-ons across four regions; design a fleet-management strategy (Azure Kubernetes Fleet Manager, GitOps, rings) and its failure modes. | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at CERN | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-have-30-aks-clusters-drifting-in-kubernetes-versions-and-add-ons-a-54526) |

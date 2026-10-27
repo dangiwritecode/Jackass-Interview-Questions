@@ -2,6 +2,8 @@
 
 [← back to Nordstrom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your KPI-anomaly model watches business metrics (checkout rate). During a flash sale it screams anomaly. How do you monitor without alerting on planned events? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Retail companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-kpi-anomaly-model-watches-business-metrics-checkout-rate-during-a-95348) |

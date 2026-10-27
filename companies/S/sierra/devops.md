@@ -2,6 +2,8 @@
 
 [← back to Sierra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern the increasingly common pattern of agentic/AI workflows that autonomously call internal APIs and act on data — how do you attribute lawful basis apply purpose limitation and produce an audit trail for a non-human autonomous actor? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Sierra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-the-increasingly-common-pattern-o-54077) |

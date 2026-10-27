@@ -2,6 +2,8 @@
 
 [← back to HumanLoop](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a prompt-versioning system decoupled from code deploys so a prompt hotfix can be rolled out and rolled back in seconds. What are the risks? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at HumanLoop | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-prompt-versioning-system-decoupled-from-code-deploys-so-a-pro-30863) |

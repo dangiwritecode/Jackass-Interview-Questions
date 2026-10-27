@@ -2,6 +2,8 @@
 
 [← back to Immuta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a data-masking and dynamic-redaction layer so that GDPR/HIPAA fields are masked per-role at query time without duplicating datasets — where does the enforcement live and can it be bypassed? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Immuta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-data-masking-and-dynamic-redaction-layer-so-that-gdpr-hipa-115268) |

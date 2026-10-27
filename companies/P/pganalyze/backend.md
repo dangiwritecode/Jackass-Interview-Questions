@@ -2,6 +2,8 @@
 
 [← back to pganalyze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A hot table's index has grown to 4x the table size. How do you determine which indexes are pulling their weight versus dead weight, and what's your removal safety net? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at pganalyze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-hot-table-s-index-has-grown-to-4x-the-table-size-how-do-you-determin-25763) |

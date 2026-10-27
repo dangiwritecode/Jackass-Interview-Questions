@@ -2,6 +2,8 @@
 
 [← back to Momento](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Argue build-versus-buy for standing up a managed database read-through cache (like DAX for DynamoDB or Momento) versus a self-run Redis fleet across a 200-service org, on TCO, operability, and lock-in. | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Momento | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argue-build-versus-buy-for-standing-up-a-managed-database-read-through-111461) |

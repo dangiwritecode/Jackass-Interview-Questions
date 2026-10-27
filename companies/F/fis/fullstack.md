@@ -2,6 +2,8 @@
 
 [← back to FIS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build the business case and phasing to strangle a mainframe when each MIPS reduction has real dollar savings but cutover risk is catastrophic? | expertise | SDE-2/3, Architect/Principal | Migration Strategy (Strangler Fig) | Onsite, Hiring Manager | Tech | Asked at FIS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-the-business-case-and-phasing-to-strangle-a-mainframe-40954) |

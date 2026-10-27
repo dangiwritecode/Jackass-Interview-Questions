@@ -2,6 +2,8 @@
 
 [← back to Vantage](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build cost anomaly detection specifically for storage — catching a policy misconfig that stopped tiering, or a restore storm — before the monthly bill lands? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Vantage | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-cost-anomaly-detection-specifically-for-storage-catch-126810) |

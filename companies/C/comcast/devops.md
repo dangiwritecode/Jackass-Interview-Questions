@@ -2,6 +2,8 @@
 
 [← back to Comcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain your strategy for Vault version upgrades across a fleet of clusters with different Enterprise features enabled, including how you validate replication compatibility and roll back a bad upgrade. | deep understanding | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Comcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-your-strategy-for-vault-version-upgrades-across-a-fleet-of-clu-54950) |

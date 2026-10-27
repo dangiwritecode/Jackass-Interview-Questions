@@ -2,6 +2,8 @@
 
 [← back to Spot-by-NetApp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A vendor pitches you a fully-automated commitment-purchasing bot that buys and sells savings plans on your behalf. What's your due-diligence framework, and what's the worst-case failure mode you must contractually protect against? | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Spot-by-NetApp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vendor-pitches-you-a-fully-automated-commitment-purchasing-bot-that--41126) |

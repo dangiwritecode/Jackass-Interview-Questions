@@ -2,6 +2,8 @@
 
 [← back to ThoughtSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Largest Axis-Aligned Rectangle Under a Bar Skyline | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Monotonic Stack, Stack | DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at ThoughtSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=largest-axis-aligned-rectangle-under-a-bar-skyline-d84) |

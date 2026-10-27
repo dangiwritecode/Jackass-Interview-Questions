@@ -2,6 +2,8 @@
 
 [← back to Neo4j](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a knowledge graph / service dependency map accurate enough to safely drive topology-aware remediation? | expertise | SDE-2/3, Architect/Principal | Self-Healing Infrastructure Architecture | Onsite, Hiring Manager | Tech | Asked at Neo4j | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-knowledge-graph-service-dependency-map-accurate-103502) |

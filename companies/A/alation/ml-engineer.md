@@ -2,6 +2,8 @@
 
 [← back to Alation](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your governance metadata plane (feature classification tags model lineage consent state) is itself a high-value target and a privacy concern. How do you secure retain and access-control the ML governance metadata without it becoming a new liability? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Alation | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-governance-metadata-plane-feature-classific-70035) |

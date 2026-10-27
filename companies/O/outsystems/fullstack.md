@@ -2,6 +2,8 @@
 
 [← back to OutSystems](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the security architecture for a low-code/no-code platform where citizen developers wire up data bindings and custom HTML/SQL snippets? Where do you place hard sandbox walls so a citizen dev can't create XSS/SQLi affecting other tenants, and what can't you delegate? | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at OutSystems | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-security-architecture-for-a-low-code-no-code--39015) |

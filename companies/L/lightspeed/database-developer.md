@@ -2,6 +2,8 @@
 
 [← back to Lightspeed](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reason about CAP for a database whose replication is over an unreliable satellite/last-mile link (retail POS, remote sites) where partitions are frequent and long, and why does that make an offline-first AP design with reconciliation the pragmatic default? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Lightspeed | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-cap-for-a-database-whose-replication-is-over-a-111604) |

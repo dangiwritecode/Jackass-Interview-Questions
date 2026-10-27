@@ -2,6 +2,8 @@
 
 [← back to Arista Networks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan continuity for the network layer — VPN, transit gateways, service mesh, BGP — so the plumbing that connects services survives and reroutes correctly? | deep understanding | SDE-2/3, Architect/Principal | Business Continuity Planning | Onsite, Hiring Manager | Tech | Asked at Arista Networks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-continuity-for-the-network-layer-vpn-transit-gateways--56984) |

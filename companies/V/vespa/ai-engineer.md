@@ -2,6 +2,8 @@
 
 [← back to Vespa](README.md)
 
+Questions 1–103 of 103.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cross-team dispute: the search org wants dense-first ranking, the relevance org insists learned-sparse-first, both with data, for the agent's retrieval. As principal arbiter, design the experiment and decision criteria that settle it and produce a durable, defensible standard. | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Vespa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cross-team-dispute-the-search-org-wants-dense-first-ranking-the-rele-82501) |

@@ -2,6 +2,8 @@
 
 [← back to Canonical](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org wants reproducible post-training across a fast-moving open-source ecosystem — how do you manage dependency, framework, and recipe drift over years? | deep understanding | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Canonical | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-wants-reproducible-post-training-across-a-fast-moving-open-so-71292) |

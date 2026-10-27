@@ -2,6 +2,8 @@
 
 [← back to slice](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a 'trusted device + PIN' scheme for a payments app where the PIN never leaves the device but a signed proof does. How does the server verify the PIN attempt without knowing the PIN, and how do you rate-limit it? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at slice | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-trusted-device-pin-scheme-for-a-payments-app-where-the-pin-ne-26212) |

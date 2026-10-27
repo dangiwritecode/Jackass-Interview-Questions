@@ -2,6 +2,8 @@
 
 [← back to HSBC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal proposes replacing your bespoke consent screens with a standards-based FAPI 2.0 profile for open-banking-grade security. What does FAPI actually buy you over plain auth-code+PKCE, and what operational and client-compatibility costs does mandating it impose? | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at HSBC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-proposes-replacing-your-bespoke-consent-screens-with-a-sta-38824) |

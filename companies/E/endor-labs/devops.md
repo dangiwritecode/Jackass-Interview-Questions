@@ -2,6 +2,8 @@
 
 [← back to Endor Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a strategy for handling the 'noisy CVE gate' problem at org scale: how do you combine reachability analysis, VEX and risk-based prioritization so teams aren't drowned in unactionable findings? | expertise | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at Endor Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-strategy-for-handling-the-noisy-cve-gate-problem-at-org-scale-55494) |

@@ -2,6 +2,8 @@
 
 [← back to ImmuDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design tamper-evident audit logging for all data access such that even a platform admin with root cannot silently delete evidence of their own queries? | expertise | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at ImmuDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-tamper-evident-audit-logging-for-all-data-access--126644) |

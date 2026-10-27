@@ -2,6 +2,8 @@
 
 [← back to Elementl](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you decided between Prefect and Dagster for a new pipeline platform and what actually drove the choice. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Orchestration (Prefect/Dagster) | Phone Screen, Onsite | Tech | Asked at Elementl | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-decided-between-prefect-and-dagster-for-a-new--124367) |

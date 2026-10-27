@@ -2,6 +2,8 @@
 
 [← back to Archer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd integrate model risk signals with enterprise operational-risk and GRC systems so ML risk isn't a siloed concern. | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Archer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-integrate-model-risk-signals-with-enterprise-operati-71863) |

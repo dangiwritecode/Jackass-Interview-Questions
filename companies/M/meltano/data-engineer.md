@@ -2,6 +2,8 @@
 
 [← back to Meltano](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You championed a shared ingestion framework three teams now depend on, and it's become a maintenance burden your team resents as connectors and source APIs evolve. How do you renegotiate ownership and funding across the teams that benefit? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Meltano | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-championed-a-shared-ingestion-framework-three-teams-now-depend-on--126160) |

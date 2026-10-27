@@ -2,6 +2,8 @@
 
 [← back to Druva](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You inherited a database platform where each shard runs an independent Raft group but backups are taken per-node. Explain why that produces an inconsistent restore across shards and design a consensus-aware, transactionally-consistent distributed backup. | expertise | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Druva | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-inherited-a-database-platform-where-each-shard-runs-an-independent-112155) |

@@ -2,6 +2,8 @@
 
 [← back to Dropbox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | AWS changes Glacier pricing or introduces a new tier. How is your tiering architecture designed so you can re-optimize without a massive re-engineering effort? | expertise | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Dropbox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=aws-changes-glacier-pricing-or-introduces-a-new-tier-how-is-your-tieri-126794) |

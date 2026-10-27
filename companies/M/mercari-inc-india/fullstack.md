@@ -2,6 +2,8 @@
 
 [← back to Mercari, Inc. (India)](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide the org's stance on virtual clusters (vCluster) for tenant isolation versus namespaces versus real clusters. How would you map tenant classes to isolation models, what does vCluster genuinely buy for control-plane isolation, and where does its shared-node reality leak? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Mercari, Inc. (India) | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-the-org-s-stance-on-virtual-clusters-vcluster-for-tena-39029) |

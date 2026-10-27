@@ -2,6 +2,8 @@
 
 [← back to Riot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a global traffic-steering strategy layering AWS Global Accelerator anycast over Route 53 latency routing and CloudFront — how do you decide which layer owns steering, and what's your story for a partial regional brownout that health checks don't catch? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Riot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-global-traffic-steering-strategy-layering-aws-g-52345) |

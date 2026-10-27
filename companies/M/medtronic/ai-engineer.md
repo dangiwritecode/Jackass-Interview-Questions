@@ -2,6 +2,8 @@
 
 [← back to Medtronic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you govern a clinical or diagnostic model so that model-lifecycle controls, SaMD validation, and post-market surveillance are a single coherent pipeline? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Medtronic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-a-clinical-or-diagnostic-model-so-that-model-life-86076) |

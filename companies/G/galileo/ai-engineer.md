@@ -2,6 +2,8 @@
 
 [← back to Galileo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | As principal you must set the org standard for evaluating retrieval quality that correlates with downstream LLM answer faithfulness, not just recall@k. Design the metric, the labeled harness, and how you stop 40 teams from each defining 'good retrieval' differently. | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Galileo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=as-principal-you-must-set-the-org-standard-for-evaluating-retrieval-qu-82446) |

@@ -2,6 +2,8 @@
 
 [← back to Cleartrip](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd measure statistical significance for a ratio metric like conversion rate versus a mean metric like session length. | intermediate experience | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at Cleartrip | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-measure-statistical-significance-for-a-ratio-metric-67708) |

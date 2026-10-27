@@ -2,6 +2,8 @@
 
 [← back to Rollbar](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do error messages and stack traces help you locate the origin of a failure? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Root Cause Analysis (RCA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Rollbar | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-error-messages-and-stack-traces-help-you-locate-the-origin-of-a-90156) |

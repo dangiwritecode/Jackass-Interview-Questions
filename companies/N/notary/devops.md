@@ -2,6 +2,8 @@
 
 [← back to Notary](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you handle the org-scale problem of thousands of long-lived legacy artifacts that can never be rebuilt but must carry some trust signal — what compensating controls do you architect? | deep understanding | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at Notary | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-the-org-scale-problem-of-thousands-of-long-lived--55441) |

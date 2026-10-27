@@ -2,6 +2,8 @@
 
 [← back to Abnormal](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a safety-gating architecture where retrieved chunks must pass a policy/PII/toxicity filter before ever entering an LLM prompt, at 5000 QPS. How do you keep that filter off the critical latency path while guaranteeing no unfiltered chunk is ever seen by the model? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Abnormal | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-safety-gating-architecture-where-retrieved-chunks-must-pass-a-82445) |

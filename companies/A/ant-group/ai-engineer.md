@@ -2,6 +2,8 @@
 
 [← back to Ant Group](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd use Ray in Python to serve a heterogeneous mix of model sizes with autoscaling and request batching, and what failure modes (actor death, head-node loss, stragglers) you must design around at org scale. | expertise | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Ant Group | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-use-ray-in-python-to-serve-a-heterogeneous-mix-of-mo-82362) |

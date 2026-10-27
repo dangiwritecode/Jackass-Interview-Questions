@@ -2,6 +2,8 @@
 
 [← back to Remitly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the write path for a system where 90% of a user's writes stay in their home region but 10% are cross-region (e.g. sending money to another region's user). How do you keep the common case fast? | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Remitly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-write-path-for-a-system-where-90-of-a-user-s-writes-stay-in-36671) |

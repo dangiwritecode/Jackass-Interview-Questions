@@ -2,6 +2,8 @@
 
 [← back to Reliance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the grain and dimensions for an inventory snapshot when stock is tracked per store, per SKU, per bin location, per day? What do you drop to control size? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Modeling (Star/Snowflake Schema) | Phone Screen, Onsite | Tech | Asked at Reliance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-grain-and-dimensions-for-an-inventory-snapshot-w-121446) |

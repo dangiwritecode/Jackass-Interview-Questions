@@ -2,6 +2,8 @@
 
 [← back to Rappi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do processing-time and event-time windows differ when computing daily revenue totals across timezones, and which do you pick? | intermediate experience | SDE-1/2, SDE-2/3 | Stream Processing (Apache Flink) | Phone Screen, Onsite | Tech | Asked at Rappi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-processing-time-and-event-time-windows-differ-when-computing-da-121270) |

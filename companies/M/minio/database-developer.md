@@ -2,6 +2,8 @@
 
 [← back to MinIO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle DR for petabyte-scale object storage backing a data lake where a full cross-region copy takes days — replication versus versioning versus re-derivation, tiered by retention class. Bound the RTO. | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at MinIO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-dr-for-petabyte-scale-object-storage-backing-a-data--112916) |

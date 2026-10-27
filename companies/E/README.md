@@ -23,7 +23,7 @@
 | [EdTech-Byjus](edtech-byjus/README.md) | Tier 3 | 540 | 3 |
 | [Egnyte](egnyte/README.md) | Tier 3 | 540 | 3 |
 | [Ekart](ekart/README.md) | Tier 3 | 540 | 3 |
-| [Elastic](elastic/README.md) | Tier 2 | 1,170 | 5,903 |
+| [Elastic](elastic/README.md) | Tier 2 | 6,164 | 5,903 |
 | [ElectricSQL](electricsql/README.md) | Tier 3 | 540 | 2 |
 | [Electronic Arts](electronic-arts/README.md) | Tier 2 | 540 | 1 |
 | [Elementary](elementary/README.md) | Tier 3 | 540 | 4 |
@@ -37,11 +37,11 @@
 | [Encord](encord/README.md) | Tier 4 | 540 | 2 |
 | [Endor Labs](endor-labs/README.md) | Tier 3 | 540 | 7 |
 | [Enphase](enphase/README.md) | Tier 3 | 540 | 1 |
-| [EnterpriseDB](enterprisedb/README.md) | Tier 2 | 630 | 211 |
+| [EnterpriseDB](enterprisedb/README.md) | Tier 2 | 671 | 211 |
 | [Entrust](entrust/README.md) | Tier 3 | 540 | 11 |
 | [env0](env0/README.md) | Tier 3 | 540 | 69 |
 | [Enveil](enveil/README.md) | Tier 3 | 540 | 1 |
-| [Epam](epam/README.md) | Tier 3 | 630 | 244 |
+| [Epam](epam/README.md) | Tier 3 | 694 | 244 |
 | [Epic](epic/README.md) | Tier 1 | 540 | 86 |
 | [Epic Games](epic-games/README.md) | Tier 2 | 540 | 12 |
 | [Epicor](epicor/README.md) | Tier 3 | 540 | 42 |

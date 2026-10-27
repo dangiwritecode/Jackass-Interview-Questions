@@ -2,6 +2,8 @@
 
 [← back to Rubrik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator asks you to prove your LLM agent never exfiltrated internal data to an external endpoint — how do you architect network egress control prompt/response logging and tool-call audit on AWS so this is provable rather than merely intended? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Rubrik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-asks-you-to-prove-your-llm-agent-never-exfiltrated-interna-82641) |

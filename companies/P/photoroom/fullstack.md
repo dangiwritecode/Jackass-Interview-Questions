@@ -2,6 +2,8 @@
 
 [← back to Photoroom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You maintain a WebAssembly module compiled from C++ that backs a browser feature. How do you keep binary size small, manage the linear-memory heap, and expose a clean JS-facing API without leaking C++ ownership semantics? | deep understanding | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Photoroom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-maintain-a-webassembly-module-compiled-from-c-that-backs-a-browser-16817) |

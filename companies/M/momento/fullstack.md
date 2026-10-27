@@ -2,6 +2,8 @@
 
 [← back to Momento](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks you to justify the memory-versus-latency curve for your cache: at what point does adding memory stop improving hit ratio, and how would you find that knee empirically across the fleet? | deep understanding | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Momento | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-you-to-justify-the-memory-versus-latency-curve-for-38533) |

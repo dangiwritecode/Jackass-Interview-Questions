@@ -2,6 +2,8 @@
 
 [← back to Chroma](README.md)
 
+Questions 1–120 of 120.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Copilot suggests storing the full document text inside each vector's metadata. What size and cost concern would you raise before accepting that? | deep understanding | Fresher | AI-Assisted Coding (Copilot/Cursor) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Chroma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=copilot-suggests-storing-the-full-document-text-inside-each-vector-s-m-73922) |

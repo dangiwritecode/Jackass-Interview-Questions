@@ -2,6 +2,8 @@
 
 [← back to Featureform](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to governing a shared AIOps feature store so that a poisoned or mislabeled telemetry feature can't silently corrupt every model that consumes it? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Featureform | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-a-shared-aiops-feature-store-so-that-101276) |

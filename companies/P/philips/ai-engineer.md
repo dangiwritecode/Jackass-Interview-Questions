@@ -2,6 +2,8 @@
 
 [← back to Philips](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the org's stance on human-in-the-loop for high-stakes domains — which query classes must route to a human, and how do you evaluate that the routing guardrail itself is calibrated? | expertise | SDE-2/3, Architect/Principal | LLM Evaluation & Guardrails | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Philips | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-org-s-stance-on-human-in-the-loop-for-high-stake-84780) |

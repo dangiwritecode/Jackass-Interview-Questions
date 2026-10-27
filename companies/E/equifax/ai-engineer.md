@@ -2,6 +2,8 @@
 
 [← back to Equifax](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to governing adverse-action and reason-code generation for a credit model so the explanation given to the applicant is both legally sufficient and faithful to the model? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Equifax | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-adverse-action-and-reason-code-gener-86077) |

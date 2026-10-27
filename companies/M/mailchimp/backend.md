@@ -2,6 +2,8 @@
 
 [← back to Mailchimp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A marketing team wants to inject a user's first name into a transactional email's subject and body via server-side templates; explain the injection risks specific to the email/HTML-email context and your encoding strategy per part. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Mailchimp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-marketing-team-wants-to-inject-a-user-s-first-name-into-a-transactio-26421) |

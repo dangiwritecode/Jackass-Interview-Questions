@@ -2,6 +2,8 @@
 
 [← back to Cycode](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're evaluating whether to build an internal ASPM correlation layer or buy one — what capabilities justify building, and what's your fallback if the vendor is acquired? | expertise | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cycode | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-whether-to-build-an-internal-aspm-correlation-layer--55054) |

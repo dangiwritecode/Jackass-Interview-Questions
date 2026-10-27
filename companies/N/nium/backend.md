@@ -2,6 +2,8 @@
 
 [← back to Nium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a strategy for when a saga must coordinate with an external partner's system you don't control and that has no compensation API (e.g. a bank rail). How do you get the strongest guarantee possible and design the org's stance on partners without idempotency? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | Asked at Nium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-strategy-for-when-a-saga-must-coordinate-with-an-external--34168) |

@@ -2,6 +2,8 @@
 
 [← back to BMW](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a data-mesh where each domain owns its store and CAP choice, yet a downstream 'data product' consuming across domains must still publish a single coherent freshness/consistency SLA? Where does the weakest-link problem force governance? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at BMW | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-mesh-where-each-domain-owns-its-store-and--111571) |

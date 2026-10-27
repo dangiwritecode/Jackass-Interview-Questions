@@ -2,6 +2,8 @@
 
 [← back to Jupiter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A GraphQL mutation must be exactly-once from the client's perspective across an unreliable mobile network. Compare idempotency keys, dedup windows, and client-generated request ids, and pick a design for a fintech transfer. | expertise | SDE-1/2, SDE-2/3 | GraphQL | Phone Screen, Onsite | Tech | Asked at Jupiter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-graphql-mutation-must-be-exactly-once-from-the-client-s-perspective--24125) |

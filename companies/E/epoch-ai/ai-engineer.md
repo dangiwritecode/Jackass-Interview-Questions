@@ -2,6 +2,8 @@
 
 [← back to Epoch AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to governing benchmark contamination so teams can't inflate their responsible-AI scores by training on the eval set, whether deliberately or through data leakage? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Epoch AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-governing-benchmark-contamination-so-teams-can-86086) |

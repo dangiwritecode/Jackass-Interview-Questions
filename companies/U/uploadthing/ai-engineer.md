@@ -2,6 +2,8 @@
 
 [← back to Uploadthing](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a presigned URL and how could it let a user upload a document straight to object storage for your RAG app? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Uploadthing | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-presigned-url-and-how-could-it-let-a-user-upload-a-document--76517) |

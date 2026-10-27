@@ -2,6 +2,8 @@
 
 [← back to Brex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you measure the true blended cost per request with caching, accounting for write premiums, read discounts, and miss penalties? | deep understanding | SDE-2/3, Architect/Principal | Prompt Caching Strategy | Phone Screen, Onsite | Tech | Asked at Brex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-measure-the-true-blended-cost-per-request-with-caching-acco-86544) |

@@ -2,6 +2,8 @@
 
 [← back to Unify](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the cost/latency trade-off when a FastAPI endpoint can call either a small fast model or a large accurate one, and you want to route based on input difficulty? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Unify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-cost-latency-trade-off-when-a-fastapi-endpoint-c-62951) |

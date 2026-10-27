@@ -2,6 +2,8 @@
 
 [← back to InfoSum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a privacy-preserving analytics environment using confidential computing or clean rooms so partners can join data without either side seeing raw PII? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at InfoSum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-privacy-preserving-analytics-environment-using--127372) |

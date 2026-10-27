@@ -2,6 +2,8 @@
 
 [← back to External Secrets](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your Helm charts bake secrets into ConfigMaps as base64. Explain why base64 is not encryption, what an attacker with cluster read access gets, and how you'd move to an external secrets operator or sealed secrets instead. | basic concept | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at External Secrets | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-helm-charts-bake-secrets-into-configmaps-as-base64-explain-why-ba-47846) |

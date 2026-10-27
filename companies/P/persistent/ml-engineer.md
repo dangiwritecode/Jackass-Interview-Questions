@@ -2,6 +2,8 @@
 
 [← back to Persistent](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you create a NumPy array from a Python list and check its data type? | basic concept | Fresher | NumPy | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Persistent | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-create-a-numpy-array-from-a-python-list-and-check-its-data--59454) |

@@ -2,6 +2,8 @@
 
 [← back to Nagarro](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you export the exact set of installed Python packages to a requirements.txt file on Linux? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Nagarro | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-export-the-exact-set-of-installed-python-packages-to-a-requ-57834) |

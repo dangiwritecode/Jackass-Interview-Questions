@@ -2,6 +2,8 @@
 
 [← back to lakeFS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect for reproducibility — 'give me exactly the dataset as it was on 2024-11-01 for this ML model'? What does time-travel/snapshotting cost you in storage and metadata, and where do you cap retention? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at lakeFS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-for-reproducibility-give-me-exactly-the-dataset-a-36584) |

@@ -2,6 +2,8 @@
 
 [← back to Hazelcast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide whether repeated model-inference results in a FastAPI service can be memoized safely, given that model outputs are deterministic but the model version can change under you? | intermediate experience | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Hazelcast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-repeated-model-inference-results-in-a-fastap-62978) |

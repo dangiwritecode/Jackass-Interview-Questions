@@ -2,6 +2,8 @@
 
 [← back to Shopify](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | In-Memory Hierarchical File System | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Design, Hash Table, Sorting, String, Tree, Trie | DSA/Coding Round, Onsite | DSA | Asked at Shopify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-memory-hierarchical-file-system-d580) |

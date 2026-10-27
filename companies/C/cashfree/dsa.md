@@ -2,6 +2,8 @@
 
 [← back to Cashfree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Peak Load When Servicing Non-Adjacent Stations | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Greedy | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Cashfree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-peak-load-when-servicing-non-adjacent-stations-d2411) |

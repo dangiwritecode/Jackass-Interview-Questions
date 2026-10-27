@@ -2,6 +2,8 @@
 
 [← back to Temporal Technologies](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal challenges: 'ATAM assumes you can enumerate quality attributes up front, but emergent behavior in distributed systems can't be enumerated.' How do you respond and where do you concede the method has real limits? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Temporal Technologies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-challenges-atam-assumes-you-can-enumerate-quality-attribut-40537) |

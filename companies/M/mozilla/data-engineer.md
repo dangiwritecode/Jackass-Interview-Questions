@@ -2,6 +2,8 @@
 
 [← back to Mozilla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you handle Global Privacy Control and browser-signal opt-outs so they flow from the edge all the way into your analytics and adtech data flows automatically? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Mozilla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-global-privacy-control-and-browser-signal-opt-out-127374) |

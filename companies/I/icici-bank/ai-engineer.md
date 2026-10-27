@@ -2,6 +2,8 @@
 
 [← back to ICICI-Bank](README.md)
 
+Questions 1–88 of 88.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set an organization-wide policy for where LLM prompt and completion logs live, how long they persist, and who can read them, given they may contain both PII and trade secrets and are needed for eval? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at ICICI-Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-an-organization-wide-policy-for-where-llm-prompt-and-82747) |

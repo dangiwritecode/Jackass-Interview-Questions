@@ -2,6 +2,8 @@
 
 [← back to Basecamp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A probe: why not just use a single very large, very reliable database instance and skip HA complexity entirely? Argue both sides for a mid-size company. | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at Basecamp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-probe-why-not-just-use-a-single-very-large-very-reliable-database-in-114699) |

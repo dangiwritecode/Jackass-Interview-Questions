@@ -2,6 +2,8 @@
 
 [← back to Braze](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Stabilize a Collapsing Token Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, In-place Modification, Matrix, Simulation, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Braze | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=stabilize-a-collapsing-token-grid-d708) |

@@ -2,6 +2,8 @@
 
 [← back to Sama](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you build a chain-of-custody for the human-labeled data behind RLHF/preference tuning so labeling bias and worker welfare are governed? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Sama | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-build-a-chain-of-custody-for-the-human-labeled-data-behi-71761) |

@@ -2,6 +2,8 @@
 
 [← back to Chakra-UI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build a compound component API (like <Accordion><Accordion.Item/></Accordion>) and share state between the pieces? | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3 | React | Phone Screen, Onsite | Tech | Asked at Chakra-UI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-a-compound-component-api-like-accordion-accordion-ite-10253) |

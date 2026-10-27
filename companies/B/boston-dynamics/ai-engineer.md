@@ -2,6 +2,8 @@
 
 [← back to Boston Dynamics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is your strategy for validating and monitoring models embedded in physical or robotic systems where a wrong output causes real-world harm? | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Boston Dynamics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-strategy-for-validating-and-monitoring-models-embedded-in-86172) |

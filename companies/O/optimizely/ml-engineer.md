@@ -2,6 +2,8 @@
 
 [← back to Optimizely](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set up governance for A/B experiments involving ML so that experiments themselves can't cause disparate harm to a user segment? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Optimizely | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-up-governance-for-a-b-experiments-involving-ml-so-th-71728) |

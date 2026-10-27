@@ -2,6 +2,8 @@
 
 [← back to Sarvam AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A resolver calls an LLM API that is slow and rate-limited. How would you add batching, timeouts, caching by prompt hash, and a fallback so a spike of GraphQL queries doesn't blow your provider quota or block the event loop? | deep understanding | SDE-1/2, SDE-2/3 | GraphQL | Phone Screen, Onsite | Tech | Asked at Sarvam AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-resolver-calls-an-llm-api-that-is-slow-and-rate-limited-how-would-yo-24063) |

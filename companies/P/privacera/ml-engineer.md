@@ -2,6 +2,8 @@
 
 [← back to Privacera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd implement column-level and row-level access policies as code so they're enforced identically in batch training and online serving paths. | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Privacera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-implement-column-level-and-row-level-access-policie-72082) |

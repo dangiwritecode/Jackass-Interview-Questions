@@ -2,6 +2,8 @@
 
 [← back to Goldman Sachs](README.md)
 
+Questions 1–99 of 99.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a cloud disaster-recovery posture for a business-critical AI assistant so that losing an entire cloud provider — not just a region — is survivable, and what parts of that you would deliberately not protect? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Goldman Sachs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-cloud-disaster-recovery-posture-for-a-business--82749) |

@@ -2,6 +2,8 @@
 
 [← back to District](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a ticket-booking system for a mega-event (concert/IPL/exam-result) where 10M users hit at the exact drop time — how do you design a virtual waiting room seat-hold inventory and payment window so you neither oversell nor melt the DB? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at District | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-ticket-booking-system-for-a-mega-event-concert-ipl-exam-re-39516) |

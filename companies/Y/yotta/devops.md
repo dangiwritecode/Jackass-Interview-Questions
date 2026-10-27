@@ -2,6 +2,8 @@
 
 [← back to Yotta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach a negotiation where regulatory data-residency requirements limit which regions/vendors you can use — shrinking your leverage? | deep understanding | SDE-2/3, Architect/Principal | Vendor & Cloud Cost Negotiation | Hiring Manager | Tech | Asked at Yotta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-a-negotiation-where-regulatory-data-residency-requ-56689) |

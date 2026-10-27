@@ -2,6 +2,8 @@
 
 [← back to SpiceDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a globally distributed authorization/entitlements service such that a partition can never grant an entitlement that was just revoked, while still staying available for the far more common allow-decisions? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at SpiceDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-globally-distributed-authorization-entitlements-32260) |

@@ -2,6 +2,8 @@
 
 [← back to Styra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would implement guardrails and policy enforcement (OPA-style) that constrain what an autonomous agent can do per environment, per team, and per severity tier. | expertise | SDE-2/3, Architect/Principal | Agentic Orchestration Platform | Onsite, Hiring Manager | Tech | Asked at Styra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-implement-guardrails-and-policy-enforcement-opa--102862) |

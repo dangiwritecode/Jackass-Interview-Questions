@@ -2,6 +2,8 @@
 
 [← back to Flagsmith](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd govern feature-flag and progressive-delivery telemetry across clouds so your AIOps can auto-halt a bad rollout before it becomes a full incident. Who authorizes the auto-halt? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at Flagsmith | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-govern-feature-flag-and-progressive-delivery-telemet-100852) |

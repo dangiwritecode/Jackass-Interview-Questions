@@ -2,6 +2,8 @@
 
 [← back to Ambassador Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how you'd verify a caller's identity at an API gateway once and forward a signed 'identity assertion' downstream, so backend services never re-run the full auth but still can't be spoofed. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Ambassador Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-you-d-verify-a-caller-s-identity-at-an-api-gateway-once-and-26159) |

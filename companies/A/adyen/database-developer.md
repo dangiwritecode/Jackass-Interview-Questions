@@ -2,6 +2,8 @@
 
 [← back to Adyen](README.md)
 
+Questions 1–103 of 103.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A director asks why your fintech ledger can't just use eventually-consistent multi-master replication for lower latency. Walk through the specific double-spend / negative-balance anomalies that forces you to a consensus-serialized write path, and where you can still relax reads. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Adyen | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-director-asks-why-your-fintech-ledger-can-t-just-use-eventually-cons-112171) |

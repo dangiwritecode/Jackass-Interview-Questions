@@ -2,6 +2,8 @@
 
 [← back to Scylla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd measure whether your service is I/O-bound at the block layer, distinguishing high iowait, deep queue depth (avgqu-sz), and high await from a saturated disk vs a slow-but-idle disk. | expertise | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Scylla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-measure-whether-your-service-is-i-o-bound-at-the-blo-19385) |

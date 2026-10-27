@@ -2,6 +2,8 @@
 
 [← back to Mayo Clinic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe the architecture and governance for training on sensitive/PII data in PyTorch with differential privacy or federated learning across an org. | expertise | SDE-2/3, Architect/Principal | PyTorch | Phone Screen, Onsite | Tech | Asked at Mayo Clinic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-the-architecture-and-governance-for-training-on-sensitive-pii-70334) |

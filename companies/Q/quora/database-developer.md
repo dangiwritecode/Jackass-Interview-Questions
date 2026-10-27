@@ -2,6 +2,8 @@
 
 [← back to Quora](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design the migration off a legacy AP eventually-consistent NoSQL store to a distributed SQL CP store for a subset of tables that turned out to need invariants, while the rest stays AP — and how do you keep the two consistency worlds from corrupting each other at the seam? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Quora | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-the-migration-off-a-legacy-ap-eventually-consiste-111580) |

@@ -2,6 +2,8 @@
 
 [← back to Modern Treasury](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a payments reconciliation and ledger system where correctness is existential — do you trust a double-entry ledger SaaS or build one you can formally reason about? | expertise | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Modern Treasury | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-payments-reconciliation-and-ledge-41047) |

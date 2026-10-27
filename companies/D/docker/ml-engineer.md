@@ -2,6 +2,8 @@
 
 [← back to Docker](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle Python dependency and environment management at platform scale so that thousands of jobs are reproducible and you're not stuck in perpetual CUDA/driver/framework version wars? | deep understanding | SDE-2/3, Architect/Principal | ML Platform Architecture | Onsite, Hiring Manager | Tech | Asked at Docker | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-python-dependency-and-environment-management-at-plat-72028) |

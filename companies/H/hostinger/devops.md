@@ -2,6 +2,8 @@
 
 [← back to Hostinger](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you host multiple websites on a single server using Nginx? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Nginx & Web Servers | Phone Screen, Onsite | Tech | Asked at Hostinger | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-host-multiple-websites-on-a-single-server-using-nginx-43833) |

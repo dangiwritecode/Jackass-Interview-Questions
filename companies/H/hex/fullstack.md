@@ -2,6 +2,8 @@
 
 [← back to Hex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you connect an LLM agent to Postgres safely so it can answer analytics questions without letting it run destructive or expensive queries? | deep understanding | SDE-1/2, SDE-2/3 | PostgreSQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Hex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-connect-an-llm-agent-to-postgres-safely-so-it-can-answer-18193) |

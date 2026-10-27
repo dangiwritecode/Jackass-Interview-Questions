@@ -2,6 +2,8 @@
 
 [← back to Fairlearn](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect model explainability and fairness as platform-level capabilities for regulated use cases, so teams don't each hand-roll SHAP scripts of varying quality? | expertise | SDE-2/3, Architect/Principal | ML Platform Architecture | Onsite, Hiring Manager | Tech | Asked at Fairlearn | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-model-explainability-and-fairness-as-platform-lev-72031) |

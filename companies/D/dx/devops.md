@@ -2,6 +2,8 @@
 
 [← back to DX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An exec asks for a single number to track platform debt over time on a KPI dashboard. Why is a single scalar dangerous for infra debt, what would you actually put up, and how do you educate leadership away from the one-number instinct? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at DX | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-exec-asks-for-a-single-number-to-track-platform-debt-over-time-on-a-54418) |

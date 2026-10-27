@@ -2,6 +2,8 @@
 
 [← back to Coda](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you cache embeddings computed by a FastAPI endpoint so repeated identical texts skip re-encoding, and when does that cache become unsafe after a model update? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Coda | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-cache-embeddings-computed-by-a-fastapi-endpoint-so-repeated-62902) |

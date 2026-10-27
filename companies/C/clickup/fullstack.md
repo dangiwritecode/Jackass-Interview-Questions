@@ -2,6 +2,8 @@
 
 [← back to ClickUp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A dashboard calls one endpoint that must return today's, this-week's, and this-month's totals. Would you issue three queries, one query with conditional aggregation, or a rollup? Justify the round-trip and readability trade-off. | intermediate experience | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at ClickUp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dashboard-calls-one-endpoint-that-must-return-today-s-this-week-s-an-22151) |

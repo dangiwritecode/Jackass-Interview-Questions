@@ -2,6 +2,8 @@
 
 [← back to Mphasis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you check whether two arrays are equal, and why use np.array_equal or np.allclose? | intermediate experience | Fresher | NumPy | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Mphasis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-check-whether-two-arrays-are-equal-and-why-use-np-array-equ-59537) |

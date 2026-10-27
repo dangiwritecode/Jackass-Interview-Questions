@@ -2,6 +2,8 @@
 
 [← back to LINE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your alert-triage LLM works for English logs but a customer's logs are in mixed English/Japanese. Triage quality drops on Japanese-heavy incidents. How do you build a slice-based eval to catch this and decide whether to route those to a different model? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at LINE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-alert-triage-llm-works-for-english-logs-but-a-customer-s-logs-are-93293) |

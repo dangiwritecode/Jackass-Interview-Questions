@@ -2,6 +2,8 @@
 
 [← back to Delivery Hero](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a platform-level guarantee that a fine-tune trained on EU-resident data can never be served from a non-EU adapter replica, enforced at load time rather than by process? | expertise | SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | Asked at Delivery Hero | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-platform-level-guarantee-that-a-fine-tune-train-84438) |

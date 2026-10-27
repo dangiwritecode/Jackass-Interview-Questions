@@ -2,6 +2,8 @@
 
 [← back to Pulumi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide whether the org keeps its infrastructure source of truth in provider-native state, Terraform state, or a control-plane approach, given the AIOps platform provisions and reclaims a lot of ephemeral compute? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Pulumi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-the-org-keeps-its-infrastructure-source-o-98841) |

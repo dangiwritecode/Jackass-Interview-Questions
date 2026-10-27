@@ -2,6 +2,8 @@
 
 [← back to Sysdig](README.md)
 
+Questions 1–116 of 116.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A GitOps drift-detection alert fires constantly because a mutating webhook injects sidecar annotations the controller sees as drift. Walk through diagnosing false-positive drift and configuring ignoreDifferences without masking real config changes. | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Sysdig | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-gitops-drift-detection-alert-fires-constantly-because-a-mutating-web-45656) |

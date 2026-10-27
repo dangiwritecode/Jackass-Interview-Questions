@@ -2,6 +2,8 @@
 
 [← back to StarTree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the boundary between the feature store's online serving layer and a purpose-built OLAP store (Pinot/Druid) when some ML features are also real-time analytics aggregates? When do you refuse to run both? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at StarTree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-boundary-between-the-feature-store-s-online-s-69678) |

@@ -2,6 +2,8 @@
 
 [← back to Instamojo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you rewrite a query that uses OR across two different indexed columns so MySQL can use an index-merge or two separate indexes efficiently? | intermediate experience | SDE-1, SDE-1/2 | MySQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Instamojo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-rewrite-a-query-that-uses-or-across-two-different-indexe-107036) |

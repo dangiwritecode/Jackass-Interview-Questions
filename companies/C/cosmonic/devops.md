@@ -2,6 +2,8 @@
 
 [← back to Cosmonic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the trust boundary and threat model for a WebAssembly plugin runtime executing partner code inside your service process? Be precise about what Wasm isolation guarantees and what still leaks (timing, resource exhaustion, capability confusion). | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Cosmonic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-trust-boundary-and-threat-model-for-a-webasse-54008) |

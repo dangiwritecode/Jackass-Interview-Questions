@@ -2,6 +2,8 @@
 
 [← back to Jepsen](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd verify, as a continuous property test, that your geo-replicated database never violates a business invariant (e.g. account balance never negative) under injected partitions and reordered replication. What role do TLA+, Jepsen-style tests, or deterministic sim play? | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Jepsen | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-verify-as-a-continuous-property-test-that-your-geo-r-112823) |

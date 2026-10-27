@@ -2,6 +2,8 @@
 
 [← back to DigiCert](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a multi-region disaster-recovery plan for your Rekor transparency log and Fulcio CA — how do you guarantee no signing downtime and no loss of inclusion proofs during a region loss? | expertise | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at DigiCert | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-multi-region-disaster-recovery-plan-for-your-rekor-transparen-55435) |

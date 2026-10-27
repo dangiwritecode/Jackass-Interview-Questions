@@ -2,6 +2,8 @@
 
 [← back to Dremio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance for the tension between a data-mesh's decentralized domain ownership and the centralized accountability a regulator holds the legal entity to — who is the single throat to choke for a violation and how does the platform enforce it without recentralizing everything? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Dremio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-for-the-tension-between-a-data-mesh-s--54098) |

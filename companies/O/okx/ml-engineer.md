@@ -2,6 +2,8 @@
 
 [← back to OKX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cross-team model-launch decision meeting is going in circles with eight strong opinions on eval methodology and no convergence. As the person expected to land it, what do you do in the room, in real time, to force a decision without steamrolling? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Crypto companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cross-team-model-launch-decision-meeting-is-going-in-circles-with-ei-70213) |

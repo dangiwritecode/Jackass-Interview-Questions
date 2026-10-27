@@ -2,6 +2,8 @@
 
 [← back to TripAdvisor](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a shadow-replay evaluation platform that reruns a week of real production agent traffic against a candidate model or prompt, without executing side-effecting tools, and returns a statistically sound quality delta before rollout. What's the hardest correctness trap? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at TripAdvisor | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-shadow-replay-evaluation-platform-that-reruns-a-week-of-real--83049) |

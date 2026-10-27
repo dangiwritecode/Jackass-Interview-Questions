@@ -2,6 +2,8 @@
 
 [← back to Dynatrace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Build the business case to a skeptical VP for investing in agent observability infrastructure before shipping more features. What does poor observability cost at scale, and how do you quantify the ROI in terms a finance-minded VP accepts? | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Dynatrace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=build-the-business-case-to-a-skeptical-vp-for-investing-in-agent-obser-83102) |

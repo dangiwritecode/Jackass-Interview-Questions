@@ -2,6 +2,8 @@
 
 [← back to Carahsoft](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design your FedRAMP authorization boundary so that developer laptops and CI runners don't inadvertently pull external services into scope? | expertise | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Carahsoft | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-your-fedramp-authorization-boundary-so-that-develope-56733) |

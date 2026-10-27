@@ -2,6 +2,8 @@
 
 [← back to Zuplo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked whether the mesh or a dedicated API gateway should own external partner authentication (OAuth/JWT/mutual-TLS with partners). Draw the boundary for a fintech exposing APIs to 200 partners, and where putting partner auth in the mesh's ingress is a mistake. | deep understanding | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Zuplo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-whether-the-mesh-or-a-dedicated-api-gateway-should-own-ex-52690) |

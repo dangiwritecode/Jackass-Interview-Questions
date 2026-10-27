@@ -2,6 +2,8 @@
 
 [← back to Darktrace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Threat-model a nation-state adversary who has already achieved persistent, credentialed presence. What in your zero-trust architecture is designed specifically to detect the legitimate-looking lateral movement, and how do you drive dwell time from months to hours? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Darktrace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=threat-model-a-nation-state-adversary-who-has-already-achieved-persist-53961) |

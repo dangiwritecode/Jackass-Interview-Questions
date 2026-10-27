@@ -2,6 +2,8 @@
 
 [← back to Reliance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would present a database vendor strategy roadmap to the board covering risk, cost, and competitive positioning. | expertise | SDE-2/3, Architect/Principal | Database Vendor & Tooling Strategy | Onsite, Hiring Manager | Tech | Asked at Reliance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-present-a-database-vendor-strategy-roadmap-to-t-115439) |

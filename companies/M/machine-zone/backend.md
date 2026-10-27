@@ -2,6 +2,8 @@
 
 [← back to Machine Zone](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A Cassandra query on a non-partition-key column is slow. Explain why a secondary index is the wrong tool here and how a materialized view or denormalized table serves it. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Gaming companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cassandra-query-on-a-non-partition-key-column-is-slow-explain-why-a--25787) |

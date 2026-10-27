@@ -2,6 +2,8 @@
 
 [← back to SQLMesh](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the divergence in supported SQL dialects and functions when the same transformation must run in BigQuery and Snowflake — do you abstract with dbt or accept forks? | deep understanding | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at SQLMesh | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-divergence-in-supported-sql-dialects-and-functio-127281) |

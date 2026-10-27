@@ -2,6 +2,8 @@
 
 [← back to Inshorts](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you cap a Redis List to only keep the latest N items using LTRIM? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | Asked at Inshorts | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-cap-a-redis-list-to-only-keep-the-latest-n-items-using-l-12159) |

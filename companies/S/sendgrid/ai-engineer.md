@@ -2,6 +2,8 @@
 
 [← back to SendGrid](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tool the agent calls is a non-idempotent REST POST (e.g. send email). The model sometimes retries or duplicates the call. How do you make tool execution safe against duplicate model-initiated calls within one turn? | deep understanding | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at SendGrid | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tool-the-agent-calls-is-a-non-idempotent-rest-post-e-g-send-email-th-77095) |

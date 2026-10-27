@@ -2,6 +2,8 @@
 
 [← back to Zeet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide the mesh's role for serverless/Knative workloads where pods scale to zero and cold-start latency matters. Architect how mesh identity and policy apply to ephemeral scale-from-zero pods, and whether the sidecar/ambient overhead defeats serverless's purpose. | deep understanding | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Zeet | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-the-mesh-s-role-for-serverless-knative-workloads-where-52669) |

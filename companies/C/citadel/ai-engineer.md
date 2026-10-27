@@ -2,6 +2,8 @@
 
 [← back to Citadel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your fine-tuning platform must support both a research org that wants raw flexibility and a regulated org that wants everything locked down — how do you architect one platform with two governance postures? | deep understanding | SDE-2/3, Architect/Principal | Fine-tuning (LoRA/PEFT) | Phone Screen, Onsite | Tech | Asked at Citadel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-fine-tuning-platform-must-support-both-a-research-org-that-wants--84435) |

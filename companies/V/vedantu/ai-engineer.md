@@ -2,6 +2,8 @@
 
 [← back to Vedantu](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would set up process-supervised reward modeling for a multi-step math tutor and how it differs from grading only the final answer. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Vedantu | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-set-up-process-supervised-reward-modeling-for-a--82119) |

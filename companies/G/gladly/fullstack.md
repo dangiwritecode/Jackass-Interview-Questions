@@ -2,6 +2,8 @@
 
 [← back to Gladly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an omnichannel customer-support platform that unifies chat email voice and social into one agent inbox with routing SLA timers and a shared conversation state — how do you model the conversation across channels and route to the right agent in real time? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Gladly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-omnichannel-customer-support-platform-that-unifies-chat-emai-39508) |

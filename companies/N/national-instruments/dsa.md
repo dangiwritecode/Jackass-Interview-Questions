@@ -2,6 +2,8 @@
 
 [← back to National Instruments](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Character at a Given Position in an Expanded String | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Math, Reverse Traversal, Simulation, Stack, String | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at National Instruments | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=character-at-a-given-position-in-an-expanded-string-d865) |

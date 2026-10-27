@@ -2,6 +2,8 @@
 
 [← back to Cleartrip](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A user asks 'book me the cheapest flight and add it to my calendar.' Which tools run in sequence and why can't they run in parallel? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Cleartrip | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-user-asks-book-me-the-cheapest-flight-and-add-it-to-my-calendar-whic-73606) |

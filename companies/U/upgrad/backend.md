@@ -2,6 +2,8 @@
 
 [← back to upGrad](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you prompt a model to grade a free-text answer against a rubric and return per-criterion scores, and how do you keep the grader consistent across runs and reviewers? | deep understanding | SDE-1/2, SDE-2/3 | Prompt Engineering | Phone Screen, Onsite | Tech | Asked at upGrad | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-prompt-a-model-to-grade-a-free-text-answer-against-a-rub-20303) |

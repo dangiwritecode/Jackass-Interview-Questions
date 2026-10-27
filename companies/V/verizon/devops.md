@@ -2,6 +2,8 @@
 
 [← back to Verizon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's approach to Terraform for a hybrid-cloud connectivity fabric (Transit Gateway + Cloud Interconnect + on-prem Direct Connect) where each leg is a different provider and the routing must converge. Where do implicit dependencies break across the AWS, GCP, and on-prem provider boundaries, and how do you make the multi-provider route convergence deterministic? | expertise | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Verizon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-approach-to-terraform-for-a-hybrid-cloud-connectivity-53076) |

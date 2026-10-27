@@ -9,18 +9,18 @@
 | [Lacework](lacework/README.md) | Tier 2 | 540 | 7 |
 | [lakeFS](lakefs/README.md) | Tier 4 | 540 | 30 |
 | [Lakera](lakera/README.md) | Tier 3 | 617 | 155 |
-| [Lambda](lambda/README.md) | Tier 3 | 659 | 263 |
+| [Lambda](lambda/README.md) | Tier 3 | 664 | 263 |
 | [LambdaTest](lambdatest/README.md) | Tier 4 | 540 | 2 |
 | [Laminar](laminar/README.md) | Tier 4 | 540 | 1 |
 | [Lamini](lamini/README.md) | Tier 4 | 540 | 8 |
 | [LanceDB](lancedb/README.md) | Tier 3 | 540 | 2 |
-| [LangChain](langchain/README.md) | Tier 3 | 764 | 1,535 |
+| [LangChain](langchain/README.md) | Tier 3 | 1,824 | 1,535 |
 | [Langfuse](langfuse/README.md) | Tier 4 | 543 | 64 |
 | [Larsen & Toubro](larsen-toubro/README.md) | Tier 4 | 540 | 2 |
 | [Lasso](lasso/README.md) | Tier 3 | 540 | 1 |
 | [LastPass](lastpass/README.md) | Tier 2 | 540 | 1 |
-| [Latentview](latentview/README.md) | Tier 3 | 730 | 515 |
-| [LaunchDarkly](launchdarkly/README.md) | Tier 3 | 826 | 611 |
+| [Latentview](latentview/README.md) | Tier 3 | 876 | 515 |
+| [LaunchDarkly](launchdarkly/README.md) | Tier 3 | 897 | 611 |
 | [Lawrence-Livermore](lawrence-livermore/README.md) | Tier 4 | 540 | 1 |
 | [Lazada](lazada/README.md) | Tier 2 | 540 | 3 |
 | [LazyPay](lazypay/README.md) | Tier 3 | 540 | 1 |
@@ -47,10 +47,10 @@
 | [Lilac](lilac/README.md) | Tier 4 | 540 | 1 |
 | [Lindy](lindy/README.md) | Tier 3 | 540 | 1 |
 | [LINE](line/README.md) | Tier 1 | 540 | 8 |
-| [Linear](linear/README.md) | Tier 3 | 652 | 372 |
+| [Linear](linear/README.md) | Tier 3 | 798 | 372 |
 | [LinearB](linearb/README.md) | Tier 3 | 540 | 10 |
 | [Lingoda](lingoda/README.md) | Tier 4 | 540 | 1 |
-| [LinkedIn](linkedin/README.md) | Tier 1 | 1,282 | 7,907 |
+| [LinkedIn](linkedin/README.md) | Tier 1 | 8,223 | 7,907 |
 | [Linode](linode/README.md) | Tier 4 | 540 | 9 |
 | [Liquibase](liquibase/README.md) | Tier 3 | 540 | 54 |
 | [LiteLLM/BerriAI](litellm-berriai/README.md) | Tier 4 | 540 | 5 |
@@ -58,7 +58,7 @@
 | [Liveblocks](liveblocks/README.md) | Tier 3 | 540 | 6 |
 | [LiveKit](livekit/README.md) | Tier 4 | 540 | 2 |
 | [LiveRamp](liveramp/README.md) | Tier 3 | 540 | 37 |
-| [LlamaIndex](llamaindex/README.md) | Tier 3 | 630 | 383 |
+| [LlamaIndex](llamaindex/README.md) | Tier 3 | 802 | 383 |
 | [Lloyds](lloyds/README.md) | Tier 2 | 540 | 1 |
 | [LMAX](lmax/README.md) | Tier 1 | 540 | 4 |
 | [LocalStack](localstack/README.md) | Tier 3 | 540 | 5 |
@@ -77,7 +77,7 @@
 | [Loqate](loqate/README.md) | Tier 3 | 540 | 3 |
 | [Lowe's India](lowe-s-india/README.md) | Tier 4 | 540 | 4 |
 | [LSEG](lseg/README.md) | Tier 2 | 540 | 3 |
-| [LTIMindtree](ltimindtree/README.md) | Tier 5 | 1,073 | 1,187 |
+| [LTIMindtree](ltimindtree/README.md) | Tier 5 | 1,357 | 1,187 |
 | [Lucid](lucid/README.md) | Tier 3 | 540 | 5 |
 | [Lucidworks](lucidworks/README.md) | Tier 3 | 540 | 1 |
 | [Luma AI](luma-ai/README.md) | Tier 3 | 540 | 2 |

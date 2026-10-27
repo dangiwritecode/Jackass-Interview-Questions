@@ -2,6 +2,8 @@
 
 [← back to Codeium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your framework for eval when the same underlying foundation model powers a coding assistant, a chatbot, and a summarizer with contradictory quality bars? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Codeium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-framework-for-eval-when-the-same-underlying-foundation-mod-86890) |

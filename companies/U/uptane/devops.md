@@ -2,6 +2,8 @@
 
 [← back to uptane](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect how you'd bring firmware, IoT and edge-device software under the same supply chain umbrella as your cloud workloads — what changes when the endpoint can't verify signatures at runtime? | expertise | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at uptane | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-how-you-d-bring-firmware-iot-and-edge-device-software-under--55490) |

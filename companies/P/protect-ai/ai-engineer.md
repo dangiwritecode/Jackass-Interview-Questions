@@ -2,6 +2,8 @@
 
 [← back to Protect AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a platform-level guardrail service (input classification, output filtering, injection detection, action gating) every agent must traverse. How do you keep it from adding unacceptable latency or false-positive friction while still being mandatory? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Protect AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-platform-level-guardrail-service-input-classification-output--83086) |

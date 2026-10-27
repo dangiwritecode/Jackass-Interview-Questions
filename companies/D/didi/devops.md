@@ -2,6 +2,8 @@
 
 [← back to Didi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a ride-hailing dispatch system to stay available and geographically correct during a city-wide surge (concert lets out, storm hits), so a single hot geo-region can't topple the matching engine while matching stays near-real-time? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Didi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-ride-hailing-dispatch-system-to-stay-available--52112) |

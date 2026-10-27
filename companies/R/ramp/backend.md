@@ -2,6 +2,8 @@
 
 [← back to Ramp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a cost-and-latency-aware routing layer in front of multiple LLM providers so product teams get a single API, automatic failover, per-team budgets, and can swap models without code changes. What breaks this abstraction? | expertise | SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Ramp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-cost-and-latency-aware-routing-layer-in-front-of-multiple-llm-30999) |

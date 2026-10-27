@@ -2,6 +2,8 @@
 
 [← back to DeepSeek](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how the platform serves a Mixture-of-Experts model at scale where expert routing creates unpredictable per-token load imbalance across GPUs. How do you keep utilization high and tail latency bounded when the hot experts shift with the input distribution? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at DeepSeek | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-the-platform-serves-a-mixture-of-experts-model-at-scale-whe-100642) |

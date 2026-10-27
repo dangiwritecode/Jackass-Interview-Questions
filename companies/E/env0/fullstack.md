@@ -2,6 +2,8 @@
 
 [← back to env0](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide whether to build a homegrown Terraform-run control plane or buy Spacelift/Env0/TFC for a fast-growing org. Beyond features, weigh the strategic risk of a control plane you can't exit, and design the abstraction that keeps your workflow portable across control planes. | expertise | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at env0 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-whether-to-build-a-homegrown-terraform-run-control-pla-39965) |

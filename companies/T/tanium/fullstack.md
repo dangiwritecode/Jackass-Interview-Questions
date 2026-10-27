@@ -2,6 +2,8 @@
 
 [← back to Tanium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A colleague's script uses eval on user-influenced input to build a command. Explain the injection risk on Linux, how quoting/word-splitting makes it worse, and how you'd rewrite it with arrays and exec-form safely. | deep understanding | SDE-1/2, SDE-2/3 | Linux | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Security companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-colleague-s-script-uses-eval-on-user-influenced-input-to-build-a-com-19408) |

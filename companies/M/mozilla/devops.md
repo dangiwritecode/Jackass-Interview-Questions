@@ -2,6 +2,8 @@
 
 [← back to Mozilla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A teammate wants to store a private TLS key inside a YAML Secret manifest. Walk through why base64 in YAML is not encryption and how sealed-secrets or SOPS keeps the encrypted blob valid YAML. | deep understanding | SDE-1/2, SDE-2/3 | YAML | Online Assessment (OA), Phone Screen | Tech | Asked at Mozilla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-teammate-wants-to-store-a-private-tls-key-inside-a-yaml-secret-manif-48947) |

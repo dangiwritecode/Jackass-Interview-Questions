@@ -2,6 +2,8 @@
 
 [← back to Cisco](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal peer wants to ban embeddings for sensitive data entirely, citing inversion attacks that recover source text. Adjudicate as an architecture-and-risk decision: what controls make embedded sensitive data acceptable, and where would you actually agree to the ban? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Cisco | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-wants-to-ban-embeddings-for-sensitive-data-entirely-c-82496) |

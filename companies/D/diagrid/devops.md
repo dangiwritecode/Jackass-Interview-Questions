@@ -2,6 +2,8 @@
 
 [← back to Diagrid](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd assess and adopt Azure Container Apps' dapr and KEDA capabilities as an org standard versus keeping everything on AKS; what workloads move and what stays? | deep understanding | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at Diagrid | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-assess-and-adopt-azure-container-apps-dapr-and-keda--54590) |

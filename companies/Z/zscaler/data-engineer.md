@@ -2,6 +2,8 @@
 
 [← back to Zscaler](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | After Schrems II what is your architecture for EU-US transfers — how do supplementary measures like encryption and pseudonymization show up concretely in your data plane? | expertise | SDE-2/3, Architect/Principal | Regulatory Data Compliance (GDPR/CCPA) | Phone Screen, Onsite | Tech | Asked at Zscaler | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=after-schrems-ii-what-is-your-architecture-for-eu-us-transfers-how-do--127325) |

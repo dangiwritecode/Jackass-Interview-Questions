@@ -2,6 +2,8 @@
 
 [← back to ZipRecruiter](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the org so that the same fairness metric is computed the same way in every model rather than each team inventing its own definition? | deep understanding | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at ZipRecruiter | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-org-so-that-the-same-fairness-metric-is-co-84347) |

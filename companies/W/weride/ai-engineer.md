@@ -2,6 +2,8 @@
 
 [← back to WeRide](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect label management so human labels, active-learning queries, and delayed-feedback labels all flow into training with consistent quality controls? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Autonomous-Driving companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-label-management-so-human-labels-active-learning--84367) |

@@ -2,6 +2,8 @@
 
 [← back to Honeywell](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Closest Occurrence of a Value to a Reference Position | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Iteration, Linear Scan | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Honeywell | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=closest-occurrence-of-a-value-to-a-reference-position-d1754) |

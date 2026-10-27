@@ -2,6 +2,8 @@
 
 [← back to Spot-by-NetApp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a Kubernetes cost-visibility + rightsizing layer (Kubecost/CAST AI/Densify vs OpenCost + custom) when the real win is autonomous cluster savings, not dashboards — and the vendor takes a % of savings? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Spot-by-NetApp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-kubernetes-cost-visibility-rights-53734) |

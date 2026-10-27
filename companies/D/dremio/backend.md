@@ -2,6 +2,8 @@
 
 [← back to Dremio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd instrument and govern the cost of a large batch/ETL platform where jobs are written by analysts who don't think about cost. Design the guardrails, cost-preview, and quota system that curb runaway queries without blocking analysis. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Dremio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-instrument-and-govern-the-cost-of-a-large-batch-etl-37107) |

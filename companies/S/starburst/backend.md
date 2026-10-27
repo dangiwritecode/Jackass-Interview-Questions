@@ -2,6 +2,8 @@
 
 [← back to Starburst](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a tiered-consistency data product where the same logical dataset is exposed as CP for regulators, bounded-stale for internal analytics, and eventually-consistent for the public API, all from one source of truth without triple-storing it? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Starburst | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-tiered-consistency-data-product-where-the-same--32241) |

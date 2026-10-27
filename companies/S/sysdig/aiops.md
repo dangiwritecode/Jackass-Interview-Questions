@@ -2,6 +2,8 @@
 
 [← back to Sysdig](README.md)
 
+Questions 1–100 of 100.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a graceful shutdown for your Python AIOps worker in Kubernetes so that on SIGTERM it flushes in-flight anomaly state, acks processed events, and never drops an alert mid-flight. | deep understanding | SDE-1/2, SDE-2/3 | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Sysdig | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-graceful-shutdown-for-your-python-aiops-wor-91925) |

@@ -2,6 +2,8 @@
 
 [← back to Expedia Group](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you cost-model each medallion layer separately so leadership can see that Bronze storage is cheap but Gold recompute is what's actually blowing the budget? | expertise | SDE-2/3, Architect/Principal | Medallion Architecture (Bronze/Silver/Gold) | Phone Screen, Onsite | Tech | Asked at Expedia Group | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-cost-model-each-medallion-layer-separately-so-leadership-ca-126222) |

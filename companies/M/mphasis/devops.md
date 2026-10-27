@@ -2,6 +2,8 @@
 
 [← back to Mphasis](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain 'first request goes to server 1, second to server 2, third back to server 1' — which algorithm is that? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Load Balancing | Phone Screen, Onsite | Tech | Asked at Mphasis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-first-request-goes-to-server-1-second-to-server-2-third-back-t-41969) |

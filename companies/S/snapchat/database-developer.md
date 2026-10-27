@@ -2,6 +2,8 @@
 
 [← back to Snapchat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A DynamoDB GSI is throttling and backpressuring writes to the base table — explain precisely why a GSI's under-provisioned capacity throttles the base table, and how you'd fix the capacity mismatch, projection, or sparse-index design without downtime. | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Snapchat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dynamodb-gsi-is-throttling-and-backpressuring-writes-to-the-base-tab-111919) |

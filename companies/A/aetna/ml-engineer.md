@@ -2,6 +2,8 @@
 
 [← back to Aetna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Contrast federated learning vs centralized-with-DP for a healthcare partner network — which do you recommend and what are the org-scale operational costs of each? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Aetna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=contrast-federated-learning-vs-centralized-with-dp-for-a-healthcare-pa-72582) |

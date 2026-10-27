@@ -2,6 +2,8 @@
 
 [← back to Nscale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the strategy for how the platform reasons about spot-instance preemption for stateful inference replicas that hold warm KV caches and loaded engines. | expertise | SDE-2/3, Architect/Principal | Inference Optimization (vLLM/TensorRT) | Phone Screen, Onsite | Tech | Asked at Nscale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-strategy-for-how-the-platform-reasons-about-spot-instance-p-85188) |

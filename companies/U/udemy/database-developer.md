@@ -2,6 +2,8 @@
 
 [← back to Udemy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd model a course-prerequisite graph and detect/prevent cycles at the schema or query level. | deep understanding | SDE-1, SDE-1/2 | ER Diagrams & Schema Design | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Udemy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-model-a-course-prerequisite-graph-and-detect-preven-109524) |

@@ -2,6 +2,8 @@
 
 [← back to Magicbricks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A geospatial 'products within X km' query over millions of listings is slow; compare a geohash grid, a quadtree, and an R-tree for your update-heavy write mix and skewed density. | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Magicbricks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-geospatial-products-within-x-km-query-over-millions-of-listings-is-s-22004) |

@@ -2,6 +2,8 @@
 
 [← back to Privacera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the access-control model for a lake serving 10k analysts: how do you unify row/column/masking policies across engines (Spark Trino Snowflake) without maintaining N copies of the policy? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Privacera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-access-control-model-for-a-lake-serving-10k-analysts-how-do-36541) |

@@ -2,6 +2,8 @@
 
 [← back to RBI-partner](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator requires that during a partition, a specific dataset must NEVER serve a stale value even if that means an outage. Translate that into a testable database configuration and design the pre-audit evidence you'd produce to prove the CP behavior holds. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at RBI-partner | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-requires-that-during-a-partition-a-specific-dataset-must-n-111570) |

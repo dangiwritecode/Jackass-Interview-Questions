@@ -2,6 +2,8 @@
 
 [← back to Panther](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges: an auditor accepts your redaction-coverage evidence but your own principal judgment says the AIOps redactor is theater — a determined insider queries raw shards directly. How do you navigate the gap between 'audit-passing' and 'actually-safe' for the telemetry plane and close controls that satisfy paperwork not adversaries? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Panther | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-an-auditor-accepts-your-redaction-coverage-e-100293) |

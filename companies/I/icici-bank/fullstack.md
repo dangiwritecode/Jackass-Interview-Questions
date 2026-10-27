@@ -2,6 +2,8 @@
 
 [← back to ICICI-Bank](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A new regulation requires proving, per request, which region served content and where it was cached. Design the audit/lineage architecture across your CDN and edge platform to satisfy it without crushing performance or exploding logging cost, and explain the retention/query model. | expertise | SDE-2/3, Architect/Principal | CDN | Phone Screen, Onsite | Tech | Asked at ICICI-Bank | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-new-regulation-requires-proving-per-request-which-region-served-cont-39687) |

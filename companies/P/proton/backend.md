@@ -2,6 +2,8 @@
 
 [← back to Proton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect data-minimization enforcement at collection time so services physically cannot collect fields they don't have a declared lawful basis for — describe schema governance a privacy-linter in CI and runtime rejection of over-collection. | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Proton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-data-minimization-enforcement-at-collection-ti-37253) |

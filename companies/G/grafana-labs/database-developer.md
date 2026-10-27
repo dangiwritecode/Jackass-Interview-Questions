@@ -2,6 +2,8 @@
 
 [← back to Grafana Labs](README.md)
 
+Questions 1–140 of 140.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A director wants one KPI for 'database consistency health' to report upward. Explain why that's the wrong framing and propose the small set of measurable indicators (commit latency p99, leader-change rate, apply-lag, staleness-SLO breach, quorum-loss minutes) and what decision each drives. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at Grafana Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-director-wants-one-kpi-for-database-consistency-health-to-report-upw-112221) |

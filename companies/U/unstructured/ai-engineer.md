@@ -2,6 +2,8 @@
 
 [← back to Unstructured](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An incident retro reveals a routine chunker change silently halved retrieval quality org-wide for weeks before anyone noticed, hurting every agent. Redesign the change-management and detection so a semantically-upstream change like this can never ship undetected across teams again. | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Unstructured | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-incident-retro-reveals-a-routine-chunker-change-silently-halved-ret-82523) |

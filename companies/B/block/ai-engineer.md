@@ -2,6 +2,8 @@
 
 [← back to Block](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a cross-team contract for feature freshness so a consumer knows exactly how stale a feature can be and is alerted before an SLA is silently broken? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Block | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-cross-team-contract-for-feature-freshness-so-a--84339) |

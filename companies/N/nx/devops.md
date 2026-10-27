@@ -2,6 +2,8 @@
 
 [← back to Nx](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the platform's stance on monorepo versus polyrepo as an org-wide default, and how does that choice constrain your CI, dependency-management, and ownership-metadata architecture over a decade? | expertise | SDE-2/3, Architect/Principal | Platform Engineering | Onsite, Hiring Manager | Tech | Asked at Nx | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-platform-s-stance-on-monorepo-versus-polyrepo-as-54279) |

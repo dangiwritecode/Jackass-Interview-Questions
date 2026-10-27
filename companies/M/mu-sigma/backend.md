@@ -2,6 +2,8 @@
 
 [← back to Mu Sigma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What was the single biggest technical challenge in your ML project, and how did you overcome it? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Projects (Resume Deep-Dive) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Mu Sigma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-was-the-single-biggest-technical-challenge-in-your-ml-project-and-59013) |

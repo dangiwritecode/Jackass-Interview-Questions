@@ -2,6 +2,8 @@
 
 [← back to Zee5](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd measure whether a prompt change actually improved quality or just shifted which inputs pass, avoiding the illusion of improvement. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Zee5 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-measure-whether-a-prompt-change-actually-improved-qu-77977) |

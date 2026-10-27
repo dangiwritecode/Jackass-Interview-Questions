@@ -2,6 +2,8 @@
 
 [← back to Standard Chartered](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: how would you handle model risk when regulators haven't yet written rules for a novel GenAI capability you're about to ship? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Standard Chartered | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-would-you-handle-model-risk-when-regulators-ha-86218) |

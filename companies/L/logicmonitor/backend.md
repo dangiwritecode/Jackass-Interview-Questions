@@ -2,6 +2,8 @@
 
 [← back to LogicMonitor](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You cluster log templates with an online Drain tree but memory keeps growing unbounded in production. What causes the growth and how do you cap it without losing rare templates? | expertise | SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at LogicMonitor | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-cluster-log-templates-with-an-online-drain-tree-but-memory-keeps-g-94927) |

@@ -2,6 +2,8 @@
 
 [← back to Cast AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A scenario tests whether you can cut platform infra cost 35% without breaching any SLO. How do you use ATAM to expose which quality attributes are actually sensitive to the levers (spot, replica downscaling, cache eviction, right-sizing) before you commit? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Cast AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-scenario-tests-whether-you-can-cut-platform-infra-cost-35-without-br-53269) |

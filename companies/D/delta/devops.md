@@ -2,6 +2,8 @@
 
 [← back to Delta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regional Azure outage took down your primary; leadership asks whether to go multi-region active-active or invest in faster failover; how do you frame the cost/complexity/RTO trade-off for the board? | expertise | SDE-2/3, Architect/Principal | Azure | Phone Screen, Onsite | Tech | Asked at Delta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regional-azure-outage-took-down-your-primary-leadership-asks-whether-54531) |

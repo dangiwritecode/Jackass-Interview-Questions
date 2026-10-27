@@ -2,6 +2,8 @@
 
 [← back to Standard Chartered](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a rekey and root-key-rotation program for a live multi-cluster Vault estate with quorum ceremonies across time zones. How do you minimize risk and coordinate the operators without a maintenance window per cluster? | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at Standard Chartered | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-rekey-and-root-key-rotation-program-for-a-live-multi-cluster--54998) |

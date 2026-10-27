@@ -2,6 +2,8 @@
 
 [← back to Zerto](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're evaluating a vendor DRaaS product versus building in-house. What are the non-obvious lock-in and blast-radius questions you'd ask before betting the org's recovery on it? | expertise | SDE-2/3, Architect/Principal | Disaster Recovery (RTO/RPO) | Onsite, Hiring Manager | Tech | Asked at Zerto | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-a-vendor-draas-product-versus-building-in-house-what-53656) |

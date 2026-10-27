@@ -2,6 +2,8 @@
 
 [← back to Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An exec wants a hard commitment date to migrate nine teams off an on-prem Hadoop cluster onto a cloud lakehouse, but you have low confidence and no buy-in from three of them. How do you communicate migration uncertainty upward without looking like you're dodging accountability? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-exec-wants-a-hard-commitment-date-to-migrate-nine-teams-off-an-on-p-126126) |

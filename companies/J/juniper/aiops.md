@@ -2,6 +2,8 @@
 
 [← back to Juniper](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd architect intent-based self-healing where teams declare desired reliability outcomes and the platform derives actions, versus imperative runbooks. | expertise | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Juniper | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-architect-intent-based-self-healing-where-teams-dec-101570) |

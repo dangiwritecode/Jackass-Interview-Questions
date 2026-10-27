@@ -2,6 +2,8 @@
 
 [← back to Kong](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a globally-consistent rate-limit/quota-enforcement service backed by AWS databases that dozens of teams call, where the limiter must survive a regional failure without letting quota over-count or blocking all traffic — what datastore and fallback behavior do you choose? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Kong | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-globally-consistent-rate-limit-quota-enforce-111932) |

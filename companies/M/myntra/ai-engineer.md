@@ -2,6 +2,8 @@
 
 [← back to Myntra](README.md)
 
+Questions 1–68 of 68.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the contract between an agent-orchestration platform and the domain teams that own tools so you can replace the entire orchestration framework in 18 months without any domain team changing code. What exactly does that contract freeze? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Myntra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-contract-between-an-agent-orchestration-platform-and-the-do-83037) |

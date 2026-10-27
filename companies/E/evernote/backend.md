@@ -2,6 +2,8 @@
 
 [← back to Evernote](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need offline-first sync where queued user actions replay on reconnect. Which pattern models the queued actions, and how do you handle conflict resolution, ordering, and deduplication when the same action was partially applied server-side before disconnect? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Evernote | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-offline-first-sync-where-queued-user-actions-replay-on-reconn-22500) |

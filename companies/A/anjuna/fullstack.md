@@ -2,6 +2,8 @@
 
 [← back to Anjuna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Regulators require workloads processing PII to run in a confidential-computing enclave. How would you architect confidential containers (Kata + TEE / Confidential Containers project) on Kubernetes fleet-wide, what attestation flow would you require at admission, and where would you accept the performance and operability cost? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Anjuna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=regulators-require-workloads-processing-pii-to-run-in-a-confidential-c-39020) |

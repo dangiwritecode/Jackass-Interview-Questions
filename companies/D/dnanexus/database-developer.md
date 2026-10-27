@@ -2,6 +2,8 @@
 
 [← back to DNAnexus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a data platform for a genomics/research org where individual datasets are terabyte-scale files (BAM/VCF) that don't fit a columnar table model? Where does object-storage-plus-metadata-index beat a warehouse, and how do you still provide catalog, lineage, and governance over opaque files? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at DNAnexus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-platform-for-a-genomics-research-org-where-112718) |

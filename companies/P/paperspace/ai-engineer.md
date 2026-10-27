@@ -2,6 +2,8 @@
 
 [← back to Paperspace](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a GPU instance in the cloud and how is it different from a normal CPU instance for AI workloads? | basic concept | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Paperspace | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-gpu-instance-in-the-cloud-and-how-is-it-different-from-a-nor-76484) |

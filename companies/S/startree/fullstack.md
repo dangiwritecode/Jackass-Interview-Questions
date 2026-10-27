@@ -2,6 +2,8 @@
 
 [← back to StarTree](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must design the data plane for a real-time analytics product that ingests events and lets users query them with sub-second latency — how do you decide between a streaming OLAP store (Druid/ClickHouse/Pinot) and a warehouse+cache and what does that lock you into? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at StarTree | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-design-the-data-plane-for-a-real-time-analytics-product-that--39427) |

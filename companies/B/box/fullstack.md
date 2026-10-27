@@ -2,6 +2,8 @@
 
 [← back to Box](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a file-upload service's class model supporting resumable chunked uploads and virus-scan-before-commit; how do you model the upload session lifecycle and clean up abandoned partial uploads? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Box | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-file-upload-service-s-class-model-supporting-resumable-chunke-22363) |

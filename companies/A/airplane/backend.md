@@ -2,6 +2,8 @@
 
 [← back to Airplane](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design authentication for an internal admin tool where engineers log in via corporate SSO but each action must map to an individual's identity for audit, even when using a shared service role downstream. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Airplane | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-authentication-for-an-internal-admin-tool-where-engineers-log-i-26170) |

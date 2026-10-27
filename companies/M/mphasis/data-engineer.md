@@ -2,6 +2,8 @@
 
 [← back to Mphasis](README.md)
 
+Questions 1–80 of 80.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A gold table feeds a feature store and training/serving skew appears. How does the lakehouse design contribute and how do you fix it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Data Lakes & Lakehouse | Phone Screen, Onsite | Tech | Asked at Mphasis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-gold-table-feeds-a-feature-store-and-training-serving-skew-appears-h-122421) |

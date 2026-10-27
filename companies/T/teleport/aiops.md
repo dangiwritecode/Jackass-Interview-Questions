@@ -2,6 +2,8 @@
 
 [← back to Teleport](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a governed on-call access model where just-in-time short-lived credentials scoped to the specific service in an incident replace standing dashboard access to all telemetry — so PCI/SOC2 least-privilege holds without making incident response miserable? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Teleport | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-governed-on-call-access-model-where-just-in-tim-100254) |

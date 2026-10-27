@@ -11,10 +11,10 @@
 | [PactFlow](pactflow/README.md) | Tier 3 | 540 | 1 |
 | [Paddle](paddle/README.md) | Tier 3 | 540 | 2 |
 | [Pagaya](pagaya/README.md) | Tier 3 | 540 | 2 |
-| [PagerDuty](pagerduty/README.md) | Tier 3 | 792 | 4,377 |
-| [Palantir](palantir/README.md) | Tier 2 | 725 | 574 |
+| [PagerDuty](pagerduty/README.md) | Tier 3 | 4,578 | 4,377 |
+| [Palantir](palantir/README.md) | Tier 2 | 783 | 574 |
 | [Palo](palo/README.md) | Tier 2 | 540 | 7 |
-| [Palo Alto Networks](palo-alto-networks/README.md) | Tier 2 | 797 | 775 |
+| [Palo Alto Networks](palo-alto-networks/README.md) | Tier 2 | 971 | 775 |
 | [Pandera](pandera/README.md) | Tier 4 | 540 | 1 |
 | [Panther](panther/README.md) | Tier 3 | 540 | 15 |
 | [Paperspace](paperspace/README.md) | Tier 3 | 540 | 14 |
@@ -26,9 +26,9 @@
 | [Patreon](patreon/README.md) | Tier 3 | 540 | 3 |
 | [Patronus AI](patronus-ai/README.md) | Tier 3 | 540 | 42 |
 | [Paycom](paycom/README.md) | Tier 4 | 540 | 2 |
-| [PayPal](paypal/README.md) | Tier 1 | 868 | 1,043 |
+| [PayPal](paypal/README.md) | Tier 1 | 1,250 | 1,043 |
 | [PayPay](paypay/README.md) | Tier 3 | 540 | 5 |
-| [Paytm](paytm/README.md) | Tier 2 | 930 | 1,202 |
+| [Paytm](paytm/README.md) | Tier 2 | 1,547 | 1,202 |
 | [PayU](payu/README.md) | Tier 3 | 540 | 21 |
 | [pCloud](pcloud/README.md) | Tier 4 | 540 | 1 |
 | [PEAK6](peak6/README.md) | Tier 3 | 540 | 2 |
@@ -36,9 +36,9 @@
 | [Pega](pega/README.md) | Tier 3 | 540 | 2 |
 | [Peloton](peloton/README.md) | Tier 3 | 540 | 3 |
 | [Pepperfry](pepperfry/README.md) | Tier 4 | 540 | 1 |
-| [Percona](percona/README.md) | Tier 3 | 668 | 361 |
+| [Percona](percona/README.md) | Tier 3 | 760 | 361 |
 | [Permit](permit/README.md) | Tier 3 | 540 | 2 |
-| [Perplexity](perplexity/README.md) | Tier 2 | 863 | 2,125 |
+| [Perplexity](perplexity/README.md) | Tier 2 | 2,489 | 2,125 |
 | [Persistent](persistent/README.md) | Tier 4 | 628 | 329 |
 | [Persona](persona/README.md) | Tier 3 | 540 | 2 |
 | [Perspective](perspective/README.md) | Tier 3 | 540 | 2 |
@@ -48,23 +48,23 @@
 | [pganalyze](pganalyze/README.md) | Tier 3 | 540 | 18 |
 | [PharmEasy](pharmeasy/README.md) | Tier 2 | 540 | 8 |
 | [Philips](philips/README.md) | Tier 3 | 540 | 38 |
-| [PhonePe](phonepe/README.md) | Tier 2 | 1,274 | 28,127 |
+| [PhonePe](phonepe/README.md) | Tier 2 | 30,968 | 28,127 |
 | [Photoroom](photoroom/README.md) | Tier 3 | 540 | 1 |
 | [Physics Wallah](physics-wallah/README.md) | Tier 3 | 540 | 3 |
 | [Pi](pi/README.md) | Tier 3 | 540 | 1 |
 | [Pika](pika/README.md) | Tier 3 | 540 | 3 |
 | [Pine Labs](pine-labs/README.md) | Tier 3 | 540 | 4 |
-| [Pinecone](pinecone/README.md) | Tier 2 | 817 | 3,156 |
+| [Pinecone](pinecone/README.md) | Tier 2 | 3,388 | 3,156 |
 | [Ping](ping/README.md) | Tier 3 | 540 | 12 |
 | [Ping An](ping-an/README.md) | Tier 2 | 540 | 1 |
 | [Ping Identity](ping-identity/README.md) | Tier 2 | 540 | 31 |
 | [Pingdom](pingdom/README.md) | Tier 3 | 540 | 14 |
 | [Pingdom-SolarWinds](pingdom-solarwinds/README.md) | Tier 3 | 540 | 4 |
-| [Pinterest](pinterest/README.md) | Tier 2 | 782 | 1,189 |
+| [Pinterest](pinterest/README.md) | Tier 2 | 1,330 | 1,189 |
 | [Pipedrive](pipedrive/README.md) | Tier 4 | 540 | 1 |
 | [Pizza Hut](pizza-hut/README.md) | Tier 3 | 540 | 1 |
-| [Plaid](plaid/README.md) | Tier 2 | 687 | 359 |
-| [PlanetScale](planetscale/README.md) | Tier 3 | 763 | 690 |
+| [Plaid](plaid/README.md) | Tier 2 | 715 | 359 |
+| [PlanetScale](planetscale/README.md) | Tier 3 | 1,028 | 690 |
 | [Platform-One](platform-one/README.md) | Tier 3 | 540 | 2 |
 | [Platform9](platform9/README.md) | Tier 4 | 540 | 3 |
 | [Pleo](pleo/README.md) | Tier 4 | 540 | 1 |
@@ -91,7 +91,7 @@
 | [Portworx](portworx/README.md) | Tier 3 | 540 | 28 |
 | [Poshmark](poshmark/README.md) | Tier 3 | 540 | 3 |
 | [PostHog](posthog/README.md) | Tier 3 | 540 | 8 |
-| [Postman](postman/README.md) | Tier 3 | 1,260 | 21,864 |
+| [Postman](postman/README.md) | Tier 3 | 26,141 | 21,864 |
 | [Postmark](postmark/README.md) | Tier 4 | 540 | 5 |
 | [Postmates](postmates/README.md) | Tier 3 | 540 | 3 |
 | [PowerSync](powersync/README.md) | Tier 3 | 540 | 1 |

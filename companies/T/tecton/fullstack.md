@@ -2,6 +2,8 @@
 
 [← back to Tecton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a real-time feature-computation path where the same feature must be identical online (5ms) and in the training batch — how do you guarantee no train/serve skew when the online path is a stream job and the offline path is Spark? | expertise | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Tecton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-real-time-feature-computation-path-where-the-same-feature--39429) |

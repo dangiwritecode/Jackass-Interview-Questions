@@ -2,6 +2,8 @@
 
 [← back to Pure Storage](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare contiguous, linked, and indexed file allocation methods. | deep understanding | Fresher, SDE-1 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Storage companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-contiguous-linked-and-indexed-file-allocation-methods-487) |

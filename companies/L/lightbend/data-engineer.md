@@ -2,6 +2,8 @@
 
 [← back to Lightbend](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would set up property-based testing with ScalaCheck for a data transformation, and what invariants you'd assert. | deep understanding | SDE-1/2, SDE-2/3 | Scala | Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Lightbend | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-set-up-property-based-testing-with-scalacheck-f-122716) |

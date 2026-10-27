@@ -2,6 +2,8 @@
 
 [← back to Zillow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | In-Place 90-Degree Clockwise Rotation of a Square Grid | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, In-Place Transformation, Math, Matrix, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Zillow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=in-place-90-degree-clockwise-rotation-of-a-square-grid-d48) |

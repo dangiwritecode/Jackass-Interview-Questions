@@ -2,6 +2,8 @@
 
 [← back to PactFlow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a firm-wide policy so that every Adapter at a team boundary is covered by consumer-driven contract tests, and a producer's CI fails before it can ship a change that would break a consumer's mapping? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at PactFlow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-firm-wide-policy-so-that-every-adapter-at-a-tea-38479) |

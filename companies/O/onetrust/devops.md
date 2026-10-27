@@ -2,6 +2,8 @@
 
 [← back to OneTrust](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a data-processing agreement lifecycle where DPAs subprocessor lists and flow-down obligations are treated as machine-readable contracts that drive enforcement — not PDFs in a legal drive — at the scale of hundreds of vendors? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at OneTrust | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-data-processing-agreement-lifecycle-where-dpas--54042) |

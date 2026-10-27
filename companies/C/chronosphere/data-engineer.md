@@ -2,6 +2,8 @@
 
 [← back to Chronosphere](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your Iceberg tables have thousands of tiny files from streaming writes and compaction can't keep up, so query planning takes minutes. Walk through the architectural fix (write buffering, target file size, compaction scheduling) and how you make this a platform guarantee rather than each team's tuning problem. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Chronosphere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-iceberg-tables-have-thousands-of-tiny-files-125615) |

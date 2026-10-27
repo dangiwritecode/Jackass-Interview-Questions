@@ -2,6 +2,8 @@
 
 [← back to 1Password](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect a per-user encryption key model for a consumer app so that GDPR erasure = destroy one user's key — how do you handle shared/derived data that references multiple users? | expertise | SDE-2/3, Architect/Principal | Data Encryption & Compliance (GDPR/HIPAA) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at 1Password | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-a-per-user-encryption-key-model-for-a-consumer-app-so-that-g-115290) |

@@ -2,6 +2,8 @@
 
 [← back to ResearchGate](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A model returns confident but fabricated citations. Explain mechanistically why next-token prediction produces plausible-but-fake references and what signal you'd use to catch them. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at ResearchGate | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-model-returns-confident-but-fabricated-citations-explain-mechanistic-77939) |

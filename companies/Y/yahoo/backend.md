@@ -2,6 +2,8 @@
 
 [← back to Yahoo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you evolve a legacy JSONP-dependent search-suggestion architecture to CORS-scoped JSON across many legacy clients you can't force to upgrade at once? Explain the injection/CSRF risk JSONP embodies and the phased deprecation with client telemetry. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Yahoo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evolve-a-legacy-jsonp-dependent-search-suggestion-archit-32878) |

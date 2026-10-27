@@ -2,6 +2,8 @@
 
 [← back to Teradata](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a platform architecture where feature computation is pushed down close to the data (compute-on-storage / near-data) to avoid moving petabytes over the network at scale. Where does near-data compute pay off, and where does it just fragment your feature logic across systems? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Teradata | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-platform-architecture-where-feature-computation-is-pushed-dow-100685) |

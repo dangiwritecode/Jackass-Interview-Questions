@@ -2,6 +2,8 @@
 
 [← back to Gretel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design a synthetic-data generation platform for SFT/preference data at scale while controlling for distillation bias and model collapse. | expertise | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Gretel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-a-synthetic-data-generation-platform-for-sft-71303) |

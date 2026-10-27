@@ -2,6 +2,8 @@
 
 [← back to Anysphere](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You quantized a model and pass@1 on your coding eval dropped 3 points while chat eval held steady. What does that pattern tell you and how do you act on it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Model Compression (Quantization/Distillation) | Phone Screen, Onsite | Tech | Asked at Anysphere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-quantized-a-model-and-pass-1-on-your-coding-eval-dropped-3-points--81210) |

@@ -2,6 +2,8 @@
 
 [← back to Fermyon](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to future-proof the platform against a shift toward edge computing where thousands of edge nodes may be partitioned from the core routinely. How does that scale of partition-normality reshape your default consistency architecture? | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Fermyon | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-future-proof-the-platform-against-a-shift-toward-edge--32246) |

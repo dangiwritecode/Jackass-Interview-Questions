@@ -2,6 +2,8 @@
 
 [← back to Graphite](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain stacked PRs for a pipeline feature split into dependent layers (ingestion, staging model, mart, exposure): how they map to Git branches, and the exact pain when the lowest PR is squash-merged or updated mid-review. | deep understanding | SDE-1/2, SDE-2/3 | Git & GitHub | Phone Screen, Onsite | Tech | Asked at Graphite | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-stacked-prs-for-a-pipeline-feature-split-into-dependent-layers-120034) |

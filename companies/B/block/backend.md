@@ -2,6 +2,8 @@
 
 [← back to Block](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you'd decide between active-active and active-passive multi-region topologies for a global payments ledger, and what specific failure and correctness properties push you toward one over the other. | expertise | SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Block | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-decide-between-active-active-and-active-pass-36614) |

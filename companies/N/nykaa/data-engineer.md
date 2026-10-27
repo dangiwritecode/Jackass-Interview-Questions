@@ -2,6 +2,8 @@
 
 [← back to Nykaa](README.md)
 
+Questions 1–73 of 73.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A composite partition of (region, date) produces empty (region,date) folders for regions with no daily data — why is that a cost and correctness problem and how do you avoid it? | deep understanding | SDE-1/2, SDE-2/3 | Partitioning & Bucketing | Phone Screen, Onsite | Tech | Asked at Nykaa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-composite-partition-of-region-date-produces-empty-region-date-folder-123093) |

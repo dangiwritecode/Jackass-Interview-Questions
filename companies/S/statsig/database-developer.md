@@ -2,6 +2,8 @@
 
 [← back to Statsig](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect caching for feature flags and config stored in the database so reads are effectively free on the hot path yet a flip propagates fleet-wide within a couple of seconds, and what carries the signal? | deep understanding | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Statsig | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-caching-for-feature-flags-and-config-stored-in-th-111477) |

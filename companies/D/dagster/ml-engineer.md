@@ -2,6 +2,8 @@
 
 [← back to Dagster](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser: how would you design the org's Python data-freshness/completeness gates in the pipeline DAG so a training step waits for or fails on stale upstream features, rather than silently training on yesterday's data? | deep understanding | SDE-2/3, Architect/Principal | Python | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Dagster | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-how-would-you-design-the-org-s-python-data-freshness-comp-68456) |

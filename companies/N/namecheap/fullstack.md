@@ -2,6 +2,8 @@
 
 [← back to Namecheap](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you debug a situation where a domain resolves to an old IP after a DNS change? | intermediate experience | Fresher, SDE-1 | Computer Networks | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Namecheap | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-debug-a-situation-where-a-domain-resolves-to-an-old-ip-a-573) |

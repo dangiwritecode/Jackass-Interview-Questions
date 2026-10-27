@@ -2,6 +2,8 @@
 
 [← back to Wolfram](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why do LLMs struggle with exact arithmetic and how do you fix it? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Wolfram | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-do-llms-struggle-with-exact-arithmetic-and-how-do-you-fix-it-7162) |

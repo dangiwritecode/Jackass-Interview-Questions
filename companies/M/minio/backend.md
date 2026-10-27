@@ -2,6 +2,8 @@
 
 [← back to MinIO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an object-storage/blob service backend (S3-like) that stores exabytes durably — how do you shard metadata handle erasure coding for durability and serve presigned time-limited uploads/downloads? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at MinIO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-object-storage-blob-service-backend-s3-like-that-stores-exab-28415) |

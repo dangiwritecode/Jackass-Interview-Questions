@@ -2,6 +2,8 @@
 
 [← back to Hulu](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Why not just put everything in Glacier Deep Archive and restore on demand? Walk me through where that reasoning breaks at org scale. | deep understanding | SDE-2/3, Architect/Principal | Storage Tiering & Lifecycle (Hot/Cold/Glacier) | Phone Screen, Onsite | Tech | Asked at Hulu | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=why-not-just-put-everything-in-glacier-deep-archive-and-restore-on-dem-126717) |

@@ -2,6 +2,8 @@
 
 [← back to Materialize](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you assess and manage the debt of a batch-oriented data pipeline that the business now needs to be real-time, without a rip-and-replace that risks the numbers the company reports to investors? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Materialize | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-assess-and-manage-the-debt-of-a-batch-oriented-data-pipelin-41472) |

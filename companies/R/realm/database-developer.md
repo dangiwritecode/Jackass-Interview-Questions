@@ -2,6 +2,8 @@
 
 [← back to Realm](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you determine whether an embedded or edge database is the right tooling choice for offline-first mobile experiences at scale? | deep understanding | SDE-2/3, Architect/Principal | Database Vendor & Tooling Strategy | Onsite, Hiring Manager | Tech | Asked at Realm | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-determine-whether-an-embedded-or-edge-database-is-the-ri-115378) |

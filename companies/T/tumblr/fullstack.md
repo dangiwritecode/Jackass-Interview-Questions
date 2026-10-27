@@ -2,6 +2,8 @@
 
 [← back to Tumblr](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your app must let power users theme their profile with custom CSS. Design the isolation so custom CSS can't exfiltrate data via url() or leak CSRF tokens through attribute selectors, and explain the sandbox. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Tumblr | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-app-must-let-power-users-theme-their-profile-with-custom-css-desi-19131) |

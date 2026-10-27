@@ -2,6 +2,8 @@
 
 [← back to Warpstream](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect an event-driven backbone so that a new consumer can be added, or an old one replayed from the beginning, without back-pressuring producers or blowing up storage, deciding retention, compaction, and tiered-storage strategy for the log at petabyte scale? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Warpstream | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-an-event-driven-backbone-so-that-a-new-consume-32180) |

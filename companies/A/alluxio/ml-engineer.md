@@ -2,6 +2,8 @@
 
 [← back to Alluxio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A training job reads terabytes from object storage and GPUs sit idle waiting on data. How would you architect the data-loading path on Kubernetes (local NVMe cache, streaming, sharded prefetch) so the input pipeline never starves the accelerators? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Alluxio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-training-job-reads-terabytes-from-object-storage-and-gpus-sit-idle-w-68485) |

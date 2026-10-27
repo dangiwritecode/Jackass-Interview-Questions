@@ -2,6 +2,8 @@
 
 [← back to Figma](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team proposes putting everything on Cosmos DB 'because it's serverless' — what probing questions and cost/latency modeling do you use to challenge or validate that decision? | deep understanding | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Figma | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-proposes-putting-everything-on-cosmos-db-because-it-s-serverles-115149) |

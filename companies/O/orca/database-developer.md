@@ -2,6 +2,8 @@
 
 [← back to Orca](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe your strategy for detecting shadow databases and unmanaged datastores that bypass your access-control governance entirely. | deep understanding | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Orca | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-your-strategy-for-detecting-shadow-databases-and-unmanaged-da-114116) |

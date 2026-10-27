@@ -2,6 +2,8 @@
 
 [← back to Tyk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a Node API gateway that authenticates, rate-limits, and routes to backends, and the trade-off of doing cross-cutting concerns at the gateway versus in each service. | deep understanding | SDE-1/2, SDE-2/3 | JavaScript | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Tyk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-node-api-gateway-that-authenticates-rate-li-22921) |

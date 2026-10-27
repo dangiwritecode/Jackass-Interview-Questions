@@ -2,6 +2,8 @@
 
 [← back to Sauce Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're the principal for a business unit whose full-stack test pyramid is inverted — thousands of flaky end-to-end browser tests, almost no unit tests. How do you re-shape the pyramid as a debt-paydown while keeping release confidence? | deep understanding | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at Sauce Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-the-principal-for-a-business-unit-whose-full-stack-test-pyramid-41430) |

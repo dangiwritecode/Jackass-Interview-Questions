@@ -2,6 +2,8 @@
 
 [← back to Mphasis](README.md)
 
+Questions 1–132 of 132.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Can a primary key column contain NULL values and why or why not? | basic concept | Fresher, SDE-1, SDE-1/2 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Mphasis | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=can-a-primary-key-column-contain-null-values-and-why-or-why-not-104088) |

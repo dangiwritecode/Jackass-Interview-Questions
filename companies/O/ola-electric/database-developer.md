@@ -2,6 +2,8 @@
 
 [← back to Ola Electric](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a time-series data platform on Amazon Timestream (or a self-managed alternative) for high-ingest IoT/telemetry — reason about the memory-store versus magnetic-store tiering, retention policy design, and query-cost model at billions of points/day. | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Ola Electric | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-time-series-data-platform-on-amazon-timestream--111858) |

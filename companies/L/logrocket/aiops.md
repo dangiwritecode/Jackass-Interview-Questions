@@ -2,6 +2,8 @@
 
 [← back to LogRocket](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design how consent and lawful basis flow into your Real-User-Monitoring pipeline so that session replays and RUM traces from users who did not consent to analytics are never captured — how do you enforce this at the SDK edge rather than filtering after collection? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at LogRocket | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-how-consent-and-lawful-basis-flow-into-your-real-user-monitorin-100232) |

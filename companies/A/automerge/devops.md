@@ -2,6 +2,8 @@
 
 [← back to Automerge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain when CRDTs are the right org-wide bet versus a coordination-based approach, and the operational tail you sign up for (tombstone/metadata growth, GC, merge semantics teams misunderstand). Where have you seen CRDTs be the wrong tool that looked right on paper? | deep understanding | SDE-2/3, Architect/Principal | Distributed Systems | Phone Screen, Onsite | Tech | Asked at Automerge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-when-crdts-are-the-right-org-wide-bet-versus-a-coordination-ba-52548) |

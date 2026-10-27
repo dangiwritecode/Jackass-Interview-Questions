@@ -2,6 +2,8 @@
 
 [← back to Vectara](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A build-vs-buy question for the whole retrieval layer of a RAG product: assemble Elasticsearch + your own chunking + reranking, or buy a managed RAG retrieval platform. As principal, weigh control, cost, data-gravity, and speed-to-market, and what you'd never outsource. | expertise | SDE-2/3, Architect/Principal | Elasticsearch & Search Systems | Phone Screen, Onsite | Tech | Asked at Vectara | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-build-vs-buy-question-for-the-whole-retrieval-layer-of-a-rag-product-35000) |

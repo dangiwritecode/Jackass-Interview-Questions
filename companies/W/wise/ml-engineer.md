@@ -2,6 +2,8 @@
 
 [← back to Wise](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A domain publishes a feature product with a 99.9% freshness SLA but a fraud model needs 99.99%. Architect SLA composition and dependency risk across a chain of ML data products in a mesh so the fraud team isn't held hostage. | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Wise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-domain-publishes-a-feature-product-with-a-99-9-freshness-sla-but-a-f-69684) |

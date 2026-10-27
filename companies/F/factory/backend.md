@@ -2,6 +2,8 @@
 
 [← back to Factory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A composite index (tenant_id, created_at) is fine for most tenants but one giant tenant makes range scans huge. Would you sub-partition by tenant, add a bucketed column, or split the tenant out? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at AI companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-composite-index-tenant-id-created-at-is-fine-for-most-tenants-but-on-25774) |

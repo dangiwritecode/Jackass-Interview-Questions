@@ -2,6 +2,8 @@
 
 [← back to LIC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the gateway's strategy for a hybrid where 20% of traffic is legacy SOAP/XML and 80% is JSON/REST; adjudicate whether protocol translation lives at the gateway forever or you set a sunset for the legacy path, and how you measure whether translation is a bridge or a permanent liability. | deep understanding | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at LIC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-gateway-s-strategy-for-a-hybrid-where-20-of-traffic-is-lega-39549) |

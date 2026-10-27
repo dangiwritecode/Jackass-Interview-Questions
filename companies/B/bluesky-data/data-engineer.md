@@ -2,6 +2,8 @@
 
 [← back to Bluesky Data](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a near-real-time cost-observability pipeline for the data platform that attributes spend down to individual queries, DAG tasks, and pipelines fast enough that engineers see the cost of a transformation in the same tools they debug it? What sampling and attribution accuracy trade-offs do you accept? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Bluesky Data | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-near-real-time-cost-observability-pipeline-f-125372) |

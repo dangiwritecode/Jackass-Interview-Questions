@@ -2,6 +2,8 @@
 
 [← back to Fortinet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is a VLAN and why would you segment a network into VLANs? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Networking Fundamentals (DNS/TCP-IP/Firewalls) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Fortinet | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-a-vlan-and-why-would-you-segment-a-network-into-vlans-44306) |

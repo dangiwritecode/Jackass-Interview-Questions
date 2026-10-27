@@ -2,6 +2,8 @@
 
 [← back to EDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide the platform's stance on running vector search on a shared primary RDS (with the app's OLTP) versus a dedicated cluster, at org scale. When is co-location acceptable and what SLO-protecting guardrails would you mandate to prevent OLTP starvation? | deep understanding | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at EDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-the-platform-s-stance-on-running-vector-search-on-a-sh-82487) |

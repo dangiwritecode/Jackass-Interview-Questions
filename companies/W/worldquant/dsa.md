@@ -2,6 +2,8 @@
 
 [← back to WorldQuant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Full-String Wildcard Pattern Matching with '.' and '*' | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Backtracking, Dynamic Programming, Recursion, String | DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at WorldQuant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=full-string-wildcard-pattern-matching-with-and-d10) |

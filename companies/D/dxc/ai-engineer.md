@@ -2,6 +2,8 @@
 
 [← back to DXC](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a phased strategy for a legacy enterprise (mainframe, SOAP, batch backends) to adopt agentic automation: wrap legacy systems as safe tools, handle their latency and flakiness, and sequence modernization without a big-bang rewrite. | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at DXC | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-phased-strategy-for-a-legacy-enterprise-mainframe-soap-batch--83096) |

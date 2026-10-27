@@ -2,6 +2,8 @@
 
 [← back to HackerOne](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle a review where the author disagrees with a security concern you raised and says it's 'not exploitable'? Walk me through the exchange. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Code Review & Mentorship | Onsite, Hiring Manager | Tech | Asked at HackerOne | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-review-where-the-author-disagrees-with-a-security--21820) |

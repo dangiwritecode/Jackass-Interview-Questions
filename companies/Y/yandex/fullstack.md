@@ -2,6 +2,8 @@
 
 [← back to Yandex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between a process and a thread? | basic concept | Fresher, SDE-1 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite, Hiring Manager | Tech | Asked at Search companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-a-process-and-a-thread-416) |

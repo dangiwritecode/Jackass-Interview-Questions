@@ -2,6 +2,8 @@
 
 [← back to StarRocks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the reference architecture for an agent operating over petabyte-scale data larger than any context window: compose search, aggregation, sampling, and progressive-disclosure tools so the model always gets a bounded, relevant slice. Where does relevance ranking live? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at StarRocks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-reference-architecture-for-an-agent-operating-over-petabyte-83092) |

@@ -2,6 +2,8 @@
 
 [← back to Patronus AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal peer argues ATAM is obsolete for GenAI because 'we govern with eval suites, guardrail configs, and CI checks now.' Defend or refute: where does a formal ATAM still add value that automated GenAI-governance checks structurally cannot? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Patronus AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-argues-atam-is-obsolete-for-genai-because-we-govern-w-83582) |

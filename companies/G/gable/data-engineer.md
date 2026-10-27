@@ -2,6 +2,8 @@
 
 [← back to Gable](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges your 'design the data contract before the pipeline' mandate: 'for an internal exploratory dataset that changes weekly, contract-first just slows us down.' Defend precisely where contract-first pays off and where it's ceremony, and how you tier rigor by dataset criticality. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Gable | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-design-the-data-contract-before-the-pip-125690) |

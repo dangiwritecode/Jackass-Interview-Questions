@@ -2,6 +2,8 @@
 
 [← back to Wiz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A cross-team architectural dispute: the security team wants all IAM in a single centrally-owned state (control), app teams want IAM co-located with their services (velocity). As principal, adjudicate and design the hybrid — what IAM lives central, what's delegated, and how policy guarantees the delegated part stays safe. | expertise | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Wiz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cross-team-architectural-dispute-the-security-team-wants-all-iam-in--35605) |

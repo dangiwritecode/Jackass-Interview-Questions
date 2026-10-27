@@ -2,6 +2,8 @@
 
 [← back to Hippo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the boundary between a model's confidence score and a business decision threshold so miscalibration doesn't quietly translate into disparate impact? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Hippo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-boundary-between-a-model-s-confidence-score-and--86078) |

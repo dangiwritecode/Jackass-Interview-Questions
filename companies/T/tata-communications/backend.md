@@ -2,6 +2,8 @@
 
 [← back to Tata Communications](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator mandates data residency in India for one product line but your architecture assumes a single global control plane. How do you carve out a regional data plane without forking the whole platform? | expertise | SDE-2/3, Architect/Principal | System Design | Phone Screen, Onsite | Tech | Asked at Telecom companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-mandates-data-residency-in-india-for-one-product-line-but--30989) |

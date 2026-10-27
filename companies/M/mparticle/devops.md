@@ -2,6 +2,8 @@
 
 [← back to mParticle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the governance of consent and lawful-basis for server-side and clickstream data that increasingly bypasses the browser (server-side tagging conversion APIs) — where the old cookie-banner model no longer sees the data flow? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at mParticle | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-governance-of-consent-and-lawful-basis-for-se-54074) |

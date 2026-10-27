@@ -2,6 +2,8 @@
 
 [← back to Byju's](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design an A/B test for a recommender where the treatment affects long-term retention rather than immediate clicks, given you can only run the test for two weeks? | expertise | SDE-1/2, SDE-2/3 | Recommendation Systems | Phone Screen, Onsite | Tech | Asked at Byju's | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-an-a-b-test-for-a-recommender-where-the-treatment-66480) |

@@ -2,6 +2,8 @@
 
 [← back to DeepSeek](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern the compliance implications of model distillation — a student model trained on a teacher's outputs may inherit memorized PII or biased decisions. How do you track lawful basis and risk through a distillation chain? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at DeepSeek | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-the-compliance-implications-of-mo-70038) |

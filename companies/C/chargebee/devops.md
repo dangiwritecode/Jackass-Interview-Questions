@@ -2,6 +2,8 @@
 
 [← back to Chargebee](README.md)
 
+Questions 1–83 of 83.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Convince a skeptical CTO that compliance controls should live in the developer platform rather than in a separate security portal — what is the architectural and cultural cost of the split-brain model and how do you quantify the toil it creates? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Chargebee | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=convince-a-skeptical-cto-that-compliance-controls-should-live-in-the-d-54039) |

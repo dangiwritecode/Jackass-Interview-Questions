@@ -2,6 +2,8 @@
 
 [← back to Buoyant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A follow-up on blast radius: 'you claim per-key CP degradation, but your load balancer and service mesh route by service, not key. How do you make the routing layer partition-aware so only affected keys lose availability?' Design it. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Buoyant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-follow-up-on-blast-radius-you-claim-per-key-cp-degradation-but-your--32262) |

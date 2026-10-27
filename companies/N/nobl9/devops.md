@@ -2,6 +2,8 @@
 
 [← back to Nobl9](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd expose region and replication health to product/on-call via a simple 'is it safe to fail over right now' readiness check that aggregates lag, capacity, and dependency status. | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Nobl9 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-expose-region-and-replication-health-to-product-on-c-47625) |

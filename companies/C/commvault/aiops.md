@@ -2,6 +2,8 @@
 
 [← back to Commvault](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks you to defend your choice of stream-processing framework against a credible alternative you rejected, focusing not on features but on the multi-year org consequences: hiring, community, operational lock-in. Make the honest case. | expertise | SDE-2/3, Architect/Principal | Real-time Streaming Architecture | Phone Screen, Onsite | Tech | Asked at Data companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-to-defend-your-choice-of-stream-processing-frame-100588) |

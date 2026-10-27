@@ -2,6 +2,8 @@
 
 [← back to BlackRock](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your team proposes GitOps with progressive sync waves across 300 apps, but a bad shared-library bump could roll to everything at once. As principal, how would you architect blast-radius controls in the GitOps layer (sync windows, wave gating, cluster canaries) so no single merge can brown out the fleet? | expertise | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at BlackRock | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-team-proposes-gitops-with-progressive-sync-waves-across-300-apps--39034) |

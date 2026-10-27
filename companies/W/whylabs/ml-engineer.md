@@ -2,6 +2,8 @@
 
 [← back to WhyLabs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a system to continuously monitor deployed post-trained models for alignment drift and automatically flag when a refresh RLHF cycle is warranted? | deep understanding | SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at WhyLabs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-system-to-continuously-monitor-deployed-post-71317) |

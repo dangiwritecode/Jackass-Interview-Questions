@@ -2,6 +2,8 @@
 
 [← back to BlackRock](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a model risk dashboard for the CRO. What signals go on it, at what granularity, and how do you avoid alert fatigue at the executive level? | deep understanding | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at BlackRock | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-model-risk-dashboard-for-the-cro-what-signals-go-on-it-at-wha-71801) |

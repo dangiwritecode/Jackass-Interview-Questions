@@ -2,6 +2,8 @@
 
 [← back to Crusoe](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern GPU-cluster access as a compliance control — thousands of engineers sharing scarce accelerators where a job can exfiltrate training data. What isolation attribution and JIT-access design keeps SOC2 access controls intact? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Crusoe | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-gpu-cluster-access-as-a-complianc-69999) |

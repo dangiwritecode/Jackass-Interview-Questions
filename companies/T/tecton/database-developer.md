@@ -2,6 +2,8 @@
 
 [← back to Tecton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd secure feature stores and ML training pipelines so that models can't be trained on data the requesting team isn't authorized to see. | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Tecton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-secure-feature-stores-and-ml-training-pipelines-so-t-114106) |

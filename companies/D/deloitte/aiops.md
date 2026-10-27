@@ -2,6 +2,8 @@
 
 [← back to Deloitte](README.md)
 
+Questions 1–104 of 104.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you would present a build-vs-buy recommendation for the correlation engine to a skeptical CTO with a cost-of-delay lens. | expertise | SDE-2/3, Architect/Principal | Multi-Vendor Orchestration | Onsite, Hiring Manager | Tech | Asked at Deloitte | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-would-present-a-build-vs-buy-recommendation-for-the-c-103333) |

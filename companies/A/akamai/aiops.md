@@ -2,6 +2,8 @@
 
 [← back to Akamai](README.md)
 
+Questions 1–78 of 78.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A probe on DR: your change-risk scoring service and its feature store both live in one region that just failed. What's your architected fallback so deploys stay safe but not blocked? | expertise | SDE-2/3, Architect/Principal | Change Risk Prediction | Phone Screen, Onsite | Tech | Asked at Akamai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-probe-on-dr-your-change-risk-scoring-service-and-its-feature-store-b-102576) |

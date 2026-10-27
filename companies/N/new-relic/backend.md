@@ -2,6 +2,8 @@
 
 [← back to New Relic](README.md)
 
+Questions 1–141 of 141.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd architect a 'consistency observability' layer that lets any on-call engineer, during an incident, instantly see which services are currently in their CP-branch, AP-branch, or a partition-induced degraded state across the whole system. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at New Relic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-architect-a-consistency-observability-layer-that-let-32236) |

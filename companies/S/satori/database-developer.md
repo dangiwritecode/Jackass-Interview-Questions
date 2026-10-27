@@ -2,6 +2,8 @@
 
 [← back to Satori](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Defend a build-vs-buy decision for a centralized data-access proxy that mediates all production queries versus embedding controls in every datastore. What tips you either way at scale? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Satori | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=defend-a-build-vs-buy-decision-for-a-centralized-data-access-proxy-tha-114047) |

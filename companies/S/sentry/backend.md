@@ -2,6 +2,8 @@
 
 [← back to SENTRY](README.md)
 
+Questions 1–91 of 91.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A query planner keeps underestimating rows because of correlated predicates on (country, language). Walk through how you'd detect and correct the estimate without hints. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at SENTRY | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-query-planner-keeps-underestimating-rows-because-of-correlated-predi-25734) |

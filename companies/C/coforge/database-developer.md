@@ -2,6 +2,8 @@
 
 [← back to Coforge](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a schema for a school system tracking students courses and enrollments with grades. | intermediate experience | Fresher, SDE-1, SDE-1/2 | DBMS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Coforge | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-schema-for-a-school-system-tracking-students-courses-and-enro-104106) |

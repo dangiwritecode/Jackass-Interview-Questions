@@ -2,6 +2,8 @@
 
 [← back to Split-Harness](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must decide whether to build a homegrown feature-flag/config service on DynamoDB or adopt AppConfig for org-wide dynamic config — how do you weigh propagation latency, blast-radius of a bad flag, and the operational cost of owning it? | deep understanding | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Split-Harness | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-decide-whether-to-build-a-homegrown-feature-flag-config-servi-39312) |

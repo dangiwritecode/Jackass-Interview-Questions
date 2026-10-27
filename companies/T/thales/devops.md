@@ -2,6 +2,8 @@
 
 [← back to Thales](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A customer demands their own encryption keys (BYOK) that they can revoke — how does your platform keep functioning for indexing and backups when the key can be cut off mid-operation? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Thales | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-customer-demands-their-own-encryption-keys-byok-that-they-can-revoke-48010) |

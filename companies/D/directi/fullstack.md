@@ -2,6 +2,8 @@
 
 [← back to Directi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reverse a singly linked list iteratively in C++? What three pointers do you track? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Directi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reverse-a-singly-linked-list-iteratively-in-c-what-three-po-9384) |

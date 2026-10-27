@@ -2,6 +2,8 @@
 
 [← back to Yubico](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your organization is adopting passkeys/WebAuthn for engineer SSO. Explain what phishing-resistant authentication actually buys you over TOTP, and how you'd handle the enrollment and recovery flow without opening a social-engineering hole. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Yubico | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-organization-is-adopting-passkeys-webauthn-for-engineer-sso-expla-47904) |

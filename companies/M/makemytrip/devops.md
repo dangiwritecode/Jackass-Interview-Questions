@@ -2,6 +2,8 @@
 
 [← back to MakeMyTrip](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect SLIs that stay coherent when a single user journey traverses your edge, a partner's API, and your backend — and you can only contractually influence the reliability of your own two-thirds? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at MakeMyTrip | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-slis-that-stay-coherent-when-a-single-user-journe-54168) |

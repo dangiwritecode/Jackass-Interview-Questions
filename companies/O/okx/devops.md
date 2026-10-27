@@ -2,6 +2,8 @@
 
 [← back to OKX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks about durability of savings: your org runs an annual cost-optimization campaign that saves 15-20% but half regresses within two quarters. Diagnose the structural reasons savings regress at org scale and design the governance — guardrails, defaults, ratchets — that makes reductions permanent rather than a sawtooth. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Crypto companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-about-durability-of-savings-your-org-runs-an-annual--53891) |

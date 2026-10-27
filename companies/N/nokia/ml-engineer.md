@@ -2,6 +2,8 @@
 
 [← back to Nokia](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an ML platform to comply with the EU AI Act's high-risk-system requirements without freezing your teams' velocity and which controls do you centralize? | expertise | SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at Nokia | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-ml-platform-to-comply-with-the-eu-ai-act-s-hig-70530) |

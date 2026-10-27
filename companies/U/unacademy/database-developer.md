@@ -2,6 +2,8 @@
 
 [← back to Unacademy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Given tables Students and Enrollments write a query to list students not enrolled in any course. | intermediate experience | Fresher, SDE-1, SDE-1/2 | Joins & Subqueries | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Unacademy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=given-tables-students-and-enrollments-write-a-query-to-list-students-n-105679) |

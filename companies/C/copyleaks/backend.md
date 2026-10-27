@@ -2,6 +2,8 @@
 
 [← back to Copyleaks](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A batch computes pairwise Jaccard similarity across millions of documents and is quadratic; how do MinHash signatures plus LSH banding cut the comparisons, and how do you tune bands vs rows for recall? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Copyleaks | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-batch-computes-pairwise-jaccard-similarity-across-millions-of-docume-21998) |

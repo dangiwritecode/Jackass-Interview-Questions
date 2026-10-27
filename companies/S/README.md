@@ -11,28 +11,28 @@
 | [SailPoint](sailpoint/README.md) | Tier 3 | 540 | 39 |
 | [Sakana AI](sakana-ai/README.md) | Tier 3 | 540 | 1 |
 | [Salad](salad/README.md) | Tier 3 | 540 | 1 |
-| [Salesforce](salesforce/README.md) | Tier 2 | 1,333 | 6,158 |
+| [Salesforce](salesforce/README.md) | Tier 2 | 6,658 | 6,158 |
 | [Salsify](salsify/README.md) | Tier 3 | 540 | 1 |
 | [Salt-Security](salt-security/README.md) | Tier 3 | 540 | 1 |
 | [Sama](sama/README.md) | Tier 4 | 540 | 5 |
 | [SambaNova](sambanova/README.md) | Tier 2 | 540 | 20 |
 | [Samsara](samsara/README.md) | Tier 2 | 540 | 7 |
-| [Samsung](samsung/README.md) | Tier 2 | 810 | 537 |
+| [Samsung](samsung/README.md) | Tier 2 | 1,056 | 537 |
 | [Sana](sana/README.md) | Tier 3 | 540 | 1 |
 | [SandboxAQ](sandboxaq/README.md) | Tier 4 | 540 | 1 |
 | [Sanity](sanity/README.md) | Tier 3 | 540 | 11 |
 | [Sanofi](sanofi/README.md) | Tier 2 | 540 | 1 |
-| [SAP](sap/README.md) | Tier 2 | 1,188 | 2,799 |
+| [SAP](sap/README.md) | Tier 2 | 3,110 | 2,799 |
 | [Sapient](sapient/README.md) | Tier 4 | 540 | 2 |
 | [Sardine](sardine/README.md) | Tier 3 | 540 | 2 |
-| [Sarvam AI](sarvam-ai/README.md) | Tier 3 | 720 | 772 |
+| [Sarvam AI](sarvam-ai/README.md) | Tier 3 | 1,149 | 772 |
 | [SAS](sas/README.md) | Tier 2 | 540 | 16 |
 | [Satori](satori/README.md) | Tier 4 | 540 | 2 |
 | [Sauce Labs](sauce-labs/README.md) | Tier 3 | 540 | 8 |
 | [Saviynt](saviynt/README.md) | Tier 3 | 540 | 3 |
 | [SBI](sbi/README.md) | Tier 4 | 540 | 20 |
 | [SBI-Card](sbi-card/README.md) | Tier 2 | 540 | 1 |
-| [Scale AI](scale-ai/README.md) | Tier 2 | 720 | 1,551 |
+| [Scale AI](scale-ai/README.md) | Tier 2 | 1,894 | 1,551 |
 | [Scalr](scalr/README.md) | Tier 4 | 540 | 2 |
 | [Schellman](schellman/README.md) | Tier 3 | 540 | 10 |
 | [Schneider](schneider/README.md) | Tier 3 | 540 | 6 |
@@ -40,7 +40,7 @@
 | [Schwarz Group](schwarz-group/README.md) | Tier 2 | 540 | 1 |
 | [Score-CNCF](score-cncf/README.md) | Tier 3 | 540 | 1 |
 | [Scrapybara](scrapybara/README.md) | Tier 4 | 540 | 1 |
-| [Scylla](scylla/README.md) | Tier 3 | 714 | 454 |
+| [Scylla](scylla/README.md) | Tier 3 | 826 | 454 |
 | [Sea Group](sea-group/README.md) | Tier 2 | 540 | 4 |
 | [Seagate](seagate/README.md) | Tier 3 | 540 | 1 |
 | [SeatGeek](seatgeek/README.md) | Tier 2 | 540 | 1 |
@@ -50,7 +50,7 @@
 | [Secureframe](secureframe/README.md) | Tier 3 | 540 | 2 |
 | [Securiti](securiti/README.md) | Tier 3 | 540 | 2 |
 | [SecurityScorecard](securityscorecard/README.md) | Tier 4 | 540 | 2 |
-| [Segment](segment/README.md) | Tier 3 | 762 | 636 |
+| [Segment](segment/README.md) | Tier 3 | 937 | 636 |
 | [Seldon](seldon/README.md) | Tier 4 | 540 | 42 |
 | [SELECT](select/README.md) | Tier 3 | 540 | 3 |
 | [Select Star](select-star/README.md) | Tier 4 | 540 | 27 |
@@ -66,25 +66,25 @@
 | [Senzing](senzing/README.md) | Tier 4 | 540 | 11 |
 | [Sephora](sephora/README.md) | Tier 2 | 540 | 1 |
 | [Serverless](serverless/README.md) | Tier 3 | 540 | 11 |
-| [ServiceNow](servicenow/README.md) | Tier 2 | 1,103 | 5,209 |
+| [ServiceNow](servicenow/README.md) | Tier 2 | 5,256 | 5,209 |
 | [Setu](setu/README.md) | Tier 3 | 540 | 17 |
 | [Shadowfax](shadowfax/README.md) | Tier 3 | 540 | 1 |
-| [ShareChat](sharechat/README.md) | Tier 3 | 740 | 468 |
+| [ShareChat](sharechat/README.md) | Tier 3 | 807 | 468 |
 | [Shein](shein/README.md) | Tier 2 | 540 | 1 |
 | [Shell](shell/README.md) | Tier 2 | 540 | 3 |
 | [Shiprocket](shiprocket/README.md) | Tier 3 | 540 | 3 |
 | [Shopee](shopee/README.md) | Tier 2 | 540 | 13 |
-| [Shopify](shopify/README.md) | Tier 2 | 1,151 | 3,797 |
+| [Shopify](shopify/README.md) | Tier 2 | 4,227 | 3,797 |
 | [Shortcut](shortcut/README.md) | Tier 4 | 540 | 1 |
 | [Shutterstock](shutterstock/README.md) | Tier 2 | 540 | 15 |
 | [Sidero](sidero/README.md) | Tier 3 | 540 | 2 |
 | [Siemens](siemens/README.md) | Tier 3 | 540 | 109 |
 | [Siemens Healthineers](siemens-healthineers/README.md) | Tier 3 | 540 | 2 |
-| [Sierra](sierra/README.md) | Tier 3 | 630 | 275 |
+| [Sierra](sierra/README.md) | Tier 3 | 732 | 275 |
 | [Sift](sift/README.md) | Tier 3 | 540 | 17 |
 | [SIG](sig/README.md) | Tier 1 | 540 | 10 |
 | [Sigma](sigma/README.md) | Tier 5 | 540 | 6 |
-| [Sigmoid](sigmoid/README.md) | Tier 3 | 720 | 440 |
+| [Sigmoid](sigmoid/README.md) | Tier 3 | 849 | 440 |
 | [Signadot](signadot/README.md) | Tier 4 | 540 | 6 |
 | [Signal](signal/README.md) | Tier 3 | 540 | 31 |
 | [Signifyd](signifyd/README.md) | Tier 3 | 540 | 9 |
@@ -114,15 +114,15 @@
 | [SmartBear](smartbear/README.md) | Tier 3 | 540 | 7 |
 | [smartnews](smartnews/README.md) | Tier 3 | 540 | 2 |
 | [Smartsheet](smartsheet/README.md) | Tier 3 | 540 | 2 |
-| [Snap Inc.](snap-inc/README.md) | Tier 2 | 644 | 459 |
+| [Snap Inc.](snap-inc/README.md) | Tier 2 | 750 | 459 |
 | [Snapchat](snapchat/README.md) | Tier 1 | 540 | 26 |
 | [Snapdeal](snapdeal/README.md) | Tier 3 | 540 | 47 |
 | [Snorkel AI](snorkel-ai/README.md) | Tier 3 | 540 | 94 |
 | [Snow-Software](snow-software/README.md) | Tier 3 | 540 | 1 |
 | [Snowball](snowball/README.md) | Tier 2 | 540 | 1 |
-| [Snowflake](snowflake/README.md) | Tier 2 | 1,282 | 16,887 |
+| [Snowflake](snowflake/README.md) | Tier 2 | 17,228 | 16,887 |
 | [Snowplow](snowplow/README.md) | Tier 3 | 540 | 8 |
-| [Snyk](snyk/README.md) | Tier 3 | 801 | 777 |
+| [Snyk](snyk/README.md) | Tier 3 | 1,099 | 777 |
 | [Societe Generale](societe-generale/README.md) | Tier 3 | 540 | 2 |
 | [Socket](socket/README.md) | Tier 4 | 540 | 6 |
 | [Soda](soda/README.md) | Tier 3 | 540 | 60 |
@@ -158,12 +158,12 @@
 | [Split-Harness](split-harness/README.md) | Tier 3 | 540 | 6 |
 | [Splitit](splitit/README.md) | Tier 3 | 540 | 1 |
 | [Splitwise](splitwise/README.md) | Tier 2 | 540 | 9 |
-| [Splunk](splunk/README.md) | Tier 2 | 826 | 7,540 |
+| [Splunk](splunk/README.md) | Tier 2 | 7,707 | 7,540 |
 | [Sportskeeda](sportskeeda/README.md) | Tier 3 | 540 | 1 |
 | [Spot-by-NetApp](spot-by-netapp/README.md) | Tier 3 | 540 | 13 |
 | [Spot-NetApp](spot-netapp/README.md) | Tier 3 | 540 | 7 |
 | [Spot.io](spot-io/README.md) | Tier 4 | 540 | 22 |
-| [Spotify](spotify/README.md) | Tier 2 | 1,148 | 2,771 |
+| [Spotify](spotify/README.md) | Tier 2 | 2,892 | 2,771 |
 | [Springer](springer/README.md) | Tier 3 | 540 | 1 |
 | [Sprinklr](sprinklr/README.md) | Tier 3 | 540 | 127 |
 | [Sqitch](sqitch/README.md) | Tier 3 | 540 | 5 |
@@ -209,15 +209,15 @@
 | [StreamNative](streamnative/README.md) | Tier 2 | 540 | 13 |
 | [StreamSets](streamsets/README.md) | Tier 3 | 540 | 9 |
 | [Striim](striim/README.md) | Tier 4 | 540 | 1 |
-| [Stripe](stripe/README.md) | Tier 1 | 1,260 | 16,174 |
+| [Stripe](stripe/README.md) | Tier 1 | 17,580 | 16,174 |
 | [StrongDM](strongdm/README.md) | Tier 4 | 540 | 9 |
 | [Styra](styra/README.md) | Tier 3 | 615 | 214 |
 | [Stytch](stytch/README.md) | Tier 3 | 540 | 1 |
 | [Suborbital](suborbital/README.md) | Tier 4 | 540 | 5 |
 | [Substack](substack/README.md) | Tier 3 | 540 | 10 |
 | [Sucuri](sucuri/README.md) | Tier 4 | 540 | 1 |
-| [Sumo Logic](sumo-logic/README.md) | Tier 3 | 630 | 610 |
-| [Supabase](supabase/README.md) | Tier 3 | 775 | 517 |
+| [Sumo Logic](sumo-logic/README.md) | Tier 3 | 1,061 | 610 |
+| [Supabase](supabase/README.md) | Tier 3 | 850 | 517 |
 | [SuperAnnotate](superannotate/README.md) | Tier 4 | 540 | 1 |
 | [Superblocks](superblocks/README.md) | Tier 4 | 540 | 1 |
 | [Supercell](supercell/README.md) | Tier 2 | 540 | 6 |
@@ -232,7 +232,7 @@
 | [SwaggerHub](swaggerhub/README.md) | Tier 3 | 540 | 1 |
 | [Swarmia](swarmia/README.md) | Tier 3 | 540 | 3 |
 | [SWIFT](swift/README.md) | Tier 2 | 540 | 2 |
-| [Swiggy](swiggy/README.md) | Tier 2 | 1,260 | 32,513 |
+| [Swiggy](swiggy/README.md) | Tier 2 | 36,922 | 32,513 |
 | [Sybase](sybase/README.md) | Tier 3 | 540 | 1 |
 | [Symantec](symantec/README.md) | Tier 3 | 540 | 1 |
 | [Synadia](synadia/README.md) | Tier 4 | 540 | 1 |

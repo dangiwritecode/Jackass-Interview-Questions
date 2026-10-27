@@ -2,6 +2,8 @@
 
 [← back to FireHydrant](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a company-wide incident-response platform as a paved-road internal product — declare, page, coordinate, communicate, retro — and get 50 autonomous teams to adopt it without a top-down mandate? | expertise | SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | Asked at FireHydrant | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-company-wide-incident-response-platform-as-a-pa-53220) |

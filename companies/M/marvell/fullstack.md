@@ -2,6 +2,8 @@
 
 [← back to Marvell](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Two threads occasionally read a torn value from a plain 64-bit counter on a 32-bit build. How do you reason about atomicity of loads/stores by type and platform, and what's the correct fix? | deep understanding | SDE-1/2, SDE-2/3 | C++ | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Marvell | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=two-threads-occasionally-read-a-torn-value-from-a-plain-64-bit-counter-16818) |

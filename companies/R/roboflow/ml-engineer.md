@@ -2,6 +2,8 @@
 
 [← back to Roboflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A CNN trained with cv2 (BGR) preprocessing is served behind an API that decodes images with PIL (RGB). How would this channel-order mismatch manifest in metrics and how would you catch it in CI? | deep understanding | SDE-1/2, SDE-2/3 | Computer Vision Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Roboflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cnn-trained-with-cv2-bgr-preprocessing-is-served-behind-an-api-that--66272) |

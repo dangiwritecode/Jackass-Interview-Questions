@@ -2,6 +2,8 @@
 
 [← back to The Guild](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect caching for a GraphQL federation gateway so that each subgraph's differing cache semantics compose into a coherent, cacheable supergraph response without leaking one subgraph's staleness into another? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at The Guild | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-caching-for-a-graphql-federation-gateway-so-th-38536) |

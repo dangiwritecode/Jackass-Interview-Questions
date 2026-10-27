@@ -2,6 +2,8 @@
 
 [← back to F5](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A client library retries GET on connection reset but a load balancer sometimes returns a cached 500 body for those retries, masking recovery. How do you make sure transient 5xx aren't cached and retries actually reach a healthy backend? | deep understanding | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at F5 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-client-library-retries-get-on-connection-reset-but-a-load-balancer-s-23964) |

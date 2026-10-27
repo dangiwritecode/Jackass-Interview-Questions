@@ -2,6 +2,8 @@
 
 [← back to Chargebee](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd design partition-key strategy in Cosmos DB for a multi-tenant SaaS so no tenant becomes a hot partition — how does that constrain your data model years down the line? | expertise | SDE-2/3, Architect/Principal | Cloud Database Strategy (RDS/Aurora/Cosmos) | Onsite, Hiring Manager | Tech | Asked at Chargebee | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-design-partition-key-strategy-in-cosmos-db-for-a-mu-115158) |

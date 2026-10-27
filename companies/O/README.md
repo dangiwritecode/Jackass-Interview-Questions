@@ -14,10 +14,10 @@
 | [Odigos](odigos/README.md) | Tier 3 | 540 | 1 |
 | [Odoo](odoo/README.md) | Tier 3 | 540 | 2 |
 | [Ohmconnect](ohmconnect/README.md) | Tier 4 | 540 | 1 |
-| [Okta](okta/README.md) | Tier 2 | 898 | 1,469 |
+| [Okta](okta/README.md) | Tier 2 | 1,790 | 1,469 |
 | [Okteto](okteto/README.md) | Tier 3 | 540 | 7 |
 | [OKX](okx/README.md) | Tier 3 | 540 | 1 |
-| [Ola](ola/README.md) | Tier 2 | 759 | 484 |
+| [Ola](ola/README.md) | Tier 2 | 770 | 484 |
 | [Ola Electric](ola-electric/README.md) | Tier 2 | 540 | 14 |
 | [Ola Krutrim](ola-krutrim/README.md) | Tier 3 | 540 | 70 |
 | [Ollama](ollama/README.md) | Tier 3 | 540 | 18 |
@@ -32,7 +32,7 @@
 | [Ontotext](ontotext/README.md) | Tier 3 | 540 | 4 |
 | [Opal](opal/README.md) | Tier 4 | 540 | 1 |
 | [Opaque Systems](opaque-systems/README.md) | Tier 3 | 540 | 1 |
-| [OpenAI](openai/README.md) | Tier 1 | 1,068 | 12,379 |
+| [OpenAI](openai/README.md) | Tier 1 | 12,959 | 12,379 |
 | [OpenBao](openbao/README.md) | Tier 4 | 540 | 1 |
 | [OpenMeter](openmeter/README.md) | Tier 3 | 540 | 5 |
 | [OpenMined](openmined/README.md) | Tier 5 | 540 | 9 |
@@ -48,7 +48,7 @@
 | [Optiver](optiver/README.md) | Tier 1 | 540 | 39 |
 | [Optum](optum/README.md) | Tier 3 | 613 | 297 |
 | [Optuna/PFN](optuna-pfn/README.md) | Tier 3 | 540 | 3 |
-| [Oracle](oracle/README.md) | Tier 2 | 1,279 | 7,208 |
+| [Oracle](oracle/README.md) | Tier 2 | 8,024 | 7,208 |
 | [Orange](orange/README.md) | Tier 3 | 540 | 2 |
 | [Orb](orb/README.md) | Tier 4 | 540 | 2 |
 | [Orca](orca/README.md) | Tier 3 | 540 | 4 |

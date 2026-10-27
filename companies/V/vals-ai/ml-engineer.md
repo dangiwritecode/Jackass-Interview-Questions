@@ -2,6 +2,8 @@
 
 [← back to Vals AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would use pairwise LLM-as-judge to score model outputs and what biases you must control for in that judge. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Post-training (SFT/DPO/RLHF) | Phone Screen, Onsite | Tech | Asked at Vals AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-use-pairwise-llm-as-judge-to-score-model-outputs-68143) |

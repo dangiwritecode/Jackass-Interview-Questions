@@ -2,6 +2,8 @@
 
 [← back to Box](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is your framework for deciding which query classes are safe to route to replicas, and how do you keep that classification honest as the codebase evolves? | deep understanding | SDE-2/3, Architect/Principal | Read/Write Splitting | Phone Screen, Onsite | Tech | Asked at Box | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-your-framework-for-deciding-which-query-classes-are-safe-to-ro-115448) |

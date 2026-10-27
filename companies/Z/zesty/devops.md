@@ -2,6 +2,8 @@
 
 [← back to Zesty](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org is deciding whether to invest in an internal autoscaling/bin-packing platform or adopt a commercial one (Karpenter-based product, Cast AI, etc.). Walk me through the build-vs-buy analysis at fleet scale — where the vendor's economics and your control needs collide. | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Zesty | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-is-deciding-whether-to-invest-in-an-internal-autoscaling-bin--53007) |

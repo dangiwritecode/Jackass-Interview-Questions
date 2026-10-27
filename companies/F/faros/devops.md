@@ -2,6 +2,8 @@
 
 [← back to Faros](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What are the arguments for and against building your own DORA platform vs buying (LinearB, Faros, Sleuth, Haystack, GitLab Value Stream) at a 5000-engineer org, and how would you frame the build-vs-buy decision? | expertise | SDE-2/3, Architect/Principal | DORA Metrics | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Faros | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-are-the-arguments-for-and-against-building-your-own-dora-platform-56448) |

@@ -2,6 +2,8 @@
 
 [← back to Dropbox](README.md)
 
+Questions 1–132 of 132.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you evolve the gateway to support a gradual migration from REST to gRPC (and gRPC-Web for browsers) across the org over 3 years, fronting mixed protocols during the transition, and decide whether to standardize on one protocol org-wide or stay polyglot? | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Dropbox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-evolve-the-gateway-to-support-a-gradual-migration-from-rest-34594) |

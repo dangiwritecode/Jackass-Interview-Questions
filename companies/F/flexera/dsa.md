@@ -2,6 +2,8 @@
 
 [← back to Flexera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Smallest String After Resolving All Markers | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Bucketed Stacks, Greedy, Hash Table, Heap (Priority Queue), Stack, String | Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Flexera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=smallest-string-after-resolving-all-markers-d2878) |

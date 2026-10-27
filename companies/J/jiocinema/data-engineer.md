@@ -2,6 +2,8 @@
 
 [← back to JioCinema](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you compute a 7-day rolling sum where you order by an integer day-number instead of a date? Why might that be simpler? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at JioCinema | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-compute-a-7-day-rolling-sum-where-you-order-by-an-intege-119026) |

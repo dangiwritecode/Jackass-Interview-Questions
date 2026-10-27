@@ -2,6 +2,8 @@
 
 [← back to Soundcloud](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a Prometheus exporter in Go using the client_golang library. How do you implement a Collector versus registering static gauges, and why does the Collector interface matter for metrics that must be scraped fresh each time? | intermediate experience | SDE-1/2, SDE-2/3 | Go | Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Soundcloud | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-prometheus-exporter-in-go-using-the-client-golang-library-how-45222) |

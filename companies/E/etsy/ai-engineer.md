@@ -2,6 +2,8 @@
 
 [← back to Etsy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you would measure whether stemming versus lemmatization actually changes end-to-end search relevance rather than just token counts. | intermediate experience | SDE-1/2, SDE-2/3 | NLP Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Etsy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-would-measure-whether-stemming-versus-lemmatization-ac-79418) |

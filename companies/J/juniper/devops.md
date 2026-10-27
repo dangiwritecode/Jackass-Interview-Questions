@@ -2,6 +2,8 @@
 
 [← back to Juniper](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is DHCP and what does it hand out to a device joining a network? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Networking Fundamentals (DNS/TCP-IP/Firewalls) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Juniper | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-dhcp-and-what-does-it-hand-out-to-a-device-joining-a-network-44245) |

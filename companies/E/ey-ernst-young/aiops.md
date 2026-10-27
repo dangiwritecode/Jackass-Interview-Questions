@@ -2,6 +2,8 @@
 
 [← back to EY (Ernst & Young)](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you handle late-arriving log events that miss their window, using allowed lateness and side outputs, without corrupting anomaly counts? | deep understanding | SDE-1/2, SDE-2/3 | Stream Processing (Apache Flink) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at EY (Ernst & Young) | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-late-arriving-log-events-that-miss-their-window-u-97255) |

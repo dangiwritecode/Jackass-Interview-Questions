@@ -2,6 +2,8 @@
 
 [← back to Bank of America](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the enterprise pattern for a hybrid-cloud data estate where the system-of-record warehouse is on-prem (regulatory) but ML and BI run in cloud. How do you handle the WAN as a hard dependency, what runs degraded when the link drops, and where do you cache versus re-fetch? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Bank of America | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-enterprise-pattern-for-a-hybrid-cloud-data-estate-where-the-125698) |

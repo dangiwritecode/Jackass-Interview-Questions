@@ -2,6 +2,8 @@
 
 [← back to Vellum](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Decide the build-vs-buy for an agent framework vendor promising orchestration, observability, and tool registries out of the box. What evaluation criteria and exit-cost analysis do you present before committing the org, and what's your lock-in test? | deep understanding | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Vellum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=decide-the-build-vs-buy-for-an-agent-framework-vendor-promising-orches-83105) |

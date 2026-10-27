@@ -2,6 +2,8 @@
 
 [← back to SendGrid](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd handle topology when 30% of critical traffic runs through third-party SaaS you can't instrument. Design the strategy for representing and monitoring those opaque dependencies at scale. | expertise | SDE-2/3, Architect/Principal | Topology & Dependency Mapping | Phone Screen, Onsite | Tech | Asked at SendGrid | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-handle-topology-when-30-of-critical-traf-102073) |

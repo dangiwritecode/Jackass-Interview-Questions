@@ -2,6 +2,8 @@
 
 [← back to NeMo Guardrails](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide between fine-tuning for safety/refusal behavior in-house versus relying on the vendor's alignment and adding a guardrail layer on top? | deep understanding | SDE-2/3, Architect/Principal | LLM Architecture Selection (Build vs Buy vs Fine-tune) | Onsite, Hiring Manager | Tech | Asked at NeMo Guardrails | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-fine-tuning-for-safety-refusal-behavior-in-h-86313) |

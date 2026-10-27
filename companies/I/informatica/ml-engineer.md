@@ -2,6 +2,8 @@
 
 [← back to Informatica](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how 'data mesh vs data fabric' plays out for ML: are automated metadata-driven feature integration (fabric) and decentralized feature ownership (mesh) competing or complementary in your target architecture? Where does each sit? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Informatica | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-data-mesh-vs-data-fabric-plays-out-for-ml-are-automated-me-69767) |

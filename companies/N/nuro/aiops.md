@@ -2,6 +2,8 @@
 
 [← back to Nuro](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the data-loader so GPUs never stall on input, at the scale where a single training job reads petabytes per epoch? Where do you put shuffling, decoding, and augmentation so CPU or network doesn't become the hidden scaling wall? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Autonomous companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-data-loader-so-gpus-never-stall-on-input-a-100648) |

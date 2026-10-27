@@ -2,6 +2,8 @@
 
 [← back to Gaana](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a frontend architecture that supports real-time multi-device continuity (start on phone, continue on TV/web) — how do you sync session, playback position, and UI state across devices? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Gaana | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-frontend-architecture-that-supports-real-time-multi-device-co-40087) |

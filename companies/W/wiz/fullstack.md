@@ -2,6 +2,8 @@
 
 [← back to Wiz](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probe: 'you built a policy engine that checks the resolved plan, but a resource created outside Terraform can still violate every policy you wrote. Isn't your entire compliance story only as good as your Terraform coverage?' Defend the gap and design the closing control. | expertise | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Wiz | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probe-you-built-a-policy-engine-that-checks-the-resolved--39953) |

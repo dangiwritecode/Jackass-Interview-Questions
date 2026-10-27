@@ -2,6 +2,8 @@
 
 [← back to Cure.fit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to choose the consistency boundary for a healthcare workflow (order lab, run test, publish result, bill) where a wrong result is a patient-safety issue. Where is strong consistency non-negotiable, where is a saga acceptable, and how do you defend that to regulators? | expertise | SDE-2/3, Architect/Principal | Distributed Transactions & Saga Pattern | Phone Screen, Onsite | Tech | Asked at Cure.fit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-choose-the-consistency-boundary-for-a-healthcare-workf-34185) |

@@ -2,6 +2,8 @@
 
 [← back to Bumble](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you handle network effects in an A/B test for a social-feed ranking model where treatment users influence control users? | expertise | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at Bumble | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-handle-network-effects-in-an-a-b-test-for-a-social-feed--67676) |

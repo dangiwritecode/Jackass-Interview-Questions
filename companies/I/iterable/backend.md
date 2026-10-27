@@ -2,6 +2,8 @@
 
 [← back to Iterable](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your Bridge design separates a Notification abstraction from delivery implementations, but a new requirement crosses a third dimension (priority tier). Is Bridge still right, or are you heading for combinatorial explosion, and how do you restructure? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Iterable | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-bridge-design-separates-a-notification-abstraction-from-delivery--22486) |

@@ -2,6 +2,8 @@
 
 [← back to Karat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Collect All Dictionary Words Hidden in a Letter Grid | expertise | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Backtracking, Depth-First Search, Grid Traversal, Matrix, String, Trie | DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at Karat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=collect-all-dictionary-words-hidden-in-a-letter-grid-d212) |

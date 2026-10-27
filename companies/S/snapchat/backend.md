@@ -2,6 +2,8 @@
 
 [← back to Snapchat](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges your session-window design: 'What happens when a user's session gap threshold is wrong for 5% of users?' Reason about the sensitivity of session windows to the gap parameter and how you'd make it adaptive or per-cohort. | deep understanding | SDE-2/3, Architect/Principal | Real-time Streaming Architecture | Phone Screen, Onsite | Tech | Asked at Snapchat | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-your-session-window-design-what-happens-when-37878) |

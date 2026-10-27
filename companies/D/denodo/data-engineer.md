@@ -2,6 +2,8 @@
 
 [← back to Denodo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you use ATAM to evaluate a proposal to adopt data virtualization / query federation (query sources in place) versus centralizing everything into one warehouse via ELT? Which scenarios expose the query-latency, source-load, governance, and freshness tradeoffs? | expertise | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Denodo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-use-atam-to-evaluate-a-proposal-to-adopt-data-virtualizatio-125501) |

@@ -2,6 +2,8 @@
 
 [← back to Snap Inc.](README.md)
 
+Questions 1–74 of 74.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Count Connected Land Regions in a Grid Map | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Breadth-First Search, Connected Components, Depth-First Search, Flood Fill, Matrix, Union Find | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Snap Inc. | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-connected-land-regions-in-a-grid-map-d200) |

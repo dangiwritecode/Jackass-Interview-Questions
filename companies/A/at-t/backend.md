@@ -2,6 +2,8 @@
 
 [← back to AT&T](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're asked to set an annual cloud budget by team and enforce it. What are the pathologies of hard budget caps (end-of-quarter throttling, shadow accounts, gaming), and how do you design a governance model that constrains spend without those side effects? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at AT&T | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-asked-to-set-an-annual-cloud-budget-by-team-and-enforce-it-what-37036) |

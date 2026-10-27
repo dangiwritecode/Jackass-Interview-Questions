@@ -2,6 +2,8 @@
 
 [← back to Bishop-Fox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to keeping penetration-test findings, POA&Ms, and remediation velocity aligned so the annual assessment is a non-event, not a fire drill? | deep understanding | SDE-2/3, Architect/Principal | Regulatory Compliance Architecture (HIPAA/FedRAMP) | Onsite, Hiring Manager | Tech | Asked at Bishop-Fox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-keeping-penetration-test-findings-poa-and-ms-a-56826) |

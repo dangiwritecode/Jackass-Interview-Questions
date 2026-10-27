@@ -2,6 +2,8 @@
 
 [← back to Equinix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the network topology you'd stand up for high-throughput cross-cloud data transfer — private interconnect vs public internet vs a colo meet-me-room, and the cost/latency/security tradeoffs. | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Equinix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-network-topology-you-d-stand-up-for-high-throughput-cross--127247) |

@@ -2,6 +2,8 @@
 
 [← back to Netskope](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a data-loss-prevention (DLP) and egress-control layer across SaaS + code + email, where a bad build leaks data and a bought tool sees all your traffic — how do you weigh the two failure modes? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Netskope | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-data-loss-prevention-dlp-and-egre-41051) |

@@ -2,6 +2,8 @@
 
 [← back to xAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a way to reduce all-reduce and communication cost as training scales past a single fabric into multi-cluster or multi-region, and what does that force you to give up in synchrony? | expertise | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at xAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-way-to-reduce-all-reduce-and-communication-cost-85104) |

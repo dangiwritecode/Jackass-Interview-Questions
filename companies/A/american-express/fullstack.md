@@ -2,6 +2,8 @@
 
 [← back to American Express](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You discover the org's 'microfrontends' have devolved into a distributed frontend monolith — shared global state, tight version coupling, coordinated releases. How do you diagnose and pay down this coupling debt? | expertise | SDE-2/3, Architect/Principal | Tech Debt Management | Onsite, Hiring Manager | Tech | Asked at American Express | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-discover-the-org-s-microfrontends-have-devolved-into-a-distributed-41442) |

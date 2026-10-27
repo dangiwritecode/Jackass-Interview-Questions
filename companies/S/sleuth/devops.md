@@ -2,6 +2,8 @@
 
 [← back to Sleuth](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A stakeholder proposes a scenario with a response measure of 'zero failed deploys, ever.' How do you convert that unrealistic absolute into a measurable change-failure-rate and rollback-time target the pipeline architecture can actually be evaluated against? | intermediate experience | SDE-2/3, Architect/Principal | Architectural Trade-off Analysis (ATAM) | Onsite, Hiring Manager | Tech | Asked at Sleuth | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-stakeholder-proposes-a-scenario-with-a-response-measure-of-zero-fail-53243) |

@@ -2,6 +2,8 @@
 
 [← back to Artifactory](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect an org-wide 'dependency firewall' (private mirror + policy + provenance) that stops malicious or typosquatted packages before they enter any build across all languages? | expertise | SDE-2/3, Architect/Principal | Software Supply Chain Security (SBOM/Sigstore) | Phone Screen, Onsite | Tech | Asked at Artifactory | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-an-org-wide-dependency-firewall-private-mirror-po-55457) |

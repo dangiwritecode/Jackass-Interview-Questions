@@ -2,6 +2,8 @@
 
 [← back to NetApp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide whether to replicate at the storage layer (block/volume) versus the database logical layer for a hybrid estate, and what does each cost you? | expertise | SDE-2/3, Architect/Principal | Database Replication (Master-Slave) | Phone Screen, Onsite | Tech | Asked at NetApp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-whether-to-replicate-at-the-storage-layer-block-v-113929) |

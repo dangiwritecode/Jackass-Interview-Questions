@@ -2,6 +2,8 @@
 
 [← back to H&R Block](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd model token demand seasonality (e.g. retail Q4, tax season) into a rolling capacity and budget plan. | deep understanding | SDE-2/3, Architect/Principal | Token Budgeting & Throughput Estimation | Phone Screen, Onsite | Tech | Asked at H&R Block | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-model-token-demand-seasonality-e-g-retail-q4-tax-sea-86415) |

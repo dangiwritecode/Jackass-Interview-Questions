@@ -2,6 +2,8 @@
 
 [← back to Illumio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal on another team insists that microsegmentation is dead weight once you have mTLS everywhere. Do you agree? Defend where network segmentation still earns its keep in a zero-trust world. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Illumio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-on-another-team-insists-that-microsegmentation-is-dead-wei-37165) |

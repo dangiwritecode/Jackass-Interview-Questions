@@ -2,6 +2,8 @@
 
 [← back to PayU](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must guarantee idempotent processing of a payment webhook. How do isolation level plus a unique constraint together give you exactly-once effect? | deep understanding | SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at PayU | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-guarantee-idempotent-processing-of-a-payment-webhook-how-do-i-110272) |

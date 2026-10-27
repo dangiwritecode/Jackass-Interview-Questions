@@ -2,6 +2,8 @@
 
 [← back to Snorkel AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd capture and label real production traffic (with consent/privacy) to continuously grow your eval set. What are the pitfalls? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Snorkel AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-capture-and-label-real-production-traffic-with-cons-30888) |

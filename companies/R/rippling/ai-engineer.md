@@ -2,6 +2,8 @@
 
 [← back to Rippling](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A destructive tool call must be human-approved before execution. Why does that force a manual agentic loop instead of the SDK's auto tool runner, and how do you pause and resume around approval? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at Rippling | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-destructive-tool-call-must-be-human-approved-before-execution-why-do-78262) |

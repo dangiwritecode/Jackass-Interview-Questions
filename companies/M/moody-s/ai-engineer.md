@@ -2,6 +2,8 @@
 
 [← back to Moody's](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain the practical difference between a model's parametric knowledge and its in-context knowledge, and how you'd design a feature that must never rely on the former. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at Moody's | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-the-practical-difference-between-a-model-s-parametric-knowledg-77923) |

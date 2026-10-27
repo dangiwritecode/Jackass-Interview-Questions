@@ -2,6 +2,8 @@
 
 [← back to Salt-Security](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the gateway to make 'unknown unknowns' visible: undocumented endpoints, shadow APIs bypassing the gateway, deprecated routes still getting traffic; design the discovery/inventory system and how you drive shadow ingress to zero across a large org. | deep understanding | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Salt-Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-gateway-to-make-unknown-unknowns-visible-undo-39588) |

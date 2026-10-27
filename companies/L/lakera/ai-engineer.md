@@ -2,6 +2,8 @@
 
 [← back to Lakera](README.md)
 
+Questions 1–137 of 137.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A new safety policy requires blocking certain outputs retroactively. Some responses are cached and some are mid-stream. How do you roll out a policy change across your AI REST layer so cached and in-flight responses also comply? | expertise | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Lakera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-new-safety-policy-requires-blocking-certain-outputs-retroactively-so-77179) |

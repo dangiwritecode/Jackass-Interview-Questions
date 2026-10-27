@@ -2,6 +2,8 @@
 
 [← back to Elicit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for building an eval that verifies a model's citations actually support its claims, not just that citations are present? | deep understanding | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Elicit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-building-an-eval-that-verifies-a-model-s-cita-86902) |

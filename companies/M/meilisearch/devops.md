@@ -2,6 +2,8 @@
 
 [← back to Meilisearch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org's largest single cost is an internally-built search/index platform that must hold the full corpus in memory for latency. How do you capacity-plan and cost-optimize a memory-bound system where you can't just add cheap disk or scale to zero? | expertise | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at Meilisearch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-s-largest-single-cost-is-an-internally-built-search-index-pla-52945) |

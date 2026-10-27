@@ -2,6 +2,8 @@
 
 [← back to Wasabi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle the FinOps of a data-egress-heavy product (video, backups, large downloads) where egress fees dwarf compute? Design the architecture — CDN, peering, egress-free providers — and quantify the savings ceiling. | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Wasabi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-the-finops-of-a-data-egress-heavy-product-video-back-41165) |

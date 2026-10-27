@@ -2,6 +2,8 @@
 
 [← back to ClearTax](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must design a distributed sequence generator that is gap-free AND ordered (e.g., invoice numbers for tax compliance). Explain why gap-free forces serialization through a single consensus group and where you'd relax to gapful-but-monotonic to regain throughput. | deep understanding | SDE-2/3, Architect/Principal | Consistency Models & Consensus (Raft/Paxos) | Phone Screen, Onsite | Tech | Asked at ClearTax | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-design-a-distributed-sequence-generator-that-is-gap-free-and--112187) |

@@ -2,6 +2,8 @@
 
 [← back to Roche](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect governance for synthetic data used to fine-tune LLMs, so generation prompts don't inadvertently regurgitate the sensitive source they abstract? | deep understanding | SDE-2/3, Architect/Principal | Data Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Roche | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-governance-for-synthetic-data-used-to-fine-tun-86754) |

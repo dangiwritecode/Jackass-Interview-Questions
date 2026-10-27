@@ -2,6 +2,8 @@
 
 [← back to Permit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reason about the complexity of a permission check cached per (user, resource) pair, where the cache is O(users x resources) in the worst case, and how you'd bound it with scoping and TTL? | deep understanding | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at Permit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-complexity-of-a-permission-check-cached-pe-22107) |

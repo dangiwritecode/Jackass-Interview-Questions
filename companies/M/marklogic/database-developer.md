@@ -2,6 +2,8 @@
 
 [← back to MarkLogic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide the normalization design for a temporal or bitemporal schema where every attribute has validity periods? | expertise | SDE-2/3, Architect/Principal | Normalization & Denormalization | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at MarkLogic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-the-normalization-design-for-a-temporal-or-bitempora-113360) |

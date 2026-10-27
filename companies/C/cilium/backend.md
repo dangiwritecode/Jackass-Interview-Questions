@@ -2,6 +2,8 @@
 
 [← back to Cilium](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're deciding whether to adopt eBPF-based auto-instrumentation org-wide to reduce the manual-instrumentation burden. Frame the trade-off: coverage vs depth vs business context, kernel/version constraints, and where you'd still mandate SDK instrumentation. | expertise | SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at Cilium | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-deciding-whether-to-adopt-ebpf-based-auto-instrumentation-org-w-35164) |

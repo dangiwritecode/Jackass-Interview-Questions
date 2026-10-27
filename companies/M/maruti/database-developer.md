@@ -2,6 +2,8 @@
 
 [← back to Maruti](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A COTS ERP vendor mandates integration via their proprietary database replication only. Architect an anti-corruption layer at the data tier so the vendor's schema and upgrade cadence never leak into and constrain your internal domain data models. Where does the transformation and materialization live? | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Maruti | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cots-erp-vendor-mandates-integration-via-their-proprietary-database--112552) |

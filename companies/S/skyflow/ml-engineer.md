@@ -2,6 +2,8 @@
 
 [← back to Skyflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd add PII redaction to the request path before it hits the model, and how you avoid redacting so aggressively that you break legitimate prompts. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Skyflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-add-pii-redaction-to-the-request-path-before-it-hits-64725) |

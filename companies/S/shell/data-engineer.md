@@ -2,6 +2,8 @@
 
 [← back to Shell](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your Databricks bill splits between DBUs and the underlying cloud VMs, and teams optimize one while inflating the other. Design the cost-attribution and governance that makes teams reason about the fully-loaded cost per job rather than gaming the DBU number while cloud compute quietly climbs. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Shell | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-databricks-bill-splits-between-dbus-and-the-underlying-cloud-vms--125919) |

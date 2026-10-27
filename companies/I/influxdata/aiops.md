@@ -2,6 +2,8 @@
 
 [← back to InfluxData](README.md)
 
+Questions 1–105 of 105.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks: a GDPR erasure request arrives but the user's identifiers are scattered across 90 days of logs metrics-labels traces and your AIOps feature store. How do you architect erasure across the observability plane where much of it is designed as immutable append-only time-series? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at InfluxData | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-a-gdpr-erasure-request-arrives-but-the-user-s-iden-100237) |

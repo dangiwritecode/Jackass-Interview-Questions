@@ -2,6 +2,8 @@
 
 [← back to Tecton](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's approach to feature-engineering telemetry for AIOps at scale. How would you architect the transform layer on Kubernetes so training and online scoring compute identical features and training-serving skew doesn't silently degrade anomaly detection as the pipeline evolves? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Tecton | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-approach-to-feature-engineering-telemetry-for-aiops-a-98709) |

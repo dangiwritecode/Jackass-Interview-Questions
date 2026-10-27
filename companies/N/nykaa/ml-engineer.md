@@ -2,6 +2,8 @@
 
 [← back to Nykaa](README.md)
 
+Questions 1–113 of 113.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A large fraction of your traffic is from cold users with fewer than 3 events. How would you architect a fallback path for them without hurting warm-user latency? | deep understanding | SDE-1/2, SDE-2/3 | Recommendation Systems | Phone Screen, Onsite | Tech | Asked at Nykaa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-large-fraction-of-your-traffic-is-from-cold-users-with-fewer-than-3--66487) |

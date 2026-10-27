@@ -2,6 +2,8 @@
 
 [← back to Anjuna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect confidential computing (TEEs) into the highest-sensitivity path so it protects against a compromised host and hypervisor, and be honest with me about what it does not protect against and when the operational tax isn't worth it? | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Anjuna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-confidential-computing-tees-into-the-highest-sens-53972) |

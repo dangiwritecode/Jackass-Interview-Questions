@@ -2,6 +2,8 @@
 
 [← back to SigOpt](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your approach to hyperparameter tuning XGBoost at scale when a single fit takes 40 minutes and you have a fixed compute budget? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at SigOpt | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-approach-to-hyperparameter-tuning-xgboost-at-scale-when-a--65886) |

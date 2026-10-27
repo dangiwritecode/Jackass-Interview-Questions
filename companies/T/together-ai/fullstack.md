@@ -2,6 +2,8 @@
 
 [← back to Together AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the model-routing and fallback layer for a product that uses five different LLMs by cost and capability — how do you route per-request degrade to a cheaper model on overload and keep the abstraction stable as providers deprecate models every quarter? | deep understanding | SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Together AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-model-routing-and-fallback-layer-for-a-product-that-uses-fi-39421) |

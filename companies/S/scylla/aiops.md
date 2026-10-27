@@ -2,6 +2,8 @@
 
 [← back to Scylla](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you keep a detector's memory footprint bounded when the number of tracked series grows unboundedly over months? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Real-time Anomaly Detection at Scale | Phone Screen, Onsite | Tech | Asked at Scylla | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-a-detector-s-memory-footprint-bounded-when-the-number--97375) |

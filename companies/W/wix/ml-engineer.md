@@ -2,6 +2,8 @@
 
 [← back to Wix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you monitor drift for thousands of low-traffic long-tail models where per-model statistics are too sparse to be reliable individually? | deep understanding | SDE-2/3, Architect/Principal | Model Monitoring & Drift Detection | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Wix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-monitor-drift-for-thousands-of-low-traffic-long-tail-mod-70896) |

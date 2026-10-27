@@ -2,6 +2,8 @@
 
 [← back to KaiOS](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a lightweight offline-capable prediction feature for an app used in low-connectivity areas? | intermediate experience | Fresher, SDE-1/2, SDE-2/3, Architect/Principal | ML System Design | Onsite, Hiring Manager | Tech | Asked at KaiOS | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-lightweight-offline-capable-prediction-feature--62155) |

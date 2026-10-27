@@ -2,6 +2,8 @@
 
 [← back to VictoriaMetrics](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare Mimir/Cortex's split-and-merge query frontend, results cache, and blocks storage against Thanos's architecture for a 100M-active-series org. Which operational failure modes differ, and how would that steer your choice? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Observability & Monitoring (Prometheus/Grafana/OpenTelemetry) | Phone Screen, Onsite | Tech | Asked at VictoriaMetrics | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-mimir-cortex-s-split-and-merge-query-frontend-results-cache-an-29791) |

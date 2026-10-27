@@ -2,6 +2,8 @@
 
 [← back to Helicone](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you track token-usage drift and cost regressions that follow a prompt change, and tie them back to the change in your telemetry? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Helicone | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-track-token-usage-drift-and-cost-regressions-that-follow-a--97852) |

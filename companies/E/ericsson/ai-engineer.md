@@ -2,6 +2,8 @@
 
 [← back to Ericsson](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect eval evidence collection to satisfy the EU AI Act's high-risk-system documentation without crushing engineering velocity? | expertise | SDE-2/3, Architect/Principal | Evaluation at Scale | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Ericsson | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-eval-evidence-collection-to-satisfy-the-eu-ai--86859) |

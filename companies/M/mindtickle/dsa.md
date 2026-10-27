@@ -2,6 +2,8 @@
 
 [← back to Mindtickle](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Minimum Per-Session Page Limit to Clear a Print Queue | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Binary Search, Binary Search on Answer, Greedy, Optimization | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at Mindtickle | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=minimum-per-session-page-limit-to-clear-a-print-queue-d996) |

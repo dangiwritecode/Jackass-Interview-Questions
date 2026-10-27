@@ -2,6 +2,8 @@
 
 [← back to Snyk](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect protection against supply-chain risk in database extensions, UDFs, and untrusted procedural languages across a fleet where teams install their own? | expertise | SDE-2/3, Architect/Principal | Database Security & Access Control | Phone Screen, Onsite | Tech | Asked at Snyk | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-protection-against-supply-chain-risk-in-database--114115) |

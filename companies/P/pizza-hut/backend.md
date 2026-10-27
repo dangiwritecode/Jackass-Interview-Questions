@@ -2,6 +2,8 @@
 
 [← back to Pizza Hut](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a pizza ordering system where toppings decorate a base pizza. Which pattern computes the price? | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Pizza Hut | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-pizza-ordering-system-where-toppings-decorate-a-base-pizza-wh-8980) |

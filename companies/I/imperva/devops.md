@@ -2,6 +2,8 @@
 
 [← back to Imperva](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the org's strategy for Terraform-managed WAF and DDoS-protection config where a rule change can either open a hole or block legitimate traffic globally. How do you stage WAF rule changes in count/monitor mode, measure false-positive rate before enforcing, and give yourself an instant global disable? | deep understanding | SDE-2/3, Architect/Principal | Infrastructure as Code (Terraform) | Phone Screen, Onsite | Tech | Asked at Imperva | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-org-s-strategy-for-terraform-managed-waf-and-ddos-protectio-53113) |

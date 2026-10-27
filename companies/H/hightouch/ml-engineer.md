@@ -2,6 +2,8 @@
 
 [← back to Hightouch](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Reverse-ETL now pushes model predictions and scores from the warehouse back into operational systems via 30 tools. Is this an anti-pattern for ML or the architecture? How do you govern the analytical-to-operational boundary for prediction data? | deep understanding | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Hightouch | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reverse-etl-now-pushes-model-predictions-and-scores-from-the-warehouse-69745) |

@@ -2,6 +2,8 @@
 
 [← back to Altimetrik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Swap Adjacent Node Pairs in a Linked List | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | In-place Manipulation, Iteration, Linked List, Pointers, Recursion | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Altimetrik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=swap-adjacent-node-pairs-in-a-linked-list-d24) |

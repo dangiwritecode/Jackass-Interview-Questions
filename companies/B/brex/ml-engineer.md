@@ -2,6 +2,8 @@
 
 [← back to Brex](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a model risk framework that accommodates rapid experimentation velocity for a startup while still passing a future SOC2/regulatory audit. | expertise | SDE-2/3, Architect/Principal | Model Risk Management | Onsite, Hiring Manager | Tech | Asked at Brex | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-model-risk-framework-that-accommodates-rapid-experimentation--71825) |

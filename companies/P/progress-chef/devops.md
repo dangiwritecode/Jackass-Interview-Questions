@@ -2,6 +2,8 @@
 
 [← back to Progress Chef](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for a config-management / fleet-provisioning tool for VMs and hybrid nodes (Ansible/Chef/Puppet self-run vs managed vs immutable-image-only) when config drift across thousands of hosts is your reliability tax? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at Progress Chef | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-a-config-management-fleet-provision-53774) |

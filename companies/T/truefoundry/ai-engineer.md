@@ -2,6 +2,8 @@
 
 [← back to TrueFoundry](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for an LLM gateway that handles provider fallback, rate-limit smoothing, cost attribution, and semantic caching (LiteLLM/Portkey/Kong AI Gateway vs bespoke) when multi-provider portability is your strategic hedge against a single lab? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at TrueFoundry | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-an-llm-gateway-that-handles-provide-83739) |

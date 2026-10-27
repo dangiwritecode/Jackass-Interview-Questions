@@ -2,6 +2,8 @@
 
 [← back to Cado Security](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Present your reasoning on whether to centralize incident forensics tooling or embed it per-team — how do you ensure evidence is captured before ephemeral infra vanishes? | expertise | SDE-2/3, Architect/Principal | DevSecOps | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Cado Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=present-your-reasoning-on-whether-to-centralize-incident-forensics-too-55110) |

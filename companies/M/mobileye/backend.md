@@ -2,6 +2,8 @@
 
 [← back to Mobileye](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A car's value depreciates 10 percent each year. If it costs 500000 now what is its value after 2 years? | intermediate experience | Fresher, SDE-1 | Aptitude & Logical Reasoning | Online Assessment (OA) | Tech | Asked at Auto companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-car-s-value-depreciates-10-percent-each-year-if-it-costs-500000-now--7973) |

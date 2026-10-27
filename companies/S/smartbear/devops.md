@@ -2,6 +2,8 @@
 
 [← back to SmartBear](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need to run consumer-driven contract tests against the actual currently-deployed downstream version in staging, not a stale mock, to catch drift; how would you wire that into the pipeline? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at SmartBear | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-to-run-consumer-driven-contract-tests-against-the-actual-curr-46116) |

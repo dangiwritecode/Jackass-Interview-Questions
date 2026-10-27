@@ -2,6 +2,8 @@
 
 [← back to Bunny](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your CDN caches at the edge but origin is single-region. How do you architect multi-origin failover in the CDN config so an origin-region outage doesn't cause cache-miss errors? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Multi-Region & Geo-Replication | Onsite, Hiring Manager | Tech | Asked at Bunny | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-cdn-caches-at-the-edge-but-origin-is-single-region-how-do-you-arc-47558) |

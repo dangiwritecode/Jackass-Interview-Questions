@@ -2,6 +2,8 @@
 
 [← back to PubNub](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes your migration plan: "you're moving from REST polling to WebSockets/SSE for real-time UI across 20 apps — how do you handle connection scaling, auth on long-lived connections, and the load-balancer/stateful-affinity problems at enterprise scale?" | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at PubNub | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-migration-plan-you-re-moving-from-rest-poll-40741) |

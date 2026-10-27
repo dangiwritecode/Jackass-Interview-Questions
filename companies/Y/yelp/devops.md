@@ -2,6 +2,8 @@
 
 [← back to Yelp](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you set the org standard for progressive delivery of stateful data infrastructure (Kafka, Cassandra, Elasticsearch) where you can't roll-and-forget, deploys touch on-disk formats, and a bad node-config can lose durability guarantees? | expertise | SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at Yelp | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-set-the-org-standard-for-progressive-delivery-of-statefu-52240) |

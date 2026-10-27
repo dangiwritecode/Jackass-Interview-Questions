@@ -2,6 +2,8 @@
 
 [← back to Svix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A customer's webhook receiver processes your job-completion event twice because you re-delivered on a timeout, and they re-run an expensive pipeline. How do you make delivery and the event schema support exactly-once consumer processing? | deep understanding | SDE-1/2, SDE-2/3 | REST API | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Svix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-customer-s-webhook-receiver-processes-your-job-completion-event-twic-77142) |

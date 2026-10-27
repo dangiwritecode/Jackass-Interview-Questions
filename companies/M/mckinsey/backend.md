@@ -2,6 +2,8 @@
 
 [← back to McKinsey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A skeptical CFO asks why the EA function deserves headcount when 'the teams ship fine without it.' Make the value case in business terms — quantify the cost of the integration sprawl, duplicated capabilities, and lock-in that EA prevents. | deep understanding | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at McKinsey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-skeptical-cfo-asks-why-the-ea-function-deserves-headcount-when-the-t-36347) |

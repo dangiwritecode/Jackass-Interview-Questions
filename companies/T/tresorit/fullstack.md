@@ -2,6 +2,8 @@
 
 [← back to Tresorit](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are asked whether client-side encryption (E2E) is worth it for a product feature. Threat-model what it protects against, what it makes impossible (search, server-side processing, sharing), and where you'd draw the architectural line. | expertise | SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Tresorit | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-asked-whether-client-side-encryption-e2e-is-worth-it-for-a-pro-41301) |

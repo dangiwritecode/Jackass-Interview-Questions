@@ -2,6 +2,8 @@
 
 [← back to Raycast](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect a client-side command palette so any feature registers actions lazily (code-split), and the registration/discovery/execution seams don't force the whole app's action set into the initial bundle? | deep understanding | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Raycast | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-a-client-side-command-palette-so-any-feature-regi-38511) |

@@ -2,6 +2,8 @@
 
 [← back to Alibaba](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the platform's approach to scaling model artifact distribution: pushing multi-hundred-gigabyte weights to thousands of serving nodes on every deploy saturates the network and slows rollouts. What P2P, content-addressed, or lazy-loading strategy makes weight distribution scale sub-linearly? | expertise | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Alibaba | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-platform-s-approach-to-scaling-model-artifact-distribution--100675) |

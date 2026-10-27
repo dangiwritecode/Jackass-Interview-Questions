@@ -2,6 +2,8 @@
 
 [← back to Upstox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect capacity and admission control at the database tier for an IPO-open or ticket-drop event where load spikes 50x in seconds — DynamoDB auto-scaling and Aurora Serverless can't react in time, so what pre-warming, provisioning, and queueing strategy do you use and how do you load-test it? | expertise | SDE-2/3, Architect/Principal | AWS | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Upstox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-capacity-and-admission-control-at-the-database-ti-111911) |

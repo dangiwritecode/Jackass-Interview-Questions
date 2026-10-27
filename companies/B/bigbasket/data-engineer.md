@@ -2,6 +2,8 @@
 
 [← back to bigbasket](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you find the top-selling product per category and also show its share of that category's sales in one query? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at bigbasket | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-find-the-top-selling-product-per-category-and-also-show-its-119028) |

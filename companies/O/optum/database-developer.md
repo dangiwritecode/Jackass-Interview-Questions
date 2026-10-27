@@ -2,6 +2,8 @@
 
 [← back to Optum](README.md)
 
+Questions 1–81 of 81.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A developer's long-running open transaction is preventing log truncation and blocking others. How do you find it and safely resolve the situation? | intermediate experience | SDE-1, SDE-1/2 | SQL Server | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Optum | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-developer-s-long-running-open-transaction-is-preventing-log-truncati-109684) |

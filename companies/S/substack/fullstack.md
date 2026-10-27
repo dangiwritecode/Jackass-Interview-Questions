@@ -2,6 +2,8 @@
 
 [← back to Substack](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A team wants to cache authorization decisions at the CDN edge for a mostly-public product to cut latency, but some objects flip to private. Architect edge authorization so a permission change is reflected within seconds and a private object can never be served from a public edge cache. | expertise | SDE-2/3, Architect/Principal | Authentication & Authorization | Phone Screen, Onsite | Tech | Asked at Substack | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-team-wants-to-cache-authorization-decisions-at-the-cdn-edge-for-a-mo-38834) |

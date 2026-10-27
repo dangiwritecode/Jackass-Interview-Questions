@@ -2,6 +2,8 @@
 
 [← back to Dragonfly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect a caching platform's abstraction so migrating the backing store from Redis to a newer engine (KeyDB, Dragonfly, Valkey) is invisible to tenants, and what invariably leaks through the abstraction anyway? | expertise | SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Dragonfly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-a-caching-platform-s-abstraction-so-migrating--111486) |

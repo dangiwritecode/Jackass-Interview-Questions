@@ -2,6 +2,8 @@
 
 [← back to Riskified](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you balance recall vs precision for an XGBoost fraud model when the cost of a false negative is 50x a false positive? | deep understanding | SDE-1/2, SDE-2/3 | Ensemble Methods (Random Forest/XGBoost) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Riskified | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-balance-recall-vs-precision-for-an-xgboost-fraud-model-w-65933) |

@@ -2,6 +2,8 @@
 
 [← back to Zynga](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Most Frequent Tokens in Rank Order | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Bucket Sort, Counting, Hash Table, Heap (Priority Queue), Sorting, String, Trie | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at Zynga | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=most-frequent-tokens-in-rank-order-d677) |

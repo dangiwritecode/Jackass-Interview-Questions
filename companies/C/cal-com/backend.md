@@ -2,6 +2,8 @@
 
 [← back to Cal.com](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your service does interval-overlap checks for calendar availability across many resources; how would an interval tree or a sweep-line beat repeated pairwise comparisons, and when does the build cost dominate? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Cal.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-service-does-interval-overlap-checks-for-calendar-availability-ac-21953) |

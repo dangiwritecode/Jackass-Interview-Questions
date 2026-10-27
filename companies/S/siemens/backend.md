@@ -2,6 +2,8 @@
 
 [← back to Siemens](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A COTS ERP vendor wants you to integrate via their proprietary connector framework only. How do you architect an anti-corruption layer so the vendor's data model and upgrade cadence never leak into and constrain your internal domain services? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Siemens | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-cots-erp-vendor-wants-you-to-integrate-via-their-proprietary-connect-36317) |

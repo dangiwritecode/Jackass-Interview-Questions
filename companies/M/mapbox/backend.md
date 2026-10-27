@@ -2,6 +2,8 @@
 
 [← back to Mapbox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A VP wants to monetize your currently-free internal-turned-public API and fears backlash. Design the pricing/packaging strategy, the grandfathering of existing free users, and the governance to introduce quotas without an existing-integrator revolt. | expertise | SDE-2/3, Architect/Principal | API Strategy & Governance | Onsite, Hiring Manager | Tech | Asked at Mapbox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-vp-wants-to-monetize-your-currently-free-internal-turned-public-api--36482) |

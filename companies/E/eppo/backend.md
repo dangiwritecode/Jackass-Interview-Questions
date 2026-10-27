@@ -2,6 +2,8 @@
 
 [← back to Eppo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design an A/B experiment platform specifically for LLM changes: assignment, logging, metric computation, and guardrail auto-halt. What's LLM-specific about it? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Eppo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-an-a-b-experiment-platform-specifically-for-llm-changes-assignm-30921) |

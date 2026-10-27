@@ -2,6 +2,8 @@
 
 [← back to Bitly](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a URL shortener that handles 100M new links/day and 10B redirects/day — walk through the key generation strategy, storage schema, and read path. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | High-Level Design (HLD) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Bitly | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-url-shortener-that-handles-100m-new-links-day-and-10b-redirec-20612) |

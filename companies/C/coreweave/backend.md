@@ -2,6 +2,8 @@
 
 [← back to CoreWeave](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your company is considering a large GPU/AI-inference cloud footprint. How do you architect for the very different cost, scarcity, and scheduling realities of accelerated compute versus commodity CPU, and what governance stops teams from burning the budget? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at CoreWeave | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-company-is-considering-a-large-gpu-ai-inference-cloud-footprint-h-33357) |

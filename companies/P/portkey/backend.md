@@ -2,6 +2,8 @@
 
 [← back to Portkey](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org wants LLM/AI APIs fronted by the gateway with token-based cost governance, prompt-injection filtering, and per-team budget caps; design the AI-gateway layer and explain how it differs architecturally from a classic REST gateway. | expertise | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Portkey | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-wants-llm-ai-apis-fronted-by-the-gateway-with-token-based-cos-34566) |

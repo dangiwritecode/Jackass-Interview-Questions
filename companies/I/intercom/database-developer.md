@@ -2,6 +2,8 @@
 
 [← back to Intercom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A composite unique constraint on (tenant_id, slug) is not preventing duplicates in a multi-tenant app. How do you debug NULL tenant_id or collation issues? | intermediate experience | SDE-1, SDE-1/2 | Constraints & Keys (PK/FK) | Online Assessment (OA), Phone Screen | Tech | Asked at Intercom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-composite-unique-constraint-on-tenant-id-slug-is-not-preventing-dupl-109190) |

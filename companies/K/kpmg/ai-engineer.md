@@ -2,6 +2,8 @@
 
 [← back to KPMG](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design a governance program that produces standing audit-readiness so an external assessor or regulator can be served from immutable evidence with zero fire-drill? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at KPMG | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-governance-program-that-produces-standing-audit-re-86110) |

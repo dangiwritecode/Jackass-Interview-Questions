@@ -2,6 +2,8 @@
 
 [← back to Upbound](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect self-healing across a multi-cloud footprint where each provider exposes different failure signals and remediation primitives? | expertise | SDE-2/3, Architect/Principal | Self-Healing Infrastructure Architecture | Onsite, Hiring Manager | Tech | Asked at Upbound | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-self-healing-across-a-multi-cloud-footprint-where-103472) |

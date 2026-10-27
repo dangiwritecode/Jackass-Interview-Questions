@@ -2,6 +2,8 @@
 
 [← back to Bunny](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you reason about the SLO of a system that's mostly cached at the CDN so origin traffic is tiny and unrepresentative — a small origin blip barely moves the ratio but breaks the uncached long tail. How do you weight it? | deep understanding | SDE-2/3, Architect/Principal | Reliability Engineering (SLA/SLO/SLI) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Bunny | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-reason-about-the-slo-of-a-system-that-s-mostly-cached-at-th-41406) |

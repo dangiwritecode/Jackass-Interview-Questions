@@ -2,6 +2,8 @@
 
 [← back to Pulumi](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are setting the org's policy for how AI infrastructure is defined and provisioned — declarative IaC, a service catalog, or a platform API. How would you decide, and how do you keep hundreds of GPU-backed environments from drifting out of policy? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Pulumi | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-setting-the-org-s-policy-for-how-ai-infrastructure-is-defined--82804) |

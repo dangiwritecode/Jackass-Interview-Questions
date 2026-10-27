@@ -2,6 +2,8 @@
 
 [← back to Datomic](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design a data structure to support 'get the version of this document as of timestamp T' for a document that changes frequently, keeping storage and read cost reasonable? | expertise | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Datomic | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-a-data-structure-to-support-get-the-version-of-th-16068) |

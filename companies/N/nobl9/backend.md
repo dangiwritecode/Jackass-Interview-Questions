@@ -2,6 +2,8 @@
 
 [← back to Nobl9](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're accountable for a platform SLO framework. Explain how you'd formally separate 'CAP-availability' (the theorem's property) from user-facing availability in your SLO definitions, so leadership doesn't conflate a CP design choice with a reliability failure. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Nobl9 | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-accountable-for-a-platform-slo-framework-explain-how-you-d-form-32271) |

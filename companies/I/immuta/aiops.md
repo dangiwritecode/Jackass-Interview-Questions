@@ -2,6 +2,8 @@
 
 [← back to Immuta](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle PII and prompt-content sensitivity when you need to log prompts and retrieved context for drift analysis? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Immuta | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-pii-and-prompt-content-sensitivity-when-you-need-to--97883) |

@@ -2,6 +2,8 @@
 
 [← back to DigitalOcean](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design multi-region active-active for a stateful agent so a user's conversation can be served from either region with consistent tool-call idempotency and zero double side effects during a region flip. What's the state-replication and conflict-resolution story? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at DigitalOcean | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-multi-region-active-active-for-a-stateful-agent-so-a-user-s-con-83058) |

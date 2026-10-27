@@ -1,17 +1,17 @@
 # PayPal
 
-**Tier:** Tier 1  |  **Business domain:** Payments  |  **Questions listed:** 868  |  **Tagged directly to PayPal:** 1,043
+**Tier:** Tier 1  |  **Business domain:** Payments  |  **Questions listed:** 1,250  |  **Tagged directly to PayPal:** 1,043
 
 Every question links into the Locus section on SkillMeet, which opens that question and its answer. **Sign in to SkillMeet first** — the link runs the Locus lookup on your account.
 
-Each role profile lists up to 150 questions, most-asked first. PayPal's own tags come first and in full up to that cap; the full set is in Locus. The **Why It Is Listed** column says how each question reaches PayPal: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
+Every question tagged to PayPal is listed, most-asked first, split across pages of 800. The **Why It Is Listed** column says how each question reaches PayPal: tagged to the company itself, asked at companies in the same business domain, or commonly asked across its tier. Role profiles with few direct tags are filled from those pools up to 60 questions, ranked by how many employers ask the question — the same order Locus uses when a filter is thin.
 
 ## Role profiles by seniority
 
 | Role Profile | Fresher | SDE-1 | SDE-1/2 | SDE-2/3 | Architect/Principal | Questions Listed |
 |---|---:|---:|---:|---:|---:|---:|
-| Backend | 26 | 26 | 62 | 150 | 113 | 150 |
-| Fullstack | 69 | 69 | 103 | 149 | 72 | 150 |
+| Backend | 183 | 183 | 297 | 457 | 280 | 462 |
+| Fullstack | 88 | 88 | 149 | 217 | 121 | 220 |
 | DevOps | 6 | 0 | 24 | 74 | 74 | 74 |
 | AIOps | 1 | 1 | 26 | 60 | 38 | 60 |
 | Data Engineer | 1 | 0 | 36 | 104 | 70 | 104 |
@@ -22,12 +22,12 @@ Each role profile lists up to 150 questions, most-asked first. PayPal's own tags
 
 ## Question lists
 
-- [Backend](backend.md) — 150 questions (top 150 of 462 tagged — open any one in Locus to filter the rest)
-- [Fullstack](fullstack.md) — 150 questions (top 150 of 220 tagged — open any one in Locus to filter the rest)
-- [DevOps](devops.md) — 74 questions
-- [AIOps](aiops.md) — 60 questions
-- [Data Engineer](data-engineer.md) — 104 questions
-- [Database Developer](database-developer.md) — 102 questions
-- [ML Engineer](ml-engineer.md) — 96 questions
-- [AI Engineer](ai-engineer.md) — 60 questions
-- [Data Structures & Algorithms](dsa.md) — 72 questions
+- **Backend** — 462 questions: [open](backend.md)
+- **Fullstack** — 220 questions: [open](fullstack.md)
+- **DevOps** — 74 questions: [open](devops.md)
+- **AIOps** — 60 questions: [open](aiops.md)
+- **Data Engineer** — 104 questions: [open](data-engineer.md)
+- **Database Developer** — 102 questions: [open](database-developer.md)
+- **ML Engineer** — 96 questions: [open](ml-engineer.md)
+- **AI Engineer** — 60 questions: [open](ai-engineer.md)
+- **Data Structures & Algorithms** — 72 questions: [open](dsa.md)

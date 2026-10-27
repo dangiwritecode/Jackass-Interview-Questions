@@ -2,6 +2,8 @@
 
 [← back to Airbyte](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you approach selecting a datastore when the write volume comes in massive periodic batches (nightly ETL) versus steady streaming? Does bulk-load performance become a top criterion? | deep understanding | SDE-2/3, Architect/Principal | Database Selection Strategy (RDBMS/NoSQL/NewSQL) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Airbyte | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-approach-selecting-a-datastore-when-the-write-volume-comes--114410) |

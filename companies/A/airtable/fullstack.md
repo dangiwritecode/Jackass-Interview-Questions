@@ -2,6 +2,8 @@
 
 [← back to Airtable](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A React table lets users toggle 6 optional filters. How do you keep the backend index set bounded while making the top few real-world filter combinations fast? | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Database Indexing & Query Optimization | Phone Screen, Onsite | Tech | Asked at Airtable | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-react-table-lets-users-toggle-6-optional-filters-how-do-you-keep-the-25794) |

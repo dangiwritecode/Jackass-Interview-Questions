@@ -2,6 +2,8 @@
 
 [← back to Vast.ai](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle GPU driver or CUDA version mismatches between the FastAPI container and the host, and how do you make the failure obvious at startup rather than at first inference? | deep understanding | SDE-1/2, SDE-2/3 | FastAPI | Phone Screen, Onsite | Tech | Asked at Vast.ai | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-gpu-driver-or-cuda-version-mismatches-between-the-fa-62969) |

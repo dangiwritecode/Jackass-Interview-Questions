@@ -2,6 +2,8 @@
 
 [← back to Codefresh](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | ArgoCD reports OutOfSync but a diff shows no visible change. How could YAML key ordering, default field injection, or quoting differences produce a phantom drift and how do you normalize it? | expertise | SDE-1/2, SDE-2/3 | YAML | Online Assessment (OA), Phone Screen | Tech | Asked at Codefresh | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=argocd-reports-outofsync-but-a-diff-shows-no-visible-change-how-could--48940) |

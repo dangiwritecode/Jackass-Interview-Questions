@@ -2,6 +2,8 @@
 
 [← back to Nightfall](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a data-egress and DLP architecture at the network and API boundary so PII/PAN leaving your platform is detected and blocked in real time — how do you inspect at scale without becoming a latency bottleneck or a privacy problem of its own? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Nightfall | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-data-egress-and-dlp-architecture-at-the-network-and-api-bound-37313) |

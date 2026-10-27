@@ -2,6 +2,8 @@
 
 [← back to Contextual AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal peer argues that with million-token context windows, RAG-and-vector-DB is obsolete and you should just stuff whole corpora into context. Steelman that, then define the corpus, cost, and latency conditions under which vector retrieval still wins decisively. | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at Contextual AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-peer-argues-that-with-million-token-context-windows-rag-an-82437) |

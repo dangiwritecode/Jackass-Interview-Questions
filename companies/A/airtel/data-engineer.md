@@ -2,6 +2,8 @@
 
 [← back to Airtel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When you present multi-cloud strategy to the board, how do you separate genuine sovereignty/resilience drivers from procurement leverage against a single vendor — and does it change the architecture? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Data Architecture | Onsite, Hiring Manager | Tech | Asked at Airtel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-you-present-multi-cloud-strategy-to-the-board-how-do-you-separate-127251) |

@@ -2,6 +2,8 @@
 
 [← back to Canonical](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do containers isolate processes at the OS level (namespaces and cgroups)? | deep understanding | Fresher, SDE-1 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Canonical | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-containers-isolate-processes-at-the-os-level-namespaces-and-cgr-512) |

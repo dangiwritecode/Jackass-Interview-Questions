@@ -2,6 +2,8 @@
 
 [← back to LogAI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How could log embeddings from a language model improve clustering over simple keyword counts? | deep understanding | Fresher, SDE-1/2, SDE-2/3 | Clustering | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at LogAI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-could-log-embeddings-from-a-language-model-improve-clustering-over-89688) |

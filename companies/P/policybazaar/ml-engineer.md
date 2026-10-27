@@ -2,6 +2,8 @@
 
 [← back to PolicyBazaar](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A regulator asks you to demonstrate, for a specific past LLM decision, exactly which model version, prompt, retrieved context, and safety checks produced it. What lineage and reproducibility architecture must have been in place, and where do teams usually fail this? | expertise | SDE-2/3, Architect/Principal | LLM Fundamentals | Phone Screen, Onsite | Tech | Asked at PolicyBazaar | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-regulator-asks-you-to-demonstrate-for-a-specific-past-llm-decision-e-68786) |

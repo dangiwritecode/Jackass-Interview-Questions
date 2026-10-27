@@ -2,6 +2,8 @@
 
 [← back to DocuSign](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Enabling citations splits the response into cited and uncited text blocks. How does your rendering pipeline change to preserve inline attribution while streaming? | deep understanding | SDE-1/2, SDE-2/3 | LLM API Integration (OpenAI/Anthropic) | Phone Screen, Onsite | Tech | Asked at DocuSign | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=enabling-citations-splits-the-response-into-cited-and-uncited-text-blo-20376) |

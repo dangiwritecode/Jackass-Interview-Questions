@@ -2,6 +2,8 @@
 
 [← back to Fortanix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your build-vs-buy calculus for confidential computing (TEEs/enclaves) versus SMPC for a workload where a partner and you both hold PII you can't share? | expertise | SDE-2/3, Architect/Principal | Data Privacy & PII Handling in AI | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Fortanix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-build-vs-buy-calculus-for-confidential-computing-tees-encl-87248) |

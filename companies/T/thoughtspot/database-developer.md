@@ -2,6 +2,8 @@
 
 [← back to ThoughtSpot](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you read an actual execution plan and what warning signs (thick arrows implicit conversion residual predicates) you look for first. | deep understanding | SDE-1, SDE-1/2 | T-SQL | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at ThoughtSpot | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-read-an-actual-execution-plan-and-what-warning-signs-t-108545) |

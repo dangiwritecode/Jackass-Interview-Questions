@@ -2,6 +2,8 @@
 
 [← back to Obsidian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a class model for a feature that must work offline-first on the client and sync deltas to the server on reconnect; how do you model the sync queue, conflict detection, and server merge policy? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Obsidian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-class-model-for-a-feature-that-must-work-offline-first-on-the-22385) |

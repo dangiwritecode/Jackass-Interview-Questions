@@ -2,6 +2,8 @@
 
 [← back to Stack Overflow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide when horizontal scale-out has stopped paying off — coordination overhead, cross-node chatter, or a shared bottleneck means new nodes barely help — and a simpler vertically-scaled design would be more available, cheaper, and easier to reason about? | expertise | SDE-2/3, Architect/Principal | Scalability & Availability | Phone Screen, Onsite | Tech | Asked at Stack Overflow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-when-horizontal-scale-out-has-stopped-paying-off-coo-52085) |

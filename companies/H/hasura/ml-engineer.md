@@ -2,6 +2,8 @@
 
 [← back to Hasura](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Walk me through how you'd set up structured/constrained decoding (grammar or JSON schema) in production and what latency cost it adds. When would you avoid it? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Hasura | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=walk-me-through-how-you-d-set-up-structured-constrained-decoding-gramm-64675) |

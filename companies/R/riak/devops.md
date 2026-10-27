@@ -2,6 +2,8 @@
 
 [← back to Riak](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're designing conflict resolution for active-active writes across regions. Compare last-writer-wins, CRDTs, and app-level merge for a shopping cart versus a ledger, and explain what anomalies you accept for each domain. | expertise | SDE-2/3, Architect/Principal | Microservices | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Riak | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-designing-conflict-resolution-for-active-active-writes-across-r-51966) |

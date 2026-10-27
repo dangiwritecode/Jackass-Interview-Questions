@@ -2,6 +2,8 @@
 
 [← back to PayU](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A dedup service must decide 'have we processed this idempotency key' with a strict TTL; how do you design the key store so expiries are cheap and you never double-execute a payment on retry? | deep understanding | SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at PayU | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-dedup-service-must-decide-have-we-processed-this-idempotency-key-wit-21974) |

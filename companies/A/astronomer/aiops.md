@@ -2,6 +2,8 @@
 
 [← back to Astronomer](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you make an Airflow task send an alert if the daily metrics pipeline fails? | intermediate experience | Fresher, SDE-1/2, SDE-2/3 | Data Pipelines (Airflow/Spark) | Phone Screen, Onsite | Tech | Asked at Astronomer | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-make-an-airflow-task-send-an-alert-if-the-daily-metrics--89984) |

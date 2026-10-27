@@ -2,6 +2,8 @@
 
 [← back to Booking.com](README.md)
 
+Questions 1–61 of 61.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a saga/compensation framework for multi-tool agent workflows where later steps can fail and earlier side effects must be undone, given the model's plan is not known upfront. Where do compensations get defined and who triggers them? | expertise | SDE-2/3, Architect/Principal | AI Agents & Tool Calling | Phone Screen, Onsite | Tech | Asked at Booking.com | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-saga-compensation-framework-for-multi-tool-agent-workflows-wh-83056) |

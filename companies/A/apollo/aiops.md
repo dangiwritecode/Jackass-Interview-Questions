@@ -2,6 +2,8 @@
 
 [← back to Apollo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd instrument and automate SLOs for a GraphQL or BFF layer where one request fans out to many backends with different budgets. | expertise | SDE-2/3, Architect/Principal | SLO-driven Automation | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Apollo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-instrument-and-automate-slos-for-a-graphql-or-bff-la-102534) |

@@ -2,6 +2,8 @@
 
 [← back to Verisign](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How does DNS caching work and what role does TTL play in it? | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Caching | Phone Screen, Onsite | Tech | Asked at Verisign | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-does-dns-caching-work-and-what-role-does-ttl-play-in-it-5011) |

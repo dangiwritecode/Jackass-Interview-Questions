@@ -2,6 +2,8 @@
 
 [← back to Qlik](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern access when your BI tool (Tableau/Power BI/Looker) has its own extract cache — do you enforce at the source or the tool, and what breaks when a dashboard caches data the viewer shouldn't see? | deep understanding | SDE-2/3, Architect/Principal | Data Security & Access Governance | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Qlik | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-access-when-your-bi-tool-tableau-power-bi-looker-has-126669) |

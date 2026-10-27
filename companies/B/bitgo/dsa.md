@@ -2,6 +2,8 @@
 
 [← back to BitGo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Count Contiguous Subarrays With a Given Sum | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Hash Table, Prefix Sum | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | DSA | Asked at BitGo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=count-contiguous-subarrays-with-a-given-sum-d558) |

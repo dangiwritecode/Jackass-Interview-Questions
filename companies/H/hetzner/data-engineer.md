@@ -2,6 +2,8 @@
 
 [← back to Hetzner](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You're evaluating whether to repatriate a stable, high-volume batch-processing workload from a cloud warehouse back to owned Spark on bare metal in a colo. Build the honest risk-adjusted TCO including depreciation, ops headcount, and exit cost, and tell me when owning data-processing hardware is the right financial call versus warehouse elasticity. | expertise | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Hetzner | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-re-evaluating-whether-to-repatriate-a-stable-high-volume-batch-pro-125971) |

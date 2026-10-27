@@ -2,6 +2,8 @@
 
 [← back to Invisible](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you govern the human-labeling supply chain for RLHF so that reviewer welfare, labeling bias, and exposure to harmful content are auditable obligations, not hidden externalities? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Invisible | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-govern-the-human-labeling-supply-chain-for-rlhf-so-that--86085) |

@@ -2,6 +2,8 @@
 
 [← back to Stanford](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: state-space models like Mamba claim to beat Transformers on long context; how would you evaluate adopting them without betting the platform? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Stanford | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-state-space-models-like-mamba-claim-to-beat-tran-70415) |

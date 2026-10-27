@@ -2,6 +2,8 @@
 
 [← back to Determined AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect the platform to scale reproducible environments so a training job's full dependency closure (CUDA, driver, kernels) is captured and rehydratable years later, without the artifact store ballooning as every job pins slightly different versions? Where's the dedup boundary? | deep understanding | SDE-2/3, Architect/Principal | Scalable AI/ML Platform Architecture | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Determined AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-the-platform-to-scale-reproducible-environment-100719) |

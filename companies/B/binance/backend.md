@@ -2,6 +2,8 @@
 
 [← back to Binance](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You need Redis to serve as the source of truth for real-time stock prices with sub-ms reads but also durably survive a crash — how do you reconcile the durability vs latency tension? | expertise | SDE-1/2, SDE-2/3 | Redis | Phone Screen, Onsite | Tech | Asked at Binance | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-need-redis-to-serve-as-the-source-of-truth-for-real-time-stock-pri-24727) |

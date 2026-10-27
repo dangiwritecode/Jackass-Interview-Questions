@@ -2,6 +2,8 @@
 
 [← back to Acxiom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer probes: your feature pipeline computes an inferred sensitive attribute (predicted pregnancy health income) the user never provided. How do you govern lawful basis and special-category-data handling for ML-inferred sensitive attributes under GDPR Article 9? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Acxiom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-probes-your-feature-pipeline-computes-an-inferred-sensi-70011) |

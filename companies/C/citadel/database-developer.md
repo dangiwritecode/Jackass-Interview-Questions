@@ -2,6 +2,8 @@
 
 [← back to Citadel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how a database's choice of clock source (NTP vs PTP vs TrueTime-style GPS/atomic) sets a hard floor on how strong a consistency it can offer without unbounded commit-wait, and how you'd advise an org that can't get sub-millisecond clock sync. | expertise | SDE-2/3, Architect/Principal | CAP Theorem | Phone Screen, Onsite | Tech | Asked at Citadel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-a-database-s-choice-of-clock-source-ntp-vs-ptp-vs-truetime-111568) |

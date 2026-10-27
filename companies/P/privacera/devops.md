@@ -2,6 +2,8 @@
 
 [← back to Privacera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you architect Zero Trust for a data platform where analysts run ad-hoc queries against sensitive datasets? Combine network identity with column/row-level policy and just-in-time grants. | deep understanding | SDE-2/3, Architect/Principal | Zero Trust Network Architecture | Onsite, Hiring Manager | Tech | Asked at Privacera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-architect-zero-trust-for-a-data-platform-where-analysts--56864) |

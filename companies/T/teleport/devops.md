@@ -2,6 +2,8 @@
 
 [← back to Teleport](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A developer asks why they can't just SSH into a production node to check logs. Explain how you'd replace standing SSH access with a just-in-time, session-recorded model, and what tooling (SSM Session Manager, Teleport, Boundary) you'd pick and why. | intermediate experience | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Teleport | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-developer-asks-why-they-can-t-just-ssh-into-a-production-node-to-che-47831) |

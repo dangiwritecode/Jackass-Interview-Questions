@@ -2,6 +2,8 @@
 
 [← back to Bright Data](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A tool-call in your agent triggers a paid third-party API (search, enrichment, code sandbox) whose cost isn't on your cloud or LLM bill at all. How do you extend AI FinOps to cover this off-platform tool spend and attribute it to the agent task that caused it? | deep understanding | SDE-2/3, Architect/Principal | FinOps & Cloud Cost Governance | Onsite, Hiring Manager | Tech | Asked at Bright Data | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-tool-call-in-your-agent-triggers-a-paid-third-party-api-search-enric-83866) |

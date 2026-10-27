@@ -2,6 +2,8 @@
 
 [← back to Telegram](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you experiment with a model that produces content shown to both a user and their friends, blurring the treatment boundary? | expertise | SDE-1/2, SDE-2/3 | A/B Testing & Experimentation | Phone Screen, Onsite | Tech | Asked at Telegram | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-experiment-with-a-model-that-produces-content-shown-to-b-67757) |

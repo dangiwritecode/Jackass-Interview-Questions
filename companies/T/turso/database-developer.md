@@ -2,6 +2,8 @@
 
 [← back to Turso](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design HA for a serverless/autoscaling database where compute nodes come and go. How does elastic compute interact with quorum, leader election, and connection stability? | deep understanding | SDE-2/3, Architect/Principal | Database HA Architecture (Failover/Clustering) | Phone Screen, Onsite | Tech | Asked at Turso | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-ha-for-a-serverless-autoscaling-database-wher-114726) |

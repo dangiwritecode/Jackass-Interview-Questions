@@ -2,6 +2,8 @@
 
 [← back to Wise](README.md)
 
+Questions 1–149 of 149.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser probes: you claim event sourcing gives you a perfect audit trail — but what specific guarantees does it NOT give you, where would a naive team be dangerously overconfident, and what compensating controls do you mandate to make the audit claim actually defensible? | expertise | SDE-2/3, Architect/Principal | CQRS & Event Sourcing | Phone Screen, Onsite | Tech | Asked at Wise | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-probes-you-claim-event-sourcing-gives-you-a-perfect-audit-34232) |

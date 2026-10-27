@@ -2,6 +2,8 @@
 
 [← back to LINE](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Maximum of Every Fixed-Length Contiguous Block | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Deque, Heap (Priority Queue), Monotonic Queue, Sliding Window | Online Assessment (OA), DSA/Coding Round, Onsite | DSA | Asked at LINE | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=maximum-of-every-fixed-length-contiguous-block-d239) |

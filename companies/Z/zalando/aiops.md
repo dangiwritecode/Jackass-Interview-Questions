@@ -2,6 +2,8 @@
 
 [← back to Zalando](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A domain team wants to own its telemetry pipeline end-to-end in a mesh but lacks data-engineering skill, and a broken pipeline blinds on-call. How do you resolve decentralized ownership against uneven maturity, and what must the paved observability road provide for free? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Zalando | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-domain-team-wants-to-own-its-telemetry-pipeline-end-to-end-in-a-mesh-99860) |

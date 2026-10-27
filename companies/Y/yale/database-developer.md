@@ -2,6 +2,8 @@
 
 [← back to Yale](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Compare, at architectural altitude, deterministic-database concurrency (Calvin/FaunaDB) with SSI and 2PL. When would you bet the platform on the deterministic model? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Yale | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=compare-at-architectural-altitude-deterministic-database-concurrency-c-113675) |

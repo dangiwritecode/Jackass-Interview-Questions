@@ -2,6 +2,8 @@
 
 [← back to Anysphere](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you keep a Definition of Done honest when AI-generated code passes review quickly but nobody deeply understands it; what checks would you add for backend correctness? | deep understanding | SDE-1/2, SDE-2/3 | Agile/Scrum | Phone Screen, Hiring Manager | Tech | Asked at Anysphere | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-keep-a-definition-of-done-honest-when-ai-generated-code-pas-27405) |

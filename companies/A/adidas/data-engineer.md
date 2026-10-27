@@ -2,6 +2,8 @@
 
 [← back to Adidas](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a data-mesh governance layer where each domain team owns its data products but classification lineage and erasure obligations are enforced as a computational platform capability — how do you make federated governance binding without a central committee becoming the bottleneck every domain routes around? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Adidas | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-data-mesh-governance-layer-where-each-domain-team-owns-its-da-126016) |

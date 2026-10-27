@@ -2,6 +2,8 @@
 
 [← back to Pact-SmartBear](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Architect the enterprise pattern for schema/contract testing across producer-consumer team boundaries (consumer-driven contracts, contract registries). How do you make a breaking-change fail in CI at the producer rather than in production at the consumer? | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at Pact-SmartBear | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=architect-the-enterprise-pattern-for-schema-contract-testing-across-pr-36368) |

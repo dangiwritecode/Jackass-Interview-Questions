@@ -2,6 +2,8 @@
 
 [← back to Melissa](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd stress-test survivorship rules against adversarial / messy real-world data (transliterated names, joint accounts, shared addresses, name changes) before trusting them in production. | expertise | SDE-2/3, Architect/Principal | Master Data Management (MDM) | Phone Screen, Onsite | Tech | Asked at Melissa | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-stress-test-survivorship-rules-against-adversarial-m-127798) |

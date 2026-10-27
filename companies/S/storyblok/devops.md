@@ -2,6 +2,8 @@
 
 [← back to Storyblok](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal wants to use mesh traffic-mirroring to build a continuous production-parity test environment fed by real traffic. Architect the side-effect isolation, data-scrubbing, and dedup required, and adjudicate whether this belongs in the mesh vs a dedicated replay system. | deep understanding | SDE-2/3, Architect/Principal | Service Mesh | Phone Screen, Onsite | Tech | Asked at Storyblok | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-wants-to-use-mesh-traffic-mirroring-to-build-a-continuous--52703) |

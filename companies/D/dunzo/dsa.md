@@ -2,6 +2,8 @@
 
 [← back to Dunzo](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Counting Ways to Spell a Keyword From Aligned Cards | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Combinatorics, Counting, Dynamic Programming, Prefix/Column Aggregation, String | DSA/Coding Round, Onsite | DSA | Asked at Dunzo | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=counting-ways-to-spell-a-keyword-from-aligned-cards-d1562) |

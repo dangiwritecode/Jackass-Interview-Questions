@@ -2,6 +2,8 @@
 
 [← back to Twilio](README.md)
 
+Questions 1–117 of 117.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A principal reviews your design doc and asks: 'what's your consistency contract at the API boundary, in terms an SDK author can implement against?' How do you answer beyond naming a level? | expertise | SDE-2/3, Architect/Principal | Isolation Levels (RU/RC/RR/Serializable) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Twilio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-principal-reviews-your-design-doc-and-asks-what-s-your-consistency-c-113726) |

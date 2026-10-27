@@ -2,6 +2,8 @@
 
 [← back to Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Reverse the Order of a Singly Linked Chain | basic concept | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | In-Place Pointer Manipulation, Iteration, Linked List, Recursion | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=reverse-the-order-of-a-singly-linked-chain-d206) |

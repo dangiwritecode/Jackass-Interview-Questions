@@ -2,6 +2,8 @@
 
 [← back to Flexera](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you design a golden path that enforces FinOps guardrails like cost budgets and right-sizing without teams feeling policed? | expertise | SDE-2/3, Architect/Principal | Golden Paths & Paved Roads | Onsite, Hiring Manager | Tech | Asked at Flexera | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-design-a-golden-path-that-enforces-finops-guardrails-like-c-55856) |

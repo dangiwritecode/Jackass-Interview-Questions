@@ -2,6 +2,8 @@
 
 [← back to Dropbox](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer challenges: how do you decide when to sunset an entire in-house Transformer program in favor of frontier vendor models, and how do you sequence the wind-down? | expertise | SDE-2/3, Architect/Principal | Transformers & Attention | Phone Screen, Onsite | Tech | Asked at Dropbox | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-challenges-how-do-you-decide-when-to-sunset-an-entire-i-70461) |

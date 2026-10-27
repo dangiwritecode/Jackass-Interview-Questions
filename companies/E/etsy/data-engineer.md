@@ -2,6 +2,8 @@
 
 [← back to Etsy](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A staff data engineer keeps re-litigating the group's decision to standardize on a single orchestration tool in every design review. How do you make that orchestration-standardization decision hold without alienating a strong engineer whose buy-in you'll need for the next platform call? | deep understanding | SDE-2/3, Architect/Principal | Cross-team Technical Leadership & Influence | Onsite, Hiring Manager | Tech | Asked at Etsy | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-staff-data-engineer-keeps-re-litigating-the-group-s-decision-to-stan-126121) |

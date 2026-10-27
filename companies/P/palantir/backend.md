@@ -2,6 +2,8 @@
 
 [← back to Palantir](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An internal admin tool renders customer content unescaped because 'only trusted employees see it.' Post-breach you learn a self-XSS chained into privilege escalation across the internal network. Architect a policy and enforcement that treats internal tools with the same output-encoding rigor as public ones, and justify the cost. | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Palantir | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-internal-admin-tool-renders-customer-content-unescaped-because-only-32853) |

@@ -2,6 +2,8 @@
 
 [← back to Codefresh](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design self-healing to coexist with GitOps such that automated live-state changes are reconciled back into declared config rather than reverted or drifting? | expertise | SDE-2/3, Architect/Principal | Auto-Remediation & Self-Healing | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Codefresh | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-self-healing-to-coexist-with-gitops-such-that-aut-101575) |

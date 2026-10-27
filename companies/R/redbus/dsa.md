@@ -2,6 +2,8 @@
 
 [← back to RedBus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Water Trapped Between Walls | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Array, Dynamic Programming, Monotonic Stack, Prefix/Suffix Maximum, Stack, Two Pointers | Online Assessment (OA), DSA/Coding Round, Onsite, Hiring Manager | DSA | Asked at RedBus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=water-trapped-between-walls-d42) |

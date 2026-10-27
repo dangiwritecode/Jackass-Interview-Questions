@@ -2,6 +2,8 @@
 
 [← back to Micron](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you evaluate whether disaggregated memory or CXL-style pooling changes your accelerator architecture strategy, and what would have to be true for you to bet on it? | deep understanding | SDE-2/3, Architect/Principal | GPU & Accelerator Optimization | Phone Screen, Onsite | Tech | Asked at Micron | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-evaluate-whether-disaggregated-memory-or-cxl-style-pooli-71155) |

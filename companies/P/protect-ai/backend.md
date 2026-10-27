@@ -2,6 +2,8 @@
 
 [← back to Protect AI](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you handle a poisoned or corrupt model artifact getting promoted to prod? Design the promotion gates and integrity checks. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLMOps & Model Deployment | Phone Screen, Onsite | Tech | Asked at Protect AI | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-handle-a-poisoned-or-corrupt-model-artifact-getting-promote-30881) |

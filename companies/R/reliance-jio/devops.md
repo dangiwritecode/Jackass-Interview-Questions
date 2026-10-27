@@ -2,6 +2,8 @@
 
 [← back to Reliance Jio](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An interviewer asks how you'd govern a gradual cloud-region exit (a hyperscaler pulling out of a country or a geopolitical mandate to leave) — how do you architect so residency-bound data can be evacuated to a compliant region within a legal deadline without data loss? | expertise | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Reliance Jio | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-interviewer-asks-how-you-d-govern-a-gradual-cloud-region-exit-a-hyp-54101) |

@@ -2,6 +2,8 @@
 
 [← back to Apollo-Hospitals](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are deciding the org's cloud strategy for confidential-computing enclaves to run inference on regulated data. How would you weigh the performance and complexity cost of enclaves against the trust benefit, and where would you actually mandate them? | expertise | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Apollo-Hospitals | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-deciding-the-org-s-cloud-strategy-for-confidential-computing-e-82800) |

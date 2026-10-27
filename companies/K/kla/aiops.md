@@ -2,6 +2,8 @@
 
 [← back to KLA](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A director wants all anomaly-detection inference on serverless to stop paying for idle GPU. As principal which characteristics of your models make serverless a trap at scale and how do you make that concrete with cost-and-latency math? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Semiconductors companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-director-wants-all-anomaly-detection-inference-on-serverless-to-stop-98834) |

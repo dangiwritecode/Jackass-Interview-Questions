@@ -2,6 +2,8 @@
 
 [← back to InfluxData](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you plan capacity for a workload with extreme write bursts followed by long idle periods (e.g. IoT sensors reporting on schedule)? How do you avoid provisioning for the burst peak while meeting ingest guarantees, and where does buffering pay off? | deep understanding | SDE-2/3, Architect/Principal | Capacity Planning & Cost Optimization | Onsite, Hiring Manager | Tech | Asked at InfluxData | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-plan-capacity-for-a-workload-with-extreme-write-bursts-foll-53004) |

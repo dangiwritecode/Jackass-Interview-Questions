@@ -2,6 +2,8 @@
 
 [← back to Zillow](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a frontend architecture for extreme SEO-sensitive content (marketplace, publisher) at scale — how do you balance SSR/ISR, crawl budget, Core Web Vitals, and dynamic personalization? | expertise | SDE-2/3, Architect/Principal | Frontend System Design | Phone Screen, Onsite | Tech | Asked at Zillow | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-frontend-architecture-for-extreme-seo-sensitive-content-marke-40073) |

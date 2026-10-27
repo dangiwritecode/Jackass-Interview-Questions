@@ -2,6 +2,8 @@
 
 [← back to CoinDCX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You must design the analytical architecture for a crypto exchange where every trade is immutable and auditable, order books mutate at microsecond scale, and regulators demand full reconstruction. Where do you draw the line between the matching-engine event log, the lake, and the warehouse, and what consistency do you promise each consumer? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at CoinDCX | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-must-design-the-analytical-architecture-for-a-crypto-exchange-wher-112707) |

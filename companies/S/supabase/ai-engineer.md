@@ -2,6 +2,8 @@
 
 [← back to Supabase](README.md)
 
+Questions 1–119 of 119.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how you'd design a SQL schema for storing tool definitions (name, JSON schema, version) that an agent loads, and query the active version set for a given deployment. | intermediate experience | SDE-1/2, SDE-2/3 | SQL | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite | Tech | Asked at Supabase | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-you-d-design-a-sql-schema-for-storing-tool-definitions-nam-76862) |

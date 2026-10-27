@@ -2,6 +2,8 @@
 
 [← back to Veeva Systems](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Self-Describing Digit Sequence | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Iteration, Run-Length Encoding, Simulation, String, Two Pointers | Online Assessment (OA), Phone Screen, DSA/Coding Round | DSA | Asked at Veeva Systems | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=self-describing-digit-sequence-d38) |

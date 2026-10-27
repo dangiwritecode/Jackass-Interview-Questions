@@ -2,6 +2,8 @@
 
 [← back to Aqua Security](README.md)
 
+Questions 1–152 of 152.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A pod uses hostPath mounts to read node directories 'for logging.' Walk me through why hostPath is a container-escape and node-compromise risk, and the safer alternatives (DaemonSet with scoped mounts, sidecar log shipping) you'd mandate. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Aqua Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-pod-uses-hostpath-mounts-to-read-node-directories-for-logging-walk-m-47924) |
@@ -154,3 +156,5 @@
 | What's the trade-off between scanning in the registry (e.g. ECR scan-on-push) versus running your own scanner in CI? | deep understanding | SDE-1/2, SDE-2/3 | Container & Image Security Scanning | Phone Screen, Onsite | Tech | Asked at Aqua Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-the-trade-off-between-scanning-in-the-registry-e-g-ecr-scan-on--50551) |
 | You want to detect and alert on any process reading /etc/shadow or SSH keys across the fleet. How would you implement this with eBPF file-open hooks at scale? | deep understanding | SDE-1/2, SDE-2/3 | eBPF | Phone Screen, Onsite | Tech | Asked at Aqua Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-detect-and-alert-on-any-process-reading-etc-shadow-or-ssh--51890) |
 | You want to detect fork bombs or crypto-miners on nodes via eBPF. What process-lifecycle events would you hook and how do you avoid drowning in false positives? | deep understanding | SDE-1/2, SDE-2/3 | eBPF | Phone Screen, Onsite | Tech | Asked at Aqua Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-want-to-detect-fork-bombs-or-crypto-miners-on-nodes-via-ebpf-what--51873) |
+| Your gVisor or Kata Containers deployment trades security for performance — how do these sandboxing approaches change the syscall path versus a normal container? | expertise | SDE-1/2, SDE-2/3 | Operating Systems | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Aqua Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-gvisor-or-kata-containers-deployment-trades-security-for-performa-44977) |
+| How do you decide between fail-open and fail-closed for a scanning admission webhook, and what's the reliability trade-off? | deep understanding | SDE-1/2, SDE-2/3 | Container & Image Security Scanning | Phone Screen, Onsite | Tech | Asked at Aqua Security | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-between-fail-open-and-fail-closed-for-a-scanning-adm-50619) |

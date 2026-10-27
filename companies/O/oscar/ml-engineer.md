@@ -2,6 +2,8 @@
 
 [← back to Oscar](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | When your training platform serves regulated (finance/health) and unregulated products from one cluster, how do you partition the parallelism/checkpoint stack to satisfy both audit and speed? | expertise | SDE-2/3, Architect/Principal | Distributed Training (Data/Model Parallelism) | Phone Screen, Onsite | Tech | Asked at Oscar | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=when-your-training-platform-serves-regulated-finance-health-and-unregu-70739) |

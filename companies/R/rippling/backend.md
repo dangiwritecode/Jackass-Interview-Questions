@@ -2,6 +2,8 @@
 
 [← back to Rippling](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A microservice uses Circuit Breaker but during an incident it flapped between open and closed every few seconds, amplifying load. What tuning and metrics would you introduce to stabilize it? | expertise | SDE-1/2, SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Rippling | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-microservice-uses-circuit-breaker-but-during-an-incident-it-flapped--16514) |

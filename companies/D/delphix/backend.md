@@ -2,6 +2,8 @@
 
 [← back to Delphix](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A director proposes copying prod PII into staging so QA is realistic. As the principal reject or reshape this — architect a data-provisioning approach (synthetic data subsetting masking) that gives realistic test data with zero compliance exposure and quantify the trade-offs. | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at Delphix | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-director-proposes-copying-prod-pii-into-staging-so-qa-is-realistic-a-37279) |

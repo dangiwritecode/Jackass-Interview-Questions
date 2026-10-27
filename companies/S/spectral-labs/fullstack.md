@@ -2,6 +2,8 @@
 
 [← back to Spectral Labs](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design the gateway's role in enforcing org-wide API design linting (naming, verbs, status codes, idempotency semantics) as a deploy-time gate; how do you roll this out across teams with thousands of non-conforming existing endpoints without freezing delivery? | deep understanding | SDE-2/3, Architect/Principal | API Gateway | Phone Screen, Onsite | Tech | Asked at Spectral Labs | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-the-gateway-s-role-in-enforcing-org-wide-api-design-linting-nam-39608) |

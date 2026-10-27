@@ -2,6 +2,8 @@
 
 [← back to MediaTek](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Explain how merge sort works and why its worst-case is O(n log n). | intermediate experience | Fresher, SDE-1, SDE-1/2, SDE-2/3 | Data Structures & Algorithms | Online Assessment (OA), Phone Screen, DSA/Coding Round, Onsite, Hiring Manager | Tech | Asked at Semiconductors companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=explain-how-merge-sort-works-and-why-its-worst-case-is-o-n-log-n-20) |

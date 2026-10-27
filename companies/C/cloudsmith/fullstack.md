@@ -2,6 +2,8 @@
 
 [← back to Cloudsmith](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Your org is adopting OCI artifacts to distribute not just images but Helm charts, WASM modules, and policy bundles through one registry. As principal, how would you design the artifact-distribution and provenance model, and what governance stops the registry from becoming an unversioned dumping ground? | deep understanding | SDE-2/3, Architect/Principal | Kubernetes | Phone Screen, Onsite | Tech | Asked at Cloudsmith | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=your-org-is-adopting-oci-artifacts-to-distribute-not-just-images-but-h-39031) |

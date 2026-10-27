@@ -2,6 +2,8 @@
 
 [← back to ASML](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | The EU AI Act classifies one of your recommendation systems as high-risk. What technical controls, documentation artifacts, and platform changes do you put in place to demonstrate conformity? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at ASML | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=the-eu-ai-act-classifies-one-of-your-recommendation-systems-as-high-ri-71670) |

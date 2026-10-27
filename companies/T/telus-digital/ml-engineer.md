@@ -2,6 +2,8 @@
 
 [← back to TELUS Digital](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect governance over the human-in-the-loop data-labeling workforce that views raw PII to annotate ML training data — minimum-necessary exposure attribution and erasure for contractors you don't fully employ across a global vendor network? | deep understanding | SDE-2/3, Architect/Principal | Compliance & Governance (GDPR/SOC2/PCI) | Onsite, Hiring Manager | Tech | Asked at TELUS Digital | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-governance-over-the-human-in-the-loop-data-labeli-69992) |

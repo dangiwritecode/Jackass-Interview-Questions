@@ -2,6 +2,8 @@
 
 [← back to LanceDB](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a retrieval architecture that mixes a hot in-memory HNSW tier, a warm pgvector tier, and a cold quantized object-store tier, routed by an agent's recency and confidence needs. How do you hide cold-tier latency and keep the tiering transparent to product teams? | expertise | SDE-2/3, Architect/Principal | Vector Databases (Pinecone/pgvector) | Phone Screen, Onsite | Tech | Asked at LanceDB | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-retrieval-architecture-that-mixes-a-hot-in-memory-hnsw-tier-a-82468) |

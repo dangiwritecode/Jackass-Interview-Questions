@@ -2,6 +2,8 @@
 
 [← back to Slalom](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Describe how you'd run a proof-of-concept wave that validates landing zone, tooling, cutover runbook, and cost model before scaling to hundreds of apps. | deep understanding | SDE-2/3, Architect/Principal | Cloud Migration Strategy (6 Rs) | Onsite, Hiring Manager | Tech | Asked at Slalom | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=describe-how-you-d-run-a-proof-of-concept-wave-that-validates-landing--56597) |

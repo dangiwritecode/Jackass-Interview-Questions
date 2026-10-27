@@ -2,6 +2,8 @@
 
 [← back to MinIO](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you decide the org's default cloud storage architecture for the RAG corpus lifecycle — hot, warm, cold, and re-embed-on-model-change — so you don't get ambushed by retrieval-cost spikes when a model upgrade forces a full re-index? | deep understanding | SDE-2/3, Architect/Principal | Cloud Fundamentals | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at MinIO | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-decide-the-org-s-default-cloud-storage-architecture-for--82767) |

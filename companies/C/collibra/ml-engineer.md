@@ -2,6 +2,8 @@
 
 [← back to Collibra](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you build governance metrics into a data-mesh / feature-platform so that data-quality and lineage failures surface as governance signals, not just ML bugs? | deep understanding | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at Collibra | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-build-governance-metrics-into-a-data-mesh-feature-platform--71736) |

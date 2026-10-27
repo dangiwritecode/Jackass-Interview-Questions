@@ -2,6 +2,8 @@
 
 [← back to Gainsight](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What's your strategy for lifecycle-managing thousands of tiny per-customer models in a B2B SaaS product without an unmanageable ops burden? | expertise | SDE-2/3, Architect/Principal | Retraining & Lifecycle Strategy | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Gainsight | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-s-your-strategy-for-lifecycle-managing-thousands-of-tiny-per-cust-72441) |

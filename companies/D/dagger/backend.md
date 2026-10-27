@@ -2,6 +2,8 @@
 
 [← back to Dagger](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you give developers a fast local pipeline that mirrors CI closely enough to catch failures before pushing, without maintaining two divergent definitions of the build? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | CI/CD | Phone Screen, Onsite | Tech | Asked at Dagger | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-give-developers-a-fast-local-pipeline-that-mirrors-ci-cl-27026) |

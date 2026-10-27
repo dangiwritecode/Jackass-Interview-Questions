@@ -2,6 +2,8 @@
 
 [← back to Apna](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between putting SUM() OVER () and just SUM() with a GROUP BY in terms of how many rows you get back? | basic concept | Fresher, SDE-1/2, SDE-2/3 | Window Functions (SQL) | Online Assessment (OA), DSA/Coding Round, Onsite | Tech | Asked at Apna | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-putting-sum-over-and-just-sum-with-a-gr-118979) |

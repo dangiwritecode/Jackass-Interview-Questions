@@ -2,6 +2,8 @@
 
 [← back to AT&T](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a phased modernization program for a 15-year-old Teradata/Informatica warehouse serving 400 downstream reports. Combine strangler-fig, dual-run validation, and consumer-by-consumer cutover, and explain how you build confidence the new lakehouse gives identical numbers before you dare decommission the legacy. | expertise | SDE-2/3, Architect/Principal | Enterprise Architecture Patterns | Onsite, Hiring Manager | Tech | Asked at AT&T | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-phased-modernization-program-for-a-15-year-old-teradata-infor-125681) |

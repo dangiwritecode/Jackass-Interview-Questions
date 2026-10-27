@@ -2,6 +2,8 @@
 
 [← back to Unleash](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A feature-flag system can push config changes to production in seconds, and a poisoned flag could disable a security control fleet-wide. Threat-model this and design change-control and least-privilege around who can flip security-relevant flags. | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | Security Architecture & Threat Modeling (Zero Trust) | Onsite, Hiring Manager | Tech | Asked at Unleash | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-feature-flag-system-can-push-config-changes-to-production-in-seconds-47898) |

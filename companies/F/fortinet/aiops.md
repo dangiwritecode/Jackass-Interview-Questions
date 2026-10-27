@@ -2,6 +2,8 @@
 
 [← back to Fortinet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks you to identify the assumption in your streaming architecture that would fail first if the org suddenly went from one cloud to multi-cloud. What's cloud-coupled in your design, and how would you have designed to avoid it if you knew earlier? | expertise | SDE-2/3, Architect/Principal | Real-time Streaming Architecture | Phone Screen, Onsite | Tech | Asked at Security companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-you-to-identify-the-assumption-in-your-streaming-arc-100604) |

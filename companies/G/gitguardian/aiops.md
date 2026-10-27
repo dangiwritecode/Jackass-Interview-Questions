@@ -2,6 +2,8 @@
 
 [← back to GitGuardian](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the tension where security wants maximum log redaction and ML wants maximum detail — what standardized redaction/tokenization contract do you set? | expertise | SDE-2/3, Architect/Principal | AIOps Data Governance & Standardization | Onsite, Hiring Manager | Tech | Asked at GitGuardian | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-tension-where-security-wants-maximum-log-redacti-103137) |

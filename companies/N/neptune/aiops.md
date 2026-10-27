@@ -2,6 +2,8 @@
 
 [← back to Neptune](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you govern the model-lifecycle of the ML anomaly-detection models your AIOps platform runs across clouds so drift retraining and rollback are consistent and auditable everywhere? | expertise | SDE-2/3, Architect/Principal | Multi-Cloud Governance Frameworks | Onsite, Hiring Manager | Tech | Asked at Neptune | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-govern-the-model-lifecycle-of-the-ml-anomaly-detection-mode-100834) |

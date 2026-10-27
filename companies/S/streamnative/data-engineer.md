@@ -2,6 +2,8 @@
 
 [← back to StreamNative](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide build-vs-buy for the streaming-ingestion backbone — self-run Kafka/Pulsar vs MSK/Confluent Cloud vs cloud-native Kinesis/PubSub — when partition-rebalance toil and broker on-call land on your data-platform team while the managed premium is a seven-figure line item? | deep understanding | SDE-2/3, Architect/Principal | Build vs Buy Decisions | Onsite, Hiring Manager | Tech | Asked at StreamNative | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-build-vs-buy-for-the-streaming-ingestion-backbone-se-125820) |

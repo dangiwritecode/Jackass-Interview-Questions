@@ -2,6 +2,8 @@
 
 [← back to Oso](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you decide whether to standardize authorization on the Specification pattern in-code versus an external policy engine, framing the build-vs-buy over five years including audit, compliance, and policy-author ergonomics for non-engineers? | expertise | SDE-2/3, Architect/Principal | Design Patterns | Phone Screen, Onsite | Tech | Asked at Oso | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-decide-whether-to-standardize-authorization-on-the-specific-38507) |

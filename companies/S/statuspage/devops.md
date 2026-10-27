@@ -2,6 +2,8 @@
 
 [← back to Statuspage](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the org's incident-comms so internal stakeholders, the public status page, sales/support, and regulators all get consistent, correctly-scoped, timely updates from one source of truth during a major event? | expertise | SDE-2/3, Architect/Principal | Incident Management & On-call | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Statuspage | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-org-s-incident-comms-so-internal-stakeholders-53170) |

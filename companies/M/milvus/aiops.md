@@ -2,6 +2,8 @@
 
 [← back to Milvus](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you monitor for retrieval drift caused by a hot-shard or stale replica in your vector store rather than by data change? | deep understanding | SDE-1/2, SDE-2/3, Architect/Principal | LLM Observability (Prompt/Retrieval Drift) | Phone Screen, Onsite | Tech | Asked at Milvus | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-monitor-for-retrieval-drift-caused-by-a-hot-shard-or-stale--97846) |

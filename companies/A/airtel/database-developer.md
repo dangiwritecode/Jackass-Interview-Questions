@@ -2,6 +2,8 @@
 
 [← back to Airtel](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How do you architect the primary-key and merge-on-read strategy for a lakehouse table fed by CDC upserts from a sharded OLTP source with 500M mutations/day? Where does merge-on-read's read amplification force you back to copy-on-write, and what's the compaction cadence? | expertise | SDE-2/3, Architect/Principal | Data Architecture (Lakes/Warehouses/Mesh) | Phone Screen, Onsite, Hiring Manager | Tech | Asked at Airtel | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-do-you-architect-the-primary-key-and-merge-on-read-strategy-for-a--112644) |

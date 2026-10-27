@@ -2,6 +2,8 @@
 
 [← back to LMAX](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | You are reviewing a change that replaces a linked-list-backed queue with an array-backed ring buffer; what complexity and cache-locality arguments would justify or reject it? | expertise | SDE-1/2, SDE-2/3 | Time & Space Complexity | Online Assessment (OA), Phone Screen, DSA/Coding Round | Tech | Asked at LMAX | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=you-are-reviewing-a-change-that-replaces-a-linked-list-backed-queue-wi-16151) |

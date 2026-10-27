@@ -2,6 +2,8 @@
 
 [← back to HireVue](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | How would you design governance so that a model's fairness metrics are recomputed automatically whenever the input population distribution shifts, not on a fixed audit calendar? | expertise | SDE-2/3, Architect/Principal | AI Governance & Responsible AI | Onsite, Hiring Manager | Tech | Asked at HireVue | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=how-would-you-design-governance-so-that-a-model-s-fairness-metrics-are-86102) |

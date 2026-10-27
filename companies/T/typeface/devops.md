@@ -2,6 +2,8 @@
 
 [← back to Typeface](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | A bar-raiser asks: what's the failure mode you're most afraid of with Vault at your scale, and what's the second-order effect you've engineered defenses for? Talk me through it. | expertise | SDE-2/3, Architect/Principal | Secrets Management (Vault) | Phone Screen, Onsite | Tech | Asked at AI companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=a-bar-raiser-asks-what-s-the-failure-mode-you-re-most-afraid-of-with-v-54932) |

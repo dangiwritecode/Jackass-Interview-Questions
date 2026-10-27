@@ -2,6 +2,8 @@
 
 [← back to slice](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | What is the difference between SQL and NoSQL databases? When would you choose each? | basic concept | Fresher, SDE-1, SDE-2/3 | DBMS | Online Assessment (OA), Phone Screen, Onsite, Hiring Manager | Tech | Asked at Banking companies | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=what-is-the-difference-between-sql-and-nosql-databases-when-would-you--225) |

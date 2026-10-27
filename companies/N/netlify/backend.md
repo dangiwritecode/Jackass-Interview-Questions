@@ -2,6 +2,8 @@
 
 [← back to Netlify](README.md)
 
+Questions 1–107 of 107.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | An architecture dispute: the API team wants CORS to allow *.customer.example.com for white-label tenants; security flags subdomain-takeover risk. Adjudicate and design an alternative that keeps the white-label UX but removes the wildcard credentialed exposure. How do you win over the API team? | expertise | SDE-2/3, Architect/Principal | Web Security (XSS/CSRF/SQLi/CORS) | Online Assessment (OA), Phone Screen, Onsite | Tech | Asked at Netlify | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=an-architecture-dispute-the-api-team-wants-cors-to-allow-customer-exam-32858) |

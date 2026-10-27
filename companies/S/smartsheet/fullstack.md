@@ -2,6 +2,8 @@
 
 [← back to Smartsheet](README.md)
 
+Questions 1–60 of 60.
+
 | Question | Difficulty | Seniority | Tool / Technology | Interview Round | Question Bank | Why It Is Listed | Open in Locus |
 |---|---|---|---|---|---|---|---|
 | Design a spreadsheet's cell model with formulas that reference other cells. | deep understanding | Fresher, SDE-1, SDE-1/2, SDE-2/3, Architect/Principal | Low-Level Design (LLD) | DSA/Coding Round, Onsite | Tech | Asked at Smartsheet | [Open](https://skillmeet.ai/?tab=locus&view=questions&slug=design-a-spreadsheet-s-cell-model-with-formulas-that-reference-other-c-8960) |
