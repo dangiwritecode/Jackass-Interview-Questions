@@ -1,4 +1,4 @@
-# Jackass Interview Question
+# Jackass Interview Questions
 
 - **Companies:** 2,246
 - **Questions in the bank:** 130,998
