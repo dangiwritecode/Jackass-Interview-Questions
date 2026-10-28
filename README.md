@@ -4,13 +4,15 @@
 - **Questions in the bank:** 130,998
 - **Question entries listed here:** 2,740,802
 
+I personally recommend, login once where it redirects and then you can navigate from here to questions you are preparing for. GOOD LUCK!
+
 ## Companies A-Z
 
 [Popular](#popular) · [0-9](#0-9) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z)
 
 ### Popular
 
-The 200 companies that hire the most on the SkillMeet job board, most first. Every one of them is also listed in its own letter section below.
+The 200 companies. Every one of them is also listed in its own letter section below.
 
 | Company | Tier | Questions Listed | Tagged Directly |
 |---|---|---:|---:|
